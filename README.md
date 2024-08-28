@@ -8,7 +8,12 @@ The pnach format complies with the PCSX2 cheat manager so you can easily turn th
 
 If you know how to obtain a CRC from a PS2 iso using code, hit me up!
 
-Cheats included in this collection
+## How to use
+Extract the contents of cheats.zip into you PCSX2 "cheats" folder
+Manage the cheats using PCSX2(right click game > properties > cheats)
+
+
+## Cheats included in this collection
 
 | Game Title | Serial | CRC |
 |------------|--------|-----|
