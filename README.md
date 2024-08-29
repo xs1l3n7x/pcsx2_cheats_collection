@@ -14,11 +14,10 @@ Either click the green "<> Code" button and select "Download as zip" or https://
 
 Extract the contents of cheats folder within the .zip file into you PCSX2 "cheats" folder
 
-you can also cd into your PCSX folder and clone 
 
 ##### Manage the cheats using PCSX2(right click game > properties > cheats)
 
-## Complete List  - 8/28/2024
+## Complete List (563 games) - 8/28/2024
 
 | Game Title | Serial | CRC |
 |------------|--------|-----|
