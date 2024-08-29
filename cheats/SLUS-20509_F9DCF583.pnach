@@ -1,0 +1,79 @@
+gametitle=Sega Soccer Slam [SLUS-20509] [F9DCF583]
+
+[Always Low Lap Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Lap Time
+// Always Low Lap Time
+patch=1,EE,F03845B0,extended,003C8DE7
+
+[Infinite Turbo (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Turbo (All Players)
+// Infinite Turbo (All Players)
+patch=1,EE,2025F580,extended,00000000
+
+[Home Team Scores 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 50
+// Home Team Scores 50
+patch=1,EE,21D3B464,extended,00000032
+
+[Home Team Scores 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 20
+// Home Team Scores 20
+patch=1,EE,21D3B464,extended,00000014
+
+[Home Team Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 0
+// Home Team Scores 0
+patch=1,EE,21D3B464,extended,00000000
+
+[Away Team Scores 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 50
+// Away Team Scores 50
+patch=1,EE,21D3B468,extended,00000032
+
+[Away Team Scores 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 20
+// Away Team Scores 20
+patch=1,EE,21D3B468,extended,00000014
+
+[Away Team Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 0
+// Away Team Scores 0
+patch=1,EE,21D3B468,extended,00000000
+
+[All Goals Score For Home Team]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Goals Score For Home Team
+// All Goals Score For Home Team
+patch=1,EE,20290DB8,extended,24040000
+
+[All Goals Score For Away Team]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Goals Score For Away Team
+// All Goals Score For Away Team
+patch=1,EE,20290DB8,extended,24040004
+
+[Goal's Score 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goal's Score 10
+// Goal's Score 10
+patch=1,EE,10290DD4,extended,0000000A
+
+[Goal's Score 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goal's Score 5
+// Goal's Score 5
+patch=1,EE,10290DD4,extended,00000005
+
+[Goal's Score 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goal's Score 2
+// Goal's Score 2
+patch=1,EE,10290DD4,extended,00000002

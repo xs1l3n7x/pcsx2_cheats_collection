@@ -1,0 +1,181 @@
+gametitle=McFarlane's Evil Prophecy [SLUS-20657] [6798E3C9]
+
+[Have Cow Boxers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Cow Boxers
+// Have Cow Boxers
+patch=1,EE,90229604,extended,0C08FC51
+
+[Have All Monster Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Monster Cards
+// Have All Monster Cards
+patch=1,EE,40318A94,extended,00040001
+
+[Have All Monster Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Monster Cards
+// Have All Monster Cards
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Have All Movie Interviews]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Movie Interviews
+// Have All Movie Interviews
+patch=1,EE,20318AB4,extended,FFFFFFFF
+
+[Have All Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gallery
+// Have All Gallery
+patch=1,EE,20319B00,extended,FFFFFFFF
+
+[Max Record Hit Chain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Record Hit Chain
+// Max Record Hit Chain
+patch=1,EE,10318D38,extended,0000270F
+
+[Max Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Kills
+// Max Kills
+patch=1,EE,10318FF0,extended,0000270F
+
+[Max Hit Chain (Current)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Hit Chain (Current)
+// Max Hit Chain (Current)
+patch=1,EE,10319A06,extended,000003E7
+
+[Max Max Hit Chain (Overall)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Max Hit Chain (Overall)
+// Max Max Hit Chain (Overall)
+patch=1,EE,10319A08,extended,000003E7
+
+[Kills Worth 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kills Worth 100
+// Kills Worth 100
+patch=1,EE,101348E8,extended,00000064
+
+[Kills Worth 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kills Worth 50
+// Kills Worth 50
+patch=1,EE,101348E8,extended,00000032
+
+[Kills Worth 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kills Worth 10
+// Kills Worth 10
+patch=1,EE,101348E8,extended,0000000A
+
+[Kills Worth 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kills Worth 5
+// Kills Worth 5
+patch=1,EE,101348E8,extended,00000005
+
+[Kills Worth 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kills Worth 4
+// Kills Worth 4
+patch=1,EE,101348E8,extended,00000004
+
+[Kills Worth 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kills Worth 3
+// Kills Worth 3
+patch=1,EE,101348E8,extended,00000003
+
+[Kills Worth 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kills Worth 2
+// Kills Worth 2
+patch=1,EE,101348E8,extended,00000002
+
+[Infinite MP (All Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP (All Characters)
+// Infinite MP (All Characters)
+patch=1,EE,201382A4,extended,00000000
+
+[Infinite Ammo (All Characters-On Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo (All Characters-On Pickup)
+// Infinite Ammo (All Characters-On Pickup)
+patch=1,EE,20116E80,extended,00000000
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,102B2B86,extended,0000270F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,102B2B88,extended,0000270F
+
+[Infinite Ammo (On Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo (On Pickup)
+// Infinite Ammo (On Pickup)
+patch=1,EE,102B2C30,extended,00000006
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,102BF1E6,extended,0000270F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,102BF1E8,extended,0000270F
+
+[Infinite Ammo (On Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo (On Pickup)
+// Infinite Ammo (On Pickup)
+patch=1,EE,102BF290,extended,00000006
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,102CB846,extended,0000270F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,102CB848,extended,0000270F
+
+[Infinite Ammo (On Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo (On Pickup)
+// Infinite Ammo (On Pickup)
+patch=1,EE,102CB8F0,extended,00000006
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,102D7EA6,extended,0000270F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,102D7EA8,extended,0000270F
+
+[Infinite Ammo (On Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo (On Pickup)
+// Infinite Ammo (On Pickup)
+patch=1,EE,102D7F50,extended,00000006

@@ -1,0 +1,619 @@
+gametitle=Tekken 4 [SCES-50878] [2251E14D]
+
+[Start On Stage 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Stage 10
+// Start On Stage 10
+patch=1,EE,902937CC,extended,0C0A88C5
+
+[Infinite Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1
+// Infinite Health P1
+patch=1,EE,102A9C6E,extended,000000A5
+
+[75% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P1
+// 75% Health P1
+patch=1,EE,D02A9C6E,extended,000000A5
+
+[75% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P1
+// 75% Health P1
+patch=1,EE,102A9C6E,extended,0000007B
+
+[50% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P1
+// 50% Health P1
+patch=1,EE,D02A9C6E,extended,000000A5
+
+[50% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P1
+// 50% Health P1
+patch=1,EE,102A9C6E,extended,00000052
+
+[25% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P1
+// 25% Health P1
+patch=1,EE,D02A9C6E,extended,000000A5
+
+[25% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P1
+// 25% Health P1
+patch=1,EE,102A9C6E,extended,00000029
+
+[1-Hit Death P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P1
+// 1-Hit Death P1
+patch=1,EE,D02A9C6E,extended,000000A5
+
+[1-Hit Death P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P1
+// 1-Hit Death P1
+patch=1,EE,102A9C6E,extended,00000001
+
+[No Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P1
+// No Health P1
+patch=1,EE,102A9C6E,extended,00000000
+
+[P1 Needs 1 Win To Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Needs 1 Win To Win
+// P1 Needs 1 Win To Win
+patch=1,EE,D02A963E,extended,00000000
+
+[P1 Needs 1 Win To Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Needs 1 Win To Win
+// P1 Needs 1 Win To Win
+patch=1,EE,102A963E,extended,00000001
+
+[P1 Never Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Never Wins
+// P1 Never Wins
+patch=1,EE,102A963E,extended,00000000
+
+[Infinite Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2
+// Infinite Health P2
+patch=1,EE,102AAB8E,extended,000000A5
+
+[75% Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P2
+// 75% Health P2
+patch=1,EE,D02AAB8E,extended,000000A5
+
+[75% Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P2
+// 75% Health P2
+patch=1,EE,102AAB8E,extended,0000007B
+
+[50% Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P2
+// 50% Health P2
+patch=1,EE,D02AAB8E,extended,000000A5
+
+[50% Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P2
+// 50% Health P2
+patch=1,EE,102AAB8E,extended,00000052
+
+[25% Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P2
+// 25% Health P2
+patch=1,EE,D02AAB8E,extended,000000A5
+
+[25% Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P2
+// 25% Health P2
+patch=1,EE,102AAB8E,extended,00000029
+
+[1-Hit Death P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P2
+// 1-Hit Death P2
+patch=1,EE,D02AAB8E,extended,000000A5
+
+[1-Hit Death P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P2
+// 1-Hit Death P2
+patch=1,EE,102AAB8E,extended,00000001
+
+[No Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P2
+// No Health P2
+patch=1,EE,102AAB8E,extended,00000000
+
+[P2 Needs 1 Win To Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Needs 1 Win To Win
+// P2 Needs 1 Win To Win
+patch=1,EE,D02AA55E,extended,00000000
+
+[P2 Needs 1 Win To Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Needs 1 Win To Win
+// P2 Needs 1 Win To Win
+patch=1,EE,102AA55E,extended,00000001
+
+[P2 Never Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Never Wins
+// P2 Never Wins
+patch=1,EE,102AA55E,extended,00000000
+
+[P1 Press {L1}+{L2} For Death Blow On P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L2} For Death Blow On P2
+// P1 Press {L1}+{L2} For Death Blow On P2
+patch=1,EE,D0356020,extended,00000005
+
+[P1 Press {L1}+{L2} For Death Blow On P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L2} For Death Blow On P2
+// P1 Press {L1}+{L2} For Death Blow On P2
+patch=1,EE,102AAB8E,extended,00000000
+
+[P2 Press {L1}+{L2} For Death Blow On P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{L2} For Death Blow On P1
+// P2 Press {L1}+{L2} For Death Blow On P1
+patch=1,EE,D0356020,extended,00000005
+
+[P2 Press {L1}+{L2} For Death Blow On P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{L2} For Death Blow On P1
+// P2 Press {L1}+{L2} For Death Blow On P1
+patch=1,EE,102A9C6E,extended,00000000
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,10356064,extended,00001788
+
+[Hit Anywhere P1 & P2 Cant Hit P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Anywhere P1 & P2 Cant Hit P1
+// Hit Anywhere P1 & P2 Cant Hit P1
+patch=1,EE,201A5C30,extended,12130024
+
+[Hit Anywhere P2 & P1 Cant Hit P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Anywhere P2 & P1 Cant Hit P2
+// Hit Anywhere P2 & P1 Cant Hit P2
+patch=1,EE,201A5C30,extended,16130024
+
+[Hit Anywhere (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Anywhere (Both Players)
+// Hit Anywhere (Both Players)
+patch=1,EE,201A5C30,extended,00000000
+
+[Disable All Blocking (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable All Blocking (Both Players)
+// Disable All Blocking (Both Players)
+patch=1,EE,201A4894,extended,1000000C
+
+[Infinite Health (Tekken Force Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Tekken Force Mode)
+// Infinite Health (Tekken Force Mode)
+patch=1,EE,102A9C6E,extended,00000108
+
+[Enable All Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enable All Movies
+// Enable All Movies
+patch=1,EE,2036C300,extended,FFFFFFFF
+
+[Enable Theater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enable Theater
+// Enable Theater
+patch=1,EE,0036C32D,extended,00000001
+
+[Always Low Total Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Time
+// Always Low Total Time
+patch=1,EE,202A8C30,extended,00000000
+
+[Start On 2nd To Last Stage (Story Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On 2nd To Last Stage (Story Mode)
+// Start On 2nd To Last Stage (Story Mode)
+patch=1,EE,D02A8C28,extended,00000000
+
+[Start On 2nd To Last Stage (Story Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On 2nd To Last Stage (Story Mode)
+// Start On 2nd To Last Stage (Story Mode)
+patch=1,EE,102A8C28,extended,00000007
+
+[Start On Last Stage (Story Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Last Stage (Story Mode)
+// Start On Last Stage (Story Mode)
+patch=1,EE,D02A8C28,extended,00000000
+
+[Start On Last Stage (Story Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Last Stage (Story Mode)
+// Start On Last Stage (Story Mode)
+patch=1,EE,102A8C28,extended,00000008
+
+[Quick Score Gain (Tekken Force Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain (Tekken Force Mode)
+// Quick Score Gain (Tekken Force Mode)
+patch=1,EE,2025CD34,extended,2442270F
+
+[Quick Score Gain (Tekken Force Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain (Tekken Force Mode)
+// Quick Score Gain (Tekken Force Mode)
+patch=1,EE,2025CE84,extended,2442270F
+
+[Max Score (Tekken Force Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score (Tekken Force Mode)
+// Max Score (Tekken Force Mode)
+patch=1,EE,20260920,extended,3C03000F
+
+[Max Score (Tekken Force Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score (Tekken Force Mode)
+// Max Score (Tekken Force Mode)
+patch=1,EE,20260924,extended,3463423F
+
+[Max Score (Tekken Force Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score (Tekken Force Mode)
+// Max Score (Tekken Force Mode)
+patch=1,EE,20260928,extended,AE631780
+
+[Max Wins (Survival Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wins (Survival Mode)
+// Max Wins (Survival Mode)
+patch=1,EE,202A8C48,extended,000003E7
+
+[Enable Statue Stage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enable Statue Stage
+// Enable Statue Stage
+patch=1,EE,0036C311,extended,000000FF
+
+[Enable Non-Maru Stage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enable Non-Maru Stage
+// Enable Non-Maru Stage
+patch=1,EE,0036C312,extended,000000FF
+
+[P1 Always Have Gold Charged Up Fists]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Always Have Gold Charged Up Fists
+// P1 Always Have Gold Charged Up Fists
+patch=1,EE,102A9878,extended,000003E7
+
+[P1 Never Has Golden Charged Up Fists]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Never Has Golden Charged Up Fists
+// P1 Never Has Golden Charged Up Fists
+patch=1,EE,102A9878,extended,00000000
+
+[P1 Always Have Normal Charged Up Fists]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Always Have Normal Charged Up Fists
+// P1 Always Have Normal Charged Up Fists
+patch=1,EE,102A987A,extended,000003E7
+
+[P1 Never Has Normal Charged Up Fists]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Never Has Normal Charged Up Fists
+// P1 Never Has Normal Charged Up Fists
+patch=1,EE,102A987A,extended,00000000
+
+[P2 Always Have Gold Charged Up Fists]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Always Have Gold Charged Up Fists
+// P2 Always Have Gold Charged Up Fists
+patch=1,EE,102AA798,extended,000003E7
+
+[P2 Never Has Golden Charged Up Fists]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Never Has Golden Charged Up Fists
+// P2 Never Has Golden Charged Up Fists
+patch=1,EE,102AA798,extended,00000000
+
+[P2 Always Have Normal Charged Up Fists]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Always Have Normal Charged Up Fists
+// P2 Always Have Normal Charged Up Fists
+patch=1,EE,102AA79A,extended,000003E7
+
+[P2 Never Has Normal Charged Up Fists]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Never Has Normal Charged Up Fists
+// P2 Never Has Normal Charged Up Fists
+patch=1,EE,102AA79A,extended,00000000
+
+[Invisible Players]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisible Players
+// Invisible Players
+patch=1,EE,101824BC,extended,00000000
+
+[Players Fight Off Above The Ground]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Players Fight Off Above The Ground
+// Players Fight Off Above The Ground
+patch=1,EE,101828B8,extended,00003FC0
+
+[Players Fight High Above The Ground]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Players Fight High Above The Ground
+// Players Fight High Above The Ground
+patch=1,EE,101828B8,extended,00004000
+
+[Players Fight Super High Above The Ground]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Players Fight Super High Above The Ground
+// Players Fight Super High Above The Ground
+patch=1,EE,101828B8,extended,00004080
+
+[Invisible Legs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisible Legs
+// Invisible Legs
+patch=1,EE,10186EE0,extended,00000000
+
+[Super Small Legs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Small Legs
+// Super Small Legs
+patch=1,EE,10186EE0,extended,00003F40
+
+[Small Legs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Small Legs
+// Small Legs
+patch=1,EE,10186EE0,extended,00003F60
+
+[Big Legs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Legs
+// Big Legs
+patch=1,EE,10186EE0,extended,00003FA0
+
+[Huge Legs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Legs
+// Huge Legs
+patch=1,EE,10186EE0,extended,00003FB0
+
+[Invisible Lower Legs (About Knees Down)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisible Lower Legs (About Knees Down)
+// Invisible Lower Legs (About Knees Down)
+patch=1,EE,1018726C,extended,00000000
+
+[Super Small Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Small Feet
+// Super Small Feet
+patch=1,EE,1018726C,extended,00003F00
+
+[Small Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Small Feet
+// Small Feet
+patch=1,EE,1018726C,extended,00003F40
+
+[Big Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Feet
+// Big Feet
+patch=1,EE,1018726C,extended,00003FA0
+
+[Super Huge Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Huge Feet
+// Super Huge Feet
+patch=1,EE,1018726C,extended,00003FC0
+
+[Invisible Head/Torso]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisible Head/Torso
+// Invisible Head/Torso
+patch=1,EE,1018D9E0,extended,00004060
+
+[Super Small Head/Torso]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Small Head/Torso
+// Super Small Head/Torso
+patch=1,EE,1018D9E0,extended,00004020
+
+[Small Head/Torso]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Small Head/Torso
+// Small Head/Torso
+patch=1,EE,1018D9E0,extended,00003FC0
+
+[Big Head/Torso]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Head/Torso
+// Big Head/Torso
+patch=1,EE,1018D9E0,extended,00003F40
+
+[Super Huge Head/Torso]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Huge Head/Torso
+// Super Huge Head/Torso
+patch=1,EE,1018D9E0,extended,00003F20
+
+[Xiaoyu/Miharu Have No Skirt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xiaoyu/Miharu Have No Skirt
+// Xiaoyu/Miharu Have No Skirt
+patch=1,EE,101925E4,extended,00007FFF
+
+[Camera Always Far Back]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Camera Always Far Back
+// Camera Always Far Back
+patch=1,EE,20355530,extended,41000000
+
+[Camera Always Close Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Camera Always Close Up
+// Camera Always Close Up
+patch=1,EE,20355530,extended,40000000
+
+[Airport]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Airport
+// Airport
+patch=1,EE,10357D5C,extended,00000000
+
+[Building]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Building
+// Building
+patch=1,EE,10357D5C,extended,00000001
+
+[Mall]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mall
+// Mall
+patch=1,EE,10357D5C,extended,00000002
+
+[Jungle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jungle
+// Jungle
+patch=1,EE,10357D5C,extended,00000003
+
+[Shinjuku]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shinjuku
+// Shinjuku
+patch=1,EE,10357D5C,extended,00000004
+
+[Beach]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Beach
+// Beach
+patch=1,EE,10357D5C,extended,00000005
+
+[Laboratory]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Laboratory
+// Laboratory
+patch=1,EE,10357D5C,extended,00000006
+
+[Parking Area]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Parking Area
+// Parking Area
+patch=1,EE,10357D5C,extended,00000007
+
+[Underground]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Underground
+// Underground
+patch=1,EE,10357D5C,extended,00000008
+
+[Arena]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arena
+// Arena
+patch=1,EE,10357D5C,extended,00000009
+
+[Statue]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Statue
+// Statue
+patch=1,EE,10357D5C,extended,0000000A
+
+[Statue 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Statue 2
+// Statue 2
+patch=1,EE,10357D5C,extended,0000000B
+
+[Non-Maru]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Non-Maru
+// Non-Maru
+patch=1,EE,10357D5C,extended,00000010
+
+[Background Type A (If Available)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Background Type A (If Available)
+// Background Type A (If Available)
+patch=1,EE,2036C494,extended,00000000
+
+[Always Play Background B (If Available)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Play Background B (If Available)
+// Always Play Background B (If Available)
+patch=1,EE,2036C494,extended,00000001
+
+[Always Play Background C (If Available)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Play Background C (If Available)
+// Always Play Background C (If Available)
+patch=1,EE,2036C494,extended,00000002
+
+[Enable All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enable All Characters
+// Enable All Characters
+patch=1,EE,2036C318,extended,FFFFFFFF
+
+[Enable All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enable All Characters
+// Enable All Characters
+patch=1,EE,2036C31C,extended,FFFFFFFF
+
+[Enable All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enable All Characters
+// Enable All Characters
+patch=1,EE,2036C320,extended,FFFFFFFF
+
+[Enable All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enable All Characters
+// Enable All Characters
+patch=1,EE,2036C324,extended,FFFFFFFF
+
+[Enable All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enable All Characters
+// Enable All Characters
+patch=1,EE,2036C328,extended,FFFFFFFF

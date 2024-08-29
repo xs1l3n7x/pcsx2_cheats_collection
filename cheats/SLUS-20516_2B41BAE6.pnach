@@ -1,0 +1,109 @@
+gametitle=Shrek Super Party [SLUS-20516] [2B41BAE6]
+
+[All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Characters
+// All Characters
+patch=1,EE,F0100008,extended,00215437
+
+[Max Overall Score P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Overall Score P1
+// Max Overall Score P1
+patch=1,EE,10670174,extended,000003E7
+
+[No Overall Score P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Overall Score P1
+// No Overall Score P1
+patch=1,EE,10670174,extended,00000000
+
+[Max Overall Score P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Overall Score P2
+// Max Overall Score P2
+patch=1,EE,106701F4,extended,000003E7
+
+[No Overall Score P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Overall Score P2
+// No Overall Score P2
+patch=1,EE,106701F4,extended,00000000
+
+[Max Overall Score P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Overall Score P3
+// Max Overall Score P3
+patch=1,EE,10670274,extended,000003E7
+
+[No Overall Score P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Overall Score P3
+// No Overall Score P3
+patch=1,EE,10670274,extended,00000000
+
+[Max Overall Score P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Overall Score P4
+// Max Overall Score P4
+patch=1,EE,106702F4,extended,000003E7
+
+[No Overall Score P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Overall Score P4
+// No Overall Score P4
+patch=1,EE,106702F4,extended,00000000
+
+[Max Score P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P1
+// Max Score P1
+patch=1,EE,1026A34C,extended,000003E7
+
+[No Score P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Score P1
+// No Score P1
+patch=1,EE,1026A34C,extended,00000000
+
+[Max Score P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P2
+// Max Score P2
+patch=1,EE,1026A350,extended,000003E7
+
+[No Score P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Score P2
+// No Score P2
+patch=1,EE,1026A350,extended,00000000
+
+[Max Score P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P3
+// Max Score P3
+patch=1,EE,1026A354,extended,000003E7
+
+[No Score P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Score P3
+// No Score P3
+patch=1,EE,1026A354,extended,00000000
+
+[Max Score P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P4
+// Max Score P4
+patch=1,EE,1026A358,extended,000003E7
+
+[No Score P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Score P4
+// No Score P4
+patch=1,EE,1026A358,extended,00000000
+
+[Hella Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hella Score Gain
+// Hella Score Gain
+patch=1,EE,202073AC,extended,24420032

@@ -1,0 +1,7 @@
+gametitle=Tokyo Xtreme Racer 3 [UNKNOWN] [117D1977]
+
+[Money]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Money
+// Money
+patch=1,EE,2079EC0C,extended,00989680

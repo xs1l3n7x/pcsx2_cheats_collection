@@ -1,0 +1,139 @@
+gametitle=Tom Clancy's Rainbow Six 3 [SLUS-20883] [21CC1EC3]
+
+[P2 Press {L2}+Left To Deactivate Walk Thru Walls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L2}+Left To Deactivate Walk Thru Walls
+// P2 Press {L2}+Left To Deactivate Walk Thru Walls
+patch=1,EE,9013585C,extended,0C04ADCC
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,E00300DC,extended,003E82F4
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,203E82F8,extended,2403005C
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,203E82FC,extended,AC430630
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,103E8302,extended,00001000
+
+[Infinite Health (Partners)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Partners)
+// Infinite Health (Partners)
+patch=1,EE,E00501B0,extended,003E9B10
+
+[Infinite Health (Partners)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Partners)
+// Infinite Health (Partners)
+patch=1,EE,200C0230,extended,02912021
+
+[Infinite Health (Partners)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Partners)
+// Infinite Health (Partners)
+patch=1,EE,200C0234,extended,24010034
+
+[Infinite Health (Partners)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Partners)
+// Infinite Health (Partners)
+patch=1,EE,200C0238,extended,03E00008
+
+[Infinite Health (Partners)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Partners)
+// Infinite Health (Partners)
+patch=1,EE,200C023C,extended,AC610630
+
+[Infinite Health (Partners)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Partners)
+// Infinite Health (Partners)
+patch=1,EE,203E9B14,extended,0C03008C
+
+[Never Reload (Equipped Weapon)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload (Equipped Weapon)
+// Never Reload (Equipped Weapon)
+patch=1,EE,E00200F8,extended,003E89D8
+
+[Never Reload (Equipped Weapon)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload (Equipped Weapon)
+// Never Reload (Equipped Weapon)
+patch=1,EE,203E89E0,extended,24040063
+
+[Never Reload (Equipped Weapon)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload (Equipped Weapon)
+// Never Reload (Equipped Weapon)
+patch=1,EE,203E89E8,extended,A0440372
+
+[Max Infinite Clips (Equipped Weapon)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Clips (Equipped Weapon)
+// Max Infinite Clips (Equipped Weapon)
+patch=1,EE,E00200F8,extended,003E912C
+
+[Max Infinite Clips (Equipped Weapon)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Clips (Equipped Weapon)
+// Max Infinite Clips (Equipped Weapon)
+patch=1,EE,203E9130,extended,24010063
+
+[Max Infinite Clips (Equipped Weapon)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Clips (Equipped Weapon)
+// Max Infinite Clips (Equipped Weapon)
+patch=1,EE,203E9138,extended,AC41037C
+
+[Infinite Clips (MP5A4-9MM Only)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Clips (MP5A4-9MM Only)
+// Infinite Clips (MP5A4-9MM Only)
+patch=1,EE,D03F0B68,extended,00009900
+
+[Infinite Clips (MP5A4-9MM Only)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Clips (MP5A4-9MM Only)
+// Infinite Clips (MP5A4-9MM Only)
+patch=1,EE,203F0B80,extended,00000000
+
+[Extra Clips (MP5A4-9MM Only)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Clips (MP5A4-9MM Only)
+// Extra Clips (MP5A4-9MM Only)
+patch=1,EE,D03F0B68,extended,00009900
+
+[Extra Clips (MP5A4-9MM Only)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Clips (MP5A4-9MM Only)
+// Extra Clips (MP5A4-9MM Only)
+patch=1,EE,103F0B7C,extended,00000001
+
+[Never Reload (MP5A4-9MM Only)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload (MP5A4-9MM Only)
+// Never Reload (MP5A4-9MM Only)
+patch=1,EE,D03F0ADC,extended,0000C318
+
+[Never Reload (MP5A4-9MM Only)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload (MP5A4-9MM Only)
+// Never Reload (MP5A4-9MM Only)
+patch=1,EE,203F0AEC,extended,00000000

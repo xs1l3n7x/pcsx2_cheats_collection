@@ -1,0 +1,295 @@
+gametitle=Ferrari F355 Challenge [SCES-50956] [A0DB0FE6]
+
+[All Notes Codes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Notes Codes
+// All Notes Codes
+patch=1,EE,F0100008,extended,001D133F
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,203700AC,extended,00000F85
+
+[Always Low Lap Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Lap Time
+// Always Low Lap Time
+patch=1,EE,203700B0,extended,00000000
+
+[P1 Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Start On Lap 2
+// P1 Start On Lap 2
+patch=1,EE,D0372388,extended,00000000
+
+[P1 Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Start On Lap 2
+// P1 Start On Lap 2
+patch=1,EE,20372388,extended,00010001
+
+[P1 Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Start On Lap 3
+// P1 Start On Lap 3
+patch=1,EE,D0372388,extended,00000000
+
+[P1 Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Start On Lap 3
+// P1 Start On Lap 3
+patch=1,EE,20372388,extended,00020002
+
+[P1 Start On Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Start On Lap 4
+// P1 Start On Lap 4
+patch=1,EE,D0372388,extended,00000000
+
+[P1 Start On Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Start On Lap 4
+// P1 Start On Lap 4
+patch=1,EE,20372388,extended,00030003
+
+[P2 Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Start On Lap 2
+// P2 Start On Lap 2
+patch=1,EE,D0372A78,extended,00000000
+
+[P2 Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Start On Lap 2
+// P2 Start On Lap 2
+patch=1,EE,20372A78,extended,00010001
+
+[P2 Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Start On Lap 3
+// P2 Start On Lap 3
+patch=1,EE,D0372A78,extended,00000000
+
+[P2 Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Start On Lap 3
+// P2 Start On Lap 3
+patch=1,EE,20372A78,extended,00020002
+
+[P2 Start On Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Start On Lap 4
+// P2 Start On Lap 4
+patch=1,EE,D0372A78,extended,00000000
+
+[P2 Start On Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Start On Lap 4
+// P2 Start On Lap 4
+patch=1,EE,20372A78,extended,00030003
+
+[No. 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 1
+// No. 1
+patch=1,EE,2043160C,extended,00000001
+
+[No. 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 2
+// No. 2
+patch=1,EE,204315B8,extended,00000001
+
+[No. 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 3
+// No. 3
+patch=1,EE,2043175C,extended,00000001
+
+[No. 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 4
+// No. 4
+patch=1,EE,20431708,extended,00000001
+
+[No. 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 5
+// No. 5
+patch=1,EE,20431660,extended,00000001
+
+[No. 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 6
+// No. 6
+patch=1,EE,204316B4,extended,00000001
+
+[No. 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 7
+// No. 7
+patch=1,EE,20431954,extended,00000001
+
+[No. 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 8
+// No. 8
+patch=1,EE,20431858,extended,00000001
+
+[No. 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 9
+// No. 9
+patch=1,EE,204318AC,extended,00000001
+
+[No. 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 10
+// No. 10
+patch=1,EE,20431900,extended,00000001
+
+[No. 11 & 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 11 & 12
+// No. 11 & 12
+patch=1,EE,20431804,extended,00000001
+
+[No. 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 13
+// No. 13
+patch=1,EE,204319FC,extended,00000001
+
+[No. 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 14
+// No. 14
+patch=1,EE,204319A8,extended,00000001
+
+[No. 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 15
+// No. 15
+patch=1,EE,20431B4C,extended,00000001
+
+[No. 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 16
+// No. 16
+patch=1,EE,20431AF8,extended,00000001
+
+[No. 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 17
+// No. 17
+patch=1,EE,20431A50,extended,00000001
+
+[No. 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 18
+// No. 18
+patch=1,EE,20431AA4,extended,00000001
+
+[No. 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 19
+// No. 19
+patch=1,EE,20431D44,extended,00000001
+
+[No. 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 20
+// No. 20
+patch=1,EE,20431C48,extended,00000001
+
+[No. 21]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 21
+// No. 21
+patch=1,EE,20431C9C,extended,00000001
+
+[No. 22 & 23]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 22 & 23
+// No. 22 & 23
+patch=1,EE,20431CF0,extended,00000001
+
+[No. 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 24
+// No. 24
+patch=1,EE,20431D98,extended,00000001
+
+[No. 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 25
+// No. 25
+patch=1,EE,20431DEC,extended,00000001
+
+[No. 26 & 27]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 26 & 27
+// No. 26 & 27
+patch=1,EE,20431E40,extended,00000001
+
+[No. 28]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 28
+// No. 28
+patch=1,EE,204321DC,extended,00000001
+
+[No. 29]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 29
+// No. 29
+patch=1,EE,20432188,extended,00000001
+
+[No. 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 30
+// No. 30
+patch=1,EE,2043232C,extended,00000001
+
+[No. 31]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 31
+// No. 31
+patch=1,EE,204322D8,extended,00000001
+
+[No. 32]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 32
+// No. 32
+patch=1,EE,20432230,extended,00000001
+
+[No. 33]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 33
+// No. 33
+patch=1,EE,20432284,extended,00000001
+
+[No. 34]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 34
+// No. 34
+patch=1,EE,20432524,extended,00000001
+
+[No. 35]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 35
+// No. 35
+patch=1,EE,20432428,extended,00000001
+
+[No. 36]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 36
+// No. 36
+patch=1,EE,2043247C,extended,00000001
+
+[No. 37, 38 & 39]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No. 37, 38 & 39
+// No. 37, 38 & 39
+patch=1,EE,204324D0,extended,00000001

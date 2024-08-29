@@ -1,0 +1,2989 @@
+gametitle=NHL 2003 [SLUS-20531] [E4A3E3CF]
+
+[P20 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P20 Hero (Player)
+// P20 Hero (Player)
+patch=1,EE,901760AC,extended,0C064FD1
+
+[Home Team Scores 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 50
+// Home Team Scores 50
+patch=1,EE,103CFFF6,extended,00000032
+
+[Home Team Scores 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 20
+// Home Team Scores 20
+patch=1,EE,103CFFF6,extended,00000014
+
+[Home Team Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 0
+// Home Team Scores 0
+patch=1,EE,103CFFF6,extended,00000000
+
+[Home Team Start With Score 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With Score 50
+// Home Team Start With Score 50
+patch=1,EE,D03CFFF6,extended,00000000
+
+[Home Team Start With Score 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With Score 50
+// Home Team Start With Score 50
+patch=1,EE,103CFFF6,extended,00000032
+
+[Home Team Start With Score 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With Score 20
+// Home Team Start With Score 20
+patch=1,EE,D03CFFF6,extended,00000000
+
+[Home Team Start With Score 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With Score 20
+// Home Team Start With Score 20
+patch=1,EE,103CFFF6,extended,00000014
+
+[Home Team Start With Score 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With Score 10
+// Home Team Start With Score 10
+patch=1,EE,D03CFFF6,extended,00000000
+
+[Home Team Start With Score 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With Score 10
+// Home Team Start With Score 10
+patch=1,EE,103CFFF6,extended,0000000A
+
+[Home Team Start With Score 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With Score 5
+// Home Team Start With Score 5
+patch=1,EE,D03CFFF6,extended,00000000
+
+[Home Team Start With Score 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With Score 5
+// Home Team Start With Score 5
+patch=1,EE,103CFFF6,extended,00000005
+
+[Away Team Scores 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 50
+// Away Team Scores 50
+patch=1,EE,103D0052,extended,00000032
+
+[Away Team Scores 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 20
+// Away Team Scores 20
+patch=1,EE,103D0052,extended,00000014
+
+[Away Team Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 0
+// Away Team Scores 0
+patch=1,EE,103D0052,extended,00000000
+
+[Away Team Start With Score 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With Score 50
+// Away Team Start With Score 50
+patch=1,EE,D03D0052,extended,00000000
+
+[Away Team Start With Score 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With Score 50
+// Away Team Start With Score 50
+patch=1,EE,103D0052,extended,00000032
+
+[Away Team Start With Score 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With Score 20
+// Away Team Start With Score 20
+patch=1,EE,D03D0052,extended,00000000
+
+[Away Team Start With Score 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With Score 20
+// Away Team Start With Score 20
+patch=1,EE,103D0052,extended,00000014
+
+[Away Team Start With Score 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With Score 10
+// Away Team Start With Score 10
+patch=1,EE,D03D0052,extended,00000000
+
+[Away Team Start With Score 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With Score 10
+// Away Team Start With Score 10
+patch=1,EE,103D0052,extended,0000000A
+
+[Away Team Start With Score 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With Score 5
+// Away Team Start With Score 5
+patch=1,EE,D03D0052,extended,00000000
+
+[Away Team Start With Score 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With Score 5
+// Away Team Start With Score 5
+patch=1,EE,103D0052,extended,00000005
+
+[Goal's Score 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goal's Score 10
+// Goal's Score 10
+patch=1,EE,1031050C,extended,0000000A
+
+[Goal's Score 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goal's Score 5
+// Goal's Score 5
+patch=1,EE,1031050C,extended,00000005
+
+[Goal's Score 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goal's Score 2
+// Goal's Score 2
+patch=1,EE,1031050C,extended,00000002
+
+[P1 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L2} For More Time
+// P1 Press {L1}+{L2} For More Time
+patch=1,EE,D044AC82,extended,0000FAFF
+
+[P1 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L2} For More Time
+// P1 Press {L1}+{L2} For More Time
+patch=1,EE,10442060,extended,000004B0
+
+[P1 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{R2} To End Period
+// P1 Press {R1}+{R2} To End Period
+patch=1,EE,D044AC82,extended,0000F5FF
+
+[P1 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{R2} To End Period
+// P1 Press {R1}+{R2} To End Period
+patch=1,EE,10442060,extended,00000001
+
+[P2 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{L2} For More Time
+// P2 Press {L1}+{L2} For More Time
+patch=1,EE,D044AD82,extended,0000FAFF
+
+[P2 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{L2} For More Time
+// P2 Press {L1}+{L2} For More Time
+patch=1,EE,10442060,extended,000004B0
+
+[P2 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {R1}+{R2} To End Period
+// P2 Press {R1}+{R2} To End Period
+patch=1,EE,D044AD82,extended,0000F5FF
+
+[P2 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {R1}+{R2} To End Period
+// P2 Press {R1}+{R2} To End Period
+patch=1,EE,10442060,extended,00000001
+
+[P3 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L1}+{L2} For More Time
+// P3 Press {L1}+{L2} For More Time
+patch=1,EE,D044AE82,extended,0000FAFF
+
+[P3 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L1}+{L2} For More Time
+// P3 Press {L1}+{L2} For More Time
+patch=1,EE,10442060,extended,000004B0
+
+[P3 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {R1}+{R2} To End Period
+// P3 Press {R1}+{R2} To End Period
+patch=1,EE,D044AE82,extended,0000F5FF
+
+[P3 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {R1}+{R2} To End Period
+// P3 Press {R1}+{R2} To End Period
+patch=1,EE,10442060,extended,00000001
+
+[P4 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L1}+{L2} For More Time
+// P4 Press {L1}+{L2} For More Time
+patch=1,EE,D044AF82,extended,0000FAFF
+
+[P4 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L1}+{L2} For More Time
+// P4 Press {L1}+{L2} For More Time
+patch=1,EE,10442060,extended,000004B0
+
+[P4 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {R1}+{R2} To End Period
+// P4 Press {R1}+{R2} To End Period
+patch=1,EE,D044AF82,extended,0000F5FF
+
+[P4 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {R1}+{R2} To End Period
+// P4 Press {R1}+{R2} To End Period
+patch=1,EE,10442060,extended,00000001
+
+[P5 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L1}+{L2} For More Time
+// P5 Press {L1}+{L2} For More Time
+patch=1,EE,D044B082,extended,0000FAFF
+
+[P5 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L1}+{L2} For More Time
+// P5 Press {L1}+{L2} For More Time
+patch=1,EE,10442060,extended,000004B0
+
+[P5 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {R1}+{R2} To End Period
+// P5 Press {R1}+{R2} To End Period
+patch=1,EE,D044B082,extended,0000F5FF
+
+[P5 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {R1}+{R2} To End Period
+// P5 Press {R1}+{R2} To End Period
+patch=1,EE,10442060,extended,00000001
+
+[P6 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L1}+{L2} For More Time
+// P6 Press {L1}+{L2} For More Time
+patch=1,EE,D044B182,extended,0000FAFF
+
+[P6 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L1}+{L2} For More Time
+// P6 Press {L1}+{L2} For More Time
+patch=1,EE,10442060,extended,000004B0
+
+[P6 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {R1}+{R2} To End Period
+// P6 Press {R1}+{R2} To End Period
+patch=1,EE,D044B182,extended,0000F5FF
+
+[P6 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {R1}+{R2} To End Period
+// P6 Press {R1}+{R2} To End Period
+patch=1,EE,10442060,extended,00000001
+
+[P7 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L1}+{L2} For More Time
+// P7 Press {L1}+{L2} For More Time
+patch=1,EE,D044B282,extended,0000FAFF
+
+[P7 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L1}+{L2} For More Time
+// P7 Press {L1}+{L2} For More Time
+patch=1,EE,10442060,extended,000004B0
+
+[P7 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {R1}+{R2} To End Period
+// P7 Press {R1}+{R2} To End Period
+patch=1,EE,D044B282,extended,0000F5FF
+
+[P7 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {R1}+{R2} To End Period
+// P7 Press {R1}+{R2} To End Period
+patch=1,EE,10442060,extended,00000001
+
+[P8 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L1}+{L2} For More Time
+// P8 Press {L1}+{L2} For More Time
+patch=1,EE,D044B382,extended,0000FAFF
+
+[P8 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L1}+{L2} For More Time
+// P8 Press {L1}+{L2} For More Time
+patch=1,EE,10442060,extended,000004B0
+
+[P8 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {R1}+{R2} To End Period
+// P8 Press {R1}+{R2} To End Period
+patch=1,EE,D044B382,extended,0000F5FF
+
+[P8 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {R1}+{R2} To End Period
+// P8 Press {R1}+{R2} To End Period
+patch=1,EE,10442060,extended,00000001
+
+[P1 Press {L1}+{SELECT} For 1st Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For 1st Period
+// P1 Press {L1}+{SELECT} For 1st Period
+patch=1,EE,D044AC82,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} For 1st Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For 1st Period
+// P1 Press {L1}+{SELECT} For 1st Period
+patch=1,EE,20442078,extended,00010001
+
+[P1 Press {L2}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For 2nd Period
+// P1 Press {L2}+{SELECT} For 2nd Period
+patch=1,EE,D044AC82,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For 2nd Period
+// P1 Press {L2}+{SELECT} For 2nd Period
+patch=1,EE,20442078,extended,00020002
+
+[P2 Press {L1}+{SELECT} For 1st Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} For 1st Period
+// P2 Press {L1}+{SELECT} For 1st Period
+patch=1,EE,D044AD82,extended,0000FBFE
+
+[P2 Press {L1}+{SELECT} For 1st Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} For 1st Period
+// P2 Press {L1}+{SELECT} For 1st Period
+patch=1,EE,20442078,extended,00010001
+
+[P2 Press {L2}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L2}+{SELECT} For 2nd Period
+// P2 Press {L2}+{SELECT} For 2nd Period
+patch=1,EE,D044AD82,extended,0000FEFE
+
+[P2 Press {L2}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L2}+{SELECT} For 2nd Period
+// P2 Press {L2}+{SELECT} For 2nd Period
+patch=1,EE,20442078,extended,00020002
+
+[P3 Press {L1}+{SELECT} For 1st Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L1}+{SELECT} For 1st Period
+// P3 Press {L1}+{SELECT} For 1st Period
+patch=1,EE,D044AE82,extended,0000FBFE
+
+[P3 Press {L1}+{SELECT} For 1st Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L1}+{SELECT} For 1st Period
+// P3 Press {L1}+{SELECT} For 1st Period
+patch=1,EE,20442078,extended,00010001
+
+[P3 Press {L2}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L2}+{SELECT} For 2nd Period
+// P3 Press {L2}+{SELECT} For 2nd Period
+patch=1,EE,D044AE82,extended,0000FEFE
+
+[P3 Press {L2}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L2}+{SELECT} For 2nd Period
+// P3 Press {L2}+{SELECT} For 2nd Period
+patch=1,EE,20442078,extended,00020002
+
+[P4 Press {L1}+{SELECT} For 1st Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L1}+{SELECT} For 1st Period
+// P4 Press {L1}+{SELECT} For 1st Period
+patch=1,EE,D044AF82,extended,0000FBFE
+
+[P4 Press {L1}+{SELECT} For 1st Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L1}+{SELECT} For 1st Period
+// P4 Press {L1}+{SELECT} For 1st Period
+patch=1,EE,20442078,extended,00010001
+
+[P4 Press {L2}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L2}+{SELECT} For 2nd Period
+// P4 Press {L2}+{SELECT} For 2nd Period
+patch=1,EE,D044AF82,extended,0000FEFE
+
+[P4 Press {L2}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L2}+{SELECT} For 2nd Period
+// P4 Press {L2}+{SELECT} For 2nd Period
+patch=1,EE,20442078,extended,00020002
+
+[P5 Press {L1}+{SELECT} For 1st Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L1}+{SELECT} For 1st Period
+// P5 Press {L1}+{SELECT} For 1st Period
+patch=1,EE,D044B082,extended,0000FBFE
+
+[P5 Press {L1}+{SELECT} For 1st Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L1}+{SELECT} For 1st Period
+// P5 Press {L1}+{SELECT} For 1st Period
+patch=1,EE,20442078,extended,00010001
+
+[P5 Press {L2}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L2}+{SELECT} For 2nd Period
+// P5 Press {L2}+{SELECT} For 2nd Period
+patch=1,EE,D044B082,extended,0000FEFE
+
+[P5 Press {L2}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L2}+{SELECT} For 2nd Period
+// P5 Press {L2}+{SELECT} For 2nd Period
+patch=1,EE,20442078,extended,00020002
+
+[P6 Press {L1}+{SELECT} For 1st Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L1}+{SELECT} For 1st Period
+// P6 Press {L1}+{SELECT} For 1st Period
+patch=1,EE,D044B182,extended,0000FBFE
+
+[P6 Press {L1}+{SELECT} For 1st Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L1}+{SELECT} For 1st Period
+// P6 Press {L1}+{SELECT} For 1st Period
+patch=1,EE,20442078,extended,00010001
+
+[P6 Press {L2}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L2}+{SELECT} For 2nd Period
+// P6 Press {L2}+{SELECT} For 2nd Period
+patch=1,EE,D044B182,extended,0000FEFE
+
+[P6 Press {L2}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L2}+{SELECT} For 2nd Period
+// P6 Press {L2}+{SELECT} For 2nd Period
+patch=1,EE,20442078,extended,00020002
+
+[P7 Press {L1}+{SELECT} For 1st Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L1}+{SELECT} For 1st Period
+// P7 Press {L1}+{SELECT} For 1st Period
+patch=1,EE,D044B282,extended,0000FBFE
+
+[P7 Press {L1}+{SELECT} For 1st Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L1}+{SELECT} For 1st Period
+// P7 Press {L1}+{SELECT} For 1st Period
+patch=1,EE,20442078,extended,00010001
+
+[P7 Press {L2}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L2}+{SELECT} For 2nd Period
+// P7 Press {L2}+{SELECT} For 2nd Period
+patch=1,EE,D044B282,extended,0000FEFE
+
+[P7 Press {L2}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L2}+{SELECT} For 2nd Period
+// P7 Press {L2}+{SELECT} For 2nd Period
+patch=1,EE,20442078,extended,00020002
+
+[P8 Press {L1}+{SELECT} For 1st Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L1}+{SELECT} For 1st Period
+// P8 Press {L1}+{SELECT} For 1st Period
+patch=1,EE,D044B382,extended,0000FBFE
+
+[P8 Press {L1}+{SELECT} For 1st Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L1}+{SELECT} For 1st Period
+// P8 Press {L1}+{SELECT} For 1st Period
+patch=1,EE,20442078,extended,00010001
+
+[P8 Press {L2}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L2}+{SELECT} For 2nd Period
+// P8 Press {L2}+{SELECT} For 2nd Period
+patch=1,EE,D044B382,extended,0000FEFE
+
+[P8 Press {L2}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L2}+{SELECT} For 2nd Period
+// P8 Press {L2}+{SELECT} For 2nd Period
+patch=1,EE,20442078,extended,00020002
+
+[Buying NHL Cards Doesnt Decrease Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying NHL Cards Doesnt Decrease Points
+// Buying NHL Cards Doesnt Decrease Points
+patch=1,EE,202B691C,extended,00000000
+
+[Buying NHL Cards Increases Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying NHL Cards Increases Points
+// Buying NHL Cards Increases Points
+patch=1,EE,202B6900,extended,00652821
+
+[View NHL Cards Cardbook For All Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View NHL Cards Cardbook For All Cards
+// View NHL Cards Cardbook For All Cards
+patch=1,EE,200C0280,extended,3C010101
+
+[View NHL Cards Cardbook For All Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View NHL Cards Cardbook For All Cards
+// View NHL Cards Cardbook For All Cards
+patch=1,EE,200C0284,extended,34210101
+
+[View NHL Cards Cardbook For All Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View NHL Cards Cardbook For All Cards
+// View NHL Cards Cardbook For All Cards
+patch=1,EE,200C0288,extended,00051080
+
+[View NHL Cards Cardbook For All Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View NHL Cards Cardbook For All Cards
+// View NHL Cards Cardbook For All Cards
+patch=1,EE,200C028C,extended,00821021
+
+[View NHL Cards Cardbook For All Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View NHL Cards Cardbook For All Cards
+// View NHL Cards Cardbook For All Cards
+patch=1,EE,200C0290,extended,080ADA9E
+
+[View NHL Cards Cardbook For All Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View NHL Cards Cardbook For All Cards
+// View NHL Cards Cardbook For All Cards
+patch=1,EE,200C0294,extended,AC410024
+
+[View NHL Cards Cardbook For All Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View NHL Cards Cardbook For All Cards
+// View NHL Cards Cardbook For All Cards
+patch=1,EE,202B6E10,extended,0C0300A0
+
+[View Task List For Max Tasklist Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Task List For Max Tasklist Points
+// View Task List For Max Tasklist Points
+patch=1,EE,200C0260,extended,3C013B9A
+
+[View Task List For Max Tasklist Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Task List For Max Tasklist Points
+// View Task List For Max Tasklist Points
+patch=1,EE,200C0264,extended,3421C9FF
+
+[View Task List For Max Tasklist Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Task List For Max Tasklist Points
+// View Task List For Max Tasklist Points
+patch=1,EE,200C0268,extended,AC81001C
+
+[View Task List For Max Tasklist Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Task List For Max Tasklist Points
+// View Task List For Max Tasklist Points
+patch=1,EE,200C026C,extended,03E00008
+
+[View Task List For Max Tasklist Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Task List For Max Tasklist Points
+// View Task List For Max Tasklist Points
+patch=1,EE,200C0270,extended,2610E888
+
+[View Task List For Max Tasklist Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Task List For Max Tasklist Points
+// View Task List For Max Tasklist Points
+patch=1,EE,201F5B88,extended,0C030098
+
+[View Task List To Have All Tasks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Task List To Have All Tasks Completed
+// View Task List To Have All Tasks Completed
+patch=1,EE,200C0220,extended,24010053
+
+[View Task List To Have All Tasks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Task List To Have All Tasks Completed
+// View Task List To Have All Tasks Completed
+patch=1,EE,200C0224,extended,24020001
+
+[View Task List To Have All Tasks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Task List To Have All Tasks Completed
+// View Task List To Have All Tasks Completed
+patch=1,EE,200C0228,extended,00A01821
+
+[View Task List To Have All Tasks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Task List To Have All Tasks Completed
+// View Task List To Have All Tasks Completed
+patch=1,EE,200C022C,extended,AC620000
+
+[View Task List To Have All Tasks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Task List To Have All Tasks Completed
+// View Task List To Have All Tasks Completed
+patch=1,EE,200C0230,extended,24630004
+
+[View Task List To Have All Tasks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Task List To Have All Tasks Completed
+// View Task List To Have All Tasks Completed
+patch=1,EE,200C0234,extended,1C20FFFD
+
+[View Task List To Have All Tasks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Task List To Have All Tasks Completed
+// View Task List To Have All Tasks Completed
+patch=1,EE,200C0238,extended,2421FFFF
+
+[View Task List To Have All Tasks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Task List To Have All Tasks Completed
+// View Task List To Have All Tasks Completed
+patch=1,EE,200C023C,extended,00A01821
+
+[View Task List To Have All Tasks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Task List To Have All Tasks Completed
+// View Task List To Have All Tasks Completed
+patch=1,EE,200C0240,extended,03A0202D
+
+[View Task List To Have All Tasks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Task List To Have All Tasks Completed
+// View Task List To Have All Tasks Completed
+patch=1,EE,200C0244,extended,03E00008
+
+[View Task List To Have All Tasks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Task List To Have All Tasks Completed
+// View Task List To Have All Tasks Completed
+patch=1,EE,200C0248,extended,30620007
+
+[View Task List To Have All Tasks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Task List To Have All Tasks Completed
+// View Task List To Have All Tasks Completed
+patch=1,EE,201F5CD0,extended,0C030088
+
+[View Task List To Have All Tasks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Task List To Have All Tasks Completed
+// View Task List To Have All Tasks Completed
+patch=1,EE,201F5CD4,extended,00402821
+
+[Flu Bug]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flu Bug
+// Flu Bug
+patch=1,EE,203E208C,extended,00000001
+
+[Penalty Free]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Penalty Free
+// Penalty Free
+patch=1,EE,203E2090,extended,00000001
+
+[Off Target]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Off Target
+// Off Target
+patch=1,EE,203E2094,extended,00000001
+
+[Man Advantage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Man Advantage
+// Man Advantage
+patch=1,EE,203E2098,extended,00000001
+
+[Frozen In Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Frozen In Time
+// Frozen In Time
+patch=1,EE,203E209C,extended,00000001
+
+[Bash Boom Bonanza]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bash Boom Bonanza
+// Bash Boom Bonanza
+patch=1,EE,203E20A0,extended,00000001
+
+[Game Breaker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Game Breaker
+// Game Breaker
+patch=1,EE,203E20A4,extended,00000001
+
+[Breaker Buster]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Breaker Buster
+// Breaker Buster
+patch=1,EE,203E20A8,extended,00000001
+
+[Instant Penalty Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Penalty Shot
+// Instant Penalty Shot
+patch=1,EE,203E20AC,extended,00000001
+
+[Next Goal Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Next Goal Wins
+// Next Goal Wins
+patch=1,EE,203E20B0,extended,00000001
+
+[Flu Bug]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flu Bug
+// Flu Bug
+patch=1,EE,203E20B8,extended,00000001
+
+[Penalty Free]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Penalty Free
+// Penalty Free
+patch=1,EE,203E20BC,extended,00000001
+
+[Off Target]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Off Target
+// Off Target
+patch=1,EE,203E20C0,extended,00000001
+
+[Man Advantage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Man Advantage
+// Man Advantage
+patch=1,EE,203E20C4,extended,00000001
+
+[Frozen In Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Frozen In Time
+// Frozen In Time
+patch=1,EE,203E20C8,extended,00000001
+
+[Bash Boom Bonanza]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bash Boom Bonanza
+// Bash Boom Bonanza
+patch=1,EE,203E20CC,extended,00000001
+
+[Game Breaker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Game Breaker
+// Game Breaker
+patch=1,EE,203E20D0,extended,00000001
+
+[Breaker Buster]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Breaker Buster
+// Breaker Buster
+patch=1,EE,203E20D4,extended,00000001
+
+[Instant Penalty Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Penalty Shot
+// Instant Penalty Shot
+patch=1,EE,203E20D8,extended,00000001
+
+[Next Goal Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Next Goal Wins
+// Next Goal Wins
+patch=1,EE,203E20DC,extended,00000001
+
+[P1 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Power Shot
+// P1 Power Shot
+patch=1,EE,203E1A4C,extended,00000001
+
+[P1 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Peashooter
+// P1 Peashooter
+patch=1,EE,203E1A50,extended,00000001
+
+[P1 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Bonecrusher
+// P1 Bonecrusher
+patch=1,EE,203E1A54,extended,00000001
+
+[P1 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Crusher To Usher
+// P1 Crusher To Usher
+patch=1,EE,203E1A58,extended,00000001
+
+[P1 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Musciles And Missiles
+// P1 Musciles And Missiles
+patch=1,EE,203E1A5C,extended,00000001
+
+[P1 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Fired Up
+// P1 Fired Up
+patch=1,EE,203E1A60,extended,00000001
+
+[P1 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Ice Cold
+// P1 Ice Cold
+patch=1,EE,203E1A64,extended,00000001
+
+[P1 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Hero (Player)
+// P1 Hero (Player)
+patch=1,EE,203E1A68,extended,00000001
+
+[P1 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Ice Cold (Player)
+// P1 Ice Cold (Player)
+patch=1,EE,203E1A6C,extended,00000001
+
+[P2 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Power Shot
+// P2 Power Shot
+patch=1,EE,203E1A70,extended,00000001
+
+[P2 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Peashooter
+// P2 Peashooter
+patch=1,EE,203E1A74,extended,00000001
+
+[P2 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Bonecrusher
+// P2 Bonecrusher
+patch=1,EE,203E1A78,extended,00000001
+
+[P2 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Crusher To Usher
+// P2 Crusher To Usher
+patch=1,EE,203E1A7C,extended,00000001
+
+[P2 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Musciles And Missiles
+// P2 Musciles And Missiles
+patch=1,EE,203E1A80,extended,00000001
+
+[P2 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Fired Up
+// P2 Fired Up
+patch=1,EE,203E1A84,extended,00000001
+
+[P2 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Ice Cold
+// P2 Ice Cold
+patch=1,EE,203E1A88,extended,00000001
+
+[P2 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Hero (Player)
+// P2 Hero (Player)
+patch=1,EE,203E1A8C,extended,00000001
+
+[P2 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Ice Cold (Player)
+// P2 Ice Cold (Player)
+patch=1,EE,203E1A90,extended,00000001
+
+[P3 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Power Shot
+// P3 Power Shot
+patch=1,EE,203E1A94,extended,00000001
+
+[P3 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Peashooter
+// P3 Peashooter
+patch=1,EE,203E1A98,extended,00000001
+
+[P3 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Bonecrusher
+// P3 Bonecrusher
+patch=1,EE,203E1A9C,extended,00000001
+
+[P3 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Crusher To Usher
+// P3 Crusher To Usher
+patch=1,EE,203E1AA0,extended,00000001
+
+[P3 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Musciles And Missiles
+// P3 Musciles And Missiles
+patch=1,EE,203E1AA4,extended,00000001
+
+[P3 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Fired Up
+// P3 Fired Up
+patch=1,EE,203E1AA8,extended,00000001
+
+[P3 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Ice Cold
+// P3 Ice Cold
+patch=1,EE,203E1AAC,extended,00000001
+
+[P3 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Hero (Player)
+// P3 Hero (Player)
+patch=1,EE,203E1AB0,extended,00000001
+
+[P3 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Ice Cold (Player)
+// P3 Ice Cold (Player)
+patch=1,EE,203E1AB4,extended,00000001
+
+[P4 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Power Shot
+// P4 Power Shot
+patch=1,EE,203E1AB8,extended,00000001
+
+[P4 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Peashooter
+// P4 Peashooter
+patch=1,EE,203E1ABC,extended,00000001
+
+[P4 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Bonecrusher
+// P4 Bonecrusher
+patch=1,EE,203E1AC0,extended,00000001
+
+[P4 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Crusher To Usher
+// P4 Crusher To Usher
+patch=1,EE,203E1AC4,extended,00000001
+
+[P4 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Musciles And Missiles
+// P4 Musciles And Missiles
+patch=1,EE,203E1AC8,extended,00000001
+
+[P4 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Fired Up
+// P4 Fired Up
+patch=1,EE,203E1ACC,extended,00000001
+
+[P4 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Ice Cold
+// P4 Ice Cold
+patch=1,EE,203E1AD0,extended,00000001
+
+[P4 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Hero (Player)
+// P4 Hero (Player)
+patch=1,EE,203E1AD4,extended,00000001
+
+[P4 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Ice Cold (Player)
+// P4 Ice Cold (Player)
+patch=1,EE,203E1AD8,extended,00000001
+
+[P5 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Power Shot
+// P5 Power Shot
+patch=1,EE,203E1ADC,extended,00000001
+
+[P5 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Peashooter
+// P5 Peashooter
+patch=1,EE,203E1AE0,extended,00000001
+
+[P5 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Bonecrusher
+// P5 Bonecrusher
+patch=1,EE,203E1AE4,extended,00000001
+
+[P5 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Crusher To Usher
+// P5 Crusher To Usher
+patch=1,EE,203E1AE8,extended,00000001
+
+[P5 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Musciles And Missiles
+// P5 Musciles And Missiles
+patch=1,EE,203E1AEC,extended,00000001
+
+[P5 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Fired Up
+// P5 Fired Up
+patch=1,EE,203E1AF0,extended,00000001
+
+[P5 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Ice Cold
+// P5 Ice Cold
+patch=1,EE,203E1AF4,extended,00000001
+
+[P5 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Hero (Player)
+// P5 Hero (Player)
+patch=1,EE,203E1AF8,extended,00000001
+
+[P5 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Ice Cold (Player)
+// P5 Ice Cold (Player)
+patch=1,EE,203E1AFC,extended,00000001
+
+[P6 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Power Shot
+// P6 Power Shot
+patch=1,EE,203E1B00,extended,00000001
+
+[P6 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Peashooter
+// P6 Peashooter
+patch=1,EE,203E1B04,extended,00000001
+
+[P6 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Bonecrusher
+// P6 Bonecrusher
+patch=1,EE,203E1B08,extended,00000001
+
+[P6 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Crusher To Usher
+// P6 Crusher To Usher
+patch=1,EE,203E1B0C,extended,00000001
+
+[P6 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Musciles And Missiles
+// P6 Musciles And Missiles
+patch=1,EE,203E1B10,extended,00000001
+
+[P6 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Fired Up
+// P6 Fired Up
+patch=1,EE,203E1B14,extended,00000001
+
+[P6 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Ice Cold
+// P6 Ice Cold
+patch=1,EE,203E1B18,extended,00000001
+
+[P6 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Hero (Player)
+// P6 Hero (Player)
+patch=1,EE,203E1B1C,extended,00000001
+
+[P6 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Ice Cold (Player)
+// P6 Ice Cold (Player)
+patch=1,EE,203E1B20,extended,00000001
+
+[P7 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Power Shot
+// P7 Power Shot
+patch=1,EE,203E1B24,extended,00000001
+
+[P7 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Peashooter
+// P7 Peashooter
+patch=1,EE,203E1B28,extended,00000001
+
+[P7 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Bonecrusher
+// P7 Bonecrusher
+patch=1,EE,203E1B2C,extended,00000001
+
+[P7 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Crusher To Usher
+// P7 Crusher To Usher
+patch=1,EE,203E1B30,extended,00000001
+
+[P7 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Musciles And Missiles
+// P7 Musciles And Missiles
+patch=1,EE,203E1B34,extended,00000001
+
+[P7 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Fired Up
+// P7 Fired Up
+patch=1,EE,203E1B38,extended,00000001
+
+[P7 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Ice Cold
+// P7 Ice Cold
+patch=1,EE,203E1B3C,extended,00000001
+
+[P7 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Hero (Player)
+// P7 Hero (Player)
+patch=1,EE,203E1B40,extended,00000001
+
+[P7 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Ice Cold (Player)
+// P7 Ice Cold (Player)
+patch=1,EE,203E1B44,extended,00000001
+
+[P8 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Power Shot
+// P8 Power Shot
+patch=1,EE,203E1B48,extended,00000001
+
+[P8 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Peashooter
+// P8 Peashooter
+patch=1,EE,203E1B4C,extended,00000001
+
+[P8 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Bonecrusher
+// P8 Bonecrusher
+patch=1,EE,203E1B50,extended,00000001
+
+[P8 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Crusher To Usher
+// P8 Crusher To Usher
+patch=1,EE,203E1B54,extended,00000001
+
+[P8 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Musciles And Missiles
+// P8 Musciles And Missiles
+patch=1,EE,203E1B58,extended,00000001
+
+[P8 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Fired Up
+// P8 Fired Up
+patch=1,EE,203E1B5C,extended,00000001
+
+[P8 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Ice Cold
+// P8 Ice Cold
+patch=1,EE,203E1B60,extended,00000001
+
+[P8 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Hero (Player)
+// P8 Hero (Player)
+patch=1,EE,203E1B64,extended,00000001
+
+[P8 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Ice Cold (Player)
+// P8 Ice Cold (Player)
+patch=1,EE,203E1B68,extended,00000001
+
+[P9 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P9 Power Shot
+// P9 Power Shot
+patch=1,EE,203E1B6C,extended,00000001
+
+[P9 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P9 Peashooter
+// P9 Peashooter
+patch=1,EE,203E1B70,extended,00000001
+
+[P9 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P9 Bonecrusher
+// P9 Bonecrusher
+patch=1,EE,203E1B74,extended,00000001
+
+[P9 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P9 Crusher To Usher
+// P9 Crusher To Usher
+patch=1,EE,203E1B78,extended,00000001
+
+[P9 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P9 Musciles And Missiles
+// P9 Musciles And Missiles
+patch=1,EE,203E1B7C,extended,00000001
+
+[P9 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P9 Fired Up
+// P9 Fired Up
+patch=1,EE,203E1B80,extended,00000001
+
+[P9 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P9 Ice Cold
+// P9 Ice Cold
+patch=1,EE,203E1B84,extended,00000001
+
+[P9 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P9 Hero (Player)
+// P9 Hero (Player)
+patch=1,EE,203E1B88,extended,00000001
+
+[P9 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P9 Ice Cold (Player)
+// P9 Ice Cold (Player)
+patch=1,EE,203E1B8C,extended,00000001
+
+[P10 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P10 Power Shot
+// P10 Power Shot
+patch=1,EE,203E1B90,extended,00000001
+
+[P10 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P10 Peashooter
+// P10 Peashooter
+patch=1,EE,203E1B94,extended,00000001
+
+[P10 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P10 Bonecrusher
+// P10 Bonecrusher
+patch=1,EE,203E1B98,extended,00000001
+
+[P10 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P10 Crusher To Usher
+// P10 Crusher To Usher
+patch=1,EE,203E1B9C,extended,00000001
+
+[P10 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P10 Musciles And Missiles
+// P10 Musciles And Missiles
+patch=1,EE,203E1BA0,extended,00000001
+
+[P10 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P10 Fired Up
+// P10 Fired Up
+patch=1,EE,203E1BA4,extended,00000001
+
+[P10 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P10 Ice Cold
+// P10 Ice Cold
+patch=1,EE,203E1BA8,extended,00000001
+
+[P10 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P10 Hero (Player)
+// P10 Hero (Player)
+patch=1,EE,203E1BAC,extended,00000001
+
+[P10 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P10 Ice Cold (Player)
+// P10 Ice Cold (Player)
+patch=1,EE,203E1BB0,extended,00000001
+
+[P11 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P11 Power Shot
+// P11 Power Shot
+patch=1,EE,203E1BB4,extended,00000001
+
+[P11 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P11 Peashooter
+// P11 Peashooter
+patch=1,EE,203E1BB8,extended,00000001
+
+[P11 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P11 Bonecrusher
+// P11 Bonecrusher
+patch=1,EE,203E1BBC,extended,00000001
+
+[P11 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P11 Crusher To Usher
+// P11 Crusher To Usher
+patch=1,EE,203E1BC0,extended,00000001
+
+[P11 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P11 Musciles And Missiles
+// P11 Musciles And Missiles
+patch=1,EE,203E1BC4,extended,00000001
+
+[P11 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P11 Fired Up
+// P11 Fired Up
+patch=1,EE,203E1BC8,extended,00000001
+
+[P11 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P11 Ice Cold
+// P11 Ice Cold
+patch=1,EE,203E1BCC,extended,00000001
+
+[P11 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P11 Hero (Player)
+// P11 Hero (Player)
+patch=1,EE,203E1BD0,extended,00000001
+
+[P11 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P11 Ice Cold (Player)
+// P11 Ice Cold (Player)
+patch=1,EE,203E1BD4,extended,00000001
+
+[P12 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P12 Power Shot
+// P12 Power Shot
+patch=1,EE,203E1BD8,extended,00000001
+
+[P12 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P12 Peashooter
+// P12 Peashooter
+patch=1,EE,203E1BDC,extended,00000001
+
+[P12 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P12 Bonecrusher
+// P12 Bonecrusher
+patch=1,EE,203E1BE0,extended,00000001
+
+[P12 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P12 Crusher To Usher
+// P12 Crusher To Usher
+patch=1,EE,203E1BE4,extended,00000001
+
+[P12 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P12 Musciles And Missiles
+// P12 Musciles And Missiles
+patch=1,EE,203E1BE8,extended,00000001
+
+[P12 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P12 Fired Up
+// P12 Fired Up
+patch=1,EE,203E1BEC,extended,00000001
+
+[P12 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P12 Ice Cold
+// P12 Ice Cold
+patch=1,EE,203E1BF0,extended,00000001
+
+[P12 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P12 Hero (Player)
+// P12 Hero (Player)
+patch=1,EE,203E1BF4,extended,00000001
+
+[P12 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P12 Ice Cold (Player)
+// P12 Ice Cold (Player)
+patch=1,EE,203E1BF8,extended,00000001
+
+[P13 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P13 Power Shot
+// P13 Power Shot
+patch=1,EE,203E1BFC,extended,00000001
+
+[P13 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P13 Peashooter
+// P13 Peashooter
+patch=1,EE,203E1C00,extended,00000001
+
+[P13 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P13 Bonecrusher
+// P13 Bonecrusher
+patch=1,EE,203E1C04,extended,00000001
+
+[P13 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P13 Crusher To Usher
+// P13 Crusher To Usher
+patch=1,EE,203E1C08,extended,00000001
+
+[P13 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P13 Musciles And Missiles
+// P13 Musciles And Missiles
+patch=1,EE,203E1C0C,extended,00000001
+
+[P13 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P13 Fired Up
+// P13 Fired Up
+patch=1,EE,203E1C10,extended,00000001
+
+[P13 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P13 Ice Cold
+// P13 Ice Cold
+patch=1,EE,203E1C14,extended,00000001
+
+[P13 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P13 Hero (Player)
+// P13 Hero (Player)
+patch=1,EE,203E1C18,extended,00000001
+
+[P13 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P13 Ice Cold (Player)
+// P13 Ice Cold (Player)
+patch=1,EE,203E1C1C,extended,00000001
+
+[P14 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P14 Power Shot
+// P14 Power Shot
+patch=1,EE,203E1C20,extended,00000001
+
+[P14 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P14 Peashooter
+// P14 Peashooter
+patch=1,EE,203E1C24,extended,00000001
+
+[P14 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P14 Bonecrusher
+// P14 Bonecrusher
+patch=1,EE,203E1C28,extended,00000001
+
+[P14 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P14 Crusher To Usher
+// P14 Crusher To Usher
+patch=1,EE,203E1C2C,extended,00000001
+
+[P14 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P14 Musciles And Missiles
+// P14 Musciles And Missiles
+patch=1,EE,203E1C30,extended,00000001
+
+[P14 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P14 Fired Up
+// P14 Fired Up
+patch=1,EE,203E1C34,extended,00000001
+
+[P14 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P14 Ice Cold
+// P14 Ice Cold
+patch=1,EE,203E1C38,extended,00000001
+
+[P14 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P14 Hero (Player)
+// P14 Hero (Player)
+patch=1,EE,203E1C3C,extended,00000001
+
+[P14 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P14 Ice Cold (Player)
+// P14 Ice Cold (Player)
+patch=1,EE,203E1C40,extended,00000001
+
+[P15 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P15 Power Shot
+// P15 Power Shot
+patch=1,EE,203E1C44,extended,00000001
+
+[P15 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P15 Peashooter
+// P15 Peashooter
+patch=1,EE,203E1C48,extended,00000001
+
+[P15 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P15 Bonecrusher
+// P15 Bonecrusher
+patch=1,EE,203E1C4C,extended,00000001
+
+[P15 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P15 Crusher To Usher
+// P15 Crusher To Usher
+patch=1,EE,203E1C50,extended,00000001
+
+[P15 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P15 Musciles And Missiles
+// P15 Musciles And Missiles
+patch=1,EE,203E1C54,extended,00000001
+
+[P15 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P15 Fired Up
+// P15 Fired Up
+patch=1,EE,203E1C58,extended,00000001
+
+[P15 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P15 Ice Cold
+// P15 Ice Cold
+patch=1,EE,203E1C5C,extended,00000001
+
+[P15 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P15 Hero (Player)
+// P15 Hero (Player)
+patch=1,EE,203E1C60,extended,00000001
+
+[P15 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P15 Ice Cold (Player)
+// P15 Ice Cold (Player)
+patch=1,EE,203E1C64,extended,00000001
+
+[P16 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P16 Power Shot
+// P16 Power Shot
+patch=1,EE,203E1C68,extended,00000001
+
+[P16 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P16 Peashooter
+// P16 Peashooter
+patch=1,EE,203E1C6C,extended,00000001
+
+[P16 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P16 Bonecrusher
+// P16 Bonecrusher
+patch=1,EE,203E1C70,extended,00000001
+
+[P16 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P16 Crusher To Usher
+// P16 Crusher To Usher
+patch=1,EE,203E1C74,extended,00000001
+
+[P16 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P16 Musciles And Missiles
+// P16 Musciles And Missiles
+patch=1,EE,203E1C78,extended,00000001
+
+[P16 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P16 Fired Up
+// P16 Fired Up
+patch=1,EE,203E1C7C,extended,00000001
+
+[P16 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P16 Ice Cold
+// P16 Ice Cold
+patch=1,EE,203E1C80,extended,00000001
+
+[P16 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P16 Hero (Player)
+// P16 Hero (Player)
+patch=1,EE,203E1C84,extended,00000001
+
+[P16 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P16 Ice Cold (Player)
+// P16 Ice Cold (Player)
+patch=1,EE,203E1C88,extended,00000001
+
+[P17 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P17 Power Shot
+// P17 Power Shot
+patch=1,EE,203E1C8C,extended,00000001
+
+[P17 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P17 Peashooter
+// P17 Peashooter
+patch=1,EE,203E1C90,extended,00000001
+
+[P17 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P17 Bonecrusher
+// P17 Bonecrusher
+patch=1,EE,203E1C94,extended,00000001
+
+[P17 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P17 Crusher To Usher
+// P17 Crusher To Usher
+patch=1,EE,203E1C98,extended,00000001
+
+[P17 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P17 Musciles And Missiles
+// P17 Musciles And Missiles
+patch=1,EE,203E1C9C,extended,00000001
+
+[P17 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P17 Fired Up
+// P17 Fired Up
+patch=1,EE,203E1CA0,extended,00000001
+
+[P17 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P17 Ice Cold
+// P17 Ice Cold
+patch=1,EE,203E1CA4,extended,00000001
+
+[P17 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P17 Hero (Player)
+// P17 Hero (Player)
+patch=1,EE,203E1CA8,extended,00000001
+
+[P17 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P17 Ice Cold (Player)
+// P17 Ice Cold (Player)
+patch=1,EE,203E1CAC,extended,00000001
+
+[P18 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P18 Power Shot
+// P18 Power Shot
+patch=1,EE,203E1CB0,extended,00000001
+
+[P18 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P18 Peashooter
+// P18 Peashooter
+patch=1,EE,203E1CB4,extended,00000001
+
+[P18 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P18 Bonecrusher
+// P18 Bonecrusher
+patch=1,EE,203E1CB8,extended,00000001
+
+[P18 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P18 Crusher To Usher
+// P18 Crusher To Usher
+patch=1,EE,203E1CBC,extended,00000001
+
+[P18 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P18 Musciles And Missiles
+// P18 Musciles And Missiles
+patch=1,EE,203E1CC0,extended,00000001
+
+[P18 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P18 Fired Up
+// P18 Fired Up
+patch=1,EE,203E1CC4,extended,00000001
+
+[P18 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P18 Ice Cold
+// P18 Ice Cold
+patch=1,EE,203E1CC8,extended,00000001
+
+[P18 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P18 Hero (Player)
+// P18 Hero (Player)
+patch=1,EE,203E1CCC,extended,00000001
+
+[P18 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P18 Ice Cold (Player)
+// P18 Ice Cold (Player)
+patch=1,EE,203E1CD0,extended,00000001
+
+[P19 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P19 Power Shot
+// P19 Power Shot
+patch=1,EE,203E1CD4,extended,00000001
+
+[P19 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P19 Peashooter
+// P19 Peashooter
+patch=1,EE,203E1CD8,extended,00000001
+
+[P19 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P19 Bonecrusher
+// P19 Bonecrusher
+patch=1,EE,203E1CDC,extended,00000001
+
+[P19 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P19 Crusher To Usher
+// P19 Crusher To Usher
+patch=1,EE,203E1CE0,extended,00000001
+
+[P19 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P19 Musciles And Missiles
+// P19 Musciles And Missiles
+patch=1,EE,203E1CE4,extended,00000001
+
+[P19 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P19 Fired Up
+// P19 Fired Up
+patch=1,EE,203E1CE8,extended,00000001
+
+[P19 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P19 Ice Cold
+// P19 Ice Cold
+patch=1,EE,203E1CEC,extended,00000001
+
+[P19 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P19 Hero (Player)
+// P19 Hero (Player)
+patch=1,EE,203E1CF0,extended,00000001
+
+[P19 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P19 Ice Cold (Player)
+// P19 Ice Cold (Player)
+patch=1,EE,203E1CF4,extended,00000001
+
+[P20 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P20 Power Shot
+// P20 Power Shot
+patch=1,EE,203E1CF8,extended,00000001
+
+[P20 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P20 Peashooter
+// P20 Peashooter
+patch=1,EE,203E1CFC,extended,00000001
+
+[P20 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P20 Bonecrusher
+// P20 Bonecrusher
+patch=1,EE,203E1D00,extended,00000001
+
+[P20 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P20 Crusher To Usher
+// P20 Crusher To Usher
+patch=1,EE,203E1D04,extended,00000001
+
+[P20 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P20 Musciles And Missiles
+// P20 Musciles And Missiles
+patch=1,EE,203E1D08,extended,00000001
+
+[P20 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P20 Fired Up
+// P20 Fired Up
+patch=1,EE,203E1D0C,extended,00000001
+
+[P20 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P20 Ice Cold
+// P20 Ice Cold
+patch=1,EE,203E1D10,extended,00000001
+
+[P20 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P20 Hero (Player)
+// P20 Hero (Player)
+patch=1,EE,203E1D14,extended,00000001
+
+[P20 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P20 Ice Cold (Player)
+// P20 Ice Cold (Player)
+patch=1,EE,203E1D18,extended,00000001
+
+[P1 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Power Shot
+// P1 Power Shot
+patch=1,EE,203E1D1C,extended,00000001
+
+[P1 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Peashooter
+// P1 Peashooter
+patch=1,EE,203E1D20,extended,00000001
+
+[P1 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Bonecrusher
+// P1 Bonecrusher
+patch=1,EE,203E1D24,extended,00000001
+
+[P1 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Crusher To Usher
+// P1 Crusher To Usher
+patch=1,EE,203E1D28,extended,00000001
+
+[P1 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Musciles And Missiles
+// P1 Musciles And Missiles
+patch=1,EE,203E1D2C,extended,00000001
+
+[P1 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Fired Up
+// P1 Fired Up
+patch=1,EE,203E1D30,extended,00000001
+
+[P1 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Ice Cold
+// P1 Ice Cold
+patch=1,EE,203E1D34,extended,00000001
+
+[P1 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Hero (Player)
+// P1 Hero (Player)
+patch=1,EE,203E1D38,extended,00000001
+
+[P1 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Ice Cold (Player)
+// P1 Ice Cold (Player)
+patch=1,EE,203E1D3C,extended,00000001
+
+[P2 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Power Shot
+// P2 Power Shot
+patch=1,EE,203E1D40,extended,00000001
+
+[P2 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Peashooter
+// P2 Peashooter
+patch=1,EE,203E1D44,extended,00000001
+
+[P2 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Bonecrusher
+// P2 Bonecrusher
+patch=1,EE,203E1D48,extended,00000001
+
+[P2 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Crusher To Usher
+// P2 Crusher To Usher
+patch=1,EE,203E1D4C,extended,00000001
+
+[P2 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Musciles And Missiles
+// P2 Musciles And Missiles
+patch=1,EE,203E1D50,extended,00000001
+
+[P2 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Fired Up
+// P2 Fired Up
+patch=1,EE,203E1D54,extended,00000001
+
+[P2 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Ice Cold
+// P2 Ice Cold
+patch=1,EE,203E1D58,extended,00000001
+
+[P2 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Hero (Player)
+// P2 Hero (Player)
+patch=1,EE,203E1D5C,extended,00000001
+
+[P2 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Ice Cold (Player)
+// P2 Ice Cold (Player)
+patch=1,EE,203E1D60,extended,00000001
+
+[P3 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Power Shot
+// P3 Power Shot
+patch=1,EE,203E1D64,extended,00000001
+
+[P3 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Peashooter
+// P3 Peashooter
+patch=1,EE,203E1D68,extended,00000001
+
+[P3 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Bonecrusher
+// P3 Bonecrusher
+patch=1,EE,203E1D6C,extended,00000001
+
+[P3 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Crusher To Usher
+// P3 Crusher To Usher
+patch=1,EE,203E1D70,extended,00000001
+
+[P3 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Musciles And Missiles
+// P3 Musciles And Missiles
+patch=1,EE,203E1D74,extended,00000001
+
+[P3 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Fired Up
+// P3 Fired Up
+patch=1,EE,203E1D78,extended,00000001
+
+[P3 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Ice Cold
+// P3 Ice Cold
+patch=1,EE,203E1D7C,extended,00000001
+
+[P3 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Hero (Player)
+// P3 Hero (Player)
+patch=1,EE,203E1D80,extended,00000001
+
+[P3 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Ice Cold (Player)
+// P3 Ice Cold (Player)
+patch=1,EE,203E1D84,extended,00000001
+
+[P4 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Power Shot
+// P4 Power Shot
+patch=1,EE,203E1D88,extended,00000001
+
+[P4 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Peashooter
+// P4 Peashooter
+patch=1,EE,203E1D8C,extended,00000001
+
+[P4 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Bonecrusher
+// P4 Bonecrusher
+patch=1,EE,203E1D90,extended,00000001
+
+[P4 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Crusher To Usher
+// P4 Crusher To Usher
+patch=1,EE,203E1D94,extended,00000001
+
+[P4 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Musciles And Missiles
+// P4 Musciles And Missiles
+patch=1,EE,203E1D98,extended,00000001
+
+[P4 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Fired Up
+// P4 Fired Up
+patch=1,EE,203E1D9C,extended,00000001
+
+[P4 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Ice Cold
+// P4 Ice Cold
+patch=1,EE,203E1DA0,extended,00000001
+
+[P4 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Hero (Player)
+// P4 Hero (Player)
+patch=1,EE,203E1DA4,extended,00000001
+
+[P4 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Ice Cold (Player)
+// P4 Ice Cold (Player)
+patch=1,EE,203E1DA8,extended,00000001
+
+[P5 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Power Shot
+// P5 Power Shot
+patch=1,EE,203E1DAC,extended,00000001
+
+[P5 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Peashooter
+// P5 Peashooter
+patch=1,EE,203E1DB0,extended,00000001
+
+[P5 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Bonecrusher
+// P5 Bonecrusher
+patch=1,EE,203E1DB4,extended,00000001
+
+[P5 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Crusher To Usher
+// P5 Crusher To Usher
+patch=1,EE,203E1DB8,extended,00000001
+
+[P5 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Musciles And Missiles
+// P5 Musciles And Missiles
+patch=1,EE,203E1DBC,extended,00000001
+
+[P5 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Fired Up
+// P5 Fired Up
+patch=1,EE,203E1DC0,extended,00000001
+
+[P5 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Ice Cold
+// P5 Ice Cold
+patch=1,EE,203E1DC4,extended,00000001
+
+[P5 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Hero (Player)
+// P5 Hero (Player)
+patch=1,EE,203E1DC8,extended,00000001
+
+[P5 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Ice Cold (Player)
+// P5 Ice Cold (Player)
+patch=1,EE,203E1DCC,extended,00000001
+
+[P6 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Power Shot
+// P6 Power Shot
+patch=1,EE,203E1DD0,extended,00000001
+
+[P6 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Peashooter
+// P6 Peashooter
+patch=1,EE,203E1DD4,extended,00000001
+
+[P6 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Bonecrusher
+// P6 Bonecrusher
+patch=1,EE,203E1DD8,extended,00000001
+
+[P6 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Crusher To Usher
+// P6 Crusher To Usher
+patch=1,EE,203E1DDC,extended,00000001
+
+[P6 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Musciles And Missiles
+// P6 Musciles And Missiles
+patch=1,EE,203E1DE0,extended,00000001
+
+[P6 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Fired Up
+// P6 Fired Up
+patch=1,EE,203E1DE4,extended,00000001
+
+[P6 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Ice Cold
+// P6 Ice Cold
+patch=1,EE,203E1DE8,extended,00000001
+
+[P6 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Hero (Player)
+// P6 Hero (Player)
+patch=1,EE,203E1DEC,extended,00000001
+
+[P6 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Ice Cold (Player)
+// P6 Ice Cold (Player)
+patch=1,EE,203E1DF0,extended,00000001
+
+[P7 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Power Shot
+// P7 Power Shot
+patch=1,EE,203E1DF4,extended,00000001
+
+[P7 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Peashooter
+// P7 Peashooter
+patch=1,EE,203E1DF8,extended,00000001
+
+[P7 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Bonecrusher
+// P7 Bonecrusher
+patch=1,EE,203E1DFC,extended,00000001
+
+[P7 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Crusher To Usher
+// P7 Crusher To Usher
+patch=1,EE,203E1E00,extended,00000001
+
+[P7 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Musciles And Missiles
+// P7 Musciles And Missiles
+patch=1,EE,203E1E04,extended,00000001
+
+[P7 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Fired Up
+// P7 Fired Up
+patch=1,EE,203E1E08,extended,00000001
+
+[P7 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Ice Cold
+// P7 Ice Cold
+patch=1,EE,203E1E0C,extended,00000001
+
+[P7 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Hero (Player)
+// P7 Hero (Player)
+patch=1,EE,203E1E10,extended,00000001
+
+[P7 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Ice Cold (Player)
+// P7 Ice Cold (Player)
+patch=1,EE,203E1E14,extended,00000001
+
+[P8 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Power Shot
+// P8 Power Shot
+patch=1,EE,203E1E18,extended,00000001
+
+[P8 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Peashooter
+// P8 Peashooter
+patch=1,EE,203E1E1C,extended,00000001
+
+[P8 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Bonecrusher
+// P8 Bonecrusher
+patch=1,EE,203E1E20,extended,00000001
+
+[P8 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Crusher To Usher
+// P8 Crusher To Usher
+patch=1,EE,203E1E24,extended,00000001
+
+[P8 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Musciles And Missiles
+// P8 Musciles And Missiles
+patch=1,EE,203E1E28,extended,00000001
+
+[P8 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Fired Up
+// P8 Fired Up
+patch=1,EE,203E1E2C,extended,00000001
+
+[P8 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Ice Cold
+// P8 Ice Cold
+patch=1,EE,203E1E30,extended,00000001
+
+[P8 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Hero (Player)
+// P8 Hero (Player)
+patch=1,EE,203E1E34,extended,00000001
+
+[P8 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Ice Cold (Player)
+// P8 Ice Cold (Player)
+patch=1,EE,203E1E38,extended,00000001
+
+[P9 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P9 Power Shot
+// P9 Power Shot
+patch=1,EE,203E1E3C,extended,00000001
+
+[P9 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P9 Peashooter
+// P9 Peashooter
+patch=1,EE,203E1E40,extended,00000001
+
+[P9 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P9 Bonecrusher
+// P9 Bonecrusher
+patch=1,EE,203E1E44,extended,00000001
+
+[P9 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P9 Crusher To Usher
+// P9 Crusher To Usher
+patch=1,EE,203E1E48,extended,00000001
+
+[P9 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P9 Musciles And Missiles
+// P9 Musciles And Missiles
+patch=1,EE,203E1E4C,extended,00000001
+
+[P9 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P9 Fired Up
+// P9 Fired Up
+patch=1,EE,203E1E50,extended,00000001
+
+[P9 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P9 Ice Cold
+// P9 Ice Cold
+patch=1,EE,203E1E54,extended,00000001
+
+[P9 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P9 Hero (Player)
+// P9 Hero (Player)
+patch=1,EE,203E1E58,extended,00000001
+
+[P9 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P9 Ice Cold (Player)
+// P9 Ice Cold (Player)
+patch=1,EE,203E1E5C,extended,00000001
+
+[P10 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P10 Power Shot
+// P10 Power Shot
+patch=1,EE,203E1E60,extended,00000001
+
+[P10 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P10 Peashooter
+// P10 Peashooter
+patch=1,EE,203E1E64,extended,00000001
+
+[P10 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P10 Bonecrusher
+// P10 Bonecrusher
+patch=1,EE,203E1E68,extended,00000001
+
+[P10 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P10 Crusher To Usher
+// P10 Crusher To Usher
+patch=1,EE,203E1E6C,extended,00000001
+
+[P10 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P10 Musciles And Missiles
+// P10 Musciles And Missiles
+patch=1,EE,203E1E70,extended,00000001
+
+[P10 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P10 Fired Up
+// P10 Fired Up
+patch=1,EE,203E1E74,extended,00000001
+
+[P10 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P10 Ice Cold
+// P10 Ice Cold
+patch=1,EE,203E1E78,extended,00000001
+
+[P10 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P10 Hero (Player)
+// P10 Hero (Player)
+patch=1,EE,203E1E7C,extended,00000001
+
+[P10 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P10 Ice Cold (Player)
+// P10 Ice Cold (Player)
+patch=1,EE,203E1E80,extended,00000001
+
+[P11 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P11 Power Shot
+// P11 Power Shot
+patch=1,EE,203E1E84,extended,00000001
+
+[P11 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P11 Peashooter
+// P11 Peashooter
+patch=1,EE,203E1E88,extended,00000001
+
+[P11 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P11 Bonecrusher
+// P11 Bonecrusher
+patch=1,EE,203E1E8C,extended,00000001
+
+[P11 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P11 Crusher To Usher
+// P11 Crusher To Usher
+patch=1,EE,203E1E90,extended,00000001
+
+[P11 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P11 Musciles And Missiles
+// P11 Musciles And Missiles
+patch=1,EE,203E1E94,extended,00000001
+
+[P11 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P11 Fired Up
+// P11 Fired Up
+patch=1,EE,203E1E98,extended,00000001
+
+[P11 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P11 Ice Cold
+// P11 Ice Cold
+patch=1,EE,203E1E9C,extended,00000001
+
+[P11 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P11 Hero (Player)
+// P11 Hero (Player)
+patch=1,EE,203E1EA0,extended,00000001
+
+[P11 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P11 Ice Cold (Player)
+// P11 Ice Cold (Player)
+patch=1,EE,203E1EA4,extended,00000001
+
+[P12 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P12 Power Shot
+// P12 Power Shot
+patch=1,EE,203E1EA8,extended,00000001
+
+[P12 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P12 Peashooter
+// P12 Peashooter
+patch=1,EE,203E1EAC,extended,00000001
+
+[P12 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P12 Bonecrusher
+// P12 Bonecrusher
+patch=1,EE,203E1EB0,extended,00000001
+
+[P12 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P12 Crusher To Usher
+// P12 Crusher To Usher
+patch=1,EE,203E1EB4,extended,00000001
+
+[P12 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P12 Musciles And Missiles
+// P12 Musciles And Missiles
+patch=1,EE,203E1EB8,extended,00000001
+
+[P12 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P12 Fired Up
+// P12 Fired Up
+patch=1,EE,203E1EBC,extended,00000001
+
+[P12 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P12 Ice Cold
+// P12 Ice Cold
+patch=1,EE,203E1EC0,extended,00000001
+
+[P12 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P12 Hero (Player)
+// P12 Hero (Player)
+patch=1,EE,203E1EC4,extended,00000001
+
+[P12 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P12 Ice Cold (Player)
+// P12 Ice Cold (Player)
+patch=1,EE,203E1EC8,extended,00000001
+
+[P13 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P13 Power Shot
+// P13 Power Shot
+patch=1,EE,203E1ECC,extended,00000001
+
+[P13 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P13 Peashooter
+// P13 Peashooter
+patch=1,EE,203E1ED0,extended,00000001
+
+[P13 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P13 Bonecrusher
+// P13 Bonecrusher
+patch=1,EE,203E1ED4,extended,00000001
+
+[P13 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P13 Crusher To Usher
+// P13 Crusher To Usher
+patch=1,EE,203E1ED8,extended,00000001
+
+[P13 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P13 Musciles And Missiles
+// P13 Musciles And Missiles
+patch=1,EE,203E1EDC,extended,00000001
+
+[P13 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P13 Fired Up
+// P13 Fired Up
+patch=1,EE,203E1EE0,extended,00000001
+
+[P13 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P13 Ice Cold
+// P13 Ice Cold
+patch=1,EE,203E1EE4,extended,00000001
+
+[P13 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P13 Hero (Player)
+// P13 Hero (Player)
+patch=1,EE,203E1EE8,extended,00000001
+
+[P13 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P13 Ice Cold (Player)
+// P13 Ice Cold (Player)
+patch=1,EE,203E1EEC,extended,00000001
+
+[P14 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P14 Power Shot
+// P14 Power Shot
+patch=1,EE,203E1EF0,extended,00000001
+
+[P14 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P14 Peashooter
+// P14 Peashooter
+patch=1,EE,203E1EF4,extended,00000001
+
+[P14 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P14 Bonecrusher
+// P14 Bonecrusher
+patch=1,EE,203E1EF8,extended,00000001
+
+[P14 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P14 Crusher To Usher
+// P14 Crusher To Usher
+patch=1,EE,203E1EFC,extended,00000001
+
+[P14 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P14 Musciles And Missiles
+// P14 Musciles And Missiles
+patch=1,EE,203E1F00,extended,00000001
+
+[P14 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P14 Fired Up
+// P14 Fired Up
+patch=1,EE,203E1F04,extended,00000001
+
+[P14 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P14 Ice Cold
+// P14 Ice Cold
+patch=1,EE,203E1F08,extended,00000001
+
+[P14 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P14 Hero (Player)
+// P14 Hero (Player)
+patch=1,EE,203E1F0C,extended,00000001
+
+[P14 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P14 Ice Cold (Player)
+// P14 Ice Cold (Player)
+patch=1,EE,203E1F10,extended,00000001
+
+[P15 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P15 Power Shot
+// P15 Power Shot
+patch=1,EE,203E1F14,extended,00000001
+
+[P15 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P15 Peashooter
+// P15 Peashooter
+patch=1,EE,203E1F18,extended,00000001
+
+[P15 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P15 Bonecrusher
+// P15 Bonecrusher
+patch=1,EE,203E1F1C,extended,00000001
+
+[P15 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P15 Crusher To Usher
+// P15 Crusher To Usher
+patch=1,EE,203E1F20,extended,00000001
+
+[P15 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P15 Musciles And Missiles
+// P15 Musciles And Missiles
+patch=1,EE,203E1F24,extended,00000001
+
+[P15 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P15 Fired Up
+// P15 Fired Up
+patch=1,EE,203E1F28,extended,00000001
+
+[P15 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P15 Ice Cold
+// P15 Ice Cold
+patch=1,EE,203E1F2C,extended,00000001
+
+[P15 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P15 Hero (Player)
+// P15 Hero (Player)
+patch=1,EE,203E1F30,extended,00000001
+
+[P15 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P15 Ice Cold (Player)
+// P15 Ice Cold (Player)
+patch=1,EE,203E1F34,extended,00000001
+
+[P16 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P16 Power Shot
+// P16 Power Shot
+patch=1,EE,203E1F38,extended,00000001
+
+[P16 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P16 Peashooter
+// P16 Peashooter
+patch=1,EE,203E1F3C,extended,00000001
+
+[P16 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P16 Bonecrusher
+// P16 Bonecrusher
+patch=1,EE,203E1F40,extended,00000001
+
+[P16 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P16 Crusher To Usher
+// P16 Crusher To Usher
+patch=1,EE,203E1F44,extended,00000001
+
+[P16 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P16 Musciles And Missiles
+// P16 Musciles And Missiles
+patch=1,EE,203E1F48,extended,00000001
+
+[P16 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P16 Fired Up
+// P16 Fired Up
+patch=1,EE,203E1F4C,extended,00000001
+
+[P16 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P16 Ice Cold
+// P16 Ice Cold
+patch=1,EE,203E1F50,extended,00000001
+
+[P16 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P16 Hero (Player)
+// P16 Hero (Player)
+patch=1,EE,203E1F54,extended,00000001
+
+[P16 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P16 Ice Cold (Player)
+// P16 Ice Cold (Player)
+patch=1,EE,203E1F58,extended,00000001
+
+[P17 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P17 Power Shot
+// P17 Power Shot
+patch=1,EE,203E1F5C,extended,00000001
+
+[P17 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P17 Peashooter
+// P17 Peashooter
+patch=1,EE,203E1F60,extended,00000001
+
+[P17 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P17 Bonecrusher
+// P17 Bonecrusher
+patch=1,EE,203E1F64,extended,00000001
+
+[P17 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P17 Crusher To Usher
+// P17 Crusher To Usher
+patch=1,EE,203E1F68,extended,00000001
+
+[P17 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P17 Musciles And Missiles
+// P17 Musciles And Missiles
+patch=1,EE,203E1F6C,extended,00000001
+
+[P17 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P17 Fired Up
+// P17 Fired Up
+patch=1,EE,203E1F70,extended,00000001
+
+[P17 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P17 Ice Cold
+// P17 Ice Cold
+patch=1,EE,203E1F74,extended,00000001
+
+[P17 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P17 Hero (Player)
+// P17 Hero (Player)
+patch=1,EE,203E1F78,extended,00000001
+
+[P17 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P17 Ice Cold (Player)
+// P17 Ice Cold (Player)
+patch=1,EE,203E1F7C,extended,00000001
+
+[P18 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P18 Power Shot
+// P18 Power Shot
+patch=1,EE,203E1F80,extended,00000001
+
+[P18 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P18 Peashooter
+// P18 Peashooter
+patch=1,EE,203E1F84,extended,00000001
+
+[P18 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P18 Bonecrusher
+// P18 Bonecrusher
+patch=1,EE,203E1F88,extended,00000001
+
+[P18 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P18 Crusher To Usher
+// P18 Crusher To Usher
+patch=1,EE,203E1F8C,extended,00000001
+
+[P18 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P18 Musciles And Missiles
+// P18 Musciles And Missiles
+patch=1,EE,203E1F90,extended,00000001
+
+[P18 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P18 Fired Up
+// P18 Fired Up
+patch=1,EE,203E1F94,extended,00000001
+
+[P18 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P18 Ice Cold
+// P18 Ice Cold
+patch=1,EE,203E1F98,extended,00000001
+
+[P18 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P18 Hero (Player)
+// P18 Hero (Player)
+patch=1,EE,203E1F9C,extended,00000001
+
+[P18 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P18 Ice Cold (Player)
+// P18 Ice Cold (Player)
+patch=1,EE,203E1FA0,extended,00000001
+
+[P19 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P19 Power Shot
+// P19 Power Shot
+patch=1,EE,203E1FA4,extended,00000001
+
+[P19 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P19 Peashooter
+// P19 Peashooter
+patch=1,EE,203E1FA8,extended,00000001
+
+[P19 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P19 Bonecrusher
+// P19 Bonecrusher
+patch=1,EE,203E1FAC,extended,00000001
+
+[P19 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P19 Crusher To Usher
+// P19 Crusher To Usher
+patch=1,EE,203E1FB0,extended,00000001
+
+[P19 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P19 Musciles And Missiles
+// P19 Musciles And Missiles
+patch=1,EE,203E1FB4,extended,00000001
+
+[P19 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P19 Fired Up
+// P19 Fired Up
+patch=1,EE,203E1FB8,extended,00000001
+
+[P19 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P19 Ice Cold
+// P19 Ice Cold
+patch=1,EE,203E1FBC,extended,00000001
+
+[P19 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P19 Hero (Player)
+// P19 Hero (Player)
+patch=1,EE,203E1FC0,extended,00000001
+
+[P19 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P19 Ice Cold (Player)
+// P19 Ice Cold (Player)
+patch=1,EE,203E1FC4,extended,00000001
+
+[P20 Power Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P20 Power Shot
+// P20 Power Shot
+patch=1,EE,203E1FC8,extended,00000001
+
+[P20 Peashooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P20 Peashooter
+// P20 Peashooter
+patch=1,EE,203E1FCC,extended,00000001
+
+[P20 Bonecrusher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P20 Bonecrusher
+// P20 Bonecrusher
+patch=1,EE,203E1FD0,extended,00000001
+
+[P20 Crusher To Usher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P20 Crusher To Usher
+// P20 Crusher To Usher
+patch=1,EE,203E1FD4,extended,00000001
+
+[P20 Musciles And Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P20 Musciles And Missiles
+// P20 Musciles And Missiles
+patch=1,EE,203E1FD8,extended,00000001
+
+[P20 Fired Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P20 Fired Up
+// P20 Fired Up
+patch=1,EE,203E1FDC,extended,00000001
+
+[P20 Ice Cold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P20 Ice Cold
+// P20 Ice Cold
+patch=1,EE,203E1FE0,extended,00000001
+
+[P20 Hero (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P20 Hero (Player)
+// P20 Hero (Player)
+patch=1,EE,203E1FE4,extended,00000001
+
+[P20 Ice Cold (Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P20 Ice Cold (Player)
+// P20 Ice Cold (Player)
+patch=1,EE,203E1FE8,extended,00000001

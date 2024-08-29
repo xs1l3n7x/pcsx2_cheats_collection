@@ -1,0 +1,253 @@
+gametitle=Aeon Flux [SLUS-21205] [9FA0A1B0]
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,9044A52C,extended,0C1189EB
+
+[Infinite Health (Hold {SELECT} If Stuck)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Hold {SELECT} If Stuck)
+// Infinite Health (Hold {SELECT} If Stuck)
+patch=1,EE,E002FFFF,extended,00705642
+
+[Infinite Health (Hold {SELECT} If Stuck)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Hold {SELECT} If Stuck)
+// Infinite Health (Hold {SELECT} If Stuck)
+patch=1,EE,202B29C0,extended,C4810900
+
+[Infinite Health (Hold {SELECT} If Stuck)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Hold {SELECT} If Stuck)
+// Infinite Health (Hold {SELECT} If Stuck)
+patch=1,EE,202B29C8,extended,E48108FC
+
+[Infinite Health (Hold {SELECT} If Stuck)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Hold {SELECT} If Stuck)
+// Infinite Health (Hold {SELECT} If Stuck)
+patch=1,EE,E002FFFE,extended,00705642
+
+[Infinite Health (Hold {SELECT} If Stuck)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Hold {SELECT} If Stuck)
+// Infinite Health (Hold {SELECT} If Stuck)
+patch=1,EE,202B29C0,extended,C48108FC
+
+[Infinite Health (Hold {SELECT} If Stuck)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Hold {SELECT} If Stuck)
+// Infinite Health (Hold {SELECT} If Stuck)
+patch=1,EE,202B29C8,extended,AC8008FC
+
+[Max Style]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Style
+// Max Style
+patch=1,EE,200C0220,extended,3C01447A
+
+[Max Style]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Style
+// Max Style
+patch=1,EE,200C0224,extended,03E00008
+
+[Max Style]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Style
+// Max Style
+patch=1,EE,200C0228,extended,AC812B0C
+
+[Max Style]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Style
+// Max Style
+patch=1,EE,202B6090,extended,08030088
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,202FC690,extended,00000000
+
+[Max Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo
+// Max Infinite Ammo
+patch=1,EE,202FC68C,extended,240303E7
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,102FC68C,extended,00000001
+
+[Unlock All Capsules]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Capsules
+// Unlock All Capsules
+patch=1,EE,20276348,extended,24040001
+
+[Unlock All Capsules]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Capsules
+// Unlock All Capsules
+patch=1,EE,2027634C,extended,AC640084
+
+[God Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=God Mode
+// God Mode
+patch=1,EE,70614EDC,extended,00000001
+
+[Restore Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Restore Health
+// Restore Health
+patch=1,EE,70614EDC,extended,00000002
+
+[Unlimited Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Health
+// Unlimited Health
+patch=1,EE,70614EDC,extended,00000004
+
+[Unlimited Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Ammo
+// Unlimited Ammo
+patch=1,EE,70614EDC,extended,00000010
+
+[All Replay Episodes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Replay Episodes
+// All Replay Episodes
+patch=1,EE,70614EDC,extended,00000020
+
+[Unlock Slideshows]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Slideshows
+// Unlock Slideshows
+patch=1,EE,70614EDC,extended,00000040
+
+[Unlimited Power Strikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Power Strikes
+// Unlimited Power Strikes
+patch=1,EE,70614EDD,extended,00000002
+
+[Free Fatalities]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Free Fatalities
+// Free Fatalities
+patch=1,EE,70614EDD,extended,00000004
+
+[Fun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fun
+// Fun
+patch=1,EE,70614EDD,extended,00000008
+
+[Seeds-Outfit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Seeds-Outfit
+// Seeds-Outfit
+patch=1,EE,70614EDD,extended,00000010
+
+[War-Outfit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=War-Outfit
+// War-Outfit
+patch=1,EE,70614EDD,extended,00000020
+
+[Fame-Outfit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fame-Outfit
+// Fame-Outfit
+patch=1,EE,70614EDD,extended,00000040
+
+[Bomber Jacket-Outfit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bomber Jacket-Outfit
+// Bomber Jacket-Outfit
+patch=1,EE,70614EDD,extended,00000080
+
+[Mrs. Goodchild-Outfit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mrs. Goodchild-Outfit
+// Mrs. Goodchild-Outfit
+patch=1,EE,70614EDE,extended,00000002
+
+[Revelation-Outfit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Revelation-Outfit
+// Revelation-Outfit
+patch=1,EE,70614EDE,extended,00000004
+
+[More Various Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=More Various Outfits
+// More Various Outfits
+patch=1,EE,70614EDE,extended,00000008
+
+[One Strike Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=One Strike Kills
+// One Strike Kills
+patch=1,EE,70614EDE,extended,00000010
+
+[Action Movie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Action Movie
+// Action Movie
+patch=1,EE,70614EDE,extended,00000020
+
+[All Cheats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Cheats
+// All Cheats
+patch=1,EE,20614EDC,extended,FFFFFFFF
+
+[God Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=God Mode
+// God Mode
+patch=1,EE,20501240,extended,00000001
+
+[Unlimited Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Ammo
+// Unlimited Ammo
+patch=1,EE,20501264,extended,00000001
+
+[Unlimited Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Health
+// Unlimited Health
+patch=1,EE,2050761C,extended,00000001
+
+[Free Fatalities]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Free Fatalities
+// Free Fatalities
+patch=1,EE,20507628,extended,00000001
+
+[One Strike Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=One Strike Kills
+// One Strike Kills
+patch=1,EE,2050762C,extended,00000001
+
+[Action Movie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Action Movie
+// Action Movie
+patch=1,EE,20507630,extended,00000001
+
+[Unlimited Power Strikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Power Strikes
+// Unlimited Power Strikes
+patch=1,EE,20507654,extended,00000001

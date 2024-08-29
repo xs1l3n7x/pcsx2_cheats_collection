@@ -1,0 +1,25 @@
+gametitle=Woody Woodpecker [SLES-50613] [B9A91CA8]
+
+[Have All Accessories For Sale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Accessories For Sale
+// Have All Accessories For Sale
+patch=1,EE,F0100008,extended,0012C2E7
+
+[Infinite Lives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives
+// Infinite Lives
+patch=1,EE,10920A7C,extended,0000000A
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,10920A80,extended,0000270F
+
+[Infinite Special Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Special Movies
+// Infinite Special Movies
+patch=1,EE,10920A84,extended,00000063

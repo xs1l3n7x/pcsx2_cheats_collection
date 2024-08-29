@@ -1,0 +1,85 @@
+gametitle=Gitaroo Man [SLPM-65012] [C1767D64]
+
+[Unlock All Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Missions
+// Unlock All Missions
+patch=1,EE,F0100008,extended,001350A7
+
+[Have All Collection]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Collection
+// Have All Collection
+patch=1,EE,2029C0A0,extended,FFFFFFFF
+
+[Movie 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 1
+// Movie 1
+patch=1,EE,2026EA20,extended,00000001
+
+[Movie 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 2
+// Movie 2
+patch=1,EE,2026EA30,extended,00000001
+
+[Movie 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 3
+// Movie 3
+patch=1,EE,2026EA40,extended,00000001
+
+[Movie 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 4
+// Movie 4
+patch=1,EE,2026EA50,extended,00000001
+
+[Movie 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 5
+// Movie 5
+patch=1,EE,2026EA60,extended,00000001
+
+[Movie 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 6
+// Movie 6
+patch=1,EE,2026EA70,extended,00000001
+
+[Movie 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 7
+// Movie 7
+patch=1,EE,2026EA80,extended,00000001
+
+[Movie 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 8
+// Movie 8
+patch=1,EE,2026EA90,extended,00000001
+
+[Movie 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 9
+// Movie 9
+patch=1,EE,2026EAA0,extended,00000001
+
+[Movie 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 10
+// Movie 10
+patch=1,EE,2026EAB0,extended,00000001
+
+[Movie 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 11
+// Movie 11
+patch=1,EE,2026EAC0,extended,00000001
+
+[Movie 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 12
+// Movie 12
+patch=1,EE,2026EAD0,extended,00000001

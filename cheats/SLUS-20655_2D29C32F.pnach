@@ -1,0 +1,841 @@
+gametitle=Hobbit, The [SLUS-20655] [2D29C32F]
+
+[Slow Motion ({R2}+Up=On & {R2}+Down=Off)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slow Motion ({R2}+Up=On & {R2}+Down=Off)
+// Slow Motion ({R2}+Up=On & {R2}+Down=Off)
+patch=1,EE,903D236C,extended,0C0ED034
+
+[Max Silver Pennies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Silver Pennies
+// Max Silver Pennies
+patch=1,EE,2046C630,extended,461C3C00
+
+[Infinite Rocks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Rocks
+// Infinite Rocks
+patch=1,EE,2046C634,extended,41200000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2046C63C,extended,42F00000
+
+[Max Total Courage Points Earned]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Courage Points Earned
+// Max Total Courage Points Earned
+patch=1,EE,2046C648,extended,461C3C00
+
+[Max Summary Courage Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Summary Courage Points
+// Max Summary Courage Points
+patch=1,EE,2046C650,extended,44960000
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,2046C64C,extended,463B8000
+
+[Have Large Rock Bag]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Large Rock Bag
+// Have Large Rock Bag
+patch=1,EE,2046C680,extended,40000000
+
+[Have Large Medicine Chest]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Large Medicine Chest
+// Have Large Medicine Chest
+patch=1,EE,2046C684,extended,40000000
+
+[Infinite Skeleton Keys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Skeleton Keys
+// Infinite Skeleton Keys
+patch=1,EE,2046C688,extended,42C60000
+
+[Max Summary Silver Pennies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Summary Silver Pennies
+// Max Summary Silver Pennies
+patch=1,EE,2046C68C,extended,43C80000
+
+[Max Summary Chests]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Summary Chests
+// Max Summary Chests
+patch=1,EE,2046C690,extended,40A00000
+
+[Infinite Health Potions (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health Potions (5)
+// Infinite Health Potions (5)
+patch=1,EE,D046C684,extended,00000000
+
+[Infinite Health Potions (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health Potions (5)
+// Infinite Health Potions (5)
+patch=1,EE,2046C6EC,extended,40A00000
+
+[Infinite Health Potions (10)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health Potions (10)
+// Infinite Health Potions (10)
+patch=1,EE,D046C684,extended,00003F80
+
+[Infinite Health Potions (10)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health Potions (10)
+// Infinite Health Potions (10)
+patch=1,EE,2046C6EC,extended,41200000
+
+[Infinite Health Potions (15)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health Potions (15)
+// Infinite Health Potions (15)
+patch=1,EE,D046C684,extended,00004000
+
+[Infinite Health Potions (15)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health Potions (15)
+// Infinite Health Potions (15)
+patch=1,EE,2046C6EC,extended,41700000
+
+[Infinite Antidote Potions (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Antidote Potions (5)
+// Infinite Antidote Potions (5)
+patch=1,EE,D046C684,extended,00000000
+
+[Infinite Antidote Potions (5)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Antidote Potions (5)
+// Infinite Antidote Potions (5)
+patch=1,EE,2046C6F0,extended,40A00000
+
+[Infinite Antidote Potions (10)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Antidote Potions (10)
+// Infinite Antidote Potions (10)
+patch=1,EE,D046C684,extended,00003F80
+
+[Infinite Antidote Potions (10)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Antidote Potions (10)
+// Infinite Antidote Potions (10)
+patch=1,EE,2046C6F0,extended,41200000
+
+[Infinite Antidote Potions (15)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Antidote Potions (15)
+// Infinite Antidote Potions (15)
+patch=1,EE,D046C684,extended,00004000
+
+[Infinite Antidote Potions (15)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Antidote Potions (15)
+// Infinite Antidote Potions (15)
+patch=1,EE,2046C6F0,extended,41700000
+
+[Have Water Of Vigour (1)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Water Of Vigour (1)
+// Have Water Of Vigour (1)
+patch=1,EE,D046C682,extended,00000000
+
+[Have Water Of Vigour (1)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Water Of Vigour (1)
+// Have Water Of Vigour (1)
+patch=1,EE,2046C6F4,extended,3F800000
+
+[Have Water Of Vigour (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Water Of Vigour (2)
+// Have Water Of Vigour (2)
+patch=1,EE,D046C682,extended,00003F80
+
+[Have Water Of Vigour (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Water Of Vigour (2)
+// Have Water Of Vigour (2)
+patch=1,EE,2046C6F4,extended,40000000
+
+[Have Water Of Vigour (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Water Of Vigour (3)
+// Have Water Of Vigour (3)
+patch=1,EE,D046C682,extended,00004000
+
+[Have Water Of Vigour (3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Water Of Vigour (3)
+// Have Water Of Vigour (3)
+patch=1,EE,2046C6F4,extended,40400000
+
+[Have Walking Stick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Walking Stick
+// Have Walking Stick
+patch=1,EE,2046C700,extended,3F800000
+
+[Have Upgrade Level 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Upgrade Level 1
+// Have Upgrade Level 1
+patch=1,EE,2046C6A0,extended,3F800000
+
+[Have Upgrade Level 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Upgrade Level 2
+// Have Upgrade Level 2
+patch=1,EE,2046C6A4,extended,3F800000
+
+[Have Upgrade Level 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Upgrade Level 3
+// Have Upgrade Level 3
+patch=1,EE,2046C6A8,extended,3F800000
+
+[Have Jump Attack-Upgrade Level 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Jump Attack-Upgrade Level 1
+// Have Jump Attack-Upgrade Level 1
+patch=1,EE,2046C6AC,extended,3F800000
+
+[Have Jump Attack-Upgrade Level 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Jump Attack-Upgrade Level 2
+// Have Jump Attack-Upgrade Level 2
+patch=1,EE,2046C6B0,extended,3F800000
+
+[Have Jump Attack-Upgrade Level 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Jump Attack-Upgrade Level 3
+// Have Jump Attack-Upgrade Level 3
+patch=1,EE,2046C6B4,extended,3F800000
+
+[Have Sting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Sting
+// Have Sting
+patch=1,EE,2046C6F8,extended,3F800000
+
+[Have Upgrade Level 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Upgrade Level 1
+// Have Upgrade Level 1
+patch=1,EE,2046C6C4,extended,3F800000
+
+[Have Upgrade Level 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Upgrade Level 2
+// Have Upgrade Level 2
+patch=1,EE,2046C6C8,extended,3F800000
+
+[Have Upgrade Level 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Upgrade Level 3
+// Have Upgrade Level 3
+patch=1,EE,2046C6CC,extended,3F800000
+
+[Have Jump Attack-Upgrade Level 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Jump Attack-Upgrade Level 1
+// Have Jump Attack-Upgrade Level 1
+patch=1,EE,2046C6D0,extended,3F800000
+
+[Have Jump Attack-Upgrade Level 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Jump Attack-Upgrade Level 2
+// Have Jump Attack-Upgrade Level 2
+patch=1,EE,2046C6D4,extended,3F800000
+
+[Have Jump Attack-Upgrade Level 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Jump Attack-Upgrade Level 3
+// Have Jump Attack-Upgrade Level 3
+patch=1,EE,2046C6D8,extended,3F800000
+
+[Have Upgrade Level 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Upgrade Level 1
+// Have Upgrade Level 1
+patch=1,EE,2046C6DC,extended,3F800000
+
+[Have Upgrade Level 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Upgrade Level 2
+// Have Upgrade Level 2
+patch=1,EE,2046C6E0,extended,3F800000
+
+[Have Upgrade Level 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Upgrade Level 3
+// Have Upgrade Level 3
+patch=1,EE,2046C6E4,extended,3F800000
+
+[Troll Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Troll Key
+// Troll Key
+patch=1,EE,2046C718,extended,3F800000
+
+[Witch-King Crystal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Witch-King Crystal
+// Witch-King Crystal
+patch=1,EE,2046C71C,extended,3F800000
+
+[Burberry Plant]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Burberry Plant
+// Burberry Plant
+patch=1,EE,2046C720,extended,3F800000
+
+[Blue Urn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Urn
+// Blue Urn
+patch=1,EE,2046C724,extended,3F800000
+
+[Red Urn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Urn
+// Red Urn
+patch=1,EE,2046C728,extended,3F800000
+
+[Yellow Urn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yellow Urn
+// Yellow Urn
+patch=1,EE,2046C72C,extended,3F800000
+
+[Unlit Torch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlit Torch
+// Unlit Torch
+patch=1,EE,2046C730,extended,3F800000
+
+[Lit Torch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lit Torch
+// Lit Torch
+patch=1,EE,2046C734,extended,3F800000
+
+[Bellows]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bellows
+// Bellows
+patch=1,EE,2046C738,extended,3F800000
+
+[Signet Ring]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Signet Ring
+// Signet Ring
+patch=1,EE,2046C73C,extended,3F800000
+
+[Can Of Oil]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Can Of Oil
+// Can Of Oil
+patch=1,EE,2046C740,extended,3F800000
+
+[Small Iron Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Small Iron Gear
+// Small Iron Gear
+patch=1,EE,2046C744,extended,3F800000
+
+[Small Silver Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Small Silver Gear
+// Small Silver Gear
+patch=1,EE,2046C748,extended,3F800000
+
+[Small Golden Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Small Golden Gear
+// Small Golden Gear
+patch=1,EE,2046C74C,extended,3F800000
+
+[Small Copper Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Small Copper Gear
+// Small Copper Gear
+patch=1,EE,2046C750,extended,3F800000
+
+[Small Metallic Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Small Metallic Gear
+// Small Metallic Gear
+patch=1,EE,2046C754,extended,3F800000
+
+[Iron Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Iron Gear
+// Iron Gear
+patch=1,EE,2046C758,extended,3F800000
+
+[Silver Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver Gear
+// Silver Gear
+patch=1,EE,2046C75C,extended,3F800000
+
+[Golden Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Golden Gear
+// Golden Gear
+patch=1,EE,2046C760,extended,3F800000
+
+[Copper Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Copper Gear
+// Copper Gear
+patch=1,EE,2046C764,extended,3F800000
+
+[Metallic Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metallic Gear
+// Metallic Gear
+patch=1,EE,2046C768,extended,3F800000
+
+[Large Iron Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Large Iron Gear
+// Large Iron Gear
+patch=1,EE,2046C76C,extended,3F800000
+
+[Large Silver Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Large Silver Gear
+// Large Silver Gear
+patch=1,EE,2046C770,extended,3F800000
+
+[Large Golden Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Large Golden Gear
+// Large Golden Gear
+patch=1,EE,2046C774,extended,3F800000
+
+[Large Copper Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Large Copper Gear
+// Large Copper Gear
+patch=1,EE,2046C778,extended,3F800000
+
+[Large Metallic Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Large Metallic Gear
+// Large Metallic Gear
+patch=1,EE,2046C77C,extended,3F800000
+
+[Iron Shank Head]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Iron Shank Head
+// Iron Shank Head
+patch=1,EE,2046C780,extended,3F800000
+
+[Silver Shank Head]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver Shank Head
+// Silver Shank Head
+patch=1,EE,2046C784,extended,3F800000
+
+[Gold Shank Head]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Shank Head
+// Gold Shank Head
+patch=1,EE,2046C788,extended,3F800000
+
+[Copper Shank Arm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Copper Shank Arm
+// Copper Shank Arm
+patch=1,EE,2046C78C,extended,3F800000
+
+[Metallic Shank Arm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metallic Shank Arm
+// Metallic Shank Arm
+patch=1,EE,2046C790,extended,3F800000
+
+[Iron Shank Arm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Iron Shank Arm
+// Iron Shank Arm
+patch=1,EE,2046C794,extended,3F800000
+
+[Silver Shank Arm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver Shank Arm
+// Silver Shank Arm
+patch=1,EE,2046C798,extended,3F800000
+
+[Gold Shank Arm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Shank Arm
+// Gold Shank Arm
+patch=1,EE,2046C79C,extended,3F800000
+
+[Copper Shank Arm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Copper Shank Arm
+// Copper Shank Arm
+patch=1,EE,2046C7A0,extended,3F800000
+
+[Metallic Shank Arm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metallic Shank Arm
+// Metallic Shank Arm
+patch=1,EE,2046C7A4,extended,3F800000
+
+[Firewood]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Firewood
+// Firewood
+patch=1,EE,2046C7A8,extended,3F800000
+
+[Grit-Lift Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grit-Lift Key
+// Grit-Lift Key
+patch=1,EE,2046C7AC,extended,3F800000
+
+[Dim-Lift Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dim-Lift Key
+// Dim-Lift Key
+patch=1,EE,2046C7B0,extended,3F800000
+
+[Mugg-Lift Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mugg-Lift Key
+// Mugg-Lift Key
+patch=1,EE,2046C7B4,extended,3F800000
+
+[Wart-Lift Lever]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wart-Lift Lever
+// Wart-Lift Lever
+patch=1,EE,2046C7C8,extended,3F800000
+
+[Wart-Stone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wart-Stone
+// Wart-Stone
+patch=1,EE,2046C7CC,extended,3F800000
+
+[Thror's Golden Cup]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thror's Golden Cup
+// Thror's Golden Cup
+patch=1,EE,2046C7D0,extended,3F800000
+
+[Necklace Of Girion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Necklace Of Girion
+// Necklace Of Girion
+patch=1,EE,2046C7D4,extended,3F800000
+
+[Groin's Ruby]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Groin's Ruby
+// Groin's Ruby
+patch=1,EE,2046C7D8,extended,3F800000
+
+[King Bladorthin's Spears]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=King Bladorthin's Spears
+// King Bladorthin's Spears
+patch=1,EE,2046C7DC,extended,3F800000
+
+[Golden Serving Dish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Golden Serving Dish
+// Golden Serving Dish
+patch=1,EE,2046C7E0,extended,3F800000
+
+[Tea-Cakes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tea-Cakes
+// Tea-Cakes
+patch=1,EE,2046C7E4,extended,3F800000
+
+[Infinite Apples]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Apples
+// Infinite Apples
+patch=1,EE,2046C7F0,extended,41200000
+
+[Hammer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hammer
+// Hammer
+patch=1,EE,2046C7F4,extended,3F800000
+
+[Infinite Nails]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Nails
+// Infinite Nails
+patch=1,EE,2046C7F8,extended,41200000
+
+[Infinite Eggs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Eggs
+// Infinite Eggs
+patch=1,EE,2046C800,extended,41200000
+
+[Infinite Berries]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Berries
+// Infinite Berries
+patch=1,EE,2046C804,extended,41200000
+
+[Sack Of Wheat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sack Of Wheat
+// Sack Of Wheat
+patch=1,EE,2046C808,extended,3F800000
+
+[Sugar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sugar
+// Sugar
+patch=1,EE,2046C80C,extended,3F800000
+
+[Spice]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spice
+// Spice
+patch=1,EE,2046C810,extended,3F800000
+
+[Sauasage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sauasage
+// Sauasage
+patch=1,EE,2046C814,extended,3F800000
+
+[Wheat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wheat
+// Wheat
+patch=1,EE,2046C818,extended,3F800000
+
+[Quilting Needle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quilting Needle
+// Quilting Needle
+patch=1,EE,2046C820,extended,3F800000
+
+[Elvish Opening Crystal 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elvish Opening Crystal 1
+// Elvish Opening Crystal 1
+patch=1,EE,2046C824,extended,3F800000
+
+[Elvish Opening Crystal 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elvish Opening Crystal 2
+// Elvish Opening Crystal 2
+patch=1,EE,2046C828,extended,3F800000
+
+[Elvish Opening Crystal 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elvish Opening Crystal 3
+// Elvish Opening Crystal 3
+patch=1,EE,2046C82C,extended,3F800000
+
+[Elvish Opening Crystal 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elvish Opening Crystal 4
+// Elvish Opening Crystal 4
+patch=1,EE,2046C830,extended,3F800000
+
+[Deep Cellar Key 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Deep Cellar Key 1
+// Deep Cellar Key 1
+patch=1,EE,2046C838,extended,3F800000
+
+[Deep Cellar Key 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Deep Cellar Key 2
+// Deep Cellar Key 2
+patch=1,EE,2046C83C,extended,3F800000
+
+[Deep Cellar Key 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Deep Cellar Key 3
+// Deep Cellar Key 3
+patch=1,EE,2046C840,extended,3F800000
+
+[Deep Cellar Key 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Deep Cellar Key 4
+// Deep Cellar Key 4
+patch=1,EE,2046C844,extended,3F800000
+
+[Moonleaf]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Moonleaf
+// Moonleaf
+patch=1,EE,2046C84C,extended,3F800000
+
+[Willowweed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Willowweed
+// Willowweed
+patch=1,EE,2046C850,extended,3F800000
+
+[Spidersbane]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spidersbane
+// Spidersbane
+patch=1,EE,2046C854,extended,3F800000
+
+[Web Potion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Web Potion
+// Web Potion
+patch=1,EE,2046C858,extended,3F800000
+
+[Gear Belt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear Belt
+// Gear Belt
+patch=1,EE,2046C85C,extended,3F800000
+
+[Treasury Chain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Treasury Chain
+// Treasury Chain
+patch=1,EE,2046C860,extended,3F800000
+
+[Treasury Key Mold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Treasury Key Mold
+// Treasury Key Mold
+patch=1,EE,2046C864,extended,3F800000
+
+[Throne Key Mold 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throne Key Mold 1
+// Throne Key Mold 1
+patch=1,EE,2046C868,extended,3F800000
+
+[Throne Key Mold 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throne Key Mold 2
+// Throne Key Mold 2
+patch=1,EE,2046C86C,extended,3F800000
+
+[Treasure Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Treasure Key
+// Treasure Key
+patch=1,EE,2046C870,extended,3F800000
+
+[Throne Key 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throne Key 1
+// Throne Key 1
+patch=1,EE,2046C874,extended,3F800000
+
+[Throne Key 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throne Key 2
+// Throne Key 2
+patch=1,EE,2046C878,extended,3F800000
+
+[Arkenstone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arkenstone
+// Arkenstone
+patch=1,EE,2046C87C,extended,3F800000
+
+[City Warehouse Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Warehouse Key
+// City Warehouse Key
+patch=1,EE,2046C880,extended,3F800000
+
+[Black Arrow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Arrow
+// Black Arrow
+patch=1,EE,2046C884,extended,3F800000
+
+[Malloc's Golden Dagger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Malloc's Golden Dagger
+// Malloc's Golden Dagger
+patch=1,EE,2046C888,extended,3F800000
+
+[Black Wine Bottle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Wine Bottle
+// Black Wine Bottle
+patch=1,EE,2046C88C,extended,3F800000
+
+[Blue Wine Bottle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Wine Bottle
+// Blue Wine Bottle
+patch=1,EE,2046C890,extended,3F800000
+
+[Purple Wine Bottle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Purple Wine Bottle
+// Purple Wine Bottle
+patch=1,EE,2046C894,extended,3F800000
+
+[Red Wine Bottle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Wine Bottle
+// Red Wine Bottle
+patch=1,EE,2046C898,extended,3F800000
+
+[Yellow Wine Bottle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yellow Wine Bottle
+// Yellow Wine Bottle
+patch=1,EE,2046C89C,extended,3F800000
+
+[Gandalf's Message]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gandalf's Message
+// Gandalf's Message
+patch=1,EE,2046C8A0,extended,3F800000
+
+[Healing Draught]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Healing Draught
+// Healing Draught
+patch=1,EE,2046C8A4,extended,3F800000
+
+[Troll Key 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Troll Key 8
+// Troll Key 8
+patch=1,EE,2046C8A8,extended,3F800000
+
+[Ladder Switch Lever]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ladder Switch Lever
+// Ladder Switch Lever
+patch=1,EE,2046C8AC,extended,3F800000
+
+[Rennar's Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rennar's Key
+// Rennar's Key
+patch=1,EE,2046C8B0,extended,3F800000

@@ -1,0 +1,157 @@
+gametitle=Batman Begins [SLUS-21198] [57EB973A]
+
+[No Total Weight P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Total Weight P2
+// No Total Weight P2
+patch=1,EE,90375930,extended,0C0E161B
+
+[Max Reputation]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Reputation
+// Max Reputation
+patch=1,EE,20120A58,extended,3C0142C8
+
+[Max Reputation]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Reputation
+// Max Reputation
+patch=1,EE,20120A5C,extended,AC610528
+
+[Infinite Gadgets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Gadgets
+// Infinite Gadgets
+patch=1,EE,20138450,extended,00000000
+
+[Max Infinite Gadgets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Gadgets
+// Max Infinite Gadgets
+patch=1,EE,2013844C,extended,240203E7
+
+[Extra Gadgets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Gadgets
+// Extra Gadgets
+patch=1,EE,2013844C,extended,00D11021
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2015ABD8,extended,8E040BAC
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2015ABDC,extended,AE040BA8
+
+[1-Hit Deaths (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Deaths (Enemies)
+// 1-Hit Deaths (Enemies)
+patch=1,EE,201F55B4,extended,A0800008
+
+[Infinite Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Armor
+// Infinite Armor
+patch=1,EE,202690F0,extended,00000000
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,203BB554,extended,001570E4
+
+[Max Area Fear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Area Fear
+// Max Area Fear
+patch=1,EE,204092A0,extended,42C80000
+
+[Always Low Game Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Game Time
+// Always Low Game Time
+patch=1,EE,2040B1F4,extended,00000000
+
+[Always Low Game Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Game Time
+// Always Low Game Time
+patch=1,EE,2040BF00,extended,00000000
+
+[Never Blurred Vision]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Blurred Vision
+// Never Blurred Vision
+patch=1,EE,2040E138,extended,00000000
+
+[Never Blurred Vision]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Blurred Vision
+// Never Blurred Vision
+patch=1,EE,2040E13C,extended,00000000
+
+[P1 Press {L1}+Up For Super Game Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Super Game Speed
+// P1 Press {L1}+Up For Super Game Speed
+patch=1,EE,D0448642,extended,0000FBEF
+
+[P1 Press {L1}+Up For Super Game Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Super Game Speed
+// P1 Press {L1}+Up For Super Game Speed
+patch=1,EE,2040E114,extended,3F800000
+
+[P1 Press {L1}+Down For Hyper Game Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down For Hyper Game Speed
+// P1 Press {L1}+Down For Hyper Game Speed
+patch=1,EE,D0448642,extended,0000FBBF
+
+[P1 Press {L1}+Down For Hyper Game Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down For Hyper Game Speed
+// P1 Press {L1}+Down For Hyper Game Speed
+patch=1,EE,2040E114,extended,3F800000
+
+[P1 Press {L1}+Left For Slow Game Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Left For Slow Game Speed
+// P1 Press {L1}+Left For Slow Game Speed
+patch=1,EE,D0448642,extended,0000FB7F
+
+[P1 Press {L1}+Left For Slow Game Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Left For Slow Game Speed
+// P1 Press {L1}+Left For Slow Game Speed
+patch=1,EE,2040E114,extended,3F000000
+
+[P1 Press {L1}+Right For Super Slow Game Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right For Super Slow Game Speed
+// P1 Press {L1}+Right For Super Slow Game Speed
+patch=1,EE,D0448642,extended,0000FBDF
+
+[P1 Press {L1}+Right For Super Slow Game Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right For Super Slow Game Speed
+// P1 Press {L1}+Right For Super Slow Game Speed
+patch=1,EE,2040E114,extended,3E800000
+
+[P1 Press {L1}+{L2} For Normal Game Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L2} For Normal Game Speed
+// P1 Press {L1}+{L2} For Normal Game Speed
+patch=1,EE,D0448642,extended,0000FAFF
+
+[P1 Press {L1}+{L2} For Normal Game Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L2} For Normal Game Speed
+// P1 Press {L1}+{L2} For Normal Game Speed
+patch=1,EE,2040E114,extended,3F800000

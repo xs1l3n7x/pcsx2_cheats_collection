@@ -1,0 +1,1243 @@
+gametitle=Ratchet & Clank [SCES-50916] [6A8F18B9]
+
+[All Locations]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Locations
+// All Locations
+patch=1,EE,90124C58,extended,0C045492
+
+[Infinite Air]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Air
+// Infinite Air
+patch=1,EE,201415F0,extended,00002710
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201415F8,extended,00000004
+
+[Night Vision]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Night Vision
+// Night Vision
+patch=1,EE,2015F30C,extended,00000001
+
+[Quick Bolt Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Bolt Gain
+// Quick Bolt Gain
+patch=1,EE,0015ED98,extended,000000FF
+
+[Super Quick Bolt Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Quick Bolt Gain
+// Super Quick Bolt Gain
+patch=1,EE,1015ED98,extended,0000FFFF
+
+[Max Bolts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bolts
+// Max Bolts
+patch=1,EE,2015ED98,extended,05F5E0FF
+
+[Unlock Goodies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Goodies
+// Unlock Goodies
+patch=1,EE,2015EE20,extended,00000001
+
+[Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Moon Jump
+// Press {CROSS} For Moon Jump
+patch=1,EE,200C0220,extended,3C010014
+
+[Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Moon Jump
+// Press {CROSS} For Moon Jump
+patch=1,EE,200C0224,extended,9423C95C
+
+[Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Moon Jump
+// Press {CROSS} For Moon Jump
+patch=1,EE,200C0228,extended,30634000
+
+[Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Moon Jump
+// Press {CROSS} For Moon Jump
+patch=1,EE,200C022C,extended,14600004
+
+[Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Moon Jump
+// Press {CROSS} For Moon Jump
+patch=1,EE,200C0230,extended,34038000
+
+[Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Moon Jump
+// Press {CROSS} For Moon Jump
+patch=1,EE,200C0234,extended,8C24F3D8
+
+[Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Moon Jump
+// Press {CROSS} For Moon Jump
+patch=1,EE,200C0238,extended,00832021
+
+[Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Moon Jump
+// Press {CROSS} For Moon Jump
+patch=1,EE,200C023C,extended,AC24F3D8
+
+[Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Moon Jump
+// Press {CROSS} For Moon Jump
+patch=1,EE,200C0240,extended,03E00008
+
+[Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Moon Jump
+// Press {CROSS} For Moon Jump
+patch=1,EE,200C0244,extended,00000000
+
+[Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Moon Jump
+// Press {CROSS} For Moon Jump
+patch=1,EE,20124CA4,extended,08030088
+
+[Press {CROSS} For Super Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Super Moon Jump
+// Press {CROSS} For Super Moon Jump
+patch=1,EE,200C0220,extended,3C010014
+
+[Press {CROSS} For Super Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Super Moon Jump
+// Press {CROSS} For Super Moon Jump
+patch=1,EE,200C0224,extended,9423C95C
+
+[Press {CROSS} For Super Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Super Moon Jump
+// Press {CROSS} For Super Moon Jump
+patch=1,EE,200C0228,extended,30634000
+
+[Press {CROSS} For Super Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Super Moon Jump
+// Press {CROSS} For Super Moon Jump
+patch=1,EE,200C022C,extended,14600004
+
+[Press {CROSS} For Super Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Super Moon Jump
+// Press {CROSS} For Super Moon Jump
+patch=1,EE,200C0230,extended,3C038001
+
+[Press {CROSS} For Super Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Super Moon Jump
+// Press {CROSS} For Super Moon Jump
+patch=1,EE,200C0234,extended,8C24F3D8
+
+[Press {CROSS} For Super Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Super Moon Jump
+// Press {CROSS} For Super Moon Jump
+patch=1,EE,200C0238,extended,00832021
+
+[Press {CROSS} For Super Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Super Moon Jump
+// Press {CROSS} For Super Moon Jump
+patch=1,EE,200C023C,extended,AC24F3D8
+
+[Press {CROSS} For Super Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Super Moon Jump
+// Press {CROSS} For Super Moon Jump
+patch=1,EE,200C0240,extended,03E00008
+
+[Press {CROSS} For Super Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Super Moon Jump
+// Press {CROSS} For Super Moon Jump
+patch=1,EE,200C0244,extended,00000000
+
+[Press {CROSS} For Super Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Super Moon Jump
+// Press {CROSS} For Super Moon Jump
+patch=1,EE,20124CA4,extended,08030088
+
+[Bomb Glove]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bomb Glove
+// Bomb Glove
+patch=1,EE,2013D450,extended,00000028
+
+[Devastator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Devastator
+// Devastator
+patch=1,EE,2013D454,extended,00000014
+
+[Visibomb Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Visibomb Gun
+// Visibomb Gun
+patch=1,EE,2013D45C,extended,00000014
+
+[Blaster]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blaster
+// Blaster
+patch=1,EE,2013D464,extended,000000C8
+
+[Pyrocitor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pyrocitor
+// Pyrocitor
+patch=1,EE,2013D468,extended,000000F0
+
+[Mine Glove]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mine Glove
+// Mine Glove
+patch=1,EE,2013D46C,extended,00000032
+
+[Tesla Claw]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tesla Claw
+// Tesla Claw
+patch=1,EE,2013D474,extended,000000F0
+
+[Glove Of Doom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Glove Of Doom
+// Glove Of Doom
+patch=1,EE,2013D478,extended,0000000A
+
+[R.Y.N.O.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R.Y.N.O.
+// R.Y.N.O.
+patch=1,EE,2013D484,extended,00000032
+
+[Drone Device]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Drone Device
+// Drone Device
+patch=1,EE,2013D488,extended,0000000A
+
+[Decoy Glove]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Decoy Glove
+// Decoy Glove
+patch=1,EE,2013D48C,extended,00000014
+
+[Gold Suck Cannon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Suck Cannon
+// Gold Suck Cannon
+patch=1,EE,0013D4C9,extended,00000001
+
+[Gold Suck Cannon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Suck Cannon
+// Gold Suck Cannon
+patch=1,EE,0013E529,extended,00000001
+
+[Gold Bomb Glove]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Bomb Glove
+// Gold Bomb Glove
+patch=1,EE,0013D4CA,extended,00000001
+
+[Gold Bomb Glove]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Bomb Glove
+// Gold Bomb Glove
+patch=1,EE,0013E52A,extended,00000001
+
+[Gold Devastator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Devastator
+// Gold Devastator
+patch=1,EE,0013D4CB,extended,00000001
+
+[Gold Devastator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Devastator
+// Gold Devastator
+patch=1,EE,0013E52B,extended,00000001
+
+[Gold Visibomb Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Visibomb Gun
+// Gold Visibomb Gun
+patch=1,EE,0013D4CD,extended,00000001
+
+[Gold Visibomb Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Visibomb Gun
+// Gold Visibomb Gun
+patch=1,EE,0013E52D,extended,00000001
+
+[Gold Taunter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Taunter
+// Gold Taunter
+patch=1,EE,0013D4CE,extended,00000001
+
+[Gold Taunter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Taunter
+// Gold Taunter
+patch=1,EE,0013E52E,extended,00000001
+
+[Gold Blaster]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Blaster
+// Gold Blaster
+patch=1,EE,0013D4CF,extended,00000001
+
+[Gold Blaster]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Blaster
+// Gold Blaster
+patch=1,EE,0013E52F,extended,00000001
+
+[Gold Pyrocitor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Pyrocitor
+// Gold Pyrocitor
+patch=1,EE,0013D4D0,extended,00000001
+
+[Gold Pyrocitor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Pyrocitor
+// Gold Pyrocitor
+patch=1,EE,0013E530,extended,00000001
+
+[Gold Mine Glove]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Mine Glove
+// Gold Mine Glove
+patch=1,EE,0013D4D1,extended,00000001
+
+[Gold Mine Glove]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Mine Glove
+// Gold Mine Glove
+patch=1,EE,0013E531,extended,00000001
+
+[Gold Walloper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Walloper
+// Gold Walloper
+patch=1,EE,0013D4D2,extended,00000001
+
+[Gold Walloper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Walloper
+// Gold Walloper
+patch=1,EE,0013E532,extended,00000001
+
+[Gold Tesla Claw]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Tesla Claw
+// Gold Tesla Claw
+patch=1,EE,0013D4D3,extended,00000001
+
+[Gold Tesla Claw]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Tesla Claw
+// Gold Tesla Claw
+patch=1,EE,0013E533,extended,00000001
+
+[Gold Glove Of Doom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Glove Of Doom
+// Gold Glove Of Doom
+patch=1,EE,0013D4D4,extended,00000001
+
+[Gold Glove Of Doom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Glove Of Doom
+// Gold Glove Of Doom
+patch=1,EE,0013E534,extended,00000001
+
+[Gold Morp-O-Ray]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Morp-O-Ray
+// Gold Morp-O-Ray
+patch=1,EE,0013D4D5,extended,00000001
+
+[Gold Morp-O-Ray]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Morp-O-Ray
+// Gold Morp-O-Ray
+patch=1,EE,0013E535,extended,00000001
+
+[Gold R.Y.N.O.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold R.Y.N.O.
+// Gold R.Y.N.O.
+patch=1,EE,0013D4D7,extended,00000001
+
+[Gold R.Y.N.O.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold R.Y.N.O.
+// Gold R.Y.N.O.
+patch=1,EE,0013E537,extended,00000001
+
+[Gold Drone Device]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Drone Device
+// Gold Drone Device
+patch=1,EE,0013D4D8,extended,00000001
+
+[Gold Drone Device]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Drone Device
+// Gold Drone Device
+patch=1,EE,0013E538,extended,00000001
+
+[Gold Decoy Glove]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Decoy Glove
+// Gold Decoy Glove
+patch=1,EE,0013D4D9,extended,00000001
+
+[Gold Decoy Glove]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Decoy Glove
+// Gold Decoy Glove
+patch=1,EE,0013E539,extended,00000001
+
+[Swingshot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Swingshot
+// Swingshot
+patch=1,EE,0013D4CC,extended,00000001
+
+[Hydrodisplacer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hydrodisplacer
+// Hydrodisplacer
+patch=1,EE,0013D4D6,extended,00000001
+
+[Trespasser]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trespasser
+// Trespasser
+patch=1,EE,0013D4DA,extended,00000001
+
+[Metal Detector]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metal Detector
+// Metal Detector
+patch=1,EE,0013D4DB,extended,00000001
+
+[Hologuise]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hologuise
+// Hologuise
+patch=1,EE,0013D4DF,extended,00000001
+
+[Gadgetron PDA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gadgetron PDA
+// Gadgetron PDA
+patch=1,EE,0013D4E0,extended,00000001
+
+[Heli-Pack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Heli-Pack
+// Heli-Pack
+patch=1,EE,0013D4C2,extended,00000001
+
+[Thruster-Pack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thruster-Pack
+// Thruster-Pack
+patch=1,EE,0013D4C3,extended,00000001
+
+[Hydro-Pack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hydro-Pack
+// Hydro-Pack
+patch=1,EE,0013D4C4,extended,00000001
+
+[Sonic Summoner]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Summoner
+// Sonic Summoner
+patch=1,EE,0013D4C5,extended,00000001
+
+[O2 Mask]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=O2 Mask
+// O2 Mask
+patch=1,EE,0013D4C6,extended,00000001
+
+[Pilot's Helmet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pilot's Helmet
+// Pilot's Helmet
+patch=1,EE,0013D4C7,extended,00000001
+
+[Magneboots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Magneboots
+// Magneboots
+patch=1,EE,0013D4DC,extended,00000001
+
+[Grindboots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grindboots
+// Grindboots
+patch=1,EE,0013D4DD,extended,00000001
+
+[Hoverboard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hoverboard
+// Hoverboard
+patch=1,EE,0013D4DE,extended,00000001
+
+[Map-O-Matic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Map-O-Matic
+// Map-O-Matic
+patch=1,EE,0013D4E1,extended,00000001
+
+[Bold Grabber]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bold Grabber
+// Bold Grabber
+patch=1,EE,0013D4E2,extended,00000001
+
+[Persuader]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Persuader
+// Persuader
+patch=1,EE,0013D4E3,extended,00000001
+
+[Premium Nanotech]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Premium Nanotech
+// Premium Nanotech
+patch=1,EE,0013D4C4,extended,00000001
+
+[Premium Nanotech]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Premium Nanotech
+// Premium Nanotech
+patch=1,EE,101B629E,extended,00000000
+
+[Ultra Nanotech]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultra Nanotech
+// Ultra Nanotech
+patch=1,EE,0013D4C5,extended,00000001
+
+[Ultra Nanotech]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultra Nanotech
+// Ultra Nanotech
+patch=1,EE,101B62AC,extended,00000000
+
+[Zoomerator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zoomerator
+// Zoomerator
+patch=1,EE,0013D4C0,extended,00000001
+
+[Zoomerator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zoomerator
+// Zoomerator
+patch=1,EE,101B62C0,extended,00000000
+
+[Raritanium]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Raritanium
+// Raritanium
+patch=1,EE,0013D4C1,extended,00000001
+
+[Raritanium]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Raritanium
+// Raritanium
+patch=1,EE,101B62CA,extended,00000000
+
+[CodeBot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CodeBot
+// CodeBot
+patch=1,EE,0013D4C2,extended,00000001
+
+[CodeBot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CodeBot
+// CodeBot
+patch=1,EE,101B62D0,extended,00000000
+
+[Have All Skill Points Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Skill Points Completed
+// Have All Skill Points Completed
+patch=1,EE,4013D408,extended,00070001
+
+[Have All Skill Points Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Skill Points Completed
+// Have All Skill Points Completed
+patch=1,EE,01010101,extended,00000000
+
+[Have All Skill Points Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Skill Points Completed
+// Have All Skill Points Completed
+patch=1,EE,1013D424,extended,00000101
+
+[Planet Novalis]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Novalis
+// Planet Novalis
+patch=1,EE,2013D510,extended,00000001
+
+[Planet Aridia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Aridia
+// Planet Aridia
+patch=1,EE,2013D514,extended,00000002
+
+[Planet Kerwan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Kerwan
+// Planet Kerwan
+patch=1,EE,2013D518,extended,00000003
+
+[Planet Eudora]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Eudora
+// Planet Eudora
+patch=1,EE,2013D51C,extended,00000004
+
+[Planet Rilgar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Rilgar
+// Planet Rilgar
+patch=1,EE,2013D520,extended,00000005
+
+[Nebula G34]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nebula G34
+// Nebula G34
+patch=1,EE,2013D524,extended,00000006
+
+[Planet Umbris]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Umbris
+// Planet Umbris
+patch=1,EE,2013D528,extended,00000007
+
+[Planet Batalia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Batalia
+// Planet Batalia
+patch=1,EE,2013D52C,extended,00000008
+
+[Planet Gaspar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Gaspar
+// Planet Gaspar
+patch=1,EE,2013D530,extended,00000009
+
+[Planet Orxon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Orxon
+// Planet Orxon
+patch=1,EE,2013D534,extended,0000000A
+
+[Planet Pokitaru]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Pokitaru
+// Planet Pokitaru
+patch=1,EE,2013D538,extended,0000000B
+
+[Planet Hoven]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Hoven
+// Planet Hoven
+patch=1,EE,2013D53C,extended,0000000C
+
+[Oltanis Orbit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Oltanis Orbit
+// Oltanis Orbit
+patch=1,EE,2013D540,extended,0000000D
+
+[Planet Oltanis]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Oltanis
+// Planet Oltanis
+patch=1,EE,2013D544,extended,0000000E
+
+[Planet Quartu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Quartu
+// Planet Quartu
+patch=1,EE,2013D548,extended,0000000F
+
+[Planet Kalebo III]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Kalebo III
+// Planet Kalebo III
+patch=1,EE,2013D54C,extended,00000010
+
+[Veldin Orbit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Veldin Orbit
+// Veldin Orbit
+patch=1,EE,2013D550,extended,00000011
+
+[Planet Veldin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Veldin
+// Planet Veldin
+patch=1,EE,2013D554,extended,00000012
+
+[Planet Novalis-Find A New Ship]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Novalis-Find A New Ship
+// Planet Novalis-Find A New Ship
+patch=1,EE,0013DD43,extended,00000001
+
+[Planet Novalis-Explore The Waterworks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Novalis-Explore The Waterworks
+// Planet Novalis-Explore The Waterworks
+patch=1,EE,0013D5EC,extended,00000001
+
+[Planet Novalis-Buy Infobot From Mechanic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Novalis-Buy Infobot From Mechanic
+// Planet Novalis-Buy Infobot From Mechanic
+patch=1,EE,0013DD42,extended,00000001
+
+[Planet Aridia-Locate Skid McMarx]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Aridia-Locate Skid McMarx
+// Planet Aridia-Locate Skid McMarx
+patch=1,EE,0013D6BC,extended,00000001
+
+[Planet Aridia-Help Skid Get To His Ship]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Aridia-Help Skid Get To His Ship
+// Planet Aridia-Help Skid Get To His Ship
+patch=1,EE,0013D4DE,extended,00000001
+
+[Planet Aridia-Find Skid's Agent]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Aridia-Find Skid's Agent
+// Planet Aridia-Find Skid's Agent
+patch=1,EE,0013D6CC,extended,00000001
+
+[Planet Aridia-Bring Prize To Agent]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Aridia-Bring Prize To Agent
+// Planet Aridia-Bring Prize To Agent
+patch=1,EE,0013D4C5,extended,00000001
+
+[Planet Aridia-Use Your Swingshot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Aridia-Use Your Swingshot
+// Planet Aridia-Use Your Swingshot
+patch=1,EE,0013D39C,extended,00000001
+
+[Planet Aridia-Use Your Swingshot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Aridia-Use Your Swingshot
+// Planet Aridia-Use Your Swingshot
+patch=1,EE,0013D4DA,extended,00000001
+
+[Planet Kerwan-Visit Al's Roboshack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Kerwan-Visit Al's Roboshack
+// Planet Kerwan-Visit Al's Roboshack
+patch=1,EE,0013D6FC,extended,00000001
+
+[Planet Kerwan-Buy Heli-Pack From Al]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Kerwan-Buy Heli-Pack From Al
+// Planet Kerwan-Buy Heli-Pack From Al
+patch=1,EE,0013D4C2,extended,00000001
+
+[Planet Kerwan-Explore The Rest Of The City]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Kerwan-Explore The Rest Of The City
+// Planet Kerwan-Explore The Rest Of The City
+patch=1,EE,0013DD5B,extended,00000001
+
+[Planet Kerwan-Ride The Robot Train]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Kerwan-Ride The Robot Train
+// Planet Kerwan-Ride The Robot Train
+patch=1,EE,0013D3A0,extended,00000001
+
+[Planet Kerwan-Ride The Robot Train]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Kerwan-Ride The Robot Train
+// Planet Kerwan-Ride The Robot Train
+patch=1,EE,0013DD44,extended,00000001
+
+[Planet Kerwan-Complete Fitness Course]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Kerwan-Complete Fitness Course
+// Planet Kerwan-Complete Fitness Course
+patch=1,EE,0013D73C,extended,00000001
+
+[Planet Kerwan-Complete Fitness Course]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Kerwan-Complete Fitness Course
+// Planet Kerwan-Complete Fitness Course
+patch=1,EE,0013D70C,extended,00000001
+
+[Planet Kerwan-Buy Swingshot From Trainer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Kerwan-Buy Swingshot From Trainer
+// Planet Kerwan-Buy Swingshot From Trainer
+patch=1,EE,0013D4CC,extended,00000001
+
+[Planet Eudora-Confront Robot Lieutenant]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Eudora-Confront Robot Lieutenant
+// Planet Eudora-Confront Robot Lieutenant
+patch=1,EE,0013DD46,extended,00000001
+
+[Planet Eudora-Explore The Mills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Eudora-Explore The Mills
+// Planet Eudora-Explore The Mills
+patch=1,EE,0013DD5C,extended,00000001
+
+[Planet Eudora-Explore The Mills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Eudora-Explore The Mills
+// Planet Eudora-Explore The Mills
+patch=1,EE,0013D4F1,extended,00000001
+
+[Planet Rilgar-Win The Hoverboard Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Rilgar-Win The Hoverboard Race
+// Planet Rilgar-Win The Hoverboard Race
+patch=1,EE,0013D81C,extended,00000001
+
+[Planet Rilgar-Win The Hoverboard Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Rilgar-Win The Hoverboard Race
+// Planet Rilgar-Win The Hoverboard Race
+patch=1,EE,0013D83C,extended,00000001
+
+[Planet Rilgar-Win The Hoverboard Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Rilgar-Win The Hoverboard Race
+// Planet Rilgar-Win The Hoverboard Race
+patch=1,EE,0013D388,extended,00000001
+
+[Planet Rilgar-Locate Captain Qwark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Rilgar-Locate Captain Qwark
+// Planet Rilgar-Locate Captain Qwark
+patch=1,EE,2013D82C,extended,00000001
+
+[Planet Rilgar-Bribe The Bodyguard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Rilgar-Bribe The Bodyguard
+// Planet Rilgar-Bribe The Bodyguard
+patch=1,EE,0013DD47,extended,00000001
+
+[Planet Nebula G34-Explore The Space Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Nebula G34-Explore The Space Station
+// Planet Nebula G34-Explore The Space Station
+patch=1,EE,1013D3A8,extended,00000101
+
+[Planet Nebula G34-Explore The Space Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Nebula G34-Explore The Space Station
+// Planet Nebula G34-Explore The Space Station
+patch=1,EE,0013D8AC,extended,00000001
+
+[Planet Nebula G34-Buy Grindboots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Nebula G34-Buy Grindboots
+// Planet Nebula G34-Buy Grindboots
+patch=1,EE,0013D4DD,extended,00000001
+
+[Planet Nebula G34-Explore The Blarg Warship]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Nebula G34-Explore The Blarg Warship
+// Planet Nebula G34-Explore The Blarg Warship
+patch=1,EE,0013D3AA,extended,00000001
+
+[Planet Nebula G34-Destroy The Warship]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Nebula G34-Destroy The Warship
+// Planet Nebula G34-Destroy The Warship
+patch=1,EE,0013D3AC,extended,00000001
+
+[Planet Nebula G34-Journey Outside The Airlock]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Nebula G34-Journey Outside The Airlock
+// Planet Nebula G34-Journey Outside The Airlock
+patch=1,EE,0013D4D6,extended,00000001
+
+[Planet Umbris-Survive Qwark's Gauntlet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Umbris-Survive Qwark's Gauntlet
+// Planet Umbris-Survive Qwark's Gauntlet
+patch=1,EE,0013D3B1,extended,00000001
+
+[Planet Umbris-Destroy The Snagglebeast]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Umbris-Destroy The Snagglebeast
+// Planet Umbris-Destroy The Snagglebeast
+patch=1,EE,0013D8FC,extended,00000001
+
+[Planet Umbris-Find A New Ship]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Umbris-Find A New Ship
+// Planet Umbris-Find A New Ship
+patch=1,EE,0013DD48,extended,00000001
+
+[Planet Batalia-Scout The Area]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Batalia-Scout The Area
+// Planet Batalia-Scout The Area
+patch=1,EE,0013D3B7,extended,00000001
+
+[Planet Batalia-Ride The Grind Rail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Batalia-Ride The Grind Rail
+// Planet Batalia-Ride The Grind Rail
+patch=1,EE,0013D93C,extended,00000001
+
+[Planet Batalia-Buy Deserter's Infobot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Batalia-Buy Deserter's Infobot
+// Planet Batalia-Buy Deserter's Infobot
+patch=1,EE,0013DD49,extended,00000001
+
+[Planet Batalia-Talk To The Commando]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Batalia-Talk To The Commando
+// Planet Batalia-Talk To The Commando
+patch=1,EE,0013D92C,extended,00000001
+
+[Planet Batalia-Meet The Commando At City]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Batalia-Meet The Commando At City
+// Planet Batalia-Meet The Commando At City
+patch=1,EE,0013DD4A,extended,00000001
+
+[Planet Batalia-Explore The Walled City]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Batalia-Explore The Walled City
+// Planet Batalia-Explore The Walled City
+patch=1,EE,0013D94C,extended,00000001
+
+[Planet Batalia-Destroy The Bombers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Batalia-Destroy The Bombers
+// Planet Batalia-Destroy The Bombers
+patch=1,EE,0013D4DB,extended,00000001
+
+[Planet Gaspar-Find THe Pilot's Helment]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Gaspar-Find THe Pilot's Helment
+// Planet Gaspar-Find THe Pilot's Helment
+patch=1,EE,0013D4C7,extended,00000001
+
+[Planet Orxon-Search The Laboratories]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Orxon-Search The Laboratories
+// Planet Orxon-Search The Laboratories
+patch=1,EE,0013D4DC,extended,00000001
+
+[Planet Orxon-Traverse The Wilderness]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Orxon-Traverse The Wilderness
+// Planet Orxon-Traverse The Wilderness
+patch=1,EE,0013DD4B,extended,00000001
+
+[Planet Orxon-Explore As Ratchet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Orxon-Explore As Ratchet
+// Planet Orxon-Explore As Ratchet
+patch=1,EE,0013DD62,extended,00000001
+
+[Planet Orxon-Explore As Ratchet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Orxon-Explore As Ratchet
+// Planet Orxon-Explore As Ratchet
+patch=1,EE,0013D9BC,extended,00000001
+
+[Planet Orxon-Catch The Infobot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Orxon-Catch The Infobot
+// Planet Orxon-Catch The Infobot
+patch=1,EE,0013D9AC,extended,00000001
+
+[Planet Orxon-Catch The Infobot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Orxon-Catch The Infobot
+// Planet Orxon-Catch The Infobot
+patch=1,EE,0013DD4C,extended,00000001
+
+[Planet Orxon-Buy The Premium Nanotech]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Orxon-Buy The Premium Nanotech
+// Planet Orxon-Buy The Premium Nanotech
+patch=1,EE,0013D38C,extended,00000001
+
+[Planet Pokitaru-Check Out The Resort]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Pokitaru-Check Out The Resort
+// Planet Pokitaru-Check Out The Resort
+patch=1,EE,0013D3DD,extended,00000001
+
+[Planet Pokitaru-Help The Resort Owner]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Pokitaru-Help The Resort Owner
+// Planet Pokitaru-Help The Resort Owner
+patch=1,EE,0013D9DC,extended,00000002
+
+[Planet Pokitaru-Buy Thrusterpack From Bob]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Pokitaru-Buy Thrusterpack From Bob
+// Planet Pokitaru-Buy Thrusterpack From Bob
+patch=1,EE,0013D4C3,extended,00000001
+
+[Planet Pokitaru-Destroy The Blarg Ships]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Pokitaru-Destroy The Blarg Ships
+// Planet Pokitaru-Destroy The Blarg Ships
+patch=1,EE,0013D4C6,extended,00000001
+
+[Planet Pokitaru-Navigate The Sewers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Pokitaru-Navigate The Sewers
+// Planet Pokitaru-Navigate The Sewers
+patch=1,EE,0013D9FC,extended,00000001
+
+[Planet Pokitaru-Bring Raritanium To Inventor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Pokitaru-Bring Raritanium To Inventor
+// Planet Pokitaru-Bring Raritanium To Inventor
+patch=1,EE,0013D4E3,extended,00000001
+
+[Planet Hoven-Destroy The Planetbuster]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Hoven-Destroy The Planetbuster
+// Planet Hoven-Destroy The Planetbuster
+patch=1,EE,0013DD4D,extended,00000001
+
+[Planet Hoven-Explorer The Icy Wastes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Hoven-Explorer The Icy Wastes
+// Planet Hoven-Explorer The Icy Wastes
+patch=1,EE,0013DD64,extended,00000001
+
+[Planet Hoven-Explorer The Icy Wastes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Hoven-Explorer The Icy Wastes
+// Planet Hoven-Explorer The Icy Wastes
+patch=1,EE,0013D3E9,extended,00000001
+
+[Planet Hoven-Buy Hydro-Pack From Ed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Hoven-Buy Hydro-Pack From Ed
+// Planet Hoven-Buy Hydro-Pack From Ed
+patch=1,EE,0013DA1C,extended,00000001
+
+[Planet Hoven-Buy Hydro-Pack From Ed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Hoven-Buy Hydro-Pack From Ed
+// Planet Hoven-Buy Hydro-Pack From Ed
+patch=1,EE,0013D4C4,extended,00000001
+
+[Oltanis Orbit-Explore Base]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Oltanis Orbit-Explore Base
+// Oltanis Orbit-Explore Base
+patch=1,EE,0013DA6C,extended,00000001
+
+[Oltanis Orbit-Shoot Down Captain Qwark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Oltanis Orbit-Shoot Down Captain Qwark
+// Oltanis Orbit-Shoot Down Captain Qwark
+patch=1,EE,0013DD4E,extended,00000001
+
+[Planet Oltanis-Find Survivors Of Blarg Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Oltanis-Find Survivors Of Blarg Attack
+// Planet Oltanis-Find Survivors Of Blarg Attack
+patch=1,EE,0013DB3C,extended,00000001
+
+[Planet Oltanis-Buy Infobot From Scrap Merchant]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Oltanis-Buy Infobot From Scrap Merchant
+// Planet Oltanis-Buy Infobot From Scrap Merchant
+patch=1,EE,0013DD4F,extended,00000001
+
+[Planet Oltanis-Search The Destroyed City]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Oltanis-Search The Destroyed City
+// Planet Oltanis-Search The Destroyed City
+patch=1,EE,0013D4FD,extended,00000001
+
+[Planet Oltanis-Purchase Gadgetron PDR F/'Steve']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Oltanis-Purchase Gadgetron PDR F/'Steve'
+// Planet Oltanis-Purchase Gadgetron PDR F/'Steve'
+patch=1,EE,0013DB2C,extended,00000001
+
+[Planet Quarty-Find Out More About The Ultra-Mech]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Quarty-Find Out More About The Ultra-Mech
+// Planet Quarty-Find Out More About The Ultra-Mech
+patch=1,EE,0013DB9C,extended,00000001
+
+[Planet Quarty-Destroy The Ultra-Mechs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Quarty-Destroy The Ultra-Mechs
+// Planet Quarty-Destroy The Ultra-Mechs
+patch=1,EE,0013DD50,extended,00000001
+
+[Planet Quarty-Explore The Coolant]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Quarty-Explore The Coolant
+// Planet Quarty-Explore The Coolant
+patch=1,EE,0013DD67,extended,00000001
+
+[Planet Quarty-Explore The Coolant]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Quarty-Explore The Coolant
+// Planet Quarty-Explore The Coolant
+patch=1,EE,0013D50A,extended,00000001
+
+[Planet Quarty-Infiltrate The Secure Area]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Quarty-Infiltrate The Secure Area
+// Planet Quarty-Infiltrate The Secure Area
+patch=1,EE,0013DD51,extended,00000001
+
+[Planet Quarty-Infiltrate The Secure Area]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Quarty-Infiltrate The Secure Area
+// Planet Quarty-Infiltrate The Secure Area
+patch=1,EE,0013D3F6,extended,00000001
+
+[Planet Kalebo III-Find Equipment & Get Past Blarg]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Kalebo III-Find Equipment & Get Past Blarg
+// Planet Kalebo III-Find Equipment & Get Past Blarg
+patch=1,EE,0013D4E1,extended,00000001
+
+[Planet Kalebo III-Find Equipment & Get Past Blarg]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Kalebo III-Find Equipment & Get Past Blarg
+// Planet Kalebo III-Find Equipment & Get Past Blarg
+patch=1,EE,0013D4DF,extended,00000001
+
+[Planet Kalebo III-Win The Hoverboard Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Kalebo III-Win The Hoverboard Race
+// Planet Kalebo III-Win The Hoverboard Race
+patch=1,EE,0013D3F8,extended,00000001
+
+[Planet Kalebo III-Win The Hoverboard Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Kalebo III-Win The Hoverboard Race
+// Planet Kalebo III-Win The Hoverboard Race
+patch=1,EE,0013DC1C,extended,00000001
+
+[Planet Kalebo III-Ride The Grind Rail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Kalebo III-Ride The Grind Rail
+// Planet Kalebo III-Ride The Grind Rail
+patch=1,EE,0013D3F9,extended,00000001
+
+[Planet Kalebo III-Ride The Grind Rail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Kalebo III-Ride The Grind Rail
+// Planet Kalebo III-Ride The Grind Rail
+patch=1,EE,0013D509,extended,00000001
+
+[Veldin Orbit-Find The Coordinates For Drek's Laser]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Veldin Orbit-Find The Coordinates For Drek's Laser
+// Veldin Orbit-Find The Coordinates For Drek's Laser
+patch=1,EE,0013DD52,extended,00000001
+
+[Veldin Orbit-Swim Through The Water Tanker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Veldin Orbit-Swim Through The Water Tanker
+// Veldin Orbit-Swim Through The Water Tanker
+patch=1,EE,0013DD69,extended,00000001
+
+[Veldin Orbit-Swim Through The Water Tanker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Veldin Orbit-Swim Through The Water Tanker
+// Veldin Orbit-Swim Through The Water Tanker
+patch=1,EE,0013D400,extended,00000001
+
+[Planet Veldin-Save Ratchet's Planet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Planet Veldin-Save Ratchet's Planet
+// Planet Veldin-Save Ratchet's Planet
+patch=1,EE,0013D405,extended,00000001
+
+[Have All Gold Bolts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Bolts
+// Have All Gold Bolts
+patch=1,EE,0014BEC5,extended,00000001
+
+[Have All Gold Bolts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Bolts
+// Have All Gold Bolts
+patch=1,EE,1014BEC6,extended,00000101
+
+[Have All Gold Bolts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Bolts
+// Have All Gold Bolts
+patch=1,EE,4014BEC8,extended,00090001
+
+[Have All Gold Bolts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Bolts
+// Have All Gold Bolts
+patch=1,EE,01010101,extended,00000000
+
+[Have All Gold Bolts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Bolts
+// Have All Gold Bolts
+patch=1,EE,0014BEEC,extended,00000001

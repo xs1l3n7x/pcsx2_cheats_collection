@@ -1,0 +1,205 @@
+gametitle=Area 51 [SLUS-20595] [B59EF006]
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,903C1740,extended,00832021
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0220,extended,8C81000C
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0224,extended,AC810000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0228,extended,03E00008
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C022C,extended,AC800008
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,203F59AC,extended,08030088
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,201569F0,extended,00000000
+
+[Max Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo
+// Max Infinite Ammo
+patch=1,EE,201596EC,extended,240203E7
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,201569EC,extended,00451021
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,20156930,extended,00000000
+
+[Infinite Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Grenades
+// Infinite Grenades
+patch=1,EE,20207A20,extended,00000000
+
+[Max Infinite Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Grenades
+// Max Infinite Grenades
+patch=1,EE,200C0230,extended,3C014110
+
+[Max Infinite Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Grenades
+// Max Infinite Grenades
+patch=1,EE,200C0234,extended,03E00008
+
+[Max Infinite Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Grenades
+// Max Infinite Grenades
+patch=1,EE,200C0238,extended,AC810000
+
+[Max Infinite Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Grenades
+// Max Infinite Grenades
+patch=1,EE,20207988,extended,0803008C
+
+[Extra Grendades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Grendades
+// Extra Grendades
+patch=1,EE,20207A10,extended,460C0840
+
+[Have All Databank-Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Databank-Levels
+// Have All Databank-Levels
+patch=1,EE,2012C398,extended,2402FFFF
+
+[Have All Databank-Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Databank-Levels
+// Have All Databank-Levels
+patch=1,EE,2012C39C,extended,A062003D
+
+[Have All Databank-Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Databank-Levels
+// Have All Databank-Levels
+patch=1,EE,2012C3A0,extended,03E00008
+
+[Have All Databank-Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Databank-Levels
+// Have All Databank-Levels
+patch=1,EE,2012C3A4,extended,24020001
+
+[Have All Databank-Overall]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Databank-Overall
+// Have All Databank-Overall
+patch=1,EE,200C0220,extended,2402005A
+
+[Have All Databank-Overall]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Databank-Overall
+// Have All Databank-Overall
+patch=1,EE,200C0224,extended,03E00008
+
+[Have All Databank-Overall]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Databank-Overall
+// Have All Databank-Overall
+patch=1,EE,200C0228,extended,AC820050
+
+[Have All Databank-Overall]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Databank-Overall
+// Have All Databank-Overall
+patch=1,EE,2032C158,extended,0C030088
+
+[Have All Secrets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Secrets
+// Have All Secrets
+patch=1,EE,2033DC1C,extended,24020015
+
+[Have All Secrets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Secrets
+// Have All Secrets
+patch=1,EE,2033DC28,extended,AC820058
+
+[Legacy Controls Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Legacy Controls Mode
+// Legacy Controls Mode
+patch=1,EE,0037AB08,extended,0000000E
+
+[Legacy Controls Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Legacy Controls Mode
+// Legacy Controls Mode
+patch=1,EE,0037AB1C,extended,0000000C
+
+[Southpaw Controls Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Southpaw Controls Mode
+// Southpaw Controls Mode
+patch=1,EE,0037AB08,extended,0000000E
+
+[Southpaw Controls Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Southpaw Controls Mode
+// Southpaw Controls Mode
+patch=1,EE,0037AB1C,extended,0000000C
+
+[Southpaw Controls Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Southpaw Controls Mode
+// Southpaw Controls Mode
+patch=1,EE,0037AB0C,extended,0000000F
+
+[Southpaw Controls Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Southpaw Controls Mode
+// Southpaw Controls Mode
+patch=1,EE,0037AB28,extended,0000000D
+
+[Southpaw Legacy Controls Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Southpaw Legacy Controls Mode
+// Southpaw Legacy Controls Mode
+patch=1,EE,0037AB0C,extended,0000000F
+
+[Southpaw Legacy Controls Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Southpaw Legacy Controls Mode
+// Southpaw Legacy Controls Mode
+patch=1,EE,0037AB28,extended,0000000D

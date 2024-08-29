@@ -1,0 +1,229 @@
+gametitle=Thrillville [SLUS-21413] [A4315184]
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,9056ABEC,extended,0C1700BB
+
+[Quick Money Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Money Gain
+// Quick Money Gain
+patch=1,EE,20338A84,extended,3C09FFF8
+
+[Super Quick Money Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Quick Money Gain
+// Super Quick Money Gain
+patch=1,EE,20338A84,extended,3C09FFF0
+
+[Ultra QUick Money Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultra QUick Money Gain
+// Ultra QUick Money Gain
+patch=1,EE,20338A84,extended,3C09FF00
+
+[Quick Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Max Money
+// Quick Max Money
+patch=1,EE,20338AB4,extended,3C0205F5
+
+[Quick Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Max Money
+// Quick Max Money
+patch=1,EE,20338AC0,extended,3442E0FF
+
+[Quick Park Completion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Park Completion
+// Quick Park Completion
+patch=1,EE,203FE424,extended,2403001E
+
+[Quick Park Completion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Park Completion
+// Quick Park Completion
+patch=1,EE,203FE428,extended,A0A30000
+
+[Render GUI On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render GUI On
+// Render GUI On
+patch=1,EE,206C9EC4,extended,00000001
+
+[Ignore Research On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ignore Research On
+// Ignore Research On
+patch=1,EE,706CB8CD,extended,00000008
+
+[More Overheard Spech On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=More Overheard Spech On
+// More Overheard Spech On
+patch=1,EE,706CB8CD,extended,00000010
+
+[Render Park Landscape On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render Park Landscape On
+// Render Park Landscape On
+patch=1,EE,706CB8C8,extended,00000001
+
+[Render Park Attractions On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render Park Attractions On
+// Render Park Attractions On
+patch=1,EE,706CB8C8,extended,00000002
+
+[Render Park Guests On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render Park Guests On
+// Render Park Guests On
+patch=1,EE,706CB8C8,extended,00000004
+
+[Render Park Staff On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render Park Staff On
+// Render Park Staff On
+patch=1,EE,706CB8C8,extended,00000008
+
+[Render Park Bubbles On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render Park Bubbles On
+// Render Park Bubbles On
+patch=1,EE,706CB8C8,extended,00000010
+
+[Render Park Tracks On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render Park Tracks On
+// Render Park Tracks On
+patch=1,EE,706CB8C8,extended,00000020
+
+[Render Park Particles On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render Park Particles On
+// Render Park Particles On
+patch=1,EE,706CB8C9,extended,00000001
+
+[Render Park Instances On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render Park Instances On
+// Render Park Instances On
+patch=1,EE,706CB8C9,extended,00000002
+
+[Render Skydome Only On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render Skydome Only On
+// Render Skydome Only On
+patch=1,EE,706CB8C9,extended,00000020
+
+[Show Player Coords On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Player Coords On
+// Show Player Coords On
+patch=1,EE,706CB8CC,extended,00000001
+
+[Extra Debug Info (Press {R2})]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Debug Info (Press {R2})
+// Extra Debug Info (Press {R2})
+patch=1,EE,706CB8CC,extended,00000002
+
+[Show Camera Coords On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Camera Coords On
+// Show Camera Coords On
+patch=1,EE,706CB8CC,extended,00000004
+
+[Show Height Sample Below Camera On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Height Sample Below Camera On
+// Show Height Sample Below Camera On
+patch=1,EE,706CB8CC,extended,00000008
+
+[Show Camera Fwd Vector (Flat) On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Camera Fwd Vector (Flat) On
+// Show Camera Fwd Vector (Flat) On
+patch=1,EE,706CB8CC,extended,00000010
+
+[Allow Sprint In Doglegs On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Allow Sprint In Doglegs On
+// Allow Sprint In Doglegs On
+patch=1,EE,706CB8CC,extended,00000040
+
+[Allow Walk On Non-Walkable On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Allow Walk On Non-Walkable On
+// Allow Walk On Non-Walkable On
+patch=1,EE,706CB8CC,extended,00000080
+
+[GUI Sounds On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=GUI Sounds On
+// GUI Sounds On
+patch=1,EE,206CBF9C,extended,00000001
+
+[Peep Stats View On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peep Stats View On
+// Peep Stats View On
+patch=1,EE,706CB8CD,extended,00000001
+
+[Debug Controls On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Debug Controls On
+// Debug Controls On
+patch=1,EE,706CB8CD,extended,00000002
+
+[Show Pos Of Mission Groups On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Pos Of Mission Groups On
+// Show Pos Of Mission Groups On
+patch=1,EE,706CB8CD,extended,00000004
+
+[Disable Mission Popups On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Mission Popups On
+// Disable Mission Popups On
+patch=1,EE,706CB8CD,extended,00000020
+
+[Allow Obstructed Track Placement On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Allow Obstructed Track Placement On
+// Allow Obstructed Track Placement On
+patch=1,EE,706CB8CD,extended,00000040
+
+[Ingore Mission Min. Interval On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ingore Mission Min. Interval On
+// Ingore Mission Min. Interval On
+patch=1,EE,706CB8CD,extended,00000080
+
+[Show Mission Timers On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Mission Timers On
+// Show Mission Timers On
+patch=1,EE,706CB8CE,extended,00000001
+
+[Guests Leave When Needs Not Met On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guests Leave When Needs Not Met On
+// Guests Leave When Needs Not Met On
+patch=1,EE,706CB8CE,extended,00000008
+
+[Transparent Fade On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Transparent Fade On
+// Transparent Fade On
+patch=1,EE,206CC1AC,extended,00000001
+
+[Ignore Unlocks On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ignore Unlocks On
+// Ignore Unlocks On
+patch=1,EE,206CC1C4,extended,00000001

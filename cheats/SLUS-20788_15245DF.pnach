@@ -1,0 +1,109 @@
+gametitle=Ford Racing 2 [SLUS-20788] [15245DF]
+
+[All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Cars
+// All Cars
+patch=1,EE,901F5FCC,extended,0C0831D3
+
+[Always Low Lap Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Lap Time
+// Always Low Lap Time
+patch=1,EE,2019DCA8,extended,00000000
+
+[Unlock All Ford Challenge Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Ford Challenge Cars
+// Unlock All Ford Challenge Cars
+patch=1,EE,201E8058,extended,24020001
+
+[Unlock All Ford Challenge Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Ford Challenge Cars
+// Unlock All Ford Challenge Cars
+patch=1,EE,201E805C,extended,A0620000
+
+[Unlock All Ford Challenge Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Ford Challenge Cars
+// Unlock All Ford Challenge Cars
+patch=1,EE,201E8060,extended,03E00008
+
+[Unlock All Ford Challenge Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Ford Challenge Cars
+// Unlock All Ford Challenge Cars
+patch=1,EE,201E8064,extended,27BD0010
+
+[Unlock All Ford Collection Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Ford Collection Tracks
+// Unlock All Ford Collection Tracks
+patch=1,EE,200C0220,extended,03E00008
+
+[Unlock All Ford Collection Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Ford Collection Tracks
+// Unlock All Ford Collection Tracks
+patch=1,EE,200C0224,extended,A0620000
+
+[Unlock All Ford Collection Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Ford Collection Tracks
+// Unlock All Ford Collection Tracks
+patch=1,EE,201E80A4,extended,24020001
+
+[Unlock All Ford Collection Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Ford Collection Tracks
+// Unlock All Ford Collection Tracks
+patch=1,EE,201E80A8,extended,08030088
+
+[Unlock All Ford Collection Race Types]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Ford Collection Race Types
+// Unlock All Ford Collection Race Types
+patch=1,EE,201E80E0,extended,24020001
+
+[Unlock All Ford Collection Race Types]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Ford Collection Race Types
+// Unlock All Ford Collection Race Types
+patch=1,EE,201E80E4,extended,A0620000
+
+[Unlock All Ford Collection Race Types]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Ford Collection Race Types
+// Unlock All Ford Collection Race Types
+patch=1,EE,201E80E8,extended,03E00008
+
+[Unlock All Ford Collection Race Types]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Ford Collection Race Types
+// Unlock All Ford Collection Race Types
+patch=1,EE,201E80EC,extended,27BD0010
+
+[Unlock All Ford Collection Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Ford Collection Cars
+// Unlock All Ford Collection Cars
+patch=1,EE,201E8120,extended,24020003
+
+[Unlock All Ford Collection Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Ford Collection Cars
+// Unlock All Ford Collection Cars
+patch=1,EE,201E8124,extended,A0620000
+
+[Unlock All Ford Collection Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Ford Collection Cars
+// Unlock All Ford Collection Cars
+patch=1,EE,201E8128,extended,03E00008
+
+[Unlock All Ford Collection Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Ford Collection Cars
+// Unlock All Ford Collection Cars
+patch=1,EE,201E812C,extended,27BD0010

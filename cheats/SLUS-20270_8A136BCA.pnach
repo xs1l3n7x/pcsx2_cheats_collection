@@ -1,0 +1,55 @@
+gametitle=Eve Of Extinction [SLUS-20270] [8A136BCA]
+
+[Max Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ammo
+// Max Ammo
+patch=1,EE,9010DC34,extended,0C0A1EAA
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20119968,extended,240100FF
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20119974,extended,A48101C2
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20119978,extended,00011C3C
+
+[Infinite Weapon Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Weapon Power
+// Infinite Weapon Power
+patch=1,EE,20166CE0,extended,240200FF
+
+[Infinite Weapon Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Weapon Power
+// Infinite Weapon Power
+patch=1,EE,20166CE4,extended,A4C201C0
+
+[Auto Weapon Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Auto Weapon Level Up
+// Auto Weapon Level Up
+patch=1,EE,2016900C,extended,24420001
+
+[Switch To Weapon For Max Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Switch To Weapon For Max Level Up
+// Switch To Weapon For Max Level Up
+patch=1,EE,202435E4,extended,24020005
+
+[Switch To Weapon For Max Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Switch To Weapon For Max Level Up
+// Switch To Weapon For Max Level Up
+patch=1,EE,202435E8,extended,A062020C

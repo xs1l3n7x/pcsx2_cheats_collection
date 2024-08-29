@@ -1,0 +1,475 @@
+gametitle=Sonic Riders [SLUS-21331] [B44896B7]
+
+[No Score P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Score P2
+// No Score P2
+patch=1,EE,9010F0A0,extended,00832021
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,20488070,extended,00000000
+
+[Max Air Tank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Air Tank
+// Max Air Tank
+patch=1,EE,20499FD8,extended,00030D40
+
+[Max Rings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rings
+// Max Rings
+patch=1,EE,2049A1EC,extended,00000064
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,D049A6D2,extended,00000001
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,0049A6D2,extended,00000002
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,D049A6D2,extended,00000001
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,0049A6D2,extended,00000003
+
+[Max Gear Shop Rings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Gear Shop Rings
+// Max Gear Shop Rings
+patch=1,EE,2095D528,extended,000F423F
+
+[D. Eggman]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=D. Eggman
+// D. Eggman
+patch=1,EE,0095D1E9,extended,00000001
+
+[Shadow The Hedgehog]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shadow The Hedgehog
+// Shadow The Hedgehog
+patch=1,EE,0095D1EA,extended,00000001
+
+[Main Theme-Catch Me If You Can]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Main Theme-Catch Me If You Can
+// Main Theme-Catch Me If You Can
+patch=1,EE,0095CE42,extended,00000001
+
+[Stage BGM-Theme Of Babylon Garden]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage BGM-Theme Of Babylon Garden
+// Stage BGM-Theme Of Babylon Garden
+patch=1,EE,0095CE49,extended,00000001
+
+[Stage BGM-Theme Of Digital Dimension]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage BGM-Theme Of Digital Dimension
+// Stage BGM-Theme Of Digital Dimension
+patch=1,EE,0095CE4A,extended,00000001
+
+[Stage BGM-Theme Of SEGA Carnival]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage BGM-Theme Of SEGA Carnival
+// Stage BGM-Theme Of SEGA Carnival
+patch=1,EE,0095CE4B,extended,00000001
+
+[All AUdio Room]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All AUdio Room
+// All AUdio Room
+patch=1,EE,0095CE42,extended,00000001
+
+[All AUdio Room]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All AUdio Room
+// All AUdio Room
+patch=1,EE,0095CE49,extended,00000001
+
+[All AUdio Room]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All AUdio Room
+// All AUdio Room
+patch=1,EE,1095CE4A,extended,00000101
+
+[Title]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Title
+// Title
+patch=1,EE,0095D1D8,extended,00000001
+
+[Opening]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Opening
+// Opening
+patch=1,EE,0095D1D9,extended,00000001
+
+[Insert]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Insert
+// Insert
+patch=1,EE,0095D1DA,extended,00000001
+
+[Ending]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ending
+// Ending
+patch=1,EE,0095D1DB,extended,00000001
+
+[Tutorial]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tutorial
+// Tutorial
+patch=1,EE,0095D1DC,extended,00000001
+
+[All Theater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Theater
+// All Theater
+patch=1,EE,2095D1D8,extended,01010101
+
+[All Theater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Theater
+// All Theater
+patch=1,EE,0095D1DC,extended,00000001
+
+[Gear 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 1
+// Gear 1
+patch=1,EE,0095D1E0,extended,00000001
+
+[Gear 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 2
+// Gear 2
+patch=1,EE,0095D1E1,extended,00000001
+
+[Gear 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 3
+// Gear 3
+patch=1,EE,0095D1E2,extended,00000001
+
+[Gear 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 4
+// Gear 4
+patch=1,EE,0095D1E3,extended,00000001
+
+[Gear 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 5
+// Gear 5
+patch=1,EE,0095D1E4,extended,00000001
+
+[Gear 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 6
+// Gear 6
+patch=1,EE,0095D1E5,extended,00000001
+
+[Gear 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 7
+// Gear 7
+patch=1,EE,0095D1E6,extended,00000001
+
+[Gear 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 8
+// Gear 8
+patch=1,EE,0095D1E8,extended,00000001
+
+[Gear 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 9
+// Gear 9
+patch=1,EE,0095D1E9,extended,00000001
+
+[Gear 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 10
+// Gear 10
+patch=1,EE,0095D189,extended,00000001
+
+[Gear 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 11
+// Gear 11
+patch=1,EE,0095D18A,extended,00000001
+
+[Gear 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 12
+// Gear 12
+patch=1,EE,0095D18B,extended,00000001
+
+[Gear 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 13
+// Gear 13
+patch=1,EE,0095D18C,extended,00000001
+
+[Gear 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 14
+// Gear 14
+patch=1,EE,0095D18D,extended,00000001
+
+[Gear 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 15
+// Gear 15
+patch=1,EE,0095D18E,extended,00000001
+
+[Gear 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 16
+// Gear 16
+patch=1,EE,0095D18F,extended,00000001
+
+[Gear 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 17
+// Gear 17
+patch=1,EE,0095D190,extended,00000001
+
+[Gear 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 18
+// Gear 18
+patch=1,EE,0095D191,extended,00000001
+
+[Gear 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 19
+// Gear 19
+patch=1,EE,0095D192,extended,00000001
+
+[Gear 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 20
+// Gear 20
+patch=1,EE,0095D193,extended,00000001
+
+[Gear 21]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 21
+// Gear 21
+patch=1,EE,0095D194,extended,00000001
+
+[Gear 22]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 22
+// Gear 22
+patch=1,EE,0095D195,extended,00000001
+
+[Gear 23]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 23
+// Gear 23
+patch=1,EE,0095D196,extended,00000001
+
+[Gear 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 24
+// Gear 24
+patch=1,EE,0095D197,extended,00000001
+
+[Gear 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 25
+// Gear 25
+patch=1,EE,0095D198,extended,00000001
+
+[Gear 26]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 26
+// Gear 26
+patch=1,EE,0095D199,extended,00000001
+
+[Gear 27]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 27
+// Gear 27
+patch=1,EE,0095D19A,extended,00000001
+
+[Gear 28]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 28
+// Gear 28
+patch=1,EE,0095D19B,extended,00000001
+
+[Gear 29]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 29
+// Gear 29
+patch=1,EE,0095D19C,extended,00000001
+
+[Gear 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 30
+// Gear 30
+patch=1,EE,0095D19D,extended,00000001
+
+[Gear 31]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 31
+// Gear 31
+patch=1,EE,0095D19E,extended,00000001
+
+[Gear 32]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 32
+// Gear 32
+patch=1,EE,0095D19F,extended,00000001
+
+[Gear 33]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 33
+// Gear 33
+patch=1,EE,0095D1EC,extended,00000001
+
+[Gear 34]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 34
+// Gear 34
+patch=1,EE,0095D1ED,extended,00000001
+
+[Gear 35]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 35
+// Gear 35
+patch=1,EE,0095D1EF,extended,00000001
+
+[Gear 36]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 36
+// Gear 36
+patch=1,EE,0095D1F0,extended,00000001
+
+[Gear 37]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 37
+// Gear 37
+patch=1,EE,0095D1EE,extended,00000001
+
+[Gear 38]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 38
+// Gear 38
+patch=1,EE,0095D1A0,extended,00000001
+
+[Gear 39]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 39
+// Gear 39
+patch=1,EE,0095D1B0,extended,00000001
+
+[Gear 40]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 40
+// Gear 40
+patch=1,EE,0095D1B1,extended,00000001
+
+[Gear 41]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 41
+// Gear 41
+patch=1,EE,0095D1B2,extended,00000001
+
+[Gear 42]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 42
+// Gear 42
+patch=1,EE,0095D1B3,extended,00000001
+
+[Gear 43]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 43
+// Gear 43
+patch=1,EE,0095D1B4,extended,00000001
+
+[Gear 44]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 44
+// Gear 44
+patch=1,EE,0095D1B5,extended,00000001
+
+[Gear 45]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 45
+// Gear 45
+patch=1,EE,0095D1B6,extended,00000001
+
+[Gear 46]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 46
+// Gear 46
+patch=1,EE,0095D1B7,extended,00000001
+
+[Gear 47]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 47
+// Gear 47
+patch=1,EE,0095D1B8,extended,00000001
+
+[Gear 48]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 48
+// Gear 48
+patch=1,EE,0095D1B9,extended,00000001
+
+[Gear 49]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 49
+// Gear 49
+patch=1,EE,0095D1CE,extended,00000001
+
+[Gear 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 50
+// Gear 50
+patch=1,EE,0095D1CF,extended,00000001
+
+[Gear 51]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 51
+// Gear 51
+patch=1,EE,0095D1D0,extended,00000001
+
+[Gear 52]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 52
+// Gear 52
+patch=1,EE,0095D1D1,extended,00000001
+
+[Gear 53]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 53
+// Gear 53
+patch=1,EE,0095D1D2,extended,00000001
+
+[Gear 54]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gear 54
+// Gear 54
+patch=1,EE,0095D1D3,extended,00000001

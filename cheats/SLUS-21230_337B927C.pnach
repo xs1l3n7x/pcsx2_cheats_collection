@@ -1,0 +1,109 @@
+gametitle=We Love Katamari [SLUS-21230] [337B927C]
+
+[Have All Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Moves
+// Have All Moves
+patch=1,EE,901CB468,extended,00832021
+
+[Infinite Time Remaining]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time Remaining
+// Infinite Time Remaining
+patch=1,EE,20115A80,extended,00000000
+
+[P1 Press {L1}+{SELECT} To Stop Time Remaining]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Time Remaining
+// P1 Press {L1}+{SELECT} To Stop Time Remaining
+patch=1,EE,D0BCD142,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Stop Time Remaining]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Time Remaining
+// P1 Press {L1}+{SELECT} To Stop Time Remaining
+patch=1,EE,20115A80,extended,00000000
+
+[P1 Press {L2}+{SELECT} To Restart Time Remaining]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Time Remaining
+// P1 Press {L2}+{SELECT} To Restart Time Remaining
+patch=1,EE,D0BCD142,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Restart Time Remaining]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Time Remaining
+// P1 Press {L2}+{SELECT} To Restart Time Remaining
+patch=1,EE,20115A80,extended,AC640020
+
+[Always Low Game Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Game Time
+// Always Low Game Time
+patch=1,EE,20115B84,extended,AC600024
+
+[Have All Objects Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objects Collected
+// Have All Objects Collected
+patch=1,EE,200C0220,extended,3C030101
+
+[Have All Objects Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objects Collected
+// Have All Objects Collected
+patch=1,EE,200C0224,extended,34630101
+
+[Have All Objects Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objects Collected
+// Have All Objects Collected
+patch=1,EE,200C0228,extended,3C040066
+
+[Have All Objects Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objects Collected
+// Have All Objects Collected
+patch=1,EE,200C022C,extended,24051CBC
+
+[Have All Objects Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objects Collected
+// Have All Objects Collected
+patch=1,EE,200C0230,extended,AC8337C0
+
+[Have All Objects Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objects Collected
+// Have All Objects Collected
+patch=1,EE,200C0234,extended,24840004
+
+[Have All Objects Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objects Collected
+// Have All Objects Collected
+patch=1,EE,200C0238,extended,14A0FFFD
+
+[Have All Objects Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objects Collected
+// Have All Objects Collected
+patch=1,EE,200C023C,extended,24A5FFFC
+
+[Have All Objects Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objects Collected
+// Have All Objects Collected
+patch=1,EE,200C0240,extended,03E00008
+
+[Have All Objects Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objects Collected
+// Have All Objects Collected
+patch=1,EE,200C0244,extended,00000000
+
+[Have All Objects Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objects Collected
+// Have All Objects Collected
+patch=1,EE,201CB4AC,extended,08030088

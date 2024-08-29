@@ -1,0 +1,25 @@
+gametitle=NHRA Championship Drag Racing [SLUS-21114] [7D9E9D17]
+
+[Unlock All Cheats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheats
+// Unlock All Cheats
+patch=1,EE,90125FA4,extended,0C0410E6
+
+[Unlock Don Garlits & Kenny Bernstein]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Don Garlits & Kenny Bernstein
+// Unlock Don Garlits & Kenny Bernstein
+patch=1,EE,7044B058,extended,00000001
+
+[Unlock Don Prudhomme & Jim Dunn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Don Prudhomme & Jim Dunn
+// Unlock Don Prudhomme & Jim Dunn
+patch=1,EE,7044B058,extended,00000002
+
+[Unlock Alternate Jeg Coughlin Jr. Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Alternate Jeg Coughlin Jr. Car
+// Unlock Alternate Jeg Coughlin Jr. Car
+patch=1,EE,7044B058,extended,00000004

@@ -1,0 +1,967 @@
+gametitle=Shaun Palmer's Pro Snowboarder [SLUS-20199] [3A8E10D7]
+
+[Performance Metrics Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Performance Metrics Always Off
+// Performance Metrics Always Off
+patch=1,EE,9011540C,extended,0C048300
+
+[Have All Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Movies
+// Have All Movies
+patch=1,EE,10347CD8,extended,00007FFF
+
+[Unlock Rooftop]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Rooftop
+// Unlock Rooftop
+patch=1,EE,10348168,extended,00000001
+
+[Unlock Cory Nastazio]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Cory Nastazio
+// Unlock Cory Nastazio
+patch=1,EE,103481DC,extended,00000001
+
+[Always Win Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Win Goals
+// Always Win Goals
+patch=1,EE,103C0B94,extended,000001FF
+
+[Kid Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kid Mode
+// Kid Mode
+patch=1,EE,10347C10,extended,00000001
+
+[Always Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Special
+// Always Special
+patch=1,EE,10347C14,extended,00000001
+
+[Perfect Balance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perfect Balance
+// Perfect Balance
+patch=1,EE,10347C18,extended,00000001
+
+[Super Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Spin
+// Super Spin
+patch=1,EE,10347C1C,extended,00000001
+
+[Half Gravity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Half Gravity
+// Half Gravity
+patch=1,EE,10347C20,extended,00000001
+
+[Quickie Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quickie Tricks
+// Quickie Tricks
+patch=1,EE,10347C24,extended,00000001
+
+[Double Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Double Speed
+// Double Speed
+patch=1,EE,10347C28,extended,00000001
+
+[Big Head]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Head
+// Big Head
+patch=1,EE,10347C2C,extended,00000001
+
+[Metallic Boarder]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metallic Boarder
+// Metallic Boarder
+patch=1,EE,10347C30,extended,00000001
+
+[Flipside]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flipside
+// Flipside
+patch=1,EE,10347C34,extended,00000001
+
+[Norden, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Norden, CA
+// Norden, CA
+patch=1,EE,20348B88,extended,FFFFFFFF
+
+[Norden, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Norden, CA
+// Norden, CA
+patch=1,EE,20348B8C,extended,0001FFFF
+
+[Aspen, CO]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aspen, CO
+// Aspen, CO
+patch=1,EE,20348B90,extended,FFFFFFFF
+
+[Aspen, CO]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aspen, CO
+// Aspen, CO
+patch=1,EE,20348B94,extended,0000007F
+
+[Kirkwood, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kirkwood, CA
+// Kirkwood, CA
+patch=1,EE,20348B98,extended,FFFFFFFF
+
+[Kirkwood, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kirkwood, CA
+// Kirkwood, CA
+patch=1,EE,20348B9C,extended,0000001F
+
+[South Lake Tahoe, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Lake Tahoe, CA
+// South Lake Tahoe, CA
+patch=1,EE,20348BA0,extended,FFFFFFFF
+
+[South Lake Tahoe, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Lake Tahoe, CA
+// South Lake Tahoe, CA
+patch=1,EE,20348BA4,extended,0003FFFF
+
+[Snowbird, UT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snowbird, UT
+// Snowbird, UT
+patch=1,EE,20348BA8,extended,FFFFFFFF
+
+[Snowbird, UT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snowbird, UT
+// Snowbird, UT
+patch=1,EE,20348BAC,extended,0000001F
+
+[Tahoe City, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tahoe City, CA
+// Tahoe City, CA
+patch=1,EE,20348BB0,extended,FFFFFFFF
+
+[Tahoe City, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tahoe City, CA
+// Tahoe City, CA
+patch=1,EE,20348BB4,extended,0000000F
+
+[Mt. Hood, OR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mt. Hood, OR
+// Mt. Hood, OR
+patch=1,EE,20348BB8,extended,FFFFFFFF
+
+[Mt. Hood, OR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mt. Hood, OR
+// Mt. Hood, OR
+patch=1,EE,20348BBC,extended,00001FFF
+
+[Anaheim, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anaheim, CA
+// Anaheim, CA
+patch=1,EE,20348BC0,extended,FFFFFFFF
+
+[Anaheim, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anaheim, CA
+// Anaheim, CA
+patch=1,EE,20348BC4,extended,00000007
+
+[Max Ollie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ollie
+// Max Ollie
+patch=1,EE,10347D38,extended,0000000A
+
+[Max Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spin
+// Max Spin
+patch=1,EE,10347D3C,extended,00000007
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,10347D40,extended,0000000A
+
+[Max Land]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Land
+// Max Land
+patch=1,EE,10347D44,extended,00000009
+
+[Max Balance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Balance
+// Max Balance
+patch=1,EE,10347D48,extended,00000008
+
+[Norden, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Norden, CA
+// Norden, CA
+patch=1,EE,10347CF8,extended,000001FF
+
+[Aspen, CO]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aspen, CO
+// Aspen, CO
+patch=1,EE,10347CFC,extended,000001FF
+
+[Kirkwood, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kirkwood, CA
+// Kirkwood, CA
+patch=1,EE,10347D00,extended,000001FF
+
+[South Lake Tahoe, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Lake Tahoe, CA
+// South Lake Tahoe, CA
+patch=1,EE,10347D04,extended,000001FF
+
+[Snowbird, UT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snowbird, UT
+// Snowbird, UT
+patch=1,EE,10347D08,extended,000001FF
+
+[Tahoe City, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tahoe City, CA
+// Tahoe City, CA
+patch=1,EE,10347D0C,extended,000001FF
+
+[Mt. Hood, OR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mt. Hood, OR
+// Mt. Hood, OR
+patch=1,EE,10347D10,extended,000001FF
+
+[Anahiem, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anahiem, CA
+// Anahiem, CA
+patch=1,EE,10347D14,extended,000001FF
+
+[Max Ollie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ollie
+// Max Ollie
+patch=1,EE,10347DAC,extended,00000009
+
+[Max Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spin
+// Max Spin
+patch=1,EE,10347DB0,extended,0000000A
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,10347DB4,extended,00000007
+
+[Max Land]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Land
+// Max Land
+patch=1,EE,10347DB8,extended,00000009
+
+[Max Balance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Balance
+// Max Balance
+patch=1,EE,10347DBC,extended,00000009
+
+[Norden, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Norden, CA
+// Norden, CA
+patch=1,EE,10347D6C,extended,000001FF
+
+[Aspen, CO]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aspen, CO
+// Aspen, CO
+patch=1,EE,10347D70,extended,000001FF
+
+[Kirkwood, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kirkwood, CA
+// Kirkwood, CA
+patch=1,EE,10347D74,extended,000001FF
+
+[South Lake Tahoe, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Lake Tahoe, CA
+// South Lake Tahoe, CA
+patch=1,EE,10347D78,extended,000001FF
+
+[Snowbird, UT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snowbird, UT
+// Snowbird, UT
+patch=1,EE,10347D7C,extended,000001FF
+
+[Tahoe City, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tahoe City, CA
+// Tahoe City, CA
+patch=1,EE,10347D80,extended,000001FF
+
+[Mt. Hood, OR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mt. Hood, OR
+// Mt. Hood, OR
+patch=1,EE,10347D84,extended,000001FF
+
+[Anahiem, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anahiem, CA
+// Anahiem, CA
+patch=1,EE,10347D88,extended,000001FF
+
+[Max Ollie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ollie
+// Max Ollie
+patch=1,EE,10347E20,extended,00000009
+
+[Max Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spin
+// Max Spin
+patch=1,EE,10347E24,extended,00000009
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,10347E28,extended,00000009
+
+[Max Land]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Land
+// Max Land
+patch=1,EE,10347E2C,extended,00000009
+
+[Max Balance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Balance
+// Max Balance
+patch=1,EE,10347E30,extended,00000008
+
+[Norden, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Norden, CA
+// Norden, CA
+patch=1,EE,10347DE0,extended,000001FF
+
+[Aspen, CO]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aspen, CO
+// Aspen, CO
+patch=1,EE,10347DE4,extended,000001FF
+
+[Kirkwood, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kirkwood, CA
+// Kirkwood, CA
+patch=1,EE,10347DE8,extended,000001FF
+
+[South Lake Tahoe, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Lake Tahoe, CA
+// South Lake Tahoe, CA
+patch=1,EE,10347DEC,extended,000001FF
+
+[Snowbird, UT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snowbird, UT
+// Snowbird, UT
+patch=1,EE,10347DF0,extended,000001FF
+
+[Tahoe City, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tahoe City, CA
+// Tahoe City, CA
+patch=1,EE,10347DF4,extended,000001FF
+
+[Mt. Hood, OR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mt. Hood, OR
+// Mt. Hood, OR
+patch=1,EE,10347DF8,extended,000001FF
+
+[Anahiem, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anahiem, CA
+// Anahiem, CA
+patch=1,EE,10347DFC,extended,000001FF
+
+[Max Ollie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ollie
+// Max Ollie
+patch=1,EE,10347E94,extended,00000008
+
+[Max Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spin
+// Max Spin
+patch=1,EE,10347E98,extended,0000000A
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,10347E9C,extended,00000008
+
+[Max Land]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Land
+// Max Land
+patch=1,EE,10347EA0,extended,00000008
+
+[Max Balance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Balance
+// Max Balance
+patch=1,EE,10347EA4,extended,0000000A
+
+[Norden, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Norden, CA
+// Norden, CA
+patch=1,EE,10347E54,extended,000001FF
+
+[Aspen, CO]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aspen, CO
+// Aspen, CO
+patch=1,EE,10347E58,extended,000001FF
+
+[Kirkwood, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kirkwood, CA
+// Kirkwood, CA
+patch=1,EE,10347E5C,extended,000001FF
+
+[South Lake Tahoe, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Lake Tahoe, CA
+// South Lake Tahoe, CA
+patch=1,EE,10347E60,extended,000001FF
+
+[Snowbird, UT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snowbird, UT
+// Snowbird, UT
+patch=1,EE,10347E64,extended,000001FF
+
+[Tahoe City, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tahoe City, CA
+// Tahoe City, CA
+patch=1,EE,10347E68,extended,000001FF
+
+[Mt. Hood, OR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mt. Hood, OR
+// Mt. Hood, OR
+patch=1,EE,10347E6C,extended,000001FF
+
+[Anahiem, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anahiem, CA
+// Anahiem, CA
+patch=1,EE,10347E70,extended,000001FF
+
+[Max Ollie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ollie
+// Max Ollie
+patch=1,EE,10347F08,extended,00000009
+
+[Max Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spin
+// Max Spin
+patch=1,EE,10347F0C,extended,00000007
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,10347F10,extended,0000000A
+
+[Max Land]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Land
+// Max Land
+patch=1,EE,10347F14,extended,00000009
+
+[Max Balance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Balance
+// Max Balance
+patch=1,EE,10347F18,extended,00000009
+
+[Norden, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Norden, CA
+// Norden, CA
+patch=1,EE,10347EC8,extended,000001FF
+
+[Aspen, CO]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aspen, CO
+// Aspen, CO
+patch=1,EE,10347ECC,extended,000001FF
+
+[Kirkwood, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kirkwood, CA
+// Kirkwood, CA
+patch=1,EE,10347ED0,extended,000001FF
+
+[South Lake Tahoe, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Lake Tahoe, CA
+// South Lake Tahoe, CA
+patch=1,EE,10347ED4,extended,000001FF
+
+[Snowbird, UT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snowbird, UT
+// Snowbird, UT
+patch=1,EE,10347ED8,extended,000001FF
+
+[Tahoe City, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tahoe City, CA
+// Tahoe City, CA
+patch=1,EE,10347EDC,extended,000001FF
+
+[Mt. Hood, OR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mt. Hood, OR
+// Mt. Hood, OR
+patch=1,EE,10347EE0,extended,000001FF
+
+[Anahiem, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anahiem, CA
+// Anahiem, CA
+patch=1,EE,10347EE4,extended,000001FF
+
+[Max Ollie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ollie
+// Max Ollie
+patch=1,EE,10347F7C,extended,00000009
+
+[Max Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spin
+// Max Spin
+patch=1,EE,10347F80,extended,00000007
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,10347F84,extended,0000000A
+
+[Max Land]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Land
+// Max Land
+patch=1,EE,10347F88,extended,0000000A
+
+[Max Balance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Balance
+// Max Balance
+patch=1,EE,10347F8C,extended,00000008
+
+[Norden, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Norden, CA
+// Norden, CA
+patch=1,EE,10347F3C,extended,000001FF
+
+[Aspen, CO]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aspen, CO
+// Aspen, CO
+patch=1,EE,10347F40,extended,000001FF
+
+[Kirkwood, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kirkwood, CA
+// Kirkwood, CA
+patch=1,EE,10347F44,extended,000001FF
+
+[South Lake Tahoe, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Lake Tahoe, CA
+// South Lake Tahoe, CA
+patch=1,EE,10347F48,extended,000001FF
+
+[Snowbird, UT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snowbird, UT
+// Snowbird, UT
+patch=1,EE,10347F4C,extended,000001FF
+
+[Tahoe City, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tahoe City, CA
+// Tahoe City, CA
+patch=1,EE,10347F50,extended,000001FF
+
+[Mt. Hood, OR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mt. Hood, OR
+// Mt. Hood, OR
+patch=1,EE,10347F54,extended,000001FF
+
+[Anahiem, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anahiem, CA
+// Anahiem, CA
+patch=1,EE,10347F58,extended,000001FF
+
+[Max Ollie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ollie
+// Max Ollie
+patch=1,EE,10347FF0,extended,00000009
+
+[Max Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spin
+// Max Spin
+patch=1,EE,10347FF4,extended,0000000A
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,10347FF8,extended,00000008
+
+[Max Land]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Land
+// Max Land
+patch=1,EE,10347FFC,extended,00000008
+
+[Max Balance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Balance
+// Max Balance
+patch=1,EE,10347FF0,extended,00000009
+
+[Norden, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Norden, CA
+// Norden, CA
+patch=1,EE,10347FB0,extended,000001FF
+
+[Aspen, CO]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aspen, CO
+// Aspen, CO
+patch=1,EE,10347FB4,extended,000001FF
+
+[Kirkwood, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kirkwood, CA
+// Kirkwood, CA
+patch=1,EE,10347FB8,extended,000001FF
+
+[South Lake Tahoe, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Lake Tahoe, CA
+// South Lake Tahoe, CA
+patch=1,EE,10347FBC,extended,000001FF
+
+[Snowbird, UT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snowbird, UT
+// Snowbird, UT
+patch=1,EE,10347FC0,extended,000001FF
+
+[Tahoe City, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tahoe City, CA
+// Tahoe City, CA
+patch=1,EE,10347FC4,extended,000001FF
+
+[Mt. Hood, OR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mt. Hood, OR
+// Mt. Hood, OR
+patch=1,EE,10347FC8,extended,000001FF
+
+[Anahiem, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anahiem, CA
+// Anahiem, CA
+patch=1,EE,10347FCC,extended,000001FF
+
+[Max Ollie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ollie
+// Max Ollie
+patch=1,EE,10348060,extended,00000009
+
+[Max Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spin
+// Max Spin
+patch=1,EE,10348064,extended,00000009
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,10348068,extended,00000008
+
+[Max Land]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Land
+// Max Land
+patch=1,EE,1034806C,extended,0000000A
+
+[Max Balance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Balance
+// Max Balance
+patch=1,EE,10348070,extended,00000008
+
+[Norden, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Norden, CA
+// Norden, CA
+patch=1,EE,10348024,extended,000001FF
+
+[Aspen, CO]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aspen, CO
+// Aspen, CO
+patch=1,EE,10348028,extended,000001FF
+
+[Kirkwood, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kirkwood, CA
+// Kirkwood, CA
+patch=1,EE,1034802C,extended,000001FF
+
+[South Lake Tahoe, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Lake Tahoe, CA
+// South Lake Tahoe, CA
+patch=1,EE,10348030,extended,000001FF
+
+[Snowbird, UT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snowbird, UT
+// Snowbird, UT
+patch=1,EE,10348034,extended,000001FF
+
+[Tahoe City, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tahoe City, CA
+// Tahoe City, CA
+patch=1,EE,10348038,extended,000001FF
+
+[Mt. Hood, OR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mt. Hood, OR
+// Mt. Hood, OR
+patch=1,EE,1034803C,extended,000001FF
+
+[Anahiem, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anahiem, CA
+// Anahiem, CA
+patch=1,EE,10348040,extended,000001FF
+
+[Max Ollie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ollie
+// Max Ollie
+patch=1,EE,103480D8,extended,0000000A
+
+[Max Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spin
+// Max Spin
+patch=1,EE,103480DC,extended,00000009
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,103480E0,extended,00000008
+
+[Max Land]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Land
+// Max Land
+patch=1,EE,103480E4,extended,00000008
+
+[Max Balance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Balance
+// Max Balance
+patch=1,EE,103480E8,extended,00000009
+
+[Norden, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Norden, CA
+// Norden, CA
+patch=1,EE,10348098,extended,000001FF
+
+[Aspen, CO]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aspen, CO
+// Aspen, CO
+patch=1,EE,1034809C,extended,000001FF
+
+[Kirkwood, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kirkwood, CA
+// Kirkwood, CA
+patch=1,EE,103480A0,extended,000001FF
+
+[South Lake Tahoe, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Lake Tahoe, CA
+// South Lake Tahoe, CA
+patch=1,EE,103480A4,extended,000001FF
+
+[Snowbird, UT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snowbird, UT
+// Snowbird, UT
+patch=1,EE,103480A8,extended,000001FF
+
+[Tahoe City, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tahoe City, CA
+// Tahoe City, CA
+patch=1,EE,103480AC,extended,000001FF
+
+[Mt. Hood, OR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mt. Hood, OR
+// Mt. Hood, OR
+patch=1,EE,103480B0,extended,000001FF
+
+[Anahiem, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anahiem, CA
+// Anahiem, CA
+patch=1,EE,103480B4,extended,000001FF
+
+[Max Ollie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ollie
+// Max Ollie
+patch=1,EE,1034814C,extended,00000009
+
+[Max Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spin
+// Max Spin
+patch=1,EE,10348150,extended,00000009
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,10348154,extended,00000009
+
+[Max Land]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Land
+// Max Land
+patch=1,EE,10348158,extended,0000000A
+
+[Max Balance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Balance
+// Max Balance
+patch=1,EE,1034815C,extended,00000007
+
+[Norden, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Norden, CA
+// Norden, CA
+patch=1,EE,1034810C,extended,000001FF
+
+[Aspen, CO]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aspen, CO
+// Aspen, CO
+patch=1,EE,10348110,extended,000001FF
+
+[Kirkwood, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kirkwood, CA
+// Kirkwood, CA
+patch=1,EE,10348114,extended,000001FF
+
+[South Lake Tahoe, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Lake Tahoe, CA
+// South Lake Tahoe, CA
+patch=1,EE,10348118,extended,000001FF
+
+[Snowbird, UT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snowbird, UT
+// Snowbird, UT
+patch=1,EE,1034811C,extended,000001FF
+
+[Tahoe City, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tahoe City, CA
+// Tahoe City, CA
+patch=1,EE,10348120,extended,000001FF
+
+[Mt. Hood, OR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mt. Hood, OR
+// Mt. Hood, OR
+patch=1,EE,10348124,extended,000001FF
+
+[Anahiem, CA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anahiem, CA
+// Anahiem, CA
+patch=1,EE,10348128,extended,000001FF

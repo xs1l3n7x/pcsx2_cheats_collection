@@ -1,0 +1,43 @@
+gametitle=Yu-Gi-oh! Capsule Monster Coliseum [UNKNOWN] [6624A78C]
+
+[All Levels Available]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Levels Available
+// All Levels Available
+patch=1,EE,201D7704,extended,24020001
+
+[God Mode]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=God Mode
+// God Mode
+patch=1,EE,20276E88,extended,24020001
+
+[Display Coordinates]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Display Coordinates
+// Display Coordinates
+patch=1,EE,2047E7E0,extended,24020001
+
+[Display Spread Circle]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Display Spread Circle
+// Display Spread Circle
+patch=1,EE,20479D74,extended,24020001
+
+[Display Lock Circle]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Display Lock Circle
+// Display Lock Circle
+patch=1,EE,20479CB8,extended,24020001
+
+[Infinite Ammo/No Reload]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Ammo/No Reload
+// Infinite Ammo/No Reload
+patch=1,EE,2028BC80,extended,00000000
+
+[Infinite Sprint]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Sprint
+// Infinite Sprint
+patch=1,EE,2021B640,extended,00000000

@@ -1,0 +1,25 @@
+gametitle=Tak And The Power Of Juju [SLUS-20519] [17493C04]
+
+[All Juju Potions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Juju Potions
+// All Juju Potions
+patch=1,EE,F0100008,extended,0036D3BF
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201BBBA8,extended,3C013F80
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201BBBAC,extended,AE410298
+
+[Infinite Orange Feathers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Orange Feathers
+// Infinite Orange Feathers
+patch=1,EE,20434600,extended,0000270F

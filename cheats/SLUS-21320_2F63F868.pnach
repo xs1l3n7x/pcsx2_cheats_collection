@@ -1,0 +1,271 @@
+gametitle=Rogue Trooper [SLUS-21320] [2F63F868]
+
+[Portuguese]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Portuguese
+// Portuguese
+patch=1,EE,903B68AC,extended,0C0EEEC3
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2030BA7C,extended,3C0143C8
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2030BA80,extended,AC610028
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,1030BA86,extended,00001000
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,2027D274,extended,00000000
+
+[Max Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo
+// Max Infinite Ammo
+patch=1,EE,2027D26C,extended,240203E7
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,2027D26C,extended,00501023
+
+[Infinite Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Grenades
+// Infinite Grenades
+patch=1,EE,2027CD7C,extended,00000000
+
+[Max Infinite Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Grenades
+// Max Infinite Grenades
+patch=1,EE,2027CD60,extended,24030009
+
+[Extra Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Grenades
+// Extra Grenades
+patch=1,EE,2027CD60,extended,00511821
+
+[Never Reload Pistol/Gunnar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload Pistol/Gunnar
+// Never Reload Pistol/Gunnar
+patch=1,EE,2038D12C,extended,00000000
+
+[Never Reload With Max Clip Pistol/Gunnar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload With Max Clip Pistol/Gunnar
+// Never Reload With Max Clip Pistol/Gunnar
+patch=1,EE,2038D128,extended,24030063
+
+[Never Reload Beam Rifle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload Beam Rifle
+// Never Reload Beam Rifle
+patch=1,EE,2039202C,extended,00000000
+
+[Never Reload With Max Clip Beam Rifle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload With Max Clip Beam Rifle
+// Never Reload With Max Clip Beam Rifle
+patch=1,EE,20392028,extended,24030063
+
+[Never Reload Mortal Launcher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload Mortal Launcher
+// Never Reload Mortal Launcher
+patch=1,EE,20394DF0,extended,00000000
+
+[Never Reload Sniper Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload Sniper Mode
+// Never Reload Sniper Mode
+patch=1,EE,2039B63C,extended,00000000
+
+[Never Reload With Max Clip Sniper Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload With Max Clip Sniper Mode
+// Never Reload With Max Clip Sniper Mode
+patch=1,EE,2039B638,extended,24030063
+
+[Never Reload Sammy Launcher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload Sammy Launcher
+// Never Reload Sammy Launcher
+patch=1,EE,203A1218,extended,00000000
+
+[Never Reload With Max Clip Sammy Launcher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload With Max Clip Sammy Launcher
+// Never Reload With Max Clip Sammy Launcher
+patch=1,EE,203A1208,extended,24020063
+
+[Never Reload Shotgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload Shotgun
+// Never Reload Shotgun
+patch=1,EE,203A3160,extended,00000000
+
+[Never Reload With Max Clip Shotgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload With Max Clip Shotgun
+// Never Reload With Max Clip Shotgun
+patch=1,EE,203A3158,extended,24030063
+
+[Infinite Holodecoy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Holodecoy
+// Infinite Holodecoy
+patch=1,EE,20274550,extended,00000000
+
+[Unlock All Cheats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheats
+// Unlock All Cheats
+patch=1,EE,2028C584,extended,24030001
+
+[Unlock All Cheats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheats
+// Unlock All Cheats
+patch=1,EE,2028C58C,extended,A0430000
+
+[Unlock All Cheats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheats
+// Unlock All Cheats
+patch=1,EE,2028C5A4,extended,24020001
+
+[Infinite Salvation Points Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Salvation Points Usage
+// Infinite Salvation Points Usage
+patch=1,EE,2027BE20,extended,00000000
+
+[Extra Salvation Points Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Salvation Points Usage
+// Extra Salvation Points Usage
+patch=1,EE,2027BE18,extended,00621821
+
+[Unlock All Levels (Level Select)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Levels (Level Select)
+// Unlock All Levels (Level Select)
+patch=1,EE,200C0234,extended,2402000B
+
+[Unlock All Levels (Level Select)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Levels (Level Select)
+// Unlock All Levels (Level Select)
+patch=1,EE,200C0238,extended,080D4BF3
+
+[Unlock All Levels (Level Select)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Levels (Level Select)
+// Unlock All Levels (Level Select)
+patch=1,EE,200C023C,extended,ACC20298
+
+[Unlock All Levels (Level Select)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Levels (Level Select)
+// Unlock All Levels (Level Select)
+patch=1,EE,20352FC8,extended,0803008D
+
+[Emplacement Guns Never Overheat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Emplacement Guns Never Overheat
+// Emplacement Guns Never Overheat
+patch=1,EE,203A2674,extended,00000000
+
+[Low Gravity Ragdoll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Gravity Ragdoll
+// Low Gravity Ragdoll
+patch=1,EE,004926E1,extended,00000001
+
+[Infinite Supplies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Supplies
+// Infinite Supplies
+patch=1,EE,004926E3,extended,00000001
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,004926E4,extended,00000001
+
+[Extreme Ragdoll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extreme Ragdoll
+// Extreme Ragdoll
+patch=1,EE,004926E6,extended,00000001
+
+[Hippy Blood]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hippy Blood
+// Hippy Blood
+patch=1,EE,004926E7,extended,00000001
+
+[View To Unlock All]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View To Unlock All
+// View To Unlock All
+patch=1,EE,200C0220,extended,3C0105F5
+
+[View To Unlock All]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View To Unlock All
+// View To Unlock All
+patch=1,EE,200C0224,extended,3421E0FF
+
+[View To Unlock All]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View To Unlock All
+// View To Unlock All
+patch=1,EE,200C0228,extended,AE810158
+
+[View To Unlock All]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View To Unlock All
+// View To Unlock All
+patch=1,EE,200C022C,extended,080D0350
+
+[View To Unlock All]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View To Unlock All
+// View To Unlock All
+patch=1,EE,200C0230,extended,AE81015C
+
+[View To Unlock All]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View To Unlock All
+// View To Unlock All
+patch=1,EE,20341244,extended,0C030088
+
+[View To Have All Viewed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View To Have All Viewed
+// View To Have All Viewed
+patch=1,EE,20341254,extended,24020001
+
+[View To Have All Viewed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View To Have All Viewed
+// View To Have All Viewed
+patch=1,EE,20341258,extended,A2420000

@@ -1,0 +1,19 @@
+gametitle=Great Escape, The [SLUS-20670] [D600925B]
+
+[Task 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Task 10
+// Task 10
+patch=1,EE,90355F34,extended,0C0FA4AF
+
+[Play All Movies Upon Starting Game]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Play All Movies Upon Starting Game
+// Play All Movies Upon Starting Game
+patch=1,EE,204EE09C,extended,00000001
+
+[Have Level Select]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Level Select
+// Have Level Select
+patch=1,EE,204EE0A0,extended,00000001

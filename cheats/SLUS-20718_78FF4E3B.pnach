@@ -1,0 +1,3829 @@
+gametitle=Sonic Heroes [SLUS-20718] [78FF4E3B]
+
+[Show Unchanged]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Unchanged
+// Show Unchanged
+patch=1,EE,F0100008,extended,001EBD93
+
+[Max Rings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rings
+// Max Rings
+patch=1,EE,204DE080,extended,000003E7
+
+[Rings Worth 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rings Worth 100
+// Rings Worth 100
+patch=1,EE,202B5EE8,extended,24500064
+
+[Rings Worth 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rings Worth 50
+// Rings Worth 50
+patch=1,EE,202B5EE8,extended,24500032
+
+[Rings Worth 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rings Worth 20
+// Rings Worth 20
+patch=1,EE,202B5EE8,extended,24500014
+
+[Pick Up 1 Ring For Max Rings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pick Up 1 Ring For Max Rings
+// Pick Up 1 Ring For Max Rings
+patch=1,EE,202B5EE8,extended,241003E7
+
+[Infinite Lives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives
+// Infinite Lives
+patch=1,EE,204DE0A0,extended,00000063
+
+[Extra Lives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Lives
+// Extra Lives
+patch=1,EE,1028E74C,extended,00000001
+
+[Team Blast]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team Blast
+// Team Blast
+patch=1,EE,204DE0F0,extended,42C80000
+
+[Turn Hud Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Turn Hud Off
+// Turn Hud Off
+patch=1,EE,204AD1C8,extended,00000001
+
+[P1 Press {L1}+{SELECT} To Enable Debug Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Enable Debug Info
+// P1 Press {L1}+{SELECT} To Enable Debug Info
+patch=1,EE,D051969C,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Enable Debug Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Enable Debug Info
+// P1 Press {L1}+{SELECT} To Enable Debug Info
+patch=1,EE,204AD1C0,extended,00000001
+
+[P1 Press {L2}+{SELECT} To Disable Debug Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Disable Debug Info
+// P1 Press {L2}+{SELECT} To Disable Debug Info
+patch=1,EE,D051969C,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Disable Debug Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Disable Debug Info
+// P1 Press {L2}+{SELECT} To Disable Debug Info
+patch=1,EE,204AD1C0,extended,00000000
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,20477D7C,extended,00000000
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,20477D80,extended,00000000
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,20477D84,extended,00000000
+
+[Unlock Challenges]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Challenges
+// Unlock Challenges
+patch=1,EE,0051A1E2,extended,00000078
+
+[Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 1
+// Character 1
+patch=1,EE,204DE0B0,extended,0098967F
+
+[Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 2
+// Character 2
+patch=1,EE,204DE0B4,extended,0098967F
+
+[Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 3
+// Character 3
+patch=1,EE,204DE0B8,extended,0098967F
+
+[Sonic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic
+// Sonic
+patch=1,EE,00B7C488,extended,00000003
+
+[Tails]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tails
+// Tails
+patch=1,EE,00B7C489,extended,00000003
+
+[Knuckles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knuckles
+// Knuckles
+patch=1,EE,00B7C48A,extended,00000003
+
+[All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Characters
+// All Characters
+patch=1,EE,10B7C488,extended,00000303
+
+[All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Characters
+// All Characters
+patch=1,EE,00B7C48A,extended,00000003
+
+[Japanese]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Japanese
+// Japanese
+patch=1,EE,20311400,extended,03E00008
+
+[Japanese]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Japanese
+// Japanese
+patch=1,EE,20311404,extended,24020000
+
+[English]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=English
+// English
+patch=1,EE,20311400,extended,03E00008
+
+[English]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=English
+// English
+patch=1,EE,20311404,extended,24020001
+
+[French]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=French
+// French
+patch=1,EE,20311400,extended,03E00008
+
+[French]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=French
+// French
+patch=1,EE,20311404,extended,24020002
+
+[Spanish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spanish
+// Spanish
+patch=1,EE,20311400,extended,03E00008
+
+[Spanish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spanish
+// Spanish
+patch=1,EE,20311404,extended,24020003
+
+[German]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=German
+// German
+patch=1,EE,20311400,extended,03E00008
+
+[German]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=German
+// German
+patch=1,EE,20311404,extended,24020004
+
+[Italian]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Italian
+// Italian
+patch=1,EE,20311400,extended,03E00008
+
+[Italian]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Italian
+// Italian
+patch=1,EE,20311404,extended,24020005
+
+[Sonic Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 1
+// Sonic Team-Max Rings-Challenge 1
+patch=1,EE,2051A20C,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 1
+// Sonic Team-Max Score-Challenge 1
+patch=1,EE,2051A210,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,1051A214,extended,00000000
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,0051A216,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 1
+// Sonic Team-Level Completed-Challenge 1
+patch=1,EE,0051A217,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 2
+// Sonic Team-Max Rings-Challenge 2
+patch=1,EE,2051A218,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 2
+// Sonic Team-Max Score-Challenge 2
+patch=1,EE,2051A21C,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,1051A220,extended,00000000
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,0051A222,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 2
+// Sonic Team-Level Completed-Challenge 2
+patch=1,EE,0051A223,extended,00000005
+
+[Dark Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Rings-Challenge 1
+// Dark Team-Max Rings-Challenge 1
+patch=1,EE,2051A224,extended,000003E7
+
+[Dark Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Score-Challenge 1
+// Dark Team-Max Score-Challenge 1
+patch=1,EE,2051A228,extended,3B9AC9FF
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,1051A22C,extended,00000000
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,0051A22E,extended,00000000
+
+[Dark Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 1
+// Dark Team-Level Completed-Challenge 1
+patch=1,EE,0051A22F,extended,00000005
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,1051A230,extended,00000000
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,0051A232,extended,00000000
+
+[Dark Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 2
+// Dark Team-Level Completed-Challenge 2
+patch=1,EE,0051A233,extended,00000005
+
+[Rose Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Rings-Challenge 1
+// Rose Team-Max Rings-Challenge 1
+patch=1,EE,2051A234,extended,000003E7
+
+[Rose Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Score-Challenge 1
+// Rose Team-Max Score-Challenge 1
+patch=1,EE,2051A238,extended,3B9AC9FF
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,1051A23C,extended,00000000
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,0051A23E,extended,00000000
+
+[Rose Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 1
+// Rose Team-Level Completed-Challenge 1
+patch=1,EE,0051A23F,extended,00000005
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,1051A240,extended,00000000
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,0051A242,extended,00000000
+
+[Rose Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 2
+// Rose Team-Level Completed-Challenge 2
+patch=1,EE,0051A243,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 1
+// Chaotix Team-Max Rings-Challenge 1
+patch=1,EE,2051A244,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 1
+// Chaotix Team-Max Score-Challenge 1
+patch=1,EE,2051A248,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,1051A24C,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,0051A24E,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 1
+// Chaotix Team-Level Completed-Challenge 1
+patch=1,EE,0051A24F,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 2
+// Chaotix Team-Max Rings-Challenge 2
+patch=1,EE,2051A250,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 2
+// Chaotix Team-Max Score-Challenge 2
+patch=1,EE,2051A254,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,1051A258,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,0051A25A,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 2
+// Chaotix Team-Level Completed-Challenge 2
+patch=1,EE,0051A25B,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 1
+// Sonic Team-Max Rings-Challenge 1
+patch=1,EE,2051A25C,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 1
+// Sonic Team-Max Score-Challenge 1
+patch=1,EE,2051A260,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,1051A264,extended,00000000
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,0051A266,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 1
+// Sonic Team-Level Completed-Challenge 1
+patch=1,EE,0051A267,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 2
+// Sonic Team-Max Rings-Challenge 2
+patch=1,EE,2051A268,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 2
+// Sonic Team-Max Score-Challenge 2
+patch=1,EE,2051A26C,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,1051A270,extended,00000000
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,0051A272,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 2
+// Sonic Team-Level Completed-Challenge 2
+patch=1,EE,0051A273,extended,00000005
+
+[Dark Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Rings-Challenge 1
+// Dark Team-Max Rings-Challenge 1
+patch=1,EE,2051A274,extended,000003E7
+
+[Dark Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Score-Challenge 1
+// Dark Team-Max Score-Challenge 1
+patch=1,EE,2051A278,extended,3B9AC9FF
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,1051A27C,extended,00000000
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,0051A27E,extended,00000000
+
+[Dark Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 1
+// Dark Team-Level Completed-Challenge 1
+patch=1,EE,0051A27F,extended,00000005
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,1051A280,extended,00000000
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,0051A282,extended,00000000
+
+[Dark Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 2
+// Dark Team-Level Completed-Challenge 2
+patch=1,EE,0051A283,extended,00000005
+
+[Rose Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Rings-Challenge 1
+// Rose Team-Max Rings-Challenge 1
+patch=1,EE,2051A284,extended,000003E7
+
+[Rose Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Score-Challenge 1
+// Rose Team-Max Score-Challenge 1
+patch=1,EE,2051A288,extended,3B9AC9FF
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,1051A28C,extended,00000000
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,0051A28E,extended,00000000
+
+[Rose Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 1
+// Rose Team-Level Completed-Challenge 1
+patch=1,EE,0051A28F,extended,00000005
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,1051A290,extended,00000000
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,0051A292,extended,00000000
+
+[Rose Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 2
+// Rose Team-Level Completed-Challenge 2
+patch=1,EE,0051A293,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 1
+// Chaotix Team-Max Rings-Challenge 1
+patch=1,EE,2051A294,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 1
+// Chaotix Team-Max Score-Challenge 1
+patch=1,EE,2051A298,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,1051A29C,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,0051A29E,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 1
+// Chaotix Team-Level Completed-Challenge 1
+patch=1,EE,0051A29F,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 2
+// Chaotix Team-Max Rings-Challenge 2
+patch=1,EE,2051A2A0,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 2
+// Chaotix Team-Max Score-Challenge 2
+patch=1,EE,2051A2A4,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,1051A2A8,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,0051A2AA,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 2
+// Chaotix Team-Level Completed-Challenge 2
+patch=1,EE,0051A2AB,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 1
+// Sonic Team-Max Rings-Challenge 1
+patch=1,EE,2051A2AC,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 1
+// Sonic Team-Max Score-Challenge 1
+patch=1,EE,2051A2B0,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,1051A2B4,extended,00000000
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,0051A2B6,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 1
+// Sonic Team-Level Completed-Challenge 1
+patch=1,EE,0051A2B7,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 2
+// Sonic Team-Max Rings-Challenge 2
+patch=1,EE,2051A2B8,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 2
+// Sonic Team-Max Score-Challenge 2
+patch=1,EE,2051A2BC,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,1051A2C0,extended,00000000
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,0051A2C2,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 2
+// Sonic Team-Level Completed-Challenge 2
+patch=1,EE,0051A2C3,extended,00000005
+
+[Dark Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Rings-Challenge 1
+// Dark Team-Max Rings-Challenge 1
+patch=1,EE,2051A2C4,extended,000003E7
+
+[Dark Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Score-Challenge 1
+// Dark Team-Max Score-Challenge 1
+patch=1,EE,2051A2C8,extended,3B9AC9FF
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,1051A2CC,extended,00000000
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,0051A2CE,extended,00000000
+
+[Dark Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 1
+// Dark Team-Level Completed-Challenge 1
+patch=1,EE,0051A2CF,extended,00000005
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,1051A2D0,extended,00000000
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,0051A2D2,extended,00000000
+
+[Dark Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 2
+// Dark Team-Level Completed-Challenge 2
+patch=1,EE,0051A2D3,extended,00000005
+
+[Rose Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Rings-Challenge 1
+// Rose Team-Max Rings-Challenge 1
+patch=1,EE,2051A2D4,extended,000003E7
+
+[Rose Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Score-Challenge 1
+// Rose Team-Max Score-Challenge 1
+patch=1,EE,2051A2D8,extended,3B9AC9FF
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,1051A2DC,extended,00000000
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,0051A2DE,extended,00000000
+
+[Rose Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 1
+// Rose Team-Level Completed-Challenge 1
+patch=1,EE,0051A2DF,extended,00000005
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,1051A2E0,extended,00000000
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,0051A2E2,extended,00000000
+
+[Rose Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 2
+// Rose Team-Level Completed-Challenge 2
+patch=1,EE,0051A2E3,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 1
+// Chaotix Team-Max Rings-Challenge 1
+patch=1,EE,2051A2E4,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 1
+// Chaotix Team-Max Score-Challenge 1
+patch=1,EE,2051A2E8,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,1051A2EC,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,0051A2EE,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 1
+// Chaotix Team-Level Completed-Challenge 1
+patch=1,EE,0051A2EF,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 2
+// Chaotix Team-Max Rings-Challenge 2
+patch=1,EE,2051A2F0,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 2
+// Chaotix Team-Max Score-Challenge 2
+patch=1,EE,2051A2F4,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,1051A2F8,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,0051A2FA,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 2
+// Chaotix Team-Level Completed-Challenge 2
+patch=1,EE,0051A2FB,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 1
+// Sonic Team-Max Rings-Challenge 1
+patch=1,EE,2051A2FC,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 1
+// Sonic Team-Max Score-Challenge 1
+patch=1,EE,2051A300,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,1051A304,extended,00000000
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,0051A306,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 1
+// Sonic Team-Level Completed-Challenge 1
+patch=1,EE,0051A307,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 2
+// Sonic Team-Max Rings-Challenge 2
+patch=1,EE,2051A308,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 2
+// Sonic Team-Max Score-Challenge 2
+patch=1,EE,2051A30C,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,1051A310,extended,00000000
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,0051A312,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 2
+// Sonic Team-Level Completed-Challenge 2
+patch=1,EE,0051A313,extended,00000005
+
+[Dark Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Rings-Challenge 1
+// Dark Team-Max Rings-Challenge 1
+patch=1,EE,2051A314,extended,000003E7
+
+[Dark Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Score-Challenge 1
+// Dark Team-Max Score-Challenge 1
+patch=1,EE,2051A318,extended,3B9AC9FF
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,1051A31C,extended,00000000
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,0051A31E,extended,00000000
+
+[Dark Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 1
+// Dark Team-Level Completed-Challenge 1
+patch=1,EE,0051A31F,extended,00000005
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,1051A320,extended,00000000
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,0051A322,extended,00000000
+
+[Dark Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 2
+// Dark Team-Level Completed-Challenge 2
+patch=1,EE,0051A323,extended,00000005
+
+[Rose Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Rings-Challenge 1
+// Rose Team-Max Rings-Challenge 1
+patch=1,EE,2051A324,extended,000003E7
+
+[Rose Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Score-Challenge 1
+// Rose Team-Max Score-Challenge 1
+patch=1,EE,2051A328,extended,3B9AC9FF
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,1051A32C,extended,00000000
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,0051A32E,extended,00000000
+
+[Rose Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 1
+// Rose Team-Level Completed-Challenge 1
+patch=1,EE,0051A32F,extended,00000005
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,1051A330,extended,00000000
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,0051A332,extended,00000000
+
+[Rose Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 2
+// Rose Team-Level Completed-Challenge 2
+patch=1,EE,0051A333,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 1
+// Chaotix Team-Max Rings-Challenge 1
+patch=1,EE,2051A334,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 1
+// Chaotix Team-Max Score-Challenge 1
+patch=1,EE,2051A338,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,1051A33C,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,0051A33E,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 1
+// Chaotix Team-Level Completed-Challenge 1
+patch=1,EE,0051A33F,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 2
+// Chaotix Team-Max Rings-Challenge 2
+patch=1,EE,2051A340,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 2
+// Chaotix Team-Max Score-Challenge 2
+patch=1,EE,2051A344,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,1051A348,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,0051A34A,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 2
+// Chaotix Team-Level Completed-Challenge 2
+patch=1,EE,0051A34B,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 1
+// Sonic Team-Max Rings-Challenge 1
+patch=1,EE,2051A34C,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 1
+// Sonic Team-Max Score-Challenge 1
+patch=1,EE,2051A350,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,1051A354,extended,00000000
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,0051A356,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 1
+// Sonic Team-Level Completed-Challenge 1
+patch=1,EE,0051A357,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 2
+// Sonic Team-Max Rings-Challenge 2
+patch=1,EE,2051A358,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 2
+// Sonic Team-Max Score-Challenge 2
+patch=1,EE,2051A35C,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,1051A360,extended,00000000
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,0051A362,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 2
+// Sonic Team-Level Completed-Challenge 2
+patch=1,EE,0051A363,extended,00000005
+
+[Dark Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Rings-Challenge 1
+// Dark Team-Max Rings-Challenge 1
+patch=1,EE,2051A364,extended,000003E7
+
+[Dark Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Score-Challenge 1
+// Dark Team-Max Score-Challenge 1
+patch=1,EE,2051A368,extended,3B9AC9FF
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,1051A36C,extended,00000000
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,0051A36E,extended,00000000
+
+[Dark Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 1
+// Dark Team-Level Completed-Challenge 1
+patch=1,EE,0051A36F,extended,00000005
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,1051A370,extended,00000000
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,0051A372,extended,00000000
+
+[Dark Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 2
+// Dark Team-Level Completed-Challenge 2
+patch=1,EE,0051A373,extended,00000005
+
+[Rose Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Rings-Challenge 1
+// Rose Team-Max Rings-Challenge 1
+patch=1,EE,2051A374,extended,000003E7
+
+[Rose Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Score-Challenge 1
+// Rose Team-Max Score-Challenge 1
+patch=1,EE,2051A378,extended,3B9AC9FF
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,1051A37C,extended,00000000
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,0051A37E,extended,00000000
+
+[Rose Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 1
+// Rose Team-Level Completed-Challenge 1
+patch=1,EE,0051A37F,extended,00000005
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,1051A380,extended,00000000
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,0051A382,extended,00000000
+
+[Rose Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 2
+// Rose Team-Level Completed-Challenge 2
+patch=1,EE,0051A383,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 1
+// Chaotix Team-Max Rings-Challenge 1
+patch=1,EE,2051A384,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 1
+// Chaotix Team-Max Score-Challenge 1
+patch=1,EE,2051A388,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,1051A38C,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,0051A38E,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 1
+// Chaotix Team-Level Completed-Challenge 1
+patch=1,EE,0051A38F,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 2
+// Chaotix Team-Max Rings-Challenge 2
+patch=1,EE,2051A390,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 2
+// Chaotix Team-Max Score-Challenge 2
+patch=1,EE,2051A394,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,1051A398,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,0051A39A,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 2
+// Chaotix Team-Level Completed-Challenge 2
+patch=1,EE,0051A39B,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 1
+// Sonic Team-Max Rings-Challenge 1
+patch=1,EE,2051A39C,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 1
+// Sonic Team-Max Score-Challenge 1
+patch=1,EE,2051A3A0,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,1051A3A4,extended,00000000
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,0051A3A6,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 1
+// Sonic Team-Level Completed-Challenge 1
+patch=1,EE,0051A3A7,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 2
+// Sonic Team-Max Rings-Challenge 2
+patch=1,EE,2051A3A8,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 2
+// Sonic Team-Max Score-Challenge 2
+patch=1,EE,2051A3AC,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,1051A3B0,extended,00000000
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,0051A3B2,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 2
+// Sonic Team-Level Completed-Challenge 2
+patch=1,EE,0051A3B3,extended,00000005
+
+[Dark Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Rings-Challenge 1
+// Dark Team-Max Rings-Challenge 1
+patch=1,EE,2051A3B4,extended,000003E7
+
+[Dark Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Score-Challenge 1
+// Dark Team-Max Score-Challenge 1
+patch=1,EE,2051A3B8,extended,3B9AC9FF
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,1051A3BC,extended,00000000
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,0051A3BE,extended,00000000
+
+[Dark Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 1
+// Dark Team-Level Completed-Challenge 1
+patch=1,EE,0051A3BF,extended,00000005
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,1051A3C0,extended,00000000
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,0051A3C2,extended,00000000
+
+[Dark Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 2
+// Dark Team-Level Completed-Challenge 2
+patch=1,EE,0051A3C3,extended,00000005
+
+[Rose Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Rings-Challenge 1
+// Rose Team-Max Rings-Challenge 1
+patch=1,EE,2051A3C4,extended,000003E7
+
+[Rose Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Score-Challenge 1
+// Rose Team-Max Score-Challenge 1
+patch=1,EE,2051A3C8,extended,3B9AC9FF
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,1051A3CC,extended,00000000
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,0051A3CE,extended,00000000
+
+[Rose Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 1
+// Rose Team-Level Completed-Challenge 1
+patch=1,EE,0051A3CF,extended,00000005
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,1051A3D0,extended,00000000
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,0051A3D2,extended,00000000
+
+[Rose Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 2
+// Rose Team-Level Completed-Challenge 2
+patch=1,EE,0051A3D3,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 1
+// Chaotix Team-Max Rings-Challenge 1
+patch=1,EE,2051A3D4,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 1
+// Chaotix Team-Max Score-Challenge 1
+patch=1,EE,2051A3D8,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,1051A3DC,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,0051A3DE,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 1
+// Chaotix Team-Level Completed-Challenge 1
+patch=1,EE,0051A3DF,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 2
+// Chaotix Team-Max Rings-Challenge 2
+patch=1,EE,2051A3E0,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 2
+// Chaotix Team-Max Score-Challenge 2
+patch=1,EE,2051A3E4,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,1051A3E8,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,0051A3EA,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 2
+// Chaotix Team-Level Completed-Challenge 2
+patch=1,EE,0051A3EB,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 1
+// Sonic Team-Max Rings-Challenge 1
+patch=1,EE,2051A3EC,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 1
+// Sonic Team-Max Score-Challenge 1
+patch=1,EE,2051A3F0,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,1051A3F4,extended,00000000
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,0051A3F6,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 1
+// Sonic Team-Level Completed-Challenge 1
+patch=1,EE,0051A3F7,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 2
+// Sonic Team-Max Rings-Challenge 2
+patch=1,EE,2051A3F8,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 2
+// Sonic Team-Max Score-Challenge 2
+patch=1,EE,2051A3FC,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,1051A400,extended,00000000
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,0051A402,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 2
+// Sonic Team-Level Completed-Challenge 2
+patch=1,EE,0051A403,extended,00000005
+
+[Dark Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Rings-Challenge 1
+// Dark Team-Max Rings-Challenge 1
+patch=1,EE,2051A404,extended,000003E7
+
+[Dark Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Score-Challenge 1
+// Dark Team-Max Score-Challenge 1
+patch=1,EE,2051A408,extended,3B9AC9FF
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,1051A40C,extended,00000000
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,0051A40E,extended,00000000
+
+[Dark Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 1
+// Dark Team-Level Completed-Challenge 1
+patch=1,EE,0051A40F,extended,00000005
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,1051A410,extended,00000000
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,0051A412,extended,00000000
+
+[Dark Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 2
+// Dark Team-Level Completed-Challenge 2
+patch=1,EE,0051A413,extended,00000005
+
+[Rose Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Rings-Challenge 1
+// Rose Team-Max Rings-Challenge 1
+patch=1,EE,2051A414,extended,000003E7
+
+[Rose Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Score-Challenge 1
+// Rose Team-Max Score-Challenge 1
+patch=1,EE,2051A418,extended,3B9AC9FF
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,1051A41C,extended,00000000
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,0051A41E,extended,00000000
+
+[Rose Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 1
+// Rose Team-Level Completed-Challenge 1
+patch=1,EE,0051A41F,extended,00000005
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,1051A420,extended,00000000
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,0051A422,extended,00000000
+
+[Rose Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 2
+// Rose Team-Level Completed-Challenge 2
+patch=1,EE,0051A423,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 1
+// Chaotix Team-Max Rings-Challenge 1
+patch=1,EE,2051A424,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 1
+// Chaotix Team-Max Score-Challenge 1
+patch=1,EE,2051A428,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,1051A42C,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,0051A42E,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 1
+// Chaotix Team-Level Completed-Challenge 1
+patch=1,EE,0051A42F,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 2
+// Chaotix Team-Max Rings-Challenge 2
+patch=1,EE,2051A430,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 2
+// Chaotix Team-Max Score-Challenge 2
+patch=1,EE,2051A434,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,1051A438,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,0051A43A,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 2
+// Chaotix Team-Level Completed-Challenge 2
+patch=1,EE,0051A43B,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 1
+// Sonic Team-Max Rings-Challenge 1
+patch=1,EE,2051A43C,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 1
+// Sonic Team-Max Score-Challenge 1
+patch=1,EE,2051A440,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,1051A444,extended,00000000
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,0051A446,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 1
+// Sonic Team-Level Completed-Challenge 1
+patch=1,EE,0051A447,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 2
+// Sonic Team-Max Rings-Challenge 2
+patch=1,EE,2051A448,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 2
+// Sonic Team-Max Score-Challenge 2
+patch=1,EE,2051A44C,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,1051A450,extended,00000000
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,0051A452,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 2
+// Sonic Team-Level Completed-Challenge 2
+patch=1,EE,0051A453,extended,00000005
+
+[Dark Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Rings-Challenge 1
+// Dark Team-Max Rings-Challenge 1
+patch=1,EE,2051A454,extended,000003E7
+
+[Dark Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Score-Challenge 1
+// Dark Team-Max Score-Challenge 1
+patch=1,EE,2051A458,extended,3B9AC9FF
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,1051A45C,extended,00000000
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,0051A45E,extended,00000000
+
+[Dark Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 1
+// Dark Team-Level Completed-Challenge 1
+patch=1,EE,0051A45F,extended,00000005
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,1051A460,extended,00000000
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,0051A462,extended,00000000
+
+[Dark Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 2
+// Dark Team-Level Completed-Challenge 2
+patch=1,EE,0051A463,extended,00000005
+
+[Rose Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Rings-Challenge 1
+// Rose Team-Max Rings-Challenge 1
+patch=1,EE,2051A464,extended,000003E7
+
+[Rose Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Score-Challenge 1
+// Rose Team-Max Score-Challenge 1
+patch=1,EE,2051A468,extended,3B9AC9FF
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,1051A46C,extended,00000000
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,0051A46E,extended,00000000
+
+[Rose Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 1
+// Rose Team-Level Completed-Challenge 1
+patch=1,EE,0051A46F,extended,00000005
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,1051A470,extended,00000000
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,0051A472,extended,00000000
+
+[Rose Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 2
+// Rose Team-Level Completed-Challenge 2
+patch=1,EE,0051A473,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 1
+// Chaotix Team-Max Rings-Challenge 1
+patch=1,EE,2051A474,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 1
+// Chaotix Team-Max Score-Challenge 1
+patch=1,EE,2051A478,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,1051A47C,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,0051A47E,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 1
+// Chaotix Team-Level Completed-Challenge 1
+patch=1,EE,0051A47F,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 2
+// Chaotix Team-Max Rings-Challenge 2
+patch=1,EE,2051A480,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 2
+// Chaotix Team-Max Score-Challenge 2
+patch=1,EE,2051A484,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,1051A488,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,0051A48A,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 2
+// Chaotix Team-Level Completed-Challenge 2
+patch=1,EE,0051A48B,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 1
+// Sonic Team-Max Rings-Challenge 1
+patch=1,EE,2051A48C,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 1
+// Sonic Team-Max Score-Challenge 1
+patch=1,EE,2051A490,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,1051A494,extended,00000000
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,0051A496,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 1
+// Sonic Team-Level Completed-Challenge 1
+patch=1,EE,0051A497,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 2
+// Sonic Team-Max Rings-Challenge 2
+patch=1,EE,2051A498,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 2
+// Sonic Team-Max Score-Challenge 2
+patch=1,EE,2051A49C,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,1051A4A0,extended,00000000
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,0051A4A2,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 2
+// Sonic Team-Level Completed-Challenge 2
+patch=1,EE,0051A4A3,extended,00000005
+
+[Dark Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Rings-Challenge 1
+// Dark Team-Max Rings-Challenge 1
+patch=1,EE,2051A4A4,extended,000003E7
+
+[Dark Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Score-Challenge 1
+// Dark Team-Max Score-Challenge 1
+patch=1,EE,2051A4A8,extended,3B9AC9FF
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,1051A4AC,extended,00000000
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,0051A4AE,extended,00000000
+
+[Dark Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 1
+// Dark Team-Level Completed-Challenge 1
+patch=1,EE,0051A4AF,extended,00000005
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,1051A4B0,extended,00000000
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,0051A4B2,extended,00000000
+
+[Dark Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 2
+// Dark Team-Level Completed-Challenge 2
+patch=1,EE,0051A4B3,extended,00000005
+
+[Rose Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Rings-Challenge 1
+// Rose Team-Max Rings-Challenge 1
+patch=1,EE,2051A4B4,extended,000003E7
+
+[Rose Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Score-Challenge 1
+// Rose Team-Max Score-Challenge 1
+patch=1,EE,2051A4B8,extended,3B9AC9FF
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,1051A4BC,extended,00000000
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,0051A4BE,extended,00000000
+
+[Rose Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 1
+// Rose Team-Level Completed-Challenge 1
+patch=1,EE,0051A4BF,extended,00000005
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,1051A4C0,extended,00000000
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,0051A4C2,extended,00000000
+
+[Rose Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 2
+// Rose Team-Level Completed-Challenge 2
+patch=1,EE,0051A4C3,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 1
+// Chaotix Team-Max Rings-Challenge 1
+patch=1,EE,2051A4C4,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 1
+// Chaotix Team-Max Score-Challenge 1
+patch=1,EE,2051A4C8,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,1051A4CC,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,0051A4CE,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 1
+// Chaotix Team-Level Completed-Challenge 1
+patch=1,EE,0051A4CF,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 2
+// Chaotix Team-Max Rings-Challenge 2
+patch=1,EE,2051A4D0,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 2
+// Chaotix Team-Max Score-Challenge 2
+patch=1,EE,2051A4D4,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,1051A4D8,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,0051A4DA,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 2
+// Chaotix Team-Level Completed-Challenge 2
+patch=1,EE,0051A4DB,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 1
+// Sonic Team-Max Rings-Challenge 1
+patch=1,EE,2051A4DC,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 1
+// Sonic Team-Max Score-Challenge 1
+patch=1,EE,2051A4E0,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,1051A4E4,extended,00000000
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,0051A4E6,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 1
+// Sonic Team-Level Completed-Challenge 1
+patch=1,EE,0051A4E7,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 2
+// Sonic Team-Max Rings-Challenge 2
+patch=1,EE,2051A4E8,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 2
+// Sonic Team-Max Score-Challenge 2
+patch=1,EE,2051A4EC,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,1051A4F0,extended,00000000
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,0051A4F2,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 2
+// Sonic Team-Level Completed-Challenge 2
+patch=1,EE,0051A4F3,extended,00000005
+
+[Dark Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Rings-Challenge 1
+// Dark Team-Max Rings-Challenge 1
+patch=1,EE,2051A4F4,extended,000003E7
+
+[Dark Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Score-Challenge 1
+// Dark Team-Max Score-Challenge 1
+patch=1,EE,2051A4F8,extended,3B9AC9FF
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,1051A4FC,extended,00000000
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,0051A4FE,extended,00000000
+
+[Dark Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 1
+// Dark Team-Level Completed-Challenge 1
+patch=1,EE,0051A4FF,extended,00000005
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,1051A500,extended,00000000
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,0051A502,extended,00000000
+
+[Dark Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 2
+// Dark Team-Level Completed-Challenge 2
+patch=1,EE,0051A503,extended,00000005
+
+[Rose Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Rings-Challenge 1
+// Rose Team-Max Rings-Challenge 1
+patch=1,EE,2051A504,extended,000003E7
+
+[Rose Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Score-Challenge 1
+// Rose Team-Max Score-Challenge 1
+patch=1,EE,2051A508,extended,3B9AC9FF
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,1051A50C,extended,00000000
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,0051A50E,extended,00000000
+
+[Rose Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 1
+// Rose Team-Level Completed-Challenge 1
+patch=1,EE,0051A50F,extended,00000005
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,1051A510,extended,00000000
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,0051A512,extended,00000000
+
+[Rose Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 2
+// Rose Team-Level Completed-Challenge 2
+patch=1,EE,0051A513,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 1
+// Chaotix Team-Max Rings-Challenge 1
+patch=1,EE,2051A514,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 1
+// Chaotix Team-Max Score-Challenge 1
+patch=1,EE,2051A518,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,1051A51C,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,0051A51E,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 1
+// Chaotix Team-Level Completed-Challenge 1
+patch=1,EE,0051A51F,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 2
+// Chaotix Team-Max Rings-Challenge 2
+patch=1,EE,2051A520,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 2
+// Chaotix Team-Max Score-Challenge 2
+patch=1,EE,2051A524,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,1051A528,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,0051A52A,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 2
+// Chaotix Team-Level Completed-Challenge 2
+patch=1,EE,0051A52B,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 1
+// Sonic Team-Max Rings-Challenge 1
+patch=1,EE,2051A52C,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 1
+// Sonic Team-Max Score-Challenge 1
+patch=1,EE,2051A530,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,1051A534,extended,00000000
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,0051A536,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 1
+// Sonic Team-Level Completed-Challenge 1
+patch=1,EE,0051A537,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 2
+// Sonic Team-Max Rings-Challenge 2
+patch=1,EE,2051A538,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 2
+// Sonic Team-Max Score-Challenge 2
+patch=1,EE,2051A53C,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,1051A540,extended,00000000
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,0051A542,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 2
+// Sonic Team-Level Completed-Challenge 2
+patch=1,EE,0051A543,extended,00000005
+
+[Dark Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Rings-Challenge 1
+// Dark Team-Max Rings-Challenge 1
+patch=1,EE,2051A544,extended,000003E7
+
+[Dark Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Score-Challenge 1
+// Dark Team-Max Score-Challenge 1
+patch=1,EE,2051A548,extended,3B9AC9FF
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,1051A54C,extended,00000000
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,0051A54E,extended,00000000
+
+[Dark Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 1
+// Dark Team-Level Completed-Challenge 1
+patch=1,EE,0051A54F,extended,00000005
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,1051A550,extended,00000000
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,0051A552,extended,00000000
+
+[Dark Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 2
+// Dark Team-Level Completed-Challenge 2
+patch=1,EE,0051A553,extended,00000005
+
+[Rose Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Rings-Challenge 1
+// Rose Team-Max Rings-Challenge 1
+patch=1,EE,2051A554,extended,000003E7
+
+[Rose Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Score-Challenge 1
+// Rose Team-Max Score-Challenge 1
+patch=1,EE,2051A558,extended,3B9AC9FF
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,1051A55C,extended,00000000
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,0051A55E,extended,00000000
+
+[Rose Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 1
+// Rose Team-Level Completed-Challenge 1
+patch=1,EE,0051A55F,extended,00000005
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,1051A560,extended,00000000
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,0051A562,extended,00000000
+
+[Rose Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 2
+// Rose Team-Level Completed-Challenge 2
+patch=1,EE,0051A563,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 1
+// Chaotix Team-Max Rings-Challenge 1
+patch=1,EE,2051A564,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 1
+// Chaotix Team-Max Score-Challenge 1
+patch=1,EE,2051A568,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,1051A56C,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,0051A56E,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 1
+// Chaotix Team-Level Completed-Challenge 1
+patch=1,EE,0051A56F,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 2
+// Chaotix Team-Max Rings-Challenge 2
+patch=1,EE,2051A570,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 2
+// Chaotix Team-Max Score-Challenge 2
+patch=1,EE,2051A574,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,1051A578,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,0051A57A,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 2
+// Chaotix Team-Level Completed-Challenge 2
+patch=1,EE,0051A57B,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 1
+// Sonic Team-Max Rings-Challenge 1
+patch=1,EE,2051A57C,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 1
+// Sonic Team-Max Score-Challenge 1
+patch=1,EE,2051A580,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,1051A584,extended,00000000
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,0051A586,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 1
+// Sonic Team-Level Completed-Challenge 1
+patch=1,EE,0051A587,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 2
+// Sonic Team-Max Rings-Challenge 2
+patch=1,EE,2051A588,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 2
+// Sonic Team-Max Score-Challenge 2
+patch=1,EE,2051A58C,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,1051A590,extended,00000000
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,0051A592,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 2
+// Sonic Team-Level Completed-Challenge 2
+patch=1,EE,0051A593,extended,00000005
+
+[Dark Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Rings-Challenge 1
+// Dark Team-Max Rings-Challenge 1
+patch=1,EE,2051A594,extended,000003E7
+
+[Dark Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Score-Challenge 1
+// Dark Team-Max Score-Challenge 1
+patch=1,EE,2051A598,extended,3B9AC9FF
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,1051A59C,extended,00000000
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,0051A59E,extended,00000000
+
+[Dark Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 1
+// Dark Team-Level Completed-Challenge 1
+patch=1,EE,0051A59F,extended,00000005
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,1051A5A0,extended,00000000
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,0051A5A2,extended,00000000
+
+[Dark Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 2
+// Dark Team-Level Completed-Challenge 2
+patch=1,EE,0051A5A3,extended,00000005
+
+[Rose Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Rings-Challenge 1
+// Rose Team-Max Rings-Challenge 1
+patch=1,EE,2051A5A4,extended,000003E7
+
+[Rose Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Score-Challenge 1
+// Rose Team-Max Score-Challenge 1
+patch=1,EE,2051A5A8,extended,3B9AC9FF
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,1051A5AC,extended,00000000
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,0051A5AE,extended,00000000
+
+[Rose Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 1
+// Rose Team-Level Completed-Challenge 1
+patch=1,EE,0051A5AF,extended,00000005
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,1051A5B0,extended,00000000
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,0051A5B2,extended,00000000
+
+[Rose Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 2
+// Rose Team-Level Completed-Challenge 2
+patch=1,EE,0051A5B3,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 1
+// Chaotix Team-Max Rings-Challenge 1
+patch=1,EE,2051A5B4,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 1
+// Chaotix Team-Max Score-Challenge 1
+patch=1,EE,2051A5B8,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,1051A5BC,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,0051A5BE,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 1
+// Chaotix Team-Level Completed-Challenge 1
+patch=1,EE,0051A5BF,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 2
+// Chaotix Team-Max Rings-Challenge 2
+patch=1,EE,2051A5C0,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 2
+// Chaotix Team-Max Score-Challenge 2
+patch=1,EE,2051A5C4,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,1051A5C8,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,0051A5CA,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 2
+// Chaotix Team-Level Completed-Challenge 2
+patch=1,EE,0051A5CB,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 1
+// Sonic Team-Max Rings-Challenge 1
+patch=1,EE,2051A5CC,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 1
+// Sonic Team-Max Score-Challenge 1
+patch=1,EE,2051A5D0,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,1051A5D4,extended,00000000
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,0051A5D6,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 1
+// Sonic Team-Level Completed-Challenge 1
+patch=1,EE,0051A5D7,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 2
+// Sonic Team-Max Rings-Challenge 2
+patch=1,EE,2051A5D8,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 2
+// Sonic Team-Max Score-Challenge 2
+patch=1,EE,2051A5DC,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,1051A5E0,extended,00000000
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,0051A5E2,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 2
+// Sonic Team-Level Completed-Challenge 2
+patch=1,EE,0051A5E3,extended,00000005
+
+[Dark Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Rings-Challenge 1
+// Dark Team-Max Rings-Challenge 1
+patch=1,EE,2051A5E4,extended,000003E7
+
+[Dark Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Score-Challenge 1
+// Dark Team-Max Score-Challenge 1
+patch=1,EE,2051A5E8,extended,3B9AC9FF
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,1051A5EC,extended,00000000
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,0051A5EE,extended,00000000
+
+[Dark Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 1
+// Dark Team-Level Completed-Challenge 1
+patch=1,EE,0051A5EF,extended,00000005
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,1051A5F0,extended,00000000
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,0051A5F2,extended,00000000
+
+[Dark Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 2
+// Dark Team-Level Completed-Challenge 2
+patch=1,EE,0051A5F3,extended,00000005
+
+[Rose Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Rings-Challenge 1
+// Rose Team-Max Rings-Challenge 1
+patch=1,EE,2051A5F4,extended,000003E7
+
+[Rose Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Score-Challenge 1
+// Rose Team-Max Score-Challenge 1
+patch=1,EE,2051A5F8,extended,3B9AC9FF
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,1051A5FC,extended,00000000
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,0051A5FE,extended,00000000
+
+[Rose Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 1
+// Rose Team-Level Completed-Challenge 1
+patch=1,EE,0051A5FF,extended,00000005
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,1051A600,extended,00000000
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,0051A602,extended,00000000
+
+[Rose Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 2
+// Rose Team-Level Completed-Challenge 2
+patch=1,EE,0051A603,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 1
+// Chaotix Team-Max Rings-Challenge 1
+patch=1,EE,2051A604,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 1
+// Chaotix Team-Max Score-Challenge 1
+patch=1,EE,2051A608,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,1051A60C,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,0051A60E,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 1
+// Chaotix Team-Level Completed-Challenge 1
+patch=1,EE,0051A60F,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 2
+// Chaotix Team-Max Rings-Challenge 2
+patch=1,EE,2051A610,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 2
+// Chaotix Team-Max Score-Challenge 2
+patch=1,EE,2051A614,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,1051A618,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,0051A61A,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 2
+// Chaotix Team-Level Completed-Challenge 2
+patch=1,EE,0051A61B,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 1
+// Sonic Team-Max Rings-Challenge 1
+patch=1,EE,2051A61C,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 1
+// Sonic Team-Max Score-Challenge 1
+patch=1,EE,2051A620,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,1051A624,extended,00000000
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,0051A626,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 1
+// Sonic Team-Level Completed-Challenge 1
+patch=1,EE,0051A627,extended,00000005
+
+[Sonic Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Rings-Challenge 2
+// Sonic Team-Max Rings-Challenge 2
+patch=1,EE,2051A628,extended,000003E7
+
+[Sonic Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Max Score-Challenge 2
+// Sonic Team-Max Score-Challenge 2
+patch=1,EE,2051A62C,extended,3B9AC9FF
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,1051A630,extended,00000000
+
+[Sonic Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 2
+// Sonic Team-Low Time-Challenge 2
+patch=1,EE,0051A632,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 2
+// Sonic Team-Level Completed-Challenge 2
+patch=1,EE,0051A633,extended,00000005
+
+[Dark Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Rings-Challenge 1
+// Dark Team-Max Rings-Challenge 1
+patch=1,EE,2051A634,extended,000003E7
+
+[Dark Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Max Score-Challenge 1
+// Dark Team-Max Score-Challenge 1
+patch=1,EE,2051A638,extended,3B9AC9FF
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,1051A63C,extended,00000000
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,0051A63E,extended,00000000
+
+[Dark Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 1
+// Dark Team-Level Completed-Challenge 1
+patch=1,EE,0051A63F,extended,00000005
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,1051A640,extended,00000000
+
+[Dark Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 2
+// Dark Team-Low Time-Challenge 2
+patch=1,EE,0051A642,extended,00000000
+
+[Dark Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 2
+// Dark Team-Level Completed-Challenge 2
+patch=1,EE,0051A643,extended,00000005
+
+[Rose Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Rings-Challenge 1
+// Rose Team-Max Rings-Challenge 1
+patch=1,EE,2051A644,extended,000003E7
+
+[Rose Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Max Score-Challenge 1
+// Rose Team-Max Score-Challenge 1
+patch=1,EE,2051A648,extended,3B9AC9FF
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,1051A64C,extended,00000000
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,0051A64E,extended,00000000
+
+[Rose Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 1
+// Rose Team-Level Completed-Challenge 1
+patch=1,EE,0051A64F,extended,00000005
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,1051A650,extended,00000000
+
+[Rose Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 2
+// Rose Team-Low Time-Challenge 2
+patch=1,EE,0051A652,extended,00000000
+
+[Rose Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 2
+// Rose Team-Level Completed-Challenge 2
+patch=1,EE,0051A653,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 1
+// Chaotix Team-Max Rings-Challenge 1
+patch=1,EE,2051A654,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 1
+// Chaotix Team-Max Score-Challenge 1
+patch=1,EE,2051A658,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,1051A65C,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,0051A65E,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 1
+// Chaotix Team-Level Completed-Challenge 1
+patch=1,EE,0051A65F,extended,00000005
+
+[Chaotix Team-Max Rings-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Rings-Challenge 2
+// Chaotix Team-Max Rings-Challenge 2
+patch=1,EE,2051A660,extended,000003E7
+
+[Chaotix Team-Max Score-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Max Score-Challenge 2
+// Chaotix Team-Max Score-Challenge 2
+patch=1,EE,2051A664,extended,3B9AC9FF
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,1051A668,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 2
+// Chaotix Team-Low Time-Challenge 2
+patch=1,EE,0051A66A,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 2
+// Chaotix Team-Level Completed-Challenge 2
+patch=1,EE,0051A66B,extended,00000005
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,1051A66C,extended,00000000
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,0051A66E,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 1
+// Sonic Team-Level Completed-Challenge 1
+patch=1,EE,0051A66F,extended,00000005
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,1051A670,extended,00000000
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,0051A672,extended,00000000
+
+[Dark Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 1
+// Dark Team-Level Completed-Challenge 1
+patch=1,EE,0051A673,extended,00000005
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,1051A674,extended,00000000
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,0051A676,extended,00000000
+
+[Rose Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 1
+// Rose Team-Level Completed-Challenge 1
+patch=1,EE,0051A677,extended,00000005
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,1051A678,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,0051A67A,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 1
+// Chaotix Team-Level Completed-Challenge 1
+patch=1,EE,0051A67B,extended,00000005
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,1051A67C,extended,00000000
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,0051A67E,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 1
+// Sonic Team-Level Completed-Challenge 1
+patch=1,EE,0051A67F,extended,00000005
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,1051A680,extended,00000000
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,0051A682,extended,00000000
+
+[Dark Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 1
+// Dark Team-Level Completed-Challenge 1
+patch=1,EE,0051A683,extended,00000005
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,1051A684,extended,00000000
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,0051A686,extended,00000000
+
+[Rose Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 1
+// Rose Team-Level Completed-Challenge 1
+patch=1,EE,0051A687,extended,00000005
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,1051A688,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,0051A68A,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 1
+// Chaotix Team-Level Completed-Challenge 1
+patch=1,EE,0051A68B,extended,00000005
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,1051A68C,extended,00000000
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,0051A68E,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 1
+// Sonic Team-Level Completed-Challenge 1
+patch=1,EE,0051A68F,extended,00000005
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,1051A690,extended,00000000
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,0051A692,extended,00000000
+
+[Dark Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 1
+// Dark Team-Level Completed-Challenge 1
+patch=1,EE,0051A693,extended,00000005
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,1051A694,extended,00000000
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,0051A696,extended,00000000
+
+[Rose Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 1
+// Rose Team-Level Completed-Challenge 1
+patch=1,EE,0051A697,extended,00000005
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,1051A698,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,0051A69A,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 1
+// Chaotix Team-Level Completed-Challenge 1
+patch=1,EE,0051A69B,extended,00000005
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,1051A69C,extended,00000000
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,0051A69E,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 1
+// Sonic Team-Level Completed-Challenge 1
+patch=1,EE,0051A69F,extended,00000005
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,1051A6A0,extended,00000000
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,0051A6A2,extended,00000000
+
+[Dark Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 1
+// Dark Team-Level Completed-Challenge 1
+patch=1,EE,0051A6A3,extended,00000005
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,1051A6A4,extended,00000000
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,0051A6A6,extended,00000000
+
+[Rose Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 1
+// Rose Team-Level Completed-Challenge 1
+patch=1,EE,0051A6A7,extended,00000005
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,1051A6A8,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,0051A6AA,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 1
+// Chaotix Team-Level Completed-Challenge 1
+patch=1,EE,0051A6AB,extended,00000005
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,1051A6AC,extended,00000000
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,0051A6AE,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 1
+// Sonic Team-Level Completed-Challenge 1
+patch=1,EE,0051A6AF,extended,00000005
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,1051A6B0,extended,00000000
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,0051A6B2,extended,00000000
+
+[Dark Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 1
+// Dark Team-Level Completed-Challenge 1
+patch=1,EE,0051A6B3,extended,00000005
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,1051A6B4,extended,00000000
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,0051A6B6,extended,00000000
+
+[Rose Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 1
+// Rose Team-Level Completed-Challenge 1
+patch=1,EE,0051A6B7,extended,00000005
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,1051A6B8,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,0051A6BA,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 1
+// Chaotix Team-Level Completed-Challenge 1
+patch=1,EE,0051A6BB,extended,00000005
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,1051A6BC,extended,00000000
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,0051A6BE,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 1
+// Sonic Team-Level Completed-Challenge 1
+patch=1,EE,0051A6BF,extended,00000005
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,1051A6C0,extended,00000000
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,0051A6C2,extended,00000000
+
+[Dark Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 1
+// Dark Team-Level Completed-Challenge 1
+patch=1,EE,0051A6C3,extended,00000005
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,1051A6C4,extended,00000000
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,0051A6C6,extended,00000000
+
+[Rose Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 1
+// Rose Team-Level Completed-Challenge 1
+patch=1,EE,0051A6C7,extended,00000005
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,1051A6C8,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,0051A6CA,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 1
+// Chaotix Team-Level Completed-Challenge 1
+patch=1,EE,0051A6CB,extended,00000005
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,1051A6CC,extended,00000000
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,0051A6CE,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 1
+// Sonic Team-Level Completed-Challenge 1
+patch=1,EE,0051A6CF,extended,00000005
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,1051A6D0,extended,00000000
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,0051A6D2,extended,00000000
+
+[Dark Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 1
+// Dark Team-Level Completed-Challenge 1
+patch=1,EE,0051A6D3,extended,00000005
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,1051A6D4,extended,00000000
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,0051A6D6,extended,00000000
+
+[Rose Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 1
+// Rose Team-Level Completed-Challenge 1
+patch=1,EE,0051A6D7,extended,00000005
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,1051A6D8,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,0051A6DA,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 1
+// Chaotix Team-Level Completed-Challenge 1
+patch=1,EE,0051A6DB,extended,00000005
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,1051A6DC,extended,00000000
+
+[Sonic Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Low Time-Challenge 1
+// Sonic Team-Low Time-Challenge 1
+patch=1,EE,0051A6DE,extended,00000000
+
+[Sonic Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sonic Team-Level Completed-Challenge 1
+// Sonic Team-Level Completed-Challenge 1
+patch=1,EE,0051A6DF,extended,00000005
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,1051A6E0,extended,00000000
+
+[Dark Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Low Time-Challenge 1
+// Dark Team-Low Time-Challenge 1
+patch=1,EE,0051A6E2,extended,00000000
+
+[Dark Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Team-Level Completed-Challenge 1
+// Dark Team-Level Completed-Challenge 1
+patch=1,EE,0051A6E3,extended,00000005
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,1051A6E4,extended,00000000
+
+[Rose Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Low Time-Challenge 1
+// Rose Team-Low Time-Challenge 1
+patch=1,EE,0051A6E6,extended,00000000
+
+[Rose Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Team-Level Completed-Challenge 1
+// Rose Team-Level Completed-Challenge 1
+patch=1,EE,0051A6E7,extended,00000005
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,1051A6E8,extended,00000000
+
+[Chaotix Team-Low Time-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Low Time-Challenge 1
+// Chaotix Team-Low Time-Challenge 1
+patch=1,EE,0051A6EA,extended,00000000
+
+[Chaotix Team-Level Completed-Challenge 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaotix Team-Level Completed-Challenge 1
+// Chaotix Team-Level Completed-Challenge 1
+patch=1,EE,0051A6EB,extended,00000005

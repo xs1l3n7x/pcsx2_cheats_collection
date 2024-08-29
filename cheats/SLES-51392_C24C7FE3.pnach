@@ -1,0 +1,769 @@
+gametitle=Evolution Snowboarding [SLES-51392] [C24C7FE3]
+
+[Have All Missions Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Missions Completed
+// Have All Missions Completed
+patch=1,EE,F0100008,extended,0011B9CF
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,10474ABC,extended,0000FFFF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20474ABC,extended,0098967F
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,20488878,extended,000027AD
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20160800,extended,3C014422
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20160804,extended,AC81005C
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20160808,extended,03E00008
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2016080C,extended,C480005C
+
+[Unlock All Quick Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Quick Missions
+// Unlock All Quick Missions
+patch=1,EE,41CABFD8,extended,00030001
+
+[Unlock All Quick Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Quick Missions
+// Unlock All Quick Missions
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Quick Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Quick Missions
+// Unlock All Quick Missions
+patch=1,EE,11CABFE4,extended,00000101
+
+[Tina Basich]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tina Basich
+// Tina Basich
+patch=1,EE,203C54FC,extended,14141414
+
+[Tina Basich]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tina Basich
+// Tina Basich
+patch=1,EE,003C5500,extended,00000014
+
+[Kelly Clark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kelly Clark
+// Kelly Clark
+patch=1,EE,003C5567,extended,00000014
+
+[Kelly Clark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kelly Clark
+// Kelly Clark
+patch=1,EE,203C5568,extended,14141414
+
+[Kevin Jones]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kevin Jones
+// Kevin Jones
+patch=1,EE,103C55D2,extended,00001414
+
+[Kevin Jones]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kevin Jones
+// Kevin Jones
+patch=1,EE,103C55D4,extended,00001414
+
+[Kevin Jones]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kevin Jones
+// Kevin Jones
+patch=1,EE,003C55D6,extended,00000014
+
+[Danny Kass]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Danny Kass
+// Danny Kass
+patch=1,EE,003C563D,extended,00000014
+
+[Danny Kass]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Danny Kass
+// Danny Kass
+patch=1,EE,103C563E,extended,00001414
+
+[Danny Kass]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Danny Kass
+// Danny Kass
+patch=1,EE,103C5640,extended,00001414
+
+[Bjorn Leines]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bjorn Leines
+// Bjorn Leines
+patch=1,EE,203C56A8,extended,14141414
+
+[Bjorn Leines]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bjorn Leines
+// Bjorn Leines
+patch=1,EE,003C56AC,extended,00000014
+
+[Peter Line]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peter Line
+// Peter Line
+patch=1,EE,003C5713,extended,00000014
+
+[Peter Line]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peter Line
+// Peter Line
+patch=1,EE,203C5714,extended,14141414
+
+[Travis Rice]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Travis Rice
+// Travis Rice
+patch=1,EE,103C577E,extended,00001414
+
+[Travis Rice]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Travis Rice
+// Travis Rice
+patch=1,EE,103C5780,extended,00001414
+
+[Travis Rice]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Travis Rice
+// Travis Rice
+patch=1,EE,003C5782,extended,00000014
+
+[Todd Richards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Todd Richards
+// Todd Richards
+patch=1,EE,003C57E9,extended,00000014
+
+[Todd Richards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Todd Richards
+// Todd Richards
+patch=1,EE,103C57EA,extended,00001414
+
+[Todd Richards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Todd Richards
+// Todd Richards
+patch=1,EE,103C57EC,extended,00001414
+
+[Rio Tahara]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rio Tahara
+// Rio Tahara
+patch=1,EE,203C5854,extended,14141414
+
+[Rio Tahara]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rio Tahara
+// Rio Tahara
+patch=1,EE,003C5858,extended,00000014
+
+[JP Walker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=JP Walker
+// JP Walker
+patch=1,EE,003C58BF,extended,00000014
+
+[JP Walker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=JP Walker
+// JP Walker
+patch=1,EE,203C58C0,extended,14141414
+
+[Hawk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hawk
+// Hawk
+patch=1,EE,21C991C0,extended,14141414
+
+[Hawk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hawk
+// Hawk
+patch=1,EE,01C991C4,extended,00000014
+
+[Unlock All Videos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Videos
+// Unlock All Videos
+patch=1,EE,41C999A8,extended,000B0001
+
+[Unlock All Videos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Videos
+// Unlock All Videos
+patch=1,EE,00010001,extended,00000000
+
+[Unlock All Videos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Videos
+// Unlock All Videos
+patch=1,EE,11C999D4,extended,00000001
+
+[Infinite Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Points
+// Infinite Points
+patch=1,EE,11C99AEC,extended,0000FFFF
+
+[Max Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Points
+// Max Points
+patch=1,EE,21C99AEC,extended,05F5E0FF
+
+[Unlock All Riders]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Riders
+// Unlock All Riders
+patch=1,EE,41C991D0,extended,00050001
+
+[Unlock All Riders]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Riders
+// Unlock All Riders
+patch=1,EE,03010301,extended,00000000
+
+[Unlock All Areas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Areas
+// Unlock All Areas
+patch=1,EE,21C996E4,extended,01010101
+
+[Unlock All Areas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Areas
+// Unlock All Areas
+patch=1,EE,21C996E8,extended,01010101
+
+[Boom Town-Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boom Town-Mission 1
+// Boom Town-Mission 1
+patch=1,EE,01C991E4,extended,00000001
+
+[Boom Town-Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boom Town-Mission 2
+// Boom Town-Mission 2
+patch=1,EE,01C991F4,extended,00000001
+
+[Boom Town-Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boom Town-Mission 3
+// Boom Town-Mission 3
+patch=1,EE,01C99204,extended,00000001
+
+[Boom Town-Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boom Town-Mission 4
+// Boom Town-Mission 4
+patch=1,EE,01C99214,extended,00000001
+
+[Boom Town-Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boom Town-Mission 5
+// Boom Town-Mission 5
+patch=1,EE,01C99224,extended,00000001
+
+[Boom Town-Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boom Town-Mission 6
+// Boom Town-Mission 6
+patch=1,EE,01C99234,extended,00000001
+
+[Boom Town-Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boom Town-Mission 7
+// Boom Town-Mission 7
+patch=1,EE,01C99244,extended,00000001
+
+[Boom Town-Mission 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boom Town-Mission 8
+// Boom Town-Mission 8
+patch=1,EE,01C99254,extended,00000001
+
+[Boom Town-Mission 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boom Town-Mission 9
+// Boom Town-Mission 9
+patch=1,EE,01C99264,extended,00000001
+
+[Boom Town-Mission 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boom Town-Mission 10
+// Boom Town-Mission 10
+patch=1,EE,01C99274,extended,00000001
+
+[Kowloon Connection-Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kowloon Connection-Mission 1
+// Kowloon Connection-Mission 1
+patch=1,EE,01C99284,extended,00000001
+
+[Kowloon Connection-Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kowloon Connection-Mission 2
+// Kowloon Connection-Mission 2
+patch=1,EE,01C99294,extended,00000001
+
+[Kowloon Connection-Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kowloon Connection-Mission 3
+// Kowloon Connection-Mission 3
+patch=1,EE,01C992A4,extended,00000001
+
+[Kowloon Connection-Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kowloon Connection-Mission 4
+// Kowloon Connection-Mission 4
+patch=1,EE,01C992B4,extended,00000001
+
+[Kowloon Connection-Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kowloon Connection-Mission 5
+// Kowloon Connection-Mission 5
+patch=1,EE,01C992C4,extended,00000001
+
+[Kowloon Connection-Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kowloon Connection-Mission 6
+// Kowloon Connection-Mission 6
+patch=1,EE,01C992D4,extended,00000001
+
+[Kowloon Connection-Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kowloon Connection-Mission 7
+// Kowloon Connection-Mission 7
+patch=1,EE,01C992E4,extended,00000001
+
+[Kowloon Connection-Mission 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kowloon Connection-Mission 8
+// Kowloon Connection-Mission 8
+patch=1,EE,01C992F4,extended,00000001
+
+[Kowloon Connection-Mission 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kowloon Connection-Mission 9
+// Kowloon Connection-Mission 9
+patch=1,EE,01C99304,extended,00000001
+
+[Kowloon Connection-Mission 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kowloon Connection-Mission 10
+// Kowloon Connection-Mission 10
+patch=1,EE,01C99314,extended,00000001
+
+[Shogun City-Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shogun City-Mission 1
+// Shogun City-Mission 1
+patch=1,EE,01C99324,extended,00000001
+
+[Shogun City-Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shogun City-Mission 2
+// Shogun City-Mission 2
+patch=1,EE,01C99334,extended,00000001
+
+[Shogun City-Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shogun City-Mission 3
+// Shogun City-Mission 3
+patch=1,EE,01C99344,extended,00000001
+
+[Shogun City-Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shogun City-Mission 4
+// Shogun City-Mission 4
+patch=1,EE,01C99354,extended,00000001
+
+[Shogun City-Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shogun City-Mission 5
+// Shogun City-Mission 5
+patch=1,EE,01C99364,extended,00000001
+
+[Shogun City-Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shogun City-Mission 6
+// Shogun City-Mission 6
+patch=1,EE,01C99374,extended,00000001
+
+[Shogun City-Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shogun City-Mission 7
+// Shogun City-Mission 7
+patch=1,EE,01C99384,extended,00000001
+
+[Shogun City-Mission 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shogun City-Mission 8
+// Shogun City-Mission 8
+patch=1,EE,01C99394,extended,00000001
+
+[Shogun City-Mission 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shogun City-Mission 9
+// Shogun City-Mission 9
+patch=1,EE,01C993A4,extended,00000001
+
+[Shogun City-Mission 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shogun City-Mission 10
+// Shogun City-Mission 10
+patch=1,EE,01C993B4,extended,00000001
+
+[Falls And Creeks-Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Falls And Creeks-Mission 1
+// Falls And Creeks-Mission 1
+patch=1,EE,01C993C4,extended,00000001
+
+[Falls And Creeks-Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Falls And Creeks-Mission 2
+// Falls And Creeks-Mission 2
+patch=1,EE,01C993D4,extended,00000001
+
+[Falls And Creeks-Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Falls And Creeks-Mission 3
+// Falls And Creeks-Mission 3
+patch=1,EE,01C993E4,extended,00000001
+
+[Falls And Creeks-Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Falls And Creeks-Mission 4
+// Falls And Creeks-Mission 4
+patch=1,EE,01C993F4,extended,00000001
+
+[Falls And Creeks-Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Falls And Creeks-Mission 5
+// Falls And Creeks-Mission 5
+patch=1,EE,01C99404,extended,00000001
+
+[Falls And Creeks-Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Falls And Creeks-Mission 6
+// Falls And Creeks-Mission 6
+patch=1,EE,01C99414,extended,00000001
+
+[Falls And Creeks-Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Falls And Creeks-Mission 7
+// Falls And Creeks-Mission 7
+patch=1,EE,01C99424,extended,00000001
+
+[Falls And Creeks-Mission 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Falls And Creeks-Mission 8
+// Falls And Creeks-Mission 8
+patch=1,EE,01C99434,extended,00000001
+
+[Falls And Creeks-Mission 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Falls And Creeks-Mission 9
+// Falls And Creeks-Mission 9
+patch=1,EE,01C99444,extended,00000001
+
+[Falls And Creeks-Mission 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Falls And Creeks-Mission 10
+// Falls And Creeks-Mission 10
+patch=1,EE,01C99454,extended,00000001
+
+[Bat Castle-Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bat Castle-Mission 1
+// Bat Castle-Mission 1
+patch=1,EE,01C99464,extended,00000001
+
+[Bat Castle-Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bat Castle-Mission 2
+// Bat Castle-Mission 2
+patch=1,EE,01C99474,extended,00000001
+
+[Bat Castle-Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bat Castle-Mission 3
+// Bat Castle-Mission 3
+patch=1,EE,01C99484,extended,00000001
+
+[Bat Castle-Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bat Castle-Mission 4
+// Bat Castle-Mission 4
+patch=1,EE,01C99494,extended,00000001
+
+[Bat Castle-Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bat Castle-Mission 5
+// Bat Castle-Mission 5
+patch=1,EE,01C994A4,extended,00000001
+
+[Bat Castle-Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bat Castle-Mission 6
+// Bat Castle-Mission 6
+patch=1,EE,01C994B4,extended,00000001
+
+[Bat Castle-Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bat Castle-Mission 7
+// Bat Castle-Mission 7
+patch=1,EE,01C994C4,extended,00000001
+
+[Bat Castle-Mission 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bat Castle-Mission 8
+// Bat Castle-Mission 8
+patch=1,EE,01C994D4,extended,00000001
+
+[Bat Castle-Mission 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bat Castle-Mission 9
+// Bat Castle-Mission 9
+patch=1,EE,01C994E4,extended,00000001
+
+[Bat Castle-Mission 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bat Castle-Mission 10
+// Bat Castle-Mission 10
+patch=1,EE,01C994F4,extended,00000001
+
+[Battle Front-Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle Front-Mission 1
+// Battle Front-Mission 1
+patch=1,EE,01C99504,extended,00000001
+
+[Battle Front-Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle Front-Mission 2
+// Battle Front-Mission 2
+patch=1,EE,01C99514,extended,00000001
+
+[Battle Front-Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle Front-Mission 3
+// Battle Front-Mission 3
+patch=1,EE,01C99524,extended,00000001
+
+[Battle Front-Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle Front-Mission 4
+// Battle Front-Mission 4
+patch=1,EE,01C99534,extended,00000001
+
+[Battle Front-Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle Front-Mission 5
+// Battle Front-Mission 5
+patch=1,EE,01C99544,extended,00000001
+
+[Battle Front-Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle Front-Mission 6
+// Battle Front-Mission 6
+patch=1,EE,01C99554,extended,00000001
+
+[Battle Front-Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle Front-Mission 7
+// Battle Front-Mission 7
+patch=1,EE,01C99564,extended,00000001
+
+[Battle Front-Mission 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle Front-Mission 8
+// Battle Front-Mission 8
+patch=1,EE,01C99574,extended,00000001
+
+[Battle Front-Mission 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle Front-Mission 9
+// Battle Front-Mission 9
+patch=1,EE,01C99584,extended,00000001
+
+[Battle Front-Mission 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle Front-Mission 10
+// Battle Front-Mission 10
+patch=1,EE,01C99594,extended,00000001
+
+[Creatures Inn-Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Creatures Inn-Mission 1
+// Creatures Inn-Mission 1
+patch=1,EE,01C995A4,extended,00000001
+
+[Creatures Inn-Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Creatures Inn-Mission 2
+// Creatures Inn-Mission 2
+patch=1,EE,01C995B4,extended,00000001
+
+[Creatures Inn-Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Creatures Inn-Mission 3
+// Creatures Inn-Mission 3
+patch=1,EE,01C995C4,extended,00000001
+
+[Creatures Inn-Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Creatures Inn-Mission 4
+// Creatures Inn-Mission 4
+patch=1,EE,01C995D4,extended,00000001
+
+[Creatures Inn-Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Creatures Inn-Mission 5
+// Creatures Inn-Mission 5
+patch=1,EE,01C995E4,extended,00000001
+
+[Creatures Inn-Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Creatures Inn-Mission 6
+// Creatures Inn-Mission 6
+patch=1,EE,01C995F4,extended,00000001
+
+[Creatures Inn-Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Creatures Inn-Mission 7
+// Creatures Inn-Mission 7
+patch=1,EE,01C99604,extended,00000001
+
+[Creatures Inn-Mission 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Creatures Inn-Mission 8
+// Creatures Inn-Mission 8
+patch=1,EE,01C99614,extended,00000001
+
+[Creatures Inn-Mission 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Creatures Inn-Mission 9
+// Creatures Inn-Mission 9
+patch=1,EE,01C99624,extended,00000001
+
+[Creatures Inn-Mission 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Creatures Inn-Mission 10
+// Creatures Inn-Mission 10
+patch=1,EE,01C99634,extended,00000001
+
+[Big Core-Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Core-Mission 1
+// Big Core-Mission 1
+patch=1,EE,01C99644,extended,00000001
+
+[Big Core-Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Core-Mission 2
+// Big Core-Mission 2
+patch=1,EE,01C99654,extended,00000001
+
+[Big Core-Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Core-Mission 3
+// Big Core-Mission 3
+patch=1,EE,01C99664,extended,00000001
+
+[Big Core-Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Core-Mission 4
+// Big Core-Mission 4
+patch=1,EE,01C99674,extended,00000001
+
+[Big Core-Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Core-Mission 5
+// Big Core-Mission 5
+patch=1,EE,01C99684,extended,00000001
+
+[Big Core-Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Core-Mission 6
+// Big Core-Mission 6
+patch=1,EE,01C99694,extended,00000001
+
+[Big Core-Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Core-Mission 7
+// Big Core-Mission 7
+patch=1,EE,01C996A4,extended,00000001
+
+[Big Core-Mission 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Core-Mission 8
+// Big Core-Mission 8
+patch=1,EE,01C996B4,extended,00000001
+
+[Big Core-Mission 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Core-Mission 9
+// Big Core-Mission 9
+patch=1,EE,01C996C4,extended,00000001
+
+[Big Core-Mission 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Core-Mission 10
+// Big Core-Mission 10
+patch=1,EE,01C996D4,extended,00000001
+
+[Unlock All Gears]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Gears
+// Unlock All Gears
+patch=1,EE,41C996EC,extended,009A0001
+
+[Unlock All Gears]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Gears
+// Unlock All Gears
+patch=1,EE,01010101,extended,00000000

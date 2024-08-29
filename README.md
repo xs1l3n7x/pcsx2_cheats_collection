@@ -1,7 +1,8 @@
 # pcsx2_cheats_collection
-The beginning of a probably unnecesary project related to a centralized solution for cheats in PCSX2, but to start here is batch of PS2 pnach cheats for use with PCSX2
+The beginning of a probably unnecesary project related to a centralized solution for cheats in PCSX2.
 
-This is basically a pnach formatted version of the cheat database found on https://github.com/root670/CheatDevicePS2
+Currently contains cheats from Ultimate PCSX2 Cheater https://upc.alwaysdata.net/ and https://github.com/root670/CheatDevicePS2
+
 I just formatted the decrypted cheats into individual pnach files and filled serials and CRCs from the PCSX2 compat list
 
 The pnach format complies with the PCSX2 cheat manager so you can easily turn them on and off there
@@ -9,17 +10,24 @@ The pnach format complies with the PCSX2 cheat manager so you can easily turn th
 If you know how to obtain a CRC from a PS2 iso using code, hit me up!
 
 ## How to use
-Download https://github.com/xs1l3n7x/pcsx2_cheats_collection/blob/main/cheats.zip
-Extract the contents of cheats.zip into you PCSX2 "cheats" folder
-Manage the cheats using PCSX2(right click game > properties > cheats)
+Either click the green "<> Code" button and select "Download as zip" or https://github.com/xs1l3n7x/pcsx2_cheats_collection/archive/refs/heads/main.zip
 
+Extract the contents of cheats folder within the .zip file into you PCSX2 "cheats" folder
 
-## Cheats included in this collection
+you can also cd into your PCSX folder and clone 
+
+##### Manage the cheats using PCSX2(right click game > properties > cheats)
+
+## Complete List  - 8/28/2024
 
 | Game Title | Serial | CRC |
 |------------|--------|-----|
+| 10,000 Bullets | None | EF97EC8F |
 | 187 Ride Or Die | SLES-52276 | 83BE7C8E |
+| 24 | None | F1C7201E |
 | 25 To Life | SLUS-21016 | C1B141D6 |
+| 7 Sins | None | 6926B199 |
+| Ace Combat | None | F4D4EBE1 |
 | Activision Anthology | SLUS-20588 | 4D26CA9B |
 | Aeon Flux | SLUS-21205 | 9FA0A1B0 |
 | Aggressive Inline | SLUS-20327 | 67DB3ED8 |
@@ -27,6 +35,7 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | Airforce Delta Strike | SLKA-25133 | 8A8FC183 |
 | Alias | SLUS-20673 | E3ADDC73 |
 | Alien Hominid | SLES-53139 | 14274DC3 |
+| Alone in the Dark | None | 1E811D9A |
 | Alter Echo | SLUS-20465 | 7CDC2C16 |
 | AMF Xtreme Bowling | SLUS-21347 | BF152CE6 |
 | Amplitude | SCES-51706 | F7DC0006 |
@@ -36,6 +45,8 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | Aqua Aqua | SLUS-20162 | CF736A9D |
 | Arctic Thunder | SLUS-20217 | 2B2E1535 |
 | Area 51 | SLUS-20595 | B59EF006 |
+| Area 51 | None | 180F5C36 |
+| Area 51 | None | B59EF006 |
 | Armored Core 2 | SLUS-20014 | 0D168765 |
 | Armored Core 3 | SLPS-25112 | F49E991D |
 | Astro Boy | SLUS-20867 | FC1F4BAA |
@@ -53,6 +64,7 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | Bionicle | SLUS-20818 | 8371B27B |
 | Black | SLES-53886 | ADDFF505 |
 | Blood Omen 2 | SLUS-20024 | 9A8DC7D3 |
+| Blood Will Tell | None | D78D3D1F |
 | Bloody Roar 3 | SLES-50203 | 880AA922 |
 | Bloody Roar 4 | SLUS-20795 | C9F6F222 |
 | Blowout | SLUS-20850 | 71584BAC |
@@ -62,12 +74,15 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | Britney's Dance Beat | SLUS-20402 | 3EAD47FE |
 | Bully | SLUS-21269 | 28703748 |
 | Burnout | SLUS-20307 | 4783F7ED |
+| Burnout Revenge | None | 7E83CC5B |
 | Cabela's Big Game Hunter 2005 Adventures | SLUS-21021 | DF6BC54F |
 | Capcom Fighting Evolution | SLUS-20950 | B5CE02C7 |
 | Capcom Vs. SNK 2 | SLPM-65047 | D79F697A |
 | Cart Fury Championship Racing | SLUS-20141 | 116154AD |
 | Cartoon Network Racing | SLUS-21438 | EAE72CFE |
 | Castle Shikigami 2 | SLUS-20962 | 3C90AEFD |
+| Castlevania | None | 306CDADA |
+| Castlevania Curse of Darkness | None | F321BC38 |
 | Catwoman | SLUS-20992 | E3DF71E1 |
 | Chaos Legion | SLUS-20695 | F3B0734E |
 | Charlie And The Chocolate Factory | SLUS-21246 | 157995EE |
@@ -82,6 +97,7 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | Corvette | SLUS-20858 | DDFD68B1 |
 | Corvette Evolution GT | SLUS-21499 | 45A8B64C |
 | Crash 'N' Burn | SLUS-21013 | F21EE6E0 |
+| Crash Bandicoot | None | 35D70452 |
 | Crash Tag Team Racing | SLUS-21191 | AA525269 |
 | Crash Twinsanity | SLES-52568 | 1510E1D1 |
 | Crazy Taxi | SLUS-20202 | 4C9EE7DF |
@@ -95,14 +111,18 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | Dark Cloud 2 | SCUS-97213 | 1DF41F33 |
 | Dark Summit | SLUS-20300 | F26B83E0 |
 | Darkwatch | SLUS-21042 | 3.27E+13 |
+| Darkwatch | None | 9D443C69 |
 | Dead To Rights | SLES-51581 | FAC64195 |
 | Death By Degrees | SCES-52586 | 59683BB0 |
 | Def Jam Vendetta | SLUS-20639 | 4042248C |
 | Defender | SLUS-20191 | 10BB2872 |
+| Delta Force Black Hawk Down Team Sabre | None | A8DB29DF |
 | Destruction Derby Arenas | SCES-50781 | 83A82EA1 |
 | Devil Kings | SLUS-21297 | B304172F |
 | Devil May Cry | SLES-50358 | 7D8F539A |
 | Devil May Cry 2 | SLUS-20484 | 08995DEE |
+| Devil May cry 3 | None | 7ADCB24A |
+| Devil May cry 3 | None | 0BED0AF9 |
 | Digimon Rumble Arena 2 | SLUS-21067 | 568A5C78 |
 | Digimon World 4 | SLUS-20836 | B871C1D0 |
 | Dino Stalker | SLUS-20485 | 3FBF0EA6 |
@@ -111,10 +131,13 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | Disney's Extreme Skate Adventure | SLUS-20607 | F23B9A88 |
 | Disney Golf | SLUS-20532 | 5DE49C34 |
 | Dog's Life | SCES-51248 | 531061F2 |
+| Dot Hack G.U. Vol. 3 - Redemption | None | 635AD9C6 |
+| Dot Hack Part 1 | None | B5A7735B |
 | Downforce | SLES-50842 | 2145F3AB |
 | Downhill Domination | SCUS-97177 | 7E709DB4 |
 | Dr. Muto | SLUS-20458 | FF60D3ED |
 | Dragon Rage | SLUS-20195 | 37878C74 |
+| DragonBall Z Budokai 3 | None | 2A4B60EB |
 | Drakengard | SLUS-20732 | 9679D44C |
 | Drakengard 2 | SLUS-21373 | 1648E3C9 |
 | Driv3r | SLES-50876 | E94FBF35 |
@@ -127,6 +150,7 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | Dynasty Warriors 3 | SLES-50641 | CACDA6A0 |
 | Dynasty Warriors 4 | SLUS-20653 | 6C89132B |
 | Dynasty Warriors 5 | SLUS-21153 | 6677B437 |
+| Dynasty Warriors Gundam 2 | None | BFB1109F |
 | Eagle Eye Golf | SLUS-21486 | 4D42F305 |
 | Endgame | SLUS-20389 | BA7C4436 |
 | Ephemeral Fantasia | SLUS-20169 | D4DE7788 |
@@ -159,6 +183,8 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | Fighter Maker 2 | SLUS-20524 | EA84CD37 |
 | Final Fantasy X | SCES-50492 | 941BB7D9 |
 | Final Fantasy X-2 | SLES-51815 | 9AAC5309 |
+| Final Fantasy X2 | None | 48FE0C71 |
+| Final Fantasy XII | None | 0779FBDB |
 | Final Fantasy XII | SLUS-20963 | 0779FBDB |
 | Finding Nemo | SLES-51871 | 5D02E529 |
 | Firefighter F.D. 18 | SLUS-20724 | 35092D61 |
@@ -189,9 +215,16 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | Gladius | SLUS-20490 | 78ADCFB9 |
 | God Hand | SLUS-21503 | 6FB69282 |
 | God Of War | SCUS-97399 | D6385328 |
+| God Of War | None | D6385328 |
+| God Of War II | SCUS-97481 | 2F123FD8 |
 | Graffiti Kingdom | SLUS-21136 | EF5B6AAD |
+| Gran Turismo | None | 77E61C8A |
 | Gran Turismo 3 A-Spec | SCUS-97102 | 85AE91B3 |
+| Gran Turismo 4 | None | 44A61C8F |
 | Grand Prix Challenge | SLES-51296 | A029B109 |
+| Grand Theft Auto - Liberty City Stories | None | 7EA439F5 |
+| Grand Theft Auto III | None | 5E115FB6 |
+| Grandia 2 | None | 160076FE |
 | Grandia II | SLES-50498 | BEBC87B1 |
 | Grandia III | SLPM-65976 | 5B659BED |
 | Grandia Xtreme | SLUS-20417 | 8C4A4146 |
@@ -243,8 +276,12 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | Kill Switch | SLUS-20706 | ECC849C5 |
 | Killer 7 | SLES-53366 | 54EF429A |
 | Killzone | SCES-52004 | 6624A78C |
+| Killzone | None | CAAEC49C |
+| Killzone | None | 6624A78C |
 | Kinetica | SCUS-97132 | D39C08F5 |
 | King Arthur | SLUS-21046 | 4F3B0BA7 |
+| Kingdom Hearth 2 | None | C39FF377 |
+| Kingdom Hearts | None | AE3EAA05 |
 | Kingdom Hearts | SLUS-20370 | 0F6B6315 |
 | Kingdom Hearts II | SLES-54114 | C398F477 |
 | Knockout Kings 2001 | SLUS-20150 | 8B2CAD95 |
@@ -276,6 +313,7 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | Metal Saga | SLUS-21293 | 269F5DF5 |
 | Metal Slug 4 | SLPS-25376 | 1D5AEF04 |
 | Metal Slug 5 | SLUS-20990 | D4E1581B |
+| Metal Slug Antology | None | F5625D83 |
 | Metropolismania | SLUS-20377 | 46FFB836 |
 | Micro Machines V4 | SLUS-21402 | 5C99960E |
 | Midnight Club II | SLUS-20209 | C1625F14 |
@@ -288,7 +326,9 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | Monster Hunter | SLUS-20896 | 0EF16A99 |
 | Monster Rancher 4 | SLUS-20702 | 0EF3697B |
 | Monsters, Inc. | SCUS-97123 | E157ACB8 |
+| Mortal Kombat - Shaolin Monks | None | 3D02E0BF |
 | Motocross Mania 3 | SLUS-21229 | 00E9B795 |
+| MS Saga a new dawn | None | 9F18CBC5 |
 | MTX Mototrax | SLUS-20399 | 5920CED6 |
 | Mummy Returns, The | SLES-50510 | B9A54C98 |
 | MX 2002 Featuring Ricky Carmichael | SLUS-20072 | FBC3BC36 |
@@ -307,6 +347,7 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | NBA Street | SLUS-20187 | AE381E74 |
 | Need For Speed Underground 2 | SLUS-21065 | F5C7B45F |
 | Neo Contra | SLES-52510 | EEE2F6A3 |
+| NFL Blitz 2002 | None | 3A32FD60 |
 | NFL Gameday 2002 | SCUS-97131 | 4168AE4F |
 | NFL Gameday 2004 | SCUS-97276 | 505A59C1 |
 | NFL Street | SLUS-20841 | 03C2C5B1 |
@@ -320,6 +361,7 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | NHL 2K7 | SLUS-21425 | 478EFBDB |
 | NHL Hitz 2002 | SLUS-20140 | E2CC1613 |
 | NHRA Championship Drag Racing | SLUS-21114 | 7D9E9D17 |
+| Nightmare before Christmas | None | 8AD8BA91 |
 | Nightshade | SLUS-20810 | 519E816B |
 | Ninja Assault | SLUS-20492 | 785B28DA |
 | ObsCure | SLUS-20777 | A06047D6 |
@@ -331,6 +373,8 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | Over The Hedge | SLUS-21300 | E328D848 |
 | Parappa The Rapper 2 | SCUS-97167 | 2D368982 |
 | Paris-Dakar Rally | SLES-50212 | A5BF36A8 |
+| Persona 4 | None | DEDC3B71 |
+| PES 2011 | None | DBAAB66D |
 | Phantasy Star Universe | SLUS-21194 | 29B44F89 |
 | Phantom Brave | SLUS-20955 | B43000A1 |
 | Pool Paradise | SLUS-20987 | 46B6FA94 |
@@ -342,6 +386,8 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | PsychoNauts | SLUS-21120 | 2373FD16 |
 | Punisher, The | SLUS-20864 | BC204346 |
 | R-Type Final | SLPS-25247 | D0E17D26 |
+| R-Type Final | None | 85E994DD |
+| Radiata Stories | None | 47B9B2FD |
 | Radiata Stories | SLUS-21262 | 47B9B2FD |
 | Rally Fusion | SLUS-20361 | 90CEC03C |
 | Ratchet & Clank | SCES-50916 | 6A8F18B9 |
@@ -349,7 +395,9 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | RC Revenge Pro | SLUS-20153 | A8083AE6 |
 | Red Faction II | SLUS-20442 | 8E7FF6F8 |
 | Reservoir Dogs | SLUS-21479 | 08C682C1 |
+| Resident Evil 4 | None | 6BA2F6B9 |
 | Resident Evil 4 | SLES-53702 | 6BA2F6B9 |
+| Resident Evil Code Veronica X | None | 24036809 |
 | Rez | SLUS-20344 | A33748AA |
 | Ridge Racer V | SLUS-20002 | 06AD9CA0 |
 | Riding Spirits | SLUS-20429 | EDDCAE30 |
@@ -369,6 +417,7 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | RPG Maker 3 | SLUS-21178 | 5E01F3DB |
 | RTX Red Rock | SLUS-20491 | E349C1D4 |
 | Rule Of Rose | SLUS-21448 | F3FD313E |
+| Rule Of Rule | None | 52585249 |
 | Rumble Racing | SLES-50120 | C003FC80 |
 | Rumble Roses | SLES-52535 | 81C67E91 |
 | Run Like Hell | SLUS-20037 | F802A575 |
@@ -384,6 +433,7 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | Sega Soccer Slam | SLUS-20509 | F9DCF583 |
 | Sega Sports Tennis | SLUS-20480 | 71B142EC |
 | Shadow Hearts | SLUS-20347 | 8BE3D7B2 |
+| Shadow of Colossus | None | C19A374E |
 | Shadow Of Destiny | SLUS-20146 | F14DFE0A |
 | Shadow Of Rome | SLUS-20902 | 57818AF6 |
 | Shadow The Hedgehog | SLUS-21261 | A5D29941 |
@@ -398,6 +448,7 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | Shrek 2 | SLUS-20745 | 11D7EC66 |
 | Shrek Smash N' Crash Racing | SLUS-21392 | 34B473E6 |
 | Shrek Super Party | SLUS-20516 | 2B41BAE6 |
+| Silent Hill 3 | None | 2498951B |
 | Silent Hill 3 | SLPM-65257 | 8CFE667F |
 | Silent Scope | SLES-50037 | 13DDC49B |
 | Silent Scope 3 | SLUS-20514 | 5CA5427D |
@@ -405,6 +456,7 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | Siren | SCPS-15053 | FDDE7528 |
 | Sky Odyssey | SLUS-20134 | CD213E68 |
 | Sled Storm | SLUS-20363 | D3C32691 |
+| Smackdown vs Raw 2008 | None | 6CFEFAC1 |
 | Smuggler's Run | SLES-50061 | 95416482 |
 | Sniper Elite | SLUS-21231 | 395779C5 |
 | Snoopy Vs. The Red Baron | SLUS-21380 | 213DCAC9 |
@@ -432,6 +484,7 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | Stunt GP | SLUS-20218 | F1219353 |
 | Stuntman | SLUS-20250 | 76CBC428 |
 | Suffering, The | SLUS-20636 | 0486AD78 |
+| Suikoden III | None | 5F3DD929 |
 | Suikoden III | SLUS-20387 | 5F3DD929 |
 | Suikoden IV | SLUS-20979 | E2984005 |
 | Suikoden Tactics | SLUS-21245 | 1CC39DBD |
@@ -452,6 +505,7 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | Tales Of The Abyss | SLUS-21386 | 14FE77F7 |
 | Technic Beat | SLUS-21019 | 34DC8778 |
 | Teen Titans | SLUS-21183 | E1F17139 |
+| Teen Titans | None | E1F17139 |
 | Teenage Mutant Ninja Turtles | SLES-51931 | B42F33C2 |
 | Tekken 4 | SCES-50878 | 2251E14D |
 | Tekken 5 | SLUS-21059 | 652050D2 |
@@ -492,6 +546,7 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | Unreal Tournament | SLES-50074 | 4A805DF1 |
 | Urban Reign | SLUS-21209 | BDD9BAAD |
 | Vampire Night | SLUS-20221 | 7FBCDA34 |
+| Van Helsing | None | 8176235A |
 | Van Helsing | SLES-51908 | 8176235A |
 | Vexx | SLES-50481 | A2F29104 |
 | Viewtiful Joe | SLPM-65699 | 634947D7 |
@@ -526,6 +581,7 @@ Manage the cheats using PCSX2(right click game > properties > cheats)
 | X-Squad | SLES-50031 | DC0109F4 |
 | XIII | SLES-51244 | 200BC0E6 |
 | Yakuza | SLUS-21348 | 388F687B |
+| Yu-Gi-Oh GX Tag Force Evolution | None | EE8404AA |
+| Yu-Gi-oh! Capsule Monster Coliseum | None | 63F6B523 |
 | Zathura | SLES-53696 | B1C7FED2 |
-
-
+| Zombie Hunter | None | 07608CA2 |

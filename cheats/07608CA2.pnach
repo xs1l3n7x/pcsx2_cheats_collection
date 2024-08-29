@@ -1,0 +1,175 @@
+gametitle=Sega Ages 2500 Series Vol.26 - Dynamite Deka [UNKNOWN] [07608CA2]
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20136560,extended,02A42021
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20136564,extended,8C820078
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20136568,extended,AC820074
+
+[Unlock All Outfits]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock All Outfits
+// Unlock All Outfits
+patch=1,EE,2010CAE4,extended,24030006
+
+[Unlock All Outfits]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock All Outfits
+// Unlock All Outfits
+patch=1,EE,2010CAE8,extended,AC830000
+
+[Unlock All Outfits]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock All Outfits
+// Unlock All Outfits
+patch=1,EE,2010DE98,extended,2402FFFF
+
+[Unlock All Outfits]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock All Outfits
+// Unlock All Outfits
+patch=1,EE,2010DE9C,extended,AC6200F8
+
+[Unlock the 12 quests]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock the 12 quests
+// Unlock the 12 quests
+patch=1,EE,2010E4B0,extended,2402FFFF
+
+[Unlock the 12 quests]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock the 12 quests
+// Unlock the 12 quests
+patch=1,EE,2010E4B4,extended,AC620110
+
+[Unlock the 6 levels]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock the 6 levels
+// Unlock the 6 levels
+patch=1,EE,20133B90,extended,2403FFFF
+
+[Enemies can't hurt you]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Enemies can't hurt you
+// Enemies can't hurt you
+patch=1,EE,20135E40,extended,100000D9
+
+[Increase Attack]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Increase Attack
+// Increase Attack
+patch=1,EE,2013EA3C,extended,3C020098
+
+[Increase sword range (can create bugs)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Increase sword range (can create bugs)
+// Increase sword range (can create bugs)
+patch=1,EE,2013EC54,extended,3C014100
+
+[Increase sword range (can create bugs)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Increase sword range (can create bugs)
+// Increase sword range (can create bugs)
+patch=1,EE,2013EC64,extended,4481A000
+
+[Move Speed x3]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Move Speed x3
+// Move Speed x3
+patch=1,EE,2013EBD4,extended,3C0141A2
+
+[Move Speed x3]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Move Speed x3
+// Move Speed x3
+patch=1,EE,2013EBE4,extended,4481A800
+
+[Hits count increased by 1000]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Hits count increased by 1000
+// Hits count increased by 1000
+patch=1,EE,2012E38C,extended,244203E8
+
+[CCK count increased b 1000]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=CCK count increased b 1000
+// CCK count increased b 1000
+patch=1,EE,2012E3EC,extended,244203E8
+
+[Max exp]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max exp
+// Max exp
+patch=1,EE,20116804,extended,00000000
+
+[Sword can't deteriorate]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Sword can't deteriorate
+// Sword can't deteriorate
+patch=1,EE,201194EC,extended,24020000
+
+[Sword can't be blocked if deteriorated]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Sword can't be blocked if deteriorated
+// Sword can't be blocked if deteriorated
+patch=1,EE,201249A4,extended,24100000
+
+[Infinite Life P1 10000]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Life P1 10000
+// Infinite Life P1 10000
+patch=1,EE,202DFDE4,extended,00002710
+
+[Infinite Life P1 10000]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Life P1 10000
+// Infinite Life P1 10000
+patch=1,EE,202DFDE8,extended,00002710
+
+[Infinite Life P1 1000]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Life P1 1000
+// Infinite Life P1 1000
+patch=1,EE,202DFDE4,extended,000003E8
+
+[Infinite Life P1 1000]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Life P1 1000
+// Infinite Life P1 1000
+patch=1,EE,202DFDE8,extended,00002710
+
+[Infinite Life P2 10000]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Life P2 10000
+// Infinite Life P2 10000
+patch=1,EE,20305734,extended,00002710
+
+[Infinite Life P2 10000]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Life P2 10000
+// Infinite Life P2 10000
+patch=1,EE,20305738,extended,00002710
+
+[Infinite Life P2 1000]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Life P2 1000
+// Infinite Life P2 1000
+patch=1,EE,20305734,extended,000003E8
+
+[Infinite Life P2 1000]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Life P2 1000
+// Infinite Life P2 1000
+patch=1,EE,20305738,extended,00002710

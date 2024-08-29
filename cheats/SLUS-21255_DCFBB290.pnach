@@ -1,0 +1,1327 @@
+gametitle=Trapt [SLUS-21255] [DCFBB290]
+
+[Pacific Island]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pacific Island
+// Pacific Island
+patch=1,EE,9013E724,extended,0C04D7AE
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201D2B9C,extended,E4410018
+
+[Always Low Play Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Play Time
+// Always Low Play Time
+patch=1,EE,20BD1E08,extended,00000000
+
+[Always Low Play Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Play Time
+// Always Low Play Time
+patch=1,EE,20BD1E0C,extended,00000000
+
+[Always Low Play Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Play Time
+// Always Low Play Time
+patch=1,EE,20BD2618,extended,00000000
+
+[Always Low Play Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Play Time
+// Always Low Play Time
+patch=1,EE,20BD261C,extended,00000000
+
+[Infinite Total Ark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Total Ark
+// Infinite Total Ark
+patch=1,EE,10BD1E30,extended,0000FFFF
+
+[Infinite Total Ark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Total Ark
+// Infinite Total Ark
+patch=1,EE,10BD2640,extended,0000FFFF
+
+[Max Total Ark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Ark
+// Max Total Ark
+patch=1,EE,20BD1E30,extended,05F5E0FF
+
+[Max Total Ark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Ark
+// Max Total Ark
+patch=1,EE,20BD2640,extended,05F5E0FF
+
+[Infinite Total Warl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Total Warl
+// Infinite Total Warl
+patch=1,EE,10BD1E38,extended,0000FFFF
+
+[Infinite Total Warl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Total Warl
+// Infinite Total Warl
+patch=1,EE,10BD2648,extended,0000FFFF
+
+[Max Total Warl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Warl
+// Max Total Warl
+patch=1,EE,20BD1E38,extended,05F5E0FF
+
+[Max Total Warl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Warl
+// Max Total Warl
+patch=1,EE,20BD2648,extended,05F5E0FF
+
+[Creating Traps Doesnt Decrease Warl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Creating Traps Doesnt Decrease Warl
+// Creating Traps Doesnt Decrease Warl
+patch=1,EE,202D8964,extended,00000000
+
+[Creating Traps Increases Warl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Creating Traps Increases Warl
+// Creating Traps Increases Warl
+patch=1,EE,202D8584,extended,0083182D
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,20BD2DE4,extended,00003840
+
+[P1 Press {L1}+{SELECT} For Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For Infinite Time
+// P1 Press {L1}+{SELECT} For Infinite Time
+patch=1,EE,D04C4A42,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} For Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For Infinite Time
+// P1 Press {L1}+{SELECT} For Infinite Time
+patch=1,EE,20171AB0,extended,00000000
+
+[P1 Press {L2}+{SELECT} For Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For Infinite Time
+// P1 Press {L2}+{SELECT} For Infinite Time
+patch=1,EE,D04C4A42,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} For Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For Infinite Time
+// P1 Press {L2}+{SELECT} For Infinite Time
+patch=1,EE,20171AB0,extended,AC8307D4
+
+[Malphas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Malphas
+// Malphas
+patch=1,EE,20BD1EBC,extended,00000001
+
+[Malphas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Malphas
+// Malphas
+patch=1,EE,20BD26CC,extended,00000001
+
+[Commander Hertzog]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Commander Hertzog
+// Commander Hertzog
+patch=1,EE,20BD1EC4,extended,00000001
+
+[Commander Hertzog]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Commander Hertzog
+// Commander Hertzog
+patch=1,EE,20BD26D4,extended,00000001
+
+[Queen Catalina]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Queen Catalina
+// Queen Catalina
+patch=1,EE,20BD1EC8,extended,00000001
+
+[Queen Catalina]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Queen Catalina
+// Queen Catalina
+patch=1,EE,20BD26D8,extended,00000001
+
+[Handmaid Rachel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Handmaid Rachel
+// Handmaid Rachel
+patch=1,EE,20BD1ECC,extended,00000001
+
+[Handmaid Rachel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Handmaid Rachel
+// Handmaid Rachel
+patch=1,EE,20BD26DC,extended,00000001
+
+[Swordsman Finnegan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Swordsman Finnegan
+// Swordsman Finnegan
+patch=1,EE,20BD1EDC,extended,00000001
+
+[Swordsman Finnegan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Swordsman Finnegan
+// Swordsman Finnegan
+patch=1,EE,20BD26EC,extended,00000001
+
+[Great Wizard Bertran]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Wizard Bertran
+// Great Wizard Bertran
+patch=1,EE,20BD1EE4,extended,00000001
+
+[Great Wizard Bertran]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Wizard Bertran
+// Great Wizard Bertran
+patch=1,EE,20BD26F4,extended,00000001
+
+[Knight Jais]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Jais
+// Knight Jais
+patch=1,EE,20BD1EEC,extended,00000001
+
+[Knight Jais]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Jais
+// Knight Jais
+patch=1,EE,20BD26FC,extended,00000001
+
+[Warrior Glen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Glen
+// Warrior Glen
+patch=1,EE,20BD1EF8,extended,00000001
+
+[Warrior Glen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Glen
+// Warrior Glen
+patch=1,EE,20BD2708,extended,00000001
+
+[Warrior Edward]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Edward
+// Warrior Edward
+patch=1,EE,20BD1EFC,extended,00000001
+
+[Warrior Edward]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Edward
+// Warrior Edward
+patch=1,EE,20BD270C,extended,00000001
+
+[Warrior Alan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Alan
+// Warrior Alan
+patch=1,EE,20BD1F00,extended,00000001
+
+[Warrior Alan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Alan
+// Warrior Alan
+patch=1,EE,20BD2710,extended,00000001
+
+[Warrior Macrus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Macrus
+// Warrior Macrus
+patch=1,EE,20BD1F04,extended,00000001
+
+[Warrior Macrus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Macrus
+// Warrior Macrus
+patch=1,EE,20BD2714,extended,00000001
+
+[Warrior Damninda]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Damninda
+// Warrior Damninda
+patch=1,EE,20BD1F08,extended,00000001
+
+[Warrior Damninda]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Damninda
+// Warrior Damninda
+patch=1,EE,20BD2718,extended,00000001
+
+[Warrior Vulcano]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Vulcano
+// Warrior Vulcano
+patch=1,EE,20BD1F0C,extended,00000001
+
+[Warrior Vulcano]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Vulcano
+// Warrior Vulcano
+patch=1,EE,20BD271C,extended,00000001
+
+[Warrior Andrew]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Andrew
+// Warrior Andrew
+patch=1,EE,20BD1F10,extended,00000001
+
+[Warrior Andrew]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Andrew
+// Warrior Andrew
+patch=1,EE,20BD2720,extended,00000001
+
+[Warrior Jeremiah]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Jeremiah
+// Warrior Jeremiah
+patch=1,EE,20BD1F14,extended,00000001
+
+[Warrior Jeremiah]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Jeremiah
+// Warrior Jeremiah
+patch=1,EE,20BD2724,extended,00000001
+
+[Warrior Morris]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Morris
+// Warrior Morris
+patch=1,EE,20BD1F18,extended,00000001
+
+[Warrior Morris]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Morris
+// Warrior Morris
+patch=1,EE,20BD2728,extended,00000001
+
+[Warrior Raymond]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Raymond
+// Warrior Raymond
+patch=1,EE,20BD1F1C,extended,00000001
+
+[Warrior Raymond]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Raymond
+// Warrior Raymond
+patch=1,EE,20BD272C,extended,00000001
+
+[Warrior Johnny]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Johnny
+// Warrior Johnny
+patch=1,EE,20BD1F24,extended,00000001
+
+[Warrior Johnny]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Johnny
+// Warrior Johnny
+patch=1,EE,20BD2734,extended,00000001
+
+[Warrior Elvin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Elvin
+// Warrior Elvin
+patch=1,EE,20BD1F30,extended,00000001
+
+[Warrior Elvin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Elvin
+// Warrior Elvin
+patch=1,EE,20BD2740,extended,00000001
+
+[Warrior Roger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Roger
+// Warrior Roger
+patch=1,EE,20BD1F34,extended,00000001
+
+[Warrior Roger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Roger
+// Warrior Roger
+patch=1,EE,20BD2744,extended,00000001
+
+[Warrior Gordon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Gordon
+// Warrior Gordon
+patch=1,EE,20BD1F38,extended,00000001
+
+[Warrior Gordon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Gordon
+// Warrior Gordon
+patch=1,EE,20BD2748,extended,00000001
+
+[Warrior Elmer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Elmer
+// Warrior Elmer
+patch=1,EE,20BD1F3C,extended,00000001
+
+[Warrior Elmer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Elmer
+// Warrior Elmer
+patch=1,EE,20BD274C,extended,00000001
+
+[Warrior Ralph]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Ralph
+// Warrior Ralph
+patch=1,EE,20BD1F40,extended,00000001
+
+[Warrior Ralph]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior Ralph
+// Warrior Ralph
+patch=1,EE,20BD2750,extended,00000001
+
+[Knight Rick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Rick
+// Knight Rick
+patch=1,EE,20BD1F50,extended,00000001
+
+[Knight Rick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Rick
+// Knight Rick
+patch=1,EE,20BD2760,extended,00000001
+
+[Knight Alvin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Alvin
+// Knight Alvin
+patch=1,EE,20BD1F54,extended,00000001
+
+[Knight Alvin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Alvin
+// Knight Alvin
+patch=1,EE,20BD2764,extended,00000001
+
+[Knight Conrad]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Conrad
+// Knight Conrad
+patch=1,EE,20BD1F58,extended,00000001
+
+[Knight Conrad]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Conrad
+// Knight Conrad
+patch=1,EE,20BD2768,extended,00000001
+
+[Knight Hamilton]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Hamilton
+// Knight Hamilton
+patch=1,EE,20BD1F60,extended,00000001
+
+[Knight Hamilton]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Hamilton
+// Knight Hamilton
+patch=1,EE,20BD2770,extended,00000001
+
+[Knight Adolphus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Adolphus
+// Knight Adolphus
+patch=1,EE,20BD1F64,extended,00000001
+
+[Knight Adolphus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Adolphus
+// Knight Adolphus
+patch=1,EE,20BD2774,extended,00000001
+
+[Knight Justin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Justin
+// Knight Justin
+patch=1,EE,20BD1F68,extended,00000001
+
+[Knight Justin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Justin
+// Knight Justin
+patch=1,EE,20BD2778,extended,00000001
+
+[Knight Gerald]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Gerald
+// Knight Gerald
+patch=1,EE,20BD1F6C,extended,00000001
+
+[Knight Gerald]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Gerald
+// Knight Gerald
+patch=1,EE,20BD277C,extended,00000001
+
+[Knight Alfons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Alfons
+// Knight Alfons
+patch=1,EE,20BD1F70,extended,00000001
+
+[Knight Alfons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Alfons
+// Knight Alfons
+patch=1,EE,20BD2780,extended,00000001
+
+[Knight Arthur]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Arthur
+// Knight Arthur
+patch=1,EE,20BD1F74,extended,00000001
+
+[Knight Arthur]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Arthur
+// Knight Arthur
+patch=1,EE,20BD2784,extended,00000001
+
+[Archer Myra]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archer Myra
+// Archer Myra
+patch=1,EE,20BD1F9C,extended,00000001
+
+[Archer Myra]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archer Myra
+// Archer Myra
+patch=1,EE,20BD27AC,extended,00000001
+
+[Archer Erika]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archer Erika
+// Archer Erika
+patch=1,EE,20BD1FA0,extended,00000001
+
+[Archer Erika]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archer Erika
+// Archer Erika
+patch=1,EE,20BD27B0,extended,00000001
+
+[Archer Sharon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archer Sharon
+// Archer Sharon
+patch=1,EE,20BD1FA4,extended,00000001
+
+[Archer Sharon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archer Sharon
+// Archer Sharon
+patch=1,EE,20BD27B4,extended,00000001
+
+[Archer Ellen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archer Ellen
+// Archer Ellen
+patch=1,EE,20BD1FA8,extended,00000001
+
+[Archer Ellen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archer Ellen
+// Archer Ellen
+patch=1,EE,20BD27B8,extended,00000001
+
+[Archer Miranda]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archer Miranda
+// Archer Miranda
+patch=1,EE,20BD1FAC,extended,00000001
+
+[Archer Miranda]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archer Miranda
+// Archer Miranda
+patch=1,EE,20BD27BC,extended,00000001
+
+[Archer Alma]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archer Alma
+// Archer Alma
+patch=1,EE,20BD1FB0,extended,00000001
+
+[Archer Alma]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archer Alma
+// Archer Alma
+patch=1,EE,20BD27C0,extended,00000001
+
+[Archer Julia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archer Julia
+// Archer Julia
+patch=1,EE,20BD1FB4,extended,00000001
+
+[Archer Julia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archer Julia
+// Archer Julia
+patch=1,EE,20BD27C4,extended,00000001
+
+[Archer Veronica]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archer Veronica
+// Archer Veronica
+patch=1,EE,20BD1FB8,extended,00000001
+
+[Archer Veronica]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archer Veronica
+// Archer Veronica
+patch=1,EE,20BD27C8,extended,00000001
+
+[Archer Helena]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archer Helena
+// Archer Helena
+patch=1,EE,20BD1FBC,extended,00000001
+
+[Archer Helena]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archer Helena
+// Archer Helena
+patch=1,EE,20BD27CC,extended,00000001
+
+[Bow Knight Ursula]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bow Knight Ursula
+// Bow Knight Ursula
+patch=1,EE,20BD1FD8,extended,00000001
+
+[Bow Knight Ursula]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bow Knight Ursula
+// Bow Knight Ursula
+patch=1,EE,20BD27E8,extended,00000001
+
+[Bow Knight Lavinia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bow Knight Lavinia
+// Bow Knight Lavinia
+patch=1,EE,20BD1FDC,extended,00000001
+
+[Bow Knight Lavinia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bow Knight Lavinia
+// Bow Knight Lavinia
+patch=1,EE,20BD27EC,extended,00000001
+
+[Bow Knight Eileen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bow Knight Eileen
+// Bow Knight Eileen
+patch=1,EE,20BD1FE4,extended,00000001
+
+[Bow Knight Eileen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bow Knight Eileen
+// Bow Knight Eileen
+patch=1,EE,20BD27F4,extended,00000001
+
+[Bow Knight Lilly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bow Knight Lilly
+// Bow Knight Lilly
+patch=1,EE,20BD1FE8,extended,00000001
+
+[Bow Knight Lilly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bow Knight Lilly
+// Bow Knight Lilly
+patch=1,EE,20BD27F8,extended,00000001
+
+[Bow Knight Michelle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bow Knight Michelle
+// Bow Knight Michelle
+patch=1,EE,20BD1FEC,extended,00000001
+
+[Bow Knight Michelle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bow Knight Michelle
+// Bow Knight Michelle
+patch=1,EE,20BD27FC,extended,00000001
+
+[Bow Knight Brigette]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bow Knight Brigette
+// Bow Knight Brigette
+patch=1,EE,20BD1FF0,extended,00000001
+
+[Bow Knight Brigette]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bow Knight Brigette
+// Bow Knight Brigette
+patch=1,EE,20BD2800,extended,00000001
+
+[Axe Knight Cesar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe Knight Cesar
+// Axe Knight Cesar
+patch=1,EE,20BD1FFC,extended,00000001
+
+[Axe Knight Cesar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe Knight Cesar
+// Axe Knight Cesar
+patch=1,EE,20BD280C,extended,00000001
+
+[Axe Knight Colonia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe Knight Colonia
+// Axe Knight Colonia
+patch=1,EE,20BD2000,extended,00000001
+
+[Axe Knight Colonia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe Knight Colonia
+// Axe Knight Colonia
+patch=1,EE,20BD2810,extended,00000001
+
+[Axe Knight Lionel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe Knight Lionel
+// Axe Knight Lionel
+patch=1,EE,20BD2004,extended,00000001
+
+[Axe Knight Lionel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe Knight Lionel
+// Axe Knight Lionel
+patch=1,EE,20BD2814,extended,00000001
+
+[Axe Knight Gabriel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe Knight Gabriel
+// Axe Knight Gabriel
+patch=1,EE,20BD2008,extended,00000001
+
+[Axe Knight Gabriel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe Knight Gabriel
+// Axe Knight Gabriel
+patch=1,EE,20BD2818,extended,00000001
+
+[Axe Knight Basil]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe Knight Basil
+// Axe Knight Basil
+patch=1,EE,20BD200C,extended,00000001
+
+[Axe Knight Basil]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe Knight Basil
+// Axe Knight Basil
+patch=1,EE,20BD281C,extended,00000001
+
+[Spear Knight Bernhardt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear Knight Bernhardt
+// Spear Knight Bernhardt
+patch=1,EE,20BD202C,extended,00000001
+
+[Spear Knight Bernhardt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear Knight Bernhardt
+// Spear Knight Bernhardt
+patch=1,EE,20BD283C,extended,00000001
+
+[Spear Knight Isaac]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear Knight Isaac
+// Spear Knight Isaac
+patch=1,EE,20BD2034,extended,00000001
+
+[Spear Knight Isaac]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear Knight Isaac
+// Spear Knight Isaac
+patch=1,EE,20BD2844,extended,00000001
+
+[Spear Knight Steve]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear Knight Steve
+// Spear Knight Steve
+patch=1,EE,20BD2038,extended,00000001
+
+[Spear Knight Steve]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear Knight Steve
+// Spear Knight Steve
+patch=1,EE,20BD2848,extended,00000001
+
+[Spear Knight Francis]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear Knight Francis
+// Spear Knight Francis
+patch=1,EE,20BD203C,extended,00000001
+
+[Spear Knight Francis]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear Knight Francis
+// Spear Knight Francis
+patch=1,EE,20BD284C,extended,00000001
+
+[Fire Mage Celena]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fire Mage Celena
+// Fire Mage Celena
+patch=1,EE,20BD204C,extended,00000001
+
+[Fire Mage Celena]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fire Mage Celena
+// Fire Mage Celena
+patch=1,EE,20BD285C,extended,00000001
+
+[Fire Mage Barbara]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fire Mage Barbara
+// Fire Mage Barbara
+patch=1,EE,20BD2054,extended,00000001
+
+[Fire Mage Barbara]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fire Mage Barbara
+// Fire Mage Barbara
+patch=1,EE,20BD2864,extended,00000001
+
+[Fire Mage Vaglumo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fire Mage Vaglumo
+// Fire Mage Vaglumo
+patch=1,EE,20BD2060,extended,00000001
+
+[Fire Mage Vaglumo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fire Mage Vaglumo
+// Fire Mage Vaglumo
+patch=1,EE,20BD2870,extended,00000001
+
+[Thunder Mage Iluminado]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thunder Mage Iluminado
+// Thunder Mage Iluminado
+patch=1,EE,20BD2070,extended,00000001
+
+[Thunder Mage Iluminado]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thunder Mage Iluminado
+// Thunder Mage Iluminado
+patch=1,EE,20BD2880,extended,00000001
+
+[Thunder Mage Purateno]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thunder Mage Purateno
+// Thunder Mage Purateno
+patch=1,EE,20BD2074,extended,00000001
+
+[Thunder Mage Purateno]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thunder Mage Purateno
+// Thunder Mage Purateno
+patch=1,EE,20BD2884,extended,00000001
+
+[Thunder Mage Vulcanon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thunder Mage Vulcanon
+// Thunder Mage Vulcanon
+patch=1,EE,20BD2084,extended,00000001
+
+[Thunder Mage Vulcanon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thunder Mage Vulcanon
+// Thunder Mage Vulcanon
+patch=1,EE,20BD2894,extended,00000001
+
+[Thunder Mage Alder]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thunder Mage Alder
+// Thunder Mage Alder
+patch=1,EE,20BD2088,extended,00000001
+
+[Thunder Mage Alder]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thunder Mage Alder
+// Thunder Mage Alder
+patch=1,EE,20BD2898,extended,00000001
+
+[Thunder Mage Trident]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thunder Mage Trident
+// Thunder Mage Trident
+patch=1,EE,20BD208C,extended,00000001
+
+[Thunder Mage Trident]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thunder Mage Trident
+// Thunder Mage Trident
+patch=1,EE,20BD289C,extended,00000001
+
+[Ice Mage Frida]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Mage Frida
+// Ice Mage Frida
+patch=1,EE,20BD20A0,extended,00000001
+
+[Ice Mage Frida]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Mage Frida
+// Ice Mage Frida
+patch=1,EE,20BD28B0,extended,00000001
+
+[Ice Mage Friska]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Mage Friska
+// Ice Mage Friska
+patch=1,EE,20BD20A4,extended,00000001
+
+[Ice Mage Friska]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Mage Friska
+// Ice Mage Friska
+patch=1,EE,20BD28B4,extended,00000001
+
+[Ice Mage Frosta]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Mage Frosta
+// Ice Mage Frosta
+patch=1,EE,20BD20A8,extended,00000001
+
+[Ice Mage Frosta]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Mage Frosta
+// Ice Mage Frosta
+patch=1,EE,20BD28B8,extended,00000001
+
+[Ice Mage Lavango]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Mage Lavango
+// Ice Mage Lavango
+patch=1,EE,20BD20B0,extended,00000001
+
+[Ice Mage Lavango]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Mage Lavango
+// Ice Mage Lavango
+patch=1,EE,20BD28C0,extended,00000001
+
+[Ice Mage Schtormo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Mage Schtormo
+// Ice Mage Schtormo
+patch=1,EE,20BD20B4,extended,00000001
+
+[Ice Mage Schtormo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Mage Schtormo
+// Ice Mage Schtormo
+patch=1,EE,20BD28C4,extended,00000001
+
+[Ice Mage Blizzardo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Mage Blizzardo
+// Ice Mage Blizzardo
+patch=1,EE,20BD20B8,extended,00000001
+
+[Ice Mage Blizzardo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Mage Blizzardo
+// Ice Mage Blizzardo
+patch=1,EE,20BD28C8,extended,00000001
+
+[Priestess Angela]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Priestess Angela
+// Priestess Angela
+patch=1,EE,20BD20D0,extended,00000001
+
+[Priestess Angela]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Priestess Angela
+// Priestess Angela
+patch=1,EE,20BD28E0,extended,00000001
+
+[Priestess Eleanor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Priestess Eleanor
+// Priestess Eleanor
+patch=1,EE,20BD20D4,extended,00000001
+
+[Priestess Eleanor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Priestess Eleanor
+// Priestess Eleanor
+patch=1,EE,20BD28E4,extended,00000001
+
+[Priestess Irene]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Priestess Irene
+// Priestess Irene
+patch=1,EE,20BD20D8,extended,00000001
+
+[Priestess Irene]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Priestess Irene
+// Priestess Irene
+patch=1,EE,20BD28E8,extended,00000001
+
+[Wizard Meteorito]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wizard Meteorito
+// Wizard Meteorito
+patch=1,EE,20BD20F4,extended,00000001
+
+[Wizard Meteorito]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wizard Meteorito
+// Wizard Meteorito
+patch=1,EE,20BD2904,extended,00000001
+
+[Wizard Smerald]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wizard Smerald
+// Wizard Smerald
+patch=1,EE,20BD20F8,extended,00000001
+
+[Wizard Smerald]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wizard Smerald
+// Wizard Smerald
+patch=1,EE,20BD2908,extended,00000001
+
+[Wizard Benedict]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wizard Benedict
+// Wizard Benedict
+patch=1,EE,20BD20FC,extended,00000001
+
+[Wizard Benedict]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wizard Benedict
+// Wizard Benedict
+patch=1,EE,20BD290C,extended,00000001
+
+[Wizard Diabolo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wizard Diabolo
+// Wizard Diabolo
+patch=1,EE,20BD2100,extended,00000001
+
+[Wizard Diabolo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wizard Diabolo
+// Wizard Diabolo
+patch=1,EE,20BD2910,extended,00000001
+
+[Dark Mage Fiona]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Mage Fiona
+// Dark Mage Fiona
+patch=1,EE,20BD2108,extended,00000001
+
+[Dark Mage Fiona]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Mage Fiona
+// Dark Mage Fiona
+patch=1,EE,20BD2918,extended,00000001
+
+[Dark Mage Louisa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Mage Louisa
+// Dark Mage Louisa
+patch=1,EE,20BD2110,extended,00000001
+
+[Dark Mage Louisa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Mage Louisa
+// Dark Mage Louisa
+patch=1,EE,20BD2920,extended,00000001
+
+[Dark Mage Tenebro]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Mage Tenebro
+// Dark Mage Tenebro
+patch=1,EE,20BD2114,extended,00000001
+
+[Dark Mage Tenebro]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Mage Tenebro
+// Dark Mage Tenebro
+patch=1,EE,20BD2924,extended,00000001
+
+[Dark Mage Nocto]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Mage Nocto
+// Dark Mage Nocto
+patch=1,EE,20BD2118,extended,00000001
+
+[Dark Mage Nocto]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Mage Nocto
+// Dark Mage Nocto
+patch=1,EE,20BD2928,extended,00000001
+
+[Peasant Brenda]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peasant Brenda
+// Peasant Brenda
+patch=1,EE,20BD2124,extended,00000001
+
+[Peasant Brenda]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peasant Brenda
+// Peasant Brenda
+patch=1,EE,20BD2934,extended,00000001
+
+[Peasant Hannah]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peasant Hannah
+// Peasant Hannah
+patch=1,EE,20BD2128,extended,00000001
+
+[Peasant Hannah]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peasant Hannah
+// Peasant Hannah
+patch=1,EE,20BD2938,extended,00000001
+
+[Peasant Eric]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peasant Eric
+// Peasant Eric
+patch=1,EE,20BD2138,extended,00000001
+
+[Peasant Eric]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peasant Eric
+// Peasant Eric
+patch=1,EE,20BD2948,extended,00000001
+
+[Peasant Geoff]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peasant Geoff
+// Peasant Geoff
+patch=1,EE,20BD213C,extended,00000001
+
+[Peasant Geoff]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peasant Geoff
+// Peasant Geoff
+patch=1,EE,20BD294C,extended,00000001
+
+[Peasant Bolide]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peasant Bolide
+// Peasant Bolide
+patch=1,EE,20BD2140,extended,00000001
+
+[Peasant Bolide]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peasant Bolide
+// Peasant Bolide
+patch=1,EE,20BD2950,extended,00000001
+
+[Mauler Douglas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mauler Douglas
+// Mauler Douglas
+patch=1,EE,20BD2160,extended,00000001
+
+[Mauler Douglas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mauler Douglas
+// Mauler Douglas
+patch=1,EE,20BD2970,extended,00000001
+
+[Mauler Albert]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mauler Albert
+// Mauler Albert
+patch=1,EE,20BD2164,extended,00000001
+
+[Mauler Albert]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mauler Albert
+// Mauler Albert
+patch=1,EE,20BD2974,extended,00000001
+
+[Mauler Dudley]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mauler Dudley
+// Mauler Dudley
+patch=1,EE,20BD2168,extended,00000001
+
+[Mauler Dudley]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mauler Dudley
+// Mauler Dudley
+patch=1,EE,20BD2978,extended,00000001
+
+[Mauler Lloyd]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mauler Lloyd
+// Mauler Lloyd
+patch=1,EE,20BD216C,extended,00000001
+
+[Mauler Lloyd]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mauler Lloyd
+// Mauler Lloyd
+patch=1,EE,20BD297C,extended,00000001
+
+[Thief Aladdin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thief Aladdin
+// Thief Aladdin
+patch=1,EE,20BD2188,extended,00000001
+
+[Thief Aladdin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thief Aladdin
+// Thief Aladdin
+patch=1,EE,20BD2998,extended,00000001
+
+[Thief Phillip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thief Phillip
+// Thief Phillip
+patch=1,EE,20BD218C,extended,00000001
+
+[Thief Phillip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thief Phillip
+// Thief Phillip
+patch=1,EE,20BD299C,extended,00000001
+
+[Thief Louis]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thief Louis
+// Thief Louis
+patch=1,EE,20BD2190,extended,00000001
+
+[Thief Louis]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thief Louis
+// Thief Louis
+patch=1,EE,20BD29A0,extended,00000001
+
+[Assassin Oliver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Assassin Oliver
+// Assassin Oliver
+patch=1,EE,20BD21BC,extended,00000001
+
+[Assassin Oliver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Assassin Oliver
+// Assassin Oliver
+patch=1,EE,20BD29CC,extended,00000001
+
+[Assassin Moses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Assassin Moses
+// Assassin Moses
+patch=1,EE,20BD21C0,extended,00000001
+
+[Assassin Moses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Assassin Moses
+// Assassin Moses
+patch=1,EE,20BD29D0,extended,00000001
+
+[Assassin Valentine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Assassin Valentine
+// Assassin Valentine
+patch=1,EE,20BD21C4,extended,00000001
+
+[Assassin Valentine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Assassin Valentine
+// Assassin Valentine
+patch=1,EE,20BD29D4,extended,00000001
+
+[Assassin Aaron]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Assassin Aaron
+// Assassin Aaron
+patch=1,EE,20BD21C8,extended,00000001
+
+[Assassin Aaron]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Assassin Aaron
+// Assassin Aaron
+patch=1,EE,20BD29D8,extended,00000001
+
+[Assassin Rufus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Assassin Rufus
+// Assassin Rufus
+patch=1,EE,20BD21CC,extended,00000001
+
+[Assassin Rufus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Assassin Rufus
+// Assassin Rufus
+patch=1,EE,20BD29DC,extended,00000001
+
+[Legionnaire Age]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Legionnaire Age
+// Legionnaire Age
+patch=1,EE,20BD21D8,extended,00000001
+
+[Legionnaire Age]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Legionnaire Age
+// Legionnaire Age
+patch=1,EE,20BD29E8,extended,00000001
+
+[Legionnaire Hercule]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Legionnaire Hercule
+// Legionnaire Hercule
+patch=1,EE,20BD21DC,extended,00000001
+
+[Legionnaire Hercule]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Legionnaire Hercule
+// Legionnaire Hercule
+patch=1,EE,20BD29EC,extended,00000001

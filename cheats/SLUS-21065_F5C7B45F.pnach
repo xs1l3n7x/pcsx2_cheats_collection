@@ -1,0 +1,853 @@
+gametitle=Need For Speed Underground 2 [SLUS-21065] [F5C7B45F]
+
+[Unlock All Stages]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Stages
+// Unlock All Stages
+patch=1,EE,9042C81C,extended,0C1100EB
+
+[Infinite Nitrous Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Nitrous Usage
+// Infinite Nitrous Usage
+patch=1,EE,2030A6AC,extended,00000000
+
+[Max Infinite Nitro]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Nitro
+// Max Infinite Nitro
+patch=1,EE,2030A374,extended,2403270F
+
+[Max Infinite Nitro]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Nitro
+// Max Infinite Nitro
+patch=1,EE,2030A378,extended,AE030334
+
+[Max Infinite Nitro]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Nitro
+// Max Infinite Nitro
+patch=1,EE,1030A3CE,extended,00001000
+
+[Max Infinite Nitro]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Nitro
+// Max Infinite Nitro
+patch=1,EE,2030A6F4,extended,2403270F
+
+[Max Infinite Nitro]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Nitro
+// Max Infinite Nitro
+patch=1,EE,2030A6FC,extended,AE03042C
+
+[Quick Bank Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Bank Gain
+// Quick Bank Gain
+patch=1,EE,104F9A64,extended,0000FFFF
+
+[Max Bank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bank
+// Max Bank
+patch=1,EE,204F9A64,extended,05F5E0FF
+
+[Quick Max Bank Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Max Bank Gain
+// Quick Max Bank Gain
+patch=1,EE,2026E3D0,extended,3C0205F5
+
+[Quick Max Bank Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Max Bank Gain
+// Quick Max Bank Gain
+patch=1,EE,2026E3D4,extended,3442E0FF
+
+[Max Races Entered]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Races Entered
+// Max Races Entered
+patch=1,EE,204FB060,extended,000003E7
+
+[No Races Entered]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Races Entered
+// No Races Entered
+patch=1,EE,204FB060,extended,00000000
+
+[Max Total Spent On Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Spent On Car
+// Max Total Spent On Car
+patch=1,EE,20501A88,extended,05F5E0FF
+
+[View Event To Have Event Completed (World Map)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Event To Have Event Completed (World Map)
+// View Event To Have Event Completed (World Map)
+patch=1,EE,201EDBF0,extended,24020001
+
+[View Event To Have Event Completed (World Map)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Event To Have Event Completed (World Map)
+// View Event To Have Event Completed (World Map)
+patch=1,EE,201EDBF4,extended,AE62001C
+
+[Story Races Always Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Story Races Always Won
+// Story Races Always Won
+patch=1,EE,2026C958,extended,03E00008
+
+[Story Races Always Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Story Races Always Won
+// Story Races Always Won
+patch=1,EE,2026C95C,extended,24020001
+
+[Drive Thru Cars/Walls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Drive Thru Cars/Walls
+// Drive Thru Cars/Walls
+patch=1,EE,2030D828,extended,03E00008
+
+[Drive Thru Cars/Walls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Drive Thru Cars/Walls
+// Drive Thru Cars/Walls
+patch=1,EE,2030D82C,extended,24020000
+
+[Idiot AI-Normal Traffic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI-Normal Traffic
+// Idiot AI-Normal Traffic
+patch=1,EE,2056C04C,extended,00000000
+
+[P1 Press {L1}+Right To Enable Idiot AI-Normal Traffic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right To Enable Idiot AI-Normal Traffic
+// P1 Press {L1}+Right To Enable Idiot AI-Normal Traffic
+patch=1,EE,D052D502,extended,0000FBDF
+
+[P1 Press {L1}+Right To Enable Idiot AI-Normal Traffic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right To Enable Idiot AI-Normal Traffic
+// P1 Press {L1}+Right To Enable Idiot AI-Normal Traffic
+patch=1,EE,2056C04C,extended,00000000
+
+[P1 Press {L1}+Left To Enable Idiot AI-Normal Traffic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Left To Enable Idiot AI-Normal Traffic
+// P1 Press {L1}+Left To Enable Idiot AI-Normal Traffic
+patch=1,EE,D052D502,extended,0000FB7F
+
+[P1 Press {L1}+Left To Enable Idiot AI-Normal Traffic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Left To Enable Idiot AI-Normal Traffic
+// P1 Press {L1}+Left To Enable Idiot AI-Normal Traffic
+patch=1,EE,2056C04C,extended,41C4B127
+
+[Idiot AI-Racers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI-Racers
+// Idiot AI-Racers
+patch=1,EE,20121B10,extended,03E00008
+
+[Idiot AI-Racers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI-Racers
+// Idiot AI-Racers
+patch=1,EE,20121B14,extended,00000000
+
+[P1 Press {L1}+Up To Enable Idiot AI-Racers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up To Enable Idiot AI-Racers
+// P1 Press {L1}+Up To Enable Idiot AI-Racers
+patch=1,EE,E002FBEF,extended,0052D502
+
+[P1 Press {L1}+Up To Enable Idiot AI-Racers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up To Enable Idiot AI-Racers
+// P1 Press {L1}+Up To Enable Idiot AI-Racers
+patch=1,EE,20121B10,extended,03E00008
+
+[P1 Press {L1}+Up To Enable Idiot AI-Racers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up To Enable Idiot AI-Racers
+// P1 Press {L1}+Up To Enable Idiot AI-Racers
+patch=1,EE,20121B14,extended,00000000
+
+[P1 Press {L1}+Down To Enable Idiot AI-Racers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Enable Idiot AI-Racers
+// P1 Press {L1}+Down To Enable Idiot AI-Racers
+patch=1,EE,E002FBBF,extended,0052D502
+
+[P1 Press {L1}+Down To Enable Idiot AI-Racers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Enable Idiot AI-Racers
+// P1 Press {L1}+Down To Enable Idiot AI-Racers
+patch=1,EE,20121B10,extended,27BDFF70
+
+[P1 Press {L1}+Down To Enable Idiot AI-Racers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Enable Idiot AI-Racers
+// P1 Press {L1}+Down To Enable Idiot AI-Racers
+patch=1,EE,20121B14,extended,FFB20020
+
+[Unlock All Quick Race Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Quick Race Tracks
+// Unlock All Quick Race Tracks
+patch=1,EE,20266078,extended,24020002
+
+[Unlock All Quick Race Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Quick Race Tracks
+// Unlock All Quick Race Tracks
+patch=1,EE,2026607C,extended,03E00008
+
+[Unlock All Quick Race Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Quick Race Tracks
+// Unlock All Quick Race Tracks
+patch=1,EE,20266080,extended,A0820002
+
+[Access All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Cars
+// Access All Cars
+patch=1,EE,20274550,extended,03E00008
+
+[Access All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Cars
+// Access All Cars
+patch=1,EE,20274554,extended,24020001
+
+[Access All Customize Parts (Not Saveable/Non Career)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Customize Parts (Not Saveable/Non Career)
+// Access All Customize Parts (Not Saveable/Non Career)
+patch=1,EE,202F01F8,extended,03E00008
+
+[Access All Customize Parts (Not Saveable/Non Career)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Customize Parts (Not Saveable/Non Career)
+// Access All Customize Parts (Not Saveable/Non Career)
+patch=1,EE,202F01FC,extended,24020001
+
+[GTA 1 Mode (Overhead Camera)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=GTA 1 Mode (Overhead Camera)
+// GTA 1 Mode (Overhead Camera)
+patch=1,EE,2056C2FC,extended,42340000
+
+[P1 Press {L1}+{SELECT} For Hyper Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For Hyper Mode
+// P1 Press {L1}+{SELECT} For Hyper Mode
+patch=1,EE,D052D502,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} For Hyper Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For Hyper Mode
+// P1 Press {L1}+{SELECT} For Hyper Mode
+patch=1,EE,2056C11C,extended,46000000
+
+[P1 Press {L2}+{SELECT} For Slow Motion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For Slow Motion
+// P1 Press {L2}+{SELECT} For Slow Motion
+patch=1,EE,D052D502,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} For Slow Motion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For Slow Motion
+// P1 Press {L2}+{SELECT} For Slow Motion
+patch=1,EE,2056C11C,extended,30000000
+
+[P1 Press {L1}+{L2} For Normal Speed Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L2} For Normal Speed Mode
+// P1 Press {L1}+{L2} For Normal Speed Mode
+patch=1,EE,D052D502,extended,0000FAFF
+
+[P1 Press {L1}+{L2} For Normal Speed Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L2} For Normal Speed Mode
+// P1 Press {L1}+{L2} For Normal Speed Mode
+patch=1,EE,2056C11C,extended,365FB23B
+
+[Stage 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 1
+// Stage 1
+patch=1,EE,204F9DF0,extended,4CBEBC20
+
+[Stage 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 1
+// Stage 1
+patch=1,EE,204F9DF4,extended,00000001
+
+[Stage 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 2
+// Stage 2
+patch=1,EE,204F9EF4,extended,4CBEBC20
+
+[Stage 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 2
+// Stage 2
+patch=1,EE,204F9EF8,extended,00000001
+
+[Stage 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 3
+// Stage 3
+patch=1,EE,204F9FF8,extended,4CBEBC20
+
+[Stage 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 3
+// Stage 3
+patch=1,EE,204F9FFC,extended,00000001
+
+[Stage 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 4
+// Stage 4
+patch=1,EE,204FA0FC,extended,4CBEBC20
+
+[Stage 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 4
+// Stage 4
+patch=1,EE,204FA100,extended,00000001
+
+[Stage 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 5
+// Stage 5
+patch=1,EE,204FA200,extended,4CBEBC20
+
+[Stage 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 5
+// Stage 5
+patch=1,EE,204FA204,extended,00000001
+
+[10 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=10 Laps
+// 10 Laps
+patch=1,EE,20548620,extended,0000000A
+
+[9 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9 Laps
+// 9 Laps
+patch=1,EE,20548620,extended,00000009
+
+[8 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=8 Laps
+// 8 Laps
+patch=1,EE,20548620,extended,00000008
+
+[7 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=7 Laps
+// 7 Laps
+patch=1,EE,20548620,extended,00000007
+
+[6 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=6 Laps
+// 6 Laps
+patch=1,EE,20548620,extended,00000006
+
+[5 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5 Laps
+// 5 Laps
+patch=1,EE,20548620,extended,00000005
+
+[4 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4 Laps
+// 4 Laps
+patch=1,EE,20548620,extended,00000004
+
+[3 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=3 Laps
+// 3 Laps
+patch=1,EE,20548620,extended,00000003
+
+[2 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Laps
+// 2 Laps
+patch=1,EE,20548620,extended,00000002
+
+[1 Lap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Lap
+// 1 Lap
+patch=1,EE,20548620,extended,00000001
+
+[Have All Body Parts/Interiors/Car Specialties Owned]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Body Parts/Interiors/Car Specialties Owned
+// Have All Body Parts/Interiors/Car Specialties Owned
+patch=1,EE,200C0220,extended,24010001
+
+[Have All Body Parts/Interiors/Car Specialties Owned]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Body Parts/Interiors/Car Specialties Owned
+// Have All Body Parts/Interiors/Car Specialties Owned
+patch=1,EE,200C0224,extended,00611804
+
+[Have All Body Parts/Interiors/Car Specialties Owned]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Body Parts/Interiors/Car Specialties Owned
+// Have All Body Parts/Interiors/Car Specialties Owned
+patch=1,EE,200C0228,extended,8C410000
+
+[Have All Body Parts/Interiors/Car Specialties Owned]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Body Parts/Interiors/Car Specialties Owned
+// Have All Body Parts/Interiors/Car Specialties Owned
+patch=1,EE,200C022C,extended,00230825
+
+[Have All Body Parts/Interiors/Car Specialties Owned]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Body Parts/Interiors/Car Specialties Owned
+// Have All Body Parts/Interiors/Car Specialties Owned
+patch=1,EE,200C0230,extended,0809E9F8
+
+[Have All Body Parts/Interiors/Car Specialties Owned]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Body Parts/Interiors/Car Specialties Owned
+// Have All Body Parts/Interiors/Car Specialties Owned
+patch=1,EE,200C0234,extended,AC410000
+
+[Have All Body Parts/Interiors/Car Specialties Owned]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Body Parts/Interiors/Car Specialties Owned
+// Have All Body Parts/Interiors/Car Specialties Owned
+patch=1,EE,2027A7D0,extended,08030088
+
+[Own All Performance Parts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Own All Performance Parts
+// Own All Performance Parts
+patch=1,EE,20501828,extended,FFFFFFFF
+
+[Own All Performance Parts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Own All Performance Parts
+// Own All Performance Parts
+patch=1,EE,2050182C,extended,FFFFFFFF
+
+[Rear Seats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rear Seats
+// Rear Seats
+patch=1,EE,70501828,extended,00000001
+
+[Interior Panels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Interior Panels
+// Interior Panels
+patch=1,EE,70501828,extended,00000002
+
+[Lightweight Windows]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lightweight Windows
+// Lightweight Windows
+patch=1,EE,70501828,extended,00000004
+
+[Lightweight Seats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lightweight Seats
+// Lightweight Seats
+patch=1,EE,70501828,extended,00000008
+
+[Lightweight Doors]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lightweight Doors
+// Lightweight Doors
+patch=1,EE,70501828,extended,00000010
+
+[Foam Filled Interior]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Foam Filled Interior
+// Foam Filled Interior
+patch=1,EE,70501828,extended,00000020
+
+[All Reduction Parts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Reduction Parts
+// All Reduction Parts
+patch=1,EE,70501828,extended,0000003F
+
+[Short Throw Shift Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Short Throw Shift Kit
+// Short Throw Shift Kit
+patch=1,EE,70501828,extended,00000040
+
+[Lightweight Flywheel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lightweight Flywheel
+// Lightweight Flywheel
+patch=1,EE,70501828,extended,00000080
+
+[Differntial]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Differntial
+// Differntial
+patch=1,EE,70501829,extended,00000001
+
+[Limited Slip Differential]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Limited Slip Differential
+// Limited Slip Differential
+patch=1,EE,70501829,extended,00000002
+
+[High Performance Clutch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=High Performance Clutch
+// High Performance Clutch
+patch=1,EE,70501829,extended,00000004
+
+[6 Speed Transmission]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=6 Speed Transmission
+// 6 Speed Transmission
+patch=1,EE,70501829,extended,00000008
+
+[All Transmissions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Transmissions
+// All Transmissions
+patch=1,EE,70501828,extended,00100FC0
+
+[Dry Shot Of Notrious Oxide]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dry Shot Of Notrious Oxide
+// Dry Shot Of Notrious Oxide
+patch=1,EE,70501829,extended,00000010
+
+[Wet Shot Of Notrious Oxide]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wet Shot Of Notrious Oxide
+// Wet Shot Of Notrious Oxide
+patch=1,EE,70501829,extended,00000020
+
+[Direct Port Nitrious Oxide]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Direct Port Nitrious Oxide
+// Direct Port Nitrious Oxide
+patch=1,EE,70501829,extended,00000040
+
+[All Nitrous Oxides]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Nitrous Oxides
+// All Nitrous Oxides
+patch=1,EE,70501829,extended,00000070
+
+[Performance Exhaust]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Performance Exhaust
+// Performance Exhaust
+patch=1,EE,70501829,extended,00000080
+
+[Cold Air Intake System]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cold Air Intake System
+// Cold Air Intake System
+patch=1,EE,7050182A,extended,00000001
+
+[Replace Headers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Replace Headers
+// Replace Headers
+patch=1,EE,7050182A,extended,00000002
+
+[Mild Camshaft & Cam Gears]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mild Camshaft & Cam Gears
+// Mild Camshaft & Cam Gears
+patch=1,EE,7050182A,extended,00000004
+
+[Cat Back Exhaust System]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cat Back Exhaust System
+// Cat Back Exhaust System
+patch=1,EE,7050182A,extended,00000008
+
+[High Flow Intake Manifold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=High Flow Intake Manifold
+// High Flow Intake Manifold
+patch=1,EE,7050182A,extended,00000010
+
+[Larger Diameter Downpipe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Larger Diameter Downpipe
+// Larger Diameter Downpipe
+patch=1,EE,7050182A,extended,00000020
+
+[Racing Camshaft And Gears]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Racing Camshaft And Gears
+// Racing Camshaft And Gears
+patch=1,EE,7050182A,extended,00000040
+
+[Port And Polish Heads]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Port And Polish Heads
+// Port And Polish Heads
+patch=1,EE,7050182A,extended,00000080
+
+[Blueprint The Block]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blueprint The Block
+// Blueprint The Block
+patch=1,EE,7050182B,extended,00000001
+
+[High Flow Headers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=High Flow Headers
+// High Flow Headers
+patch=1,EE,7050182B,extended,00000002
+
+[All Engines]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Engines
+// All Engines
+patch=1,EE,70501829,extended,00000080
+
+[All Engines]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Engines
+// All Engines
+patch=1,EE,7050182A,extended,001003FF
+
+[Stage 1 Turbo Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 1 Turbo Kit
+// Stage 1 Turbo Kit
+patch=1,EE,7050182B,extended,00000004
+
+[Stage 2 Turbo Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 2 Turbo Kit
+// Stage 2 Turbo Kit
+patch=1,EE,7050182B,extended,00000008
+
+[Stage 3 Turbo Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 3 Turbo Kit
+// Stage 3 Turbo Kit
+patch=1,EE,7050182B,extended,00000010
+
+[All Turbos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Turbos
+// All Turbos
+patch=1,EE,7050182B,extended,0000001C
+
+[Sport Springs And Shocks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sport Springs And Shocks
+// Sport Springs And Shocks
+patch=1,EE,7050182B,extended,00000020
+
+[Strut Tower Bar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Strut Tower Bar
+// Strut Tower Bar
+patch=1,EE,7050182B,extended,00000040
+
+[Performance Springs And Shocks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Performance Springs And Shocks
+// Performance Springs And Shocks
+patch=1,EE,7050182B,extended,00000080
+
+[Front And Rear Sway Bars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Front And Rear Sway Bars
+// Front And Rear Sway Bars
+patch=1,EE,7050182C,extended,00000001
+
+[Coil Over Suspension System]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coil Over Suspension System
+// Coil Over Suspension System
+patch=1,EE,7050182C,extended,00000008
+
+[Adjustable Camber Plates]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Adjustable Camber Plates
+// Adjustable Camber Plates
+patch=1,EE,7050182C,extended,00000010
+
+[Large Diameter Sway Bars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Large Diameter Sway Bars
+// Large Diameter Sway Bars
+patch=1,EE,7050182C,extended,00000020
+
+[All Suspensions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Suspensions
+// All Suspensions
+patch=1,EE,7050182B,extended,000000E0
+
+[All Suspensions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Suspensions
+// All Suspensions
+patch=1,EE,7050182C,extended,00000039
+
+[Street Compound Brake Pads]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Compound Brake Pads
+// Street Compound Brake Pads
+patch=1,EE,7050182C,extended,00000040
+
+[Steel Braided Brake Lines]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Steel Braided Brake Lines
+// Steel Braided Brake Lines
+patch=1,EE,7050182C,extended,00000080
+
+[Cross Drilled Rotors]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cross Drilled Rotors
+// Cross Drilled Rotors
+patch=1,EE,7050182D,extended,00000001
+
+[Large Diameter Rotors]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Large Diameter Rotors
+// Large Diameter Rotors
+patch=1,EE,7050182D,extended,00000002
+
+[Race Compound Brake Pads]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Compound Brake Pads
+// Race Compound Brake Pads
+patch=1,EE,7050182D,extended,00000004
+
+[Cross Drilled And Slotted Rotors]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cross Drilled And Slotted Rotors
+// Cross Drilled And Slotted Rotors
+patch=1,EE,7050182D,extended,00000008
+
+[6 Piston Racing Calipers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=6 Piston Racing Calipers
+// 6 Piston Racing Calipers
+patch=1,EE,7050182D,extended,00000010
+
+[All Brakes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Brakes
+// All Brakes
+patch=1,EE,7050182C,extended,00101FC0
+
+[Top Speed Limiter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top Speed Limiter
+// Top Speed Limiter
+patch=1,EE,7050182D,extended,00000020
+
+[Performance Chip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Performance Chip
+// Performance Chip
+patch=1,EE,7050182D,extended,00000040
+
+[High Flow Fuel Pump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=High Flow Fuel Pump
+// High Flow Fuel Pump
+patch=1,EE,7050182D,extended,00000080
+
+[Fuel Pressure Regulator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fuel Pressure Regulator
+// Fuel Pressure Regulator
+patch=1,EE,7050182E,extended,00000001
+
+[Fuel Rail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fuel Rail
+// Fuel Rail
+patch=1,EE,7050182E,extended,00000002
+
+[Fuel Filter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fuel Filter
+// Fuel Filter
+patch=1,EE,7050182E,extended,00000004
+
+[Engine Management Unit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Engine Management Unit
+// Engine Management Unit
+patch=1,EE,7050182E,extended,00000008
+
+[Fuel Injectors]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fuel Injectors
+// Fuel Injectors
+patch=1,EE,7050182E,extended,00000010
+
+[All ECU's]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All ECU's
+// All ECU's
+patch=1,EE,7050182D,extended,000000E0
+
+[All ECU's]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All ECU's
+// All ECU's
+patch=1,EE,7050182E,extended,0000001F
+
+[Street Performance Tires]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Performance Tires
+// Street Performance Tires
+patch=1,EE,7050182E,extended,00000020
+
+[Pro Performance Tires]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pro Performance Tires
+// Pro Performance Tires
+patch=1,EE,7050182E,extended,00000040
+
+[Extreme Performance Tires]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extreme Performance Tires
+// Extreme Performance Tires
+patch=1,EE,7050182E,extended,00000080
+
+[All Tires]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Tires
+// All Tires
+patch=1,EE,7050182E,extended,000000E0

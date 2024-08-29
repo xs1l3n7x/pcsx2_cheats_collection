@@ -1,0 +1,55 @@
+gametitle=Dot Hack Part 1 [UNKNOWN] [BFB1109F]
+
+[All Pilots]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Pilots
+// All Pilots
+patch=1,EE,4AE2AF7B,extended,B2137735
+
+[All Pilots]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Pilots
+// All Pilots
+patch=1,EE,F5907182,extended,37557717
+
+[All Licenses]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Licenses
+// All Licenses
+patch=1,EE,4AE2AB7B,extended,B2137739
+
+[All Licenses]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Licenses
+// All Licenses
+patch=1,EE,F5907182,extended,37557717
+
+[Range]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Range
+// Range
+patch=1,EE,1AF35218,extended,00007FFF
+
+[Skills:3]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Skills:3
+// Skills:3
+patch=1,EE,2AE7E35F,extended,FFFFFFFF
+
+[Skills:3]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Skills:3
+// Skills:3
+patch=1,EE,0AE3113E,extended,000000FF
+
+[Boost INF]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Boost INF
+// Boost INF
+patch=1,EE,2A44D3C1,extended,84220180
+
+[Boost INF]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Boost INF
+// Boost INF
+patch=1,EE,2A44CFC1,extended,A422017E

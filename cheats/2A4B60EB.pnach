@@ -1,0 +1,103 @@
+gametitle=Silent Hill 3 [UNKNOWN] [2A4B60EB]
+
+[Max Money]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max Money
+// Max Money
+patch=1,EE,20278FC0,extended,3C0305F0
+
+[Infinite Creation Points Usage]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Creation Points Usage
+// Infinite Creation Points Usage
+patch=1,EE,202BE9A4,extended,2402000A
+
+[All Stages]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Stages
+// All Stages
+patch=1,EE,204B83EC,extended,FFFFFFFF
+
+[All Characters]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Characters
+// All Characters
+patch=1,EE,204B83F8,extended,FFFFFFFF
+
+[All Characters]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Characters
+// All Characters
+patch=1,EE,204B83FC,extended,FFFFFFFF
+
+[All Capsules]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Capsules
+// All Capsules
+patch=1,EE,404E3318,extended,003F0001
+
+[All Capsules]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Capsules
+// All Capsules
+patch=1,EE,01010101,extended,00000000
+
+[All Capsules]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Capsules
+// All Capsules
+patch=1,EE,104E3414,extended,00000101
+
+[All Capsules]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Capsules
+// All Capsules
+patch=1,EE,004E3416,extended,00000001
+
+[All Capsules]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Capsules
+// All Capsules
+patch=1,EE,004E3417,extended,00000001
+
+[All Capsules]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Capsules
+// All Capsules
+patch=1,EE,404E3418,extended,003F0001
+
+[All Capsules]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Capsules
+// All Capsules
+patch=1,EE,01010101,extended,00000000
+
+[All Capsules]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Capsules
+// All Capsules
+patch=1,EE,104E3514,extended,00000101
+
+[All Capsules]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Capsules
+// All Capsules
+patch=1,EE,004E3417,extended,00000001
+
+[All Capsules]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Capsules
+// All Capsules
+patch=1,EE,404E3418,extended,00110001
+
+[All Capsules]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Capsules
+// All Capsules
+patch=1,EE,01010101,extended,00000000
+
+[All Capsules]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Capsules
+// All Capsules
+patch=1,EE,004E345C,extended,00000001

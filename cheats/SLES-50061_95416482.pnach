@@ -1,0 +1,55 @@
+gametitle=Smuggler's Run [SLES-50061] [95416482]
+
+[All Trophies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Trophies
+// All Trophies
+patch=1,EE,90278C60,extended,0C099DF2
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,10285D6C,extended,0000FFFF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20285D6C,extended,05F5E0FF
+
+[Invisibility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisibility
+// Invisibility
+patch=1,EE,20108528,extended,00000000
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,20149EE8,extended,00000000
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,2014BA28,extended,00000000
+
+[No Gravity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Gravity
+// No Gravity
+patch=1,EE,101338BA,extended,00001000
+
+[Max All Level Scores]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Level Scores
+// Max All Level Scores
+patch=1,EE,4028AD30,extended,00220004
+
+[Max All Level Scores]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Level Scores
+// Max All Level Scores
+patch=1,EE,05F5E0FF,extended,00000000

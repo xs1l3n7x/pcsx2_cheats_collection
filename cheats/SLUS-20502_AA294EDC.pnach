@@ -1,0 +1,1189 @@
+gametitle=Colin McRae Rally 3 [SLUS-20502] [AA294EDC]
+
+[1-Hit Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Enemies)
+// 1-Hit Death (Enemies)
+patch=1,EE,F0100008,extended,0027BF9F
+
+[Drive Thru Most Obstacles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Drive Thru Most Obstacles
+// Drive Thru Most Obstacles
+patch=1,EE,20187D00,extended,03E00008
+
+[Drive Thru Most Obstacles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Drive Thru Most Obstacles
+// Drive Thru Most Obstacles
+patch=1,EE,20187D04,extended,00000000
+
+[Unlock All Cheats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheats
+// Unlock All Cheats
+patch=1,EE,202CA9DC,extended,FFFFFFFF
+
+[Buggy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buggy
+// Buggy
+patch=1,EE,002C3397,extended,00000003
+
+[Plane]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plane
+// Plane
+patch=1,EE,002C33BF,extended,00000003
+
+[Hovercraft]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hovercraft
+// Hovercraft
+patch=1,EE,002C33E7,extended,00000003
+
+[Battle Tank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle Tank
+// Battle Tank
+patch=1,EE,002C340F,extended,00000003
+
+[RC Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=RC Car
+// RC Car
+patch=1,EE,002C3437,extended,00000003
+
+[All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Cars
+// All Cars
+patch=1,EE,002C345F,extended,00000003
+
+[All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Tracks
+// All Tracks
+patch=1,EE,002C3487,extended,00000003
+
+[All Parts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Parts
+// All Parts
+patch=1,EE,002C34AF,extended,00000003
+
+[All Difficulties]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Difficulties
+// All Difficulties
+patch=1,EE,002C34D7,extended,00000003
+
+[Ford Super Focus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ford Super Focus
+// Ford Super Focus
+patch=1,EE,002C34FF,extended,00000003
+
+[Ford Focus FS WRC 02]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ford Focus FS WRC 02
+// Ford Focus FS WRC 02
+patch=1,EE,202D6B08,extended,00000001
+
+[Ford Focus FS WRC 01]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ford Focus FS WRC 01
+// Ford Focus FS WRC 01
+patch=1,EE,202D6B0C,extended,00000001
+
+[Ford RS Rocus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ford RS Rocus
+// Ford RS Rocus
+patch=1,EE,202D6B10,extended,00000001
+
+[Ford RS200]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ford RS200
+// Ford RS200
+patch=1,EE,202D6B14,extended,00000001
+
+[Ford Puma Rally Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ford Puma Rally Car
+// Ford Puma Rally Car
+patch=1,EE,202D6B18,extended,00000001
+
+[Ford WRC Replica Transit Van]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ford WRC Replica Transit Van
+// Ford WRC Replica Transit Van
+patch=1,EE,202D6B1C,extended,00000001
+
+[Mitsubishi Lancer Evo VII]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mitsubishi Lancer Evo VII
+// Mitsubishi Lancer Evo VII
+patch=1,EE,202D6B20,extended,00000001
+
+[Mitsubishi Lancer Evo VII RS II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mitsubishi Lancer Evo VII RS II
+// Mitsubishi Lancer Evo VII RS II
+patch=1,EE,202D6B24,extended,00000001
+
+[Mitsubishi Pajero]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mitsubishi Pajero
+// Mitsubishi Pajero
+patch=1,EE,202D6B28,extended,00000001
+
+[Subaru Impreza 22B Sti]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Subaru Impreza 22B Sti
+// Subaru Impreza 22B Sti
+patch=1,EE,202D6B2C,extended,00000001
+
+[Black Subaru Impreza WRX (44s)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Subaru Impreza WRX (44s)
+// Black Subaru Impreza WRX (44s)
+patch=1,EE,202D6B30,extended,00000001
+
+[Blue Subaru Impreza WRX (44s)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Subaru Impreza WRX (44s)
+// Blue Subaru Impreza WRX (44s)
+patch=1,EE,202D6B34,extended,00000001
+
+[MG ZR Rally Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MG ZR Rally Car
+// MG ZR Rally Car
+patch=1,EE,202D6B38,extended,00000001
+
+[Metro 6R4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metro 6R4
+// Metro 6R4
+patch=1,EE,202D6B3C,extended,00000001
+
+[Citroen Xsara Kit Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Citroen Xsara Kit Car
+// Citroen Xsara Kit Car
+patch=1,EE,202D6B40,extended,00000001
+
+[Citroen Xsara]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Citroen Xsara
+// Citroen Xsara
+patch=1,EE,202D6B44,extended,00000001
+
+[Citroen Saxo Kit Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Citroen Saxo Kit Car
+// Citroen Saxo Kit Car
+patch=1,EE,202D6B48,extended,00000001
+
+[Citroen 2CV Sahara]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Citroen 2CV Sahara
+// Citroen 2CV Sahara
+patch=1,EE,202D6B4C,extended,00000001
+
+[Lancia 037]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lancia 037
+// Lancia 037
+patch=1,EE,202D6B50,extended,00000001
+
+[Baja Buggy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Baja Buggy
+// Baja Buggy
+patch=1,EE,202D6B54,extended,00000001
+
+[Fiat Punto Rally Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fiat Punto Rally Car
+// Fiat Punto Rally Car
+patch=1,EE,202D6B58,extended,00000001
+
+[Jet Fighter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jet Fighter
+// Jet Fighter
+patch=1,EE,202D6B5C,extended,00000001
+
+[Hovercraft]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hovercraft
+// Hovercraft
+patch=1,EE,202D6B60,extended,00000001
+
+[Battle Tank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle Tank
+// Battle Tank
+patch=1,EE,202D6B64,extended,00000001
+
+[Spain-Special Stage 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spain-Special Stage 1
+// Spain-Special Stage 1
+patch=1,EE,202D6B68,extended,00000001
+
+[Spain-Special Stage 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spain-Special Stage 2
+// Spain-Special Stage 2
+patch=1,EE,202D6B6C,extended,00000001
+
+[Spain-Special Stage 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spain-Special Stage 3
+// Spain-Special Stage 3
+patch=1,EE,202D6B70,extended,00000001
+
+[Spain-Special Stage 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spain-Special Stage 4
+// Spain-Special Stage 4
+patch=1,EE,202D6B74,extended,00000001
+
+[Spain-Special Stage 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spain-Special Stage 5
+// Spain-Special Stage 5
+patch=1,EE,202D6B78,extended,00000001
+
+[Spain-Special Stage 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spain-Special Stage 6
+// Spain-Special Stage 6
+patch=1,EE,202D6B7C,extended,00000001
+
+[Spain-Super Special Stage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spain-Super Special Stage
+// Spain-Super Special Stage
+patch=1,EE,202D6B80,extended,00000001
+
+[UK-Special Stage 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UK-Special Stage 1
+// UK-Special Stage 1
+patch=1,EE,202D6B84,extended,00000001
+
+[UK-Special Stage 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UK-Special Stage 2
+// UK-Special Stage 2
+patch=1,EE,202D6B88,extended,00000001
+
+[UK-Special Stage 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UK-Special Stage 3
+// UK-Special Stage 3
+patch=1,EE,202D6B8C,extended,00000001
+
+[UK-Special Stage 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UK-Special Stage 4
+// UK-Special Stage 4
+patch=1,EE,202D6B90,extended,00000001
+
+[UK-Special Stage 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UK-Special Stage 5
+// UK-Special Stage 5
+patch=1,EE,202D6B94,extended,00000001
+
+[UK-Special Stage 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UK-Special Stage 6
+// UK-Special Stage 6
+patch=1,EE,202D6B98,extended,00000001
+
+[UK-Super Special Stage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UK-Super Special Stage
+// UK-Super Special Stage
+patch=1,EE,202D6B9C,extended,00000001
+
+[Greece-Special Stage 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Greece-Special Stage 1
+// Greece-Special Stage 1
+patch=1,EE,202D6BA0,extended,00000001
+
+[Greece-Special Stage 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Greece-Special Stage 2
+// Greece-Special Stage 2
+patch=1,EE,202D6BA4,extended,00000001
+
+[Greece-Special Stage 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Greece-Special Stage 3
+// Greece-Special Stage 3
+patch=1,EE,202D6BA8,extended,00000001
+
+[Greece-Special Stage 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Greece-Special Stage 4
+// Greece-Special Stage 4
+patch=1,EE,202D6BAC,extended,00000001
+
+[Greece-Special Stage 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Greece-Special Stage 5
+// Greece-Special Stage 5
+patch=1,EE,202D6BB0,extended,00000001
+
+[Greece-Special Stage 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Greece-Special Stage 6
+// Greece-Special Stage 6
+patch=1,EE,202D6BB4,extended,00000001
+
+[Greece-Super Special Stage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Greece-Super Special Stage
+// Greece-Super Special Stage
+patch=1,EE,202D6BB8,extended,00000001
+
+[USA-Special Stage 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=USA-Special Stage 1
+// USA-Special Stage 1
+patch=1,EE,202D6BBC,extended,00000001
+
+[USA-Special Stage 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=USA-Special Stage 2
+// USA-Special Stage 2
+patch=1,EE,202D6BC0,extended,00000001
+
+[USA-Special Stage 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=USA-Special Stage 3
+// USA-Special Stage 3
+patch=1,EE,202D6BC4,extended,00000001
+
+[USA-Special Stage 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=USA-Special Stage 4
+// USA-Special Stage 4
+patch=1,EE,202D6BC8,extended,00000001
+
+[USA-Special Stage 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=USA-Special Stage 5
+// USA-Special Stage 5
+patch=1,EE,202D6BCC,extended,00000001
+
+[USA-Special Stage 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=USA-Special Stage 6
+// USA-Special Stage 6
+patch=1,EE,202D6BD0,extended,00000001
+
+[USA-Super Special Stage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=USA-Super Special Stage
+// USA-Super Special Stage
+patch=1,EE,202D6BD4,extended,00000001
+
+[Japan-Special Stage 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Japan-Special Stage 1
+// Japan-Special Stage 1
+patch=1,EE,202D6BD8,extended,00000001
+
+[Japan-Special Stage 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Japan-Special Stage 2
+// Japan-Special Stage 2
+patch=1,EE,202D6BDC,extended,00000001
+
+[Japan-Special Stage 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Japan-Special Stage 3
+// Japan-Special Stage 3
+patch=1,EE,202D6BE0,extended,00000001
+
+[Japan-Special Stage 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Japan-Special Stage 4
+// Japan-Special Stage 4
+patch=1,EE,202D6BE4,extended,00000001
+
+[Japan-Special Stage 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Japan-Special Stage 5
+// Japan-Special Stage 5
+patch=1,EE,202D6BE8,extended,00000001
+
+[Japan-Special Stage 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Japan-Special Stage 6
+// Japan-Special Stage 6
+patch=1,EE,202D6BEC,extended,00000001
+
+[Japan-Super Special Stage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Japan-Super Special Stage
+// Japan-Super Special Stage
+patch=1,EE,202D6BF0,extended,00000001
+
+[Sweden-Special Stage 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sweden-Special Stage 1
+// Sweden-Special Stage 1
+patch=1,EE,202D6BF4,extended,00000001
+
+[Sweden-Special Stage 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sweden-Special Stage 2
+// Sweden-Special Stage 2
+patch=1,EE,202D6BF8,extended,00000001
+
+[Sweden-Special Stage 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sweden-Special Stage 3
+// Sweden-Special Stage 3
+patch=1,EE,202D6BFC,extended,00000001
+
+[Sweden-Special Stage 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sweden-Special Stage 4
+// Sweden-Special Stage 4
+patch=1,EE,202D6C00,extended,00000001
+
+[Sweden-Special Stage 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sweden-Special Stage 5
+// Sweden-Special Stage 5
+patch=1,EE,202D6C04,extended,00000001
+
+[Sweden-Special Stage 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sweden-Special Stage 6
+// Sweden-Special Stage 6
+patch=1,EE,202D6C08,extended,00000001
+
+[Sweden-Super Special Stage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sweden-Super Special Stage
+// Sweden-Super Special Stage
+patch=1,EE,202D6C0C,extended,00000001
+
+[Australia-Special Stage 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Australia-Special Stage 1
+// Australia-Special Stage 1
+patch=1,EE,202D6C10,extended,00000001
+
+[Australia-Special Stage 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Australia-Special Stage 2
+// Australia-Special Stage 2
+patch=1,EE,202D6C14,extended,00000001
+
+[Australia-Special Stage 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Australia-Special Stage 3
+// Australia-Special Stage 3
+patch=1,EE,202D6C18,extended,00000001
+
+[Australia-Special Stage 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Australia-Special Stage 4
+// Australia-Special Stage 4
+patch=1,EE,202D6C1C,extended,00000001
+
+[Australia-Special Stage 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Australia-Special Stage 5
+// Australia-Special Stage 5
+patch=1,EE,202D6C20,extended,00000001
+
+[Australia-Special Stage 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Australia-Special Stage 6
+// Australia-Special Stage 6
+patch=1,EE,202D6C24,extended,00000001
+
+[Australia-Super Special Stage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Australia-Super Special Stage
+// Australia-Super Special Stage
+patch=1,EE,202D6C28,extended,00000001
+
+[Finland-Special Stage 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Finland-Special Stage 1
+// Finland-Special Stage 1
+patch=1,EE,202D6C2C,extended,00000001
+
+[Finland-Special Stage 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Finland-Special Stage 2
+// Finland-Special Stage 2
+patch=1,EE,202D6C30,extended,00000001
+
+[Finland-Special Stage 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Finland-Special Stage 3
+// Finland-Special Stage 3
+patch=1,EE,202D6C34,extended,00000001
+
+[Finland-Special Stage 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Finland-Special Stage 4
+// Finland-Special Stage 4
+patch=1,EE,202D6C38,extended,00000001
+
+[Finland-Special Stage 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Finland-Special Stage 5
+// Finland-Special Stage 5
+patch=1,EE,202D6C3C,extended,00000001
+
+[Finland-Special Stage 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Finland-Special Stage 6
+// Finland-Special Stage 6
+patch=1,EE,202D6C40,extended,00000001
+
+[Finland-Super Special Stage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Finland-Super Special Stage
+// Finland-Super Special Stage
+patch=1,EE,202D6C44,extended,00000001
+
+[Spain Video]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spain Video
+// Spain Video
+patch=1,EE,202D6CAC,extended,00000001
+
+[UK Video]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UK Video
+// UK Video
+patch=1,EE,202D6CB0,extended,00000001
+
+[Greece Video]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Greece Video
+// Greece Video
+patch=1,EE,202D6CB4,extended,00000001
+
+[USA Video]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=USA Video
+// USA Video
+patch=1,EE,202D6CB8,extended,00000001
+
+[Japan Video]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Japan Video
+// Japan Video
+patch=1,EE,202D6CBC,extended,00000001
+
+[Sweden Video]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sweden Video
+// Sweden Video
+patch=1,EE,202D6CC0,extended,00000001
+
+[Australia Video]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Australia Video
+// Australia Video
+patch=1,EE,202D6CC4,extended,00000001
+
+[Finland Video]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Finland Video
+// Finland Video
+patch=1,EE,202D6CC8,extended,00000001
+
+[C McRae]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=C McRae
+// C McRae
+patch=1,EE,203887F0,extended,14141478
+
+[C McRae]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=C McRae
+// C McRae
+patch=1,EE,103887F4,extended,00001414
+
+[C McRae]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=C McRae
+// C McRae
+patch=1,EE,003887F6,extended,00000014
+
+[E Lahikainen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=E Lahikainen
+// E Lahikainen
+patch=1,EE,203888D0,extended,14141478
+
+[E Lahikainen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=E Lahikainen
+// E Lahikainen
+patch=1,EE,103888D4,extended,00001414
+
+[E Lahikainen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=E Lahikainen
+// E Lahikainen
+patch=1,EE,003888D6,extended,00000014
+
+[P Lunabba]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Lunabba
+// P Lunabba
+patch=1,EE,203889B0,extended,14141478
+
+[P Lunabba]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Lunabba
+// P Lunabba
+patch=1,EE,103889B4,extended,00001414
+
+[P Lunabba]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Lunabba
+// P Lunabba
+patch=1,EE,003889B6,extended,00000014
+
+[X Cantaloube]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=X Cantaloube
+// X Cantaloube
+patch=1,EE,20388A90,extended,14141478
+
+[X Cantaloube]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=X Cantaloube
+// X Cantaloube
+patch=1,EE,10388A94,extended,00001414
+
+[X Cantaloube]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=X Cantaloube
+// X Cantaloube
+patch=1,EE,00388A96,extended,00000014
+
+[R Riolon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R Riolon
+// R Riolon
+patch=1,EE,20388B70,extended,14141478
+
+[R Riolon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R Riolon
+// R Riolon
+patch=1,EE,10388B74,extended,00001414
+
+[R Riolon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R Riolon
+// R Riolon
+patch=1,EE,00388B76,extended,00000014
+
+[D Keller]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=D Keller
+// D Keller
+patch=1,EE,20388C50,extended,14141478
+
+[D Keller]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=D Keller
+// D Keller
+patch=1,EE,10388C54,extended,00001414
+
+[D Keller]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=D Keller
+// D Keller
+patch=1,EE,00388C56,extended,00000014
+
+[P Wiedermann]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Wiedermann
+// P Wiedermann
+patch=1,EE,20388D30,extended,14141478
+
+[P Wiedermann]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Wiedermann
+// P Wiedermann
+patch=1,EE,10388D34,extended,00001414
+
+[P Wiedermann]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Wiedermann
+// P Wiedermann
+patch=1,EE,00388D36,extended,00000014
+
+[P Barca]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Barca
+// P Barca
+patch=1,EE,20388E10,extended,14141478
+
+[P Barca]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Barca
+// P Barca
+patch=1,EE,10388E14,extended,00001414
+
+[P Barca]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Barca
+// P Barca
+patch=1,EE,00388E16,extended,00000014
+
+[J Molina]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=J Molina
+// J Molina
+patch=1,EE,20388EF0,extended,14141478
+
+[J Molina]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=J Molina
+// J Molina
+patch=1,EE,10388EF4,extended,00001414
+
+[J Molina]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=J Molina
+// J Molina
+patch=1,EE,00388EF6,extended,00000014
+
+[R Field]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R Field
+// R Field
+patch=1,EE,20388FD0,extended,14141478
+
+[R Field]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R Field
+// R Field
+patch=1,EE,10388FD4,extended,00001414
+
+[R Field]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R Field
+// R Field
+patch=1,EE,00388FD6,extended,00000014
+
+[T Ingham]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T Ingham
+// T Ingham
+patch=1,EE,203890B0,extended,14141478
+
+[T Ingham]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T Ingham
+// T Ingham
+patch=1,EE,103890B4,extended,00001414
+
+[T Ingham]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T Ingham
+// T Ingham
+patch=1,EE,003890B6,extended,00000014
+
+[F Rizzo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F Rizzo
+// F Rizzo
+patch=1,EE,20389190,extended,14141478
+
+[F Rizzo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F Rizzo
+// F Rizzo
+patch=1,EE,10389194,extended,00001414
+
+[F Rizzo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F Rizzo
+// F Rizzo
+patch=1,EE,00389196,extended,00000014
+
+[M Manganello]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M Manganello
+// M Manganello
+patch=1,EE,20389270,extended,14141478
+
+[M Manganello]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M Manganello
+// M Manganello
+patch=1,EE,10389274,extended,00001414
+
+[M Manganello]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M Manganello
+// M Manganello
+patch=1,EE,00389276,extended,00000014
+
+[D Henderson]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=D Henderson
+// D Henderson
+patch=1,EE,20389350,extended,14141478
+
+[D Henderson]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=D Henderson
+// D Henderson
+patch=1,EE,10389354,extended,00001414
+
+[D Henderson]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=D Henderson
+// D Henderson
+patch=1,EE,00389356,extended,00000014
+
+[B Kewell]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=B Kewell
+// B Kewell
+patch=1,EE,20389430,extended,14141478
+
+[B Kewell]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=B Kewell
+// B Kewell
+patch=1,EE,10389434,extended,00001414
+
+[B Kewell]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=B Kewell
+// B Kewell
+patch=1,EE,00389436,extended,00000014
+
+[P Stafs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Stafs
+// P Stafs
+patch=1,EE,20389510,extended,14141478
+
+[P Stafs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Stafs
+// P Stafs
+patch=1,EE,10389514,extended,00001414
+
+[P Stafs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Stafs
+// P Stafs
+patch=1,EE,00389516,extended,00000014
+
+[C McRae]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=C McRae
+// C McRae
+patch=1,EE,203887F0,extended,00000000
+
+[C McRae]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=C McRae
+// C McRae
+patch=1,EE,103887F4,extended,00000000
+
+[C McRae]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=C McRae
+// C McRae
+patch=1,EE,003887F6,extended,00000000
+
+[E Lahikainen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=E Lahikainen
+// E Lahikainen
+patch=1,EE,203888D0,extended,00000000
+
+[E Lahikainen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=E Lahikainen
+// E Lahikainen
+patch=1,EE,103888D4,extended,00000000
+
+[E Lahikainen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=E Lahikainen
+// E Lahikainen
+patch=1,EE,003888D6,extended,00000000
+
+[P Lunabba]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Lunabba
+// P Lunabba
+patch=1,EE,203889B0,extended,00000000
+
+[P Lunabba]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Lunabba
+// P Lunabba
+patch=1,EE,103889B4,extended,00000000
+
+[P Lunabba]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Lunabba
+// P Lunabba
+patch=1,EE,003889B6,extended,00000000
+
+[X Cantaloube]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=X Cantaloube
+// X Cantaloube
+patch=1,EE,20388A90,extended,00000000
+
+[X Cantaloube]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=X Cantaloube
+// X Cantaloube
+patch=1,EE,10388A94,extended,00000000
+
+[X Cantaloube]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=X Cantaloube
+// X Cantaloube
+patch=1,EE,00388A96,extended,00000000
+
+[R Riolon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R Riolon
+// R Riolon
+patch=1,EE,20388B70,extended,00000000
+
+[R Riolon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R Riolon
+// R Riolon
+patch=1,EE,10388B74,extended,00000000
+
+[R Riolon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R Riolon
+// R Riolon
+patch=1,EE,00388B76,extended,00000000
+
+[D Keller]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=D Keller
+// D Keller
+patch=1,EE,20388C50,extended,00000000
+
+[D Keller]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=D Keller
+// D Keller
+patch=1,EE,10388C54,extended,00000000
+
+[D Keller]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=D Keller
+// D Keller
+patch=1,EE,00388C56,extended,00000000
+
+[P Wiedermann]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Wiedermann
+// P Wiedermann
+patch=1,EE,20388D30,extended,00000000
+
+[P Wiedermann]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Wiedermann
+// P Wiedermann
+patch=1,EE,10388D34,extended,00000000
+
+[P Wiedermann]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Wiedermann
+// P Wiedermann
+patch=1,EE,00388D36,extended,00000000
+
+[P Barca]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Barca
+// P Barca
+patch=1,EE,20388E10,extended,00000000
+
+[P Barca]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Barca
+// P Barca
+patch=1,EE,10388E14,extended,00000000
+
+[P Barca]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Barca
+// P Barca
+patch=1,EE,00388E16,extended,00000000
+
+[J Molina]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=J Molina
+// J Molina
+patch=1,EE,20388EF0,extended,00000000
+
+[J Molina]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=J Molina
+// J Molina
+patch=1,EE,10388EF4,extended,00000000
+
+[J Molina]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=J Molina
+// J Molina
+patch=1,EE,00388EF6,extended,00000000
+
+[R Field]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R Field
+// R Field
+patch=1,EE,20388FD0,extended,00000000
+
+[R Field]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R Field
+// R Field
+patch=1,EE,10388FD4,extended,00000000
+
+[R Field]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R Field
+// R Field
+patch=1,EE,00388FD6,extended,00000000
+
+[T Ingham]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T Ingham
+// T Ingham
+patch=1,EE,203890B0,extended,00000000
+
+[T Ingham]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T Ingham
+// T Ingham
+patch=1,EE,103890B4,extended,00000000
+
+[T Ingham]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T Ingham
+// T Ingham
+patch=1,EE,003890B6,extended,00000000
+
+[F Rizzo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F Rizzo
+// F Rizzo
+patch=1,EE,20389190,extended,00000000
+
+[F Rizzo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F Rizzo
+// F Rizzo
+patch=1,EE,10389194,extended,00000000
+
+[F Rizzo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F Rizzo
+// F Rizzo
+patch=1,EE,00389196,extended,00000000
+
+[M Manganello]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M Manganello
+// M Manganello
+patch=1,EE,20389270,extended,00000000
+
+[M Manganello]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M Manganello
+// M Manganello
+patch=1,EE,10389274,extended,00000000
+
+[M Manganello]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M Manganello
+// M Manganello
+patch=1,EE,00389276,extended,00000000
+
+[D Henderson]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=D Henderson
+// D Henderson
+patch=1,EE,20389350,extended,00000000
+
+[D Henderson]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=D Henderson
+// D Henderson
+patch=1,EE,10389354,extended,00000000
+
+[D Henderson]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=D Henderson
+// D Henderson
+patch=1,EE,00389356,extended,00000000
+
+[B Kewell]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=B Kewell
+// B Kewell
+patch=1,EE,20389430,extended,00000000
+
+[B Kewell]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=B Kewell
+// B Kewell
+patch=1,EE,10389434,extended,00000000
+
+[B Kewell]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=B Kewell
+// B Kewell
+patch=1,EE,00389436,extended,00000000
+
+[P Stafs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Stafs
+// P Stafs
+patch=1,EE,20389510,extended,00000000
+
+[P Stafs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Stafs
+// P Stafs
+patch=1,EE,10389514,extended,00000000
+
+[P Stafs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Stafs
+// P Stafs
+patch=1,EE,00389516,extended,00000000

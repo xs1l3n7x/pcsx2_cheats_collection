@@ -1,0 +1,649 @@
+gametitle=187 Ride Or Die [SLES-52276] [83BE7C8E]
+
+[Max Value]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Value
+// Max Value
+patch=1,EE,9012DC4C,extended,0C07F8AA
+
+[Infinite Life Bar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Life Bar
+// Infinite Life Bar
+patch=1,EE,200C0220,extended,8C61035C
+
+[Infinite Life Bar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Life Bar
+// Infinite Life Bar
+patch=1,EE,200C0224,extended,AC610320
+
+[Infinite Life Bar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Life Bar
+// Infinite Life Bar
+patch=1,EE,200C0228,extended,03E00008
+
+[Infinite Life Bar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Life Bar
+// Infinite Life Bar
+patch=1,EE,200C022C,extended,C4640320
+
+[Infinite Life Bar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Life Bar
+// Infinite Life Bar
+patch=1,EE,20309228,extended,0C030088
+
+[Infinite Life Bar (Escorts)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Life Bar (Escorts)
+// Infinite Life Bar (Escorts)
+patch=1,EE,200C0240,extended,8C61035C
+
+[Infinite Life Bar (Escorts)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Life Bar (Escorts)
+// Infinite Life Bar (Escorts)
+patch=1,EE,200C0244,extended,AC610320
+
+[Infinite Life Bar (Escorts)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Life Bar (Escorts)
+// Infinite Life Bar (Escorts)
+patch=1,EE,200C0248,extended,03E00008
+
+[Infinite Life Bar (Escorts)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Life Bar (Escorts)
+// Infinite Life Bar (Escorts)
+patch=1,EE,200C024C,extended,C4630320
+
+[Infinite Life Bar (Escorts)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Life Bar (Escorts)
+// Infinite Life Bar (Escorts)
+patch=1,EE,203BA110,extended,0C030090
+
+[Infinite Turbo (On Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Turbo (On Pickup)
+// Infinite Turbo (On Pickup)
+patch=1,EE,201B50F8,extended,00000000
+
+[Always Max Infinite Turbo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Infinite Turbo
+// Always Max Infinite Turbo
+patch=1,EE,200C0230,extended,3C013F80
+
+[Always Max Infinite Turbo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Infinite Turbo
+// Always Max Infinite Turbo
+patch=1,EE,200C0234,extended,AC410324
+
+[Always Max Infinite Turbo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Infinite Turbo
+// Always Max Infinite Turbo
+patch=1,EE,200C0238,extended,080C34CF
+
+[Always Max Infinite Turbo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Infinite Turbo
+// Always Max Infinite Turbo
+patch=1,EE,200C023C,extended,C4410324
+
+[Always Max Infinite Turbo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Infinite Turbo
+// Always Max Infinite Turbo
+patch=1,EE,2030D338,extended,0803008C
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,202EAA30,extended,00000000
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,202EAA28,extended,46000800
+
+[Instant Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Death (Enemies)
+// Instant Death (Enemies)
+patch=1,EE,200C0250,extended,52200001
+
+[Instant Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Death (Enemies)
+// Instant Death (Enemies)
+patch=1,EE,200C0254,extended,44800800
+
+[Instant Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Death (Enemies)
+// Instant Death (Enemies)
+patch=1,EE,200C0258,extended,E4610320
+
+[Instant Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Death (Enemies)
+// Instant Death (Enemies)
+patch=1,EE,200C025C,extended,03E00008
+
+[Instant Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Death (Enemies)
+// Instant Death (Enemies)
+patch=1,EE,200C0260,extended,44800000
+
+[Instant Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Death (Enemies)
+// Instant Death (Enemies)
+patch=1,EE,20255704,extended,0C030094
+
+[P1 Press {L1}+{SELECT} To Kill Enemy Racers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Kill Enemy Racers
+// P1 Press {L1}+{SELECT} To Kill Enemy Racers
+patch=1,EE,200C0250,extended,52200001
+
+[P1 Press {L1}+{SELECT} To Kill Enemy Racers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Kill Enemy Racers
+// P1 Press {L1}+{SELECT} To Kill Enemy Racers
+patch=1,EE,200C0254,extended,44800800
+
+[P1 Press {L1}+{SELECT} To Kill Enemy Racers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Kill Enemy Racers
+// P1 Press {L1}+{SELECT} To Kill Enemy Racers
+patch=1,EE,200C0258,extended,E4610320
+
+[P1 Press {L1}+{SELECT} To Kill Enemy Racers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Kill Enemy Racers
+// P1 Press {L1}+{SELECT} To Kill Enemy Racers
+patch=1,EE,200C025C,extended,03E00008
+
+[P1 Press {L1}+{SELECT} To Kill Enemy Racers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Kill Enemy Racers
+// P1 Press {L1}+{SELECT} To Kill Enemy Racers
+patch=1,EE,200C0260,extended,44800000
+
+[P1 Press {L1}+{SELECT} To Kill Enemy Racers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Kill Enemy Racers
+// P1 Press {L1}+{SELECT} To Kill Enemy Racers
+patch=1,EE,D0892CC2,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Kill Enemy Racers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Kill Enemy Racers
+// P1 Press {L1}+{SELECT} To Kill Enemy Racers
+patch=1,EE,20255704,extended,0C030094
+
+[P1 Press {L1}+{SELECT} To Kill Enemy Racers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Kill Enemy Racers
+// P1 Press {L1}+{SELECT} To Kill Enemy Racers
+patch=1,EE,D0892CC2,extended,0000FFFF
+
+[P1 Press {L1}+{SELECT} To Kill Enemy Racers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Kill Enemy Racers
+// P1 Press {L1}+{SELECT} To Kill Enemy Racers
+patch=1,EE,20255704,extended,44800000
+
+[Access All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Cars
+// Access All Cars
+patch=1,EE,20466628,extended,24020001
+
+[Access All Fighters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Fighters
+// Access All Fighters
+patch=1,EE,20466D04,extended,24020001
+
+[Access All Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Missions
+// Access All Missions
+patch=1,EE,2048E454,extended,24020001
+
+[Access All Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Missions
+// Access All Missions
+patch=1,EE,2047C838,extended,24020001
+
+[Access All Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Missions
+// Access All Missions
+patch=1,EE,2047C720,extended,24020001
+
+[Western-Whip Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Western-Whip Race
+// Western-Whip Race
+patch=1,EE,2079F58C,extended,00000001
+
+[Western Payback-Whip Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Western Payback-Whip Race
+// Western Payback-Whip Race
+patch=1,EE,2079F594,extended,00000001
+
+[Western-Death Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Western-Death Race
+// Western-Death Race
+patch=1,EE,2079F59C,extended,00000001
+
+[Western Payback-Mine Field]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Western Payback-Mine Field
+// Western Payback-Mine Field
+patch=1,EE,2079F5B4,extended,00000001
+
+[The Jungle-Survivor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Jungle-Survivor
+// The Jungle-Survivor
+patch=1,EE,2079F5F4,extended,00000001
+
+[Grave Digga Payback-Death Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grave Digga Payback-Death Race
+// Grave Digga Payback-Death Race
+patch=1,EE,2079F5D4,extended,00000001
+
+[The Coast-Escort]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Coast-Escort
+// The Coast-Escort
+patch=1,EE,2079F754,extended,00000001
+
+[Grave Digga-Whip Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grave Digga-Whip Race
+// Grave Digga-Whip Race
+patch=1,EE,2079F5BC,extended,00000001
+
+[Grave Digga Payback-Whip Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grave Digga Payback-Whip Race
+// Grave Digga Payback-Whip Race
+patch=1,EE,2079F5C4,extended,00000001
+
+[Western Payback-Death Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Western Payback-Death Race
+// Western Payback-Death Race
+patch=1,EE,2079F5A4,extended,00000001
+
+[The Lot-Domination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Lot-Domination
+// The Lot-Domination
+patch=1,EE,2079F764,extended,00000001
+
+[Grave Digga-Death Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grave Digga-Death Race
+// Grave Digga-Death Race
+patch=1,EE,2079F5CC,extended,00000001
+
+[The Jungle-Death Match Warefare]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Jungle-Death Match Warefare
+// The Jungle-Death Match Warefare
+patch=1,EE,2079F5FC,extended,00000001
+
+[Po-Po Chase-Strickly Business]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Po-Po Chase-Strickly Business
+// Po-Po Chase-Strickly Business
+patch=1,EE,2079F56C,extended,00000001
+
+[The Sticks-Whip Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Sticks-Whip Race
+// The Sticks-Whip Race
+patch=1,EE,2079F60C,extended,00000001
+
+[Rip Ville-Death Match]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rip Ville-Death Match
+// Rip Ville-Death Match
+patch=1,EE,2079F66C,extended,00000001
+
+[The Sticks Payback-Whip Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Sticks Payback-Whip Race
+// The Sticks Payback-Whip Race
+patch=1,EE,2079F614,extended,00000001
+
+[The Sticks-Death Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Sticks-Death Race
+// The Sticks-Death Race
+patch=1,EE,2079F61C,extended,00000001
+
+[Boondocks Payback-Mine Field]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boondocks Payback-Mine Field
+// Boondocks Payback-Mine Field
+patch=1,EE,2079F664,extended,00000001
+
+[Rip Ville-Survivor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rip Ville-Survivor
+// Rip Ville-Survivor
+patch=1,EE,2079F674,extended,00000001
+
+[Boondocks Payback-Death Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boondocks Payback-Death Race
+// Boondocks Payback-Death Race
+patch=1,EE,2079F654,extended,00000001
+
+[The Coast-Bomb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Coast-Bomb
+// The Coast-Bomb
+patch=1,EE,2079F74C,extended,00000001
+
+[Boondocks-Whip Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boondocks-Whip Race
+// Boondocks-Whip Race
+patch=1,EE,2079F63C,extended,00000001
+
+[Rip Ville-Death Match Warefare]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rip Ville-Death Match Warefare
+// Rip Ville-Death Match Warefare
+patch=1,EE,2079F67C,extended,00000001
+
+[Boondocks Payback-Whip Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boondocks Payback-Whip Race
+// Boondocks Payback-Whip Race
+patch=1,EE,2079F644,extended,00000001
+
+[Boondocks-Death Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boondocks-Death Race
+// Boondocks-Death Race
+patch=1,EE,2079F64C,extended,00000001
+
+[The Sticks Payback-Minefield]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Sticks Payback-Minefield
+// The Sticks Payback-Minefield
+patch=1,EE,2079F634,extended,00000001
+
+[Rip Ville-Survivor Bulletproof]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rip Ville-Survivor Bulletproof
+// Rip Ville-Survivor Bulletproof
+patch=1,EE,2079F684,extended,00000001
+
+[The Sticks Payback-Death Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Sticks Payback-Death Race
+// The Sticks Payback-Death Race
+patch=1,EE,2079F624,extended,00000001
+
+[The Lot-Gun Play]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Lot-Gun Play
+// The Lot-Gun Play
+patch=1,EE,2079F76C,extended,00000001
+
+[Po-Po Chase-Going All Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Po-Po Chase-Going All Out
+// Po-Po Chase-Going All Out
+patch=1,EE,2079F574,extended,00000001
+
+[Grand City-Whip Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grand City-Whip Race
+// Grand City-Whip Race
+patch=1,EE,2079F68C,extended,00000001
+
+[Dillinger Ville-Death Match]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dillinger Ville-Death Match
+// Dillinger Ville-Death Match
+patch=1,EE,2079F6EC,extended,00000001
+
+[Grand City Payback-Whip Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grand City Payback-Whip Race
+// Grand City Payback-Whip Race
+patch=1,EE,2079F694,extended,00000001
+
+[Clip City Payback-Death Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Clip City Payback-Death Race
+// Clip City Payback-Death Race
+patch=1,EE,2079F6D4,extended,00000001
+
+[Clip City Payback-Mine Field]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Clip City Payback-Mine Field
+// Clip City Payback-Mine Field
+patch=1,EE,2079F6E4,extended,00000001
+
+[Dillinger Ville-Survivor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dillinger Ville-Survivor
+// Dillinger Ville-Survivor
+patch=1,EE,2079F6F4,extended,00000001
+
+[Grand City Payback-Death Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grand City Payback-Death Race
+// Grand City Payback-Death Race
+patch=1,EE,2079F6A4,extended,00000001
+
+[The Coast-The Hit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Coast-The Hit
+// The Coast-The Hit
+patch=1,EE,2079F75C,extended,00000001
+
+[Clip City-Whip Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Clip City-Whip Race
+// Clip City-Whip Race
+patch=1,EE,2079F6BC,extended,00000001
+
+[Dillinger Ville-Death Match Warefare]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dillinger Ville-Death Match Warefare
+// Dillinger Ville-Death Match Warefare
+patch=1,EE,2079F6FC,extended,00000001
+
+[Clip City Payback-Whip Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Clip City Payback-Whip Race
+// Clip City Payback-Whip Race
+patch=1,EE,2079F6C4,extended,00000001
+
+[Grand City-Death Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grand City-Death Race
+// Grand City-Death Race
+patch=1,EE,2079F69C,extended,00000001
+
+[Grand City Payback-Mine Field]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grand City Payback-Mine Field
+// Grand City Payback-Mine Field
+patch=1,EE,2079F6B4,extended,00000001
+
+[Dillinger Ville-Survivor Bulletproof]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dillinger Ville-Survivor Bulletproof
+// Dillinger Ville-Survivor Bulletproof
+patch=1,EE,2079F704,extended,00000001
+
+[Clip City-Death Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Clip City-Death Race
+// Clip City-Death Race
+patch=1,EE,2079F6CC,extended,00000001
+
+[The Lot-Predator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Lot-Predator
+// The Lot-Predator
+patch=1,EE,2079F774,extended,00000001
+
+[Po-Po Chase-Mobbin']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Po-Po Chase-Mobbin'
+// Po-Po Chase-Mobbin'
+patch=1,EE,2079F57C,extended,00000001
+
+[The Hills-Whip Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Hills-Whip Race
+// The Hills-Whip Race
+patch=1,EE,2079F70C,extended,00000001
+
+[Rollin Heights-Death Match]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rollin Heights-Death Match
+// Rollin Heights-Death Match
+patch=1,EE,2079F73C,extended,00000001
+
+[The Hills Payback-Whip Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Hills Payback-Whip Race
+// The Hills Payback-Whip Race
+patch=1,EE,2079F714,extended,00000001
+
+[The Hills-Death Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Hills-Death Race
+// The Hills-Death Race
+patch=1,EE,2079F71C,extended,00000001
+
+[Rollin Heights-Survivor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rollin Heights-Survivor
+// Rollin Heights-Survivor
+patch=1,EE,2079F744,extended,00000001
+
+[The Hills Payback-Death Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Hills Payback-Death Race
+// The Hills Payback-Death Race
+patch=1,EE,2079F724,extended,00000001
+
+[The Lot-The Hard Way]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Lot-The Hard Way
+// The Lot-The Hard Way
+patch=1,EE,2079F77C,extended,00000001
+
+[Po-Po Chase-Ride Or Die]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Po-Po Chase-Ride Or Die
+// Po-Po Chase-Ride Or Die
+patch=1,EE,2079F584,extended,00000001
+
+[Western-Mine Field]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Western-Mine Field
+// Western-Mine Field
+patch=1,EE,2079F5AC,extended,00000001
+
+[Grave Digga-Mine Field]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grave Digga-Mine Field
+// Grave Digga-Mine Field
+patch=1,EE,2079F5DC,extended,00000001
+
+[Grave Digga Payback-Mine Field]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grave Digga Payback-Mine Field
+// Grave Digga Payback-Mine Field
+patch=1,EE,2079F5E4,extended,00000001
+
+[The Jungle-Death Match]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Jungle-Death Match
+// The Jungle-Death Match
+patch=1,EE,2079F5EC,extended,00000001
+
+[The Jungle-Survivor Bulletproof]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Jungle-Survivor Bulletproof
+// The Jungle-Survivor Bulletproof
+patch=1,EE,2079F604,extended,00000001
+
+[The Sticks-Mine Field]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Sticks-Mine Field
+// The Sticks-Mine Field
+patch=1,EE,2079F62C,extended,00000001
+
+[Boondocks-Mine Field]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boondocks-Mine Field
+// Boondocks-Mine Field
+patch=1,EE,2079F65C,extended,00000001
+
+[Grand City-Mine Field]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grand City-Mine Field
+// Grand City-Mine Field
+patch=1,EE,2079F6AC,extended,00000001
+
+[Clip City-Mine Field]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Clip City-Mine Field
+// Clip City-Mine Field
+patch=1,EE,2079F6DC,extended,00000001
+
+[The Hills-Mine Field]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Hills-Mine Field
+// The Hills-Mine Field
+patch=1,EE,2079F72C,extended,00000001
+
+[The Hills Payback-Mine Field]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Hills Payback-Mine Field
+// The Hills Payback-Mine Field
+patch=1,EE,2079F734,extended,00000001
+
+[All Missions Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Missions Completed
+// All Missions Completed
+patch=1,EE,4079F56C,extended,00420002
+
+[All Missions Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Missions Completed
+// All Missions Completed
+patch=1,EE,00000001,extended,00000000

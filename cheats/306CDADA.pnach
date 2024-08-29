@@ -1,0 +1,193 @@
+gametitle=Haunting Ground [UNKNOWN] [306CDADA]
+
+[Bigger jumps]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Bigger jumps
+// Bigger jumps
+patch=1,EE,D0A10282,extended,0050BFFF
+
+[Bigger jumps]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Bigger jumps
+// Bigger jumps
+patch=1,EE,20B69F08,extended,10000000
+
+[Max money]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max money
+// Max money
+patch=1,EE,20B6B260,extended,05F00000
+
+[Max health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max health
+// Max health
+patch=1,EE,20B6B240,extended,47C34F80
+
+[Infinite health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health
+// Infinite health
+patch=1,EE,20B6B528,extended,47C34F80
+
+[Max mana]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max mana
+// Max mana
+patch=1,EE,20B6B284,extended,0001869F
+
+[Infinite mana]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite mana
+// Infinite mana
+patch=1,EE,20B6B288,extended,0001869F
+
+[Max hearts]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max hearts
+// Max hearts
+patch=1,EE,20B6B244,extended,47C34F80
+
+[Infinite hearts]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite hearts
+// Infinite hearts
+patch=1,EE,20B6B248,extended,47C34F80
+
+[Infinite hearts]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite hearts
+// Infinite hearts
+patch=1,EE,20B6B52C,extended,47C34F80
+
+[Full Skill List]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Full Skill List
+// Full Skill List
+patch=1,EE,20B6B4E4,extended,FFFFFFFF
+
+[Unlock All items]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock All items
+// Unlock All items
+patch=1,EE,40B6B290,extended,00220001
+
+[Unlock All items]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock All items
+// Unlock All items
+patch=1,EE,00010001,extended,00000001
+
+[Max items]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max items
+// Max items
+patch=1,EE,40B6B334,extended,001B0001
+
+[Max items]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max items
+// Max items
+patch=1,EE,270F002A,extended,00000001
+
+[Max items]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max items
+// Max items
+patch=1,EE,20B6B3A0,extended,270F00AC
+
+[Max items]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max items
+// Max items
+patch=1,EE,20B6B3A4,extended,270F00AF
+
+[Unlock all events items]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock all events items
+// Unlock all events items
+patch=1,EE,40B6B3E0,extended,00150001
+
+[Unlock all events items]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock all events items
+// Unlock all events items
+patch=1,EE,00010055,extended,00000001
+
+[Unlock all events items]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock all events items
+// Unlock all events items
+patch=1,EE,20B6B434,extended,00010072
+
+[Unlock all events items]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock all events items
+// Unlock all events items
+patch=1,EE,20B6B438,extended,00010073
+
+[Unlock all events items]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock all events items
+// Unlock all events items
+patch=1,EE,40B6B43C,extended,00080001
+
+[Unlock all events items]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock all events items
+// Unlock all events items
+patch=1,EE,00010033,extended,00000001
+
+[Unlock all orbs and relics]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock all orbs and relics
+// Unlock all orbs and relics
+patch=1,EE,40B6B4A0,extended,00110001
+
+[Unlock all orbs and relics]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock all orbs and relics
+// Unlock all orbs and relics
+patch=1,EE,0001007F,extended,00000001
+
+[Leon - giant]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Leon - giant
+// Leon - giant
+patch=1,EE,20B6B1B0,extended,40000000
+
+[Leon - giant]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Leon - giant
+// Leon - giant
+patch=1,EE,20B6B1B4,extended,40000000
+
+[Leon - giant]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Leon - giant
+// Leon - giant
+patch=1,EE,20B6B1B8,extended,40000000
+
+[Leon - 2D]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Leon - 2D
+// Leon - 2D
+patch=1,EE,20B6B1B8,extended,3E000000
+
+[Leon - small]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Leon - small
+// Leon - small
+patch=1,EE,20B6B1B0,extended,3F000000
+
+[Leon - small]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Leon - small
+// Leon - small
+patch=1,EE,20B6B1B4,extended,3F000000
+
+[Leon - small]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Leon - small
+// Leon - small
+patch=1,EE,20B6B1B8,extended,3F000000

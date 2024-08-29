@@ -1,0 +1,163 @@
+gametitle=Firefighter F.D. 18 [SLUS-20724] [35092D61]
+
+[Have All Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Medals
+// Have All Medals
+patch=1,EE,902A4EFC,extended,0C0A4E64
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,205C4F94,extended,0000EA60
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,205C4F98,extended,0000EA60
+
+[Infinite HP (Survivors)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP (Survivors)
+// Infinite HP (Survivors)
+patch=1,EE,201B6BD8,extended,00000000
+
+[Max Impulse Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Impulse Ammo
+// Max Impulse Ammo
+patch=1,EE,205C4FB0,extended,00000063
+
+[Infinite Impulse Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Impulse Ammo
+// Infinite Impulse Ammo
+patch=1,EE,205C4FB4,extended,00000063
+
+[Infinite NZL]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite NZL
+// Infinite NZL
+patch=1,EE,205C4FC4,extended,00000003
+
+[First-Aid Kit SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=First-Aid Kit SP
+// First-Aid Kit SP
+patch=1,EE,005A5179,extended,00000063
+
+[First-Aid Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=First-Aid Kit
+// First-Aid Kit
+patch=1,EE,005A517A,extended,00000063
+
+[Impulse Tank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Impulse Tank
+// Impulse Tank
+patch=1,EE,005A517C,extended,00000063
+
+[Bomb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bomb
+// Bomb
+patch=1,EE,005A517D,extended,00000063
+
+[Fire Extinguisher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fire Extinguisher
+// Fire Extinguisher
+patch=1,EE,005A517E,extended,00000063
+
+[Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Key
+// Key
+patch=1,EE,005A517F,extended,00000063
+
+[Keycard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Keycard
+// Keycard
+patch=1,EE,005A5180,extended,00000063
+
+[Drink]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Drink
+// Drink
+patch=1,EE,005A5181,extended,00000063
+
+[Hose]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hose
+// Hose
+patch=1,EE,005A5182,extended,00000001
+
+[Impulse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Impulse
+// Impulse
+patch=1,EE,005A5183,extended,00000001
+
+[Axe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe
+// Axe
+patch=1,EE,005A5184,extended,00000001
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,205A511C,extended,00000000
+
+[Max Extinguish Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Extinguish Points
+// Max Extinguish Points
+patch=1,EE,205A5120,extended,0098967F
+
+[No Extinguish Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Extinguish Points
+// No Extinguish Points
+patch=1,EE,205A5120,extended,00000000
+
+[Max Continues Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Continues Used
+// Max Continues Used
+patch=1,EE,205A5124,extended,000003E7
+
+[No Continues Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Continues Used
+// No Continues Used
+patch=1,EE,205A5124,extended,00000000
+
+[Max People Rescued-Unarmed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max People Rescued-Unarmed
+// Max People Rescued-Unarmed
+patch=1,EE,205A5128,extended,000003E7
+
+[No People Rescued-Unarmed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No People Rescued-Unarmed
+// No People Rescued-Unarmed
+patch=1,EE,205A5128,extended,00000000
+
+[Max People Rescued-Injured]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max People Rescued-Injured
+// Max People Rescued-Injured
+patch=1,EE,205A512C,extended,000003E7
+
+[No People Rescued-Injured]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No People Rescued-Injured
+// No People Rescued-Injured
+patch=1,EE,205A512C,extended,00000000

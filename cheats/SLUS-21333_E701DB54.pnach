@@ -1,0 +1,325 @@
+gametitle=World Poker Tour [SLUS-21333] [E701DB54]
+
+[Absorb Less Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Absorb Less Damage
+// Absorb Less Damage
+patch=1,EE,9032D044,extended,0C0D7EE1
+
+[Quick Money Gain P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Money Gain P1
+// Quick Money Gain P1
+patch=1,EE,1093C660,extended,0000FFFF
+
+[Max Money P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money P1
+// Max Money P1
+patch=1,EE,2093C660,extended,05F5E0FF
+
+[No Money P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money P1
+// No Money P1
+patch=1,EE,2093C660,extended,00000000
+
+[Quick Money Gain P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Money Gain P2
+// Quick Money Gain P2
+patch=1,EE,1093C760,extended,0000FFFF
+
+[Max Money P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money P2
+// Max Money P2
+patch=1,EE,2093C760,extended,05F5E0FF
+
+[No Money P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money P2
+// No Money P2
+patch=1,EE,2093C760,extended,00000000
+
+[Quick Money Gain P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Money Gain P3
+// Quick Money Gain P3
+patch=1,EE,1093C860,extended,0000FFFF
+
+[Max Money P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money P3
+// Max Money P3
+patch=1,EE,2093C860,extended,05F5E0FF
+
+[No Money P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money P3
+// No Money P3
+patch=1,EE,2093C860,extended,00000000
+
+[Quick Money Gain P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Money Gain P4
+// Quick Money Gain P4
+patch=1,EE,1093C960,extended,0000FFFF
+
+[Max Money P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money P4
+// Max Money P4
+patch=1,EE,2093C960,extended,05F5E0FF
+
+[No Money P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money P4
+// No Money P4
+patch=1,EE,2093C960,extended,00000000
+
+[Quick Money Gain P5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Money Gain P5
+// Quick Money Gain P5
+patch=1,EE,1093CA60,extended,0000FFFF
+
+[Max Money P5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money P5
+// Max Money P5
+patch=1,EE,2093CA60,extended,05F5E0FF
+
+[No Money P5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money P5
+// No Money P5
+patch=1,EE,2093CA60,extended,00000000
+
+[Quick Money Gain P6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Money Gain P6
+// Quick Money Gain P6
+patch=1,EE,1093CB60,extended,0000FFFF
+
+[Max Money P6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money P6
+// Max Money P6
+patch=1,EE,2093CB60,extended,05F5E0FF
+
+[No Money P6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money P6
+// No Money P6
+patch=1,EE,2093CB60,extended,00000000
+
+[Quick Money Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Money Gain
+// Quick Money Gain
+patch=1,EE,109150A4,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,209150A4,extended,05F5E0FF
+
+[No Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money
+// No Money
+patch=1,EE,209150A4,extended,00000000
+
+[Max Hands Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Hands Played
+// Max Hands Played
+patch=1,EE,209150B4,extended,0098967F
+
+[No Hands Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Hands Played
+// No Hands Played
+patch=1,EE,209150B4,extended,00000000
+
+[Max Hands Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Hands Won
+// Max Hands Won
+patch=1,EE,209150C0,extended,0098967F
+
+[No Hands Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Hands Won
+// No Hands Won
+patch=1,EE,209150C0,extended,00000000
+
+[Max Showdowns Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Showdowns Won
+// Max Showdowns Won
+patch=1,EE,209150C0,extended,0098967F
+
+[No Showdowns Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Showdowns Won
+// No Showdowns Won
+patch=1,EE,209150C0,extended,00000000
+
+[Quick Money Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Money Gain
+// Quick Money Gain
+patch=1,EE,109154AC,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,209154AC,extended,05F5E0FF
+
+[No Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money
+// No Money
+patch=1,EE,209154AC,extended,00000000
+
+[No Hands Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Hands Played
+// No Hands Played
+patch=1,EE,209154BC,extended,00000000
+
+[Max Hands Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Hands Won
+// Max Hands Won
+patch=1,EE,209154C8,extended,0098967F
+
+[No Hands Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Hands Won
+// No Hands Won
+patch=1,EE,209154C8,extended,00000000
+
+[Max Showdowns Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Showdowns Won
+// Max Showdowns Won
+patch=1,EE,209154C8,extended,0098967F
+
+[No Showdowns Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Showdowns Won
+// No Showdowns Won
+patch=1,EE,209154C8,extended,00000000
+
+[Quick Money Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Money Gain
+// Quick Money Gain
+patch=1,EE,109158B4,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,209158B4,extended,05F5E0FF
+
+[No Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money
+// No Money
+patch=1,EE,209158B4,extended,00000000
+
+[Max Hands Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Hands Played
+// Max Hands Played
+patch=1,EE,209158C4,extended,0098967F
+
+[No Hands Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Hands Played
+// No Hands Played
+patch=1,EE,209158C4,extended,00000000
+
+[Max Hands Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Hands Won
+// Max Hands Won
+patch=1,EE,209158D0,extended,0098967F
+
+[No Hands Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Hands Won
+// No Hands Won
+patch=1,EE,209158D0,extended,00000000
+
+[Max Showdowns Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Showdowns Won
+// Max Showdowns Won
+patch=1,EE,209158D0,extended,0098967F
+
+[No Showdowns Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Showdowns Won
+// No Showdowns Won
+patch=1,EE,209158D0,extended,00000000
+
+[Quick Money Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Money Gain
+// Quick Money Gain
+patch=1,EE,10915CBC,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,20915CBC,extended,05F5E0FF
+
+[No Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money
+// No Money
+patch=1,EE,20915CBC,extended,00000000
+
+[Max Hands Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Hands Played
+// Max Hands Played
+patch=1,EE,20915CCC,extended,0098967F
+
+[No Hands Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Hands Played
+// No Hands Played
+patch=1,EE,20915CCC,extended,00000000
+
+[Max Hands Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Hands Won
+// Max Hands Won
+patch=1,EE,20915CD8,extended,0098967F
+
+[No Hands Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Hands Won
+// No Hands Won
+patch=1,EE,20915CD8,extended,00000000
+
+[Max Showdowns Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Showdowns Won
+// Max Showdowns Won
+patch=1,EE,20915CD8,extended,0098967F
+
+[No Showdowns Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Showdowns Won
+// No Showdowns Won
+patch=1,EE,20915CD8,extended,00000000

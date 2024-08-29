@@ -1,0 +1,37 @@
+gametitle=Shadow Hearts - From The New World [UNKNOWN] [CAAEC49C]
+
+[All Levels Available]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Levels Available
+// All Levels Available
+patch=1,EE,201D723C,extended,24020001
+
+[God Mode]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=God Mode
+// God Mode
+patch=1,EE,202768F8,extended,24020001
+
+[Display Coordinates]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Display Coordinates
+// Display Coordinates
+patch=1,EE,2047DC44,extended,24020001
+
+[Display Spread Circle]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Display Spread Circle
+// Display Spread Circle
+patch=1,EE,204791D4,extended,24020001
+
+[Display Lock Circle]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Display Lock Circle
+// Display Lock Circle
+patch=1,EE,20479118,extended,24020001
+
+[Infinite Ammo/No Reload]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Ammo/No Reload
+// Infinite Ammo/No Reload
+patch=1,EE,2028B670,extended,00000000

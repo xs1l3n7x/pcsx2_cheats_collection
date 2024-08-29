@@ -1,0 +1,505 @@
+gametitle=Suikoden IV [SLUS-20979] [E2984005]
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,9048B4D0,extended,00832021
+
+[Max Potch After Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Potch After Battle
+// Max Potch After Battle
+patch=1,EE,202BC788,extended,00000000
+
+[Max/Infinite Potch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max/Infinite Potch
+// Max/Infinite Potch
+patch=1,EE,20535EF8,extended,05F5E0FF
+
+[All Characters Level 99 After Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Characters Level 99 After Battle
+// All Characters Level 99 After Battle
+patch=1,EE,202BA4D8,extended,00608821
+
+[Always Low Game Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Game Time
+// Always Low Game Time
+patch=1,EE,20532880,extended,00000000
+
+[Infinite Item Use]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Item Use
+// Infinite Item Use
+patch=1,EE,202C3078,extended,00000000
+
+[Ultra Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultra Quick Exp Gain
+// Ultra Quick Exp Gain
+patch=1,EE,201A023C,extended,A6220006
+
+[Ultra Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultra Quick Exp Gain
+// Ultra Quick Exp Gain
+patch=1,EE,201A0240,extended,24020001
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,201A023C,extended,A6220006
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,201A0240,extended,2402000A
+
+[Rush Always Available]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rush Always Available
+// Rush Always Available
+patch=1,EE,20535F04,extended,3F800000
+
+[P1 Press {R3} To Disable Random Battles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3} To Disable Random Battles
+// P1 Press {R3} To Disable Random Battles
+patch=1,EE,D05BC402,extended,0000FFFB
+
+[P1 Press {R3} To Disable Random Battles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3} To Disable Random Battles
+// P1 Press {R3} To Disable Random Battles
+patch=1,EE,202D5C84,extended,24020000
+
+[P1 Press {L3} To Enable Random Battles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} To Enable Random Battles
+// P1 Press {L3} To Enable Random Battles
+patch=1,EE,D05BC402,extended,0000FFFD
+
+[P1 Press {L3} To Enable Random Battles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} To Enable Random Battles
+// P1 Press {L3} To Enable Random Battles
+patch=1,EE,202D5C84,extended,0C0B575C
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,200C04E0,extended,3C01000C
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,200C04E4,extended,80220700
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,200C04E8,extended,1440000E
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,200C04EC,extended,24020001
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,200C04F0,extended,A0220700
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,200C04F8,extended,03E08021
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,200C04FC,extended,24110001
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,200C0500,extended,24120063
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,200C0504,extended,02202021
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,200C050C,extended,0C0B0B64
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,200C0510,extended,02402821
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,200C0514,extended,2E220215
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,200C0518,extended,1440FFFA
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,200C051C,extended,26310001
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,200C0520,extended,0200F821
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,200C0524,extended,03E00008
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,200C0528,extended,0000102D
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,202D5794,extended,0C030138
+
+[Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 1
+// Character 1
+patch=1,EE,D0535E60,extended,00100000
+
+[Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 1
+// Character 1
+patch=1,EE,201B8D60,extended,000003E7
+
+[Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 2
+// Character 2
+patch=1,EE,D0535E62,extended,00100000
+
+[Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 2
+// Character 2
+patch=1,EE,201B8E3C,extended,000003E7
+
+[Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 3
+// Character 3
+patch=1,EE,D0535E64,extended,00100000
+
+[Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 3
+// Character 3
+patch=1,EE,201B8F18,extended,000003E7
+
+[Character 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 4
+// Character 4
+patch=1,EE,D0535E66,extended,00100000
+
+[Character 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 4
+// Character 4
+patch=1,EE,201B8FF4,extended,000003E7
+
+[Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 1
+// Character 1
+patch=1,EE,201B8D68,extended,09090909
+
+[Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 2
+// Character 2
+patch=1,EE,201B8E44,extended,09090909
+
+[Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 3
+// Character 3
+patch=1,EE,201B8F20,extended,09090909
+
+[Character 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 4
+// Character 4
+patch=1,EE,201B8FFC,extended,09090909
+
+[All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Characters
+// All Characters
+patch=1,EE,401B8D68,extended,00040037
+
+[All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Characters
+// All Characters
+patch=1,EE,09090909,extended,00000000
+
+[Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 1
+// Character 1
+patch=1,EE,501B8D64,extended,00000004
+
+[Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 1
+// Character 1
+patch=1,EE,001B8D68,extended,00000000
+
+[Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 2
+// Character 2
+patch=1,EE,501B8E40,extended,00000004
+
+[Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 2
+// Character 2
+patch=1,EE,001B8E44,extended,00000000
+
+[Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 3
+// Character 3
+patch=1,EE,501B8F1C,extended,00000004
+
+[Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 3
+// Character 3
+patch=1,EE,001B8F20,extended,00000000
+
+[Character 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 4
+// Character 4
+patch=1,EE,501B8FF8,extended,00000004
+
+[Character 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 4
+// Character 4
+patch=1,EE,001B8FFC,extended,00000000
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,20532968,extended,000182B7
+
+[Max Weapon LVL]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Weapon LVL
+// Max Weapon LVL
+patch=1,EE,0053296C,extended,0000000F
+
+[Max ATK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max ATK
+// Max ATK
+patch=1,EE,1053296E,extended,000003E7
+
+[Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DEF
+// Max DEF
+patch=1,EE,10532970,extended,000003E7
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,10532972,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,10532986,extended,000003E7
+
+[Max STR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max STR
+// Max STR
+patch=1,EE,10532988,extended,000003E7
+
+[Max SKL]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max SKL
+// Max SKL
+patch=1,EE,1053298A,extended,000003E7
+
+[Max MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MAG
+// Max MAG
+patch=1,EE,1053298C,extended,000003E7
+
+[Max EVA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EVA
+// Max EVA
+patch=1,EE,1053298E,extended,000003E7
+
+[Max PDF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max PDF
+// Max PDF
+patch=1,EE,10532990,extended,000003E7
+
+[Max MDF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MDF
+// Max MDF
+patch=1,EE,10532992,extended,000003E7
+
+[Max SPD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max SPD
+// Max SPD
+patch=1,EE,10532994,extended,000003E7
+
+[Max LUC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LUC
+// Max LUC
+patch=1,EE,10532996,extended,000003E7
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,40532988,extended,00030001
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,03E703E7,extended,00000000
+
+[Max Fire Rune Pieces]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fire Rune Pieces
+// Max Fire Rune Pieces
+patch=1,EE,005329AC,extended,00000063
+
+[Max Wind Rune Pieces]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wind Rune Pieces
+// Max Wind Rune Pieces
+patch=1,EE,005329AD,extended,00000063
+
+[Max Earth Rune Pieces]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Earth Rune Pieces
+// Max Earth Rune Pieces
+patch=1,EE,005329AE,extended,00000063
+
+[Max Lightning Rune Pieces]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Lightning Rune Pieces
+// Max Lightning Rune Pieces
+patch=1,EE,005329AF,extended,00000063
+
+[Max Water Rune Pieces]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Water Rune Pieces
+// Max Water Rune Pieces
+patch=1,EE,005329B0,extended,00000063
+
+[Max Rune LVL 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rune LVL 1
+// Max Rune LVL 1
+patch=1,EE,005329B1,extended,00000009
+
+[Infinite Rune LVL 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Rune LVL 1
+// Infinite Rune LVL 1
+patch=1,EE,005329B5,extended,00000009
+
+[Max Rune LVL 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rune LVL 2
+// Max Rune LVL 2
+patch=1,EE,005329B2,extended,00000009
+
+[Infinite Rune LVL 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Rune LVL 2
+// Infinite Rune LVL 2
+patch=1,EE,005329B6,extended,00000009
+
+[Max Rune LVL 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rune LVL 3
+// Max Rune LVL 3
+patch=1,EE,005329B3,extended,00000009
+
+[Infinite Rune LVL 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Rune LVL 3
+// Infinite Rune LVL 3
+patch=1,EE,005329B7,extended,00000009
+
+[Max Rune LVL 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rune LVL 4
+// Max Rune LVL 4
+patch=1,EE,005329B4,extended,00000009
+
+[Infinite Rune LVL 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Rune LVL 4
+// Infinite Rune LVL 4
+patch=1,EE,005329B8,extended,00000009

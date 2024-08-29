@@ -1,0 +1,91 @@
+gametitle=Heroes Of The Pacific [SLUS-20943] [83FB515E]
+
+[Infinite Raise Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Raise Control
+// Infinite Raise Control
+patch=1,EE,901597B0,extended,00832021
+
+[Infinite Warspeed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Warspeed
+// Infinite Warspeed
+patch=1,EE,2021EA24,extended,00000000
+
+[Infinite Torpedos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Torpedos
+// Infinite Torpedos
+patch=1,EE,202B0F5C,extended,00000000
+
+[Infinite Bombs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Bombs
+// Infinite Bombs
+patch=1,EE,202B1570,extended,00000000
+
+[Infinite Rockets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Rockets
+// Infinite Rockets
+patch=1,EE,202B1C3C,extended,00000000
+
+[Rapid Fire]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Fire
+// Rapid Fire
+patch=1,EE,202B26E0,extended,00000000
+
+[Always Low Mission Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Mission Time
+// Always Low Mission Time
+patch=1,EE,202292E0,extended,AE000040
+
+[Buying Plane Upgrades Doesnt Decrease Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Plane Upgrades Doesnt Decrease Points
+// Buying Plane Upgrades Doesnt Decrease Points
+patch=1,EE,2054DB94,extended,00000000
+
+[Buying Plane Upgrades Increases Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Plane Upgrades Increases Points
+// Buying Plane Upgrades Increases Points
+patch=1,EE,2054DB8C,extended,00701021
+
+[Access More Missions/Planes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access More Missions/Planes
+// Access More Missions/Planes
+patch=1,EE,20731188,extended,00000001
+
+[Infinite Plane Upgrade Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Plane Upgrade Points
+// Infinite Plane Upgrade Points
+patch=1,EE,10A18050,extended,0000FFFF
+
+[Max Plane Upgrade Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Plane Upgrade Points
+// Max Plane Upgrade Points
+patch=1,EE,20A18050,extended,05F5E0FF
+
+[Invulnerability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invulnerability
+// Invulnerability
+patch=1,EE,2071A9B0,extended,00000001
+
+[Max Warspeed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Warspeed
+// Max Warspeed
+patch=1,EE,20711A00,extended,00000001
+
+[Infinite Warspeed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Warspeed
+// Infinite Warspeed
+patch=1,EE,20711A08,extended,00000001

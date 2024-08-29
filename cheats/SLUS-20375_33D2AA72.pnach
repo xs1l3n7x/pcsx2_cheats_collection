@@ -1,0 +1,187 @@
+gametitle=Mister Mosquito [SLUS-20375] [33D2AA72]
+
+[Disable Alarm Sounding]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Alarm Sounding
+// Disable Alarm Sounding
+patch=1,EE,F0100008,extended,0010B68F
+
+[Have All Colors]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Colors
+// Have All Colors
+patch=1,EE,1038B4D8,extended,0000FFFF
+
+[Max Extra Tanks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Extra Tanks
+// Max Extra Tanks
+patch=1,EE,1038B610,extended,0000000F
+
+[Max Ex. B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ex. B
+// Max Ex. B
+patch=1,EE,1038B654,extended,00000050
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,103992FC,extended,00000028
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,10399300,extended,00000014
+
+[Suck Blood Quicker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suck Blood Quicker
+// Suck Blood Quicker
+patch=1,EE,2039931C,extended,42C80000
+
+[Max Rocket Gauge P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rocket Gauge P1
+// Max Rocket Gauge P1
+patch=1,EE,2066AA14,extended,42C80000
+
+[No Rocket Gauge P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Rocket Gauge P1
+// No Rocket Gauge P1
+patch=1,EE,2066AA10,extended,00000000
+
+[P1 Press {CROSS} For Hover Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Hover Mode
+// P1 Press {CROSS} For Hover Mode
+patch=1,EE,D038DEC2,extended,0000BFFF
+
+[P1 Press {CROSS} For Hover Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Hover Mode
+// P1 Press {CROSS} For Hover Mode
+patch=1,EE,20707456,extended,C3FA0000
+
+[Start With 50 Wins P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With 50 Wins P1
+// Start With 50 Wins P1
+patch=1,EE,D07085C0,extended,00000000
+
+[Start With 50 Wins P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With 50 Wins P1
+// Start With 50 Wins P1
+patch=1,EE,107085C0,extended,00000032
+
+[Start With 20 Wins P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With 20 Wins P1
+// Start With 20 Wins P1
+patch=1,EE,D07085C0,extended,00000000
+
+[Start With 20 Wins P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With 20 Wins P1
+// Start With 20 Wins P1
+patch=1,EE,107085C0,extended,00000014
+
+[Start With 10 Wins P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With 10 Wins P1
+// Start With 10 Wins P1
+patch=1,EE,D07085C0,extended,00000000
+
+[Start With 10 Wins P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With 10 Wins P1
+// Start With 10 Wins P1
+patch=1,EE,107085C0,extended,0000000A
+
+[Never Gain Wins P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Gain Wins P1
+// Never Gain Wins P1
+patch=1,EE,D07085C0,extended,00200002
+
+[Never Gain Wins P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Gain Wins P1
+// Never Gain Wins P1
+patch=1,EE,107085C0,extended,00000000
+
+[Max Rocket Gauge P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rocket Gauge P2
+// Max Rocket Gauge P2
+patch=1,EE,2066AA18,extended,42C80000
+
+[No Rocket Gauge P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Rocket Gauge P2
+// No Rocket Gauge P2
+patch=1,EE,2066AA18,extended,00000000
+
+[P2 Press {CROSS} For Hover Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {CROSS} For Hover Mode
+// P2 Press {CROSS} For Hover Mode
+patch=1,EE,D0391EC2,extended,0000BFFF
+
+[P2 Press {CROSS} For Hover Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {CROSS} For Hover Mode
+// P2 Press {CROSS} For Hover Mode
+patch=1,EE,207079D4,extended,C3FA0000
+
+[Start With 50 Wins P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With 50 Wins P2
+// Start With 50 Wins P2
+patch=1,EE,D07085C4,extended,00000000
+
+[Start With 50 Wins P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With 50 Wins P2
+// Start With 50 Wins P2
+patch=1,EE,107085C4,extended,00000032
+
+[Start With 20 Wins P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With 20 Wins P2
+// Start With 20 Wins P2
+patch=1,EE,D07085C4,extended,00000000
+
+[Start With 20 Wins P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With 20 Wins P2
+// Start With 20 Wins P2
+patch=1,EE,107085C4,extended,00000014
+
+[Start With 10 Wins P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With 10 Wins P2
+// Start With 10 Wins P2
+patch=1,EE,D07085C4,extended,00000000
+
+[Start With 10 Wins P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With 10 Wins P2
+// Start With 10 Wins P2
+patch=1,EE,107085C4,extended,0000000A
+
+[Never Gain Wins P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Gain Wins P2
+// Never Gain Wins P2
+patch=1,EE,D07085C4,extended,00200002
+
+[Never Gain Wins P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Gain Wins P2
+// Never Gain Wins P2
+patch=1,EE,107085C4,extended,00000000

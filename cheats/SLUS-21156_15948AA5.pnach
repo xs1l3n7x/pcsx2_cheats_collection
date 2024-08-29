@@ -1,0 +1,97 @@
+gametitle=Without Warning [SLUS-21156] [15948AA5]
+
+[Features Unlocked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Features Unlocked
+// Features Unlocked
+patch=1,EE,9035D8EC,extended,0C0DD175
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0220,extended,8C810010
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0224,extended,00400008
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0228,extended,AC810014
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20180D00,extended,0C030088
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,201B49D4,extended,00000000
+
+[Max Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo
+// Max Infinite Ammo
+patch=1,EE,201B49C8,extended,24030063
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,201B49C8,extended,00661821
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,201B7A1C,extended,00000000
+
+[Infinite Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Grenades
+// Infinite Grenades
+patch=1,EE,2016E29C,extended,00000000
+
+[Max Infinite Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Grenades
+// Max Infinite Grenades
+patch=1,EE,2016E294,extended,24020005
+
+[Extra Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Grenades
+// Extra Grenades
+patch=1,EE,1016E294,extended,00000001
+
+[Disable Bullet Explosion While Firing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Bullet Explosion While Firing
+// Disable Bullet Explosion While Firing
+patch=1,EE,201B7A64,extended,00000000
+
+[Weapons Can Zoom Forever]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weapons Can Zoom Forever
+// Weapons Can Zoom Forever
+patch=1,EE,10200F0E,extended,00001000
+
+[Weapons Can Zoom Forever]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weapons Can Zoom Forever
+// Weapons Can Zoom Forever
+patch=1,EE,20200F28,extended,00000000
+
+[God Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=God Mode
+// God Mode
+patch=1,EE,004A5A8B,extended,00000001

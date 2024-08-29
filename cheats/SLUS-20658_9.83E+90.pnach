@@ -1,0 +1,205 @@
+gametitle=Freedom Fighters [SLUS-20658] [9.83E+90]
+
+[X]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=X
+// X
+patch=1,EE,90103D8C,extended,0C043D84
+
+[Blind Mode On (Invisible To Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blind Mode On (Invisible To Enemies)
+// Blind Mode On (Invisible To Enemies)
+patch=1,EE,2053DBB8,extended,3F800000
+
+[God Mode On (Infinite Health)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=God Mode On (Infinite Health)
+// God Mode On (Infinite Health)
+patch=1,EE,205403F8,extended,3F800000
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,202F11A4,extended,00000000
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,202EDD4C,extended,02903021
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,2030415C,extended,00000000
+
+[P1 Press {L1}+Up To Have Items+Rifle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up To Have Items+Rifle
+// P1 Press {L1}+Up To Have Items+Rifle
+patch=1,EE,D04C3D82,extended,0000FBEF
+
+[P1 Press {L1}+Up To Have Items+Rifle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up To Have Items+Rifle
+// P1 Press {L1}+Up To Have Items+Rifle
+patch=1,EE,20190654,extended,00000000
+
+[P1 Press {L1}+Up To Have Items+Rifle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up To Have Items+Rifle
+// P1 Press {L1}+Up To Have Items+Rifle
+patch=1,EE,D04C3D82,extended,0010FBEF
+
+[P1 Press {L1}+Up To Have Items+Rifle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up To Have Items+Rifle
+// P1 Press {L1}+Up To Have Items+Rifle
+patch=1,EE,20190654,extended,10400016
+
+[P1 Press {L1}+Right To Have Items+Sniper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right To Have Items+Sniper
+// P1 Press {L1}+Right To Have Items+Sniper
+patch=1,EE,D04C3D82,extended,0000FBDF
+
+[P1 Press {L1}+Right To Have Items+Sniper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right To Have Items+Sniper
+// P1 Press {L1}+Right To Have Items+Sniper
+patch=1,EE,201906CC,extended,00000000
+
+[P1 Press {L1}+Right To Have Items+Sniper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right To Have Items+Sniper
+// P1 Press {L1}+Right To Have Items+Sniper
+patch=1,EE,D04C3D82,extended,0010FBDF
+
+[P1 Press {L1}+Right To Have Items+Sniper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right To Have Items+Sniper
+// P1 Press {L1}+Right To Have Items+Sniper
+patch=1,EE,201906CC,extended,10400016
+
+[P1 Press {L1}+Down To Have Items+HGun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Have Items+HGun
+// P1 Press {L1}+Down To Have Items+HGun
+patch=1,EE,D04C3D82,extended,0000FBBF
+
+[P1 Press {L1}+Down To Have Items+HGun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Have Items+HGun
+// P1 Press {L1}+Down To Have Items+HGun
+patch=1,EE,20190744,extended,00000000
+
+[P1 Press {L1}+Down To Have Items+HGun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Have Items+HGun
+// P1 Press {L1}+Down To Have Items+HGun
+patch=1,EE,D04C3D82,extended,0010FBBF
+
+[P1 Press {L1}+Down To Have Items+HGun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Have Items+HGun
+// P1 Press {L1}+Down To Have Items+HGun
+patch=1,EE,20190744,extended,10400016
+
+[P1 Press {L1}+Left To Have Items+Rocket]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Left To Have Items+Rocket
+// P1 Press {L1}+Left To Have Items+Rocket
+patch=1,EE,D04C3D82,extended,0000FB7F
+
+[P1 Press {L1}+Left To Have Items+Rocket]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Left To Have Items+Rocket
+// P1 Press {L1}+Left To Have Items+Rocket
+patch=1,EE,201907BC,extended,00000000
+
+[P1 Press {L1}+Left To Have Items+Rocket]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Left To Have Items+Rocket
+// P1 Press {L1}+Left To Have Items+Rocket
+patch=1,EE,D04C3D82,extended,0010FB7F
+
+[P1 Press {L1}+Left To Have Items+Rocket]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Left To Have Items+Rocket
+// P1 Press {L1}+Left To Have Items+Rocket
+patch=1,EE,201907BC,extended,10400016
+
+[P1 Press {L1}+{L3} To Have Items+Shotgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L3} To Have Items+Shotgun
+// P1 Press {L1}+{L3} To Have Items+Shotgun
+patch=1,EE,D04C3D82,extended,0000FBFD
+
+[P1 Press {L1}+{L3} To Have Items+Shotgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L3} To Have Items+Shotgun
+// P1 Press {L1}+{L3} To Have Items+Shotgun
+patch=1,EE,20190834,extended,00000000
+
+[P1 Press {L1}+{L3} To Have Items+Shotgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L3} To Have Items+Shotgun
+// P1 Press {L1}+{L3} To Have Items+Shotgun
+patch=1,EE,D04C3D82,extended,0010FBFD
+
+[P1 Press {L1}+{L3} To Have Items+Shotgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L3} To Have Items+Shotgun
+// P1 Press {L1}+{L3} To Have Items+Shotgun
+patch=1,EE,20190834,extended,10400016
+
+[P1 Press {L2}+Up For Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Up For Infinite Ammo
+// P1 Press {L2}+Up For Infinite Ammo
+patch=1,EE,D04C3D82,extended,0000FEEF
+
+[P1 Press {L2}+Up For Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Up For Infinite Ammo
+// P1 Press {L2}+Up For Infinite Ammo
+patch=1,EE,20190B04,extended,00000000
+
+[P1 Press {L2}+Up For Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Up For Infinite Ammo
+// P1 Press {L2}+Up For Infinite Ammo
+patch=1,EE,D04C3D82,extended,0010FEEF
+
+[P1 Press {L2}+Up For Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Up For Infinite Ammo
+// P1 Press {L2}+Up For Infinite Ammo
+patch=1,EE,20190B04,extended,10400015
+
+[P1 Press {L2}+Right For Full Charisma]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Right For Full Charisma
+// P1 Press {L2}+Right For Full Charisma
+patch=1,EE,D04C3D82,extended,0000FEDF
+
+[P1 Press {L2}+Right For Full Charisma]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Right For Full Charisma
+// P1 Press {L2}+Right For Full Charisma
+patch=1,EE,20190B78,extended,00000000
+
+[P1 Press {L2}+Right For Full Charisma]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Right For Full Charisma
+// P1 Press {L2}+Right For Full Charisma
+patch=1,EE,D04C3D82,extended,0010FEDF
+
+[P1 Press {L2}+Right For Full Charisma]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Right For Full Charisma
+// P1 Press {L2}+Right For Full Charisma
+patch=1,EE,20190B78,extended,10400015

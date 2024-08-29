@@ -1,0 +1,349 @@
+gametitle=Chaos Legion [SLUS-20695] [F3B0734E]
+
+[Always No Weight Carried]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always No Weight Carried
+// Always No Weight Carried
+patch=1,EE,902155F4,extended,0C08802C
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,2020A310,extended,24020001
+
+[Access All Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Movies
+// Access All Movies
+patch=1,EE,205C1050,extended,0000000E
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,105C1444,extended,0000FFFF
+
+[Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp
+// Max Exp
+patch=1,EE,205C1444,extended,3B9AC9FF
+
+[Max Smash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Smash
+// Max Smash
+patch=1,EE,205C1448,extended,0000270F
+
+[Always Low Stage Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Stage Time
+// Always Low Stage Time
+patch=1,EE,205C1468,extended,00000000
+
+[Always Low Boss Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Boss Time
+// Always Low Boss Time
+patch=1,EE,205C146C,extended,00000000
+
+[Max Smash Count]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Smash Count
+// Max Smash Count
+patch=1,EE,105C1478,extended,0000270F
+
+[Max Special Monster]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special Monster
+// Max Special Monster
+patch=1,EE,105C147A,extended,0000270F
+
+[Infinite Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Life
+// Infinite Life
+patch=1,EE,105A99C4,extended,000003E7
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,105C143A,extended,000003E7
+
+[Infinite Soul]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Soul
+// Infinite Soul
+patch=1,EE,105C13F4,extended,000003E7
+
+[Max Soul]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Soul
+// Max Soul
+patch=1,EE,105C13F6,extended,000003E7
+
+[Have All Legions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Legions
+// Have All Legions
+patch=1,EE,005C13E5,extended,000000FF
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,D05C6482,extended,0000BFFF
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,205A7E74,extended,BFC00000
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,105C1438,extended,000003E8
+
+[Max Soul]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Soul
+// Max Soul
+patch=1,EE,105C13F8,extended,000005DC
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,105C143C,extended,00005000
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,105C1440,extended,00000000
+
+[EXP Gem (S)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=EXP Gem (S)
+// EXP Gem (S)
+patch=1,EE,005C14C1,extended,00000063
+
+[EXP Gem (M)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=EXP Gem (M)
+// EXP Gem (M)
+patch=1,EE,005C14C2,extended,00000063
+
+[Life Recovery (S)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Life Recovery (S)
+// Life Recovery (S)
+patch=1,EE,005C14C3,extended,00000063
+
+[Soul Recovery (S)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Soul Recovery (S)
+// Soul Recovery (S)
+patch=1,EE,005C14C4,extended,00000063
+
+[Life Max Up (S)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Life Max Up (S)
+// Life Max Up (S)
+patch=1,EE,005C14C5,extended,00000001
+
+[Soul Max Up (S)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Soul Max Up (S)
+// Soul Max Up (S)
+patch=1,EE,005C14C6,extended,00000001
+
+[Attack Up (S)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Attack Up (S)
+// Attack Up (S)
+patch=1,EE,005C14C7,extended,00000001
+
+[EXP Gem (L)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=EXP Gem (L)
+// EXP Gem (L)
+patch=1,EE,005C14C8,extended,00000063
+
+[Life Recovery (L)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Life Recovery (L)
+// Life Recovery (L)
+patch=1,EE,005C14C9,extended,00000063
+
+[Soul Recovery (L)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Soul Recovery (L)
+// Soul Recovery (L)
+patch=1,EE,005C14CA,extended,00000063
+
+[EXP Gem (XL)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=EXP Gem (XL)
+// EXP Gem (XL)
+patch=1,EE,005C14CB,extended,00000063
+
+[Sword Crest]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword Crest
+// Sword Crest
+patch=1,EE,005C14CC,extended,00000001
+
+[Power Crest]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power Crest
+// Power Crest
+patch=1,EE,005C14CD,extended,00000001
+
+[Arrow Crest]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arrow Crest
+// Arrow Crest
+patch=1,EE,005C14CE,extended,00000001
+
+[Shield Crest]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shield Crest
+// Shield Crest
+patch=1,EE,005C14D0,extended,00000001
+
+[Claw Crest]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Claw Crest
+// Claw Crest
+patch=1,EE,005C14D1,extended,00000001
+
+[Bomb Crest]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bomb Crest
+// Bomb Crest
+patch=1,EE,005C14D2,extended,00000001
+
+[Thanatos Chip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thanatos Chip
+// Thanatos Chip
+patch=1,EE,005C14D3,extended,00000009
+
+[Ultimate Crest]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultimate Crest
+// Ultimate Crest
+patch=1,EE,005C14D4,extended,00000001
+
+[Life Max Up (L)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Life Max Up (L)
+// Life Max Up (L)
+patch=1,EE,005C14D5,extended,00000001
+
+[Soul Max Up (L)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Soul Max Up (L)
+// Soul Max Up (L)
+patch=1,EE,005C14D6,extended,00000001
+
+[Attack Up (L)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Attack Up (L)
+// Attack Up (L)
+patch=1,EE,005C14D7,extended,00000001
+
+[Defense Up (S)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Defense Up (S)
+// Defense Up (S)
+patch=1,EE,005C14D8,extended,00000001
+
+[Defense Up (L)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Defense Up (L)
+// Defense Up (L)
+patch=1,EE,005C14D9,extended,00000001
+
+[Spiritual Gem]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spiritual Gem
+// Spiritual Gem
+patch=1,EE,005C14DB,extended,00000063
+
+[Max Legion Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Legion Attack
+// Max Legion Attack
+patch=1,EE,205C1400,extended,77777777
+
+[Max Legion Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Legion Defense
+// Max Legion Defense
+patch=1,EE,205C1404,extended,77777777
+
+[Max Enchant]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Enchant
+// Max Enchant
+patch=1,EE,205C1408,extended,22222222
+
+[Max Assist]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Assist
+// Max Assist
+patch=1,EE,205C140C,extended,22222222
+
+[Max Force]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Force
+// Max Force
+patch=1,EE,205C1410,extended,22222222
+
+[Guilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guilt
+// Guilt
+patch=1,EE,205C1418,extended,3B9AC9FF
+
+[Hatred]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hatred
+// Hatred
+patch=1,EE,205C141C,extended,3B9AC9FF
+
+[Malice]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Malice
+// Malice
+patch=1,EE,205C1420,extended,3B9AC9FF
+
+[Arrogance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arrogance
+// Arrogance
+patch=1,EE,205C1428,extended,3B9AC9FF
+
+[Flawed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flawed
+// Flawed
+patch=1,EE,205C142C,extended,3B9AC9FF
+
+[Blasphemy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blasphemy
+// Blasphemy
+patch=1,EE,205C1430,extended,3B9AC9FF
+
+[Thanatos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thanatos
+// Thanatos
+patch=1,EE,205C1434,extended,3B9AC9FF

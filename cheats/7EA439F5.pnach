@@ -1,0 +1,115 @@
+gametitle=Burnout Revenge [UNKNOWN] [7EA439F5]
+
+[Freeze Daily Time]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Freeze Daily Time
+// Freeze Daily Time
+patch=1,EE,201F88C0,extended,03E00008
+
+[Freeze Daily Time]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Freeze Daily Time
+// Freeze Daily Time
+patch=1,EE,201F88C4,extended,00000000
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,202A2DD0,extended,00000000
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,202A2E34,extended,00000000
+
+[Infinite Ammo In Vehicles]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Ammo In Vehicles
+// Infinite Ammo In Vehicles
+patch=1,EE,202A31C8,extended,00000000
+
+[Infinite Ammo In Vehicles]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Ammo In Vehicles
+// Infinite Ammo In Vehicles
+patch=1,EE,202A3228,extended,00000000
+
+[Infinite Armor]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Armor
+// Infinite Armor
+patch=1,EE,200C0230,extended,3C0142C8
+
+[Infinite Armor]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Armor
+// Infinite Armor
+patch=1,EE,200C0234,extended,AC6104BC
+
+[Infinite Armor]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Armor
+// Infinite Armor
+patch=1,EE,200C0238,extended,08090263
+
+[Infinite Armor]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Armor
+// Infinite Armor
+patch=1,EE,200C023C,extended,C46004BC
+
+[Infinite Armor]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Armor
+// Infinite Armor
+patch=1,EE,20240988,extended,0803008C
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0220,extended,3C0142C8
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0224,extended,AC6104B8
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0228,extended,0809022F
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C022C,extended,C46004B8
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,202408B8,extended,08030088
+
+[Infinite Run]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Run
+// Infinite Run
+patch=1,EE,20408FAC,extended,00000001
+
+[Max Money]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max Money
+// Max Money
+patch=1,EE,20408EFC,extended,05F5E0FF
+
+[Max Money]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max Money
+// Max Money
+patch=1,EE,20408F00,extended,05F5E0FF

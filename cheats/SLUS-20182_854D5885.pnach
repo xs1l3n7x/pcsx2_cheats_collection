@@ -1,0 +1,31 @@
+gametitle=Stretch Panic [SLUS-20182] [854D5885]
+
+[All Courts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Courts
+// All Courts
+patch=1,EE,9010D3DC,extended,0C0461E8
+
+[Max Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Points
+// Max Points
+patch=1,EE,206AF098,extended,000003E7
+
+[Points Worth 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Points Worth 100
+// Points Worth 100
+patch=1,EE,2014EECC,extended,24630064
+
+[Points Worth 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Points Worth 50
+// Points Worth 50
+patch=1,EE,2014EECC,extended,24630032
+
+[Points Worth 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Points Worth 20
+// Points Worth 20
+patch=1,EE,2014EECC,extended,24630014

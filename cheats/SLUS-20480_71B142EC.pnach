@@ -1,0 +1,373 @@
+gametitle=Sega Sports Tennis [SLUS-20480] [71B142EC]
+
+[Goal's Score 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goal's Score 2
+// Goal's Score 2
+patch=1,EE,F0100008,extended,002B152F
+
+[Infinite Money (World Tour)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money (World Tour)
+// Infinite Money (World Tour)
+patch=1,EE,102ECCA8,extended,0000FFFF
+
+[Max Money (World Tour)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money (World Tour)
+// Max Money (World Tour)
+patch=1,EE,202ECCA8,extended,05F5E0FF
+
+[Max Money (Championship Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money (Championship Mode)
+// Max Money (Championship Mode)
+patch=1,EE,204359AC,extended,05F5E0FF
+
+[P1 Start Match With 15 Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Start Match With 15 Points
+// P1 Start Match With 15 Points
+patch=1,EE,D0454A30,extended,00000000
+
+[P1 Start Match With 15 Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Start Match With 15 Points
+// P1 Start Match With 15 Points
+patch=1,EE,10454A30,extended,00000001
+
+[P1 Start Match With 30 Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Start Match With 30 Points
+// P1 Start Match With 30 Points
+patch=1,EE,D0454A30,extended,00000000
+
+[P1 Start Match With 30 Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Start Match With 30 Points
+// P1 Start Match With 30 Points
+patch=1,EE,10454A30,extended,00000002
+
+[P1 Start Match With 45 Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Start Match With 45 Points
+// P1 Start Match With 45 Points
+patch=1,EE,D0454A30,extended,00000000
+
+[P1 Start Match With 45 Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Start Match With 45 Points
+// P1 Start Match With 45 Points
+patch=1,EE,10454A30,extended,00000003
+
+[P1 Never Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Never Wins
+// P1 Never Wins
+patch=1,EE,10454A30,extended,00000000
+
+[P2 Start Match With 15 Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Start Match With 15 Points
+// P2 Start Match With 15 Points
+patch=1,EE,D0454A34,extended,00000000
+
+[P2 Start Match With 15 Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Start Match With 15 Points
+// P2 Start Match With 15 Points
+patch=1,EE,10454A34,extended,00000001
+
+[P2 Start Match With 30 Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Start Match With 30 Points
+// P2 Start Match With 30 Points
+patch=1,EE,D0454A34,extended,00000000
+
+[P2 Start Match With 30 Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Start Match With 30 Points
+// P2 Start Match With 30 Points
+patch=1,EE,10454A34,extended,00000002
+
+[P2 Start Match With 45 Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Start Match With 45 Points
+// P2 Start Match With 45 Points
+patch=1,EE,D0454A34,extended,00000000
+
+[P2 Start Match With 45 Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Start Match With 45 Points
+// P2 Start Match With 45 Points
+patch=1,EE,10454A34,extended,00000003
+
+[P2 Never Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Never Wins
+// P2 Never Wins
+patch=1,EE,10454A34,extended,00000000
+
+[Infinite Stamina (Male)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Stamina (Male)
+// Infinite Stamina (Male)
+patch=1,EE,202ECD40,extended,0000000A
+
+[Infinite Stamina (Female)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Stamina (Female)
+// Infinite Stamina (Female)
+patch=1,EE,202ECD44,extended,0000000A
+
+[Serve-Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Serve-Speed
+// Serve-Speed
+patch=1,EE,202ECCE8,extended,00034000
+
+[Serve-Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Serve-Control
+// Serve-Control
+patch=1,EE,202ECCEC,extended,00034000
+
+[Footwork-Net Dash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Footwork-Net Dash
+// Footwork-Net Dash
+patch=1,EE,202ECCF0,extended,00034000
+
+[Footwork-Side Dash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Footwork-Side Dash
+// Footwork-Side Dash
+patch=1,EE,202ECCF4,extended,00034000
+
+[Footwork-Turn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Footwork-Turn
+// Footwork-Turn
+patch=1,EE,202ECCF8,extended,00034000
+
+[Stroke-Fore-Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stroke-Fore-Power
+// Stroke-Fore-Power
+patch=1,EE,202ECCB8,extended,00034000
+
+[Stroke-Back-Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stroke-Back-Power
+// Stroke-Back-Power
+patch=1,EE,202ECCBC,extended,00034000
+
+[Stroke-Fore-Angle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stroke-Fore-Angle
+// Stroke-Fore-Angle
+patch=1,EE,202ECCC0,extended,00034000
+
+[Stroke-Back-Angle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stroke-Back-Angle
+// Stroke-Back-Angle
+patch=1,EE,202ECCC4,extended,00034000
+
+[Stroke-Fore-Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stroke-Fore-Control
+// Stroke-Fore-Control
+patch=1,EE,202ECCC8,extended,00034000
+
+[Stroke-Back-Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stroke-Back-Control
+// Stroke-Back-Control
+patch=1,EE,202ECCCC,extended,00034000
+
+[Volley-Fore-Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Volley-Fore-Power
+// Volley-Fore-Power
+patch=1,EE,202ECCD0,extended,00034000
+
+[Volley-Back-Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Volley-Back-Power
+// Volley-Back-Power
+patch=1,EE,202ECCD4,extended,00034000
+
+[Volley-Fore-Angle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Volley-Fore-Angle
+// Volley-Fore-Angle
+patch=1,EE,202ECCD8,extended,00034000
+
+[Volley-Back-Angle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Volley-Back-Angle
+// Volley-Back-Angle
+patch=1,EE,202ECCDC,extended,00034000
+
+[Volley-Fore-Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Volley-Fore-Control
+// Volley-Fore-Control
+patch=1,EE,202ECCE0,extended,00034000
+
+[Volley-Back-Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Volley-Back-Control
+// Volley-Back-Control
+patch=1,EE,202ECCE4,extended,00034000
+
+[Max Net Dash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Net Dash
+// Max Net Dash
+patch=1,EE,102ECD36,extended,00000004
+
+[Max Side Dash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Side Dash
+// Max Side Dash
+patch=1,EE,102ECD3A,extended,00000004
+
+[Max Turn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Turn
+// Max Turn
+patch=1,EE,102ECD3E,extended,00000004
+
+[Footwork-Net Dash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Footwork-Net Dash
+// Footwork-Net Dash
+patch=1,EE,202ECD34,extended,00034000
+
+[Footwork-Side Dash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Footwork-Side Dash
+// Footwork-Side Dash
+patch=1,EE,202ECD38,extended,00034000
+
+[Footwork-Turn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Footwork-Turn
+// Footwork-Turn
+patch=1,EE,202ECD3C,extended,00034000
+
+[Stroke-Fore-Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stroke-Fore-Power
+// Stroke-Fore-Power
+patch=1,EE,202ECCFC,extended,00034000
+
+[Stroke-Back-Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stroke-Back-Power
+// Stroke-Back-Power
+patch=1,EE,202ECD00,extended,00034000
+
+[Stroke-Fore-Angle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stroke-Fore-Angle
+// Stroke-Fore-Angle
+patch=1,EE,202ECD04,extended,00034000
+
+[Stroke-Back-Angle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stroke-Back-Angle
+// Stroke-Back-Angle
+patch=1,EE,202ECD08,extended,00034000
+
+[Stroke-Fore-Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stroke-Fore-Control
+// Stroke-Fore-Control
+patch=1,EE,202ECD0C,extended,00034000
+
+[Stroke-Back-Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stroke-Back-Control
+// Stroke-Back-Control
+patch=1,EE,202ECD10,extended,00034000
+
+[Volley-Fore-Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Volley-Fore-Power
+// Volley-Fore-Power
+patch=1,EE,202ECD14,extended,00034000
+
+[Volley-Back-Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Volley-Back-Power
+// Volley-Back-Power
+patch=1,EE,202ECD18,extended,00034000
+
+[Volley-Fore-Angle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Volley-Fore-Angle
+// Volley-Fore-Angle
+patch=1,EE,202ECD1C,extended,00034000
+
+[Volley-Back-Angle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Volley-Back-Angle
+// Volley-Back-Angle
+patch=1,EE,202ECD20,extended,00034000
+
+[Volley-Fore-Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Volley-Fore-Control
+// Volley-Fore-Control
+patch=1,EE,202ECD24,extended,00034000
+
+[Volley-Back-Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Volley-Back-Control
+// Volley-Back-Control
+patch=1,EE,202ECD28,extended,00034000
+
+[Have All Apparel (Male)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Apparel (Male)
+// Have All Apparel (Male)
+patch=1,EE,203B14F4,extended,000000FF
+
+[Have All Apparel (Male)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Apparel (Male)
+// Have All Apparel (Male)
+patch=1,EE,203B14F8,extended,000000FF
+
+[Have All Apparel (Female)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Apparel (Female)
+// Have All Apparel (Female)
+patch=1,EE,203B14FC,extended,000000FF
+
+[Have All Apparel (Female)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Apparel (Female)
+// Have All Apparel (Female)
+patch=1,EE,203B1500,extended,000000FF
+
+[Have All Stages]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Stages
+// Have All Stages
+patch=1,EE,203B1504,extended,000000FF
+
+[Have All Etc.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Etc.
+// Have All Etc.
+patch=1,EE,203B1508,extended,0000FFFF
+
+[Have All Raquets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Raquets
+// Have All Raquets
+patch=1,EE,203B150C,extended,000000FF

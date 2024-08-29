@@ -1,0 +1,91 @@
+gametitle=Disaster Report [SLUS-20561] [7D7D4D9D]
+
+[Max Tachyon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tachyon
+// Max Tachyon
+patch=1,EE,F0100008,extended,001D2177
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,20380904,extended,42C80000
+
+[Infinite QP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite QP
+// Infinite QP
+patch=1,EE,20380908,extended,42C80000
+
+[Have All Maps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Maps
+// Have All Maps
+patch=1,EE,2036CC00,extended,FFFFFFFF
+
+[Have All Maps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Maps
+// Have All Maps
+patch=1,EE,2036CC04,extended,FFFFFFFF
+
+[Have All Compasses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Compasses
+// Have All Compasses
+patch=1,EE,203FE8EC,extended,FFFFFFFF
+
+[Have All Compasses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Compasses
+// Have All Compasses
+patch=1,EE,203FE8F0,extended,FFFFFFF7
+
+[Always Low Play Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Play Time
+// Always Low Play Time
+patch=1,EE,204144B4,extended,00000000
+
+[Never Have Saved]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Have Saved
+// Never Have Saved
+patch=1,EE,204144B8,extended,00000000
+
+[Saved Only Once]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Saved Only Once
+// Saved Only Once
+patch=1,EE,204144B8,extended,00000001
+
+[No Game Overs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Game Overs
+// No Game Overs
+patch=1,EE,204144BC,extended,00000000
+
+[No Falls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Falls
+// No Falls
+patch=1,EE,204144C0,extended,00000000
+
+[Always Low Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Distance Traveled
+// Always Low Distance Traveled
+patch=1,EE,204144C4,extended,00000000
+
+[Hella Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hella Distance Traveled
+// Hella Distance Traveled
+patch=1,EE,204144C4,extended,461C3F9A
+
+[Always Low Water Consumed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Water Consumed
+// Always Low Water Consumed
+patch=1,EE,204144C8,extended,00000000

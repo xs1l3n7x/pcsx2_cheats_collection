@@ -1,0 +1,907 @@
+gametitle=Samurai Western [SLES-53234] [89D8ECCE]
+
+[Siege Of Osaka Castle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Siege Of Osaka Castle
+// Siege Of Osaka Castle
+patch=1,EE,9012E4B8,extended,00832021
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,102E6F1C,extended,000003E7
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,102E6F20,extended,000003E7
+
+[Max Master Gauge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Master Gauge
+// Max Master Gauge
+patch=1,EE,102E6F22,extended,000003E7
+
+[Quick Weapon Lv Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Weapon Lv Up
+// Quick Weapon Lv Up
+patch=1,EE,20237EAC,extended,00000000
+
+[P1 Press {L1}+{SELECT} For Full Master Gauge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For Full Master Gauge
+// P1 Press {L1}+{SELECT} For Full Master Gauge
+patch=1,EE,D02E3F42,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} For Full Master Gauge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For Full Master Gauge
+// P1 Press {L1}+{SELECT} For Full Master Gauge
+patch=1,EE,202E6EF8,extended,4479C000
+
+[Infinite Development Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Development Points
+// Infinite Development Points
+patch=1,EE,2025F1DC,extended,00000000
+
+[Max Infinite Development Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Development Points
+// Max Infinite Development Points
+patch=1,EE,2025F1D8,extended,2403270F
+
+[Extra Development Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Development Points
+// Extra Development Points
+patch=1,EE,1025F1D8,extended,00000001
+
+[Have All Titles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Titles
+// Have All Titles
+patch=1,EE,102E6C14,extended,00000064
+
+[Unlock All Stages]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Stages
+// Unlock All Stages
+patch=1,EE,202E76BC,extended,FFFFFFFF
+
+[Always Low Play Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Play Time
+// Always Low Play Time
+patch=1,EE,202E6EFC,extended,00000000
+
+[Max Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Combo
+// Max Combo
+patch=1,EE,202E7050,extended,0000270F
+
+[No Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Combo
+// No Combo
+patch=1,EE,202E7050,extended,00000000
+
+[Max Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Kills
+// Max Kills
+patch=1,EE,202E7058,extended,0000270F
+
+[No Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Kills
+// No Kills
+patch=1,EE,202E7058,extended,00000000
+
+[No Damage Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Damage Taken
+// No Damage Taken
+patch=1,EE,202E705C,extended,00000000
+
+[Faceless]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Faceless
+// Faceless
+patch=1,EE,002E6BF0,extended,00000001
+
+[Donald]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Donald
+// Donald
+patch=1,EE,002E6BF1,extended,00000001
+
+[Killer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Killer
+// Killer
+patch=1,EE,002E6BF2,extended,00000001
+
+[Nathian]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nathian
+// Nathian
+patch=1,EE,002E6BF3,extended,00000001
+
+[Jean]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jean
+// Jean
+patch=1,EE,002E6BF4,extended,00000001
+
+[Rando]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rando
+// Rando
+patch=1,EE,002E6BF5,extended,00000001
+
+[Goldgerg]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goldgerg
+// Goldgerg
+patch=1,EE,002E6BF6,extended,00000001
+
+[Goldberg (Evil)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goldberg (Evil)
+// Goldberg (Evil)
+patch=1,EE,002E6BF7,extended,00000001
+
+[Harvey]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Harvey
+// Harvey
+patch=1,EE,002E6BF8,extended,00000001
+
+[General]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=General
+// General
+patch=1,EE,002E6BF9,extended,00000001
+
+[Lanky]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lanky
+// Lanky
+patch=1,EE,002E6BFA,extended,00000001
+
+[Oaf]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Oaf
+// Oaf
+patch=1,EE,002E6BFB,extended,00000001
+
+[Ripper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripper
+// Ripper
+patch=1,EE,002E6BFC,extended,00000001
+
+[Eve]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Eve
+// Eve
+patch=1,EE,002E6BFD,extended,00000001
+
+[Bart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bart
+// Bart
+patch=1,EE,002E6BFE,extended,00000001
+
+[Vile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vile
+// Vile
+patch=1,EE,002E6BFF,extended,00000001
+
+[Little Baby]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Little Baby
+// Little Baby
+patch=1,EE,002E6C00,extended,00000001
+
+[Faceless]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Faceless
+// Faceless
+patch=1,EE,002E6C01,extended,00000001
+
+[Claudia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Claudia
+// Claudia
+patch=1,EE,002E6C02,extended,00000001
+
+[Anne]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anne
+// Anne
+patch=1,EE,002E6C03,extended,00000001
+
+[Joey]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Joey
+// Joey
+patch=1,EE,002E6C04,extended,00000001
+
+[Ralph]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ralph
+// Ralph
+patch=1,EE,002E6C05,extended,00000001
+
+[Urchin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Urchin
+// Urchin
+patch=1,EE,002E6C06,extended,00000001
+
+[Sweetheart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sweetheart
+// Sweetheart
+patch=1,EE,002E6C07,extended,00000001
+
+[Brat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Brat
+// Brat
+patch=1,EE,002E6C08,extended,00000001
+
+[Cowgirl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cowgirl
+// Cowgirl
+patch=1,EE,002E8258,extended,00000001
+
+[Remaining 20 Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Remaining 20 Characters
+// Remaining 20 Characters
+patch=1,EE,002E6BB1,extended,000000FF
+
+[All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Characters
+// All Characters
+patch=1,EE,402E6BF0,extended,00060001
+
+[All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Characters
+// All Characters
+patch=1,EE,01010101,extended,00000000
+
+[All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Characters
+// All Characters
+patch=1,EE,002E6C08,extended,00000001
+
+[All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Characters
+// All Characters
+patch=1,EE,002E6BB1,extended,000000FF
+
+[All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Characters
+// All Characters
+patch=1,EE,002E8258,extended,00000001
+
+[Demon Horns]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Demon Horns
+// Demon Horns
+patch=1,EE,002E7485,extended,00000001
+
+[Samurai Helm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Samurai Helm
+// Samurai Helm
+patch=1,EE,002E7486,extended,00000001
+
+[Chimney]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chimney
+// Chimney
+patch=1,EE,002E7487,extended,00000001
+
+[Cat Ears]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cat Ears
+// Cat Ears
+patch=1,EE,002E7488,extended,00000001
+
+[Cowboy Hat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cowboy Hat
+// Cowboy Hat
+patch=1,EE,002E7489,extended,00000001
+
+[Badguy Hat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Badguy Hat
+// Badguy Hat
+patch=1,EE,002E748A,extended,00000001
+
+[Goodguy Hat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goodguy Hat
+// Goodguy Hat
+patch=1,EE,002E748B,extended,00000001
+
+[Mr. Hopsy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mr. Hopsy
+// Mr. Hopsy
+patch=1,EE,002E748C,extended,00000001
+
+[Bandana]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bandana
+// Bandana
+patch=1,EE,002E748D,extended,00000001
+
+[Demon Wings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Demon Wings
+// Demon Wings
+patch=1,EE,002E748E,extended,00000001
+
+[Demon Tail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Demon Tail
+// Demon Tail
+patch=1,EE,002E748F,extended,00000001
+
+[Cat Tail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cat Tail
+// Cat Tail
+patch=1,EE,002E7490,extended,00000001
+
+[Locomotive]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Locomotive
+// Locomotive
+patch=1,EE,002E7491,extended,00000001
+
+[Sheriff Badge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheriff Badge
+// Sheriff Badge
+patch=1,EE,002E7492,extended,00000001
+
+[Samurai Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Samurai Armor
+// Samurai Armor
+patch=1,EE,002E7493,extended,00000001
+
+[Knight Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Armor
+// Knight Armor
+patch=1,EE,002E7494,extended,00000001
+
+[Lasso]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lasso
+// Lasso
+patch=1,EE,002E7495,extended,00000001
+
+[Boxing Belt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boxing Belt
+// Boxing Belt
+patch=1,EE,002E7496,extended,00000001
+
+[Steam Engine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Steam Engine
+// Steam Engine
+patch=1,EE,002E7497,extended,00000001
+
+[Guitar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guitar
+// Guitar
+patch=1,EE,002E7498,extended,00000001
+
+[Samurai Leg R]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Samurai Leg R
+// Samurai Leg R
+patch=1,EE,002E7499,extended,00000001
+
+[Samurai Leg L]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Samurai Leg L
+// Samurai Leg L
+patch=1,EE,002E749A,extended,00000001
+
+[Knight Leg R]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Leg R
+// Knight Leg R
+patch=1,EE,002E749B,extended,00000001
+
+[Knight Leg L]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Leg L
+// Knight Leg L
+patch=1,EE,002E749C,extended,00000001
+
+[Boxing Glove R]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boxing Glove R
+// Boxing Glove R
+patch=1,EE,002E749D,extended,00000001
+
+[Boxing Glove L]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boxing Glove L
+// Boxing Glove L
+patch=1,EE,002E749E,extended,00000001
+
+[Hopsy Paw R]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hopsy Paw R
+// Hopsy Paw R
+patch=1,EE,002E749F,extended,00000001
+
+[Hopsy Paw L]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hopsy Paw L
+// Hopsy Paw L
+patch=1,EE,002E74A0,extended,00000001
+
+[Cat Paw R]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cat Paw R
+// Cat Paw R
+patch=1,EE,002E74A1,extended,00000001
+
+[Cat Paw L]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cat Paw L
+// Cat Paw L
+patch=1,EE,002E74A2,extended,00000001
+
+[Samurai Shldr R]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Samurai Shldr R
+// Samurai Shldr R
+patch=1,EE,002E74A3,extended,00000001
+
+[Samurai Shldr R]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Samurai Shldr R
+// Samurai Shldr R
+patch=1,EE,002E74A4,extended,00000001
+
+[Knight Shldr R]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Shldr R
+// Knight Shldr R
+patch=1,EE,002E74A5,extended,00000001
+
+[Knight Shldr L]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knight Shldr L
+// Knight Shldr L
+patch=1,EE,002E74A6,extended,00000001
+
+[Cowboy Boot R]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cowboy Boot R
+// Cowboy Boot R
+patch=1,EE,002E74A7,extended,00000001
+
+[Cowboy Boot L]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cowboy Boot L
+// Cowboy Boot L
+patch=1,EE,002E74A8,extended,00000001
+
+[Showy Boot R]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Showy Boot R
+// Showy Boot R
+patch=1,EE,002E74A9,extended,00000001
+
+[Showy Boot L]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Showy Boot L
+// Showy Boot L
+patch=1,EE,002E74AA,extended,00000001
+
+[Badguy Boot R]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Badguy Boot R
+// Badguy Boot R
+patch=1,EE,002E74AB,extended,00000001
+
+[Badguy Boot L]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Badguy Boot L
+// Badguy Boot L
+patch=1,EE,002E74AC,extended,00000001
+
+[Goodguy Boot R]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goodguy Boot R
+// Goodguy Boot R
+patch=1,EE,002E74AD,extended,00000001
+
+[Goodguy Boot L]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goodguy Boot L
+// Goodguy Boot L
+patch=1,EE,002E74AE,extended,00000001
+
+[Afro]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Afro
+// Afro
+patch=1,EE,002E74AF,extended,00000001
+
+[Carnival Mask]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Carnival Mask
+// Carnival Mask
+patch=1,EE,002E74B0,extended,00000001
+
+[Spectacles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spectacles
+// Spectacles
+patch=1,EE,002E74B1,extended,00000001
+
+[Fox Mask]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fox Mask
+// Fox Mask
+patch=1,EE,002E74B2,extended,00000001
+
+[Tengu Mask]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tengu Mask
+// Tengu Mask
+patch=1,EE,002E74B3,extended,00000001
+
+[Lute]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lute
+// Lute
+patch=1,EE,002E74B4,extended,00000001
+
+[Demon Mask]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Demon Mask
+// Demon Mask
+patch=1,EE,002E74B5,extended,00000001
+
+[Umbrella]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Umbrella
+// Umbrella
+patch=1,EE,002E74B6,extended,00000001
+
+[Parrot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Parrot
+// Parrot
+patch=1,EE,002E74B7,extended,00000001
+
+[Throwing Star]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throwing Star
+// Throwing Star
+patch=1,EE,002E74B8,extended,00000001
+
+[Coffin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coffin
+// Coffin
+patch=1,EE,002E74B9,extended,00000001
+
+[Monkey]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monkey
+// Monkey
+patch=1,EE,002E74BA,extended,00000001
+
+[Hawk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hawk
+// Hawk
+patch=1,EE,002E74BB,extended,00000001
+
+[Headband]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Headband
+// Headband
+patch=1,EE,002E74BC,extended,00000001
+
+[Eyepatch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Eyepatch
+// Eyepatch
+patch=1,EE,002E74BD,extended,00000001
+
+[Pirate Hat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pirate Hat
+// Pirate Hat
+patch=1,EE,002E74BE,extended,00000001
+
+[Pirate Cape]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pirate Cape
+// Pirate Cape
+patch=1,EE,002E74BF,extended,00000001
+
+[Modern Weapon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Modern Weapon
+// Modern Weapon
+patch=1,EE,002E74C0,extended,00000001
+
+[Shades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shades
+// Shades
+patch=1,EE,002E74C1,extended,00000001
+
+[Noh Mask]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Noh Mask
+// Noh Mask
+patch=1,EE,002E74C2,extended,00000001
+
+[Flower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flower
+// Flower
+patch=1,EE,002E74C3,extended,00000001
+
+[Hockey Mask]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hockey Mask
+// Hockey Mask
+patch=1,EE,002E74C4,extended,00000001
+
+[Chainsaw]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chainsaw
+// Chainsaw
+patch=1,EE,002E74C5,extended,00000001
+
+[Angel Wings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Angel Wings
+// Angel Wings
+patch=1,EE,002E74C6,extended,00000001
+
+[Gas Mask]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gas Mask
+// Gas Mask
+patch=1,EE,002E74C7,extended,00000001
+
+[Halo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Halo
+// Halo
+patch=1,EE,002E74C8,extended,00000001
+
+[Straw Basket]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Straw Basket
+// Straw Basket
+patch=1,EE,002E74C9,extended,00000001
+
+[NV Goggles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=NV Goggles
+// NV Goggles
+patch=1,EE,002E74CA,extended,00000001
+
+[All Accessories]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Accessories
+// All Accessories
+patch=1,EE,002E7485,extended,00000001
+
+[All Accessories]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Accessories
+// All Accessories
+patch=1,EE,102E7486,extended,00000101
+
+[All Accessories]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Accessories
+// All Accessories
+patch=1,EE,402E7488,extended,00100001
+
+[All Accessories]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Accessories
+// All Accessories
+patch=1,EE,01010101,extended,00000000
+
+[All Accessories]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Accessories
+// All Accessories
+patch=1,EE,102E74C8,extended,00000101
+
+[All Accessories]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Accessories
+// All Accessories
+patch=1,EE,002E74CA,extended,00000001
+
+[Torakaton]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Torakaton
+// Torakaton
+patch=1,EE,002E76D8,extended,00000001
+
+[Makiwoari]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Makiwoari
+// Makiwoari
+patch=1,EE,002E76D9,extended,00000001
+
+[Hyokki Yoko]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hyokki Yoko
+// Hyokki Yoko
+patch=1,EE,002E76DA,extended,00000001
+
+[Metsu Ryuoto]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metsu Ryuoto
+// Metsu Ryuoto
+patch=1,EE,002E76DB,extended,00000001
+
+[Nodachi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nodachi
+// Nodachi
+patch=1,EE,002E76DC,extended,00000001
+
+[Gekokujo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gekokujo
+// Gekokujo
+patch=1,EE,002E76DD,extended,00000001
+
+[Trident]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trident
+// Trident
+patch=1,EE,002E76DE,extended,00000001
+
+[Amatsuyu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Amatsuyu
+// Amatsuyu
+patch=1,EE,002E76DF,extended,00000001
+
+[Hadarayuki]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hadarayuki
+// Hadarayuki
+patch=1,EE,002E76E0,extended,00000001
+
+[Oni Dankon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Oni Dankon
+// Oni Dankon
+patch=1,EE,002E76E1,extended,00000001
+
+[Daihan'nya]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Daihan'nya
+// Daihan'nya
+patch=1,EE,002E76E2,extended,00000001
+
+[Akitsu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Akitsu
+// Akitsu
+patch=1,EE,002E76E3,extended,00000001
+
+[Scissor61]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scissor61
+// Scissor61
+patch=1,EE,002E76E4,extended,00000001
+
+[Shibuki]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shibuki
+// Shibuki
+patch=1,EE,002E76E5,extended,00000001
+
+[Hyokka Ryoran]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hyokka Ryoran
+// Hyokka Ryoran
+patch=1,EE,002E76E6,extended,00000001
+
+[Sobusho]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sobusho
+// Sobusho
+patch=1,EE,002E76E7,extended,00000001
+
+[Shinbutsu-goshiue]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shinbutsu-goshiue
+// Shinbutsu-goshiue
+patch=1,EE,002E76E8,extended,00000001
+
+[Scythe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scythe
+// Scythe
+patch=1,EE,002E76E9,extended,00000001
+
+[Murasame]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Murasame
+// Murasame
+patch=1,EE,002E76EA,extended,00000001
+
+[Un'en]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Un'en
+// Un'en
+patch=1,EE,002E76EB,extended,00000001
+
+[Tokefuji]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tokefuji
+// Tokefuji
+patch=1,EE,002E76EC,extended,00000001
+
+[Jumangoku]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jumangoku
+// Jumangoku
+patch=1,EE,002E76ED,extended,00000001
+
+[All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Weapons
+// All Weapons
+patch=1,EE,402E76D8,extended,00050001
+
+[All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Weapons
+// All Weapons
+patch=1,EE,01010101,extended,00000000
+
+[All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Weapons
+// All Weapons
+patch=1,EE,102E76EC,extended,00000101

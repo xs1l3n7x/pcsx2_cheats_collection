@@ -1,0 +1,3301 @@
+gametitle=Bully [SLUS-21269] [28703748]
+
+[Phoenix Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Phoenix Key
+// Phoenix Key
+patch=1,EE,901216F8,extended,00832021
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,21C68AC8,extended,43480000
+
+[Infinite Health (Alternate)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Alternate)
+// Infinite Health (Alternate)
+patch=1,EE,200C0220,extended,3C014348
+
+[Infinite Health (Alternate)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Alternate)
+// Infinite Health (Alternate)
+patch=1,EE,200C0224,extended,AE8119F4
+
+[Infinite Health (Alternate)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Alternate)
+// Infinite Health (Alternate)
+patch=1,EE,200C0228,extended,AE811A08
+
+[Infinite Health (Alternate)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Alternate)
+// Infinite Health (Alternate)
+patch=1,EE,200C022C,extended,03E00008
+
+[Infinite Health (Alternate)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Alternate)
+// Infinite Health (Alternate)
+patch=1,EE,200C0230,extended,C68219F4
+
+[Infinite Health (Alternate)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Alternate)
+// Infinite Health (Alternate)
+patch=1,EE,2041F568,extended,0C030088
+
+[Max Pocket Change]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pocket Change
+// Max Pocket Change
+patch=1,EE,21C68AB0,extended,05F5E0FF
+
+[Max Pocket Change (Alternate)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pocket Change (Alternate)
+// Max Pocket Change (Alternate)
+patch=1,EE,200C0240,extended,3C0205F5
+
+[Max Pocket Change (Alternate)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pocket Change (Alternate)
+// Max Pocket Change (Alternate)
+patch=1,EE,200C0244,extended,3442E0FF
+
+[Max Pocket Change (Alternate)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pocket Change (Alternate)
+// Max Pocket Change (Alternate)
+patch=1,EE,200C0248,extended,03E00008
+
+[Max Pocket Change (Alternate)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pocket Change (Alternate)
+// Max Pocket Change (Alternate)
+patch=1,EE,200C024C,extended,AC2219F0
+
+[Max Pocket Change (Alternate)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pocket Change (Alternate)
+// Max Pocket Change (Alternate)
+patch=1,EE,2042ED50,extended,8C418520
+
+[Max Pocket Change (Alternate)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pocket Change (Alternate)
+// Max Pocket Change (Alternate)
+patch=1,EE,2042ED58,extended,0C030090
+
+[Always Low Trouble Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Trouble Meter
+// Always Low Trouble Meter
+patch=1,EE,21C68B50,extended,00000000
+
+[P1 Press {L1}+{L2} For Low Trouble Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L2} For Low Trouble Meter
+// P1 Press {L1}+{L2} For Low Trouble Meter
+patch=1,EE,D06D5DC2,extended,0000FAFF
+
+[P1 Press {L1}+{L2} For Low Trouble Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L2} For Low Trouble Meter
+// P1 Press {L1}+{L2} For Low Trouble Meter
+patch=1,EE,21C68B50,extended,00000000
+
+[P1 Press {R1}+{R2} For High Trouble Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{R2} For High Trouble Meter
+// P1 Press {R1}+{R2} For High Trouble Meter
+patch=1,EE,D06D5DC2,extended,0000F5FF
+
+[P1 Press {R1}+{R2} For High Trouble Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{R2} For High Trouble Meter
+// P1 Press {R1}+{R2} For High Trouble Meter
+patch=1,EE,21C68B50,extended,0001869F
+
+[Press {R1}+{SELECT} For Top Of The Hour]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R1}+{SELECT} For Top Of The Hour
+// Press {R1}+{SELECT} For Top Of The Hour
+patch=1,EE,D06D5DC2,extended,0000F7FE
+
+[Press {R1}+{SELECT} For Top Of The Hour]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R1}+{SELECT} For Top Of The Hour
+// Press {R1}+{SELECT} For Top Of The Hour
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {R2}+{SELECT} For End Of The Hour]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R2}+{SELECT} For End Of The Hour
+// Press {R2}+{SELECT} For End Of The Hour
+patch=1,EE,D06D5DC2,extended,0000FDFE
+
+[Press {R2}+{SELECT} For End Of The Hour]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R2}+{SELECT} For End Of The Hour
+// Press {R2}+{SELECT} For End Of The Hour
+patch=1,EE,205E4EBC,extended,0000003B
+
+[Press {L1}+{SELECT} For 12:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 12:00 A.M.
+// Press {L1}+{SELECT} For 12:00 A.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 12:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 12:00 A.M.
+// Press {L1}+{SELECT} For 12:00 A.M.
+patch=1,EE,205E4EB8,extended,00000000
+
+[Press {L1}+{SELECT} For 12:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 12:00 A.M.
+// Press {L1}+{SELECT} For 12:00 A.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 1:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 1:00 A.M.
+// Press {L1}+{SELECT} For 1:00 A.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 1:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 1:00 A.M.
+// Press {L1}+{SELECT} For 1:00 A.M.
+patch=1,EE,205E4EB8,extended,00000001
+
+[Press {L1}+{SELECT} For 1:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 1:00 A.M.
+// Press {L1}+{SELECT} For 1:00 A.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 2:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 2:00 A.M.
+// Press {L1}+{SELECT} For 2:00 A.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 2:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 2:00 A.M.
+// Press {L1}+{SELECT} For 2:00 A.M.
+patch=1,EE,205E4EB8,extended,00000002
+
+[Press {L1}+{SELECT} For 2:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 2:00 A.M.
+// Press {L1}+{SELECT} For 2:00 A.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 3:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 3:00 A.M.
+// Press {L1}+{SELECT} For 3:00 A.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 3:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 3:00 A.M.
+// Press {L1}+{SELECT} For 3:00 A.M.
+patch=1,EE,205E4EB8,extended,00000003
+
+[Press {L1}+{SELECT} For 3:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 3:00 A.M.
+// Press {L1}+{SELECT} For 3:00 A.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 4:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 4:00 A.M.
+// Press {L1}+{SELECT} For 4:00 A.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 4:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 4:00 A.M.
+// Press {L1}+{SELECT} For 4:00 A.M.
+patch=1,EE,205E4EB8,extended,00000004
+
+[Press {L1}+{SELECT} For 4:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 4:00 A.M.
+// Press {L1}+{SELECT} For 4:00 A.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 5:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 5:00 A.M.
+// Press {L1}+{SELECT} For 5:00 A.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 5:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 5:00 A.M.
+// Press {L1}+{SELECT} For 5:00 A.M.
+patch=1,EE,205E4EB8,extended,00000005
+
+[Press {L1}+{SELECT} For 5:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 5:00 A.M.
+// Press {L1}+{SELECT} For 5:00 A.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 6:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 6:00 A.M.
+// Press {L1}+{SELECT} For 6:00 A.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 6:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 6:00 A.M.
+// Press {L1}+{SELECT} For 6:00 A.M.
+patch=1,EE,205E4EB8,extended,00000006
+
+[Press {L1}+{SELECT} For 6:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 6:00 A.M.
+// Press {L1}+{SELECT} For 6:00 A.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 7:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 7:00 A.M.
+// Press {L1}+{SELECT} For 7:00 A.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 7:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 7:00 A.M.
+// Press {L1}+{SELECT} For 7:00 A.M.
+patch=1,EE,205E4EB8,extended,00000007
+
+[Press {L1}+{SELECT} For 7:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 7:00 A.M.
+// Press {L1}+{SELECT} For 7:00 A.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 8:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 8:00 A.M.
+// Press {L1}+{SELECT} For 8:00 A.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 8:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 8:00 A.M.
+// Press {L1}+{SELECT} For 8:00 A.M.
+patch=1,EE,205E4EB8,extended,00000008
+
+[Press {L1}+{SELECT} For 8:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 8:00 A.M.
+// Press {L1}+{SELECT} For 8:00 A.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 9:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 9:00 A.M.
+// Press {L1}+{SELECT} For 9:00 A.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 9:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 9:00 A.M.
+// Press {L1}+{SELECT} For 9:00 A.M.
+patch=1,EE,205E4EB8,extended,00000009
+
+[Press {L1}+{SELECT} For 9:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 9:00 A.M.
+// Press {L1}+{SELECT} For 9:00 A.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 10:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 10:00 A.M.
+// Press {L1}+{SELECT} For 10:00 A.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 10:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 10:00 A.M.
+// Press {L1}+{SELECT} For 10:00 A.M.
+patch=1,EE,205E4EB8,extended,0000000A
+
+[Press {L1}+{SELECT} For 10:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 10:00 A.M.
+// Press {L1}+{SELECT} For 10:00 A.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 11:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 11:00 A.M.
+// Press {L1}+{SELECT} For 11:00 A.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 11:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 11:00 A.M.
+// Press {L1}+{SELECT} For 11:00 A.M.
+patch=1,EE,205E4EB8,extended,0000000B
+
+[Press {L1}+{SELECT} For 11:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 11:00 A.M.
+// Press {L1}+{SELECT} For 11:00 A.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 12:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 12:00 P.M.
+// Press {L1}+{SELECT} For 12:00 P.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 12:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 12:00 P.M.
+// Press {L1}+{SELECT} For 12:00 P.M.
+patch=1,EE,205E4EB8,extended,0000000C
+
+[Press {L1}+{SELECT} For 12:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 12:00 P.M.
+// Press {L1}+{SELECT} For 12:00 P.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 1:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 1:00 P.M.
+// Press {L1}+{SELECT} For 1:00 P.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 1:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 1:00 P.M.
+// Press {L1}+{SELECT} For 1:00 P.M.
+patch=1,EE,205E4EB8,extended,0000000D
+
+[Press {L1}+{SELECT} For 1:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 1:00 P.M.
+// Press {L1}+{SELECT} For 1:00 P.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 2:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 2:00 P.M.
+// Press {L1}+{SELECT} For 2:00 P.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 2:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 2:00 P.M.
+// Press {L1}+{SELECT} For 2:00 P.M.
+patch=1,EE,205E4EB8,extended,0000000E
+
+[Press {L1}+{SELECT} For 2:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 2:00 P.M.
+// Press {L1}+{SELECT} For 2:00 P.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 3:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 3:00 P.M.
+// Press {L1}+{SELECT} For 3:00 P.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 3:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 3:00 P.M.
+// Press {L1}+{SELECT} For 3:00 P.M.
+patch=1,EE,205E4EB8,extended,0000000F
+
+[Press {L1}+{SELECT} For 3:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 3:00 P.M.
+// Press {L1}+{SELECT} For 3:00 P.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 4:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 4:00 P.M.
+// Press {L1}+{SELECT} For 4:00 P.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 4:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 4:00 P.M.
+// Press {L1}+{SELECT} For 4:00 P.M.
+patch=1,EE,205E4EB8,extended,00000010
+
+[Press {L1}+{SELECT} For 4:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 4:00 P.M.
+// Press {L1}+{SELECT} For 4:00 P.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 5:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 5:00 P.M.
+// Press {L1}+{SELECT} For 5:00 P.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 5:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 5:00 P.M.
+// Press {L1}+{SELECT} For 5:00 P.M.
+patch=1,EE,205E4EB8,extended,00000011
+
+[Press {L1}+{SELECT} For 5:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 5:00 P.M.
+// Press {L1}+{SELECT} For 5:00 P.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 6:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 6:00 P.M.
+// Press {L1}+{SELECT} For 6:00 P.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 6:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 6:00 P.M.
+// Press {L1}+{SELECT} For 6:00 P.M.
+patch=1,EE,205E4EB8,extended,00000012
+
+[Press {L1}+{SELECT} For 6:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 6:00 P.M.
+// Press {L1}+{SELECT} For 6:00 P.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 7:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 7:00 P.M.
+// Press {L1}+{SELECT} For 7:00 P.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 7:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 7:00 P.M.
+// Press {L1}+{SELECT} For 7:00 P.M.
+patch=1,EE,205E4EB8,extended,00000013
+
+[Press {L1}+{SELECT} For 7:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 7:00 P.M.
+// Press {L1}+{SELECT} For 7:00 P.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 8:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 8:00 P.M.
+// Press {L1}+{SELECT} For 8:00 P.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 8:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 8:00 P.M.
+// Press {L1}+{SELECT} For 8:00 P.M.
+patch=1,EE,205E4EB8,extended,00000014
+
+[Press {L1}+{SELECT} For 8:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 8:00 P.M.
+// Press {L1}+{SELECT} For 8:00 P.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 9:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 9:00 P.M.
+// Press {L1}+{SELECT} For 9:00 P.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 9:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 9:00 P.M.
+// Press {L1}+{SELECT} For 9:00 P.M.
+patch=1,EE,205E4EB8,extended,00000015
+
+[Press {L1}+{SELECT} For 9:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 9:00 P.M.
+// Press {L1}+{SELECT} For 9:00 P.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 10:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 10:00 P.M.
+// Press {L1}+{SELECT} For 10:00 P.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 10:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 10:00 P.M.
+// Press {L1}+{SELECT} For 10:00 P.M.
+patch=1,EE,205E4EB8,extended,00000016
+
+[Press {L1}+{SELECT} For 10:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 10:00 P.M.
+// Press {L1}+{SELECT} For 10:00 P.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Press {L1}+{SELECT} For 11:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 11:00 P.M.
+// Press {L1}+{SELECT} For 11:00 P.M.
+patch=1,EE,E002FBFE,extended,006D5DC2
+
+[Press {L1}+{SELECT} For 11:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 11:00 P.M.
+// Press {L1}+{SELECT} For 11:00 P.M.
+patch=1,EE,205E4EB8,extended,00000017
+
+[Press {L1}+{SELECT} For 11:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For 11:00 P.M.
+// Press {L1}+{SELECT} For 11:00 P.M.
+patch=1,EE,205E4EBC,extended,00000000
+
+[Max Money Earned]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money Earned
+// Max Money Earned
+patch=1,EE,206C7060,extended,05F5E0FF
+
+[No Money Earned]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money Earned
+// No Money Earned
+patch=1,EE,206C7060,extended,00000000
+
+[Max Room Trophies Unlocked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Room Trophies Unlocked
+// Max Room Trophies Unlocked
+patch=1,EE,206C7064,extended,00000024
+
+[No Room Trophies Unlocked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Room Trophies Unlocked
+// No Room Trophies Unlocked
+patch=1,EE,206C7064,extended,00000000
+
+[Max Time Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Played
+// Max Time Played
+patch=1,EE,206C7068,extended,FFFFFFFF
+
+[No Time Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Time Played
+// No Time Played
+patch=1,EE,206C7068,extended,00000000
+
+[Max Times Busted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Times Busted
+// Max Times Busted
+patch=1,EE,206C706C,extended,05F5E0FF
+
+[No Times Busted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Times Busted
+// No Times Busted
+patch=1,EE,206C706C,extended,00000000
+
+[Max Times Passed Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Times Passed Out
+// Max Times Passed Out
+patch=1,EE,206C7070,extended,05F5E0FF
+
+[No Times Passed Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Times Passed Out
+// No Times Passed Out
+patch=1,EE,206C7070,extended,00000000
+
+[Max Distance Travelled On Foot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Distance Travelled On Foot
+// Max Distance Travelled On Foot
+patch=1,EE,206C7074,extended,4B189678
+
+[No Distance Travelled On Foot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Travelled On Foot
+// No Distance Travelled On Foot
+patch=1,EE,206C7074,extended,00000000
+
+[Max Distance Travelled On Skateboard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Distance Travelled On Skateboard
+// Max Distance Travelled On Skateboard
+patch=1,EE,206C7078,extended,4B189678
+
+[No Distance Travelled On Skateboard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Travelled On Skateboard
+// No Distance Travelled On Skateboard
+patch=1,EE,206C7078,extended,00000000
+
+[Max Distance Travelled On Bike]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Distance Travelled On Bike
+// Max Distance Travelled On Bike
+patch=1,EE,206C707C,extended,4B189678
+
+[No Distance Travelled On Bike]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Travelled On Bike
+// No Distance Travelled On Bike
+patch=1,EE,206C707C,extended,00000000
+
+[Max Distance Travelled On Go Kart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Distance Travelled On Go Kart
+// Max Distance Travelled On Go Kart
+patch=1,EE,206C7080,extended,4B189678
+
+[No Distance Travelled On Go Kart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Travelled On Go Kart
+// No Distance Travelled On Go Kart
+patch=1,EE,206C7080,extended,00000000
+
+[Max Distance Travelled On Go Kart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Distance Travelled On Go Kart
+// Max Distance Travelled On Go Kart
+patch=1,EE,206C7084,extended,4B189678
+
+[No Distance Travelled On Go Kart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Travelled On Go Kart
+// No Distance Travelled On Go Kart
+patch=1,EE,206C7084,extended,00000000
+
+[Max Distance Travelled On Lawnmower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Distance Travelled On Lawnmower
+// Max Distance Travelled On Lawnmower
+patch=1,EE,206C7088,extended,4B189678
+
+[No Distance Travelled On Lawnmower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Travelled On Lawnmower
+// No Distance Travelled On Lawnmower
+patch=1,EE,206C7088,extended,00000000
+
+[Max Distance Swam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Distance Swam
+// Max Distance Swam
+patch=1,EE,206C708C,extended,4B189678
+
+[No Distance Swam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Swam
+// No Distance Swam
+patch=1,EE,206C708C,extended,00000000
+
+[Max Times Tattled On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Times Tattled On
+// Max Times Tattled On
+patch=1,EE,206C7090,extended,05F5E0FF
+
+[No Times Tattled On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Times Tattled On
+// No Times Tattled On
+patch=1,EE,206C7090,extended,00000000
+
+[Max Times Slipped On Banana Skin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Times Slipped On Banana Skin
+// Max Times Slipped On Banana Skin
+patch=1,EE,206C7094,extended,05F5E0FF
+
+[No Times Slipped On Banana Skin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Times Slipped On Banana Skin
+// No Times Slipped On Banana Skin
+patch=1,EE,206C7094,extended,00000000
+
+[Max Times Slipped On Marbles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Times Slipped On Marbles
+// Max Times Slipped On Marbles
+patch=1,EE,206C7098,extended,05F5E0FF
+
+[No Times Slipped On Marbles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Times Slipped On Marbles
+// No Times Slipped On Marbles
+patch=1,EE,206C7098,extended,00000000
+
+[Max Mascot Dances Attempted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mascot Dances Attempted
+// Max Mascot Dances Attempted
+patch=1,EE,206C709C,extended,05F5E0FF
+
+[No Mascot Dances Attempted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mascot Dances Attempted
+// No Mascot Dances Attempted
+patch=1,EE,206C709C,extended,00000000
+
+[Max Mascot Dances Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mascot Dances Completed
+// Max Mascot Dances Completed
+patch=1,EE,206C70A0,extended,05F5E0FF
+
+[No Mascot Dances Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mascot Dances Completed
+// No Mascot Dances Completed
+patch=1,EE,206C70A0,extended,00000000
+
+[Max Hit By Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Hit By Car
+// Max Hit By Car
+patch=1,EE,206C70A4,extended,05F5E0FF
+
+[No Hit By Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Hit By Car
+// No Hit By Car
+patch=1,EE,206C70A4,extended,00000000
+
+[Max Food Fights Started]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Food Fights Started
+// Max Food Fights Started
+patch=1,EE,206C70A8,extended,05F5E0FF
+
+[No Food Fights Started]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Food Fights Started
+// No Food Fights Started
+patch=1,EE,206C70A8,extended,00000000
+
+[Max Snowball Fights Started]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Snowball Fights Started
+// Max Snowball Fights Started
+patch=1,EE,206C70AC,extended,05F5E0FF
+
+[No Snowball Fights Started]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Snowball Fights Started
+// No Snowball Fights Started
+patch=1,EE,206C70AC,extended,00000000
+
+[Max Windows Broken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Windows Broken
+// Max Windows Broken
+patch=1,EE,206C70B0,extended,05F5E0FF
+
+[No Windows Broken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Windows Broken
+// No Windows Broken
+patch=1,EE,206C70B0,extended,00000000
+
+[Max Plants Smashed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Plants Smashed
+// Max Plants Smashed
+patch=1,EE,206C70B4,extended,05F5E0FF
+
+[No Plants Smashed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Plants Smashed
+// No Plants Smashed
+patch=1,EE,206C70B4,extended,00000000
+
+[Max Cars Egged]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cars Egged
+// Max Cars Egged
+patch=1,EE,206C70B8,extended,05F5E0FF
+
+[No Cars Egged]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Cars Egged
+// No Cars Egged
+patch=1,EE,206C70B8,extended,00000000
+
+[Max Fire Crackers In Toilets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fire Crackers In Toilets
+// Max Fire Crackers In Toilets
+patch=1,EE,206C70BC,extended,05F5E0FF
+
+[No Fire Crackers In Toilets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Fire Crackers In Toilets
+// No Fire Crackers In Toilets
+patch=1,EE,206C70BC,extended,00000000
+
+[Max Cars Damaged]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cars Damaged
+// Max Cars Damaged
+patch=1,EE,206C70C0,extended,05F5E0FF
+
+[No Cars Damaged]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Cars Damaged
+// No Cars Damaged
+patch=1,EE,206C70C0,extended,00000000
+
+[Max Trash Bins Smashed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Trash Bins Smashed
+// Max Trash Bins Smashed
+patch=1,EE,206C70C8,extended,05F5E0FF
+
+[No Trash Bins Smashed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Trash Bins Smashed
+// No Trash Bins Smashed
+patch=1,EE,206C70C8,extended,00000000
+
+[Max Crates Smashed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Crates Smashed
+// Max Crates Smashed
+patch=1,EE,206C70CC,extended,05F5E0FF
+
+[No Crates Smashed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Crates Smashed
+// No Crates Smashed
+patch=1,EE,206C70CC,extended,00000000
+
+[Max Times Hidden]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Times Hidden
+// Max Times Hidden
+patch=1,EE,206C70D0,extended,05F5E0FF
+
+[No Times Hidden]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Times Hidden
+// No Times Hidden
+patch=1,EE,206C70D0,extended,00000000
+
+[Max Times Using Toilet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Times Using Toilet
+// Max Times Using Toilet
+patch=1,EE,206C70D4,extended,05F5E0FF
+
+[No Times Using Toilet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Times Using Toilet
+// No Times Using Toilet
+patch=1,EE,206C70D4,extended,00000000
+
+[Max Times Using Urinal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Times Using Urinal
+// Max Times Using Urinal
+patch=1,EE,206C70D8,extended,05F5E0FF
+
+[No Times Using Urinal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Times Using Urinal
+// No Times Using Urinal
+patch=1,EE,206C70D8,extended,00000000
+
+[Max Fire Alarms Pulled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fire Alarms Pulled
+// Max Fire Alarms Pulled
+patch=1,EE,206C70DC,extended,05F5E0FF
+
+[No Fire Alarms Pulled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Fire Alarms Pulled
+// No Fire Alarms Pulled
+patch=1,EE,206C70DC,extended,00000000
+
+[Max Wedgies Given]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wedgies Given
+// Max Wedgies Given
+patch=1,EE,206C70E0,extended,05F5E0FF
+
+[No Wedgies Given]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Wedgies Given
+// No Wedgies Given
+patch=1,EE,206C70E0,extended,00000000
+
+[Max Swirlies Given]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Swirlies Given
+// Max Swirlies Given
+patch=1,EE,206C70E4,extended,05F5E0FF
+
+[No Swirlies Given]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Swirlies Given
+// No Swirlies Given
+patch=1,EE,206C70E4,extended,00000000
+
+[Max People Stuffed In Lockers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max People Stuffed In Lockers
+// Max People Stuffed In Lockers
+patch=1,EE,206C70E8,extended,05F5E0FF
+
+[No People Stuffed In Lockers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No People Stuffed In Lockers
+// No People Stuffed In Lockers
+patch=1,EE,206C70E8,extended,00000000
+
+[Max People Stuffed In Bins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max People Stuffed In Bins
+// Max People Stuffed In Bins
+patch=1,EE,206C70EC,extended,05F5E0FF
+
+[No People Stuffed In Bins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No People Stuffed In Bins
+// No People Stuffed In Bins
+patch=1,EE,206C70EC,extended,00000000
+
+[Max Chocolates Found]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Chocolates Found
+// Max Chocolates Found
+patch=1,EE,206C70F0,extended,05F5E0FF
+
+[No Chocolates Found]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Chocolates Found
+// No Chocolates Found
+patch=1,EE,206C70F0,extended,00000000
+
+[Max Chocolates Obtained]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Chocolates Obtained
+// Max Chocolates Obtained
+patch=1,EE,206C70F4,extended,05F5E0FF
+
+[No Chocolates Obtained]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Chocolates Obtained
+// No Chocolates Obtained
+patch=1,EE,206C70F4,extended,00000000
+
+[Max Flowers Found]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Flowers Found
+// Max Flowers Found
+patch=1,EE,206C70F8,extended,05F5E0FF
+
+[No Flowers Found]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Flowers Found
+// No Flowers Found
+patch=1,EE,206C70F8,extended,00000000
+
+[Max Flowers Obtained]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Flowers Obtained
+// Max Flowers Obtained
+patch=1,EE,206C70FC,extended,05F5E0FF
+
+[No Flowers Obtained]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Flowers Obtained
+// No Flowers Obtained
+patch=1,EE,206C70FC,extended,00000000
+
+[Max Sodas Drank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Sodas Drank
+// Max Sodas Drank
+patch=1,EE,206C7100,extended,05F5E0FF
+
+[No Sodas Drank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Sodas Drank
+// No Sodas Drank
+patch=1,EE,206C7100,extended,00000000
+
+[Max Frisbees Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Frisbees Thrown
+// Max Frisbees Thrown
+patch=1,EE,206C7104,extended,05F5E0FF
+
+[No Frisbees Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Frisbees Thrown
+// No Frisbees Thrown
+patch=1,EE,206C7104,extended,00000000
+
+[Max Basketballs Dribbled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Basketballs Dribbled
+// Max Basketballs Dribbled
+patch=1,EE,206C7108,extended,05F5E0FF
+
+[No Basketballs Dribbled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Basketballs Dribbled
+// No Basketballs Dribbled
+patch=1,EE,206C7108,extended,00000000
+
+[Max Socker Balls Kicked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Socker Balls Kicked
+// Max Socker Balls Kicked
+patch=1,EE,206C710C,extended,05F5E0FF
+
+[No Socker Balls Kicked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Socker Balls Kicked
+// No Socker Balls Kicked
+patch=1,EE,206C710C,extended,00000000
+
+[Max Footballs Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Footballs Thrown
+// Max Footballs Thrown
+patch=1,EE,206C7110,extended,05F5E0FF
+
+[No Footballs Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Footballs Thrown
+// No Footballs Thrown
+patch=1,EE,206C7110,extended,00000000
+
+[Max Facts Gained From World Globe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Facts Gained From World Globe
+// Max Facts Gained From World Globe
+patch=1,EE,206C7114,extended,05F5E0FF
+
+[No Facts Gained From World Globe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Facts Gained From World Globe
+// No Facts Gained From World Globe
+patch=1,EE,206C7114,extended,00000000
+
+[Max Bikes Jacked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bikes Jacked
+// Max Bikes Jacked
+patch=1,EE,206C7118,extended,05F5E0FF
+
+[No Bikes Jacked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Bikes Jacked
+// No Bikes Jacked
+patch=1,EE,206C7118,extended,00000000
+
+[Max Times Crashed On Bike]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Times Crashed On Bike
+// Max Times Crashed On Bike
+patch=1,EE,206C711C,extended,05F5E0FF
+
+[No Times Crashed On Bike]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Times Crashed On Bike
+// No Times Crashed On Bike
+patch=1,EE,206C711C,extended,00000000
+
+[Max Pushed Off Bike]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pushed Off Bike
+// Max Pushed Off Bike
+patch=1,EE,206C7120,extended,05F5E0FF
+
+[No Pushed Off Bike]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Pushed Off Bike
+// No Pushed Off Bike
+patch=1,EE,206C7120,extended,00000000
+
+[Max Wheelies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wheelies
+// Max Wheelies
+patch=1,EE,206C7124,extended,05F5E0FF
+
+[No Wheelies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Wheelies
+// No Wheelies
+patch=1,EE,206C7124,extended,00000000
+
+[Max Bike Garages Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bike Garages Used
+// Max Bike Garages Used
+patch=1,EE,206C7130,extended,05F5E0FF
+
+[No Bike Garages Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Bike Garages Used
+// No Bike Garages Used
+patch=1,EE,206C7130,extended,00000000
+
+[Max Carnival Races Raced]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Carnival Races Raced
+// Max Carnival Races Raced
+patch=1,EE,206C7138,extended,05F5E0FF
+
+[No Carnival Races Raced]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Carnival Races Raced
+// No Carnival Races Raced
+patch=1,EE,206C7138,extended,00000000
+
+[Max Carnival Races Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Carnival Races Won
+// Max Carnival Races Won
+patch=1,EE,206C713C,extended,05F5E0FF
+
+[No Carnival Races Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Carnival Races Won
+// No Carnival Races Won
+patch=1,EE,206C713C,extended,00000000
+
+[Max Street Races Raced]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Street Races Raced
+// Max Street Races Raced
+patch=1,EE,206C7140,extended,05F5E0FF
+
+[No Street Races Raced]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Street Races Raced
+// No Street Races Raced
+patch=1,EE,206C7140,extended,00000000
+
+[Max Street Races Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Street Races Won
+// Max Street Races Won
+patch=1,EE,206C7144,extended,05F5E0FF
+
+[No Street Races Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Street Races Won
+// No Street Races Won
+patch=1,EE,206C7144,extended,00000000
+
+[Max Money Spent On Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money Spent On Bikes
+// Max Money Spent On Bikes
+patch=1,EE,206C7148,extended,05F5E0FF
+
+[No Money Spent On Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money Spent On Bikes
+// No Money Spent On Bikes
+patch=1,EE,206C7148,extended,00000000
+
+[Max Money Spent In The General Store]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money Spent In The General Store
+// Max Money Spent In The General Store
+patch=1,EE,206C714C,extended,05F5E0FF
+
+[No Money Spent In The General Store]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money Spent In The General Store
+// No Money Spent In The General Store
+patch=1,EE,206C714C,extended,00000000
+
+[Max Money Spent On Clothing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money Spent On Clothing
+// Max Money Spent On Clothing
+patch=1,EE,206C7150,extended,05F5E0FF
+
+[No Money Spent On Clothing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money Spent On Clothing
+// No Money Spent On Clothing
+patch=1,EE,206C7150,extended,00000000
+
+[Max Money Spent In The Comic Store]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money Spent In The Comic Store
+// Max Money Spent In The Comic Store
+patch=1,EE,206C7154,extended,05F5E0FF
+
+[No Money Spent In The Comic Store]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money Spent In The Comic Store
+// No Money Spent In The Comic Store
+patch=1,EE,206C7154,extended,00000000
+
+[Max Money Spent On Haircuts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money Spent On Haircuts
+// Max Money Spent On Haircuts
+patch=1,EE,206C7158,extended,05F5E0FF
+
+[No Money Spent On Haircuts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money Spent On Haircuts
+// No Money Spent On Haircuts
+patch=1,EE,206C7158,extended,00000000
+
+[Max Money Spent On Tattoos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money Spent On Tattoos
+// Max Money Spent On Tattoos
+patch=1,EE,206C715C,extended,05F5E0FF
+
+[No Money Spent On Tattoos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money Spent On Tattoos
+// No Money Spent On Tattoos
+patch=1,EE,206C715C,extended,00000000
+
+[Max Items Purchased]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Items Purchased
+// Max Items Purchased
+patch=1,EE,206C7160,extended,05F5E0FF
+
+[No Items Purchased]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Items Purchased
+// No Items Purchased
+patch=1,EE,206C7160,extended,00000000
+
+[Max Bikes Purchased]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bikes Purchased
+// Max Bikes Purchased
+patch=1,EE,206C7164,extended,05F5E0FF
+
+[No Bikes Purchased]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Bikes Purchased
+// No Bikes Purchased
+patch=1,EE,206C7164,extended,00000000
+
+[Max Clothing Items Purchased]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Clothing Items Purchased
+// Max Clothing Items Purchased
+patch=1,EE,206C7168,extended,05F5E0FF
+
+[No Clothing Items Purchased]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Clothing Items Purchased
+// No Clothing Items Purchased
+patch=1,EE,206C7168,extended,00000000
+
+[Max Haircuts Purchased]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Haircuts Purchased
+// Max Haircuts Purchased
+patch=1,EE,206C716C,extended,05F5E0FF
+
+[No Haircuts Purchased]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Haircuts Purchased
+// No Haircuts Purchased
+patch=1,EE,206C716C,extended,00000000
+
+[Max Tattoos Purchased]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tattoos Purchased
+// Max Tattoos Purchased
+patch=1,EE,206C7170,extended,05F5E0FF
+
+[No Tattoos Purchased]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Tattoos Purchased
+// No Tattoos Purchased
+patch=1,EE,206C7170,extended,00000000
+
+[Max Water Balloons Made]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Water Balloons Made
+// Max Water Balloons Made
+patch=1,EE,206C7174,extended,05F5E0FF
+
+[No Water Balloons Made]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Water Balloons Made
+// No Water Balloons Made
+patch=1,EE,206C7174,extended,00000000
+
+[Max Water Balloons Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Water Balloons Thrown
+// Max Water Balloons Thrown
+patch=1,EE,206C7178,extended,05F5E0FF
+
+[No Water Balloons Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Water Balloons Thrown
+// No Water Balloons Thrown
+patch=1,EE,206C7178,extended,00000000
+
+[Max Water Balloons Hit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Water Balloons Hit
+// Max Water Balloons Hit
+patch=1,EE,206C717C,extended,05F5E0FF
+
+[No Water Balloons Hit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Water Balloons Hit
+// No Water Balloons Hit
+patch=1,EE,206C717C,extended,00000000
+
+[Max Itching Powder Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Itching Powder Thrown
+// Max Itching Powder Thrown
+patch=1,EE,206C7180,extended,05F5E0FF
+
+[No Itching Powder Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Itching Powder Thrown
+// No Itching Powder Thrown
+patch=1,EE,206C7180,extended,00000000
+
+[Max Itching Powder Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Itching Powder Hits
+// Max Itching Powder Hits
+patch=1,EE,206C7184,extended,05F5E0FF
+
+[No Itching Powder Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Itching Powder Hits
+// No Itching Powder Hits
+patch=1,EE,206C7184,extended,00000000
+
+[Max Stink Bomb Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stink Bomb Thrown
+// Max Stink Bomb Thrown
+patch=1,EE,206C7188,extended,05F5E0FF
+
+[No Stink Bomb Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stink Bomb Thrown
+// No Stink Bomb Thrown
+patch=1,EE,206C7188,extended,00000000
+
+[Max Stink Bomb Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stink Bomb Hits
+// Max Stink Bomb Hits
+patch=1,EE,206C718C,extended,05F5E0FF
+
+[No Stink Bomb Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stink Bomb Hits
+// No Stink Bomb Hits
+patch=1,EE,206C718C,extended,00000000
+
+[Max Kick Me Signs Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Kick Me Signs Used
+// Max Kick Me Signs Used
+patch=1,EE,206C7190,extended,05F5E0FF
+
+[No Kick Me Signs Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Kick Me Signs Used
+// No Kick Me Signs Used
+patch=1,EE,206C7190,extended,00000000
+
+[Max Marbles Dropped]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Marbles Dropped
+// Max Marbles Dropped
+patch=1,EE,206C7194,extended,05F5E0FF
+
+[No Marbles Dropped]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Marbles Dropped
+// No Marbles Dropped
+patch=1,EE,206C7194,extended,00000000
+
+[Max People Tripped With Marbles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max People Tripped With Marbles
+// Max People Tripped With Marbles
+patch=1,EE,206C7198,extended,05F5E0FF
+
+[No People Tripped With Marbles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No People Tripped With Marbles
+// No People Tripped With Marbles
+patch=1,EE,206C7198,extended,00000000
+
+[Max Volcano 4000s Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Volcano 4000s Used
+// Max Volcano 4000s Used
+patch=1,EE,206C71A8,extended,05F5E0FF
+
+[No Volcano 4000s Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Volcano 4000s Used
+// No Volcano 4000s Used
+patch=1,EE,206C71A8,extended,00000000
+
+[Max People Knocked Down By Volcano 4000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max People Knocked Down By Volcano 4000
+// Max People Knocked Down By Volcano 4000
+patch=1,EE,206C71AC,extended,05F5E0FF
+
+[No People Knocked Down By Volcano 4000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No People Knocked Down By Volcano 4000
+// No People Knocked Down By Volcano 4000
+patch=1,EE,206C71AC,extended,00000000
+
+[Max Sodas Bought]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Sodas Bought
+// Max Sodas Bought
+patch=1,EE,206C7368,extended,05F5E0FF
+
+[No Sodas Bought]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Sodas Bought
+// No Sodas Bought
+patch=1,EE,206C7368,extended,00000000
+
+[Max Times Knocked Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Times Knocked Out
+// Max Times Knocked Out
+patch=1,EE,206C7134,extended,05F5E0FF
+
+[No Times Knocked Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Times Knocked Out
+// No Times Knocked Out
+patch=1,EE,206C7134,extended,00000000
+
+[Max Nerds Knocked Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Nerds Knocked Out
+// Max Nerds Knocked Out
+patch=1,EE,206C71B0,extended,05F5E0FF
+
+[No Nerds Knocked Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Nerds Knocked Out
+// No Nerds Knocked Out
+patch=1,EE,206C71B0,extended,00000000
+
+[Max Knocked Out By Nerds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Knocked Out By Nerds
+// Max Knocked Out By Nerds
+patch=1,EE,206C71B4,extended,05F5E0FF
+
+[No Knocked Out By Nerds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Knocked Out By Nerds
+// No Knocked Out By Nerds
+patch=1,EE,206C71B4,extended,00000000
+
+[Max Bullies Knocked Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bullies Knocked Out
+// Max Bullies Knocked Out
+patch=1,EE,206C71B8,extended,05F5E0FF
+
+[No Bullies Knocked Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Bullies Knocked Out
+// No Bullies Knocked Out
+patch=1,EE,206C71B8,extended,00000000
+
+[Max Knocked Out By Bullies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Knocked Out By Bullies
+// Max Knocked Out By Bullies
+patch=1,EE,206C71BC,extended,05F5E0FF
+
+[No Knocked Out By Bullies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Knocked Out By Bullies
+// No Knocked Out By Bullies
+patch=1,EE,206C71BC,extended,00000000
+
+[Max Preps Knocked Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Preps Knocked Out
+// Max Preps Knocked Out
+patch=1,EE,206C71C0,extended,05F5E0FF
+
+[No Preps Knocked Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Preps Knocked Out
+// No Preps Knocked Out
+patch=1,EE,206C71C0,extended,00000000
+
+[Max Knocked Out By Prep]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Knocked Out By Prep
+// Max Knocked Out By Prep
+patch=1,EE,206C71C4,extended,05F5E0FF
+
+[No Knocked Out By Prep]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Knocked Out By Prep
+// No Knocked Out By Prep
+patch=1,EE,206C71C4,extended,00000000
+
+[Max Greasers Knocked Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Greasers Knocked Out
+// Max Greasers Knocked Out
+patch=1,EE,206C71C8,extended,05F5E0FF
+
+[No Greasers Knocked Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Greasers Knocked Out
+// No Greasers Knocked Out
+patch=1,EE,206C71C8,extended,00000000
+
+[Max Knocked Out By Greaser]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Knocked Out By Greaser
+// Max Knocked Out By Greaser
+patch=1,EE,206C71CC,extended,05F5E0FF
+
+[No Knocked Out By Greaser]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Knocked Out By Greaser
+// No Knocked Out By Greaser
+patch=1,EE,206C71CC,extended,00000000
+
+[Max Jocks Knocked Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jocks Knocked Out
+// Max Jocks Knocked Out
+patch=1,EE,206C71D0,extended,05F5E0FF
+
+[No Jocks Knocked Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Jocks Knocked Out
+// No Jocks Knocked Out
+patch=1,EE,206C71D0,extended,00000000
+
+[Max Knocked Out By Jock]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Knocked Out By Jock
+// Max Knocked Out By Jock
+patch=1,EE,206C71D4,extended,05F5E0FF
+
+[No Knocked Out By Jock]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Knocked Out By Jock
+// No Knocked Out By Jock
+patch=1,EE,206C71D4,extended,00000000
+
+[Max Townies Knocked Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Townies Knocked Out
+// Max Townies Knocked Out
+patch=1,EE,206C71D8,extended,05F5E0FF
+
+[No Townies Knocked Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Townies Knocked Out
+// No Townies Knocked Out
+patch=1,EE,206C71D8,extended,00000000
+
+[Max Knocked Out By Townie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Knocked Out By Townie
+// Max Knocked Out By Townie
+patch=1,EE,206C71DC,extended,05F5E0FF
+
+[No Knocked Out By Townie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Knocked Out By Townie
+// No Knocked Out By Townie
+patch=1,EE,206C71DC,extended,00000000
+
+[Max Rats Killed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rats Killed
+// Max Rats Killed
+patch=1,EE,206C71E0,extended,05F5E0FF
+
+[No Rats Killed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Rats Killed
+// No Rats Killed
+patch=1,EE,206C71E0,extended,00000000
+
+[Max Times Slapped]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Times Slapped
+// Max Times Slapped
+patch=1,EE,206C71E4,extended,05F5E0FF
+
+[No Times Slapped]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Times Slapped
+// No Times Slapped
+patch=1,EE,206C71E4,extended,00000000
+
+[Max Times Kicked In The Nuts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Times Kicked In The Nuts
+// Max Times Kicked In The Nuts
+patch=1,EE,206C71E8,extended,05F5E0FF
+
+[No Times Kicked In The Nuts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Times Kicked In The Nuts
+// No Times Kicked In The Nuts
+patch=1,EE,206C71E8,extended,00000000
+
+[Max Punches Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Punches Thrown
+// Max Punches Thrown
+patch=1,EE,206C71EC,extended,05F5E0FF
+
+[No Punches Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Punches Thrown
+// No Punches Thrown
+patch=1,EE,206C71EC,extended,00000000
+
+[Max Punches Hit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Punches Hit
+// Max Punches Hit
+patch=1,EE,206C71F0,extended,05F5E0FF
+
+[No Punches Hit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Punches Hit
+// No Punches Hit
+patch=1,EE,206C71F0,extended,00000000
+
+[Max Kicks Attempted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Kicks Attempted
+// Max Kicks Attempted
+patch=1,EE,206C71F4,extended,05F5E0FF
+
+[No Kicks Attempted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Kicks Attempted
+// No Kicks Attempted
+patch=1,EE,206C71F4,extended,00000000
+
+[Max Kicks Landed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Kicks Landed
+// Max Kicks Landed
+patch=1,EE,206C71F8,extended,05F5E0FF
+
+[No Kicks Landed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Kicks Landed
+// No Kicks Landed
+patch=1,EE,206C71F8,extended,00000000
+
+[Max Grapples Attempted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Grapples Attempted
+// Max Grapples Attempted
+patch=1,EE,206C71FC,extended,05F5E0FF
+
+[No Grapples Attempted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Grapples Attempted
+// No Grapples Attempted
+patch=1,EE,206C71FC,extended,00000000
+
+[Max Successful Grapples]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Successful Grapples
+// Max Successful Grapples
+patch=1,EE,206C7200,extended,05F5E0FF
+
+[No Successful Grapples]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Successful Grapples
+// No Successful Grapples
+patch=1,EE,206C7200,extended,00000000
+
+[Max Melee Weapon Attacks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Melee Weapon Attacks
+// Max Melee Weapon Attacks
+patch=1,EE,206C7204,extended,05F5E0FF
+
+[No Melee Weapon Attacks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Melee Weapon Attacks
+// No Melee Weapon Attacks
+patch=1,EE,206C7204,extended,00000000
+
+[Max Melee Weapon Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Melee Weapon Hits
+// Max Melee Weapon Hits
+patch=1,EE,206C7208,extended,05F5E0FF
+
+[No Melee Weapon Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Melee Weapon Hits
+// No Melee Weapon Hits
+patch=1,EE,206C7208,extended,00000000
+
+[Max Projectiles Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Projectiles Fired
+// Max Projectiles Fired
+patch=1,EE,206C720C,extended,05F5E0FF
+
+[No Projectiles Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Projectiles Fired
+// No Projectiles Fired
+patch=1,EE,206C720C,extended,00000000
+
+[Max Projectiles Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Projectiles Hits
+// Max Projectiles Hits
+patch=1,EE,206C7210,extended,05F5E0FF
+
+[No Projectiles Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Projectiles Hits
+// No Projectiles Hits
+patch=1,EE,206C7210,extended,00000000
+
+[Max Fire Crackers Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fire Crackers Collected
+// Max Fire Crackers Collected
+patch=1,EE,206C7214,extended,05F5E0FF
+
+[No Fire Crackers Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Fire Crackers Collected
+// No Fire Crackers Collected
+patch=1,EE,206C7214,extended,00000000
+
+[Max Fire Crackers Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fire Crackers Thrown
+// Max Fire Crackers Thrown
+patch=1,EE,206C7218,extended,05F5E0FF
+
+[No Fire Crackers Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Fire Crackers Thrown
+// No Fire Crackers Thrown
+patch=1,EE,206C7218,extended,00000000
+
+[Max Fire Cracker Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fire Cracker Hits
+// Max Fire Cracker Hits
+patch=1,EE,206C721C,extended,05F5E0FF
+
+[No Fire Cracker Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Fire Cracker Hits
+// No Fire Cracker Hits
+patch=1,EE,206C721C,extended,00000000
+
+[Max Spuds Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spuds Collected
+// Max Spuds Collected
+patch=1,EE,206C7220,extended,05F5E0FF
+
+[No Spuds Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Spuds Collected
+// No Spuds Collected
+patch=1,EE,206C7220,extended,00000000
+
+[Max Spud Gun Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spud Gun Fired
+// Max Spud Gun Fired
+patch=1,EE,206C7224,extended,05F5E0FF
+
+[No Spud Gun Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Spud Gun Fired
+// No Spud Gun Fired
+patch=1,EE,206C7224,extended,00000000
+
+[Max Spud Gun Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spud Gun Hits
+// Max Spud Gun Hits
+patch=1,EE,206C7228,extended,05F5E0FF
+
+[No Spud Gun Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Spud Gun Hits
+// No Spud Gun Hits
+patch=1,EE,206C7228,extended,00000000
+
+[Max Eggs Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Eggs Collected
+// Max Eggs Collected
+patch=1,EE,206C722C,extended,05F5E0FF
+
+[No Eggs Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Eggs Collected
+// No Eggs Collected
+patch=1,EE,206C722C,extended,00000000
+
+[Max Eggs Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Eggs Thrown
+// Max Eggs Thrown
+patch=1,EE,206C7230,extended,05F5E0FF
+
+[No Eggs Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Eggs Thrown
+// No Eggs Thrown
+patch=1,EE,206C7230,extended,00000000
+
+[Max Eggs Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Eggs Hits
+// Max Eggs Hits
+patch=1,EE,206C7234,extended,05F5E0FF
+
+[No Eggs Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Eggs Hits
+// No Eggs Hits
+patch=1,EE,206C7234,extended,00000000
+
+[Max Bottle Rockets Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bottle Rockets Collected
+// Max Bottle Rockets Collected
+patch=1,EE,206C7238,extended,05F5E0FF
+
+[No Bottle Rockets Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Bottle Rockets Collected
+// No Bottle Rockets Collected
+patch=1,EE,206C7238,extended,00000000
+
+[Max Bottle Rockets Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bottle Rockets Fired
+// Max Bottle Rockets Fired
+patch=1,EE,206C723C,extended,05F5E0FF
+
+[No Bottle Rockets Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Bottle Rockets Fired
+// No Bottle Rockets Fired
+patch=1,EE,206C723C,extended,00000000
+
+[Max Bottle Rocket Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bottle Rocket Hits
+// Max Bottle Rocket Hits
+patch=1,EE,206C7240,extended,05F5E0FF
+
+[No Bottle Rocket Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Bottle Rocket Hits
+// No Bottle Rocket Hits
+patch=1,EE,206C7240,extended,00000000
+
+[Max Slingshot Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Slingshot Fired
+// Max Slingshot Fired
+patch=1,EE,206C7244,extended,05F5E0FF
+
+[No Slingshot Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Slingshot Fired
+// No Slingshot Fired
+patch=1,EE,206C7244,extended,00000000
+
+[Max Slingshot Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Slingshot Hits
+// Max Slingshot Hits
+patch=1,EE,206C7248,extended,05F5E0FF
+
+[No Slingshot Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Slingshot Hits
+// No Slingshot Hits
+patch=1,EE,206C7248,extended,00000000
+
+[Max Super Slingshot Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Super Slingshot Fired
+// Max Super Slingshot Fired
+patch=1,EE,206C724C,extended,05F5E0FF
+
+[No Super Slingshot Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Super Slingshot Fired
+// No Super Slingshot Fired
+patch=1,EE,206C724C,extended,00000000
+
+[Max Super Slingshot Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Super Slingshot Hits
+// Max Super Slingshot Hits
+patch=1,EE,206C7250,extended,05F5E0FF
+
+[No Super Slingshot Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Super Slingshot Hits
+// No Super Slingshot Hits
+patch=1,EE,206C7250,extended,00000000
+
+[Max Snowballs Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Snowballs Thrown
+// Max Snowballs Thrown
+patch=1,EE,206C7254,extended,05F5E0FF
+
+[No Snowballs Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Snowballs Thrown
+// No Snowballs Thrown
+patch=1,EE,206C7254,extended,00000000
+
+[Max Snowball Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Snowball Hits
+// Max Snowball Hits
+patch=1,EE,206C7258,extended,05F5E0FF
+
+[No Snowball Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Snowball Hits
+// No Snowball Hits
+patch=1,EE,206C7258,extended,00000000
+
+[Max Food Items Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Food Items Thrown
+// Max Food Items Thrown
+patch=1,EE,206C725C,extended,05F5E0FF
+
+[No Food Items Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Food Items Thrown
+// No Food Items Thrown
+patch=1,EE,206C725C,extended,00000000
+
+[Max Foot Item Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Foot Item Hits
+// Max Foot Item Hits
+patch=1,EE,206C7260,extended,05F5E0FF
+
+[No Foot Item Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Foot Item Hits
+// No Foot Item Hits
+patch=1,EE,206C7260,extended,00000000
+
+[Max People Knocked Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max People Knocked Out
+// Max People Knocked Out
+patch=1,EE,206C7378,extended,05F5E0FF
+
+[No People Knocked Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No People Knocked Out
+// No People Knocked Out
+patch=1,EE,206C7378,extended,00000000
+
+[Max Kisses Received]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Kisses Received
+// Max Kisses Received
+patch=1,EE,206C7264,extended,05F5E0FF
+
+[No Kisses Received]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Kisses Received
+// No Kisses Received
+patch=1,EE,206C7264,extended,00000000
+
+[Max Bottoms Pinched]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bottoms Pinched
+// Max Bottoms Pinched
+patch=1,EE,206C7268,extended,05F5E0FF
+
+[No Bottoms Pinched]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Bottoms Pinched
+// No Bottoms Pinched
+patch=1,EE,206C7268,extended,00000000
+
+[Max Gifts Given To People]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Gifts Given To People
+// Max Gifts Given To People
+patch=1,EE,206C726C,extended,05F5E0FF
+
+[No Gifts Given To People]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Gifts Given To People
+// No Gifts Given To People
+patch=1,EE,206C726C,extended,00000000
+
+[Max Successful Authority Apologies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Successful Authority Apologies
+// Max Successful Authority Apologies
+patch=1,EE,206C7274,extended,05F5E0FF
+
+[No Successful Authority Apologies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Successful Authority Apologies
+// No Successful Authority Apologies
+patch=1,EE,206C7274,extended,00000000
+
+[Max Nerds Greeted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Nerds Greeted
+// Max Nerds Greeted
+patch=1,EE,206C7278,extended,05F5E0FF
+
+[No Nerds Greeted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Nerds Greeted
+// No Nerds Greeted
+patch=1,EE,206C7278,extended,00000000
+
+[Max Nerds Taunted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Nerds Taunted
+// Max Nerds Taunted
+patch=1,EE,206C727C,extended,05F5E0FF
+
+[No Nerds Taunted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Nerds Taunted
+// No Nerds Taunted
+patch=1,EE,206C727C,extended,00000000
+
+[Max Bullies Greeted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bullies Greeted
+// Max Bullies Greeted
+patch=1,EE,206C7280,extended,05F5E0FF
+
+[No Bullies Greeted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Bullies Greeted
+// No Bullies Greeted
+patch=1,EE,206C7280,extended,00000000
+
+[Max Bullies Taunted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bullies Taunted
+// Max Bullies Taunted
+patch=1,EE,206C7284,extended,05F5E0FF
+
+[No Bullies Taunted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Bullies Taunted
+// No Bullies Taunted
+patch=1,EE,206C7284,extended,00000000
+
+[Max Preps Greeted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Preps Greeted
+// Max Preps Greeted
+patch=1,EE,206C7288,extended,05F5E0FF
+
+[No Preps Greeted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Preps Greeted
+// No Preps Greeted
+patch=1,EE,206C7288,extended,00000000
+
+[Max Preps Taunted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Preps Taunted
+// Max Preps Taunted
+patch=1,EE,206C728C,extended,05F5E0FF
+
+[No Preps Taunted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Preps Taunted
+// No Preps Taunted
+patch=1,EE,206C728C,extended,00000000
+
+[Max Greasers Greeted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Greasers Greeted
+// Max Greasers Greeted
+patch=1,EE,206C7290,extended,05F5E0FF
+
+[No Greasers Greeted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Greasers Greeted
+// No Greasers Greeted
+patch=1,EE,206C7290,extended,00000000
+
+[Max Greasers Taunted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Greasers Taunted
+// Max Greasers Taunted
+patch=1,EE,206C7294,extended,05F5E0FF
+
+[No Greasers Taunted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Greasers Taunted
+// No Greasers Taunted
+patch=1,EE,206C7294,extended,00000000
+
+[Max Jocks Greeted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jocks Greeted
+// Max Jocks Greeted
+patch=1,EE,206C7298,extended,05F5E0FF
+
+[No Jocks Greeted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Jocks Greeted
+// No Jocks Greeted
+patch=1,EE,206C7298,extended,00000000
+
+[Max Jocks Taunted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jocks Taunted
+// Max Jocks Taunted
+patch=1,EE,206C729C,extended,05F5E0FF
+
+[No Jocks Taunted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Jocks Taunted
+// No Jocks Taunted
+patch=1,EE,206C729C,extended,00000000
+
+[Max Townies Greeted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Townies Greeted
+// Max Townies Greeted
+patch=1,EE,206C72A0,extended,05F5E0FF
+
+[No Townies Greeted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Townies Greeted
+// No Townies Greeted
+patch=1,EE,206C72A0,extended,00000000
+
+[Max Townies Taunted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Townies Taunted
+// Max Townies Taunted
+patch=1,EE,206C72A4,extended,05F5E0FF
+
+[No Townies Taunted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Townies Taunted
+// No Townies Taunted
+patch=1,EE,206C72A4,extended,00000000
+
+[Max Teachers Greeted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Teachers Greeted
+// Max Teachers Greeted
+patch=1,EE,206C72A8,extended,05F5E0FF
+
+[No Teachers Greeted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Teachers Greeted
+// No Teachers Greeted
+patch=1,EE,206C72A8,extended,00000000
+
+[Max Teachers Taunted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Teachers Taunted
+// Max Teachers Taunted
+patch=1,EE,206C72AC,extended,05F5E0FF
+
+[No Teachers Taunted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Teachers Taunted
+// No Teachers Taunted
+patch=1,EE,206C72AC,extended,00000000
+
+[Max Prefects Greeted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Prefects Greeted
+// Max Prefects Greeted
+patch=1,EE,206C72B0,extended,05F5E0FF
+
+[No Prefects Greeted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Prefects Greeted
+// No Prefects Greeted
+patch=1,EE,206C72B0,extended,00000000
+
+[Max Prefects Taunted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Prefects Taunted
+// Max Prefects Taunted
+patch=1,EE,206C72B4,extended,05F5E0FF
+
+[No Prefects Taunted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Prefects Taunted
+// No Prefects Taunted
+patch=1,EE,206C72B4,extended,00000000
+
+[Max Cops Greeted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cops Greeted
+// Max Cops Greeted
+patch=1,EE,206C72B8,extended,05F5E0FF
+
+[No Cops Greeted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Cops Greeted
+// No Cops Greeted
+patch=1,EE,206C72B8,extended,00000000
+
+[Max Cops Taunted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cops Taunted
+// Max Cops Taunted
+patch=1,EE,206C72BC,extended,05F5E0FF
+
+[No Cops Taunted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Cops Taunted
+// No Cops Taunted
+patch=1,EE,206C72BC,extended,00000000
+
+[Max Trouble Points Accumulated]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Trouble Points Accumulated
+// Max Trouble Points Accumulated
+patch=1,EE,206C72C8,extended,05F5E0FF
+
+[No Trouble Points Accumulated]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Trouble Points Accumulated
+// No Trouble Points Accumulated
+patch=1,EE,206C72C8,extended,00000000
+
+[Max Called To The Principal's Office]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Called To The Principal's Office
+// Max Called To The Principal's Office
+patch=1,EE,206C72CC,extended,05F5E0FF
+
+[No Called To The Principal's Office]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Called To The Principal's Office
+// No Called To The Principal's Office
+patch=1,EE,206C72CC,extended,00000000
+
+[Max Busted By Teacher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Busted By Teacher
+// Max Busted By Teacher
+patch=1,EE,206C72D8,extended,05F5E0FF
+
+[No Busted By Teacher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Busted By Teacher
+// No Busted By Teacher
+patch=1,EE,206C72D8,extended,00000000
+
+[Max Escaped From Teacher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Escaped From Teacher
+// Max Escaped From Teacher
+patch=1,EE,206C72DC,extended,05F5E0FF
+
+[No Escaped From Teacher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Escaped From Teacher
+// No Escaped From Teacher
+patch=1,EE,206C72DC,extended,00000000
+
+[Max Busted By Prefect]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Busted By Prefect
+// Max Busted By Prefect
+patch=1,EE,206C72E0,extended,05F5E0FF
+
+[No Busted By Prefect]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Busted By Prefect
+// No Busted By Prefect
+patch=1,EE,206C72E0,extended,00000000
+
+[Max Escaped From Prefect]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Escaped From Prefect
+// Max Escaped From Prefect
+patch=1,EE,206C72E4,extended,05F5E0FF
+
+[No Escaped From Prefect]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Escaped From Prefect
+// No Escaped From Prefect
+patch=1,EE,206C72E4,extended,00000000
+
+[Max Busted By Cop]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Busted By Cop
+// Max Busted By Cop
+patch=1,EE,206C72E8,extended,05F5E0FF
+
+[No Busted By Cop]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Busted By Cop
+// No Busted By Cop
+patch=1,EE,206C72E8,extended,00000000
+
+[Max Escaped From Cop]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Escaped From Cop
+// Max Escaped From Cop
+patch=1,EE,206C72EC,extended,05F5E0FF
+
+[No Escaped From Cop]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Escaped From Cop
+// No Escaped From Cop
+patch=1,EE,206C72EC,extended,00000000
+
+[Max Busted By Orderly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Busted By Orderly
+// Max Busted By Orderly
+patch=1,EE,206C72F0,extended,05F5E0FF
+
+[No Busted By Orderly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Busted By Orderly
+// No Busted By Orderly
+patch=1,EE,206C72F0,extended,00000000
+
+[Max Escaped From Orderly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Escaped From Orderly
+// Max Escaped From Orderly
+patch=1,EE,206C72F4,extended,05F5E0FF
+
+[No Escaped From Orderly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Escaped From Orderly
+// No Escaped From Orderly
+patch=1,EE,206C72F4,extended,00000000
+
+[Max Greetings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Greetings
+// Max Greetings
+patch=1,EE,206C7370,extended,05F5E0FF
+
+[No Greetings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Greetings
+// No Greetings
+patch=1,EE,206C7370,extended,00000000
+
+[Max Taunts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Taunts
+// Max Taunts
+patch=1,EE,206C7374,extended,05F5E0FF
+
+[No Taunts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Taunts
+// No Taunts
+patch=1,EE,206C7374,extended,00000000
+
+[Max Classes Skipped]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Classes Skipped
+// Max Classes Skipped
+patch=1,EE,206C72F8,extended,05F5E0FF
+
+[No Classes Skipped]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Classes Skipped
+// No Classes Skipped
+patch=1,EE,206C72F8,extended,00000000
+
+[Max Papers Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Papers Thrown
+// Max Papers Thrown
+patch=1,EE,206C72FC,extended,05F5E0FF
+
+[No Papers Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Papers Thrown
+// No Papers Thrown
+patch=1,EE,206C72FC,extended,00000000
+
+[Max Papers Delivered]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Papers Delivered
+// Max Papers Delivered
+patch=1,EE,206C7300,extended,05F5E0FF
+
+[No Papers Delivered]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Papers Delivered
+// No Papers Delivered
+patch=1,EE,206C7300,extended,00000000
+
+[Max People Hit By Papers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max People Hit By Papers
+// Max People Hit By Papers
+patch=1,EE,206C7304,extended,05F5E0FF
+
+[No People Hit By Papers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No People Hit By Papers
+// No People Hit By Papers
+patch=1,EE,206C7304,extended,00000000
+
+[Max Dogs Hit By Papers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Dogs Hit By Papers
+// Max Dogs Hit By Papers
+patch=1,EE,206C7308,extended,05F5E0FF
+
+[No Dogs Hit By Papers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Dogs Hit By Papers
+// No Dogs Hit By Papers
+patch=1,EE,206C7308,extended,00000000
+
+[Max Money Earned On Paper Routes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money Earned On Paper Routes
+// Max Money Earned On Paper Routes
+patch=1,EE,206C730C,extended,05F5E0FF
+
+[No Money Earned On Paper Routes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money Earned On Paper Routes
+// No Money Earned On Paper Routes
+patch=1,EE,206C730C,extended,00000000
+
+[Max Mowing Attempted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mowing Attempted
+// Max Mowing Attempted
+patch=1,EE,206C7310,extended,05F5E0FF
+
+[No Mowing Attempted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mowing Attempted
+// No Mowing Attempted
+patch=1,EE,206C7310,extended,00000000
+
+[Max Mowing Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mowing Completed
+// Max Mowing Completed
+patch=1,EE,206C7314,extended,05F5E0FF
+
+[No Mowing Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mowing Completed
+// No Mowing Completed
+patch=1,EE,206C7314,extended,00000000
+
+[Max Money Earned Mowing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money Earned Mowing
+// Max Money Earned Mowing
+patch=1,EE,206C731C,extended,05F5E0FF
+
+[No Money Earned Mowing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money Earned Mowing
+// No Money Earned Mowing
+patch=1,EE,206C731C,extended,00000000
+
+[Max Snow Shoveling Attempted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Snow Shoveling Attempted
+// Max Snow Shoveling Attempted
+patch=1,EE,206C7320,extended,05F5E0FF
+
+[No Snow Shoveling Attempted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Snow Shoveling Attempted
+// No Snow Shoveling Attempted
+patch=1,EE,206C7320,extended,00000000
+
+[Max Snow Shoveling Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Snow Shoveling Completed
+// Max Snow Shoveling Completed
+patch=1,EE,206C7324,extended,05F5E0FF
+
+[No Snow Shoveling Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Snow Shoveling Completed
+// No Snow Shoveling Completed
+patch=1,EE,206C7324,extended,00000000
+
+[Max Money Won In Bike Races]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money Won In Bike Races
+// Max Money Won In Bike Races
+patch=1,EE,206C732C,extended,05F5E0FF
+
+[No Money Won In Bike Races]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money Won In Bike Races
+// No Money Won In Bike Races
+patch=1,EE,206C732C,extended,00000000
+
+[Max Boxing Matches Entered]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Boxing Matches Entered
+// Max Boxing Matches Entered
+patch=1,EE,206C7330,extended,05F5E0FF
+
+[No Boxing Matches Entered]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Boxing Matches Entered
+// No Boxing Matches Entered
+patch=1,EE,206C7330,extended,00000000
+
+[Max Boxing Matches Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Boxing Matches Won
+// Max Boxing Matches Won
+patch=1,EE,206C7334,extended,05F5E0FF
+
+[No Boxing Matches Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Boxing Matches Won
+// No Boxing Matches Won
+patch=1,EE,206C7334,extended,00000000
+
+[Max Money Win In Boxing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money Win In Boxing
+// Max Money Win In Boxing
+patch=1,EE,206C7338,extended,05F5E0FF
+
+[No Money Win In Boxing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money Win In Boxing
+// No Money Win In Boxing
+patch=1,EE,206C7338,extended,00000000
+
+[Max Pictures Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pictures Taken
+// Max Pictures Taken
+patch=1,EE,206C733C,extended,05F5E0FF
+
+[No Pictures Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Pictures Taken
+// No Pictures Taken
+patch=1,EE,206C733C,extended,00000000
+
+[Max Pictures Of Nerds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pictures Of Nerds
+// Max Pictures Of Nerds
+patch=1,EE,206C7344,extended,05F5E0FF
+
+[No Pictures Of Nerds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Pictures Of Nerds
+// No Pictures Of Nerds
+patch=1,EE,206C7344,extended,00000000
+
+[Max Pictures Of Preps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pictures Of Preps
+// Max Pictures Of Preps
+patch=1,EE,206C7348,extended,05F5E0FF
+
+[No Pictures Of Preps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Pictures Of Preps
+// No Pictures Of Preps
+patch=1,EE,206C7348,extended,00000000
+
+[Max Pictures Of Greasers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pictures Of Greasers
+// Max Pictures Of Greasers
+patch=1,EE,206C734C,extended,05F5E0FF
+
+[No Pictures Of Greasers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Pictures Of Greasers
+// No Pictures Of Greasers
+patch=1,EE,206C734C,extended,00000000
+
+[Max Pictures Of Jocks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pictures Of Jocks
+// Max Pictures Of Jocks
+patch=1,EE,206C7350,extended,05F5E0FF
+
+[No Pictures Of Jocks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Pictures Of Jocks
+// No Pictures Of Jocks
+patch=1,EE,206C7350,extended,00000000
+
+[Max Pictures Of Townies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pictures Of Townies
+// Max Pictures Of Townies
+patch=1,EE,206C7354,extended,05F5E0FF
+
+[No Pictures Of Townies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Pictures Of Townies
+// No Pictures Of Townies
+patch=1,EE,206C7354,extended,00000000
+
+[Max Pictures Of Teachers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pictures Of Teachers
+// Max Pictures Of Teachers
+patch=1,EE,206C7358,extended,05F5E0FF
+
+[No Pictures Of Teachers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Pictures Of Teachers
+// No Pictures Of Teachers
+patch=1,EE,206C7358,extended,00000000
+
+[Max Pictures Of Prefects]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pictures Of Prefects
+// Max Pictures Of Prefects
+patch=1,EE,206C735C,extended,05F5E0FF
+
+[No Pictures Of Prefects]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Pictures Of Prefects
+// No Pictures Of Prefects
+patch=1,EE,206C735C,extended,00000000
+
+[Max Pictures Of Townsfolk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pictures Of Townsfolk
+// Max Pictures Of Townsfolk
+patch=1,EE,206C7360,extended,05F5E0FF
+
+[No Pictures Of Townsfolk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Pictures Of Townsfolk
+// No Pictures Of Townsfolk
+patch=1,EE,206C7360,extended,00000000
+
+[Max Pictures Of Bullies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pictures Of Bullies
+// Max Pictures Of Bullies
+patch=1,EE,206C7364,extended,05F5E0FF
+
+[No Pictures Of Bullies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Pictures Of Bullies
+// No Pictures Of Bullies
+patch=1,EE,206C7364,extended,00000000
+
+[Max Tags Sprayed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tags Sprayed
+// Max Tags Sprayed
+patch=1,EE,206C7380,extended,05F5E0FF
+
+[No Tags Sprayed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Tags Sprayed
+// No Tags Sprayed
+patch=1,EE,206C7380,extended,00000000
+
+[Max Nerd Tags SPrayed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Nerd Tags SPrayed
+// Max Nerd Tags SPrayed
+patch=1,EE,206C7384,extended,05F5E0FF
+
+[No Nerd Tags SPrayed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Nerd Tags SPrayed
+// No Nerd Tags SPrayed
+patch=1,EE,206C7384,extended,00000000
+
+[Max Preppie Tags Sprayed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Preppie Tags Sprayed
+// Max Preppie Tags Sprayed
+patch=1,EE,206C7388,extended,05F5E0FF
+
+[No Preppie Tags Sprayed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Preppie Tags Sprayed
+// No Preppie Tags Sprayed
+patch=1,EE,206C7388,extended,00000000
+
+[Max Greaser Tags Sprayed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Greaser Tags Sprayed
+// Max Greaser Tags Sprayed
+patch=1,EE,206C738C,extended,05F5E0FF
+
+[No Greaser Tags Sprayed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Greaser Tags Sprayed
+// No Greaser Tags Sprayed
+patch=1,EE,206C738C,extended,00000000
+
+[Max Jock Tags Sprayed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jock Tags Sprayed
+// Max Jock Tags Sprayed
+patch=1,EE,206C7390,extended,05F5E0FF
+
+[No Jock Tags Sprayed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Jock Tags Sprayed
+// No Jock Tags Sprayed
+patch=1,EE,206C7390,extended,00000000
+
+[Max Tagging In View Of Authority]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tagging In View Of Authority
+// Max Tagging In View Of Authority
+patch=1,EE,206C7394,extended,05F5E0FF
+
+[No Tagging In View Of Authority]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Tagging In View Of Authority
+// No Tagging In View Of Authority
+patch=1,EE,206C7394,extended,00000000
+
+[Max Attempted Lock Picks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attempted Lock Picks
+// Max Attempted Lock Picks
+patch=1,EE,206C7398,extended,05F5E0FF
+
+[No Attempted Lock Picks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Attempted Lock Picks
+// No Attempted Lock Picks
+patch=1,EE,206C7398,extended,00000000
+
+[Max Successful Lock Picks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Successful Lock Picks
+// Max Successful Lock Picks
+patch=1,EE,206C739C,extended,05F5E0FF
+
+[No Successful Lock Picks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Successful Lock Picks
+// No Successful Lock Picks
+patch=1,EE,206C739C,extended,00000000
+
+[Max Items Taken From Lockers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Items Taken From Lockers
+// Max Items Taken From Lockers
+patch=1,EE,206C73A0,extended,05F5E0FF
+
+[No Items Taken From Lockers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Items Taken From Lockers
+// No Items Taken From Lockers
+patch=1,EE,206C73A0,extended,00000000
+
+[Max Ferris Wheel Rides]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ferris Wheel Rides
+// Max Ferris Wheel Rides
+patch=1,EE,206C736C,extended,05F5E0FF
+
+[No Ferris Wheel Rides]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Ferris Wheel Rides
+// No Ferris Wheel Rides
+patch=1,EE,206C736C,extended,00000000
+
+[Max Times Knocked Down]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Times Knocked Down
+// Max Times Knocked Down
+patch=1,EE,206C73A4,extended,05F5E0FF
+
+[No Times Knocked Down]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Times Knocked Down
+// No Times Knocked Down
+patch=1,EE,206C73A4,extended,00000000
+
+[Max Dodgeballs Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Dodgeballs Thrown
+// Max Dodgeballs Thrown
+patch=1,EE,206C73A8,extended,05F5E0FF
+
+[No Dodgeballs Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Dodgeballs Thrown
+// No Dodgeballs Thrown
+patch=1,EE,206C73A8,extended,00000000
+
+[Max Successful Dodgeball Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Successful Dodgeball Hits
+// Max Successful Dodgeball Hits
+patch=1,EE,206C73AC,extended,05F5E0FF
+
+[No Successful Dodgeball Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Successful Dodgeball Hits
+// No Successful Dodgeball Hits
+patch=1,EE,206C73AC,extended,00000000
+
+[Max Keep-Ups Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Keep-Ups Played
+// Max Keep-Ups Played
+patch=1,EE,206C73B0,extended,05F5E0FF
+
+[No Keep-Ups Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Keep-Ups Played
+// No Keep-Ups Played
+patch=1,EE,206C73B0,extended,00000000
+
+[Max Keep-Ups Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Keep-Ups Won
+// Max Keep-Ups Won
+patch=1,EE,206C73B4,extended,05F5E0FF
+
+[No Keep-Ups Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Keep-Ups Won
+// No Keep-Ups Won
+patch=1,EE,206C73B4,extended,00000000
+
+[Max Penalty Shootout Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Penalty Shootout Played
+// Max Penalty Shootout Played
+patch=1,EE,206C73B8,extended,05F5E0FF
+
+[No Penalty Shootout Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Penalty Shootout Played
+// No Penalty Shootout Played
+patch=1,EE,206C73B8,extended,00000000
+
+[Max Penalty Shootout Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Penalty Shootout Won
+// Max Penalty Shootout Won
+patch=1,EE,206C73BC,extended,05F5E0FF
+
+[No Penalty Shootout Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Penalty Shootout Won
+// No Penalty Shootout Won
+patch=1,EE,206C73BC,extended,00000000
+
+[Max Money Earned On Errands]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money Earned On Errands
+// Max Money Earned On Errands
+patch=1,EE,206C73C0,extended,05F5E0FF
+
+[No Money Earned On Errands]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money Earned On Errands
+// No Money Earned On Errands
+patch=1,EE,206C73C0,extended,00000000
+
+[Max ConSumo Games Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max ConSumo Games Played
+// Max ConSumo Games Played
+patch=1,EE,206C73C4,extended,05F5E0FF
+
+[No ConSumo Games Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No ConSumo Games Played
+// No ConSumo Games Played
+patch=1,EE,206C73C4,extended,00000000
+
+[Max ConSumo High Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max ConSumo High Score
+// Max ConSumo High Score
+patch=1,EE,206C73C8,extended,05F5E0FF
+
+[No ConSumo High Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No ConSumo High Score
+// No ConSumo High Score
+patch=1,EE,206C73C8,extended,00000000
+
+[Max Money Spent On ConSumo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money Spent On ConSumo
+// Max Money Spent On ConSumo
+patch=1,EE,206C73CC,extended,05F5E0FF
+
+[No Money Spent On ConSumo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money Spent On ConSumo
+// No Money Spent On ConSumo
+patch=1,EE,206C73CC,extended,00000000
+
+[Max Monkey Fling Games Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Monkey Fling Games Played
+// Max Monkey Fling Games Played
+patch=1,EE,206C73D0,extended,05F5E0FF
+
+[No Monkey Fling Games Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Monkey Fling Games Played
+// No Monkey Fling Games Played
+patch=1,EE,206C73D0,extended,00000000
+
+[Max Monkey Fling High Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Monkey Fling High Score
+// Max Monkey Fling High Score
+patch=1,EE,206C73D4,extended,05F5E0FF
+
+[No Monkey Fling High Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Monkey Fling High Score
+// No Monkey Fling High Score
+patch=1,EE,206C73D4,extended,00000000
+
+[Max Money Spent On Monkey Fling]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money Spent On Monkey Fling
+// Max Money Spent On Monkey Fling
+patch=1,EE,206C73D8,extended,05F5E0FF
+
+[No Money Spent On Monkey Fling]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money Spent On Monkey Fling
+// No Money Spent On Monkey Fling
+patch=1,EE,206C73D8,extended,00000000
+
+[Max Nut Shots Games Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Nut Shots Games Played
+// Max Nut Shots Games Played
+patch=1,EE,206C73DC,extended,05F5E0FF
+
+[No Nut Shots Games Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Nut Shots Games Played
+// No Nut Shots Games Played
+patch=1,EE,206C73DC,extended,00000000
+
+[Max Nut Shots High Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Nut Shots High Score
+// Max Nut Shots High Score
+patch=1,EE,206C73E0,extended,05F5E0FF
+
+[No Nut Shots High Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Nut Shots High Score
+// No Nut Shots High Score
+patch=1,EE,206C73E0,extended,00000000
+
+[Max Money Spent On Nut Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money Spent On Nut Shots
+// Max Money Spent On Nut Shots
+patch=1,EE,206C73E4,extended,05F5E0FF
+
+[No Money Spent On Nut Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money Spent On Nut Shots
+// No Money Spent On Nut Shots
+patch=1,EE,206C73E4,extended,00000000
+
+[Max FS Racer 2165 Games Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max FS Racer 2165 Games Played
+// Max FS Racer 2165 Games Played
+patch=1,EE,206C73E8,extended,05F5E0FF
+
+[No FS Racer 2165 Games Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No FS Racer 2165 Games Played
+// No FS Racer 2165 Games Played
+patch=1,EE,206C73E8,extended,00000000
+
+[Max Money Spent On FS Racer 2165]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money Spent On FS Racer 2165
+// Max Money Spent On FS Racer 2165
+patch=1,EE,206C73EC,extended,05F5E0FF
+
+[No Money Spent On FS Racer 2165]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money Spent On FS Racer 2165
+// No Money Spent On FS Racer 2165
+patch=1,EE,206C73EC,extended,00000000
+
+[Max FS Racer 3D Games Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max FS Racer 3D Games Played
+// Max FS Racer 3D Games Played
+patch=1,EE,206C73F0,extended,05F5E0FF
+
+[No FS Racer 3D Games Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No FS Racer 3D Games Played
+// No FS Racer 3D Games Played
+patch=1,EE,206C73F0,extended,00000000
+
+[Max Money Spent On FS Racer 3D]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money Spent On FS Racer 3D
+// Max Money Spent On FS Racer 3D
+patch=1,EE,206C73F4,extended,05F5E0FF
+
+[No Money Spent On FS Racer 3D]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money Spent On FS Racer 3D
+// No Money Spent On FS Racer 3D
+patch=1,EE,206C73F4,extended,00000000
+
+[Max Tickets Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tickets Collected
+// Max Tickets Collected
+patch=1,EE,206C73F8,extended,05F5E0FF
+
+[No Tickets Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Tickets Collected
+// No Tickets Collected
+patch=1,EE,206C73F8,extended,00000000
+
+[Max Tickets Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tickets Used
+// Max Tickets Used
+patch=1,EE,206C73FC,extended,05F5E0FF
+
+[No Tickets Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Tickets Used
+// No Tickets Used
+patch=1,EE,206C73FC,extended,00000000
+
+[Max Items Bought Using Tickets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Items Bought Using Tickets
+// Max Items Bought Using Tickets
+patch=1,EE,206C7400,extended,05F5E0FF
+
+[No Items Bought Using Tickets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Items Bought Using Tickets
+// No Items Bought Using Tickets
+patch=1,EE,206C7400,extended,00000000
+
+[Max Baseball Toss Special Targets Hit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Baseball Toss Special Targets Hit
+// Max Baseball Toss Special Targets Hit
+patch=1,EE,206C7404,extended,05F5E0FF
+
+[No Baseball Toss Special Targets Hit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Baseball Toss Special Targets Hit
+// No Baseball Toss Special Targets Hit
+patch=1,EE,206C7404,extended,00000000
+
+[Max Baseball Toss Umpires Hit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Baseball Toss Umpires Hit
+// Max Baseball Toss Umpires Hit
+patch=1,EE,206C7408,extended,05F5E0FF
+
+[No Baseball Toss Umpires Hit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Baseball Toss Umpires Hit
+// No Baseball Toss Umpires Hit
+patch=1,EE,206C7408,extended,00000000
+
+[Max Baseball Toss Balls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Baseball Toss Balls
+// Max Baseball Toss Balls
+patch=1,EE,206C740C,extended,05F5E0FF
+
+[No Baseball Toss Balls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Baseball Toss Balls
+// No Baseball Toss Balls
+patch=1,EE,206C740C,extended,00000000
+
+[Max Baseball Toss Strikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Baseball Toss Strikes
+// Max Baseball Toss Strikes
+patch=1,EE,206C7410,extended,05F5E0FF
+
+[No Baseball Toss Strikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Baseball Toss Strikes
+// No Baseball Toss Strikes
+patch=1,EE,206C7410,extended,00000000
+
+[Max Shooting Gallery Shots Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shooting Gallery Shots Taken
+// Max Shooting Gallery Shots Taken
+patch=1,EE,206C7414,extended,05F5E0FF
+
+[No Shooting Gallery Shots Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Shooting Gallery Shots Taken
+// No Shooting Gallery Shots Taken
+patch=1,EE,206C7414,extended,00000000
+
+[Max Shooting Gallery Bottles Broken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shooting Gallery Bottles Broken
+// Max Shooting Gallery Bottles Broken
+patch=1,EE,206C7418,extended,05F5E0FF
+
+[No Shooting Gallery Bottles Broken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Shooting Gallery Bottles Broken
+// No Shooting Gallery Bottles Broken
+patch=1,EE,206C7418,extended,00000000
+
+[Max Roller coaster Rides]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Roller coaster Rides
+// Max Roller coaster Rides
+patch=1,EE,206C741C,extended,05F5E0FF
+
+[No Roller coaster Rides]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Roller coaster Rides
+// No Roller coaster Rides
+patch=1,EE,206C741C,extended,00000000
+
+[Max Octopus Rides]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Octopus Rides
+// Max Octopus Rides
+patch=1,EE,206C7420,extended,05F5E0FF
+
+[No Octopus Rides]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Octopus Rides
+// No Octopus Rides
+patch=1,EE,206C7420,extended,00000000
+
+[Max Fortunes Read]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fortunes Read
+// Max Fortunes Read
+patch=1,EE,206C7424,extended,05F5E0FF
+
+[No Fortunes Read]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Fortunes Read
+// No Fortunes Read
+patch=1,EE,206C7424,extended,00000000

@@ -1,0 +1,625 @@
+gametitle=Marvel Vs. Capcom 2 [SLUS-20486] [4D228733]
+
+[Slot 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 12
+// Slot 12
+patch=1,EE,F0100008,extended,0010D96F
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,004D18E0,extended,00000063
+
+[Infinite Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Points
+// Infinite Points
+patch=1,EE,104F7F92,extended,0000270F
+
+[Health Never Rebuilds (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health Never Rebuilds (All Players)
+// Health Never Rebuilds (All Players)
+patch=1,EE,20190114,extended,00000000
+
+[Players Can Select The Same Character]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Players Can Select The Same Character
+// Players Can Select The Same Character
+patch=1,EE,2032D6BC,extended,00000000
+
+[Hit Anywhere (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Anywhere (Both Players)
+// Hit Anywhere (Both Players)
+patch=1,EE,201E7DF0,extended,00000000
+
+[Hit Anywhere (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Anywhere (Both Players)
+// Hit Anywhere (Both Players)
+patch=1,EE,201E7ED0,extended,00000000
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,204F4330,extended,F8FFFFFF
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,204F4334,extended,07FFFFFF
+
+[Unlock All New Colors]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All New Colors
+// Unlock All New Colors
+patch=1,EE,204F4338,extended,F8FFFFFF
+
+[Unlock All New Colors]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All New Colors
+// Unlock All New Colors
+patch=1,EE,204F433C,extended,07FFFFFF
+
+[Have All Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gallery
+// Have All Gallery
+patch=1,EE,204F7FB4,extended,FFFFFFFF
+
+[Have All Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gallery
+// Have All Gallery
+patch=1,EE,204F7FB8,extended,FFFFFFFF
+
+[Have All Stages]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Stages
+// Have All Stages
+patch=1,EE,004D179A,extended,00000007
+
+[Quick Score Gain P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain P1
+// Quick Score Gain P1
+patch=1,EE,104F2598,extended,00009999
+
+[Hella Score Gain P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hella Score Gain P1
+// Hella Score Gain P1
+patch=1,EE,204F2598,extended,99999999
+
+[Max Score P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P2
+// Max Score P2
+patch=1,EE,204F2598,extended,99999999
+
+[Max Score P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P2
+// Max Score P2
+patch=1,EE,204F259C,extended,00000999
+
+[Quick Score Gain P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain P2
+// Quick Score Gain P2
+patch=1,EE,104F2B50,extended,00009999
+
+[Hella Score Gain P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hella Score Gain P2
+// Hella Score Gain P2
+patch=1,EE,204F2B50,extended,99999999
+
+[Max Score P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P2
+// Max Score P2
+patch=1,EE,204F2B50,extended,99999999
+
+[Max Score P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P2
+// Max Score P2
+patch=1,EE,204F2B54,extended,00000999
+
+[Infinite Health P1-Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1-Character 1
+// Infinite Health P1-Character 1
+patch=1,EE,104F24E4,extended,00000090
+
+[75% Health P1-Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P1-Character 1
+// 75% Health P1-Character 1
+patch=1,EE,D04F24E4,extended,00000090
+
+[75% Health P1-Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P1-Character 1
+// 75% Health P1-Character 1
+patch=1,EE,204F24E4,extended,0000006C
+
+[50% Health P1-Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P1-Character 1
+// 50% Health P1-Character 1
+patch=1,EE,D04F24E4,extended,00000090
+
+[50% Health P1-Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P1-Character 1
+// 50% Health P1-Character 1
+patch=1,EE,204F24E4,extended,00000048
+
+[25% Health P1-Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P1-Character 1
+// 25% Health P1-Character 1
+patch=1,EE,D04F24E4,extended,00000090
+
+[25% Health P1-Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P1-Character 1
+// 25% Health P1-Character 1
+patch=1,EE,204F24E4,extended,0000006C
+
+[1-Hit Death P1-Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P1-Character 1
+// 1-Hit Death P1-Character 1
+patch=1,EE,D04F24E4,extended,00000090
+
+[1-Hit Death P1-Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P1-Character 1
+// 1-Hit Death P1-Character 1
+patch=1,EE,204F24E4,extended,00000001
+
+[No Health P1-Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P1-Character 1
+// No Health P1-Character 1
+patch=1,EE,204F24E4,extended,00000000
+
+[Max Rebuild Health P1-Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rebuild Health P1-Character 1
+// Max Rebuild Health P1-Character 1
+patch=1,EE,104F24E8,extended,00000090
+
+[Infinite Health P1-Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1-Character 2
+// Infinite Health P1-Character 2
+patch=1,EE,104F3054,extended,00000090
+
+[75% Health P1-Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P1-Character 2
+// 75% Health P1-Character 2
+patch=1,EE,D04F3054,extended,00000090
+
+[75% Health P1-Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P1-Character 2
+// 75% Health P1-Character 2
+patch=1,EE,204F3054,extended,0000006C
+
+[50% Health P1-Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P1-Character 2
+// 50% Health P1-Character 2
+patch=1,EE,D04F3054,extended,00000090
+
+[50% Health P1-Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P1-Character 2
+// 50% Health P1-Character 2
+patch=1,EE,204F3054,extended,00000048
+
+[25% Health P1-Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P1-Character 2
+// 25% Health P1-Character 2
+patch=1,EE,D04F3054,extended,00000090
+
+[25% Health P1-Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P1-Character 2
+// 25% Health P1-Character 2
+patch=1,EE,204F3054,extended,0000006C
+
+[1-Hit Death P1-Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P1-Character 2
+// 1-Hit Death P1-Character 2
+patch=1,EE,D04F3054,extended,00000090
+
+[1-Hit Death P1-Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P1-Character 2
+// 1-Hit Death P1-Character 2
+patch=1,EE,204F3054,extended,00000001
+
+[No Health P1-Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P1-Character 2
+// No Health P1-Character 2
+patch=1,EE,204F3054,extended,00000000
+
+[Max Rebuild Health P1-Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rebuild Health P1-Character 2
+// Max Rebuild Health P1-Character 2
+patch=1,EE,104F3058,extended,00000090
+
+[Infinite Health P1-Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1-Character 3
+// Infinite Health P1-Character 3
+patch=1,EE,104F3BC4,extended,00000090
+
+[75% Health P1-Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P1-Character 3
+// 75% Health P1-Character 3
+patch=1,EE,D04F3BC4,extended,00000090
+
+[75% Health P1-Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P1-Character 3
+// 75% Health P1-Character 3
+patch=1,EE,204F3BC4,extended,0000006C
+
+[50% Health P1-Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P1-Character 3
+// 50% Health P1-Character 3
+patch=1,EE,D04F3BC4,extended,00000090
+
+[50% Health P1-Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P1-Character 3
+// 50% Health P1-Character 3
+patch=1,EE,204F3BC4,extended,00000048
+
+[25% Health P1-Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P1-Character 3
+// 25% Health P1-Character 3
+patch=1,EE,D04F3BC4,extended,00000090
+
+[25% Health P1-Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P1-Character 3
+// 25% Health P1-Character 3
+patch=1,EE,204F3BC4,extended,0000006C
+
+[1-Hit Death P1-Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P1-Character 3
+// 1-Hit Death P1-Character 3
+patch=1,EE,D04F3BC4,extended,00000090
+
+[1-Hit Death P1-Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P1-Character 3
+// 1-Hit Death P1-Character 3
+patch=1,EE,204F3BC4,extended,00000001
+
+[No Health P1-Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P1-Character 3
+// No Health P1-Character 3
+patch=1,EE,204F3BC4,extended,00000000
+
+[Max Rebuild Health-Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rebuild Health-Character 3
+// Max Rebuild Health-Character 3
+patch=1,EE,104F3BC8,extended,00000090
+
+[Max Special Bar P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special Bar P1
+// Max Special Bar P1
+patch=1,EE,104D18F6,extended,00000090
+
+[No Special Bar P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Special Bar P1
+// No Special Bar P1
+patch=1,EE,104D18F6,extended,00000000
+
+[Always Special Level 0 P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Special Level 0 P1
+// Always Special Level 0 P1
+patch=1,EE,004D18FA,extended,00000000
+
+[Always Special Level 1 P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Special Level 1 P1
+// Always Special Level 1 P1
+patch=1,EE,004D18FA,extended,00000001
+
+[Always Special Level 2 P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Special Level 2 P1
+// Always Special Level 2 P1
+patch=1,EE,004D18FA,extended,00000002
+
+[Always Special Level 3 P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Special Level 3 P1
+// Always Special Level 3 P1
+patch=1,EE,004D18FA,extended,00000003
+
+[Always Special Level 4 P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Special Level 4 P1
+// Always Special Level 4 P1
+patch=1,EE,004D18FA,extended,00000004
+
+[Always Max Special Level P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Special Level P1
+// Always Max Special Level P1
+patch=1,EE,004D18FA,extended,00000005
+
+[Infinite Health P2-Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2-Character 1
+// Infinite Health P2-Character 1
+patch=1,EE,104F2A9C,extended,00000090
+
+[75% Health P2-Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P2-Character 1
+// 75% Health P2-Character 1
+patch=1,EE,D04F2A9C,extended,00000090
+
+[75% Health P2-Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P2-Character 1
+// 75% Health P2-Character 1
+patch=1,EE,204F2A9C,extended,0000006C
+
+[50% Health P2-Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P2-Character 1
+// 50% Health P2-Character 1
+patch=1,EE,D04F2A9C,extended,00000090
+
+[50% Health P2-Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P2-Character 1
+// 50% Health P2-Character 1
+patch=1,EE,204F2A9C,extended,00000048
+
+[25% Health P2-Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P2-Character 1
+// 25% Health P2-Character 1
+patch=1,EE,D04F2A9C,extended,00000090
+
+[25% Health P2-Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P2-Character 1
+// 25% Health P2-Character 1
+patch=1,EE,204F2A9C,extended,0000006C
+
+[1-Hit Death P2-Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P2-Character 1
+// 1-Hit Death P2-Character 1
+patch=1,EE,D04F2A9C,extended,00000090
+
+[1-Hit Death P2-Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P2-Character 1
+// 1-Hit Death P2-Character 1
+patch=1,EE,204F2A9C,extended,00000001
+
+[No Health P2-Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P2-Character 1
+// No Health P2-Character 1
+patch=1,EE,204F2A9C,extended,00000000
+
+[Max Rebuild Health P2-Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rebuild Health P2-Character 1
+// Max Rebuild Health P2-Character 1
+patch=1,EE,104F2AA0,extended,00000090
+
+[Infinite Health P2-Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2-Character 2
+// Infinite Health P2-Character 2
+patch=1,EE,104F360C,extended,00000090
+
+[75% Health P2-Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P2-Character 2
+// 75% Health P2-Character 2
+patch=1,EE,D04F360C,extended,00000090
+
+[75% Health P2-Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P2-Character 2
+// 75% Health P2-Character 2
+patch=1,EE,204F360C,extended,0000006C
+
+[50% Health P2-Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P2-Character 2
+// 50% Health P2-Character 2
+patch=1,EE,D04F360C,extended,00000090
+
+[50% Health P2-Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P2-Character 2
+// 50% Health P2-Character 2
+patch=1,EE,204F360C,extended,00000048
+
+[25% Health P2-Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P2-Character 2
+// 25% Health P2-Character 2
+patch=1,EE,D04F360C,extended,00000090
+
+[25% Health P2-Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P2-Character 2
+// 25% Health P2-Character 2
+patch=1,EE,204F360C,extended,0000006C
+
+[1-Hit Death P2-Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P2-Character 2
+// 1-Hit Death P2-Character 2
+patch=1,EE,D04F360C,extended,00000090
+
+[1-Hit Death P2-Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P2-Character 2
+// 1-Hit Death P2-Character 2
+patch=1,EE,204F360C,extended,00000001
+
+[No Health P2-Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P2-Character 2
+// No Health P2-Character 2
+patch=1,EE,204F360C,extended,00000000
+
+[Max Rebuild Health P2-Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rebuild Health P2-Character 2
+// Max Rebuild Health P2-Character 2
+patch=1,EE,104F3610,extended,00000090
+
+[Infinite Health P2-Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2-Character 3
+// Infinite Health P2-Character 3
+patch=1,EE,104F417C,extended,00000090
+
+[75% Health P2-Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P2-Character 3
+// 75% Health P2-Character 3
+patch=1,EE,D04F417C,extended,00000090
+
+[75% Health P2-Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P2-Character 3
+// 75% Health P2-Character 3
+patch=1,EE,204F417C,extended,0000006C
+
+[50% Health P2-Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P2-Character 3
+// 50% Health P2-Character 3
+patch=1,EE,D04F417C,extended,00000090
+
+[50% Health P2-Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P2-Character 3
+// 50% Health P2-Character 3
+patch=1,EE,204F417C,extended,00000048
+
+[25% Health P2-Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P2-Character 3
+// 25% Health P2-Character 3
+patch=1,EE,D04F417C,extended,00000090
+
+[25% Health P2-Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P2-Character 3
+// 25% Health P2-Character 3
+patch=1,EE,204F417C,extended,0000006C
+
+[1-Hit Death P2-Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P2-Character 3
+// 1-Hit Death P2-Character 3
+patch=1,EE,D04F417C,extended,00000090
+
+[1-Hit Death P2-Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P2-Character 3
+// 1-Hit Death P2-Character 3
+patch=1,EE,204F417C,extended,00000001
+
+[No Health P2-Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P2-Character 3
+// No Health P2-Character 3
+patch=1,EE,204F417C,extended,00000000
+
+[Max Rebuild Health P2-Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rebuild Health P2-Character 3
+// Max Rebuild Health P2-Character 3
+patch=1,EE,104F4180,extended,00000090
+
+[Max Special Bar P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special Bar P2
+// Max Special Bar P2
+patch=1,EE,104D18F8,extended,00000090
+
+[No Special Bar P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Special Bar P2
+// No Special Bar P2
+patch=1,EE,104D18F8,extended,00000000
+
+[Always Special Level 0 P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Special Level 0 P1
+// Always Special Level 0 P1
+patch=1,EE,004D18FB,extended,00000000
+
+[Always Special Level 1 P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Special Level 1 P1
+// Always Special Level 1 P1
+patch=1,EE,004D18FB,extended,00000001
+
+[Always Special Level 2 P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Special Level 2 P1
+// Always Special Level 2 P1
+patch=1,EE,004D18FB,extended,00000002
+
+[Always Special Level 3 P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Special Level 3 P1
+// Always Special Level 3 P1
+patch=1,EE,004D18FB,extended,00000003
+
+[Always Special Level 4 P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Special Level 4 P1
+// Always Special Level 4 P1
+patch=1,EE,004D18FB,extended,00000004
+
+[Always Max Special Level P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Special Level P1
+// Always Max Special Level P1
+patch=1,EE,004D18FB,extended,00000005

@@ -1,0 +1,109 @@
+gametitle=Auto Modellista [SLUS-20642] [49E69757]
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,90120E90,extended,0C06A806
+
+[Always Low Total Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Time
+// Always Low Total Time
+patch=1,EE,2053F1BC,extended,00000000
+
+[Unlock All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cars
+// Unlock All Cars
+patch=1,EE,20503CBC,extended,FFFFFFFF
+
+[Unlock All Tune-Up Options]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Tune-Up Options
+// Unlock All Tune-Up Options
+patch=1,EE,20503CC0,extended,FFFFFFFF
+
+[Unlock All Dress-Up Options]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Dress-Up Options
+// Unlock All Dress-Up Options
+patch=1,EE,20503CC4,extended,FFFFFFFF
+
+[Unlock All Garage Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Garage Items
+// Unlock All Garage Items
+patch=1,EE,204DD3D8,extended,FFFFFFFF
+
+[Unlock All Garage Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Garage Items
+// Unlock All Garage Items
+patch=1,EE,204DD3DC,extended,FFFFFFFF
+
+[Unlock All Garage Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Garage Items
+// Unlock All Garage Items
+patch=1,EE,204DD3E0,extended,FFFFFFFF
+
+[Unlock All Garage Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Garage Items
+// Unlock All Garage Items
+patch=1,EE,204DD3E4,extended,FFFFFFFF
+
+[Unlock All Garage Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Garage Items
+// Unlock All Garage Items
+patch=1,EE,204DD3E8,extended,FFFFFFFF
+
+[Unlock All Race Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Race Levels
+// Unlock All Race Levels
+patch=1,EE,004DD7FE,extended,00000006
+
+[Level 1 Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 1 Completed
+// Level 1 Completed
+patch=1,EE,004DD7FF,extended,000000FF
+
+[Level 2 Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 2 Completed
+// Level 2 Completed
+patch=1,EE,004DD800,extended,000000FF
+
+[Level 3 Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 3 Completed
+// Level 3 Completed
+patch=1,EE,004DD801,extended,000000FF
+
+[Level 4 Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 4 Completed
+// Level 4 Completed
+patch=1,EE,004DD802,extended,000000FF
+
+[Level 5 Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 5 Completed
+// Level 5 Completed
+patch=1,EE,004DD803,extended,000000FF
+
+[Level 6 Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 6 Completed
+// Level 6 Completed
+patch=1,EE,004DD804,extended,000000FF
+
+[Final Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Final Completed
+// Final Completed
+patch=1,EE,004DD805,extended,000000FF

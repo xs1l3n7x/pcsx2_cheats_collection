@@ -1,0 +1,73 @@
+gametitle=Grand Prix Challenge [SLES-51296] [A029B109]
+
+[Event 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 2
+// Event 2
+patch=1,EE,F0100008,extended,00132827
+
+[Total Laps 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps 99
+// Total Laps 99
+patch=1,EE,2033A7C0,extended,24060063
+
+[Total Laps 75]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps 75
+// Total Laps 75
+patch=1,EE,2033A7C0,extended,2406004B
+
+[Total Laps 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps 50
+// Total Laps 50
+patch=1,EE,2033A7C0,extended,24060032
+
+[Total Laps 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps 25
+// Total Laps 25
+patch=1,EE,2033A7C0,extended,24060019
+
+[Total Laps 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps 20
+// Total Laps 20
+patch=1,EE,2033A7C0,extended,24060014
+
+[Total Laps 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps 15
+// Total Laps 15
+patch=1,EE,2033A7C0,extended,2406000F
+
+[Total Laps 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps 10
+// Total Laps 10
+patch=1,EE,2033A7C0,extended,2406000A
+
+[Total Laps 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps 5
+// Total Laps 5
+patch=1,EE,2033A7C0,extended,24060005
+
+[Total Laps 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps 2
+// Total Laps 2
+patch=1,EE,2033A7C0,extended,24060002
+
+[Total Laps 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps 1
+// Total Laps 1
+patch=1,EE,2033A7C0,extended,24060001
+
+[Stop Lap Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stop Lap Timer
+// Stop Lap Timer
+patch=1,EE,2021CC30,extended,00000000

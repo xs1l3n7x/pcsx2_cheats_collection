@@ -1,0 +1,577 @@
+gametitle=Tony Hawk's Project 8 [SLUS-21444] [D4D7B720]
+
+[All Clothes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Clothes
+// All Clothes
+patch=1,EE,9042DB88,extended,0C11106D
+
+[Max Stokens]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stokens
+// Max Stokens
+patch=1,EE,2067E098,extended,000F423F
+
+[Quick Stoken Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Stoken Gain
+// Quick Stoken Gain
+patch=1,EE,2032B5F4,extended,24420064
+
+[Super Quick Stoken Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Quick Stoken Gain
+// Super Quick Stoken Gain
+patch=1,EE,2032B5F4,extended,244203E8
+
+[Ultra Stoken Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultra Stoken Gain
+// Ultra Stoken Gain
+patch=1,EE,2032B5F4,extended,24422710
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,200C0240,extended,8C620000
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,200C0244,extended,00441025
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,200C0248,extended,08088AA6
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,200C024C,extended,AC620000
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,20222A90,extended,08030090
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,20325084,extended,241503E7
+
+[Super Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Score Gain
+// Super Score Gain
+patch=1,EE,20325084,extended,2415270F
+
+[Hella Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hella Score Gain
+// Hella Score Gain
+patch=1,EE,20325084,extended,24157FFF
+
+[Max Score After 1 Trick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score After 1 Trick
+// Max Score After 1 Trick
+patch=1,EE,20325080,extended,3C1505F5
+
+[Max Score After 1 Trick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score After 1 Trick
+// Max Score After 1 Trick
+patch=1,EE,20325084,extended,36B5E0FF
+
+[Always Max Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Special
+// Always Max Special
+patch=1,EE,20323228,extended,24020BB8
+
+[Always Max Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Special
+// Always Max Special
+patch=1,EE,2032322C,extended,AE220094
+
+[Always Win Goal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Win Goal
+// Always Win Goal
+patch=1,EE,203348E0,extended,0C0CB940
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,2034ED68,extended,00000000
+
+[P1 Press {L1}+{SELECT} To Enable Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Enable Infinite Time
+// P1 Press {L1}+{SELECT} To Enable Infinite Time
+patch=1,EE,D0514B9C,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Enable Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Enable Infinite Time
+// P1 Press {L1}+{SELECT} To Enable Infinite Time
+patch=1,EE,2034ED68,extended,00000000
+
+[P1 Press {L2}+{SELECT} To Disable Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Disable Infinite Time
+// P1 Press {L2}+{SELECT} To Disable Infinite Time
+patch=1,EE,D0514B9C,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Disable Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Disable Infinite Time
+// P1 Press {L2}+{SELECT} To Disable Infinite Time
+patch=1,EE,2034ED68,extended,AE0300C8
+
+[Buying Stats Doesnt Decrease Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Stats Doesnt Decrease Points
+// Buying Stats Doesnt Decrease Points
+patch=1,EE,20370AB4,extended,24110000
+
+[Buying Stats Increases Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Stats Increases Points
+// Buying Stats Increases Points
+patch=1,EE,20370AB4,extended,24110064
+
+[Buying Stats Gives Max Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Stats Gives Max Points
+// Buying Stats Gives Max Points
+patch=1,EE,20370AE0,extended,2403270F
+
+[Infinite Gap Key Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Gap Key Usage
+// Infinite Gap Key Usage
+patch=1,EE,203766C4,extended,00000000
+
+[Extra Gap Key Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Gap Key Usage
+// Extra Gap Key Usage
+patch=1,EE,203766BC,extended,00451021
+
+[Always Max Gap Keys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Gap Keys
+// Always Max Gap Keys
+patch=1,EE,203766D4,extended,2402270F
+
+[Always Max Gap Keys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Gap Keys
+// Always Max Gap Keys
+patch=1,EE,203766D8,extended,03E00008
+
+[Always Max Gap Keys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Gap Keys
+// Always Max Gap Keys
+patch=1,EE,203766DC,extended,AC820298
+
+[View Gaps To Have All Gaps (Current Level)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Gaps To Have All Gaps (Current Level)
+// View Gaps To Have All Gaps (Current Level)
+patch=1,EE,200C0230,extended,2402270F
+
+[View Gaps To Have All Gaps (Current Level)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Gaps To Have All Gaps (Current Level)
+// View Gaps To Have All Gaps (Current Level)
+patch=1,EE,200C0234,extended,03E00008
+
+[View Gaps To Have All Gaps (Current Level)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Gaps To Have All Gaps (Current Level)
+// View Gaps To Have All Gaps (Current Level)
+patch=1,EE,200C0238,extended,AC820044
+
+[View Gaps To Have All Gaps (Current Level)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Gaps To Have All Gaps (Current Level)
+// View Gaps To Have All Gaps (Current Level)
+patch=1,EE,203859D0,extended,0803008C
+
+[Infinite Running Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Running Combo
+// Infinite Running Combo
+patch=1,EE,203D1690,extended,00000000
+
+[Infinite Running Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Running Combo
+// Infinite Running Combo
+patch=1,EE,203D16B8,extended,00000000
+
+[Super Slow Motion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Slow Motion
+// Super Slow Motion
+patch=1,EE,20479B5C,extended,3EA00000
+
+[Slow Motion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slow Motion
+// Slow Motion
+patch=1,EE,20479B5C,extended,3F200000
+
+[Hyper Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hyper Mode
+// Hyper Mode
+patch=1,EE,20479B5C,extended,40000000
+
+[Super Hyper Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Hyper Mode
+// Super Hyper Mode
+patch=1,EE,20479B5C,extended,40600000
+
+[Quick Score Multiplier]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Multiplier
+// Quick Score Multiplier
+patch=1,EE,2067E064,extended,41200000
+
+[Super Quick Score Multiplier]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Quick Score Multiplier
+// Super Quick Score Multiplier
+patch=1,EE,2067E064,extended,42C80000
+
+[Ultra Quick Score Multiplier]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultra Quick Score Multiplier
+// Ultra Quick Score Multiplier
+patch=1,EE,2067E064,extended,447A0000
+
+[Paper Thin Skater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Paper Thin Skater
+// Paper Thin Skater
+patch=1,EE,2099ED70,extended,3E000000
+
+[Ultra Tiny Skater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultra Tiny Skater
+// Ultra Tiny Skater
+patch=1,EE,2097C540,extended,3E000000
+
+[Ultra Tiny Skater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultra Tiny Skater
+// Ultra Tiny Skater
+patch=1,EE,2097C544,extended,3E000000
+
+[Ultra Tiny Skater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultra Tiny Skater
+// Ultra Tiny Skater
+patch=1,EE,2097C548,extended,3E000000
+
+[Super Tiny Skater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Tiny Skater
+// Super Tiny Skater
+patch=1,EE,2097C540,extended,3E800000
+
+[Super Tiny Skater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Tiny Skater
+// Super Tiny Skater
+patch=1,EE,2097C544,extended,3E800000
+
+[Super Tiny Skater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Tiny Skater
+// Super Tiny Skater
+patch=1,EE,2097C548,extended,3E800000
+
+[Tiny Skater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiny Skater
+// Tiny Skater
+patch=1,EE,2097C540,extended,3F000000
+
+[Tiny Skater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiny Skater
+// Tiny Skater
+patch=1,EE,2097C544,extended,3F000000
+
+[Tiny Skater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiny Skater
+// Tiny Skater
+patch=1,EE,2097C548,extended,3F000000
+
+[Halfsize Skater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Halfsize Skater
+// Halfsize Skater
+patch=1,EE,2097C540,extended,3F400000
+
+[Halfsize Skater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Halfsize Skater
+// Halfsize Skater
+patch=1,EE,2097C544,extended,3F400000
+
+[Halfsize Skater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Halfsize Skater
+// Halfsize Skater
+patch=1,EE,2097C548,extended,3F400000
+
+[Larger Skater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Larger Skater
+// Larger Skater
+patch=1,EE,2097C540,extended,3FC00000
+
+[Larger Skater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Larger Skater
+// Larger Skater
+patch=1,EE,2097C544,extended,3FC00000
+
+[Larger Skater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Larger Skater
+// Larger Skater
+patch=1,EE,2097C548,extended,3FC00000
+
+[Huge Skater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Skater
+// Huge Skater
+patch=1,EE,2097C540,extended,40000000
+
+[Huge Skater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Skater
+// Huge Skater
+patch=1,EE,2097C544,extended,40000000
+
+[Huge Skater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Skater
+// Huge Skater
+patch=1,EE,2097C548,extended,40000000
+
+[Ultra Huge Skater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultra Huge Skater
+// Ultra Huge Skater
+patch=1,EE,2097C540,extended,40400000
+
+[Ultra Huge Skater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultra Huge Skater
+// Ultra Huge Skater
+patch=1,EE,2097C544,extended,40400000
+
+[Ultra Huge Skater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultra Huge Skater
+// Ultra Huge Skater
+patch=1,EE,2097C548,extended,40400000
+
+[Downhill]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downhill
+// Downhill
+patch=1,EE,70989A28,extended,00000040
+
+[Car Factory]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car Factory
+// Car Factory
+patch=1,EE,70989AA8,extended,00000040
+
+[High School]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=High School
+// High School
+patch=1,EE,70989BA8,extended,00000040
+
+[City Center]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Center
+// City Center
+patch=1,EE,70989C28,extended,00000040
+
+[Downtown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown
+// Downtown
+patch=1,EE,70989CA8,extended,00000040
+
+[Crete Park]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crete Park
+// Crete Park
+patch=1,EE,70989D28,extended,00000040
+
+[Fun Park]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fun Park
+// Fun Park
+patch=1,EE,70989DA8,extended,00000040
+
+[Training]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Training
+// Training
+patch=1,EE,70989EA8,extended,00000040
+
+[Downhill]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downhill
+// Downhill
+patch=1,EE,70989A42,extended,00000001
+
+[Car Factory]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car Factory
+// Car Factory
+patch=1,EE,70989AC2,extended,00000001
+
+[Suburbs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suburbs
+// Suburbs
+patch=1,EE,70989B42,extended,00000001
+
+[High School]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=High School
+// High School
+patch=1,EE,70989BC2,extended,00000001
+
+[City Center]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Center
+// City Center
+patch=1,EE,70989C42,extended,00000001
+
+[Downtown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown
+// Downtown
+patch=1,EE,70989CC2,extended,00000001
+
+[Create Park]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Create Park
+// Create Park
+patch=1,EE,70989D42,extended,00000001
+
+[Fun Park]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fun Park
+// Fun Park
+patch=1,EE,70989DC2,extended,00000001
+
+[Always Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Special
+// Always Special
+patch=1,EE,7098A320,extended,00000008
+
+[Perfect Rail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perfect Rail
+// Perfect Rail
+patch=1,EE,7098A320,extended,00000010
+
+[Perfect Skitch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perfect Skitch
+// Perfect Skitch
+patch=1,EE,7098A320,extended,00000020
+
+[Perfect Manual]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perfect Manual
+// Perfect Manual
+patch=1,EE,7098A342,extended,00000001
+
+[Unlimited Focus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Focus
+// Unlimited Focus
+patch=1,EE,7098A343,extended,00000008
+
+[Always Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Special
+// Always Special
+patch=1,EE,7098A327,extended,00000004
+
+[Perfect Rail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perfect Rail
+// Perfect Rail
+patch=1,EE,7098A327,extended,00000008
+
+[Perfect Manual]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perfect Manual
+// Perfect Manual
+patch=1,EE,7098A327,extended,00000080
+
+[Perfect Skitch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perfect Skitch
+// Perfect Skitch
+patch=1,EE,7098A328,extended,00000010
+
+[Unlimited Focus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Focus
+// Unlimited Focus
+patch=1,EE,7098A345,extended,00000080
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,7098A367,extended,000000F0
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,7098A368,extended,00107BFF
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,0098A36B,extended,000000FF
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,7098A36C,extended,00000007

@@ -1,0 +1,79 @@
+gametitle=Tiger Woods PGA Tour 2001 [SLUS-20104] [5232E8D8]
+
+[Weapon 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weapon 1
+// Weapon 1
+patch=1,EE,901C6388,extended,0C07636F
+
+[Always Hole In One P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Hole In One P1
+// Always Hole In One P1
+patch=1,EE,21CE02EC,extended,00000000
+
+[Always 9 Strokes Recorded P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always 9 Strokes Recorded P1
+// Always 9 Strokes Recorded P1
+patch=1,EE,21CE02EC,extended,00000009
+
+[Always Hole In One P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Hole In One P2
+// Always Hole In One P2
+patch=1,EE,21CE03AC,extended,00000000
+
+[Always 9 Strokes Recorded P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always 9 Strokes Recorded P2
+// Always 9 Strokes Recorded P2
+patch=1,EE,21CE03AC,extended,00000009
+
+[Always Hole In One P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Hole In One P3
+// Always Hole In One P3
+patch=1,EE,21CE046C,extended,00000000
+
+[Always 9 Strokes Recorded P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always 9 Strokes Recorded P3
+// Always 9 Strokes Recorded P3
+patch=1,EE,21CE046C,extended,00000009
+
+[Always Hole In One P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Hole In One P4
+// Always Hole In One P4
+patch=1,EE,21CE052C,extended,00000000
+
+[Always 9 Strokes Recorded P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always 9 Strokes Recorded P4
+// Always 9 Strokes Recorded P4
+patch=1,EE,21CE052C,extended,00000009
+
+[Only One Shot Recorded (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only One Shot Recorded (All Players)
+// Only One Shot Recorded (All Players)
+patch=1,EE,20164D14,extended,00000000
+
+[Shots Worth 10 (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shots Worth 10 (All Players)
+// Shots Worth 10 (All Players)
+patch=1,EE,10164D10,extended,0000000A
+
+[Shots Worth 5 (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shots Worth 5 (All Players)
+// Shots Worth 5 (All Players)
+patch=1,EE,10164D10,extended,00000005
+
+[Shots Worth 1 (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shots Worth 1 (All Players)
+// Shots Worth 1 (All Players)
+patch=1,EE,10164D10,extended,00000001

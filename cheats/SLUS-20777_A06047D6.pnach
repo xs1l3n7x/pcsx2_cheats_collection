@@ -1,0 +1,91 @@
+gametitle=ObsCure [SLUS-20777] [A06047D6]
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,9011DC34,extended,0C0C193C
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201696A8,extended,C6400058
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201696B4,extended,E640005C
+
+[Infinite Stamina]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Stamina
+// Infinite Stamina
+patch=1,EE,2015EC48,extended,00000000
+
+[Infinite Stamina]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Stamina
+// Infinite Stamina
+patch=1,EE,20160490,extended,AE200110
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,20168C08,extended,00000000
+
+[Max Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo
+// Max Infinite Ammo
+patch=1,EE,20168C04,extended,24020063
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,20168C04,extended,00441021
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,20360BC0,extended,00000000
+
+[Flashlight Never Overheats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flashlight Never Overheats
+// Flashlight Never Overheats
+patch=1,EE,20364F78,extended,00000000
+
+[Infinite Save Discs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Save Discs
+// Infinite Save Discs
+patch=1,EE,202DE568,extended,00000000
+
+[Max Items (upon Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Items (upon Pickup)
+// Max Items (upon Pickup)
+patch=1,EE,202C2370,extended,24030063
+
+[Max Items (upon Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Items (upon Pickup)
+// Max Items (upon Pickup)
+patch=1,EE,202C2378,extended,AC430050
+
+[Unlock All Music]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Music
+// Unlock All Music
+patch=1,EE,20CDCEE4,extended,FFFFFFFF
+
+[Unlock All Extra/Special Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Extra/Special Mode
+// Unlock All Extra/Special Mode
+patch=1,EE,20CDCEEC,extended,FFFFFFFF

@@ -1,0 +1,133 @@
+gametitle=WWE Crush Hour [SLUS-20385] [CD6A0695]
+
+[No Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money
+// No Money
+patch=1,EE,90121EB4,extended,0C04C592
+
+[Unlock All Wrestlers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Wrestlers
+// Unlock All Wrestlers
+patch=1,EE,2075D8D0,extended,FFFFFFFF
+
+[Unlock All Arenas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Arenas
+// Unlock All Arenas
+patch=1,EE,2075D8D4,extended,0000FFFF
+
+[Infinite Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1
+// Infinite Health P1
+patch=1,EE,20999A24,extended,447A0000
+
+[No Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P1
+// No Health P1
+patch=1,EE,20999A24,extended,00000000
+
+[Infinite Turbo P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Turbo P1
+// Infinite Turbo P1
+patch=1,EE,2099C0FC,extended,00000003
+
+[No Turbo P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Turbo P1
+// No Turbo P1
+patch=1,EE,2099C0FC,extended,00000000
+
+[Infinite Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2
+// Infinite Health P2
+patch=1,EE,2099C524,extended,447A0000
+
+[No Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P2
+// No Health P2
+patch=1,EE,2099C524,extended,00000000
+
+[Infinite Turbo P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Turbo P2
+// Infinite Turbo P2
+patch=1,EE,2099EBFC,extended,00000003
+
+[No Turbo P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Turbo P2
+// No Turbo P2
+patch=1,EE,2099EBFC,extended,00000000
+
+[Infinite Health P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P3
+// Infinite Health P3
+patch=1,EE,2099F024,extended,447A0000
+
+[No Health P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P3
+// No Health P3
+patch=1,EE,2099F024,extended,00000000
+
+[Infinite Turbo P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Turbo P3
+// Infinite Turbo P3
+patch=1,EE,209A16FC,extended,00000003
+
+[No Turbo P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Turbo P3
+// No Turbo P3
+patch=1,EE,209A16FC,extended,00000000
+
+[Infinite Health P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P4
+// Infinite Health P4
+patch=1,EE,209A1B24,extended,447A0000
+
+[No Health P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P4
+// No Health P4
+patch=1,EE,209A1B24,extended,00000000
+
+[Infinite Turbo P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Turbo P4
+// Infinite Turbo P4
+patch=1,EE,209A41FC,extended,00000003
+
+[No Turbo P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Turbo P4
+// No Turbo P4
+patch=1,EE,209A41FC,extended,00000000
+
+[Health Doesnt Regenerate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health Doesnt Regenerate
+// Health Doesnt Regenerate
+patch=1,EE,201A14F0,extended,00000000
+
+[Infinite Turbos (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Turbos (All Players)
+// Infinite Turbos (All Players)
+patch=1,EE,201E1B88,extended,00000000
+
+[Extra Turbos (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Turbos (All Players)
+// Extra Turbos (All Players)
+patch=1,EE,101E1B8C,extended,00000001

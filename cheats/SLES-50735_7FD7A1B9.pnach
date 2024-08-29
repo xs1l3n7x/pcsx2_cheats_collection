@@ -1,0 +1,1177 @@
+gametitle=Jade Cocoon 2 [SLES-50735] [7FD7A1B9]
+
+[Unlock All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cars
+// Unlock All Cars
+patch=1,EE,9012277C,extended,0C04CAAE
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,10879888,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,20879888,extended,0098967F
+
+[Max Reputation]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Reputation
+// Max Reputation
+patch=1,EE,2087988C,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,2087A010,extended,000003E7
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,2087A014,extended,000003E7
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,2087A028,extended,000003E7
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,2087A02C,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087A040,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087A044,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087A058,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087A05C,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087A070,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087A074,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087A088,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087A08C,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087A0A0,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087A0A4,extended,000003E7
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,1087A000,extended,0000FFFF
+
+[Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp
+// Max Exp
+patch=1,EE,2087A000,extended,0098967F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,2087A1BC,extended,000003E7
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,2087A1C0,extended,000003E7
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,2087A1D4,extended,000003E7
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,2087A1D8,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087A1EC,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087A1F0,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087A204,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087A208,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087A21C,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087A220,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087A234,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087A238,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087A24C,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087A250,extended,000003E7
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,1087A1AC,extended,0000FFFF
+
+[Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp
+// Max Exp
+patch=1,EE,2087A1AC,extended,0098967F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,2087A368,extended,000003E7
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,2087A36C,extended,000003E7
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,2087A380,extended,000003E7
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,2087A384,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087A398,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087A39C,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087A3B0,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087A3B4,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087A3C8,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087A3CC,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087A3E0,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087A3E4,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087A3F8,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087A3FC,extended,000003E7
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,1087A358,extended,0000FFFF
+
+[Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp
+// Max Exp
+patch=1,EE,2087A358,extended,0098967F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,2087A514,extended,000003E7
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,2087A518,extended,000003E7
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,2087A52C,extended,000003E7
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,2087A530,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087A544,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087A548,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087A55C,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087A560,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087A574,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087A578,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087A58C,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087A590,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087A5A4,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087A5A8,extended,000003E7
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,1087A504,extended,0000FFFF
+
+[Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp
+// Max Exp
+patch=1,EE,2087A504,extended,0098967F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,2087A6C0,extended,000003E7
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,2087A6C4,extended,000003E7
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,2087A6D8,extended,000003E7
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,2087A6DC,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087A6F0,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087A6F4,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087A708,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087A70C,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087A720,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087A724,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087A738,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087A73C,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087A750,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087A754,extended,000003E7
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,1087A6B0,extended,0000FFFF
+
+[Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp
+// Max Exp
+patch=1,EE,2087A6B0,extended,0098967F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,2087A86C,extended,000003E7
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,2087A870,extended,000003E7
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,2087A884,extended,000003E7
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,2087A888,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087A89C,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087A8A0,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087A8B4,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087A8B8,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087A8CC,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087A8D0,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087A8E4,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087A8E8,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087A8FC,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087A900,extended,000003E7
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,1087A85C,extended,0000FFFF
+
+[Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp
+// Max Exp
+patch=1,EE,2087A85C,extended,0098967F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,2087AA18,extended,000003E7
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,2087AA1C,extended,000003E7
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,2087AA30,extended,000003E7
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,2087AA34,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087AA48,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087AA4C,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087AA60,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087AA64,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087AA78,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087AA7C,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087AA90,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087AA94,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087AAA8,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087AAAC,extended,000003E7
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,1087AA08,extended,0000FFFF
+
+[Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp
+// Max Exp
+patch=1,EE,2087AA08,extended,0098967F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,2087ABC4,extended,000003E7
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,2087ABC8,extended,000003E7
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,2087ABDC,extended,000003E7
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,2087ABE0,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087ABF4,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087ABF8,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087AC0C,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087AC10,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087AC24,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087AC28,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087AC3C,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087AC40,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087AC54,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087AC58,extended,000003E7
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,1087ABB4,extended,0000FFFF
+
+[Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp
+// Max Exp
+patch=1,EE,2087ABB4,extended,0098967F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,2087AD70,extended,000003E7
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,2087AD74,extended,000003E7
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,2087AD88,extended,000003E7
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,2087AD8C,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087ADA0,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087ADA4,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087ADB8,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087ADBC,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087ADD0,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087ADD4,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087ADE8,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087ADEC,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087AE00,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087AE04,extended,000003E7
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,1087AD60,extended,0000FFFF
+
+[Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp
+// Max Exp
+patch=1,EE,2087AD60,extended,0098967F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,2087AF1C,extended,000003E7
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,2087AF20,extended,000003E7
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,2087AF34,extended,000003E7
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,2087AF38,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087AF4C,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087AF50,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087AF64,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087AF68,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087AF7C,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087AF80,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087AF94,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087AF98,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087AFAC,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087AFB0,extended,000003E7
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,1087AF0C,extended,0000FFFF
+
+[Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp
+// Max Exp
+patch=1,EE,2087AF0C,extended,0098967F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,2087B0C8,extended,000003E7
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,2087B0CC,extended,000003E7
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,2087B0E0,extended,000003E7
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,2087B0E4,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087B0F8,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087B0FC,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087B110,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087B114,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087B128,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087B12C,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087B140,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087B144,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087B158,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087B15C,extended,000003E7
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,1087B0B8,extended,0000FFFF
+
+[Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp
+// Max Exp
+patch=1,EE,2087B0B8,extended,0098967F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,2087B274,extended,000003E7
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,2087B278,extended,000003E7
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,2087B28C,extended,000003E7
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,2087B290,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087B2A4,extended,000003E7
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2087B2A8,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087B2BC,extended,000003E7
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,2087B2C0,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087B2D4,extended,000003E7
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,2087B2D8,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087B2EC,extended,000003E7
+
+[Max Spirit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spirit
+// Max Spirit
+patch=1,EE,2087B2F0,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087B304,extended,000003E7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,2087B308,extended,000003E7
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,1087B264,extended,0000FFFF
+
+[Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp
+// Max Exp
+patch=1,EE,2087B264,extended,0098967F

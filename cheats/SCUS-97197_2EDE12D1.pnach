@@ -1,0 +1,361 @@
+gametitle=War Of The Monsters [SCUS-97197] [2EDE12D1]
+
+[Debug Music]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Debug Music
+// Debug Music
+patch=1,EE,F0100008,extended,00232BB7
+
+[Quick Battle Token Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Battle Token Gain
+// Quick Battle Token Gain
+patch=1,EE,104178A4,extended,0000FFFF
+
+[Max Battle Tokens]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Battle Tokens
+// Max Battle Tokens
+patch=1,EE,204178A4,extended,05F5E0FF
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,20102D90,extended,03E00008
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,20102D94,extended,00000000
+
+[Never Stunned (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Stunned (All Players)
+// Never Stunned (All Players)
+patch=1,EE,201D486C,extended,00000000
+
+[Infinite Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1
+// Infinite Health P1
+patch=1,EE,202B4568,extended,432C0000
+
+[Infinite Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1
+// Infinite Health P1
+patch=1,EE,202B456C,extended,432C0000
+
+[No Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P1
+// No Health P1
+patch=1,EE,202B4568,extended,432C0000
+
+[No Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P1
+// No Health P1
+patch=1,EE,202B456C,extended,00000000
+
+[Max Special Meter P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special Meter P1
+// Max Special Meter P1
+patch=1,EE,202B4580,extended,42C80000
+
+[Max Special Meter P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special Meter P1
+// Max Special Meter P1
+patch=1,EE,202B4590,extended,43000000
+
+[No Special Meter P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Special Meter P1
+// No Special Meter P1
+patch=1,EE,202B4580,extended,42C80000
+
+[No Special Meter P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Special Meter P1
+// No Special Meter P1
+patch=1,EE,202B4590,extended,00000000
+
+[Always Have Special P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Have Special P1
+// Always Have Special P1
+patch=1,EE,002B4213,extended,00000001
+
+[Never Have Special P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Have Special P1
+// Never Have Special P1
+patch=1,EE,002B4213,extended,00000000
+
+[P1 Always Stunned (Invincible)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Always Stunned (Invincible)
+// P1 Always Stunned (Invincible)
+patch=1,EE,002B4169,extended,00000000
+
+[P1 Never Stunned]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Never Stunned
+// P1 Never Stunned
+patch=1,EE,002B4169,extended,00000001
+
+[Infinite Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2
+// Infinite Health P2
+patch=1,EE,202C56F8,extended,432C0000
+
+[Infinite Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2
+// Infinite Health P2
+patch=1,EE,202C56FC,extended,432C0000
+
+[No Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P2
+// No Health P2
+patch=1,EE,202C56F8,extended,432C0000
+
+[No Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P2
+// No Health P2
+patch=1,EE,202C56FC,extended,00000000
+
+[Max Special Meter P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special Meter P2
+// Max Special Meter P2
+patch=1,EE,202C5710,extended,42C80000
+
+[Max Special Meter P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special Meter P2
+// Max Special Meter P2
+patch=1,EE,202C5720,extended,43000000
+
+[No Special Meter P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Special Meter P2
+// No Special Meter P2
+patch=1,EE,202C5710,extended,42C80000
+
+[No Special Meter P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Special Meter P2
+// No Special Meter P2
+patch=1,EE,202C5720,extended,00000000
+
+[Always Have Special P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Have Special P2
+// Always Have Special P2
+patch=1,EE,002C53A3,extended,00000001
+
+[Never Have Special P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Have Special P2
+// Never Have Special P2
+patch=1,EE,002C53A3,extended,00000000
+
+[P2 Always Stunned (Invincible)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Always Stunned (Invincible)
+// P2 Always Stunned (Invincible)
+patch=1,EE,002C52F9,extended,00000000
+
+[P2 Never Stunned]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Never Stunned
+// P2 Never Stunned
+patch=1,EE,002C52F9,extended,00000001
+
+[Infinite Health P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P3
+// Infinite Health P3
+patch=1,EE,202D6888,extended,432C0000
+
+[Infinite Health P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P3
+// Infinite Health P3
+patch=1,EE,202D688C,extended,432C0000
+
+[No Health P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P3
+// No Health P3
+patch=1,EE,202D6888,extended,432C0000
+
+[No Health P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P3
+// No Health P3
+patch=1,EE,202D688C,extended,00000000
+
+[Max Special Meter P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special Meter P3
+// Max Special Meter P3
+patch=1,EE,202D68A0,extended,42C80000
+
+[Max Special Meter P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special Meter P3
+// Max Special Meter P3
+patch=1,EE,202D68B0,extended,43000000
+
+[No Special Meter P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Special Meter P3
+// No Special Meter P3
+patch=1,EE,202D68A0,extended,42C80000
+
+[No Special Meter P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Special Meter P3
+// No Special Meter P3
+patch=1,EE,202D68B0,extended,00000000
+
+[Always Have Special P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Have Special P3
+// Always Have Special P3
+patch=1,EE,002D6533,extended,00000001
+
+[Never Have Special P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Have Special P3
+// Never Have Special P3
+patch=1,EE,002D6533,extended,00000000
+
+[P3 Always Stunned (Invincible)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Always Stunned (Invincible)
+// P3 Always Stunned (Invincible)
+patch=1,EE,002D6489,extended,00000000
+
+[P3 Never Stunned]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Never Stunned
+// P3 Never Stunned
+patch=1,EE,002D6489,extended,00000001
+
+[Infinite Health P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P4
+// Infinite Health P4
+patch=1,EE,202E7A18,extended,432C0000
+
+[Infinite Health P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P4
+// Infinite Health P4
+patch=1,EE,202E7A1C,extended,432C0000
+
+[No Health P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P4
+// No Health P4
+patch=1,EE,202E7A18,extended,432C0000
+
+[No Health P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P4
+// No Health P4
+patch=1,EE,202E7A1C,extended,00000000
+
+[Max Special Meter P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special Meter P4
+// Max Special Meter P4
+patch=1,EE,202E7A30,extended,42C80000
+
+[Max Special Meter P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special Meter P4
+// Max Special Meter P4
+patch=1,EE,202E7A40,extended,43000000
+
+[No Special Meter P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Special Meter P4
+// No Special Meter P4
+patch=1,EE,202E7A30,extended,42C80000
+
+[No Special Meter P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Special Meter P4
+// No Special Meter P4
+patch=1,EE,202E7A40,extended,00000000
+
+[Always Have Special P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Have Special P4
+// Always Have Special P4
+patch=1,EE,002E76C3,extended,00000001
+
+[Never Have Special P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Have Special P4
+// Never Have Special P4
+patch=1,EE,002E76C3,extended,00000000
+
+[P4 Always Stunned (Invincible)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Always Stunned (Invincible)
+// P4 Always Stunned (Invincible)
+patch=1,EE,002E7619,extended,00000000
+
+[P4 Never Stunned]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Never Stunned
+// P4 Never Stunned
+patch=1,EE,002E7619,extended,00000001
+
+[Unlock All Costumes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Costumes
+// Unlock All Costumes
+patch=1,EE,402A1EB4,extended,0028000B
+
+[Unlock All Costumes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Costumes
+// Unlock All Costumes
+patch=1,EE,00000001,extended,00000000
+
+[Unlock All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Levels
+// Unlock All Levels
+patch=1,EE,402A2594,extended,0004000B
+
+[Unlock All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Levels
+// Unlock All Levels
+patch=1,EE,00000001,extended,00000000
+
+[Unlock All Minigames]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Minigames
+// Unlock All Minigames
+patch=1,EE,402A2644,extended,0003000B
+
+[Unlock All Minigames]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Minigames
+// Unlock All Minigames
+patch=1,EE,00000001,extended,00000000

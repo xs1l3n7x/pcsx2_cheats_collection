@@ -1,0 +1,79 @@
+gametitle=UFC Throwdown [SLUS-20252] [3B959E6E]
+
+[Ass Kickin' Machine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ass Kickin' Machine
+// Ass Kickin' Machine
+patch=1,EE,9020341C,extended,0C08BEED
+
+[CPU Controlled Via Controller 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CPU Controlled Via Controller 2
+// CPU Controlled Via Controller 2
+patch=1,EE,004AA7C8,extended,00000000
+
+[Infinite Challenge Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Challenge Points
+// Infinite Challenge Points
+patch=1,EE,004AA98C,extended,00000064
+
+[Max Endurance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Endurance
+// Max Endurance
+patch=1,EE,204AA974,extended,00000024
+
+[Max Stamina]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stamina
+// Max Stamina
+patch=1,EE,204AA978,extended,00000024
+
+[Max Punch Skill]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Punch Skill
+// Max Punch Skill
+patch=1,EE,204AA97C,extended,00000024
+
+[Max Kick Skill]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Kick Skill
+// Max Kick Skill
+patch=1,EE,204AA980,extended,00000024
+
+[Max Grappling Skill]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Grappling Skill
+// Max Grappling Skill
+patch=1,EE,204AA984,extended,00000024
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,204AA988,extended,00000024
+
+[Ass Kickin' Machine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ass Kickin' Machine
+// Ass Kickin' Machine
+patch=1,EE,404AA974,extended,00060001
+
+[Ass Kickin' Machine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ass Kickin' Machine
+// Ass Kickin' Machine
+patch=1,EE,0000270F,extended,00000000
+
+[Complete Skill Challenges Easier]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Complete Skill Challenges Easier
+// Complete Skill Challenges Easier
+patch=1,EE,404AC414,extended,000F0019
+
+[Complete Skill Challenges Easier]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Complete Skill Challenges Easier
+// Complete Skill Challenges Easier
+patch=1,EE,00000002,extended,00000000

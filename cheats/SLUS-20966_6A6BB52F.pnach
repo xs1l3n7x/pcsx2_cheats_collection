@@ -1,0 +1,1105 @@
+gametitle=State Of Emergency 2 [SLUS-20966] [6A6BB52F]
+
+[Stage 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 19
+// Stage 19
+patch=1,EE,9031E970,extended,00832021
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20592F08,extended,437A0000
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,201A694C,extended,00000000
+
+[Max Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo
+// Max Infinite Ammo
+patch=1,EE,201A691C,extended,240203E7
+
+[Max Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo
+// Max Infinite Ammo
+patch=1,EE,201A6948,extended,240203E7
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,101A691C,extended,00000001
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,101A6948,extended,00000001
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,201A6908,extended,00000000
+
+[Always Low Current Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Current Time
+// Always Low Current Time
+patch=1,EE,2041B274,extended,00000000
+
+[Enable Debug Menu (Press {R3})]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enable Debug Menu (Press {R3})
+// Enable Debug Menu (Press {R3})
+patch=1,EE,203D0C90,extended,00000001
+
+[Show Debug Info Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Debug Info Always On
+// Show Debug Info Always On
+patch=1,EE,203D6F24,extended,00000001
+
+[Show Debug Info Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Debug Info Always Off
+// Show Debug Info Always Off
+patch=1,EE,203D6F24,extended,00000000
+
+[Show Music Info Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Music Info Always On
+// Show Music Info Always On
+patch=1,EE,203D6F28,extended,00000001
+
+[Show Music Info Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Music Info Always Off
+// Show Music Info Always Off
+patch=1,EE,203D6F28,extended,00000000
+
+[Show Event Names Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Event Names Always On
+// Show Event Names Always On
+patch=1,EE,203D6F2C,extended,00000001
+
+[Show Event Names Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Event Names Always Off
+// Show Event Names Always Off
+patch=1,EE,203D6F2C,extended,00000000
+
+[Show Coords Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Coords Always On
+// Show Coords Always On
+patch=1,EE,203FCEFC,extended,00000001
+
+[Show Coords Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Coords Always Off
+// Show Coords Always Off
+patch=1,EE,203FCEFC,extended,00000000
+
+[HUD Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=HUD Always On
+// HUD Always On
+patch=1,EE,2041E0D8,extended,00000001
+
+[HUD Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=HUD Always Off
+// HUD Always Off
+patch=1,EE,2041E0D8,extended,00000000
+
+[Always Max Current Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Current Damage
+// Always Max Current Damage
+patch=1,EE,204D091C,extended,0098967F
+
+[Players Get Tired Sprinting Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Players Get Tired Sprinting Always On
+// Players Get Tired Sprinting Always On
+patch=1,EE,204D4DC0,extended,00000001
+
+[Players Get Tired Sprinting Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Players Get Tired Sprinting Always Off
+// Players Get Tired Sprinting Always Off
+patch=1,EE,204D4DC0,extended,00000000
+
+[Debug Reputation Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Debug Reputation Always On
+// Debug Reputation Always On
+patch=1,EE,204D4E04,extended,00000001
+
+[Debug Reputation Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Debug Reputation Always Off
+// Debug Reputation Always Off
+patch=1,EE,204D4E04,extended,00000000
+
+[Target Through Terrain Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Target Through Terrain Always On
+// Target Through Terrain Always On
+patch=1,EE,205695D4,extended,00000001
+
+[Target Through Terrain Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Target Through Terrain Always Off
+// Target Through Terrain Always Off
+patch=1,EE,205695D4,extended,00000000
+
+[Chapters 1-2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-2
+// Chapters 1-2
+patch=1,EE,20420B7C,extended,00000000
+
+[Chapters 1-2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-2
+// Chapters 1-2
+patch=1,EE,204214D0,extended,00000001
+
+[Chapters 1-3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-3
+// Chapters 1-3
+patch=1,EE,20420B7C,extended,00000000
+
+[Chapters 1-3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-3
+// Chapters 1-3
+patch=1,EE,204214D0,extended,00000000
+
+[Chapters 1-3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-3
+// Chapters 1-3
+patch=1,EE,20421E24,extended,00000001
+
+[Chapters 1-4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-4
+// Chapters 1-4
+patch=1,EE,40420B7C,extended,00030255
+
+[Chapters 1-4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-4
+// Chapters 1-4
+patch=1,EE,00000000,extended,00000000
+
+[Chapters 1-4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-4
+// Chapters 1-4
+patch=1,EE,20422778,extended,00000001
+
+[Chapters 1-5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-5
+// Chapters 1-5
+patch=1,EE,40420B7C,extended,00040255
+
+[Chapters 1-5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-5
+// Chapters 1-5
+patch=1,EE,00000000,extended,00000000
+
+[Chapters 1-5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-5
+// Chapters 1-5
+patch=1,EE,204230CC,extended,00000001
+
+[Chapters 1-6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-6
+// Chapters 1-6
+patch=1,EE,40420B7C,extended,00050255
+
+[Chapters 1-6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-6
+// Chapters 1-6
+patch=1,EE,00000000,extended,00000000
+
+[Chapters 1-6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-6
+// Chapters 1-6
+patch=1,EE,20423A20,extended,00000001
+
+[Chapters 1-7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-7
+// Chapters 1-7
+patch=1,EE,40420B7C,extended,00060255
+
+[Chapters 1-7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-7
+// Chapters 1-7
+patch=1,EE,00000000,extended,00000000
+
+[Chapters 1-7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-7
+// Chapters 1-7
+patch=1,EE,20424374,extended,00000001
+
+[Chapters 1-8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-8
+// Chapters 1-8
+patch=1,EE,40420B7C,extended,00070255
+
+[Chapters 1-8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-8
+// Chapters 1-8
+patch=1,EE,00000000,extended,00000000
+
+[Chapters 1-8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-8
+// Chapters 1-8
+patch=1,EE,20424CC8,extended,00000001
+
+[Chapters 1-9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-9
+// Chapters 1-9
+patch=1,EE,40420B7C,extended,00080255
+
+[Chapters 1-9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-9
+// Chapters 1-9
+patch=1,EE,00000000,extended,00000000
+
+[Chapters 1-9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-9
+// Chapters 1-9
+patch=1,EE,2042561C,extended,00000001
+
+[Chapters 1-10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-10
+// Chapters 1-10
+patch=1,EE,40420B7C,extended,00090255
+
+[Chapters 1-10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-10
+// Chapters 1-10
+patch=1,EE,00000000,extended,00000000
+
+[Chapters 1-10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-10
+// Chapters 1-10
+patch=1,EE,20425F70,extended,00000001
+
+[Chapters 1-11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-11
+// Chapters 1-11
+patch=1,EE,40420B7C,extended,000A0255
+
+[Chapters 1-11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-11
+// Chapters 1-11
+patch=1,EE,00000000,extended,00000000
+
+[Chapters 1-11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-11
+// Chapters 1-11
+patch=1,EE,204268C4,extended,00000001
+
+[Chapters 1-12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-12
+// Chapters 1-12
+patch=1,EE,40420B7C,extended,000B0255
+
+[Chapters 1-12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-12
+// Chapters 1-12
+patch=1,EE,00000000,extended,00000000
+
+[Chapters 1-12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapters 1-12
+// Chapters 1-12
+patch=1,EE,20427218,extended,00000001
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,2041B290,extended,00000001
+
+[Invulnerable]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invulnerable
+// Invulnerable
+patch=1,EE,70593160,extended,00000010
+
+[Disable Character Collisions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Character Collisions
+// Disable Character Collisions
+patch=1,EE,70593160,extended,00000040
+
+[Disable Wall Collisions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Wall Collisions
+// Disable Wall Collisions
+patch=1,EE,70593160,extended,00000080
+
+[Disable Terrain Collisions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Terrain Collisions
+// Disable Terrain Collisions
+patch=1,EE,70593161,extended,00000001
+
+[Only Damaged By Headshots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only Damaged By Headshots
+// Only Damaged By Headshots
+patch=1,EE,70593161,extended,00000010
+
+[Invulnerable Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invulnerable Health
+// Invulnerable Health
+patch=1,EE,70593174,extended,00000020
+
+[Character Masks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character Masks
+// Character Masks
+patch=1,EE,204440D8,extended,00000001
+
+[Tiny Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiny Characters
+// Tiny Characters
+patch=1,EE,204440DC,extended,00000001
+
+[Huge Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Characters
+// Huge Characters
+patch=1,EE,204440E0,extended,00000001
+
+[No Radar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Radar
+// No Radar
+patch=1,EE,204440E4,extended,00000001
+
+[Farm Yard Noises]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Farm Yard Noises
+// Farm Yard Noises
+patch=1,EE,204440E8,extended,00000001
+
+[One-Shot-Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=One-Shot-Kills
+// One-Shot-Kills
+patch=1,EE,204440EC,extended,00000001
+
+[Rapid Fire Sniper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Fire Sniper
+// Rapid Fire Sniper
+patch=1,EE,204440F0,extended,00000001
+
+[Invincibility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincibility
+// Invincibility
+patch=1,EE,204440F4,extended,00000001
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,204440F8,extended,00000001
+
+[Exploding Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exploding Death
+// Exploding Death
+patch=1,EE,204440FC,extended,00000001
+
+[Wireframe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wireframe
+// Wireframe
+patch=1,EE,20444100,extended,00000001
+
+[8-Bit Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=8-Bit Mode
+// 8-Bit Mode
+patch=1,EE,20444104,extended,00000001
+
+[Character Masks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character Masks
+// Character Masks
+patch=1,EE,70455870,extended,00000004
+
+[Tiny Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiny Characters
+// Tiny Characters
+patch=1,EE,70455870,extended,00000008
+
+[Huge Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Characters
+// Huge Characters
+patch=1,EE,70455870,extended,00000010
+
+[No Radar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Radar
+// No Radar
+patch=1,EE,70455870,extended,00000020
+
+[Farm Yard Noises]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Farm Yard Noises
+// Farm Yard Noises
+patch=1,EE,70455870,extended,00000040
+
+[One-Shot-Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=One-Shot-Kills
+// One-Shot-Kills
+patch=1,EE,70455870,extended,00000080
+
+[Rapid Fire Sniper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Fire Sniper
+// Rapid Fire Sniper
+patch=1,EE,70455871,extended,00000001
+
+[Invincibility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincibility
+// Invincibility
+patch=1,EE,70455871,extended,00000002
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,70455871,extended,00000004
+
+[Exploding Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exploding Death
+// Exploding Death
+patch=1,EE,70455871,extended,00000008
+
+[Wireframe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wireframe
+// Wireframe
+patch=1,EE,70455871,extended,00000010
+
+[8-Bit Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=8-Bit Mode
+// 8-Bit Mode
+patch=1,EE,70455871,extended,00000020
+
+[All Cheats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Cheats
+// All Cheats
+patch=1,EE,70455870,extended,00103FFC
+
+[Unlock Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Level
+// Unlock Level
+patch=1,EE,2042CEA4,extended,00000000
+
+[Low Score Needed-Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Score Needed-Gold
+// Low Score Needed-Gold
+patch=1,EE,2042CE98,extended,00000001
+
+[Low Score Needed-Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Score Needed-Silver
+// Low Score Needed-Silver
+patch=1,EE,2042CE9C,extended,00000001
+
+[Low Score Needed-Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Score Needed-Bronze
+// Low Score Needed-Bronze
+patch=1,EE,2042CEA0,extended,00000001
+
+[Unlock Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Level
+// Unlock Level
+patch=1,EE,2042D7F8,extended,00000000
+
+[Always High Time Needed-Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Gold
+// Always High Time Needed-Gold
+patch=1,EE,2042D7EC,extended,0000EA5F
+
+[Always High Time Needed-Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Silver
+// Always High Time Needed-Silver
+patch=1,EE,2042D7F0,extended,0000EA5F
+
+[Always High Time Needed-Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Bronze
+// Always High Time Needed-Bronze
+patch=1,EE,2042D7F4,extended,0000EA5F
+
+[Unlock Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Level
+// Unlock Level
+patch=1,EE,2042E14C,extended,00000000
+
+[Low Score Needed-Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Score Needed-Gold
+// Low Score Needed-Gold
+patch=1,EE,2042E140,extended,00000001
+
+[Low Score Needed-Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Score Needed-Silver
+// Low Score Needed-Silver
+patch=1,EE,2042E144,extended,00000001
+
+[Low Score Needed-Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Score Needed-Bronze
+// Low Score Needed-Bronze
+patch=1,EE,2042E148,extended,00000001
+
+[Unlock Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Level
+// Unlock Level
+patch=1,EE,2042EAA0,extended,00000000
+
+[Low Score Needed-Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Score Needed-Gold
+// Low Score Needed-Gold
+patch=1,EE,2042EA94,extended,00000001
+
+[Low Score Needed-Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Score Needed-Silver
+// Low Score Needed-Silver
+patch=1,EE,2042EA98,extended,00000001
+
+[Low Score Needed-Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Score Needed-Bronze
+// Low Score Needed-Bronze
+patch=1,EE,2042EA9C,extended,00000001
+
+[Unlock Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Level
+// Unlock Level
+patch=1,EE,2042F3F4,extended,00000000
+
+[Always High Time Needed-Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Gold
+// Always High Time Needed-Gold
+patch=1,EE,2042F3E8,extended,0000EA5F
+
+[Always High Time Needed-Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Silver
+// Always High Time Needed-Silver
+patch=1,EE,2042F3EC,extended,0000EA5F
+
+[Always High Time Needed-Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Bronze
+// Always High Time Needed-Bronze
+patch=1,EE,2042F3F0,extended,0000EA5F
+
+[Unlock Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Level
+// Unlock Level
+patch=1,EE,2042FD48,extended,00000000
+
+[Always High Time Needed-Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Gold
+// Always High Time Needed-Gold
+patch=1,EE,2042FD3C,extended,0000EA5F
+
+[Always High Time Needed-Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Silver
+// Always High Time Needed-Silver
+patch=1,EE,2042FD40,extended,0000EA5F
+
+[Always High Time Needed-Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Bronze
+// Always High Time Needed-Bronze
+patch=1,EE,2042FD44,extended,0000EA5F
+
+[Unlock Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Level
+// Unlock Level
+patch=1,EE,2043069C,extended,00000000
+
+[Low Score Needed-Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Score Needed-Gold
+// Low Score Needed-Gold
+patch=1,EE,20430690,extended,00000001
+
+[Low Score Needed-Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Score Needed-Silver
+// Low Score Needed-Silver
+patch=1,EE,20430694,extended,00000001
+
+[Low Score Needed-Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Score Needed-Bronze
+// Low Score Needed-Bronze
+patch=1,EE,20430698,extended,00000001
+
+[Unlock Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Level
+// Unlock Level
+patch=1,EE,20430FF0,extended,00000000
+
+[Always High Time Needed-Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Gold
+// Always High Time Needed-Gold
+patch=1,EE,20430FE4,extended,0000EA5F
+
+[Always High Time Needed-Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Silver
+// Always High Time Needed-Silver
+patch=1,EE,20430FE8,extended,0000EA5F
+
+[Always High Time Needed-Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Bronze
+// Always High Time Needed-Bronze
+patch=1,EE,20430FEC,extended,0000EA5F
+
+[Unlock Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Level
+// Unlock Level
+patch=1,EE,20431944,extended,00000000
+
+[Always High Time Needed-Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Gold
+// Always High Time Needed-Gold
+patch=1,EE,20431938,extended,0000EA5F
+
+[Always High Time Needed-Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Silver
+// Always High Time Needed-Silver
+patch=1,EE,2043193C,extended,0000EA5F
+
+[Always High Time Needed-Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Bronze
+// Always High Time Needed-Bronze
+patch=1,EE,20431940,extended,0000EA5F
+
+[Unlock Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Level
+// Unlock Level
+patch=1,EE,20432298,extended,00000000
+
+[Always High Time Needed-Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Gold
+// Always High Time Needed-Gold
+patch=1,EE,2043228C,extended,0000EA5F
+
+[Always High Time Needed-Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Silver
+// Always High Time Needed-Silver
+patch=1,EE,20432290,extended,0000EA5F
+
+[Always High Time Needed-Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Bronze
+// Always High Time Needed-Bronze
+patch=1,EE,20432294,extended,0000EA5F
+
+[Unlock Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Level
+// Unlock Level
+patch=1,EE,20432BEC,extended,00000000
+
+[Unlock Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Level
+// Unlock Level
+patch=1,EE,20433540,extended,00000000
+
+[Always High Time Needed-Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Gold
+// Always High Time Needed-Gold
+patch=1,EE,20433534,extended,0000EA5F
+
+[Always High Time Needed-Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Silver
+// Always High Time Needed-Silver
+patch=1,EE,20433538,extended,0000EA5F
+
+[Always High Time Needed-Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Bronze
+// Always High Time Needed-Bronze
+patch=1,EE,2043353C,extended,0000EA5F
+
+[Unlock Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Level
+// Unlock Level
+patch=1,EE,20433E94,extended,00000000
+
+[Always High Time Needed-Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Gold
+// Always High Time Needed-Gold
+patch=1,EE,20433E88,extended,0000EA5F
+
+[Always High Time Needed-Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Silver
+// Always High Time Needed-Silver
+patch=1,EE,20433E8C,extended,0000EA5F
+
+[Always High Time Needed-Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Time Needed-Bronze
+// Always High Time Needed-Bronze
+patch=1,EE,20433E90,extended,0000EA5F
+
+[Unlock Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Level
+// Unlock Level
+patch=1,EE,204347E8,extended,00000000
+
+[Low Score Needed-Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Score Needed-Gold
+// Low Score Needed-Gold
+patch=1,EE,204347DC,extended,00000001
+
+[Low Score Needed-Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Score Needed-Silver
+// Low Score Needed-Silver
+patch=1,EE,204347E0,extended,00000001
+
+[Low Score Needed-Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Score Needed-Bronze
+// Low Score Needed-Bronze
+patch=1,EE,204347E4,extended,00000001
+
+[Unlock Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Level
+// Unlock Level
+patch=1,EE,2043513C,extended,00000000
+
+[Low Score Needed-Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Score Needed-Gold
+// Low Score Needed-Gold
+patch=1,EE,20435130,extended,00000001
+
+[Low Score Needed-Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Score Needed-Silver
+// Low Score Needed-Silver
+patch=1,EE,20435134,extended,00000001
+
+[Low Score Needed-Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Score Needed-Bronze
+// Low Score Needed-Bronze
+patch=1,EE,20435138,extended,00000001
+
+[Last Man Standing-Prison]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Last Man Standing-Prison
+// Last Man Standing-Prison
+patch=1,EE,2043809C,extended,00000001
+
+[Last Man Standing-Ghetto]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Last Man Standing-Ghetto
+// Last Man Standing-Ghetto
+patch=1,EE,204389F0,extended,00000001
+
+[Last Man Standing-Worker Zone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Last Man Standing-Worker Zone
+// Last Man Standing-Worker Zone
+patch=1,EE,20439344,extended,00000001
+
+[Team Deathmatch-Prison]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team Deathmatch-Prison
+// Team Deathmatch-Prison
+patch=1,EE,20439C98,extended,00000001
+
+[Team Deathmatch-Ghetto]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team Deathmatch-Ghetto
+// Team Deathmatch-Ghetto
+patch=1,EE,2043B894,extended,00000001
+
+[Team Deathmatch-Worker Zone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team Deathmatch-Worker Zone
+// Team Deathmatch-Worker Zone
+patch=1,EE,2043CB3C,extended,00000001
+
+[Deathmatch-Prison]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Deathmatch-Prison
+// Deathmatch-Prison
+patch=1,EE,2043A5EC,extended,00000001
+
+[Deathmatch-Ghetto]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Deathmatch-Ghetto
+// Deathmatch-Ghetto
+patch=1,EE,2043AF40,extended,00000001
+
+[Deathmatch-Workers' Zone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Deathmatch-Workers' Zone
+// Deathmatch-Workers' Zone
+patch=1,EE,2043C1E8,extended,00000001
+
+[Flag Attack-Prison]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flag Attack-Prison
+// Flag Attack-Prison
+patch=1,EE,2043F08C,extended,00000001
+
+[Flag Attack-Ghetto]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flag Attack-Ghetto
+// Flag Attack-Ghetto
+patch=1,EE,2043F9E0,extended,00000001
+
+[Flag Attack-Worker Zone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flag Attack-Worker Zone
+// Flag Attack-Worker Zone
+patch=1,EE,20440334,extended,00000001
+
+[Battle-Ghetto]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle-Ghetto
+// Battle-Ghetto
+patch=1,EE,70455874,extended,00000004
+
+[Prison MacNeil]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Prison MacNeil
+// Prison MacNeil
+patch=1,EE,70455871,extended,00000040
+
+[Prison Bull]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Prison Bull
+// Prison Bull
+patch=1,EE,70455871,extended,00000080
+
+[Prison 7366]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Prison 7366
+// Prison 7366
+patch=1,EE,70455872,extended,00000001
+
+[Prison Guard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Prison Guard
+// Prison Guard
+patch=1,EE,70455872,extended,00000002
+
+[Spanky]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spanky
+// Spanky
+patch=1,EE,70455872,extended,00000004
+
+[MacNeil]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MacNeil
+// MacNeil
+patch=1,EE,70455872,extended,00000008
+
+[Bull]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bull
+// Bull
+patch=1,EE,70455872,extended,00000010
+
+[Libra]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Libra
+// Libra
+patch=1,EE,70455872,extended,00000020
+
+[Bob]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bob
+// Bob
+patch=1,EE,70455872,extended,00000040
+
+[Heavy Prison Guard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Heavy Prison Guard
+// Heavy Prison Guard
+patch=1,EE,70455872,extended,00000080
+
+[Enforcer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enforcer
+// Enforcer
+patch=1,EE,70455873,extended,00000001
+
+[Trey]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trey
+// Trey
+patch=1,EE,70455873,extended,00000002
+
+[Duncan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Duncan
+// Duncan
+patch=1,EE,70455873,extended,00000004
+
+[Helmut]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Helmut
+// Helmut
+patch=1,EE,70455873,extended,00000008
+
+[Lance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lance
+// Lance
+patch=1,EE,70455873,extended,00000010
+
+[Piers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Piers
+// Piers
+patch=1,EE,70455873,extended,00000020
+
+[Betty]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Betty
+// Betty
+patch=1,EE,70455873,extended,00000040
+
+[Soldier]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Soldier
+// Soldier
+patch=1,EE,70455873,extended,00000080
+
+[Heavy Enforcer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Heavy Enforcer
+// Heavy Enforcer
+patch=1,EE,70455874,extended,00000001
+
+[Freak]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Freak
+// Freak
+patch=1,EE,70455874,extended,00000002
+
+[All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Characters
+// All Characters
+patch=1,EE,70455871,extended,000000C0
+
+[All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Characters
+// All Characters
+patch=1,EE,10455872,extended,0000FFFF
+
+[All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Characters
+// All Characters
+patch=1,EE,70455874,extended,00000003

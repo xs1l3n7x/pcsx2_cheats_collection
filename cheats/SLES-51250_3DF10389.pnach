@@ -1,0 +1,361 @@
+gametitle=Shox [SLES-51250] [3DF10389]
+
+[No Health P8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P8
+// No Health P8
+patch=1,EE,902BAEA4,extended,0C0B2789
+
+[Quick Money Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Money Gain
+// Quick Money Gain
+patch=1,EE,1035BC60,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,2035BC60,extended,05F5E0FF
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,202FFDB8,extended,00000001
+
+[Have Compact Gold Trophy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Compact Gold Trophy
+// Have Compact Gold Trophy
+patch=1,EE,0035BD70,extended,00000003
+
+[Have Sports Gold Trophy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Sports Gold Trophy
+// Have Sports Gold Trophy
+patch=1,EE,0035BD71,extended,00000003
+
+[Have Turbo Gold Trophy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Turbo Gold Trophy
+// Have Turbo Gold Trophy
+patch=1,EE,0035BD72,extended,00000003
+
+[Have Power Gold Trophy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Power Gold Trophy
+// Have Power Gold Trophy
+patch=1,EE,0035BD73,extended,00000003
+
+[Have All Compact Stages]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Compact Stages
+// Have All Compact Stages
+patch=1,EE,0035BC2B,extended,00000006
+
+[Have All Sports Stages]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Sports Stages
+// Have All Sports Stages
+patch=1,EE,0035BC2C,extended,00000006
+
+[Have All Turbo Stages]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Turbo Stages
+// Have All Turbo Stages
+patch=1,EE,0035BC2D,extended,00000006
+
+[Have All Power Stages]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Power Stages
+// Have All Power Stages
+patch=1,EE,0035BC2E,extended,00000006
+
+[Car 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 1
+// Car 1
+patch=1,EE,0035BC53,extended,00000002
+
+[Car 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 2
+// Car 2
+patch=1,EE,0035BC54,extended,00000002
+
+[Car 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 3
+// Car 3
+patch=1,EE,0035BC55,extended,00000002
+
+[Car 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 4
+// Car 4
+patch=1,EE,0035BC56,extended,00000002
+
+[Car 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 5
+// Car 5
+patch=1,EE,0035BC57,extended,00000002
+
+[Car 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 6
+// Car 6
+patch=1,EE,0035BC58,extended,00000002
+
+[Car 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 1
+// Car 1
+patch=1,EE,0035BC47,extended,00000002
+
+[Car 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 2
+// Car 2
+patch=1,EE,0035BC48,extended,00000002
+
+[Car 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 3
+// Car 3
+patch=1,EE,0035BC49,extended,00000002
+
+[Car 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 4
+// Car 4
+patch=1,EE,0035BC4A,extended,00000002
+
+[Car 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 5
+// Car 5
+patch=1,EE,0035BC4B,extended,00000002
+
+[Car 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 6
+// Car 6
+patch=1,EE,0035BC4C,extended,00000002
+
+[Car 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 1
+// Car 1
+patch=1,EE,0035BC3B,extended,00000002
+
+[Car 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 2
+// Car 2
+patch=1,EE,0035BC3C,extended,00000002
+
+[Car 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 3
+// Car 3
+patch=1,EE,0035BC3D,extended,00000002
+
+[Car 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 4
+// Car 4
+patch=1,EE,0035BC3E,extended,00000002
+
+[Car 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 5
+// Car 5
+patch=1,EE,0035BC3F,extended,00000002
+
+[Car 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 6
+// Car 6
+patch=1,EE,0035BC40,extended,00000002
+
+[Car 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 1
+// Car 1
+patch=1,EE,0035BC2F,extended,00000002
+
+[Car 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 2
+// Car 2
+patch=1,EE,0035BC30,extended,00000002
+
+[Car 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 3
+// Car 3
+patch=1,EE,0035BC31,extended,00000002
+
+[Car 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 4
+// Car 4
+patch=1,EE,0035BC32,extended,00000002
+
+[Car 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 5
+// Car 5
+patch=1,EE,0035BC33,extended,00000002
+
+[Car 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Car 6
+// Car 6
+patch=1,EE,0035BC34,extended,00000002
+
+[Tunnel Vision]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tunnel Vision
+// Tunnel Vision
+patch=1,EE,0035BCAD,extended,00000000
+
+[Surfs Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Surfs Up
+// Surfs Up
+patch=1,EE,0035BCAE,extended,00000000
+
+[Nursery Slopes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nursery Slopes
+// Nursery Slopes
+patch=1,EE,0035BCAF,extended,00000000
+
+[Shox Away]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shox Away
+// Shox Away
+patch=1,EE,0035BCB0,extended,00000000
+
+[Lagoon Show]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lagoon Show
+// Lagoon Show
+patch=1,EE,0035BCB1,extended,00000000
+
+[Ice And Easy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice And Easy
+// Ice And Easy
+patch=1,EE,0035BCB2,extended,00000000
+
+[Fort Shox]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fort Shox
+// Fort Shox
+patch=1,EE,0035BCB3,extended,00000000
+
+[Flamingo Falls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flamingo Falls
+// Flamingo Falls
+patch=1,EE,0035BCB4,extended,00000000
+
+[Avalanche]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Avalanche
+// Avalanche
+patch=1,EE,0035BCB5,extended,00000000
+
+[Temple Ruins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Temple Ruins
+// Temple Ruins
+patch=1,EE,0035BCB6,extended,00000000
+
+[Some Like It Hut]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Some Like It Hut
+// Some Like It Hut
+patch=1,EE,0035BCB7,extended,00000000
+
+[Burner Glade]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Burner Glade
+// Burner Glade
+patch=1,EE,0035BCB8,extended,00000000
+
+[Full Lock]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Full Lock
+// Full Lock
+patch=1,EE,0035BCB9,extended,00000000
+
+[Volcano]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Volcano
+// Volcano
+patch=1,EE,0035BCBA,extended,00000000
+
+[Cable Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cable Car
+// Cable Car
+patch=1,EE,0035BCBB,extended,00000000
+
+[Drm Blast]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Drm Blast
+// Drm Blast
+patch=1,EE,0035BCBC,extended,00000000
+
+[Great Wall]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Wall
+// Great Wall
+patch=1,EE,0035BCBD,extended,00000000
+
+[White Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=White Out
+// White Out
+patch=1,EE,0035BCBE,extended,00000000
+
+[Arid Enduro F]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arid Enduro F
+// Arid Enduro F
+patch=1,EE,0035BCBF,extended,00000000
+
+[Jungle Enduro F]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jungle Enduro F
+// Jungle Enduro F
+patch=1,EE,0035BCC0,extended,00000000
+
+[Snow Enduro F]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snow Enduro F
+// Snow Enduro F
+patch=1,EE,0035BCC1,extended,00000000
+
+[Arid Enduro R]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arid Enduro R
+// Arid Enduro R
+patch=1,EE,0035BCC2,extended,00000000
+
+[Jungle Enduro R]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jungle Enduro R
+// Jungle Enduro R
+patch=1,EE,0035BCC3,extended,00000000
+
+[Snow Enduro R]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snow Enduro R
+// Snow Enduro R
+patch=1,EE,0035BCC4,extended,00000000

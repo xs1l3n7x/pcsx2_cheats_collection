@@ -1,0 +1,223 @@
+gametitle=Beyond Good And Evil [SLUS-20763] [3.68E+61]
+
+[B.List]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=B.List
+// B.List
+patch=1,EE,F0100044,extended,006E31D7
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,20D2F958,extended,440C0000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20D2F988,extended,440C0000
+
+[Infinite 'Easy-Unit' Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite 'Easy-Unit' Cards
+// Infinite 'Easy-Unit' Cards
+patch=1,EE,20D2F998,extended,0000270F
+
+[Camera]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Camera
+// Camera
+patch=1,EE,20D300F8,extended,00000001
+
+[Cutting Pliers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cutting Pliers
+// Cutting Pliers
+patch=1,EE,20D300FC,extended,00000001
+
+[Fuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fuse
+// Fuse
+patch=1,EE,20D30100,extended,00000001
+
+[Dai-Jo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dai-Jo
+// Dai-Jo
+patch=1,EE,20D30108,extended,00000001
+
+[City-Pass]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City-Pass
+// City-Pass
+patch=1,EE,20D30110,extended,00000001
+
+[Gyrodisc Launcher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gyrodisc Launcher
+// Gyrodisc Launcher
+patch=1,EE,20D30120,extended,00000001
+
+[Mirror]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mirror
+// Mirror
+patch=1,EE,20D30124,extended,00000001
+
+[Flight Stabilizer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flight Stabilizer
+// Flight Stabilizer
+patch=1,EE,20D30128,extended,00000001
+
+[Meca-Impulser]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Meca-Impulser
+// Meca-Impulser
+patch=1,EE,20D30130,extended,00000001
+
+[P-O-D]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P-O-D
+// P-O-D
+patch=1,EE,20D30134,extended,00000001
+
+[Set Of Pods]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Set Of Pods
+// Set Of Pods
+patch=1,EE,20D30138,extended,00000001
+
+[Room 03 Ticket]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Room 03 Ticket
+// Room 03 Ticket
+patch=1,EE,20D3013C,extended,00000001
+
+[Animal Detector]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Animal Detector
+// Animal Detector
+patch=1,EE,20D30140,extended,00000001
+
+[Pearl Detector]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pearl Detector
+// Pearl Detector
+patch=1,EE,20D30144,extended,00000001
+
+[Triangular Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Triangular Key
+// Triangular Key
+patch=1,EE,20D3014C,extended,00000001
+
+[Square Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Square Key
+// Square Key
+patch=1,EE,20D30150,extended,00000001
+
+[Box Of K-Bups]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Box Of K-Bups
+// Box Of K-Bups
+patch=1,EE,20D30154,extended,00000001
+
+[Star Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Star Key
+// Star Key
+patch=1,EE,20D30158,extended,00000001
+
+[Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armor
+// Armor
+patch=1,EE,20D3015C,extended,00000001
+
+[Mdisk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mdisk
+// Mdisk
+patch=1,EE,20D30164,extended,00000001
+
+[FA 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FA 1
+// FA 1
+patch=1,EE,20D30168,extended,00000001
+
+[Jet-Boots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jet-Boots
+// Jet-Boots
+patch=1,EE,20D3016C,extended,00000001
+
+[Starkos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Starkos
+// Starkos
+patch=1,EE,20D30170,extended,00000001
+
+[Super-Attack Strengthened]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super-Attack Strengthened
+// Super-Attack Strengthened
+patch=1,EE,20D30174,extended,00000001
+
+['Easy Unit' Card]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description='Easy Unit' Card
+// 'Easy Unit' Card
+patch=1,EE,20D30180,extended,00000001
+
+[Carlson-Peeters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Carlson-Peeters
+// Carlson-Peeters
+patch=1,EE,20D30184,extended,00000001
+
+[Jump Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jump Kit
+// Jump Kit
+patch=1,EE,20D30188,extended,00000001
+
+[Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boost
+// Boost
+patch=1,EE,20D3018C,extended,00000001
+
+[Neutralizing Cannon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Neutralizing Cannon
+// Neutralizing Cannon
+patch=1,EE,20D30190,extended,00000001
+
+[Speedcraft Motor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speedcraft Motor
+// Speedcraft Motor
+patch=1,EE,20D3019C,extended,00000001
+
+[Compass]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Compass
+// Compass
+patch=1,EE,20D301A0,extended,00000001
+
+[Stellar Motor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stellar Motor
+// Stellar Motor
+patch=1,EE,20D301A4,extended,00000001
+
+[Alpha Section Tickets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Alpha Section Tickets
+// Alpha Section Tickets
+patch=1,EE,20D301B0,extended,00000001

@@ -1,0 +1,721 @@
+gametitle=Open Season [SLUS-21467] [06BBB610]
+
+[Genbu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Genbu
+// Genbu
+patch=1,EE,90123EF8,extended,00832021
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0220,extended,24030005
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0224,extended,AE030A2C
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0228,extended,03E00008
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C022C,extended,92040A20
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2052FB74,extended,0C030088
+
+[Access Wild Academy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access Wild Academy
+// Access Wild Academy
+patch=1,EE,203203D4,extended,34420002
+
+[Access Wild Academy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access Wild Academy
+// Access Wild Academy
+patch=1,EE,203203DC,extended,A0820048
+
+[Unlock All Animal Buddy Facts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Animal Buddy Facts
+// Unlock All Animal Buddy Facts
+patch=1,EE,E00100F3,extended,00F2841E
+
+[Unlock All Animal Buddy Facts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Animal Buddy Facts
+// Unlock All Animal Buddy Facts
+patch=1,EE,20F2835C,extended,FFFFFFFF
+
+[Unlock All Trash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trash
+// Unlock All Trash
+patch=1,EE,E00100F3,extended,00F2841E
+
+[Unlock All Trash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trash
+// Unlock All Trash
+patch=1,EE,20F28360,extended,FFFFFFFF
+
+[Unlock All Butterflies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Butterflies
+// Unlock All Butterflies
+patch=1,EE,E00100F3,extended,00F2841E
+
+[Unlock All Butterflies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Butterflies
+// Unlock All Butterflies
+patch=1,EE,20F28364,extended,FFFFFFFF
+
+[Unlock All Acorns]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Acorns
+// Unlock All Acorns
+patch=1,EE,E00100F3,extended,00F2841E
+
+[Unlock All Acorns]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Acorns
+// Unlock All Acorns
+patch=1,EE,20F28368,extended,FFFFFFFF
+
+[Unlock All Mushrooms]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Mushrooms
+// Unlock All Mushrooms
+patch=1,EE,E00100F3,extended,00F2841E
+
+[Unlock All Mushrooms]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Mushrooms
+// Unlock All Mushrooms
+patch=1,EE,20F2836C,extended,FFFFFFFF
+
+[Unlock All Beetles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Beetles
+// Unlock All Beetles
+patch=1,EE,E00100F3,extended,00F2841E
+
+[Unlock All Beetles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Beetles
+// Unlock All Beetles
+patch=1,EE,20F28370,extended,FFFFFFFF
+
+[Unlock All Feathers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Feathers
+// Unlock All Feathers
+patch=1,EE,E00100F3,extended,00F2841E
+
+[Unlock All Feathers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Feathers
+// Unlock All Feathers
+patch=1,EE,20F28374,extended,FFFFFFFF
+
+[Unlock All Flowers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Flowers
+// Unlock All Flowers
+patch=1,EE,E00100F3,extended,00F2841E
+
+[Unlock All Flowers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Flowers
+// Unlock All Flowers
+patch=1,EE,20F28378,extended,FFFFFFFF
+
+[Unlock All Leaves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Leaves
+// Unlock All Leaves
+patch=1,EE,E00100F3,extended,00F2841E
+
+[Unlock All Leaves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Leaves
+// Unlock All Leaves
+patch=1,EE,20F2837C,extended,FFFFFFFF
+
+[Unlock All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Tracks
+// Unlock All Tracks
+patch=1,EE,E00100F3,extended,00F2841E
+
+[Unlock All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Tracks
+// Unlock All Tracks
+patch=1,EE,20F28380,extended,FFFFFFFF
+
+[Max Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Points
+// Max Points
+patch=1,EE,E00100F3,extended,00F2841E
+
+[Max Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Points
+// Max Points
+patch=1,EE,20F28358,extended,0001869F
+
+[Have All Upgrades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upgrades
+// Have All Upgrades
+patch=1,EE,E00400F3,extended,00F2841E
+
+[Have All Upgrades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upgrades
+// Have All Upgrades
+patch=1,EE,40F38CF0,extended,00040001
+
+[Have All Upgrades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upgrades
+// Have All Upgrades
+patch=1,EE,01010101,extended,00000000
+
+[Have All Upgrades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upgrades
+// Have All Upgrades
+patch=1,EE,10F38CFC,extended,00000101
+
+[Have All Upgrades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upgrades
+// Have All Upgrades
+patch=1,EE,10F38CFE,extended,00000001
+
+[Activation Code (Must Be On)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Must Be On)
+// Activation Code (Must Be On)
+patch=1,EE,E00100F3,extended,10F2841E
+
+[Activation Code (Must Be On)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Must Be On)
+// Activation Code (Must Be On)
+patch=1,EE,20123F3C,extended,03E00008
+
+[Activation Code (Must Be On)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Must Be On)
+// Activation Code (Must Be On)
+patch=1,EE,E00700F3,extended,00F2841E
+
+[Activation Code (Must Be On)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Must Be On)
+// Activation Code (Must Be On)
+patch=1,EE,200C0000,extended,3C0300F3
+
+[Activation Code (Must Be On)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Must Be On)
+// Activation Code (Must Be On)
+patch=1,EE,200C0004,extended,8C638410
+
+[Activation Code (Must Be On)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Must Be On)
+// Activation Code (Must Be On)
+patch=1,EE,200C0008,extended,1060007B
+
+[Activation Code (Must Be On)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Must Be On)
+// Activation Code (Must Be On)
+patch=1,EE,200C000C,extended,24010001
+
+[Activation Code (Must Be On)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Must Be On)
+// Activation Code (Must Be On)
+patch=1,EE,200C01F8,extended,03E00008
+
+[Activation Code (Must Be On)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Must Be On)
+// Activation Code (Must Be On)
+patch=1,EE,200C01FC,extended,00000000
+
+[Activation Code (Must Be On)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Must Be On)
+// Activation Code (Must Be On)
+patch=1,EE,20123F3C,extended,08030000
+
+[Dinkelman Dreams]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dinkelman Dreams
+// Dinkelman Dreams
+patch=1,EE,200C0010,extended,A0610008
+
+[Timberline!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Timberline!
+// Timberline!
+patch=1,EE,200C0014,extended,A0610010
+
+[Pumi Mart Picnic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pumi Mart Picnic
+// Pumi Mart Picnic
+patch=1,EE,200C0018,extended,A0610018
+
+[Wake In The Wild]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wake In The Wild
+// Wake In The Wild
+patch=1,EE,200C001C,extended,A0610020
+
+[Meet The Skunks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Meet The Skunks
+// Meet The Skunks
+patch=1,EE,200C0020,extended,A0610028
+
+[Hoof It!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hoof It!
+// Hoof It!
+patch=1,EE,200C0024,extended,A0610030
+
+[Mine Shafted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mine Shafted
+// Mine Shafted
+patch=1,EE,200C0028,extended,A0610038
+
+[Hunted!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunted!
+// Hunted!
+patch=1,EE,200C002C,extended,A0610040
+
+[Snow Blitz]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snow Blitz
+// Snow Blitz
+patch=1,EE,200C0030,extended,A0610048
+
+[Crazy Quackers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crazy Quackers
+// Crazy Quackers
+patch=1,EE,200C0034,extended,A0610050
+
+[Fowl Duty]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fowl Duty
+// Fowl Duty
+patch=1,EE,200C0038,extended,A0610058
+
+[Duck And Cover]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Duck And Cover
+// Duck And Cover
+patch=1,EE,200C003C,extended,A0610060
+
+[Beaver Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Beaver Damage
+// Beaver Damage
+patch=1,EE,200C0040,extended,A0610068
+
+[Rocky River]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rocky River
+// Rocky River
+patch=1,EE,200C0044,extended,A0610070
+
+[Shaw's Shack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shaw's Shack
+// Shaw's Shack
+patch=1,EE,200C0048,extended,A0610078
+
+[Start The Battle!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start The Battle!
+// Start The Battle!
+patch=1,EE,200C0050,extended,A0610088
+
+[Protect The Clan's Gree!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Protect The Clan's Gree!
+// Protect The Clan's Gree!
+patch=1,EE,200C0054,extended,A0610090
+
+[Tanks A Lot!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tanks A Lot!
+// Tanks A Lot!
+patch=1,EE,200C0058,extended,A0610098
+
+[Clear The Ducks!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Clear The Ducks!
+// Clear The Ducks!
+patch=1,EE,200C005C,extended,A06100A0
+
+[The Trouble With Trappers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Trouble With Trappers
+// The Trouble With Trappers
+patch=1,EE,200C0060,extended,A06100A8
+
+[Toothy Torpedoes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Toothy Torpedoes
+// Toothy Torpedoes
+patch=1,EE,200C0064,extended,A06100B0
+
+[Chainsaw Cha Cha]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chainsaw Cha Cha
+// Chainsaw Cha Cha
+patch=1,EE,200C0068,extended,A06100B8
+
+[Reilly's Rampage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reilly's Rampage
+// Reilly's Rampage
+patch=1,EE,200C006C,extended,A06100C0
+
+[Shaw Showdown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shaw Showdown
+// Shaw Showdown
+patch=1,EE,200C0070,extended,A06100C8
+
+[Scare Bear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scare Bear
+// Scare Bear
+patch=1,EE,200C0078,extended,A06100D8
+
+[Dinkelman Dreams]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dinkelman Dreams
+// Dinkelman Dreams
+patch=1,EE,200C0080,extended,2401001E
+
+[Dinkelman Dreams]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dinkelman Dreams
+// Dinkelman Dreams
+patch=1,EE,200C0084,extended,AC61000C
+
+[Timberline!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Timberline!
+// Timberline!
+patch=1,EE,200C0088,extended,2401006E
+
+[Timberline!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Timberline!
+// Timberline!
+patch=1,EE,200C008C,extended,AC610014
+
+[Pumi Mart Picnic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pumi Mart Picnic
+// Pumi Mart Picnic
+patch=1,EE,200C0090,extended,2401003C
+
+[Pumi Mart Picnic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pumi Mart Picnic
+// Pumi Mart Picnic
+patch=1,EE,200C0094,extended,AC61001C
+
+[Wake In The Wild]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wake In The Wild
+// Wake In The Wild
+patch=1,EE,200C0098,extended,24010056
+
+[Wake In The Wild]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wake In The Wild
+// Wake In The Wild
+patch=1,EE,200C009C,extended,AC610024
+
+[Meet The Skunks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Meet The Skunks
+// Meet The Skunks
+patch=1,EE,200C00A0,extended,24010087
+
+[Meet The Skunks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Meet The Skunks
+// Meet The Skunks
+patch=1,EE,200C00A4,extended,AC61002C
+
+[Hoof It!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hoof It!
+// Hoof It!
+patch=1,EE,200C00A8,extended,24010037
+
+[Hoof It!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hoof It!
+// Hoof It!
+patch=1,EE,200C00AC,extended,AC610034
+
+[Mine Shafted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mine Shafted
+// Mine Shafted
+patch=1,EE,200C00B0,extended,24010177
+
+[Mine Shafted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mine Shafted
+// Mine Shafted
+patch=1,EE,200C00B4,extended,AC61003C
+
+[Hunted!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunted!
+// Hunted!
+patch=1,EE,200C00B8,extended,240101BD
+
+[Hunted!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunted!
+// Hunted!
+patch=1,EE,200C00BC,extended,AC610044
+
+[Snow Blitz]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snow Blitz
+// Snow Blitz
+patch=1,EE,200C00C0,extended,240101F4
+
+[Snow Blitz]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snow Blitz
+// Snow Blitz
+patch=1,EE,200C00C4,extended,AC61004C
+
+[Crazy Quackers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crazy Quackers
+// Crazy Quackers
+patch=1,EE,200C00C8,extended,240100FA
+
+[Crazy Quackers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crazy Quackers
+// Crazy Quackers
+patch=1,EE,200C00CC,extended,AC610054
+
+[Fowl Duty]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fowl Duty
+// Fowl Duty
+patch=1,EE,200C00D0,extended,2401007D
+
+[Fowl Duty]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fowl Duty
+// Fowl Duty
+patch=1,EE,200C00D4,extended,AC61005C
+
+[Duck And Cover]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Duck And Cover
+// Duck And Cover
+patch=1,EE,200C00D8,extended,2401010E
+
+[Duck And Cover]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Duck And Cover
+// Duck And Cover
+patch=1,EE,200C00DC,extended,AC610064
+
+[Beaver Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Beaver Damage
+// Beaver Damage
+patch=1,EE,200C00E0,extended,24010253
+
+[Beaver Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Beaver Damage
+// Beaver Damage
+patch=1,EE,200C00E4,extended,AC61006C
+
+[Rocky River]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rocky River
+// Rocky River
+patch=1,EE,200C00E8,extended,2401015E
+
+[Rocky River]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rocky River
+// Rocky River
+patch=1,EE,200C00EC,extended,AC610074
+
+[Shaw's Shack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shaw's Shack
+// Shaw's Shack
+patch=1,EE,200C00F0,extended,240100D2
+
+[Shaw's Shack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shaw's Shack
+// Shaw's Shack
+patch=1,EE,200C00F4,extended,AC61007C
+
+[Start The Battle!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start The Battle!
+// Start The Battle!
+patch=1,EE,200C00F8,extended,24010267
+
+[Start The Battle!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start The Battle!
+// Start The Battle!
+patch=1,EE,200C00FC,extended,AC61008C
+
+[Protect The Clan's Gree!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Protect The Clan's Gree!
+// Protect The Clan's Gree!
+patch=1,EE,200C0100,extended,240102BC
+
+[Protect The Clan's Gree!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Protect The Clan's Gree!
+// Protect The Clan's Gree!
+patch=1,EE,200C0104,extended,AC610094
+
+[Tanks A Lot!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tanks A Lot!
+// Tanks A Lot!
+patch=1,EE,200C0108,extended,24010235
+
+[Tanks A Lot!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tanks A Lot!
+// Tanks A Lot!
+patch=1,EE,200C010C,extended,AC61009C
+
+[Clear The Ducks!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Clear The Ducks!
+// Clear The Ducks!
+patch=1,EE,200C0110,extended,24010262
+
+[Clear The Ducks!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Clear The Ducks!
+// Clear The Ducks!
+patch=1,EE,200C0114,extended,AC6100A4
+
+[The Trouble With Trappers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Trouble With Trappers
+// The Trouble With Trappers
+patch=1,EE,200C0118,extended,24010230
+
+[The Trouble With Trappers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Trouble With Trappers
+// The Trouble With Trappers
+patch=1,EE,200C011C,extended,AC6100AC
+
+[Toothy Torpedoes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Toothy Torpedoes
+// Toothy Torpedoes
+patch=1,EE,200C0120,extended,240101F4
+
+[Toothy Torpedoes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Toothy Torpedoes
+// Toothy Torpedoes
+patch=1,EE,200C0124,extended,AC6100B4
+
+[Chainsaw Cha Cha]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chainsaw Cha Cha
+// Chainsaw Cha Cha
+patch=1,EE,200C0128,extended,2401027B
+
+[Chainsaw Cha Cha]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chainsaw Cha Cha
+// Chainsaw Cha Cha
+patch=1,EE,200C012C,extended,AC6100BC
+
+[Reilly's Rampage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reilly's Rampage
+// Reilly's Rampage
+patch=1,EE,200C0130,extended,24010262
+
+[Reilly's Rampage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reilly's Rampage
+// Reilly's Rampage
+patch=1,EE,200C0134,extended,AC6100C4
+
+[Shaw Showdown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shaw Showdown
+// Shaw Showdown
+patch=1,EE,200C0138,extended,240103E8
+
+[Shaw Showdown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shaw Showdown
+// Shaw Showdown
+patch=1,EE,200C013C,extended,AC6100CC
+
+[Scare Bear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scare Bear
+// Scare Bear
+patch=1,EE,200C0140,extended,2401007D
+
+[Scare Bear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scare Bear
+// Scare Bear
+patch=1,EE,200C0144,extended,AC6100DC

@@ -1,0 +1,391 @@
+gametitle=Alter Echo [SLUS-20465] [7CDC2C16]
+
+[Slot 236]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 236
+// Slot 236
+patch=1,EE,90157DC4,extended,0C0B1867
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,20211C90,extended,24030001
+
+[Infinite Special Attacks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Special Attacks
+// Infinite Special Attacks
+patch=1,EE,20210690,extended,00000000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0220,extended,0806192A
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0224,extended,E44100B8
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2011BCC0,extended,0C030088
+
+[Quick Plasm Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Plasm Gain
+// Quick Plasm Gain
+patch=1,EE,1034E39C,extended,0000FFFF
+
+[Max Plasm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Plasm
+// Max Plasm
+patch=1,EE,2034E39C,extended,05F5E0FF
+
+[Max Plasm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Plasm
+// Max Plasm
+patch=1,EE,2034E3A0,extended,4CBEBC1F
+
+[Max Plasm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Plasm
+// Max Plasm
+patch=1,EE,203C51EC,extended,05F5E0FF
+
+[Buying New Abilities Cost $0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying New Abilities Cost $0
+// Buying New Abilities Cost $0
+patch=1,EE,2029D270,extended,00000000
+
+[Buy New Abilities With No Plasma]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buy New Abilities With No Plasma
+// Buy New Abilities With No Plasma
+patch=1,EE,1029D41E,extended,00001000
+
+[Have All Abilities]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Abilities
+// Have All Abilities
+patch=1,EE,408485D4,extended,00310001
+
+[Have All Abilities]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Abilities
+// Have All Abilities
+patch=1,EE,00000002,extended,00000000
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,202B47D0,extended,24020001
+
+[Rebirth-Echo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rebirth-Echo
+// Rebirth-Echo
+patch=1,EE,203C51F4,extended,00000001
+
+[Rebirth-Gunplay]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rebirth-Gunplay
+// Rebirth-Gunplay
+patch=1,EE,203C51F4,extended,00000002
+
+[Rebirth-Stealth]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rebirth-Stealth
+// Rebirth-Stealth
+patch=1,EE,203C51F4,extended,00000003
+
+[Rebirth-Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rebirth-Time
+// Rebirth-Time
+patch=1,EE,203C51F4,extended,00000004
+
+[Rebirth-Master]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rebirth-Master
+// Rebirth-Master
+patch=1,EE,203C51F4,extended,00000005
+
+[Surface-Search]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Surface-Search
+// Surface-Search
+patch=1,EE,203C51F4,extended,00000006
+
+[Surface-Arana]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Surface-Arana
+// Surface-Arana
+patch=1,EE,203C51F4,extended,00000007
+
+[Surface-Master]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Surface-Master
+// Surface-Master
+patch=1,EE,203C51F4,extended,00000008
+
+[Hunted-Reunion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunted-Reunion
+// Hunted-Reunion
+patch=1,EE,203C51F4,extended,00000009
+
+[Hunted-Gunship]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunted-Gunship
+// Hunted-Gunship
+patch=1,EE,203C51F4,extended,0000000A
+
+[Hunted-Pursuit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunted-Pursuit
+// Hunted-Pursuit
+patch=1,EE,203C51F4,extended,0000000B
+
+[Hunted-Showdown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunted-Showdown
+// Hunted-Showdown
+patch=1,EE,203C51F4,extended,0000000C
+
+[Hunted-Master]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunted-Master
+// Hunted-Master
+patch=1,EE,203C51F4,extended,0000000D
+
+[Power-Transmit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power-Transmit
+// Power-Transmit
+patch=1,EE,203C51F4,extended,0000000E
+
+[Power-Kess]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power-Kess
+// Power-Kess
+patch=1,EE,203C51F4,extended,0000000F
+
+[Power-Master]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power-Master
+// Power-Master
+patch=1,EE,203C51F4,extended,00000010
+
+[Transit-Stome]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Transit-Stome
+// Transit-Stome
+patch=1,EE,203C51F4,extended,00000011
+
+[Transit-Ambush]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Transit-Ambush
+// Transit-Ambush
+patch=1,EE,203C51F4,extended,00000012
+
+[Transit-Seedlings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Transit-Seedlings
+// Transit-Seedlings
+patch=1,EE,203C51F4,extended,00000013
+
+[Transit-Obstacles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Transit-Obstacles
+// Transit-Obstacles
+patch=1,EE,203C51F4,extended,00000014
+
+[Transit-Cooperation]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Transit-Cooperation
+// Transit-Cooperation
+patch=1,EE,203C51F4,extended,00000015
+
+[Transit-Master]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Transit-Master
+// Transit-Master
+patch=1,EE,203C51F4,extended,00000016
+
+[Spaceport-Plans 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spaceport-Plans 1
+// Spaceport-Plans 1
+patch=1,EE,203C51F4,extended,00000017
+
+[Spaceport-Plans 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spaceport-Plans 2
+// Spaceport-Plans 2
+patch=1,EE,203C51F4,extended,00000018
+
+[Spaceport-Shuttle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spaceport-Shuttle
+// Spaceport-Shuttle
+patch=1,EE,203C51F4,extended,00000019
+
+[Brain-Plea]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Brain-Plea
+// Brain-Plea
+patch=1,EE,203C51F4,extended,0000001A
+
+[Brain-Underneath]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Brain-Underneath
+// Brain-Underneath
+patch=1,EE,203C51F4,extended,0000001B
+
+[Brain-Gherran]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Brain-Gherran
+// Brain-Gherran
+patch=1,EE,203C51F4,extended,0000001C
+
+[Brain-Toxic 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Brain-Toxic 1
+// Brain-Toxic 1
+patch=1,EE,203C51F4,extended,0000001D
+
+[Brain-Toxic 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Brain-Toxic 2
+// Brain-Toxic 2
+patch=1,EE,203C51F4,extended,0000001E
+
+[Brain-Kess]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Brain-Kess
+// Brain-Kess
+patch=1,EE,203C51F4,extended,0000001F
+
+[Brain-Master]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Brain-Master
+// Brain-Master
+patch=1,EE,203C51F4,extended,00000020
+
+[Rescue-Arana]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rescue-Arana
+// Rescue-Arana
+patch=1,EE,203C51F4,extended,00000021
+
+[Rescue-Forcefield]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rescue-Forcefield
+// Rescue-Forcefield
+patch=1,EE,203C51F4,extended,00000022
+
+[Rescue-Sacrifice]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rescue-Sacrifice
+// Rescue-Sacrifice
+patch=1,EE,203C51F4,extended,00000023
+
+[Breach-Landing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Breach-Landing
+// Breach-Landing
+patch=1,EE,203C51F4,extended,00000024
+
+[Breach-Barriers 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Breach-Barriers 1
+// Breach-Barriers 1
+patch=1,EE,203C51F4,extended,00000025
+
+[Breach-Barriers 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Breach-Barriers 2
+// Breach-Barriers 2
+patch=1,EE,203C51F4,extended,00000026
+
+[Breach-Approach]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Breach-Approach
+// Breach-Approach
+patch=1,EE,203C51F4,extended,00000027
+
+[Breach-Elevator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Breach-Elevator
+// Breach-Elevator
+patch=1,EE,203C51F4,extended,00000028
+
+[Breach-Shield 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Breach-Shield 1
+// Breach-Shield 1
+patch=1,EE,203C51F4,extended,00000029
+
+[Breach-Shield 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Breach-Shield 2
+// Breach-Shield 2
+patch=1,EE,203C51F4,extended,0000002A
+
+[Breach-Master]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Breach-Master
+// Breach-Master
+patch=1,EE,203C51F4,extended,0000002B
+
+[Citadel-Alone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Citadel-Alone
+// Citadel-Alone
+patch=1,EE,203C51F4,extended,0000002C
+
+[Citadel-Ascent]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Citadel-Ascent
+// Citadel-Ascent
+patch=1,EE,203C51F4,extended,0000002D
+
+[Citadel-Assault]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Citadel-Assault
+// Citadel-Assault
+patch=1,EE,203C51F4,extended,0000002E
+
+[Citadel-Inside]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Citadel-Inside
+// Citadel-Inside
+patch=1,EE,203C51F4,extended,0000002F
+
+[Citadel-Guardian]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Citadel-Guardian
+// Citadel-Guardian
+patch=1,EE,203C51F4,extended,00000030
+
+[Citadel-Paavo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Citadel-Paavo
+// Citadel-Paavo
+patch=1,EE,203C51F4,extended,00000031
+
+[Citadel-Ending]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Citadel-Ending
+// Citadel-Ending
+patch=1,EE,203C51F4,extended,00000032

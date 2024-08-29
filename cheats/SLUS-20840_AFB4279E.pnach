@@ -1,0 +1,337 @@
+gametitle=Wrath Unleashed [SLUS-20840] [AFB4279E]
+
+[Trojan Donkey]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trojan Donkey
+// Trojan Donkey
+patch=1,EE,90120E24,extended,0C04993A
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,2072600C,extended,24010001
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,20726010,extended,A041000D
+
+[View War Data For Max Realm Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View War Data For Max Realm Wins
+// View War Data For Max Realm Wins
+patch=1,EE,2072732C,extended,2411270F
+
+[View War Data For Max Realm Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View War Data For Max Realm Wins
+// View War Data For Max Realm Wins
+patch=1,EE,20727330,extended,AE110008
+
+[View War Data For No Realm Losses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View War Data For No Realm Losses
+// View War Data For No Realm Losses
+patch=1,EE,2072738C,extended,AE000018
+
+[View Arena Data Records For Max Creature Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Arena Data Records For Max Creature Wins
+// View Arena Data Records For Max Creature Wins
+patch=1,EE,2072714C,extended,241003E7
+
+[View Arena Data Records For Max Creature Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Arena Data Records For Max Creature Wins
+// View Arena Data Records For Max Creature Wins
+patch=1,EE,20727150,extended,AE30005C
+
+[View Arena Data Records For No Creature Losses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Arena Data Records For No Creature Losses
+// View Arena Data Records For No Creature Losses
+patch=1,EE,2072718C,extended,AE2000FC
+
+[View Medals Twice To Have All Campaign Awards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Medals Twice To Have All Campaign Awards
+// View Medals Twice To Have All Campaign Awards
+patch=1,EE,207260D8,extended,24010001
+
+[View Medals Twice To Have All Campaign Awards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Medals Twice To Have All Campaign Awards
+// View Medals Twice To Have All Campaign Awards
+patch=1,EE,207260E0,extended,A0410044
+
+[View Medals To Have Tactician Award]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Medals To Have Tactician Award
+// View Medals To Have Tactician Award
+patch=1,EE,20726748,extended,24010014
+
+[View Medals To Have Tactician Award]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Medals To Have Tactician Award
+// View Medals To Have Tactician Award
+patch=1,EE,2072674C,extended,AC4101A4
+
+[View Medals To Have Tactician Award]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Medals To Have Tactician Award
+// View Medals To Have Tactician Award
+patch=1,EE,20726750,extended,24020001
+
+[P1 Press {L1}+Up For Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Infinite Health
+// P1 Press {L1}+Up For Infinite Health
+patch=1,EE,200C0200,extended,8C810038
+
+[P1 Press {L1}+Up For Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Infinite Health
+// P1 Press {L1}+Up For Infinite Health
+patch=1,EE,200C0204,extended,14200002
+
+[P1 Press {L1}+Up For Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Infinite Health
+// P1 Press {L1}+Up For Infinite Health
+patch=1,EE,200C0208,extended,8C810144
+
+[P1 Press {L1}+Up For Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Infinite Health
+// P1 Press {L1}+Up For Infinite Health
+patch=1,EE,200C020C,extended,AC810140
+
+[P1 Press {L1}+Up For Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Infinite Health
+// P1 Press {L1}+Up For Infinite Health
+patch=1,EE,200C0210,extended,03E00008
+
+[P1 Press {L1}+Up For Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Infinite Health
+// P1 Press {L1}+Up For Infinite Health
+patch=1,EE,200C0214,extended,C4800140
+
+[P1 Press {L1}+Up For Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Infinite Health
+// P1 Press {L1}+Up For Infinite Health
+patch=1,EE,D07878C2,extended,0000FBEF
+
+[P1 Press {L1}+Up For Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Infinite Health
+// P1 Press {L1}+Up For Infinite Health
+patch=1,EE,2035F390,extended,08030080
+
+[P1 Press {L1}+Up For Infinite Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Infinite Energy
+// P1 Press {L1}+Up For Infinite Energy
+patch=1,EE,200C0250,extended,8C810038
+
+[P1 Press {L1}+Up For Infinite Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Infinite Energy
+// P1 Press {L1}+Up For Infinite Energy
+patch=1,EE,200C0254,extended,50200001
+
+[P1 Press {L1}+Up For Infinite Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Infinite Energy
+// P1 Press {L1}+Up For Infinite Energy
+patch=1,EE,200C0258,extended,C48011BC
+
+[P1 Press {L1}+Up For Infinite Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Infinite Energy
+// P1 Press {L1}+Up For Infinite Energy
+patch=1,EE,200C025C,extended,03E00008
+
+[P1 Press {L1}+Up For Infinite Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Infinite Energy
+// P1 Press {L1}+Up For Infinite Energy
+patch=1,EE,200C0260,extended,E48011B8
+
+[P1 Press {L1}+Up For Infinite Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Infinite Energy
+// P1 Press {L1}+Up For Infinite Energy
+patch=1,EE,D07878C2,extended,0000FEEF
+
+[P1 Press {L1}+Up For Infinite Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Infinite Energy
+// P1 Press {L1}+Up For Infinite Energy
+patch=1,EE,2035F184,extended,0C030094
+
+[P1 Press {L1}+Right For Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right For Infinite Health
+// P1 Press {L1}+Right For Infinite Health
+patch=1,EE,200C0220,extended,8C810038
+
+[P1 Press {L1}+Right For Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right For Infinite Health
+// P1 Press {L1}+Right For Infinite Health
+patch=1,EE,200C0224,extended,10200002
+
+[P1 Press {L1}+Right For Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right For Infinite Health
+// P1 Press {L1}+Right For Infinite Health
+patch=1,EE,200C0228,extended,8C810144
+
+[P1 Press {L1}+Right For Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right For Infinite Health
+// P1 Press {L1}+Right For Infinite Health
+patch=1,EE,200C022C,extended,AC810140
+
+[P1 Press {L1}+Right For Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right For Infinite Health
+// P1 Press {L1}+Right For Infinite Health
+patch=1,EE,200C0230,extended,03E00008
+
+[P1 Press {L1}+Right For Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right For Infinite Health
+// P1 Press {L1}+Right For Infinite Health
+patch=1,EE,200C0234,extended,C4800140
+
+[P1 Press {L1}+Right For Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right For Infinite Health
+// P1 Press {L1}+Right For Infinite Health
+patch=1,EE,D07878C2,extended,0000FBDF
+
+[P1 Press {L1}+Right For Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right For Infinite Health
+// P1 Press {L1}+Right For Infinite Health
+patch=1,EE,2035F390,extended,08030088
+
+[P1 Press {L1}+Right For Infinite Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right For Infinite Energy
+// P1 Press {L1}+Right For Infinite Energy
+patch=1,EE,200C0270,extended,8C810038
+
+[P1 Press {L1}+Right For Infinite Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right For Infinite Energy
+// P1 Press {L1}+Right For Infinite Energy
+patch=1,EE,200C0274,extended,54200001
+
+[P1 Press {L1}+Right For Infinite Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right For Infinite Energy
+// P1 Press {L1}+Right For Infinite Energy
+patch=1,EE,200C0278,extended,C48011BC
+
+[P1 Press {L1}+Right For Infinite Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right For Infinite Energy
+// P1 Press {L1}+Right For Infinite Energy
+patch=1,EE,200C027C,extended,03E00008
+
+[P1 Press {L1}+Right For Infinite Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right For Infinite Energy
+// P1 Press {L1}+Right For Infinite Energy
+patch=1,EE,200C0280,extended,E48011B8
+
+[P1 Press {L1}+Right For Infinite Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right For Infinite Energy
+// P1 Press {L1}+Right For Infinite Energy
+patch=1,EE,D07878C2,extended,0000FEDF
+
+[P1 Press {L1}+Right For Infinite Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right For Infinite Energy
+// P1 Press {L1}+Right For Infinite Energy
+patch=1,EE,2035F184,extended,0C03009C
+
+[P1 Press {L1}+Down For Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down For Infinite Health
+// P1 Press {L1}+Down For Infinite Health
+patch=1,EE,200C0240,extended,8C810144
+
+[P1 Press {L1}+Down For Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down For Infinite Health
+// P1 Press {L1}+Down For Infinite Health
+patch=1,EE,200C0244,extended,AC810140
+
+[P1 Press {L1}+Down For Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down For Infinite Health
+// P1 Press {L1}+Down For Infinite Health
+patch=1,EE,200C0248,extended,03E00008
+
+[P1 Press {L1}+Down For Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down For Infinite Health
+// P1 Press {L1}+Down For Infinite Health
+patch=1,EE,200C024C,extended,C4800140
+
+[P1 Press {L1}+Down For Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down For Infinite Health
+// P1 Press {L1}+Down For Infinite Health
+patch=1,EE,D07878C2,extended,0000FBBF
+
+[P1 Press {L1}+Down For Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down For Infinite Health
+// P1 Press {L1}+Down For Infinite Health
+patch=1,EE,2035F390,extended,08030090
+
+[P1 Press {L2}+Down For Infinite Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Down For Infinite Energy
+// P1 Press {L2}+Down For Infinite Energy
+patch=1,EE,D07878C2,extended,0000FEBF
+
+[P1 Press {L2}+Down For Infinite Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Down For Infinite Energy
+// P1 Press {L2}+Down For Infinite Energy
+patch=1,EE,2035F184,extended,00000000
+
+[P1 Press {L1}+Left For Normal Health Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Left For Normal Health Levels
+// P1 Press {L1}+Left For Normal Health Levels
+patch=1,EE,D07878C2,extended,0000FB7F
+
+[P1 Press {L1}+Left For Normal Health Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Left For Normal Health Levels
+// P1 Press {L1}+Left For Normal Health Levels
+patch=1,EE,2035F390,extended,03E00008
+
+[P1 Press {L2}+Left For Normal Energy Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Left For Normal Energy Levels
+// P1 Press {L2}+Left For Normal Energy Levels
+patch=1,EE,D07878C2,extended,0000FE7F
+
+[P1 Press {L2}+Left For Normal Energy Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Left For Normal Energy Levels
+// P1 Press {L2}+Left For Normal Energy Levels
+patch=1,EE,2035F184,extended,E48011B8

@@ -1,0 +1,6487 @@
+gametitle=Second Sight [SLES-52670] [65087F31]
+
+[Enemies Can't Do Anything!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enemies Can't Do Anything!
+// Enemies Can't Do Anything!
+patch=1,EE,902838C4,extended,0C0A6D47
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0220,extended,C4410214
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0224,extended,E4410210
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0228,extended,03E00008
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C022C,extended,46010034
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20283908,extended,0C030088
+
+[Infinite PSI Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite PSI Power
+// Infinite PSI Power
+patch=1,EE,203B1778,extended,C4410EFC
+
+[Infinite PSI Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite PSI Power
+// Infinite PSI Power
+patch=1,EE,203B1780,extended,E4410EF4
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,20278280,extended,00000000
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,2027827C,extended,00671821
+
+[Max Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo
+// Max Infinite Ammo
+patch=1,EE,2027827C,extended,240303E7
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,202771D4,extended,00000000
+
+[Unlock All Cutscenes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cutscenes
+// Unlock All Cutscenes
+patch=1,EE,20464DA4,extended,FFFFFFFF
+
+[Unlock All Cutscenes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cutscenes
+// Unlock All Cutscenes
+patch=1,EE,20464DA8,extended,FFFFFFFF
+
+[Unlock All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Levels
+// Unlock All Levels
+patch=1,EE,20464DAC,extended,FFFFFFFF
+
+[Use only after training!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Use only after training!
+// Use only after training!
+patch=1,EE,03309A3E,extended,C0800000
+
+[Use only after training!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Use only after training!
+// Use only after training!
+patch=1,EE,042771C8,extended,00000000
+
+[Telekinesis]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Telekinesis
+// Telekinesis
+patch=1,EE,03309A3E,extended,E04347DB
+
+[Telekinesis]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Telekinesis
+// Telekinesis
+patch=1,EE,042CD514,extended,E6210020
+
+[Healing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Healing
+// Healing
+patch=1,EE,03309A3E,extended,F04347DB
+
+[Healing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Healing
+// Healing
+patch=1,EE,042CB348,extended,E6210020
+
+[Charm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Charm
+// Charm
+patch=1,EE,03309A3F,extended,004347DB
+
+[Charm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Charm
+// Charm
+patch=1,EE,042CAED0,extended,E6010020
+
+[Projection]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Projection
+// Projection
+patch=1,EE,03309A3F,extended,104347DB
+
+[Projection]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Projection
+// Projection
+patch=1,EE,042CBD8C,extended,E6210020
+
+[Psi Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Psi Attack
+// Psi Attack
+patch=1,EE,03309A3F,extended,204347DB
+
+[Psi Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Psi Attack
+// Psi Attack
+patch=1,EE,042D0BB8,extended,E6010020
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20463A54,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20463A58,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20463A5C,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20463A5C,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,20463A60,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,20463A60,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20463A68,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20463A68,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20463A78,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20463A78,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,20463A80,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,20463A80,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20463A88,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20463A88,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20463A94,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20463A94,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,20463A9C,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,20463A9C,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,20463AA0,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,20463AA0,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20463AA4,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20463AA4,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20463AA8,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,20463AB0,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,20463AB0,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,20463AD0,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,20463AD0,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20463ADC,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20463ADC,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,20463AE0,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,20463AE0,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20464400,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20464404,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20464408,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20464408,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,2046440C,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,2046440C,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20464414,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20464414,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20464424,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20464424,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,2046442C,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,2046442C,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20464434,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20464434,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20464440,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20464440,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,20464448,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,20464448,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,2046444C,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,2046444C,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464450,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464450,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20464454,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,2046445C,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,2046445C,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,2046447C,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,2046447C,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20464488,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20464488,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,2046448C,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,2046448C,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20463AE4,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20463AE8,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20463AEC,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20463AEC,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,20463AF0,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,20463AF0,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20463AF8,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20463AF8,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20463B08,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20463B08,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,20463B10,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,20463B10,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20463B18,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20463B18,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20463B24,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20463B24,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,20463B2C,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,20463B2C,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,20463B30,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,20463B30,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20463B34,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20463B34,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20463B38,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,20463B40,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,20463B40,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,20463B60,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,20463B60,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20463B6C,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20463B6C,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,20463B70,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,20463B70,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20464490,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20464494,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20464498,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20464498,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,2046449C,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,2046449C,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,204644A4,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,204644A4,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,204644B4,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,204644B4,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,204644BC,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,204644BC,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,204644C4,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,204644C4,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,204644D0,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,204644D0,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,204644D8,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,204644D8,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,204644DC,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,204644DC,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,204644E0,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,204644E0,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,204644E4,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,204644EC,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,204644EC,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,2046450C,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,2046450C,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20464518,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20464518,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,2046451C,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,2046451C,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20463B74,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20463B78,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20463B7C,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20463B7C,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,20463B80,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,20463B80,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20463B88,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20463B88,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20463B98,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20463B98,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,20463BA0,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,20463BA0,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20463BA8,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20463BA8,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20463BB4,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20463BB4,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,20463BBC,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,20463BBC,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,20463BC0,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,20463BC0,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20463BC4,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20463BC4,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20463BC8,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,20463BD0,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,20463BD0,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,20463BF0,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,20463BF0,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20463BFC,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20463BFC,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,20463C00,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,20463C00,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20464520,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20464524,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20464528,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20464528,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,2046452C,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,2046452C,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20464534,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20464534,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20464544,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20464544,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,2046454C,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,2046454C,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20464554,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20464554,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20464560,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20464560,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,20464568,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,20464568,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,2046456C,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,2046456C,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464570,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464570,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20464574,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,2046457C,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,2046457C,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,2046459C,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,2046459C,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,204645A8,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,204645A8,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,204645AC,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,204645AC,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20463C04,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20463C08,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20463C0C,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20463C0C,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,20463C10,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,20463C10,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20463C18,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20463C18,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20463C28,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20463C28,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,20463C30,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,20463C30,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20463C38,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20463C38,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20463C44,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20463C44,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,20463C4C,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,20463C4C,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,20463C50,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,20463C50,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20463C54,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20463C54,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20463C58,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,20463C60,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,20463C60,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,20463C80,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,20463C80,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20463C8C,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20463C8C,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,20463C90,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,20463C90,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,204645B0,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,204645B4,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,204645B8,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,204645B8,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,204645BC,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,204645BC,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,204645C4,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,204645C4,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,204645D4,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,204645D4,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,204645DC,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,204645DC,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,204645E4,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,204645E4,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,204645F0,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,204645F0,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,204645F8,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,204645F8,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,204645FC,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,204645FC,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464600,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464600,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20464604,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,2046460C,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,2046460C,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,2046462C,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,2046462C,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20464638,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20464638,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,2046463C,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,2046463C,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20463C94,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20463C98,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20463C9C,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20463C9C,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,20463CA0,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,20463CA0,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20463CA8,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20463CA8,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20463CB8,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20463CB8,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,20463CC0,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,20463CC0,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20463CC8,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20463CC8,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20463CD4,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20463CD4,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,20463CDC,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,20463CDC,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,20463CE0,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,20463CE0,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20463CE4,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20463CE4,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20463CE8,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,20463CF0,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,20463CF0,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,20463D10,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,20463D10,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20463D1C,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20463D1C,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,20463D20,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,20463D20,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20464640,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20464644,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20464648,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20464648,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,2046464C,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,2046464C,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20464654,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20464654,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20464664,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20464664,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,2046466C,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,2046466C,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20464674,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20464674,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20464680,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20464680,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,20464688,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,20464688,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,2046468C,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,2046468C,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464690,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464690,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20464694,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,2046469C,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,2046469C,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,204646BC,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,204646BC,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,204646C8,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,204646C8,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,204646CC,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,204646CC,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20463D24,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20463D28,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20463D2C,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20463D2C,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,20463D30,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,20463D30,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20463D38,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20463D38,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20463D48,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20463D48,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,20463D50,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,20463D50,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20463D58,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20463D58,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20463D64,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20463D64,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,20463D6C,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,20463D6C,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,20463D70,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,20463D70,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20463D74,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20463D74,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20463D78,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,20463D80,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,20463D80,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,20463DA0,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,20463DA0,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20463DAC,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20463DAC,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,20463DB0,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,20463DB0,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,204646D0,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,204646D4,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,204646D8,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,204646D8,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,204646DC,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,204646DC,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,204646E4,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,204646E4,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,204646F4,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,204646F4,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,204646FC,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,204646FC,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20464704,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20464704,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20464710,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20464710,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,20464718,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,20464718,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,2046471C,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,2046471C,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464720,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464720,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20464724,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,2046472C,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,2046472C,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,2046474C,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,2046474C,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20464758,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20464758,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,2046475C,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,2046475C,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20463DB4,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20463DB8,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20463DBC,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20463DBC,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,20463DC0,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,20463DC0,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20463DC8,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20463DC8,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20463DD8,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20463DD8,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,20463DE0,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,20463DE0,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20463DE8,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20463DE8,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20463DF4,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20463DF4,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,20463DFC,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,20463DFC,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,20463E00,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,20463E00,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20463E04,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20463E04,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20463E08,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,20463E10,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,20463E10,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,20463E30,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,20463E30,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20463E3C,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20463E3C,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,20463E40,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,20463E40,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20464760,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20464764,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20464768,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20464768,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,2046476C,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,2046476C,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20464774,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20464774,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20464784,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20464784,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,2046478C,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,2046478C,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20464794,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20464794,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,204647A0,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,204647A0,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,204647A8,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,204647A8,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,204647AC,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,204647AC,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,204647B0,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,204647B0,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,204647B4,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,204647BC,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,204647BC,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,204647DC,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,204647DC,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,204647E8,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,204647E8,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,204647EC,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,204647EC,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20463E44,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20463E48,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20463E4C,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20463E4C,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,20463E50,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,20463E50,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20463E58,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20463E58,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20463E68,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20463E68,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,20463E70,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,20463E70,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20463E78,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20463E78,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20463E84,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20463E84,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,20463E8C,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,20463E8C,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,20463E90,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,20463E90,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20463E94,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20463E94,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20463E98,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,20463EA0,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,20463EA0,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,20463EC0,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,20463EC0,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20463ECC,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20463ECC,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,20463ED0,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,20463ED0,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,204647F0,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,204647F4,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,204647F8,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,204647F8,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,204647FC,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,204647FC,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20464804,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20464804,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20464814,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20464814,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,2046481C,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,2046481C,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20464824,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20464824,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20464830,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20464830,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,20464838,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,20464838,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,2046483C,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,2046483C,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464840,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464840,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20464844,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,2046484C,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,2046484C,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,2046486C,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,2046486C,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20464878,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20464878,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,2046487C,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,2046487C,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20463ED4,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20463ED8,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20463EDC,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20463EDC,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,20463EE0,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,20463EE0,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20463EE8,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20463EE8,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20463EF8,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20463EF8,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,20463F00,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,20463F00,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20463F08,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20463F08,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20463F14,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20463F14,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,20463F1C,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,20463F1C,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,20463F20,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,20463F20,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20463F24,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20463F24,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20463F28,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,20463F30,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,20463F30,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,20463F50,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,20463F50,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20463F5C,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20463F5C,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,20463F60,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,20463F60,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20464880,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20464884,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20464888,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20464888,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,2046488C,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,2046488C,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20464894,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20464894,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,204648A4,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,204648A4,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,204648AC,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,204648AC,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,204648B4,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,204648B4,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,204648C0,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,204648C0,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,204648C8,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,204648C8,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,204648CC,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,204648CC,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,204648D0,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,204648D0,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,204648D4,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,204648DC,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,204648DC,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,204648FC,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,204648FC,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20464908,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20464908,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,2046490C,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,2046490C,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20463F64,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20463F68,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20463F6C,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20463F6C,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,20463F70,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,20463F70,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20463F78,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20463F78,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20463F88,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20463F88,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,20463F90,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,20463F90,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20463F98,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20463F98,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20463FA4,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20463FA4,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,20463FAC,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,20463FAC,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,20463FB0,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,20463FB0,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20463FB4,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20463FB4,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20463FB8,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,20463FC0,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,20463FC0,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,20463FE0,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,20463FE0,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20463FEC,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20463FEC,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,20463FF0,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,20463FF0,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20464910,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20464914,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20464918,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20464918,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,2046491C,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,2046491C,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20464924,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20464924,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20464934,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20464934,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,2046493C,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,2046493C,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20464944,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20464944,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20464950,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20464950,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,20464958,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,20464958,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,2046495C,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,2046495C,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464960,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464960,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20464964,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,2046496C,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,2046496C,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,2046498C,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,2046498C,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20464998,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20464998,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,2046499C,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,2046499C,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20463FF4,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20463FF8,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20463FFC,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20463FFC,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,20464000,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,20464000,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20464008,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20464008,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20464018,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20464018,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,20464020,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,20464020,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20464028,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20464028,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20464034,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20464034,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,2046403C,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,2046403C,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,20464040,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,20464040,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464044,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464044,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20464048,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,20464050,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,20464050,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,20464070,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,20464070,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,2046407C,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,2046407C,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,20464080,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,20464080,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,204649A0,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,204649A4,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,204649A8,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,204649A8,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,204649AC,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,204649AC,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,204649B4,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,204649B4,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,204649C4,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,204649C4,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,204649CC,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,204649CC,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,204649D4,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,204649D4,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,204649E0,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,204649E0,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,204649E8,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,204649E8,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,204649EC,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,204649EC,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,204649F0,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,204649F0,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,204649F4,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,204649FC,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,204649FC,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,20464A1C,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,20464A1C,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20464A28,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20464A28,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,20464A2C,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,20464A2C,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20464084,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20464088,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,2046408C,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,2046408C,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,20464090,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,20464090,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20464098,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20464098,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,204640A8,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,204640A8,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,204640B0,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,204640B0,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,204640B8,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,204640B8,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,204640C4,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,204640C4,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,204640CC,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,204640CC,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,204640D0,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,204640D0,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,204640D4,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,204640D4,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,204640D8,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,204640E0,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,204640E0,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,20464100,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,20464100,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,2046410C,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,2046410C,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,20464110,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,20464110,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20464A30,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20464A34,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20464A38,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20464A38,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,20464A3C,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,20464A3C,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20464A44,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20464A44,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20464A54,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20464A54,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,20464A5C,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,20464A5C,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20464A64,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20464A64,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20464A70,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20464A70,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,20464A78,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,20464A78,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,20464A7C,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,20464A7C,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464A80,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464A80,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20464A84,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,20464A8C,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,20464A8C,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,20464AAC,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,20464AAC,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20464AB8,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20464AB8,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,20464ABC,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,20464ABC,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20464114,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20464118,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,2046411C,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,2046411C,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,20464120,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,20464120,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20464128,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20464128,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20464138,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20464138,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,20464140,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,20464140,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20464148,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20464148,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20464154,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20464154,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,2046415C,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,2046415C,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,20464160,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,20464160,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464164,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464164,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20464168,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,20464170,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,20464170,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,20464190,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,20464190,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,2046419C,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,2046419C,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,204641A0,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,204641A0,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20464AC0,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20464AC4,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20464AC8,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20464AC8,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,20464ACC,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,20464ACC,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20464AD4,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20464AD4,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20464AE4,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20464AE4,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,20464AEC,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,20464AEC,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20464AF4,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20464AF4,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20464B00,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20464B00,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,20464B08,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,20464B08,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,20464B0C,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,20464B0C,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464B10,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464B10,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20464B14,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,20464B1C,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,20464B1C,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,20464B3C,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,20464B3C,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20464B48,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20464B48,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,20464B4C,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,20464B4C,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,204641A4,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,204641A8,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,204641AC,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,204641AC,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,204641B0,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,204641B0,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,204641B8,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,204641B8,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,204641C8,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,204641C8,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,204641D0,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,204641D0,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,204641D8,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,204641D8,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,204641E4,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,204641E4,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,204641EC,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,204641EC,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,204641F0,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,204641F0,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,204641F4,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,204641F4,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,204641F8,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,20464200,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,20464200,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,20464220,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,20464220,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,2046422C,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,2046422C,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,20464230,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,20464230,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20464B50,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20464B54,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20464B58,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20464B58,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,20464B5C,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,20464B5C,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20464B64,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20464B64,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20464B74,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20464B74,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,20464B7C,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,20464B7C,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20464B84,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20464B84,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20464B90,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20464B90,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,20464B98,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,20464B98,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,20464B9C,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,20464B9C,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464BA0,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464BA0,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20464BA4,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,20464BAC,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,20464BAC,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,20464BCC,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,20464BCC,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20464BD8,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20464BD8,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,20464BDC,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,20464BDC,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20464234,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20464238,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,2046423C,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,2046423C,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,20464240,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,20464240,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20464248,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20464248,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20464258,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20464258,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,20464260,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,20464260,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20464268,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20464268,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20464274,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20464274,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,2046427C,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,2046427C,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,20464280,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,20464280,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464284,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464284,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20464288,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,20464290,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,20464290,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,204642B0,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,204642B0,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,204642BC,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,204642BC,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,204642C0,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,204642C0,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20464BE0,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20464BE4,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20464BE8,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20464BE8,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,20464BEC,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,20464BEC,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20464BF4,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20464BF4,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20464C04,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20464C04,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,20464C0C,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,20464C0C,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20464C14,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20464C14,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20464C20,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20464C20,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,20464C28,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,20464C28,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,20464C2C,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,20464C2C,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464C30,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464C30,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20464C34,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,20464C3C,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,20464C3C,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,20464C5C,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,20464C5C,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20464C68,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20464C68,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,20464C6C,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,20464C6C,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,204642C4,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,204642C8,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,204642CC,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,204642CC,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,204642D0,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,204642D0,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,204642D8,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,204642D8,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,204642E8,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,204642E8,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,204642F0,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,204642F0,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,204642F8,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,204642F8,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20464304,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20464304,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,2046430C,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,2046430C,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,20464310,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,20464310,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464314,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464314,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20464318,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,20464320,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,20464320,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,20464340,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,20464340,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,2046434C,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,2046434C,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,20464350,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,20464350,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20464C70,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20464C74,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20464C78,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20464C78,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,20464C7C,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,20464C7C,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20464C84,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20464C84,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20464C94,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20464C94,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,20464C9C,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,20464C9C,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20464CA4,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20464CA4,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20464CB0,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20464CB0,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,20464CB8,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,20464CB8,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,20464CBC,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,20464CBC,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464CC0,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464CC0,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20464CC4,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,20464CCC,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,20464CCC,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,20464CEC,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,20464CEC,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20464CF8,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20464CF8,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,20464CFC,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,20464CFC,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20464354,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20464358,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,2046435C,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,2046435C,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,20464360,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,20464360,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20464368,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20464368,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20464378,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20464378,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,20464380,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,20464380,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20464388,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20464388,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20464394,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20464394,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,2046439C,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,2046439C,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,204643A0,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,204643A0,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,204643A4,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,204643A4,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,204643A8,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,204643B0,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,204643B0,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,204643D0,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,204643D0,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,204643DC,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,204643DC,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,204643E0,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,204643E0,extended,00000000
+
+[Only 1 Attempts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Attempts
+// Only 1 Attempts
+patch=1,EE,20464D00,extended,3F800000
+
+[Only 1 Successes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Successes
+// Only 1 Successes
+patch=1,EE,20464D04,extended,3F800000
+
+[Max Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stealth Rating
+// Max Stealth Rating
+patch=1,EE,20464D08,extended,42C80000
+
+[No Stealth Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Stealth Rating
+// No Stealth Rating
+patch=1,EE,20464D08,extended,00000000
+
+[Max Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Morality Rating
+// Max Morality Rating
+patch=1,EE,20464D0C,extended,42C80000
+
+[No Morality Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Morality Rating
+// No Morality Rating
+patch=1,EE,20464D0C,extended,00000000
+
+[Max Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fastest Time
+// Max Fastest Time
+patch=1,EE,20464D14,extended,461C3BFF
+
+[Low Fastest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Fastest Time
+// Low Fastest Time
+patch=1,EE,20464D14,extended,00000000
+
+[Max Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Kills
+// Max Least Kills
+patch=1,EE,20464D24,extended,461C3BFF
+
+[No Least Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Kills
+// No Least Kills
+patch=1,EE,20464D24,extended,00000000
+
+[Max Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Shots Fired
+// Max Least Shots Fired
+patch=1,EE,20464D2C,extended,461C3BFF
+
+[No Least Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Shots Fired
+// No Least Shots Fired
+patch=1,EE,20464D2C,extended,00000000
+
+[Max Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Highest Accuracy
+// Max Highest Accuracy
+patch=1,EE,20464D34,extended,3F800000
+
+[Low Highest Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Highest Accuracy
+// Low Highest Accuracy
+patch=1,EE,20464D34,extended,00000000
+
+[Max Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Least Hits Taken
+// Max Least Hits Taken
+patch=1,EE,20464D40,extended,461C3BFF
+
+[No Least Hits Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Least Hits Taken
+// No Least Hits Taken
+patch=1,EE,20464D40,extended,00000000
+
+[Max Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Their Blood Spilt
+// Max Their Blood Spilt
+patch=1,EE,20464D48,extended,461C3BFF
+
+[No Their Blood Spilt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Their Blood Spilt
+// No Their Blood Spilt
+patch=1,EE,20464D48,extended,00000000
+
+[Max Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Your Blood Lost
+// Max Your Blood Lost
+patch=1,EE,20464D4C,extended,461C3BFF
+
+[No Your Blood Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Your Blood Lost
+// No Your Blood Lost
+patch=1,EE,20464D4C,extended,00000000
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464D50,extended,4B759010
+
+[No Distance Traveled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled
+// No Distance Traveled
+patch=1,EE,20464D50,extended,00000000
+
+[No PSI Units Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No PSI Units Used
+// No PSI Units Used
+patch=1,EE,20464D54,extended,00000000
+
+[Max Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Deaths Averted By Heal
+// Max Deaths Averted By Heal
+patch=1,EE,20464D5C,extended,461C3BFF
+
+[No Deaths Averted By Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Deaths Averted By Heal
+// No Deaths Averted By Heal
+patch=1,EE,20464D5C,extended,00000000
+
+[Max Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Possessed Deaths
+// Max Possessed Deaths
+patch=1,EE,20464D7C,extended,461C3BFF
+
+[No Possessed Deaths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Possessed Deaths
+// No Possessed Deaths
+patch=1,EE,20464D7C,extended,00000000
+
+[Max Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time Spent Playing
+// Max Time Spent Playing
+patch=1,EE,20464D88,extended,470C9FFF
+
+[Low Time Spent Playing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Time Spent Playing
+// Low Time Spent Playing
+patch=1,EE,20464D88,extended,00000000
+
+[Max Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mucky Feet
+// Max Mucky Feet
+patch=1,EE,20464D8C,extended,461C3BFF
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,20464D8C,extended,00000000

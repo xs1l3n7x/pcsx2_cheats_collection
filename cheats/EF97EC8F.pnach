@@ -1,0 +1,37 @@
+gametitle=Yu-Gi-Oh GX Tag Force Evolution [UNKNOWN] [EF97EC8F]
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,207DA3F8,extended,000F423F
+
+[Infinite/Max Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite/Max Health
+// Infinite/Max Health
+patch=1,EE,207FB718,extended,00000300
+
+[Infinite/Max Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite/Max Health
+// Infinite/Max Health
+patch=1,EE,207FB728,extended,00000300
+
+[Infinite/Max MP]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite/Max MP
+// Infinite/Max MP
+patch=1,EE,207FB700,extended,000003E7
+
+[Infinite/Max MP]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite/Max MP
+// Infinite/Max MP
+patch=1,EE,207FB710,extended,000003E7
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,20384184,extended,00000000

@@ -1,0 +1,55 @@
+gametitle=Spy Hunter 2 [SLUS-20590] [A2B36980]
+
+[Mission 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 14
+// Mission 14
+patch=1,EE,902FCD1C,extended,0C0BB6A4
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,20117678,extended,00000000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201A56C4,extended,ACA00018
+
+[Infinite Nitros]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Nitros
+// Infinite Nitros
+patch=1,EE,201AA55C,extended,00000000
+
+[Machine Guns Never Overheat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Machine Guns Never Overheat
+// Machine Guns Never Overheat
+patch=1,EE,201B8D44,extended,00000000
+
+[Infinite Secondary Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Secondary Weapons
+// Infinite Secondary Weapons
+patch=1,EE,201B91D4,extended,00000000
+
+[Have All Mission Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Mission Completed
+// Have All Mission Completed
+patch=1,EE,1041ECC6,extended,00000101
+
+[Have All Mission Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Mission Completed
+// Have All Mission Completed
+patch=1,EE,4041ECC8,extended,00040001
+
+[Have All Mission Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Mission Completed
+// Have All Mission Completed
+patch=1,EE,01010101,extended,00000000

@@ -1,0 +1,703 @@
+gametitle=Van Helsing [SLES-51908] [8176235A]
+
+[Devil's Whisper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Devil's Whisper
+// Devil's Whisper
+patch=1,EE,9027142C,extended,0C09F45B
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,20274388,extended,24020001
+
+[NTSC 2 PAL]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=NTSC 2 PAL
+// NTSC 2 PAL
+patch=1,EE,20226968,extended,24120003
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0240,extended,24840050
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0244,extended,3C014348
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0248,extended,03E00008
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C024C,extended,AC810004
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201C5ABC,extended,0C030090
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,200C0230,extended,24840050
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,200C0234,extended,3C014348
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,200C0238,extended,03E00008
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,200C023C,extended,AC810008
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,201C5A98,extended,0C03008C
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,2015C4C8,extended,00000000
+
+[Infinite Finishing Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Finishing Moves
+// Infinite Finishing Moves
+patch=1,EE,200C0228,extended,03E00008
+
+[Infinite Finishing Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Finishing Moves
+// Infinite Finishing Moves
+patch=1,EE,200C022C,extended,AC820334
+
+[Infinite Finishing Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Finishing Moves
+// Infinite Finishing Moves
+patch=1,EE,2015C518,extended,0803008A
+
+[Infinite Finishing Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Finishing Moves
+// Infinite Finishing Moves
+patch=1,EE,2015C51C,extended,24020005
+
+[Max Finishing Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Finishing Moves
+// Max Finishing Moves
+patch=1,EE,200C0220,extended,03E00008
+
+[Max Finishing Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Finishing Moves
+// Max Finishing Moves
+patch=1,EE,200C0224,extended,AC820338
+
+[Max Finishing Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Finishing Moves
+// Max Finishing Moves
+patch=1,EE,2015C568,extended,08030088
+
+[Max Finishing Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Finishing Moves
+// Max Finishing Moves
+patch=1,EE,2015C56C,extended,24020005
+
+[Infinite Item Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Item Usage
+// Infinite Item Usage
+patch=1,EE,2019DDBC,extended,00000000
+
+[Extra Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Items
+// Extra Items
+patch=1,EE,1019DDB4,extended,00000001
+
+[Infinite Power Glyphs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Power Glyphs
+// Infinite Power Glyphs
+patch=1,EE,102E7F38,extended,0000FFFF
+
+[Max Power Glyphs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power Glyphs
+// Max Power Glyphs
+patch=1,EE,202E7F38,extended,05F5E0FF
+
+[Power Glyphs Worth 9999]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power Glyphs Worth 9999
+// Power Glyphs Worth 9999
+patch=1,EE,101A5BB8,extended,0000270F
+
+[Power Glyphs Worth 999]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power Glyphs Worth 999
+// Power Glyphs Worth 999
+patch=1,EE,101A5BB8,extended,000003E7
+
+[Power Glyphs Worth 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power Glyphs Worth 99
+// Power Glyphs Worth 99
+patch=1,EE,101A5BB8,extended,00000063
+
+[Power Glyphs Worth 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power Glyphs Worth 50
+// Power Glyphs Worth 50
+patch=1,EE,101A5BB8,extended,00000032
+
+[Power Glyphs Worth 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power Glyphs Worth 10
+// Power Glyphs Worth 10
+patch=1,EE,101A5BB8,extended,0000000A
+
+[Access All Cheats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Cheats
+// Access All Cheats
+patch=1,EE,2019FFB0,extended,24100001
+
+[Infinite Kill Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Kill Time
+// Infinite Kill Time
+patch=1,EE,20149698,extended,00000000
+
+[Infinite Speed Boost (Upon Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Speed Boost (Upon Pickup)
+// Infinite Speed Boost (Upon Pickup)
+patch=1,EE,201585C8,extended,00000000
+
+[1-Hit Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Enemies)
+// 1-Hit Death (Enemies)
+patch=1,EE,200C0250,extended,3C01C7C4
+
+[1-Hit Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Enemies)
+// 1-Hit Death (Enemies)
+patch=1,EE,200C0254,extended,0804D1B6
+
+[1-Hit Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Enemies)
+// 1-Hit Death (Enemies)
+patch=1,EE,200C0258,extended,44816000
+
+[1-Hit Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Enemies)
+// 1-Hit Death (Enemies)
+patch=1,EE,20146F38,extended,0C030094
+
+[Crossbow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crossbow
+// Crossbow
+patch=1,EE,002E9DA0,extended,00000001
+
+[Electric Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Electric Gun
+// Electric Gun
+patch=1,EE,002E9DB0,extended,00000001
+
+[Gatling Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gatling Gun
+// Gatling Gun
+patch=1,EE,002E9DB8,extended,00000001
+
+[Rifle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rifle
+// Rifle
+patch=1,EE,002E9DC0,extended,00000001
+
+[Double Scimitars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Double Scimitars
+// Double Scimitars
+patch=1,EE,002E9DC8,extended,00000001
+
+[Shotgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shotgun
+// Shotgun
+patch=1,EE,002E9DD0,extended,00000001
+
+[Alt Pistols]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Alt Pistols
+// Alt Pistols
+patch=1,EE,002F4058,extended,00000001
+
+[Alt Crossbow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Alt Crossbow
+// Alt Crossbow
+patch=1,EE,002F4068,extended,00000001
+
+[Alt Tojo Blades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Alt Tojo Blades
+// Alt Tojo Blades
+patch=1,EE,002F4078,extended,00000001
+
+[Alt Electric Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Alt Electric Gun
+// Alt Electric Gun
+patch=1,EE,002F4088,extended,00000001
+
+[Alt Gatling Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Alt Gatling Gun
+// Alt Gatling Gun
+patch=1,EE,002F4098,extended,00000001
+
+[Alt Scimitars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Alt Scimitars
+// Alt Scimitars
+patch=1,EE,002F40B8,extended,00000001
+
+[Alt Shotgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Alt Shotgun
+// Alt Shotgun
+patch=1,EE,002F40C8,extended,00000001
+
+[Melee Explosion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Melee Explosion
+// Melee Explosion
+patch=1,EE,002E9D90,extended,00000001
+
+[Dodge-Fire]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dodge-Fire
+// Dodge-Fire
+patch=1,EE,002F3FC8,extended,00000001
+
+[Grapple Strike]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grapple Strike
+// Grapple Strike
+patch=1,EE,002F3FD8,extended,00000001
+
+[Ground Strike]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ground Strike
+// Ground Strike
+patch=1,EE,002F3FE8,extended,00000001
+
+[Air Strike]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Air Strike
+// Air Strike
+patch=1,EE,002F3FF8,extended,00000001
+
+[Tojo Fire]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tojo Fire
+// Tojo Fire
+patch=1,EE,002F4008,extended,00000001
+
+[Air Hop]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Air Hop
+// Air Hop
+patch=1,EE,002F4018,extended,00000001
+
+[Scimitar Swing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scimitar Swing
+// Scimitar Swing
+patch=1,EE,002F4028,extended,00000001
+
+[Grapple Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grapple Jump
+// Grapple Jump
+patch=1,EE,002F4038,extended,00000001
+
+[Infinite Double Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jump
+// Infinite Double Jump
+patch=1,EE,002E7F60,extended,00000001
+
+[Invincible]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincible
+// Invincible
+patch=1,EE,002E7F62,extended,00000001
+
+[Unlimited Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Ammo
+// Unlimited Ammo
+patch=1,EE,002E7F64,extended,00000001
+
+[Unlimited Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Speed
+// Unlimited Speed
+patch=1,EE,002E7F65,extended,00000001
+
+[Display Character Grid]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Display Character Grid
+// Display Character Grid
+patch=1,EE,002E7F66,extended,00000001
+
+[Display Enemy Grids]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Display Enemy Grids
+// Display Enemy Grids
+patch=1,EE,002E7F67,extended,00000001
+
+[Display Object Grids]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Display Object Grids
+// Display Object Grids
+patch=1,EE,002E7F68,extended,00000001
+
+[Infinite Finishing Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Finishing Moves
+// Infinite Finishing Moves
+patch=1,EE,002E7F69,extended,00000001
+
+[Metallic Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metallic Enemies
+// Metallic Enemies
+patch=1,EE,002E7F6B,extended,00000001
+
+[Archaic Clothes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archaic Clothes
+// Archaic Clothes
+patch=1,EE,002F7039,extended,00000001
+
+[Archaic Clothes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archaic Clothes
+// Archaic Clothes
+patch=1,EE,00307379,extended,00000001
+
+[Power Clothes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power Clothes
+// Power Clothes
+patch=1,EE,002F7041,extended,00000001
+
+[Power Clothes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power Clothes
+// Power Clothes
+patch=1,EE,00307381,extended,00000001
+
+[Dwerger Skin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dwerger Skin
+// Dwerger Skin
+patch=1,EE,002F7049,extended,00000001
+
+[Dwerger Skin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dwerger Skin
+// Dwerger Skin
+patch=1,EE,00307389,extended,00000001
+
+[Wraith Skin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wraith Skin
+// Wraith Skin
+patch=1,EE,002F7051,extended,00000001
+
+[Wraith Skin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wraith Skin
+// Wraith Skin
+patch=1,EE,00307391,extended,00000001
+
+[Archangel Ski]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archangel Ski
+// Archangel Ski
+patch=1,EE,002F7059,extended,00000001
+
+[Archangel Ski]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archangel Ski
+// Archangel Ski
+patch=1,EE,00307399,extended,00000001
+
+[Gargoyle Skin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gargoyle Skin
+// Gargoyle Skin
+patch=1,EE,002F7061,extended,00000001
+
+[Gargoyle Skin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gargoyle Skin
+// Gargoyle Skin
+patch=1,EE,003073A1,extended,00000001
+
+[Fell Skin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fell Skin
+// Fell Skin
+patch=1,EE,002F7069,extended,00000001
+
+[Fell Skin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fell Skin
+// Fell Skin
+patch=1,EE,003073A9,extended,00000001
+
+[Shadow Fiend]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shadow Fiend
+// Shadow Fiend
+patch=1,EE,002F7071,extended,00000001
+
+[Shadow Fiend]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shadow Fiend
+// Shadow Fiend
+patch=1,EE,003073B1,extended,00000001
+
+[Big Head]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Head
+// Big Head
+patch=1,EE,002F7079,extended,00000001
+
+[Big Head]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Head
+// Big Head
+patch=1,EE,003073B9,extended,00000001
+
+[Big Melee]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Melee
+// Big Melee
+patch=1,EE,002F7081,extended,00000001
+
+[Big Melee]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Melee
+// Big Melee
+patch=1,EE,003073C1,extended,00000001
+
+[Small Fiend]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Small Fiend
+// Small Fiend
+patch=1,EE,002F7089,extended,00000001
+
+[Small Fiend]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Small Fiend
+// Small Fiend
+patch=1,EE,003073C9,extended,00000001
+
+[Metal Body]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metal Body
+// Metal Body
+patch=1,EE,002F7091,extended,00000001
+
+[Metal Body]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metal Body
+// Metal Body
+patch=1,EE,003073D1,extended,00000001
+
+[Metal Fiend]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metal Fiend
+// Metal Fiend
+patch=1,EE,002F7099,extended,00000001
+
+[Metal Fiend]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metal Fiend
+// Metal Fiend
+patch=1,EE,003073D9,extended,00000001
+
+[Color Body]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Color Body
+// Color Body
+patch=1,EE,002F70A1,extended,00000001
+
+[Color Body]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Color Body
+// Color Body
+patch=1,EE,003073E1,extended,00000001
+
+[Plain World]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plain World
+// Plain World
+patch=1,EE,002F70A9,extended,00000001
+
+[Plain World]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plain World
+// Plain World
+patch=1,EE,003073E9,extended,00000001
+
+[Sick Player]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sick Player
+// Sick Player
+patch=1,EE,002F70B1,extended,00000001
+
+[Sick Player]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sick Player
+// Sick Player
+patch=1,EE,003073F1,extended,00000001
+
+[Unlimited Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Ammo
+// Unlimited Ammo
+patch=1,EE,002F70B9,extended,00000001
+
+[Unlimited Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Ammo
+// Unlimited Ammo
+patch=1,EE,003073F9,extended,00000001
+
+[Armory Anytime]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armory Anytime
+// Armory Anytime
+patch=1,EE,002F70C1,extended,00000001
+
+[Armory Anytime]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armory Anytime
+// Armory Anytime
+patch=1,EE,00307401,extended,00000001
+
+[Unlimited Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Speed
+// Unlimited Speed
+patch=1,EE,002F70C9,extended,00000001
+
+[Unlimited Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Speed
+// Unlimited Speed
+patch=1,EE,00307409,extended,00000001
+
+[Translucent Body]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Translucent Body
+// Translucent Body
+patch=1,EE,002F70D1,extended,00000001
+
+[Translucent Body]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Translucent Body
+// Translucent Body
+patch=1,EE,00307411,extended,00000001
+
+[Translucent Fiend]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Translucent Fiend
+// Translucent Fiend
+patch=1,EE,002F70D9,extended,00000001
+
+[Translucent Fiend]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Translucent Fiend
+// Translucent Fiend
+patch=1,EE,00307419,extended,00000001
+
+[Ghost Body]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ghost Body
+// Ghost Body
+patch=1,EE,002F70E1,extended,00000001
+
+[Ghost Body]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ghost Body
+// Ghost Body
+patch=1,EE,00307421,extended,00000001
+
+[Ghost Fiend]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ghost Fiend
+// Ghost Fiend
+patch=1,EE,002F70E9,extended,00000001
+
+[Ghost Fiend]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ghost Fiend
+// Ghost Fiend
+patch=1,EE,00307429,extended,00000001
+
+[Shadow Body]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shadow Body
+// Shadow Body
+patch=1,EE,002F70F1,extended,00000001
+
+[Shadow Body]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shadow Body
+// Shadow Body
+patch=1,EE,00307431,extended,00000001

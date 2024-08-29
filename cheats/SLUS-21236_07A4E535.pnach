@@ -1,0 +1,973 @@
+gametitle=Tokyo Xtreme Racer Drift [SLUS-21236] [07A4E535]
+
+[Money Increases When Buying Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Money Increases When Buying Cars
+// Money Increases When Buying Cars
+patch=1,EE,90246FB8,extended,0C094972
+
+[P1 Press {SELECT} To Skip FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {SELECT} To Skip FMV
+// P1 Press {SELECT} To Skip FMV
+patch=1,EE,D0566EDC,extended,0000FFFE
+
+[P1 Press {SELECT} To Skip FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {SELECT} To Skip FMV
+// P1 Press {SELECT} To Skip FMV
+patch=1,EE,2023A340,extended,24020001
+
+[P1 Press {SELECT} To Skip FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {SELECT} To Skip FMV
+// P1 Press {SELECT} To Skip FMV
+patch=1,EE,D0566EDC,extended,0000FFFF
+
+[P1 Press {SELECT} To Skip FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {SELECT} To Skip FMV
+// P1 Press {SELECT} To Skip FMV
+patch=1,EE,2023A340,extended,8C620000
+
+[Infinite Credit Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Credit Points
+// Infinite Credit Points
+patch=1,EE,103C2740,extended,0000FFFF
+
+[Max Credit Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Credit Points
+// Max Credit Points
+patch=1,EE,203C2740,extended,05F5E0FF
+
+[Buying Items Doesnt Decrease Credit Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Items Doesnt Decrease Credit Points
+// Buying Items Doesnt Decrease Credit Points
+patch=1,EE,2019AEE8,extended,00000000
+
+[Buying Items Increases Credit Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Items Increases Credit Points
+// Buying Items Increases Credit Points
+patch=1,EE,2019AEE4,extended,00651821
+
+[Always Max Day]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Day
+// Always Max Day
+patch=1,EE,203C2738,extended,000003E7
+
+[Always 1st Day]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always 1st Day
+// Always 1st Day
+patch=1,EE,203C2738,extended,00000001
+
+[More Points Per Drift]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=More Points Per Drift
+// More Points Per Drift
+patch=1,EE,2013B1F0,extended,3403270F
+
+[Hella Points Per Drift]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hella Points Per Drift
+// Hella Points Per Drift
+patch=1,EE,2013B1F0,extended,3403C350
+
+[Drift Points Never Decrease From Zeroed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Drift Points Never Decrease From Zeroed
+// Drift Points Never Decrease From Zeroed
+patch=1,EE,2013B550,extended,00000000
+
+[Infinite SP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite SP P1
+// Infinite SP P1
+patch=1,EE,D1E80D1E,extended,000001E8
+
+[Infinite SP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite SP P1
+// Infinite SP P1
+patch=1,EE,21E80D20,extended,004C4B40
+
+[No SP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No SP P1
+// No SP P1
+patch=1,EE,D1E80D1E,extended,000001E8
+
+[No SP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No SP P1
+// No SP P1
+patch=1,EE,21E80D20,extended,00000000
+
+[Infinite SP Rival]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite SP Rival
+// Infinite SP Rival
+patch=1,EE,D1E80D1E,extended,000001E8
+
+[Infinite SP Rival]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite SP Rival
+// Infinite SP Rival
+patch=1,EE,21E80D38,extended,004C4B40
+
+[No SP Rival]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No SP Rival
+// No SP Rival
+patch=1,EE,D1E80D1E,extended,000001E8
+
+[No SP Rival]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No SP Rival
+// No SP Rival
+patch=1,EE,21E80D38,extended,00000000
+
+[Rival Always Loses SP Over Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rival Always Loses SP Over Time
+// Rival Always Loses SP Over Time
+patch=1,EE,2013EC28,extended,00000000
+
+[Rival Always Loses SP Over Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rival Always Loses SP Over Time
+// Rival Always Loses SP Over Time
+patch=1,EE,2013EC30,extended,24080C80
+
+[Never Lose SP Over Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Lose SP Over Time
+// Never Lose SP Over Time
+patch=1,EE,2013EC18,extended,00000000
+
+[Never Lose SP From Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Lose SP From Damage
+// Never Lose SP From Damage
+patch=1,EE,2013EF14,extended,00000000
+
+[Can Purchase All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Can Purchase All Cars
+// Can Purchase All Cars
+patch=1,EE,201C4D28,extended,24030001
+
+[Can Purchase All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Can Purchase All Cars
+// Can Purchase All Cars
+patch=1,EE,201C4D30,extended,A12349FA
+
+[Haruna]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Haruna
+// Haruna
+patch=1,EE,003C6EEC,extended,00000001
+
+[Hakone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hakone
+// Hakone
+patch=1,EE,003C6EED,extended,00000001
+
+[Iroha B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Iroha B
+// Iroha B
+patch=1,EE,003C6EEE,extended,00000001
+
+[Iroha A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Iroha A
+// Iroha A
+patch=1,EE,003C6EEF,extended,00000001
+
+[Front Rokko]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Front Rokko
+// Front Rokko
+patch=1,EE,003C6EF0,extended,00000001
+
+[All Conquest Courses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Conquest Courses
+// All Conquest Courses
+patch=1,EE,203C6EEC,extended,01010101
+
+[All Conquest Courses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Conquest Courses
+// All Conquest Courses
+patch=1,EE,003C6EF0,extended,00000001
+
+[Haruna]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Haruna
+// Haruna
+patch=1,EE,003C6D9C,extended,00000002
+
+[Hakone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hakone
+// Hakone
+patch=1,EE,003C6D9D,extended,00000002
+
+[Iroha B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Iroha B
+// Iroha B
+patch=1,EE,003C6D9E,extended,00000002
+
+[Iroha A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Iroha A
+// Iroha A
+patch=1,EE,003C6D9F,extended,00000002
+
+[Front Rokko]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Front Rokko
+// Front Rokko
+patch=1,EE,003C6DA0,extended,00000002
+
+[All Conquest Courses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Conquest Courses
+// All Conquest Courses
+patch=1,EE,203C6D9C,extended,02020202
+
+[All Conquest Courses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Conquest Courses
+// All Conquest Courses
+patch=1,EE,003C6DA0,extended,00000002
+
+[Na Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Na Festa
+// Na Festa
+patch=1,EE,003C6DBC,extended,00000000
+
+[Turbo Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Turbo Festa
+// Turbo Festa
+patch=1,EE,003C6DBD,extended,00000000
+
+[FF Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FF Attacker
+// FF Attacker
+patch=1,EE,003C6DBE,extended,00000000
+
+[FR/MR Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FR/MR Attacker
+// FR/MR Attacker
+patch=1,EE,003C6DBF,extended,00000000
+
+[4WD Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4WD Attacker
+// 4WD Attacker
+patch=1,EE,003C6DC0,extended,00000000
+
+[Light Weight Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Light Weight Duel
+// Light Weight Duel
+patch=1,EE,003C6DC1,extended,00000000
+
+[Middle Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Middle Duel
+// Middle Duel
+patch=1,EE,003C6DC2,extended,00000000
+
+[Monster Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monster Duel
+// Monster Duel
+patch=1,EE,003C6DC3,extended,00000000
+
+[Na Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Na Festa
+// Na Festa
+patch=1,EE,003C6DC4,extended,00000000
+
+[Turbo Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Turbo Festa
+// Turbo Festa
+patch=1,EE,003C6DC5,extended,00000000
+
+[FF Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FF Attacker
+// FF Attacker
+patch=1,EE,003C6DC6,extended,00000000
+
+[FR/MR Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FR/MR Attacker
+// FR/MR Attacker
+patch=1,EE,003C6DC7,extended,00000000
+
+[4WD Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4WD Attacker
+// 4WD Attacker
+patch=1,EE,003C6DC8,extended,00000000
+
+[Light Weight Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Light Weight Duel
+// Light Weight Duel
+patch=1,EE,003C6DC9,extended,00000000
+
+[Middle Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Middle Duel
+// Middle Duel
+patch=1,EE,003C6DCA,extended,00000000
+
+[Monster Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monster Duel
+// Monster Duel
+patch=1,EE,003C6DCB,extended,00000000
+
+[Na Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Na Festa
+// Na Festa
+patch=1,EE,003C6DCC,extended,00000000
+
+[Turbo Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Turbo Festa
+// Turbo Festa
+patch=1,EE,003C6DCD,extended,00000000
+
+[FF Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FF Attacker
+// FF Attacker
+patch=1,EE,003C6DCE,extended,00000000
+
+[FR/MR Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FR/MR Attacker
+// FR/MR Attacker
+patch=1,EE,003C6DCF,extended,00000000
+
+[4WD Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4WD Attacker
+// 4WD Attacker
+patch=1,EE,003C6DD0,extended,00000000
+
+[Light Weight Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Light Weight Duel
+// Light Weight Duel
+patch=1,EE,003C6DD1,extended,00000000
+
+[Middle Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Middle Duel
+// Middle Duel
+patch=1,EE,003C6DD2,extended,00000000
+
+[Monster Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monster Duel
+// Monster Duel
+patch=1,EE,003C6DD3,extended,00000000
+
+[Na Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Na Festa
+// Na Festa
+patch=1,EE,003C6DEC,extended,00000000
+
+[Turbo Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Turbo Festa
+// Turbo Festa
+patch=1,EE,003C6DED,extended,00000000
+
+[FF Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FF Attacker
+// FF Attacker
+patch=1,EE,003C6DEE,extended,00000000
+
+[FR/MR Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FR/MR Attacker
+// FR/MR Attacker
+patch=1,EE,003C6DEF,extended,00000000
+
+[4WD Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4WD Attacker
+// 4WD Attacker
+patch=1,EE,003C6DF0,extended,00000000
+
+[Light Weight Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Light Weight Duel
+// Light Weight Duel
+patch=1,EE,003C6DF1,extended,00000000
+
+[Middle Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Middle Duel
+// Middle Duel
+patch=1,EE,003C6DF2,extended,00000000
+
+[Monster Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monster Duel
+// Monster Duel
+patch=1,EE,003C6DF3,extended,00000000
+
+[Na Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Na Festa
+// Na Festa
+patch=1,EE,003C6DF4,extended,00000000
+
+[Turbo Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Turbo Festa
+// Turbo Festa
+patch=1,EE,003C6DF5,extended,00000000
+
+[FF Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FF Attacker
+// FF Attacker
+patch=1,EE,003C6DF6,extended,00000000
+
+[FR/MR Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FR/MR Attacker
+// FR/MR Attacker
+patch=1,EE,003C6DF7,extended,00000000
+
+[4WD Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4WD Attacker
+// 4WD Attacker
+patch=1,EE,003C6DF8,extended,00000000
+
+[Light Weight Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Light Weight Duel
+// Light Weight Duel
+patch=1,EE,003C6DF9,extended,00000000
+
+[Middle Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Middle Duel
+// Middle Duel
+patch=1,EE,003C6DFA,extended,00000000
+
+[Monster Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monster Duel
+// Monster Duel
+patch=1,EE,003C6DFB,extended,00000000
+
+[Na Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Na Festa
+// Na Festa
+patch=1,EE,003C6DFC,extended,00000000
+
+[Turbo Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Turbo Festa
+// Turbo Festa
+patch=1,EE,003C6DFD,extended,00000000
+
+[FF Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FF Attacker
+// FF Attacker
+patch=1,EE,003C6DFE,extended,00000000
+
+[FR/MR Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FR/MR Attacker
+// FR/MR Attacker
+patch=1,EE,003C6DFF,extended,00000000
+
+[4WD Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4WD Attacker
+// 4WD Attacker
+patch=1,EE,003C6E00,extended,00000000
+
+[Light Weight Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Light Weight Duel
+// Light Weight Duel
+patch=1,EE,003C6E01,extended,00000000
+
+[Middle Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Middle Duel
+// Middle Duel
+patch=1,EE,003C6E02,extended,00000000
+
+[Monster Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monster Duel
+// Monster Duel
+patch=1,EE,003C6E03,extended,00000000
+
+[Na Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Na Festa
+// Na Festa
+patch=1,EE,003C6E1C,extended,00000000
+
+[Turbo Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Turbo Festa
+// Turbo Festa
+patch=1,EE,003C6E1D,extended,00000000
+
+[FF Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FF Attacker
+// FF Attacker
+patch=1,EE,003C6E1E,extended,00000000
+
+[FR/MR Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FR/MR Attacker
+// FR/MR Attacker
+patch=1,EE,003C6E1F,extended,00000000
+
+[4WD Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4WD Attacker
+// 4WD Attacker
+patch=1,EE,003C6E20,extended,00000000
+
+[Light Weight Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Light Weight Duel
+// Light Weight Duel
+patch=1,EE,003C6E21,extended,00000000
+
+[Middle Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Middle Duel
+// Middle Duel
+patch=1,EE,003C6E22,extended,00000000
+
+[Monster Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monster Duel
+// Monster Duel
+patch=1,EE,003C6E23,extended,00000000
+
+[Na Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Na Festa
+// Na Festa
+patch=1,EE,003C6E24,extended,00000000
+
+[Turbo Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Turbo Festa
+// Turbo Festa
+patch=1,EE,003C6E25,extended,00000000
+
+[FF Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FF Attacker
+// FF Attacker
+patch=1,EE,003C6E26,extended,00000000
+
+[FR/MR Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FR/MR Attacker
+// FR/MR Attacker
+patch=1,EE,003C6E27,extended,00000000
+
+[4WD Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4WD Attacker
+// 4WD Attacker
+patch=1,EE,003C6E28,extended,00000000
+
+[Light Weight Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Light Weight Duel
+// Light Weight Duel
+patch=1,EE,003C6E29,extended,00000000
+
+[Middle Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Middle Duel
+// Middle Duel
+patch=1,EE,003C6E2A,extended,00000000
+
+[Monster Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monster Duel
+// Monster Duel
+patch=1,EE,003C6E2B,extended,00000000
+
+[Na Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Na Festa
+// Na Festa
+patch=1,EE,003C6E2C,extended,00000000
+
+[Turbo Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Turbo Festa
+// Turbo Festa
+patch=1,EE,003C6E2D,extended,00000000
+
+[FF Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FF Attacker
+// FF Attacker
+patch=1,EE,003C6E2E,extended,00000000
+
+[FR/MR Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FR/MR Attacker
+// FR/MR Attacker
+patch=1,EE,003C6E2F,extended,00000000
+
+[4WD Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4WD Attacker
+// 4WD Attacker
+patch=1,EE,003C6E30,extended,00000000
+
+[Light Weight Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Light Weight Duel
+// Light Weight Duel
+patch=1,EE,003C6E31,extended,00000000
+
+[Middle Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Middle Duel
+// Middle Duel
+patch=1,EE,003C6E32,extended,00000000
+
+[Monster Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monster Duel
+// Monster Duel
+patch=1,EE,003C6E33,extended,00000000
+
+[Na Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Na Festa
+// Na Festa
+patch=1,EE,003C6E4C,extended,00000000
+
+[Turbo Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Turbo Festa
+// Turbo Festa
+patch=1,EE,003C6E4D,extended,00000000
+
+[FF Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FF Attacker
+// FF Attacker
+patch=1,EE,003C6E4E,extended,00000000
+
+[FR/MR Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FR/MR Attacker
+// FR/MR Attacker
+patch=1,EE,003C6E4F,extended,00000000
+
+[4WD Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4WD Attacker
+// 4WD Attacker
+patch=1,EE,003C6E50,extended,00000000
+
+[Light Weight Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Light Weight Duel
+// Light Weight Duel
+patch=1,EE,003C6E51,extended,00000000
+
+[Middle Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Middle Duel
+// Middle Duel
+patch=1,EE,003C6E52,extended,00000000
+
+[Monster Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monster Duel
+// Monster Duel
+patch=1,EE,003C6E53,extended,00000000
+
+[Na Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Na Festa
+// Na Festa
+patch=1,EE,003C6E54,extended,00000000
+
+[Turbo Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Turbo Festa
+// Turbo Festa
+patch=1,EE,003C6E55,extended,00000000
+
+[FF Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FF Attacker
+// FF Attacker
+patch=1,EE,003C6E56,extended,00000000
+
+[FR/MR Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FR/MR Attacker
+// FR/MR Attacker
+patch=1,EE,003C6E57,extended,00000000
+
+[4WD Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4WD Attacker
+// 4WD Attacker
+patch=1,EE,003C6E58,extended,00000000
+
+[Light Weight Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Light Weight Duel
+// Light Weight Duel
+patch=1,EE,003C6E59,extended,00000000
+
+[Middle Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Middle Duel
+// Middle Duel
+patch=1,EE,003C6E5A,extended,00000000
+
+[Monster Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monster Duel
+// Monster Duel
+patch=1,EE,003C6E5B,extended,00000000
+
+[Na Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Na Festa
+// Na Festa
+patch=1,EE,003C6E5C,extended,00000000
+
+[Turbo Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Turbo Festa
+// Turbo Festa
+patch=1,EE,003C6E5D,extended,00000000
+
+[FF Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FF Attacker
+// FF Attacker
+patch=1,EE,003C6E5E,extended,00000000
+
+[FR/MR Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FR/MR Attacker
+// FR/MR Attacker
+patch=1,EE,003C6E5F,extended,00000000
+
+[4WD Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4WD Attacker
+// 4WD Attacker
+patch=1,EE,003C6E60,extended,00000000
+
+[Light Weight Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Light Weight Duel
+// Light Weight Duel
+patch=1,EE,003C6E61,extended,00000000
+
+[Middle Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Middle Duel
+// Middle Duel
+patch=1,EE,003C6E62,extended,00000000
+
+[Monster Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monster Duel
+// Monster Duel
+patch=1,EE,003C6E63,extended,00000000
+
+[Na Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Na Festa
+// Na Festa
+patch=1,EE,003C6E7C,extended,00000000
+
+[Turbo Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Turbo Festa
+// Turbo Festa
+patch=1,EE,003C6E7D,extended,00000000
+
+[FF Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FF Attacker
+// FF Attacker
+patch=1,EE,003C6E7E,extended,00000000
+
+[FR/MR Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FR/MR Attacker
+// FR/MR Attacker
+patch=1,EE,003C6E7F,extended,00000000
+
+[4WD Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4WD Attacker
+// 4WD Attacker
+patch=1,EE,003C6E80,extended,00000000
+
+[Light Weight Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Light Weight Duel
+// Light Weight Duel
+patch=1,EE,003C6E81,extended,00000000
+
+[Middle Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Middle Duel
+// Middle Duel
+patch=1,EE,003C6E82,extended,00000000
+
+[Monster Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monster Duel
+// Monster Duel
+patch=1,EE,003C6E83,extended,00000000
+
+[Na Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Na Festa
+// Na Festa
+patch=1,EE,003C6E84,extended,00000000
+
+[Turbo Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Turbo Festa
+// Turbo Festa
+patch=1,EE,003C6E85,extended,00000000
+
+[FF Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FF Attacker
+// FF Attacker
+patch=1,EE,003C6E86,extended,00000000
+
+[FR/MR Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FR/MR Attacker
+// FR/MR Attacker
+patch=1,EE,003C6E87,extended,00000000
+
+[4WD Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4WD Attacker
+// 4WD Attacker
+patch=1,EE,003C6E88,extended,00000000
+
+[Light Weight Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Light Weight Duel
+// Light Weight Duel
+patch=1,EE,003C6E89,extended,00000000
+
+[Middle Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Middle Duel
+// Middle Duel
+patch=1,EE,003C6E8A,extended,00000000
+
+[Monster Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monster Duel
+// Monster Duel
+patch=1,EE,003C6E8B,extended,00000000
+
+[Na Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Na Festa
+// Na Festa
+patch=1,EE,003C6E8C,extended,00000000
+
+[Turbo Festa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Turbo Festa
+// Turbo Festa
+patch=1,EE,003C6E8D,extended,00000000
+
+[FF Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FF Attacker
+// FF Attacker
+patch=1,EE,003C6E8E,extended,00000000
+
+[FR/MR Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FR/MR Attacker
+// FR/MR Attacker
+patch=1,EE,003C6E8F,extended,00000000
+
+[4WD Attacker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4WD Attacker
+// 4WD Attacker
+patch=1,EE,003C6E90,extended,00000000
+
+[Light Weight Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Light Weight Duel
+// Light Weight Duel
+patch=1,EE,003C6E91,extended,00000000
+
+[Middle Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Middle Duel
+// Middle Duel
+patch=1,EE,003C6E92,extended,00000000
+
+[Monster Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monster Duel
+// Monster Duel
+patch=1,EE,003C6E93,extended,00000000

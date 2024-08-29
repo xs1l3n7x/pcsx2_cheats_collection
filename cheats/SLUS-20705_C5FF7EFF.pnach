@@ -1,0 +1,259 @@
+gametitle=I-Ninja [SLUS-20705] [C5FF7EFF]
+
+[Racer 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Racer 10
+// Racer 10
+patch=1,EE,9018DC8C,extended,0C068D07
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,20197DD0,extended,24020001
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2032D0C8,extended,42C80000
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,2032D0CC,extended,42C80000
+
+[Max Gold Coins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Gold Coins
+// Max Gold Coins
+patch=1,EE,2032D13C,extended,000003E7
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,1032D160,extended,0000FFFF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,2032D160,extended,05F5E0FF
+
+[Infinite Lives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives
+// Infinite Lives
+patch=1,EE,2032D168,extended,00000009
+
+[Items/Lives Worth 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Items/Lives Worth 5
+// Items/Lives Worth 5
+patch=1,EE,2013D838,extended,24460005
+
+[Items/Lives Worth 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Items/Lives Worth 3
+// Items/Lives Worth 3
+patch=1,EE,2013D838,extended,24460003
+
+[Items/Lives Worth 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Items/Lives Worth 2
+// Items/Lives Worth 2
+patch=1,EE,2013D838,extended,24460002
+
+[Have All Stage Coins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Stage Coins
+// Have All Stage Coins
+patch=1,EE,2032D134,extended,00000040
+
+[Have Black Belt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Black Belt
+// Have Black Belt
+patch=1,EE,2032D144,extended,00000005
+
+[Max Overall Gold Coins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Overall Gold Coins
+// Max Overall Gold Coins
+patch=1,EE,2032D148,extended,0000270F
+
+[Have All Stages Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Stages Completed
+// Have All Stages Completed
+patch=1,EE,2032E0F4,extended,FFFFFFFF
+
+[Have All Stages Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Stages Completed
+// Have All Stages Completed
+patch=1,EE,2032E0F8,extended,FFFFFFFF
+
+[Have All Stages Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Stages Completed
+// Have All Stages Completed
+patch=1,EE,2032E0FC,extended,FFFFFFFF
+
+[Have All Stages Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Stages Completed
+// Have All Stages Completed
+patch=1,EE,2032E100,extended,FFFFFFFF
+
+[Have All Stages Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Stages Completed
+// Have All Stages Completed
+patch=1,EE,2032E104,extended,FFFFFFFF
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,200C0220,extended,3C010020
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,200C0224,extended,9421C382
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,200C0228,extended,30214000
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,200C022C,extended,14200005
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,200C0230,extended,3C0301E0
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,200C0234,extended,3C010030
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,200C0238,extended,8C217464
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,200C023C,extended,54200001
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,200C0240,extended,AC23000C
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,200C0244,extended,03E00008
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,200C0248,extended,00000000
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,2018DCA4,extended,08030088
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,200C0220,extended,3C010020
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,200C0224,extended,9421C382
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,200C0228,extended,30214000
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,200C022C,extended,14200005
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,200C0230,extended,3C033E00
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,200C0234,extended,3C010030
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,200C0238,extended,8C217464
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,200C023C,extended,54200001
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,200C0240,extended,AC23002C
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,200C0244,extended,03E00008
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,200C0248,extended,00000000
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,2018DCA4,extended,08030088

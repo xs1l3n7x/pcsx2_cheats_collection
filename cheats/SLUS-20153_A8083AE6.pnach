@@ -1,0 +1,37 @@
+gametitle=RC Revenge Pro [SLUS-20153] [A8083AE6]
+
+[Access All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Characters
+// Access All Characters
+patch=1,EE,901C69D0,extended,0C06DF18
+
+[Start On Last Lap & Always Place 1st]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Last Lap & Always Place 1st
+// Start On Last Lap & Always Place 1st
+patch=1,EE,D078DAC4,extended,00000000
+
+[Start On Last Lap & Always Place 1st]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Last Lap & Always Place 1st
+// Start On Last Lap & Always Place 1st
+patch=1,EE,1078DAC4,extended,00000002
+
+[Have All Cups Complete]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Cups Complete
+// Have All Cups Complete
+patch=1,EE,10620B24,extended,00000008
+
+[Have All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Cars
+// Have All Cars
+patch=1,EE,401EBBB4,extended,0010000D
+
+[Have All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Cars
+// Have All Cars
+patch=1,EE,00000001,extended,00000000

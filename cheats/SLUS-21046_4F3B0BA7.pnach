@@ -1,0 +1,403 @@
+gametitle=King Arthur [SLUS-21046] [4F3B0BA7]
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,901C18F0,extended,0C06A2DA
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,20188580,extended,24020001
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0220,extended,8C810008
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0224,extended,0807E77C
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0228,extended,AC810004
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20234000,extended,0C030088
+
+[Infinite Adrenaline]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Adrenaline
+// Infinite Adrenaline
+patch=1,EE,200C0230,extended,3C013F80
+
+[Infinite Adrenaline]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Adrenaline
+// Infinite Adrenaline
+patch=1,EE,200C0234,extended,08073664
+
+[Infinite Adrenaline]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Adrenaline
+// Infinite Adrenaline
+patch=1,EE,200C0238,extended,AC810014
+
+[Infinite Adrenaline]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Adrenaline
+// Infinite Adrenaline
+patch=1,EE,202A6FE4,extended,0C03008C
+
+[P1 Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Timer
+// P1 Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,D05034DC,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Timer
+// P1 Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,2027ACDC,extended,00000000
+
+[P1 Press {R1}+{SELECT} To Empty Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} To Empty Timer
+// P1 Press {R1}+{SELECT} To Empty Timer
+patch=1,EE,D05034DC,extended,0000F7FE
+
+[P1 Press {R1}+{SELECT} To Empty Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} To Empty Timer
+// P1 Press {R1}+{SELECT} To Empty Timer
+patch=1,EE,2027ACDC,extended,AE000090
+
+[P1 Press {L2}+{SELECT} To Restart Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Timer
+// P1 Press {L2}+{SELECT} To Restart Timer
+patch=1,EE,D05034DC,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Restart Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Timer
+// P1 Press {L2}+{SELECT} To Restart Timer
+patch=1,EE,2027ACDC,extended,E6000090
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,2021A7A0,extended,24050063
+
+[Super Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Quick Exp Gain
+// Super Quick Exp Gain
+patch=1,EE,2021A7A0,extended,240503E7
+
+[Ultra Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultra Quick Exp Gain
+// Ultra Quick Exp Gain
+patch=1,EE,2021A7A0,extended,2405270F
+
+[Exp Gained x2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exp Gained x2
+// Exp Gained x2
+patch=1,EE,2021A79C,extended,24020002
+
+[Exp Gained x3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exp Gained x3
+// Exp Gained x3
+patch=1,EE,2021A79C,extended,24020003
+
+[Exp Gained x4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exp Gained x4
+// Exp Gained x4
+patch=1,EE,2021A79C,extended,24020004
+
+[Exp Gained x5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exp Gained x5
+// Exp Gained x5
+patch=1,EE,2021A79C,extended,24020005
+
+[Exp Gained x10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exp Gained x10
+// Exp Gained x10
+patch=1,EE,2021A79C,extended,2402000A
+
+[Exp Gained x16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exp Gained x16
+// Exp Gained x16
+patch=1,EE,2021A79C,extended,24020010
+
+[Exp Gained x32]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exp Gained x32
+// Exp Gained x32
+patch=1,EE,2021A79C,extended,24020020
+
+[Exp Gained x50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exp Gained x50
+// Exp Gained x50
+patch=1,EE,2021A79C,extended,24020032
+
+[Exp Gained x64]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exp Gained x64
+// Exp Gained x64
+patch=1,EE,2021A79C,extended,24020040
+
+[Exp Gained x100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exp Gained x100
+// Exp Gained x100
+patch=1,EE,2021A79C,extended,24020064
+
+[Exp Gained x128]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exp Gained x128
+// Exp Gained x128
+patch=1,EE,2021A79C,extended,24020080
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,20566ABC,extended,4CBEBC20
+
+[Constant EXP Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Constant EXP Gain
+// Constant EXP Gain
+patch=1,EE,20566AC0,extended,4479C000
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,2071EBE0,extended,05F5E0FF
+
+[Load Game To Goto Last Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Load Game To Goto Last Level
+// Load Game To Goto Last Level
+patch=1,EE,D071E9A4,extended,00200016
+
+[Load Game To Goto Last Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Load Game To Goto Last Level
+// Load Game To Goto Last Level
+patch=1,EE,2071E9A4,extended,00000016
+
+[Disable HUD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable HUD
+// Disable HUD
+patch=1,EE,005671C6,extended,00000000
+
+[Invincible]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincible
+// Invincible
+patch=1,EE,005671C9,extended,00000001
+
+[Disable Shadows]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Shadows
+// Disable Shadows
+patch=1,EE,00567203,extended,00000000
+
+[Ignore Player]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ignore Player
+// Ignore Player
+patch=1,EE,00567204,extended,00000001
+
+[Infinite Health (Carriages)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Carriages)
+// Infinite Health (Carriages)
+patch=1,EE,00567205,extended,00000001
+
+[Infinite Adrenaline]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Adrenaline
+// Infinite Adrenaline
+patch=1,EE,00567208,extended,00000001
+
+[Display Character Position]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Display Character Position
+// Display Character Position
+patch=1,EE,0056720A,extended,00000001
+
+[Dark Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Mode
+// Dark Mode
+patch=1,EE,0056720B,extended,00000001
+
+[Disable Background]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Background
+// Disable Background
+patch=1,EE,0056720D,extended,00000000
+
+[Disable Drawing Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Drawing Characters
+// Disable Drawing Characters
+patch=1,EE,0056720E,extended,00000000
+
+[Skip Cut Scenes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skip Cut Scenes
+// Skip Cut Scenes
+patch=1,EE,00567214,extended,00000001
+
+[Chapter 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapter 1
+// Chapter 1
+patch=1,EE,0071E9EE,extended,00000001
+
+[Chapter 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapter 2
+// Chapter 2
+patch=1,EE,0071EA1E,extended,00000001
+
+[Chapter 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapter 3
+// Chapter 3
+patch=1,EE,0071EA4E,extended,00000001
+
+[Chapter 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapter 4
+// Chapter 4
+patch=1,EE,0071EA5E,extended,00000001
+
+[Chapter 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chapter 5
+// Chapter 5
+patch=1,EE,0071EA8E,extended,00000001
+
+[The Game/Chapter 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Game/Chapter 6
+// The Game/Chapter 6
+patch=1,EE,0071EB0E,extended,00000001
+
+[Colosseum]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Colosseum
+// Colosseum
+patch=1,EE,0071EB1C,extended,00000001
+
+[Mountaintop]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mountaintop
+// Mountaintop
+patch=1,EE,0071EB2C,extended,00000001
+
+[Woad Camp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Woad Camp
+// Woad Camp
+patch=1,EE,0071EB3C,extended,00000001
+
+[Woad Village]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Woad Village
+// Woad Village
+patch=1,EE,0071EB4C,extended,00000001
+
+[Mountain Pass]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mountain Pass
+// Mountain Pass
+patch=1,EE,0071EB5C,extended,00000001
+
+[Battlefield]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battlefield
+// Battlefield
+patch=1,EE,0071EB6C,extended,00000001
+
+[All Battle Arenas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Battle Arenas
+// All Battle Arenas
+patch=1,EE,4071EB1C,extended,00060004
+
+[All Battle Arenas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Battle Arenas
+// All Battle Arenas
+patch=1,EE,00000001,extended,00000000
+
+[Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Strength
+// Strength
+patch=1,EE,0071EBC0,extended,00000006
+
+[Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Defense
+// Defense
+patch=1,EE,0071EBC1,extended,00000006
+
+[Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speed
+// Speed
+patch=1,EE,0071EBC2,extended,00000006
+
+[Melee]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Melee
+// Melee
+patch=1,EE,0071EBC3,extended,00000006
+
+[Archery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archery
+// Archery
+patch=1,EE,0071EBC4,extended,00000006
+
+[All Upgrades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Upgrades
+// All Upgrades
+patch=1,EE,2071EBC0,extended,06060606
+
+[All Upgrades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Upgrades
+// All Upgrades
+patch=1,EE,0071EBC4,extended,00000006

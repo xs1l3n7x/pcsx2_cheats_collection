@@ -1,0 +1,457 @@
+gametitle=Bloody Roar 4 [SLUS-20795] [C9F6F222]
+
+[Sumo Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sumo Mode
+// Sumo Mode
+patch=1,EE,F0100008,extended,002D9D37
+
+[Infinite Health P1 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1 ONLY
+// Infinite Health P1 ONLY
+patch=1,EE,200C0220,extended,3C010040
+
+[Infinite Health P1 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1 ONLY
+// Infinite Health P1 ONLY
+patch=1,EE,200C0224,extended,8C21FE28
+
+[Infinite Health P1 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1 ONLY
+// Infinite Health P1 ONLY
+patch=1,EE,200C0228,extended,50300001
+
+[Infinite Health P1 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1 ONLY
+// Infinite Health P1 ONLY
+patch=1,EE,200C022C,extended,24020064
+
+[Infinite Health P1 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1 ONLY
+// Infinite Health P1 ONLY
+patch=1,EE,200C0230,extended,03E00008
+
+[Infinite Health P1 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1 ONLY
+// Infinite Health P1 ONLY
+patch=1,EE,200C0234,extended,00000000
+
+[Infinite Health P1 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1 ONLY
+// Infinite Health P1 ONLY
+patch=1,EE,2013A0FC,extended,0C030088
+
+[Infinite Health P1/P2 1-Hit Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1/P2 1-Hit Death
+// Infinite Health P1/P2 1-Hit Death
+patch=1,EE,200C0220,extended,3C010040
+
+[Infinite Health P1/P2 1-Hit Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1/P2 1-Hit Death
+// Infinite Health P1/P2 1-Hit Death
+patch=1,EE,200C0224,extended,8C21FE28
+
+[Infinite Health P1/P2 1-Hit Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1/P2 1-Hit Death
+// Infinite Health P1/P2 1-Hit Death
+patch=1,EE,200C0228,extended,50300002
+
+[Infinite Health P1/P2 1-Hit Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1/P2 1-Hit Death
+// Infinite Health P1/P2 1-Hit Death
+patch=1,EE,200C022C,extended,24020064
+
+[Infinite Health P1/P2 1-Hit Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1/P2 1-Hit Death
+// Infinite Health P1/P2 1-Hit Death
+patch=1,EE,200C0230,extended,2402FFFF
+
+[Infinite Health P1/P2 1-Hit Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1/P2 1-Hit Death
+// Infinite Health P1/P2 1-Hit Death
+patch=1,EE,200C0234,extended,03E00008
+
+[Infinite Health P1/P2 1-Hit Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1/P2 1-Hit Death
+// Infinite Health P1/P2 1-Hit Death
+patch=1,EE,200C0238,extended,00000000
+
+[Infinite Health P1/P2 1-Hit Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1/P2 1-Hit Death
+// Infinite Health P1/P2 1-Hit Death
+patch=1,EE,2013A0FC,extended,0C030088
+
+[Infinite Health P2 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2 ONLY
+// Infinite Health P2 ONLY
+patch=1,EE,200C0220,extended,3C010040
+
+[Infinite Health P2 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2 ONLY
+// Infinite Health P2 ONLY
+patch=1,EE,200C0224,extended,8C21FE28
+
+[Infinite Health P2 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2 ONLY
+// Infinite Health P2 ONLY
+patch=1,EE,200C0228,extended,54300001
+
+[Infinite Health P2 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2 ONLY
+// Infinite Health P2 ONLY
+patch=1,EE,200C022C,extended,24020064
+
+[Infinite Health P2 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2 ONLY
+// Infinite Health P2 ONLY
+patch=1,EE,200C0230,extended,03E00008
+
+[Infinite Health P2 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2 ONLY
+// Infinite Health P2 ONLY
+patch=1,EE,200C0234,extended,00000000
+
+[Infinite Health P2 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2 ONLY
+// Infinite Health P2 ONLY
+patch=1,EE,2013A0FC,extended,0C030088
+
+[Infinite Health P2/P1 1-Hit Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2/P1 1-Hit Death
+// Infinite Health P2/P1 1-Hit Death
+patch=1,EE,200C0220,extended,3C010040
+
+[Infinite Health P2/P1 1-Hit Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2/P1 1-Hit Death
+// Infinite Health P2/P1 1-Hit Death
+patch=1,EE,200C0224,extended,8C21FE28
+
+[Infinite Health P2/P1 1-Hit Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2/P1 1-Hit Death
+// Infinite Health P2/P1 1-Hit Death
+patch=1,EE,200C0228,extended,54300002
+
+[Infinite Health P2/P1 1-Hit Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2/P1 1-Hit Death
+// Infinite Health P2/P1 1-Hit Death
+patch=1,EE,200C022C,extended,24020064
+
+[Infinite Health P2/P1 1-Hit Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2/P1 1-Hit Death
+// Infinite Health P2/P1 1-Hit Death
+patch=1,EE,200C0230,extended,2402FFFF
+
+[Infinite Health P2/P1 1-Hit Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2/P1 1-Hit Death
+// Infinite Health P2/P1 1-Hit Death
+patch=1,EE,200C0234,extended,03E00008
+
+[Infinite Health P2/P1 1-Hit Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2/P1 1-Hit Death
+// Infinite Health P2/P1 1-Hit Death
+patch=1,EE,200C0238,extended,00000000
+
+[Infinite Health P2/P1 1-Hit Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2/P1 1-Hit Death
+// Infinite Health P2/P1 1-Hit Death
+patch=1,EE,2013A0FC,extended,0C030088
+
+[Infinite Health P1 & P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1 & P2
+// Infinite Health P1 & P2
+patch=1,EE,200C0220,extended,3C010040
+
+[Infinite Health P1 & P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1 & P2
+// Infinite Health P1 & P2
+patch=1,EE,200C0224,extended,8C21FE28
+
+[Infinite Health P1 & P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1 & P2
+// Infinite Health P1 & P2
+patch=1,EE,200C022C,extended,03E00008
+
+[Infinite Health P1 & P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1 & P2
+// Infinite Health P1 & P2
+patch=1,EE,200C0230,extended,24020064
+
+[Infinite Health P1 & P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1 & P2
+// Infinite Health P1 & P2
+patch=1,EE,2013A0FC,extended,0C030088
+
+[Infinite Beast Meter P1 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P1 ONLY
+// Infinite Beast Meter P1 ONLY
+patch=1,EE,200C0240,extended,3C010040
+
+[Infinite Beast Meter P1 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P1 ONLY
+// Infinite Beast Meter P1 ONLY
+patch=1,EE,200C0244,extended,8C21FE28
+
+[Infinite Beast Meter P1 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P1 ONLY
+// Infinite Beast Meter P1 ONLY
+patch=1,EE,200C0248,extended,50300001
+
+[Infinite Beast Meter P1 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P1 ONLY
+// Infinite Beast Meter P1 ONLY
+patch=1,EE,200C024C,extended,24020064
+
+[Infinite Beast Meter P1 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P1 ONLY
+// Infinite Beast Meter P1 ONLY
+patch=1,EE,200C0250,extended,03E00008
+
+[Infinite Beast Meter P1 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P1 ONLY
+// Infinite Beast Meter P1 ONLY
+patch=1,EE,200C0254,extended,00000000
+
+[Infinite Beast Meter P1 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P1 ONLY
+// Infinite Beast Meter P1 ONLY
+patch=1,EE,2013A07C,extended,0C030090
+
+[Infinite Beast Meter P1/No Beast Meter P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P1/No Beast Meter P2
+// Infinite Beast Meter P1/No Beast Meter P2
+patch=1,EE,200C0240,extended,3C010040
+
+[Infinite Beast Meter P1/No Beast Meter P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P1/No Beast Meter P2
+// Infinite Beast Meter P1/No Beast Meter P2
+patch=1,EE,200C0244,extended,8C21FE28
+
+[Infinite Beast Meter P1/No Beast Meter P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P1/No Beast Meter P2
+// Infinite Beast Meter P1/No Beast Meter P2
+patch=1,EE,200C0248,extended,50300002
+
+[Infinite Beast Meter P1/No Beast Meter P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P1/No Beast Meter P2
+// Infinite Beast Meter P1/No Beast Meter P2
+patch=1,EE,200C024C,extended,24020064
+
+[Infinite Beast Meter P1/No Beast Meter P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P1/No Beast Meter P2
+// Infinite Beast Meter P1/No Beast Meter P2
+patch=1,EE,200C0250,extended,2402FFFF
+
+[Infinite Beast Meter P1/No Beast Meter P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P1/No Beast Meter P2
+// Infinite Beast Meter P1/No Beast Meter P2
+patch=1,EE,200C0254,extended,03E00008
+
+[Infinite Beast Meter P1/No Beast Meter P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P1/No Beast Meter P2
+// Infinite Beast Meter P1/No Beast Meter P2
+patch=1,EE,200C0258,extended,00000000
+
+[Infinite Beast Meter P1/No Beast Meter P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P1/No Beast Meter P2
+// Infinite Beast Meter P1/No Beast Meter P2
+patch=1,EE,2013A07C,extended,0C030090
+
+[Infinite Beast Meter P2 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P2 ONLY
+// Infinite Beast Meter P2 ONLY
+patch=1,EE,200C0240,extended,3C010040
+
+[Infinite Beast Meter P2 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P2 ONLY
+// Infinite Beast Meter P2 ONLY
+patch=1,EE,200C0244,extended,8C21FE28
+
+[Infinite Beast Meter P2 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P2 ONLY
+// Infinite Beast Meter P2 ONLY
+patch=1,EE,200C0248,extended,54300001
+
+[Infinite Beast Meter P2 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P2 ONLY
+// Infinite Beast Meter P2 ONLY
+patch=1,EE,200C024C,extended,24020064
+
+[Infinite Beast Meter P2 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P2 ONLY
+// Infinite Beast Meter P2 ONLY
+patch=1,EE,200C0250,extended,03E00008
+
+[Infinite Beast Meter P2 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P2 ONLY
+// Infinite Beast Meter P2 ONLY
+patch=1,EE,200C0254,extended,00000000
+
+[Infinite Beast Meter P2 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P2 ONLY
+// Infinite Beast Meter P2 ONLY
+patch=1,EE,2013A07C,extended,0C030090
+
+[Infinite Beast Meter P2/No Beast Meter P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P2/No Beast Meter P1
+// Infinite Beast Meter P2/No Beast Meter P1
+patch=1,EE,200C0240,extended,3C010040
+
+[Infinite Beast Meter P2/No Beast Meter P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P2/No Beast Meter P1
+// Infinite Beast Meter P2/No Beast Meter P1
+patch=1,EE,200C0244,extended,8C21FE28
+
+[Infinite Beast Meter P2/No Beast Meter P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P2/No Beast Meter P1
+// Infinite Beast Meter P2/No Beast Meter P1
+patch=1,EE,200C0248,extended,54300002
+
+[Infinite Beast Meter P2/No Beast Meter P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P2/No Beast Meter P1
+// Infinite Beast Meter P2/No Beast Meter P1
+patch=1,EE,200C024C,extended,24020064
+
+[Infinite Beast Meter P2/No Beast Meter P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P2/No Beast Meter P1
+// Infinite Beast Meter P2/No Beast Meter P1
+patch=1,EE,200C0250,extended,2402FFFF
+
+[Infinite Beast Meter P2/No Beast Meter P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P2/No Beast Meter P1
+// Infinite Beast Meter P2/No Beast Meter P1
+patch=1,EE,200C0254,extended,03E00008
+
+[Infinite Beast Meter P2/No Beast Meter P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P2/No Beast Meter P1
+// Infinite Beast Meter P2/No Beast Meter P1
+patch=1,EE,200C0258,extended,00000000
+
+[Infinite Beast Meter P2/No Beast Meter P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P2/No Beast Meter P1
+// Infinite Beast Meter P2/No Beast Meter P1
+patch=1,EE,2013A07C,extended,0C030090
+
+[Infinite Beast Meter P1 & P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P1 & P2
+// Infinite Beast Meter P1 & P2
+patch=1,EE,200C0240,extended,3C010040
+
+[Infinite Beast Meter P1 & P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P1 & P2
+// Infinite Beast Meter P1 & P2
+patch=1,EE,200C0244,extended,8C21FE28
+
+[Infinite Beast Meter P1 & P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P1 & P2
+// Infinite Beast Meter P1 & P2
+patch=1,EE,200C0248,extended,03E00008
+
+[Infinite Beast Meter P1 & P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P1 & P2
+// Infinite Beast Meter P1 & P2
+patch=1,EE,200C024C,extended,24020064
+
+[Infinite Beast Meter P1 & P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Beast Meter P1 & P2
+// Infinite Beast Meter P1 & P2
+patch=1,EE,2013A07C,extended,0C030090
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,20133120,extended,00000000
+
+[Quick DNA Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick DNA Gain
+// Quick DNA Gain
+patch=1,EE,103FFE8C,extended,0000FFFF
+
+[Max DNA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DNA
+// Max DNA
+patch=1,EE,203FFE8C,extended,05F5E0FF
+
+[Quick Max DNA Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Max DNA Gain
+// Quick Max DNA Gain
+patch=1,EE,103FFE90,extended,0000FFFF
+
+[Max Max DNA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Max DNA
+// Max Max DNA
+patch=1,EE,203FFE90,extended,05F5E0FF

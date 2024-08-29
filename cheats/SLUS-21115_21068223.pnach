@@ -1,0 +1,535 @@
+gametitle=Okami [SLUS-21115] [21068223]
+
+[Omnibooster]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Omnibooster
+// Omnibooster
+patch=1,EE,903EDBC8,extended,00832021
+
+[Max Yen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Yen
+// Max Yen
+patch=1,EE,204ACEF0,extended,0001869F
+
+[Max Purse Pouches]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Purse Pouches
+// Max Purse Pouches
+patch=1,EE,004ACEF4,extended,00000003
+
+[Max Solar Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Solar Energy
+// Max Solar Energy
+patch=1,EE,004ACEF5,extended,0000000C
+
+[Max Ink Pot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ink Pot
+// Max Ink Pot
+patch=1,EE,204ACEE8,extended,00025800
+
+[Max Ink Pot Capacity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ink Pot Capacity
+// Max Ink Pot Capacity
+patch=1,EE,204ACEEC,extended,00025800
+
+[Have All Celestial Brush Techniques]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Celestial Brush Techniques
+// Have All Celestial Brush Techniques
+patch=1,EE,204F22A8,extended,FFFFFFFF
+
+[Max Praise Orbs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Praise Orbs
+// Max Praise Orbs
+patch=1,EE,10552E40,extended,0000270F
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,10683270,extended,00002328
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,10683272,extended,00002328
+
+[Max Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health
+// Max Infinite Health
+patch=1,EE,20683270,extended,23282328
+
+[Max Astral Pouch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Astral Pouch
+// Max Astral Pouch
+patch=1,EE,10683276,extended,00000320
+
+[Holy Bone L]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Holy Bone L
+// Holy Bone L
+patch=1,EE,104ACF48,extended,00000063
+
+[Exorcism Slip L]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exorcism Slip L
+// Exorcism Slip L
+patch=1,EE,104ACF50,extended,00000063
+
+[Exorcism Slip M]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exorcism Slip M
+// Exorcism Slip M
+patch=1,EE,104ACF52,extended,00000063
+
+[Exorcism Slip S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exorcism Slip S
+// Exorcism Slip S
+patch=1,EE,104ACF54,extended,00000063
+
+[Vengeance Slip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vengeance Slip
+// Vengeance Slip
+patch=1,EE,104ACF58,extended,00000063
+
+[Inkfinity Stone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Inkfinity Stone
+// Inkfinity Stone
+patch=1,EE,104ACF5A,extended,00000063
+
+[Mermaid Coin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mermaid Coin
+// Mermaid Coin
+patch=1,EE,104ACF5C,extended,00000063
+
+[Golden Peach]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Golden Peach
+// Golden Peach
+patch=1,EE,104ACF5E,extended,00000063
+
+[Canine Tracker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Canine Tracker
+// Canine Tracker
+patch=1,EE,104ACFC4,extended,00000001
+
+[Lucky Mallet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lucky Mallet
+// Lucky Mallet
+patch=1,EE,104ACFC6,extended,00000001
+
+[Border Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Border Key
+// Border Key
+patch=1,EE,104ACFC8,extended,00000001
+
+[Dragon Orb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dragon Orb
+// Dragon Orb
+patch=1,EE,104ACFCA,extended,00000001
+
+[Fox Rods]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fox Rods
+// Fox Rods
+patch=1,EE,104ACFCC,extended,00000001
+
+[Thunder Brew]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thunder Brew
+// Thunder Brew
+patch=1,EE,104ACFCE,extended,00000001
+
+[Shell Amulet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shell Amulet
+// Shell Amulet
+patch=1,EE,104ACFD0,extended,00000001
+
+[Mask]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mask
+// Mask
+patch=1,EE,104ACFD2,extended,00000001
+
+[Ogre Liver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ogre Liver
+// Ogre Liver
+patch=1,EE,104ACFD4,extended,00000001
+
+[Lips Of Ice]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lips Of Ice
+// Lips Of Ice
+patch=1,EE,104ACFD6,extended,00000001
+
+[Eyeball Of Fire]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Eyeball Of Fire
+// Eyeball Of Fire
+patch=1,EE,104ACFD8,extended,00000001
+
+[Black Demon Horn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Demon Horn
+// Black Demon Horn
+patch=1,EE,104ACFDA,extended,00000001
+
+[Loyalty Orb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Loyalty Orb
+// Loyalty Orb
+patch=1,EE,104ACFDC,extended,00000001
+
+[Justice Orb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Justice Orb
+// Justice Orb
+patch=1,EE,104ACFDE,extended,00000001
+
+[Duty Orb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Duty Orb
+// Duty Orb
+patch=1,EE,104ACFE0,extended,00000001
+
+[Karmic Transformer 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Karmic Transformer 1
+// Karmic Transformer 1
+patch=1,EE,104ACFF6,extended,00000063
+
+[Golden Mushroom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Golden Mushroom
+// Golden Mushroom
+patch=1,EE,104ACFFE,extended,00000001
+
+[Gimmick Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gimmick Gear
+// Gimmick Gear
+patch=1,EE,104AD000,extended,00000001
+
+[8 Purification Sake]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=8 Purification Sake
+// 8 Purification Sake
+patch=1,EE,104AD004,extended,00000001
+
+[Sewaprolo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sewaprolo
+// Sewaprolo
+patch=1,EE,104AD006,extended,00000001
+
+[Traveler's Charm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Traveler's Charm
+// Traveler's Charm
+patch=1,EE,104AD020,extended,00000063
+
+[Charcoal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Charcoal
+// Charcoal
+patch=1,EE,104AD022,extended,00000001
+
+[Blinding Snow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blinding Snow
+// Blinding Snow
+patch=1,EE,104AD024,extended,00000001
+
+[Treasure Box]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Treasure Box
+// Treasure Box
+patch=1,EE,104AD026,extended,00000001
+
+[Herbal Medicine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Herbal Medicine
+// Herbal Medicine
+patch=1,EE,104AD02A,extended,00000001
+
+[Pinwheel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pinwheel
+// Pinwheel
+patch=1,EE,104AD02C,extended,00000001
+
+[Marlin Rod]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Marlin Rod
+// Marlin Rod
+patch=1,EE,104AD02E,extended,00000063
+
+[Karmic Transformer 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Karmic Transformer 3
+// Karmic Transformer 3
+patch=1,EE,104AD032,extended,00000063
+
+[Karmic Transformer 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Karmic Transformer 8
+// Karmic Transformer 8
+patch=1,EE,104AD034,extended,00000063
+
+[Karmic Transformer 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Karmic Transformer 7
+// Karmic Transformer 7
+patch=1,EE,104AD036,extended,00000063
+
+[Karmic Transformer 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Karmic Transformer 9
+// Karmic Transformer 9
+patch=1,EE,104AD038,extended,00000063
+
+[Holy Bone M]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Holy Bone M
+// Holy Bone M
+patch=1,EE,104AD05C,extended,00000063
+
+[Holy Bone S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Holy Bone S
+// Holy Bone S
+patch=1,EE,104AD05E,extended,00000063
+
+[Feedbag (Meat)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Feedbag (Meat)
+// Feedbag (Meat)
+patch=1,EE,104AD060,extended,00000063
+
+[Feedbag (Herbs)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Feedbag (Herbs)
+// Feedbag (Herbs)
+patch=1,EE,104AD062,extended,00000063
+
+[Feedbag (Seeds)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Feedbag (Seeds)
+// Feedbag (Seeds)
+patch=1,EE,104AD064,extended,00000063
+
+[Feedbag (Fish)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Feedbag (Fish)
+// Feedbag (Fish)
+patch=1,EE,104AD066,extended,00000063
+
+[Steel Fist Sake]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Steel Fist Sake
+// Steel Fist Sake
+patch=1,EE,104AD072,extended,00000063
+
+[Steel Soul Sake]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Steel Soul Sake
+// Steel Soul Sake
+patch=1,EE,104AD074,extended,00000063
+
+[Godly Charm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Godly Charm
+// Godly Charm
+patch=1,EE,104AD076,extended,00000063
+
+[Gold Dust]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Dust
+// Gold Dust
+patch=1,EE,1040D07C,extended,00000063
+
+[Karmic Returner]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Karmic Returner
+// Karmic Returner
+patch=1,EE,104AD0D0,extended,00000063
+
+[Karmic Transformer 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Karmic Transformer 2
+// Karmic Transformer 2
+patch=1,EE,104AD0D2,extended,00000063
+
+[Karmic Transformer 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Karmic Transformer 6
+// Karmic Transformer 6
+patch=1,EE,104AD0D4,extended,00000063
+
+[Karmic Transformer 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Karmic Transformer 5
+// Karmic Transformer 5
+patch=1,EE,104AD0D6,extended,00000063
+
+[Karmic Transformer 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Karmic Transformer 4
+// Karmic Transformer 4
+patch=1,EE,104AD0DE,extended,00000063
+
+[Peace Bell]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peace Bell
+// Peace Bell
+patch=1,EE,104ACF56,extended,00000001
+
+[Divine Retribution]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Divine Retribution
+// Divine Retribution
+patch=1,EE,104ACF60,extended,00000001
+
+[Snarling Beast]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snarling Beast
+// Snarling Beast
+patch=1,EE,104ACF62,extended,00000001
+
+[Infinity Judge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinity Judge
+// Infinity Judge
+patch=1,EE,104ACF64,extended,00000001
+
+[Trinity Mirror]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trinity Mirror
+// Trinity Mirror
+patch=1,EE,104ACF66,extended,00000001
+
+[Solar Flare]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Solar Flare
+// Solar Flare
+patch=1,EE,104ACF68,extended,00000001
+
+[Devoute Beads]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Devoute Beads
+// Devoute Beads
+patch=1,EE,104ACF6A,extended,00000001
+
+[Life Beads]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Life Beads
+// Life Beads
+patch=1,EE,104ACF6C,extended,00000001
+
+[Exorcism Beads]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exorcism Beads
+// Exorcism Beads
+patch=1,EE,104ACF6E,extended,00000001
+
+[Resurrection Beads]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Resurrection Beads
+// Resurrection Beads
+patch=1,EE,104ACF70,extended,00000001
+
+[Tundra Beads]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tundra Beads
+// Tundra Beads
+patch=1,EE,104ACF72,extended,00000001
+
+[Tsumugari]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tsumugari
+// Tsumugari
+patch=1,EE,104ACF74,extended,00000001
+
+[Seven Strike]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Seven Strike
+// Seven Strike
+patch=1,EE,104ACF76,extended,00000001
+
+[Blade Of Kusanagi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blade Of Kusanagi
+// Blade Of Kusanagi
+patch=1,EE,104ACF78,extended,00000001
+
+[Eighth Wonder]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Eighth Wonder
+// Eighth Wonder
+patch=1,EE,104ACF7A,extended,00000001
+
+[Thunder Edge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thunder Edge
+// Thunder Edge
+patch=1,EE,104ACF7C,extended,00000001
+
+[Golden Lucky Cat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Golden Lucky Cat
+// Golden Lucky Cat
+patch=1,EE,104AD06A,extended,00000001
+
+[Thief's Glove]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thief's Glove
+// Thief's Glove
+patch=1,EE,104AD06C,extended,00000001
+
+[Wood Mat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wood Mat
+// Wood Mat
+patch=1,EE,104AD06E,extended,00000001
+
+[Golden Ink Pot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Golden Ink Pot
+// Golden Ink Pot
+patch=1,EE,104AD070,extended,00000001
+
+[Water Tablet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Water Tablet
+// Water Tablet
+patch=1,EE,104AD078,extended,00000001
+
+[Fire Tablet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fire Tablet
+// Fire Tablet
+patch=1,EE,104AD07A,extended,00000001
+
+[String Of Beads]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=String Of Beads
+// String Of Beads
+patch=1,EE,104AD0DA,extended,00000001

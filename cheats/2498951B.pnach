@@ -1,0 +1,31 @@
+gametitle=Resident Evil Code Veronica X [UNKNOWN] [2498951B]
+
+[Ampoules]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Ampoules
+// Ampoules
+patch=1,EE,1B5F83BC,extended,000003E7
+
+[First-Aid Kits]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=First-Aid Kits
+// First-Aid Kits
+patch=1,EE,1B5D83BC,extended,000003E7
+
+[Handgun Bullets]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Handgun Bullets
+// Handgun Bullets
+patch=1,EE,1B5583BC,extended,000003E7
+
+[Shotgun Shells]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Shotgun Shells
+// Shotgun Shells
+patch=1,EE,1B5783BC,extended,000003E7
+
+[Shotgun Shells]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Shotgun Shells
+// Shotgun Shells
+patch=1,EE,11D31C1E,extended,000003E7

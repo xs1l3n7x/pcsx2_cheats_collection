@@ -1,0 +1,619 @@
+gametitle=Crash Tag Team Racing [SLUS-21191] [AA525269]
+
+[Have All Collectables]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Collectables
+// Have All Collectables
+patch=1,EE,90497A74,extended,0C13CAF2
+
+[Infinite Coins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Coins
+// Infinite Coins
+patch=1,EE,109D4848,extended,0000FFFF
+
+[Max Coins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Coins
+// Max Coins
+patch=1,EE,209D4848,extended,0098967F
+
+[Have All Power Crystals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Power Crystals
+// Have All Power Crystals
+patch=1,EE,209D484C,extended,0000008E
+
+[Have All Power Crystals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Power Crystals
+// Have All Power Crystals
+patch=1,EE,209D4854,extended,0000008E
+
+[Unlock All Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Movies
+// Unlock All Movies
+patch=1,EE,20102080,extended,24030001
+
+[Unlock All Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Movies
+// Unlock All Movies
+patch=1,EE,20102084,extended,AC430004
+
+[View Game Progress For All Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Game Progress For All Missions
+// View Game Progress For All Missions
+patch=1,EE,20102FF4,extended,AC620020
+
+[View Game Progress For All Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Game Progress For All Missions
+// View Game Progress For All Missions
+patch=1,EE,20102FF8,extended,24020000
+
+[View Game Progress For All Minigames]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Game Progress For All Minigames
+// View Game Progress For All Minigames
+patch=1,EE,200C0220,extended,24020001
+
+[View Game Progress For All Minigames]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Game Progress For All Minigames
+// View Game Progress For All Minigames
+patch=1,EE,200C0224,extended,03E00008
+
+[View Game Progress For All Minigames]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Game Progress For All Minigames
+// View Game Progress For All Minigames
+patch=1,EE,200C0228,extended,AC820088
+
+[View Game Progress For All Minigames]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Game Progress For All Minigames
+// View Game Progress For All Minigames
+patch=1,EE,20115DFC,extended,0C030088
+
+[View Game Progress For All Chicken Challenges]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Game Progress For All Chicken Challenges
+// View Game Progress For All Chicken Challenges
+patch=1,EE,20130EE4,extended,24020001
+
+[View Game Progress For All Chicken Challenges]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Game Progress For All Chicken Challenges
+// View Game Progress For All Chicken Challenges
+patch=1,EE,20130EE8,extended,AC620010
+
+[View Game Progress For All Track Secrets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Game Progress For All Track Secrets
+// View Game Progress For All Track Secrets
+patch=1,EE,201D4DF4,extended,24020001
+
+[View Game Progress For All Track Secrets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Game Progress For All Track Secrets
+// View Game Progress For All Track Secrets
+patch=1,EE,201D4DF8,extended,AC620004
+
+[View Game Progress For All Character Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Game Progress For All Character Outfits
+// View Game Progress For All Character Outfits
+patch=1,EE,200C0230,extended,90830024
+
+[View Game Progress For All Character Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Game Progress For All Character Outfits
+// View Game Progress For All Character Outfits
+patch=1,EE,200C0234,extended,306300BD
+
+[View Game Progress For All Character Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Game Progress For All Character Outfits
+// View Game Progress For All Character Outfits
+patch=1,EE,200C0238,extended,34630005
+
+[View Game Progress For All Character Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Game Progress For All Character Outfits
+// View Game Progress For All Character Outfits
+patch=1,EE,200C023C,extended,A0830024
+
+[View Game Progress For All Character Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Game Progress For All Character Outfits
+// View Game Progress For All Character Outfits
+patch=1,EE,200C0240,extended,0809E958
+
+[View Game Progress For All Character Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Game Progress For All Character Outfits
+// View Game Progress For All Character Outfits
+patch=1,EE,200C0244,extended,8C830024
+
+[View Game Progress For All Character Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Game Progress For All Character Outfits
+// View Game Progress For All Character Outfits
+patch=1,EE,2027A55C,extended,0803008C
+
+[Slot 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1
+// Slot 1
+patch=1,EE,205B20A8,extended,05A863A7
+
+[Slot 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1
+// Slot 1
+patch=1,EE,005B20AC,extended,000000FF
+
+[Slot 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2
+// Slot 2
+patch=1,EE,205B20B0,extended,05A863A7
+
+[Slot 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2
+// Slot 2
+patch=1,EE,005B20B4,extended,000000FF
+
+[Slot 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3
+// Slot 3
+patch=1,EE,205B20B8,extended,05A863A7
+
+[Slot 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3
+// Slot 3
+patch=1,EE,005B20BC,extended,000000FF
+
+[Slot 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4
+// Slot 4
+patch=1,EE,205B20C0,extended,05A863A7
+
+[Slot 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4
+// Slot 4
+patch=1,EE,005B20C4,extended,000000FF
+
+[Slot 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 5
+// Slot 5
+patch=1,EE,205B20C8,extended,05A863A7
+
+[Slot 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 5
+// Slot 5
+patch=1,EE,005B20CC,extended,000000FF
+
+[Slot 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 6
+// Slot 6
+patch=1,EE,205B20D0,extended,05A863A7
+
+[Slot 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 6
+// Slot 6
+patch=1,EE,005B20D4,extended,000000FF
+
+[Slot 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 7
+// Slot 7
+patch=1,EE,205B20D8,extended,05A863A7
+
+[Slot 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 7
+// Slot 7
+patch=1,EE,005B20DC,extended,000000FF
+
+[Slot 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 8
+// Slot 8
+patch=1,EE,205B20E0,extended,05A863A7
+
+[Slot 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 8
+// Slot 8
+patch=1,EE,005B20E4,extended,000000FF
+
+[All Vehicles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Vehicles
+// All Vehicles
+patch=1,EE,405B20A8,extended,00080001
+
+[All Vehicles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Vehicles
+// All Vehicles
+patch=1,EE,05A863A7,extended,00000000
+
+[All Vehicles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Vehicles
+// All Vehicles
+patch=1,EE,405B20AC,extended,00080001
+
+[All Vehicles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Vehicles
+// All Vehicles
+patch=1,EE,000000FF,extended,00000000
+
+[Die-O-Rama 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 1
+// Die-O-Rama 1
+patch=1,EE,205B20F4,extended,00000001
+
+[Die-O-Rama 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 2
+// Die-O-Rama 2
+patch=1,EE,205B2100,extended,00000001
+
+[Die-O-Rama 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 3
+// Die-O-Rama 3
+patch=1,EE,205B210C,extended,00000001
+
+[Die-O-Rama 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 4
+// Die-O-Rama 4
+patch=1,EE,205B2118,extended,00000001
+
+[Die-O-Rama 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 5
+// Die-O-Rama 5
+patch=1,EE,205B2124,extended,00000001
+
+[Die-O-Rama 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 6
+// Die-O-Rama 6
+patch=1,EE,205B2130,extended,00000001
+
+[Die-O-Rama 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 7
+// Die-O-Rama 7
+patch=1,EE,205B213C,extended,00000001
+
+[Die-O-Rama 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 8
+// Die-O-Rama 8
+patch=1,EE,205B2148,extended,00000001
+
+[Die-O-Rama 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 9
+// Die-O-Rama 9
+patch=1,EE,205B2154,extended,00000001
+
+[Die-O-Rama 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 10
+// Die-O-Rama 10
+patch=1,EE,205B2160,extended,00000001
+
+[Die-O-Rama 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 11
+// Die-O-Rama 11
+patch=1,EE,205B216C,extended,00000001
+
+[Die-O-Rama 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 12
+// Die-O-Rama 12
+patch=1,EE,205B2178,extended,00000001
+
+[Die-O-Rama 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 13
+// Die-O-Rama 13
+patch=1,EE,205B2184,extended,00000001
+
+[Die-O-Rama 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 14
+// Die-O-Rama 14
+patch=1,EE,205B2190,extended,00000001
+
+[Die-O-Rama 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 15
+// Die-O-Rama 15
+patch=1,EE,205B219C,extended,00000001
+
+[Die-O-Rama 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 16
+// Die-O-Rama 16
+patch=1,EE,205B21A8,extended,00000001
+
+[Die-O-Rama 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 17
+// Die-O-Rama 17
+patch=1,EE,205B21B4,extended,00000001
+
+[Die-O-Rama 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 18
+// Die-O-Rama 18
+patch=1,EE,205B21C0,extended,00000001
+
+[Die-O-Rama 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 19
+// Die-O-Rama 19
+patch=1,EE,205B21CC,extended,00000001
+
+[Die-O-Rama 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 20
+// Die-O-Rama 20
+patch=1,EE,205B21D8,extended,00000001
+
+[Die-O-Rama 21]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 21
+// Die-O-Rama 21
+patch=1,EE,205B21E4,extended,00000001
+
+[Die-O-Rama 22]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 22
+// Die-O-Rama 22
+patch=1,EE,205B21F0,extended,00000001
+
+[Die-O-Rama 23]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 23
+// Die-O-Rama 23
+patch=1,EE,205B21FC,extended,00000001
+
+[Die-O-Rama 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 24
+// Die-O-Rama 24
+patch=1,EE,205B2208,extended,00000001
+
+[Die-O-Rama 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 25
+// Die-O-Rama 25
+patch=1,EE,205B2214,extended,00000001
+
+[Die-O-Rama 26]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 26
+// Die-O-Rama 26
+patch=1,EE,205B2220,extended,00000001
+
+[Die-O-Rama 27]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 27
+// Die-O-Rama 27
+patch=1,EE,205B222C,extended,00000001
+
+[Die-O-Rama 28]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 28
+// Die-O-Rama 28
+patch=1,EE,205B2238,extended,00000001
+
+[Die-O-Rama 29]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 29
+// Die-O-Rama 29
+patch=1,EE,205B2244,extended,00000001
+
+[Die-O-Rama 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 30
+// Die-O-Rama 30
+patch=1,EE,205B2250,extended,00000001
+
+[Die-O-Rama 31]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 31
+// Die-O-Rama 31
+patch=1,EE,205B225C,extended,00000001
+
+[Die-O-Rama 32]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 32
+// Die-O-Rama 32
+patch=1,EE,205B2268,extended,00000001
+
+[Die-O-Rama 33]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 33
+// Die-O-Rama 33
+patch=1,EE,205B2274,extended,00000001
+
+[Die-O-Rama 34]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Die-O-Rama 34
+// Die-O-Rama 34
+patch=1,EE,205B2280,extended,00000001
+
+[All Die-O-Ramas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Die-O-Ramas
+// All Die-O-Ramas
+patch=1,EE,405B20F4,extended,00220003
+
+[All Die-O-Ramas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Die-O-Ramas
+// All Die-O-Ramas
+patch=1,EE,00000001,extended,00000000
+
+[Arena 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arena 1
+// Arena 1
+patch=1,EE,2060D19C,extended,00000001
+
+[Arena 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arena 2
+// Arena 2
+patch=1,EE,2060D1A0,extended,00000001
+
+[Arena 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arena 3
+// Arena 3
+patch=1,EE,2060D1A4,extended,00000001
+
+[Arena 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arena 4
+// Arena 4
+patch=1,EE,2060D1A8,extended,00000001
+
+[All Arenas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Arenas
+// All Arenas
+patch=1,EE,4060D19C,extended,00040001
+
+[All Arenas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Arenas
+// All Arenas
+patch=1,EE,00000001,extended,00000000
+
+[Track 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Track 1
+// Track 1
+patch=1,EE,2060D1FC,extended,00000001
+
+[Track 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Track 2
+// Track 2
+patch=1,EE,2060D200,extended,00000001
+
+[Track 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Track 3
+// Track 3
+patch=1,EE,2060D204,extended,00000001
+
+[Track 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Track 4
+// Track 4
+patch=1,EE,2060D208,extended,00000001
+
+[Track 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Track 5
+// Track 5
+patch=1,EE,2060D20C,extended,00000001
+
+[Track 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Track 6
+// Track 6
+patch=1,EE,2060D210,extended,00000001
+
+[Track 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Track 7
+// Track 7
+patch=1,EE,2060D214,extended,00000001
+
+[Track 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Track 8
+// Track 8
+patch=1,EE,2060D218,extended,00000001
+
+[Track 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Track 9
+// Track 9
+patch=1,EE,2060D21C,extended,00000001
+
+[Track 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Track 10
+// Track 10
+patch=1,EE,2060D220,extended,00000001
+
+[Track 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Track 11
+// Track 11
+patch=1,EE,2060D224,extended,00000001
+
+[Track 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Track 12
+// Track 12
+patch=1,EE,2060D228,extended,00000001
+
+[Track 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Track 13
+// Track 13
+patch=1,EE,2060D22C,extended,00000001
+
+[Track 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Track 14
+// Track 14
+patch=1,EE,2060D230,extended,00000001
+
+[Track 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Track 15
+// Track 15
+patch=1,EE,2060D234,extended,00000001
+
+[All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Tracks
+// All Tracks
+patch=1,EE,4060D1FC,extended,000F0001
+
+[All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Tracks
+// All Tracks
+patch=1,EE,00000001,extended,00000000

@@ -1,0 +1,73 @@
+gametitle=Flushed Away [SLUS-21484] [8DB76084]
+
+[All Challenges]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Challenges
+// All Challenges
+patch=1,EE,902C5790,extended,00832021
+
+[Max Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health
+// Max Infinite Health
+patch=1,EE,200C0220,extended,3C014120
+
+[Max Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health
+// Max Infinite Health
+patch=1,EE,200C0224,extended,8C6201FC
+
+[Max Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health
+// Max Infinite Health
+patch=1,EE,200C0228,extended,AC410210
+
+[Max Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health
+// Max Infinite Health
+patch=1,EE,200C022C,extended,AC410214
+
+[Max Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health
+// Max Infinite Health
+patch=1,EE,200C0230,extended,080D9571
+
+[Max Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health
+// Max Infinite Health
+patch=1,EE,200C0234,extended,8C620030
+
+[Max Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health
+// Max Infinite Health
+patch=1,EE,203655C0,extended,08030088
+
+[Unlock All Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Missions
+// Unlock All Missions
+patch=1,EE,2053A724,extended,41A00000
+
+[Max Unlockable Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Unlockable Points
+// Max Unlockable Points
+patch=1,EE,2053A748,extended,4CBEBC20
+
+[Unlock All Production Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Production Art
+// Unlock All Production Art
+patch=1,EE,4053A864,extended,000E0001
+
+[Unlock All Production Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Production Art
+// Unlock All Production Art
+patch=1,EE,00000000,extended,00000000

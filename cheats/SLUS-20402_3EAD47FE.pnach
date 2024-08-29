@@ -1,0 +1,19 @@
+gametitle=Britney's Dance Beat [SLUS-20402] [3EAD47FE]
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,902B59A4,extended,0C0B3BAE
+
+[Have All Videos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Videos
+// Have All Videos
+patch=1,EE,10356698,extended,00000006
+
+[Max Total Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Points
+// Max Total Points
+patch=1,EE,10356690,extended,0000270F

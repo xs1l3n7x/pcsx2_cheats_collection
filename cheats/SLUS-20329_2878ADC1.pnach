@@ -1,0 +1,163 @@
+gametitle=Pro Race Driver [SLUS-20329] [2878ADC1]
+
+[P1 Press {R2}+{SELECT} For Ultra Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+{SELECT} For Ultra Speed
+// P1 Press {R2}+{SELECT} For Ultra Speed
+patch=1,EE,9038E83C,extended,0C0DEC8F
+
+[Have All Bonus Codes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bonus Codes
+// Have All Bonus Codes
+patch=1,EE,20429700,extended,FFFFFFFF
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,D042CD04,extended,00000001
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,1042CD04,extended,00000002
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,D042CD04,extended,00000001
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,1042CD04,extended,00000003
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,D042CD04,extended,00000001
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,1042CD04,extended,00000004
+
+[Lap 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 5
+// Lap 5
+patch=1,EE,D042CD04,extended,00000001
+
+[Lap 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 5
+// Lap 5
+patch=1,EE,1042CD04,extended,00000005
+
+[Lap 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 6
+// Lap 6
+patch=1,EE,D042CD04,extended,00000001
+
+[Lap 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 6
+// Lap 6
+patch=1,EE,1042CD04,extended,00000006
+
+[Lap 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 7
+// Lap 7
+patch=1,EE,D042CD04,extended,00000001
+
+[Lap 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 7
+// Lap 7
+patch=1,EE,1042CD04,extended,00000007
+
+[Lap 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 8
+// Lap 8
+patch=1,EE,D042CD04,extended,00000001
+
+[Lap 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 8
+// Lap 8
+patch=1,EE,1042CD04,extended,00000008
+
+[Lap 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 9
+// Lap 9
+patch=1,EE,D042CD04,extended,00000001
+
+[Lap 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 9
+// Lap 9
+patch=1,EE,1042CD04,extended,00000009
+
+[Have All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Cars
+// Have All Cars
+patch=1,EE,00403800,extended,00000001
+
+[Have All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tracks
+// Have All Tracks
+patch=1,EE,0040380B,extended,00000001
+
+[Simulation Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Simulation Mode
+// Simulation Mode
+patch=1,EE,00403816,extended,00000001
+
+[Enhanced Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enhanced Damage
+// Enhanced Damage
+patch=1,EE,00403821,extended,00000001
+
+[Have All Championships]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Championships
+// Have All Championships
+patch=1,EE,0040382C,extended,00000001
+
+[Have All Pro Race Driver Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Pro Race Driver Tracks
+// Have All Pro Race Driver Tracks
+patch=1,EE,00403837,extended,00000001
+
+[Have All Challenges]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Challenges
+// Have All Challenges
+patch=1,EE,00403842,extended,00000001
+
+[No Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Damage
+// No Damage
+patch=1,EE,0040384D,extended,00000001
+
+[View Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Credits
+// View Credits
+patch=1,EE,00403858,extended,00000001

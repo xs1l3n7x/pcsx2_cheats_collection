@@ -1,0 +1,127 @@
+gametitle=Dog's Life [SCES-51248] [531061F2]
+
+[Ancient Machines-Beacon 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ancient Machines-Beacon 5
+// Ancient Machines-Beacon 5
+patch=1,EE,90343704,extended,0C0D2C3A
+
+[Pause Game, Then View Moves For All Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pause Game, Then View Moves For All Moves
+// Pause Game, Then View Moves For All Moves
+patch=1,EE,200C0220,extended,2401FFFF
+
+[Pause Game, Then View Moves For All Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pause Game, Then View Moves For All Moves
+// Pause Game, Then View Moves For All Moves
+patch=1,EE,200C0224,extended,AEC10BB8
+
+[Pause Game, Then View Moves For All Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pause Game, Then View Moves For All Moves
+// Pause Game, Then View Moves For All Moves
+patch=1,EE,200C0228,extended,AEC10BBC
+
+[Pause Game, Then View Moves For All Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pause Game, Then View Moves For All Moves
+// Pause Game, Then View Moves For All Moves
+patch=1,EE,200C022C,extended,03E00008
+
+[Pause Game, Then View Moves For All Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pause Game, Then View Moves For All Moves
+// Pause Game, Then View Moves For All Moves
+patch=1,EE,200C0230,extended,24630160
+
+[Pause Game, Then View Moves For All Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pause Game, Then View Moves For All Moves
+// Pause Game, Then View Moves For All Moves
+patch=1,EE,2014FD90,extended,0C030088
+
+[Current Level Scents Worth 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Current Level Scents Worth 10
+// Current Level Scents Worth 10
+patch=1,EE,10158644,extended,0000000A
+
+[Current Level Scents Worth 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Current Level Scents Worth 5
+// Current Level Scents Worth 5
+patch=1,EE,10158644,extended,00000005
+
+[Current Level Scents Worth 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Current Level Scents Worth 4
+// Current Level Scents Worth 4
+patch=1,EE,10158644,extended,00000004
+
+[Current Level Scents Worth 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Current Level Scents Worth 3
+// Current Level Scents Worth 3
+patch=1,EE,10158644,extended,00000003
+
+[Current Level Scents Worth 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Current Level Scents Worth 2
+// Current Level Scents Worth 2
+patch=1,EE,10158644,extended,00000002
+
+[Current Scents Worth 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Current Scents Worth 10
+// Current Scents Worth 10
+patch=1,EE,1023BFC4,extended,0000000A
+
+[Current Scents Worth 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Current Scents Worth 5
+// Current Scents Worth 5
+patch=1,EE,1023BFC4,extended,00000005
+
+[Current Scents Worth 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Current Scents Worth 4
+// Current Scents Worth 4
+patch=1,EE,1023BFC4,extended,00000004
+
+[Current Scents Worth 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Current Scents Worth 3
+// Current Scents Worth 3
+patch=1,EE,1023BFC4,extended,00000003
+
+[Current Scents Worth 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Current Scents Worth 2
+// Current Scents Worth 2
+patch=1,EE,1023BFC4,extended,00000002
+
+[P1 Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Timer
+// P1 Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,D04AE9C0,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Timer
+// P1 Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,2023C200,extended,00000000
+
+[P1 Press {L2}+{SELECT} To Restart Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Timer
+// P1 Press {L2}+{SELECT} To Restart Timer
+patch=1,EE,D04AE9C0,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Restart Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Timer
+// P1 Press {L2}+{SELECT} To Restart Timer
+patch=1,EE,2023C200,extended,E620000C

@@ -1,0 +1,223 @@
+gametitle=Neo Contra [SLES-52510] [EEE2F6A3]
+
+[Unique-Xmod]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unique-Xmod
+// Unique-Xmod
+patch=1,EE,903633D0,extended,0C0DA7A2
+
+[Infinite Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Credits
+// Infinite Credits
+patch=1,EE,203C831C,extended,00000063
+
+[Infinite Credits Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Credits Usage
+// Infinite Credits Usage
+patch=1,EE,2012F2A4,extended,00000000
+
+[Extra Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Credits
+// Extra Credits
+patch=1,EE,1012F29C,extended,00000001
+
+[Max Hit Rate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Hit Rate
+// Max Hit Rate
+patch=1,EE,203C8304,extended,00000064
+
+[No Lost Remaining Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Lost Remaining Life
+// No Lost Remaining Life
+patch=1,EE,203C830C,extended,00000000
+
+[Always Low Total Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Time
+// Always Low Total Time
+patch=1,EE,203C8314,extended,00000000
+
+[Quick Score Gain P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain P1
+// Quick Score Gain P1
+patch=1,EE,103C83DC,extended,0000FFFF
+
+[Max Score P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P1
+// Max Score P1
+patch=1,EE,203C83DC,extended,0098967F
+
+[Infinite Lives P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives P1
+// Infinite Lives P1
+patch=1,EE,203C83E4,extended,00000064
+
+[Quick Score Gain P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain P2
+// Quick Score Gain P2
+patch=1,EE,103C841C,extended,0000FFFF
+
+[Max Score P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P2
+// Max Score P2
+patch=1,EE,203C841C,extended,0098967F
+
+[Infinite Lives P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives P2
+// Infinite Lives P2
+patch=1,EE,203C8424,extended,00000064
+
+[Infinite Lives (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives (Both Players)
+// Infinite Lives (Both Players)
+patch=1,EE,20130C38,extended,00000000
+
+[Extra Lives (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Lives (Both Players)
+// Extra Lives (Both Players)
+patch=1,EE,10130C34,extended,00000001
+
+[Invincible (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincible (Both Players)
+// Invincible (Both Players)
+patch=1,EE,10156482,extended,00001000
+
+[Unlock All Characters & Etc]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters & Etc
+// Unlock All Characters & Etc
+patch=1,EE,203C8364,extended,FFFFFFFF
+
+[Unlock All Characters & Etc]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters & Etc
+// Unlock All Characters & Etc
+patch=1,EE,203C8368,extended,FFFFFFFF
+
+[Always No Deaths Recorded]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always No Deaths Recorded
+// Always No Deaths Recorded
+patch=1,EE,20130C24,extended,AE000014
+
+[Max # Of Battles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Battles
+// Max # Of Battles
+patch=1,EE,203C8328,extended,0098967F
+
+[No # Of Battles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No # Of Battles
+// No # Of Battles
+patch=1,EE,203C8328,extended,00000000
+
+[Max Total Battle Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Battle Time
+// Max Total Battle Time
+patch=1,EE,203C832C,extended,022550FF
+
+[No Total Battle Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Total Battle Time
+// No Total Battle Time
+patch=1,EE,203C832C,extended,00000000
+
+[Max Shortest Clear Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shortest Clear Time
+// Max Shortest Clear Time
+patch=1,EE,203C8330,extended,022550FF
+
+[No Shortest Clear Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Shortest Clear Time
+// No Shortest Clear Time
+patch=1,EE,203C8330,extended,00000000
+
+[Max Game Clear #]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Game Clear #
+// Max Game Clear #
+patch=1,EE,203C8334,extended,0098967F
+
+[No Game Clear #]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Game Clear #
+// No Game Clear #
+patch=1,EE,203C8334,extended,00000000
+
+[Max Game Over #]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Game Over #
+// Max Game Over #
+patch=1,EE,203C8338,extended,0098967F
+
+[No Game Over #]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Game Over #
+// No Game Over #
+patch=1,EE,203C8338,extended,00000000
+
+[Max Hi Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Hi Score
+// Max Hi Score
+patch=1,EE,203C833C,extended,0098967F
+
+[Mission 01]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 01
+// Mission 01
+patch=1,EE,203C8394,extended,00000000
+
+[Mission 02]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 02
+// Mission 02
+patch=1,EE,203C8398,extended,00000000
+
+[Mission 03]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 03
+// Mission 03
+patch=1,EE,203C839C,extended,00000000
+
+[Mission 04]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 04
+// Mission 04
+patch=1,EE,203C83A0,extended,00000000
+
+[Mission 05]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 05
+// Mission 05
+patch=1,EE,203C83A4,extended,00000000
+
+[All Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Missions
+// All Missions
+patch=1,EE,403C8394,extended,00050001
+
+[All Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Missions
+// All Missions
+patch=1,EE,00000000,extended,00000000

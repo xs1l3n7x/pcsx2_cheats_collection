@@ -1,0 +1,85 @@
+gametitle=Mummy Returns, The [SLES-50510] [B9A54C98]
+
+[All Riders]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Riders
+// All Riders
+patch=1,EE,90220DBC,extended,0C0855A6
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,002CBBB0,extended,00000001
+
+[Infinite Health (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Enemies)
+// Infinite Health (Enemies)
+patch=1,EE,002CBBB1,extended,00000001
+
+[Transparency]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Transparency
+// Transparency
+patch=1,EE,002CBBB2,extended,00000001
+
+[Press {R1}+{R2} To Activate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R1}+{R2} To Activate
+// Press {R1}+{R2} To Activate
+patch=1,EE,D02DE842,extended,0000F5FF
+
+[Press {R1}+{R2} To Activate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R1}+{R2} To Activate
+// Press {R1}+{R2} To Activate
+patch=1,EE,002CBBB3,extended,00000001
+
+[Press {L1}+{L2} To Deactivate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{L2} To Deactivate
+// Press {L1}+{L2} To Deactivate
+patch=1,EE,D02DE842,extended,0000FAFF
+
+[Press {L1}+{L2} To Deactivate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{L2} To Deactivate
+// Press {L1}+{L2} To Deactivate
+patch=1,EE,002CBBB3,extended,00000000
+
+[1-Hit Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Enemies)
+// 1-Hit Death (Enemies)
+patch=1,EE,002CBBB4,extended,00000001
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,002CBBB5,extended,00000001
+
+[Press {L1}+{R1} To Display]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{R1} To Display
+// Press {L1}+{R1} To Display
+patch=1,EE,D02DE842,extended,0000F3FF
+
+[Press {L1}+{R1} To Display]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{R1} To Display
+// Press {L1}+{R1} To Display
+patch=1,EE,002CAA2D,extended,00000001
+
+[Press {L1}+{R2} To Hide]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{R2} To Hide
+// Press {L1}+{R2} To Hide
+patch=1,EE,D02DE842,extended,0000FCFF
+
+[Press {L1}+{R2} To Hide]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{R2} To Hide
+// Press {L1}+{R2} To Hide
+patch=1,EE,002CAA2D,extended,00000000

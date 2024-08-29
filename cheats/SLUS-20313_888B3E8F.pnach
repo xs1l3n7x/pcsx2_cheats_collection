@@ -1,0 +1,79 @@
+gametitle=Wave Rally [SLUS-20313] [888B3E8F]
+
+[All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Weapons
+// All Weapons
+patch=1,EE,902025E4,extended,0C088D42
+
+[Max Race Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Race Points
+// Max Race Points
+patch=1,EE,106658D0,extended,000003E7
+
+[Always Place 1st]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Place 1st
+// Always Place 1st
+patch=1,EE,0066BC70,extended,00000000
+
+[Max Race Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Race Points
+// Max Race Points
+patch=1,EE,D06658D2,extended,00000000
+
+[Max Race Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Race Points
+// Max Race Points
+patch=1,EE,206658D0,extended,000003E7
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,D066BC38,extended,00000000
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,1066BC38,extended,00000001
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,D066BC38,extended,00000000
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,1066BC38,extended,00000002
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,D066BC38,extended,00000000
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,1066BC38,extended,00000003
+
+[Lap 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 5
+// Lap 5
+patch=1,EE,D066BC38,extended,00000000
+
+[Lap 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 5
+// Lap 5
+patch=1,EE,1066BC38,extended,00000004

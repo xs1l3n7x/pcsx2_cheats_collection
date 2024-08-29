@@ -1,0 +1,565 @@
+gametitle=Black [SLES-53886] [ADDFF505]
+
+[Have All Upgrades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upgrades
+// Have All Upgrades
+patch=1,EE,9029C8E8,extended,0C0D7151
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,20294BA0,extended,24020001
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,205A8DA8,extended,44960000
+
+[Infinite Health (Alternate)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Alternate)
+// Infinite Health (Alternate)
+patch=1,EE,200C0220,extended,3C014700
+
+[Infinite Health (Alternate)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Alternate)
+// Infinite Health (Alternate)
+patch=1,EE,200C0224,extended,AE4102F8
+
+[Infinite Health (Alternate)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Alternate)
+// Infinite Health (Alternate)
+patch=1,EE,200C0228,extended,03E00008
+
+[Infinite Health (Alternate)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Alternate)
+// Infinite Health (Alternate)
+patch=1,EE,200C022C,extended,C65402F8
+
+[Infinite Health (Alternate)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Alternate)
+// Infinite Health (Alternate)
+patch=1,EE,2013BC7C,extended,0C030088
+
+[Infinite Health Packs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health Packs
+// Infinite Health Packs
+patch=1,EE,005A9351,extended,00000003
+
+[Infinite Health Packs Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health Packs Usage
+// Infinite Health Packs Usage
+patch=1,EE,2013CBF8,extended,00000000
+
+[Always Max Health Packs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Health Packs
+// Always Max Health Packs
+patch=1,EE,2013CBF4,extended,24040003
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,20155168,extended,00000000
+
+[Max Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo
+// Max Infinite Ammo
+patch=1,EE,2015515C,extended,240303E7
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,2015515C,extended,00661821
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,2015787C,extended,00000000
+
+[Infinite Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Grenades
+// Infinite Grenades
+patch=1,EE,201551BC,extended,00000000
+
+[Extra Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Grenades
+// Extra Grenades
+patch=1,EE,101551B0,extended,00000001
+
+[Max Infinite Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Grenades
+// Max Infinite Grenades
+patch=1,EE,201551B0,extended,24030009
+
+[Fire Effect!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fire Effect!
+// Fire Effect!
+patch=1,EE,201BE0EC,extended,00000000
+
+[Max Enemy Count]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Enemy Count
+// Max Enemy Count
+patch=1,EE,2048F3B0,extended,05F5E0FF
+
+[No Enemy Count]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Enemy Count
+// No Enemy Count
+patch=1,EE,2048F3B0,extended,00000000
+
+[Max Number Of Headshots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Number Of Headshots
+// Max Number Of Headshots
+patch=1,EE,2048F3B4,extended,05F5E0FF
+
+[No Number Of Headshots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Number Of Headshots
+// No Number Of Headshots
+patch=1,EE,2048F3B4,extended,00000000
+
+[Max Total Bullets Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Bullets Fired
+// Max Total Bullets Fired
+patch=1,EE,2048F3B8,extended,05F5E0FF
+
+[No Total Bullets Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Total Bullets Fired
+// No Total Bullets Fired
+patch=1,EE,2048F3B8,extended,00000000
+
+[Always Low Total Game Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Game Time
+// Always Low Total Game Time
+patch=1,EE,2048F4C8,extended,00000000
+
+[Veblensk City Street-Easy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Veblensk City Street-Easy
+// Veblensk City Street-Easy
+patch=1,EE,7048EFC6,extended,00000001
+
+[Treneska Border Crossing-Easy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Treneska Border Crossing-Easy
+// Treneska Border Crossing-Easy
+patch=1,EE,7048EFE6,extended,00000001
+
+[Naszran Town-Easy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Naszran Town-Easy
+// Naszran Town-Easy
+patch=1,EE,7048F006,extended,00000001
+
+[Naszran Foundry-Easy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Naszran Foundry-Easy
+// Naszran Foundry-Easy
+patch=1,EE,7048F026,extended,00000001
+
+[Tivliz Asylum-Easy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tivliz Asylum-Easy
+// Tivliz Asylum-Easy
+patch=1,EE,7048F046,extended,00000001
+
+[Vratska Dockyard-Easy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vratska Dockyard-Easy
+// Vratska Dockyard-Easy
+patch=1,EE,7048F066,extended,00000001
+
+[Graznei Bridge-Easy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Graznei Bridge-Easy
+// Graznei Bridge-Easy
+patch=1,EE,7048F086,extended,00000001
+
+[Spetriniv Gulag-Easy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spetriniv Gulag-Easy
+// Spetriniv Gulag-Easy
+patch=1,EE,7048F0A6,extended,00000001
+
+[Veblensk City Street-Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Veblensk City Street-Normal
+// Veblensk City Street-Normal
+patch=1,EE,7048F0C6,extended,00000001
+
+[Treneska Border Crossing-Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Treneska Border Crossing-Normal
+// Treneska Border Crossing-Normal
+patch=1,EE,7048F0E6,extended,00000001
+
+[Naszran Town-Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Naszran Town-Normal
+// Naszran Town-Normal
+patch=1,EE,7048F106,extended,00000001
+
+[Naszran Foundry-Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Naszran Foundry-Normal
+// Naszran Foundry-Normal
+patch=1,EE,7048F126,extended,00000001
+
+[Tivliz Asylum-Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tivliz Asylum-Normal
+// Tivliz Asylum-Normal
+patch=1,EE,7048F146,extended,00000001
+
+[Vratska Dockyard-Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vratska Dockyard-Normal
+// Vratska Dockyard-Normal
+patch=1,EE,7048F166,extended,00000001
+
+[Graznei Bridge-Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Graznei Bridge-Normal
+// Graznei Bridge-Normal
+patch=1,EE,7048F186,extended,00000001
+
+[Spetriniv Gulag-Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spetriniv Gulag-Normal
+// Spetriniv Gulag-Normal
+patch=1,EE,7048F1A6,extended,00000001
+
+[Veblensk City Street-Hard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Veblensk City Street-Hard
+// Veblensk City Street-Hard
+patch=1,EE,7048F1C6,extended,00000001
+
+[Treneska Border Crossing-Hard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Treneska Border Crossing-Hard
+// Treneska Border Crossing-Hard
+patch=1,EE,7048F1E6,extended,00000001
+
+[Naszran Town-Hard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Naszran Town-Hard
+// Naszran Town-Hard
+patch=1,EE,7048F206,extended,00000001
+
+[Naszran Foundry-Hard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Naszran Foundry-Hard
+// Naszran Foundry-Hard
+patch=1,EE,7048F226,extended,00000001
+
+[Tivliz Asylum-Hard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tivliz Asylum-Hard
+// Tivliz Asylum-Hard
+patch=1,EE,7048F246,extended,00000001
+
+[Vratska Dockyard-Hard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vratska Dockyard-Hard
+// Vratska Dockyard-Hard
+patch=1,EE,7048F266,extended,00000001
+
+[Graznei Bridge-Hard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Graznei Bridge-Hard
+// Graznei Bridge-Hard
+patch=1,EE,7048F286,extended,00000001
+
+[Spetriniv Gulag-Hard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spetriniv Gulag-Hard
+// Spetriniv Gulag-Hard
+patch=1,EE,7048F2A6,extended,00000001
+
+[Veblensk City Street-Black Ops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Veblensk City Street-Black Ops
+// Veblensk City Street-Black Ops
+patch=1,EE,7048F2C6,extended,00000001
+
+[Treneska Border Crossing-Black Ops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Treneska Border Crossing-Black Ops
+// Treneska Border Crossing-Black Ops
+patch=1,EE,7048F2E6,extended,00000001
+
+[Naszran Town-Black Ops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Naszran Town-Black Ops
+// Naszran Town-Black Ops
+patch=1,EE,7048F306,extended,00000001
+
+[Naszran Foundry-Black Ops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Naszran Foundry-Black Ops
+// Naszran Foundry-Black Ops
+patch=1,EE,7048F326,extended,00000001
+
+[Tivliz Asylum-Black Ops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tivliz Asylum-Black Ops
+// Tivliz Asylum-Black Ops
+patch=1,EE,7048F346,extended,00000001
+
+[Vratska Dockyard-Black Ops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vratska Dockyard-Black Ops
+// Vratska Dockyard-Black Ops
+patch=1,EE,7048F366,extended,00000001
+
+[Graznei Bridge-Black Ops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Graznei Bridge-Black Ops
+// Graznei Bridge-Black Ops
+patch=1,EE,7048F386,extended,00000001
+
+[Spetriniv Gulag-Black Ops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spetriniv Gulag-Black Ops
+// Spetriniv Gulag-Black Ops
+patch=1,EE,7048F3A6,extended,00000001
+
+[All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Levels
+// All Levels
+patch=1,EE,4048EFC4,extended,00200008
+
+[All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Levels
+// All Levels
+patch=1,EE,00010000,extended,00000000
+
+[Veblensk City Street-Easy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Veblensk City Street-Easy
+// Veblensk City Street-Easy
+patch=1,EE,2048EFAC,extended,00000001
+
+[Treneska Border Crossing-Easy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Treneska Border Crossing-Easy
+// Treneska Border Crossing-Easy
+patch=1,EE,2048EFCC,extended,00000001
+
+[Naszran Town-Easy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Naszran Town-Easy
+// Naszran Town-Easy
+patch=1,EE,2048EFEC,extended,00000001
+
+[Naszran Foundry-Easy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Naszran Foundry-Easy
+// Naszran Foundry-Easy
+patch=1,EE,2048F00C,extended,00000001
+
+[Tivliz Asylum-Easy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tivliz Asylum-Easy
+// Tivliz Asylum-Easy
+patch=1,EE,2048F02C,extended,00000001
+
+[Vratska Dockyard-Easy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vratska Dockyard-Easy
+// Vratska Dockyard-Easy
+patch=1,EE,2048F04C,extended,00000001
+
+[Graznei Bridge-Easy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Graznei Bridge-Easy
+// Graznei Bridge-Easy
+patch=1,EE,2048F06C,extended,00000001
+
+[Spetriniv Gulag-Easy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spetriniv Gulag-Easy
+// Spetriniv Gulag-Easy
+patch=1,EE,2048F08C,extended,00000001
+
+[Veblensk City Street-Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Veblensk City Street-Normal
+// Veblensk City Street-Normal
+patch=1,EE,2048F0AC,extended,00000001
+
+[Treneska Border Crossing-Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Treneska Border Crossing-Normal
+// Treneska Border Crossing-Normal
+patch=1,EE,2048F0CC,extended,00000001
+
+[Naszran Town-Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Naszran Town-Normal
+// Naszran Town-Normal
+patch=1,EE,2048F0EC,extended,00000001
+
+[Naszran Foundry-Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Naszran Foundry-Normal
+// Naszran Foundry-Normal
+patch=1,EE,2048F10C,extended,00000001
+
+[Tivliz Asylum-Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tivliz Asylum-Normal
+// Tivliz Asylum-Normal
+patch=1,EE,2048F12C,extended,00000001
+
+[Vratska Dockyard-Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vratska Dockyard-Normal
+// Vratska Dockyard-Normal
+patch=1,EE,2048F14C,extended,00000001
+
+[Graznei Bridge-Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Graznei Bridge-Normal
+// Graznei Bridge-Normal
+patch=1,EE,2048F16C,extended,00000001
+
+[Spetriniv Gulag-Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spetriniv Gulag-Normal
+// Spetriniv Gulag-Normal
+patch=1,EE,2048F18C,extended,00000001
+
+[Veblensk City Street-Hard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Veblensk City Street-Hard
+// Veblensk City Street-Hard
+patch=1,EE,2048F1AC,extended,00000001
+
+[Treneska Border Crossing-Hard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Treneska Border Crossing-Hard
+// Treneska Border Crossing-Hard
+patch=1,EE,2048F1CC,extended,00000001
+
+[Naszran Town-Hard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Naszran Town-Hard
+// Naszran Town-Hard
+patch=1,EE,2048F1EC,extended,00000001
+
+[Naszran Foundry-Hard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Naszran Foundry-Hard
+// Naszran Foundry-Hard
+patch=1,EE,2048F20C,extended,00000001
+
+[Tivliz Asylum-Hard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tivliz Asylum-Hard
+// Tivliz Asylum-Hard
+patch=1,EE,2048F22C,extended,00000001
+
+[Vratska Dockyard-Hard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vratska Dockyard-Hard
+// Vratska Dockyard-Hard
+patch=1,EE,2048F24C,extended,00000001
+
+[Graznei Bridge-Hard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Graznei Bridge-Hard
+// Graznei Bridge-Hard
+patch=1,EE,2048F26C,extended,00000001
+
+[Spetriniv Gulag-Hard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spetriniv Gulag-Hard
+// Spetriniv Gulag-Hard
+patch=1,EE,2048F28C,extended,00000001
+
+[Veblensk City Street-Black Ops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Veblensk City Street-Black Ops
+// Veblensk City Street-Black Ops
+patch=1,EE,2048F2AC,extended,00000001
+
+[Treneska Border Crossing-Black Ops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Treneska Border Crossing-Black Ops
+// Treneska Border Crossing-Black Ops
+patch=1,EE,2048F2CC,extended,00000001
+
+[Naszran Town-Black Ops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Naszran Town-Black Ops
+// Naszran Town-Black Ops
+patch=1,EE,2048F2EC,extended,00000001
+
+[Naszran Foundry-Black Ops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Naszran Foundry-Black Ops
+// Naszran Foundry-Black Ops
+patch=1,EE,2048F30C,extended,00000001
+
+[Tivliz Asylum-Black Ops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tivliz Asylum-Black Ops
+// Tivliz Asylum-Black Ops
+patch=1,EE,2048F32C,extended,00000001
+
+[Vratska Dockyard-Black Ops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vratska Dockyard-Black Ops
+// Vratska Dockyard-Black Ops
+patch=1,EE,2048F34C,extended,00000001
+
+[Graznei Bridge-Black Ops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Graznei Bridge-Black Ops
+// Graznei Bridge-Black Ops
+patch=1,EE,2048F36C,extended,00000001
+
+[Spetriniv Gulag-Black Ops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spetriniv Gulag-Black Ops
+// Spetriniv Gulag-Black Ops
+patch=1,EE,2048F38C,extended,00000001
+
+[All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Levels
+// All Levels
+patch=1,EE,4048EFAC,extended,00200008
+
+[All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Levels
+// All Levels
+patch=1,EE,00000001,extended,00000000

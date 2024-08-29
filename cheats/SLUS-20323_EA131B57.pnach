@@ -1,0 +1,343 @@
+gametitle=Virtua Fighter 4 [SLUS-20323] [EA131B57]
+
+[P1 Press {L1}+Down To Disble 1-Hit Deaths (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Disble 1-Hit Deaths (Enemies)
+// P1 Press {L1}+Down To Disble 1-Hit Deaths (Enemies)
+patch=1,EE,902E0AF4,extended,0C0BE111
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,20315E0C,extended,44E10000
+
+[Always Low Overall Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Overall Time
+// Always Low Overall Time
+patch=1,EE,20315E08,extended,00000000
+
+[Have All Training Trial Missions Complete]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Training Trial Missions Complete
+// Have All Training Trial Missions Complete
+patch=1,EE,205EB3B8,extended,FFFFFFFF
+
+[Have All Training Trial Missions Complete]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Training Trial Missions Complete
+// Have All Training Trial Missions Complete
+patch=1,EE,205EB3BC,extended,FFFFFFFF
+
+[Have All Training Trial Missions Complete]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Training Trial Missions Complete
+// Have All Training Trial Missions Complete
+patch=1,EE,205EB3C0,extended,FFFFFFFF
+
+[Start On Final Stage (Arcade Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Final Stage (Arcade Mode)
+// Start On Final Stage (Arcade Mode)
+patch=1,EE,D0315E76,extended,00000000
+
+[Start On Final Stage (Arcade Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Final Stage (Arcade Mode)
+// Start On Final Stage (Arcade Mode)
+patch=1,EE,00315E77,extended,0000000C
+
+[Start On Bonus Stage (Arcade Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Bonus Stage (Arcade Mode)
+// Start On Bonus Stage (Arcade Mode)
+patch=1,EE,D0315E76,extended,00000000
+
+[Start On Bonus Stage (Arcade Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Bonus Stage (Arcade Mode)
+// Start On Bonus Stage (Arcade Mode)
+patch=1,EE,00315E77,extended,0000000D
+
+[Infinite Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1
+// Infinite Health P1
+patch=1,EE,10879C20,extended,000000C9
+
+[No Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P1
+// No Health P1
+patch=1,EE,10879C20,extended,00000000
+
+[75% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P1
+// 75% Health P1
+patch=1,EE,D0879C20,extended,000000C9
+
+[75% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P1
+// 75% Health P1
+patch=1,EE,10879C20,extended,00000096
+
+[50% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P1
+// 50% Health P1
+patch=1,EE,D0879C20,extended,000000C9
+
+[50% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P1
+// 50% Health P1
+patch=1,EE,10879C20,extended,00000064
+
+[25% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P1
+// 25% Health P1
+patch=1,EE,D0879C20,extended,000000C9
+
+[25% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P1
+// 25% Health P1
+patch=1,EE,10879C20,extended,00000032
+
+[1-Hit Death P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P1
+// 1-Hit Death P1
+patch=1,EE,D0879C20,extended,000000C9
+
+[1-Hit Death P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P1
+// 1-Hit Death P1
+patch=1,EE,10879C20,extended,00000001
+
+[P1 Never Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Never Wins
+// P1 Never Wins
+patch=1,EE,00315E68,extended,00000000
+
+[P1 Starts With 1 Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Starts With 1 Win
+// P1 Starts With 1 Win
+patch=1,EE,D0315E68,extended,00000000
+
+[P1 Starts With 1 Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Starts With 1 Win
+// P1 Starts With 1 Win
+patch=1,EE,00315E68,extended,00000001
+
+[P1 Starts With 2 Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Starts With 2 Wins
+// P1 Starts With 2 Wins
+patch=1,EE,D0315E68,extended,00000000
+
+[P1 Starts With 2 Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Starts With 2 Wins
+// P1 Starts With 2 Wins
+patch=1,EE,00315E68,extended,00000002
+
+[P1 Starts With 3 Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Starts With 3 Wins
+// P1 Starts With 3 Wins
+patch=1,EE,D0315E68,extended,00000000
+
+[P1 Starts With 3 Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Starts With 3 Wins
+// P1 Starts With 3 Wins
+patch=1,EE,00315E68,extended,00000003
+
+[P1 Starts With 4 Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Starts With 4 Wins
+// P1 Starts With 4 Wins
+patch=1,EE,D0315E68,extended,00000000
+
+[P1 Starts With 4 Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Starts With 4 Wins
+// P1 Starts With 4 Wins
+patch=1,EE,00315E68,extended,00000004
+
+[P1 Always Dural]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Always Dural
+// P1 Always Dural
+patch=1,EE,0056E190,extended,00000000
+
+[Infinite Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2
+// Infinite Health P2
+patch=1,EE,1087A3C8,extended,000000C9
+
+[No Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P2
+// No Health P2
+patch=1,EE,1087A3C8,extended,00000000
+
+[75% Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P2
+// 75% Health P2
+patch=1,EE,D087A3C8,extended,000000C9
+
+[75% Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P2
+// 75% Health P2
+patch=1,EE,1087A3C8,extended,00000096
+
+[50% Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P2
+// 50% Health P2
+patch=1,EE,D087A3C8,extended,000000C9
+
+[50% Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P2
+// 50% Health P2
+patch=1,EE,1087A3C8,extended,00000064
+
+[25% Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P2
+// 25% Health P2
+patch=1,EE,D087A3C8,extended,000000C9
+
+[25% Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P2
+// 25% Health P2
+patch=1,EE,1087A3C8,extended,00000032
+
+[1-Hit Death P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P2
+// 1-Hit Death P2
+patch=1,EE,D087A3C8,extended,000000C9
+
+[1-Hit Death P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P2
+// 1-Hit Death P2
+patch=1,EE,1087A3C8,extended,00000001
+
+[P2 Never Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Never Wins
+// P2 Never Wins
+patch=1,EE,00315E69,extended,00000000
+
+[P2 Starts With 1 Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Starts With 1 Wins
+// P2 Starts With 1 Wins
+patch=1,EE,D0315E69,extended,00000000
+
+[P2 Starts With 1 Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Starts With 1 Wins
+// P2 Starts With 1 Wins
+patch=1,EE,00315E69,extended,00000001
+
+[P2 Starts With 2 Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Starts With 2 Wins
+// P2 Starts With 2 Wins
+patch=1,EE,D0315E69,extended,00000000
+
+[P2 Starts With 2 Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Starts With 2 Wins
+// P2 Starts With 2 Wins
+patch=1,EE,00315E69,extended,00000002
+
+[P2 Starts With 3 Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Starts With 3 Wins
+// P2 Starts With 3 Wins
+patch=1,EE,D0315E69,extended,00000000
+
+[P2 Starts With 3 Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Starts With 3 Wins
+// P2 Starts With 3 Wins
+patch=1,EE,00315E69,extended,00000003
+
+[P2 Starts With 4 Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Starts With 4 Wins
+// P2 Starts With 4 Wins
+patch=1,EE,D0315E69,extended,00000000
+
+[P2 Starts With 4 Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Starts With 4 Wins
+// P2 Starts With 4 Wins
+patch=1,EE,00315E69,extended,00000004
+
+[P2 Always Dural]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Always Dural
+// P2 Always Dural
+patch=1,EE,0056E191,extended,00000000
+
+[Always Grandmaster Rank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Grandmaster Rank
+// Always Grandmaster Rank
+patch=1,EE,1087869C,extended,0000001A
+
+[Max Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wins
+// Max Wins
+patch=1,EE,108786A0,extended,0000C350
+
+[No Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Wins
+// No Wins
+patch=1,EE,108786A0,extended,00000000
+
+[Max Losses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Losses
+// Max Losses
+patch=1,EE,108786A0,extended,0000C350
+
+[No Losses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Losses
+// No Losses
+patch=1,EE,108786A0,extended,00000000
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,40590A64,extended,00280001
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,00000001,extended,00000000

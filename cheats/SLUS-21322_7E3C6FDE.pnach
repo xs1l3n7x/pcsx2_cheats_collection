@@ -1,0 +1,499 @@
+gametitle=Eragon [SLUS-21322] [7E3C6FDE]
+
+[Hyk 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hyk 100
+// Hyk 100
+patch=1,EE,90117668,extended,00832021
+
+[Hyk 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hyk 100
+// Hyk 100
+patch=1,EE,200C0278,extended,03E00008
+
+[Hyk 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hyk 100
+// Hyk 100
+patch=1,EE,200C027C,extended,8CC70530
+
+[Hyk 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hyk 100
+// Hyk 100
+patch=1,EE,2029FDC0,extended,0C030088
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0220,extended,24010BB8
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0224,extended,ACC10530
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,200C0228,extended,24010BB8
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,200C022C,extended,ACC10534
+
+[Infinite Magic Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Magic Energy
+// Infinite Magic Energy
+patch=1,EE,200C0230,extended,24010BB8
+
+[Infinite Magic Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Magic Energy
+// Infinite Magic Energy
+patch=1,EE,200C0234,extended,ACC10550
+
+[Max Magic Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Magic Energy
+// Max Magic Energy
+patch=1,EE,200C0238,extended,24010BB8
+
+[Max Magic Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Magic Energy
+// Max Magic Energy
+patch=1,EE,200C023C,extended,ACC10554
+
+[Max Team Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Team Meter
+// Max Team Meter
+patch=1,EE,200C0240,extended,3C013F80
+
+[Max Team Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Team Meter
+// Max Team Meter
+patch=1,EE,200C0244,extended,ACC10560
+
+[Unlock All Unlockables]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Unlockables
+// Unlock All Unlockables
+patch=1,EE,203AB9C0,extended,FFFFFFFF
+
+[Have All Unlockables Viewed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Unlockables Viewed
+// Have All Unlockables Viewed
+patch=1,EE,203AB9C4,extended,FFFFFFFF
+
+[The Spin Mountains]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Spin Mountains
+// The Spin Mountains
+patch=1,EE,003AA3C4,extended,00000001
+
+[Carvahall]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Carvahall
+// Carvahall
+patch=1,EE,003AA444,extended,00000001
+
+[Daret Docks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Daret Docks
+// Daret Docks
+patch=1,EE,003AA4C4,extended,00000001
+
+[Daret Town]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Daret Town
+// Daret Town
+patch=1,EE,003AA544,extended,00000001
+
+[Daret Bridge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Daret Bridge
+// Daret Bridge
+patch=1,EE,003AA5C4,extended,00000001
+
+[Ra'Zac Chase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ra'Zac Chase
+// Ra'Zac Chase
+patch=1,EE,003AA644,extended,00000001
+
+[Trapped!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trapped!
+// Trapped!
+patch=1,EE,003AA6C4,extended,00000001
+
+[Gil'Ead City]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gil'Ead City
+// Gil'Ead City
+patch=1,EE,003AA744,extended,00000001
+
+[Gil'Ead Keep]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gil'Ead Keep
+// Gil'Ead Keep
+patch=1,EE,003AA7C4,extended,00000001
+
+[Durza's Fortress]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Durza's Fortress
+// Durza's Fortress
+patch=1,EE,003AA844,extended,00000001
+
+[The Beor Mountains]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Beor Mountains
+// The Beor Mountains
+patch=1,EE,003AA8C4,extended,00000001
+
+[Urgal Encampment]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Urgal Encampment
+// Urgal Encampment
+patch=1,EE,003AA944,extended,00000001
+
+[Misty Gorge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Misty Gorge
+// Misty Gorge
+patch=1,EE,003AA9C4,extended,00000001
+
+[Urgal Attack!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Urgal Attack!
+// Urgal Attack!
+patch=1,EE,003AAAC4,extended,00000001
+
+[Defend The Varden]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Defend The Varden
+// Defend The Varden
+patch=1,EE,003AABC4,extended,00000001
+
+[Final Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Final Battle
+// Final Battle
+patch=1,EE,003AACC4,extended,00000001
+
+[The Throne Room]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Throne Room
+// The Throne Room
+patch=1,EE,003AAD44,extended,00000001
+
+[The Spin Mountains]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Spin Mountains
+// The Spin Mountains
+patch=1,EE,003AA3CC,extended,00000001
+
+[Carvahall]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Carvahall
+// Carvahall
+patch=1,EE,003AA44C,extended,00000001
+
+[Daret Docks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Daret Docks
+// Daret Docks
+patch=1,EE,003AA4CC,extended,00000001
+
+[Daret Town]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Daret Town
+// Daret Town
+patch=1,EE,003AA54C,extended,00000001
+
+[Daret Bridge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Daret Bridge
+// Daret Bridge
+patch=1,EE,003AA5CC,extended,00000001
+
+[Ra'Zac Chase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ra'Zac Chase
+// Ra'Zac Chase
+patch=1,EE,003AA64C,extended,00000001
+
+[Trapped!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trapped!
+// Trapped!
+patch=1,EE,003AA6CC,extended,00000001
+
+[Gil'Ead City]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gil'Ead City
+// Gil'Ead City
+patch=1,EE,003AA74C,extended,00000001
+
+[Gil'Ead Keep]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gil'Ead Keep
+// Gil'Ead Keep
+patch=1,EE,003AA7CC,extended,00000001
+
+[Durza's Fortress]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Durza's Fortress
+// Durza's Fortress
+patch=1,EE,003AA84C,extended,00000001
+
+[The Beor Mountains]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Beor Mountains
+// The Beor Mountains
+patch=1,EE,003AA8CC,extended,00000001
+
+[Urgal Encampment]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Urgal Encampment
+// Urgal Encampment
+patch=1,EE,003AA94C,extended,00000001
+
+[Misty Gorge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Misty Gorge
+// Misty Gorge
+patch=1,EE,003AA9CC,extended,00000001
+
+[Urgal Attack!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Urgal Attack!
+// Urgal Attack!
+patch=1,EE,003AAACC,extended,00000001
+
+[Defend The Varden]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Defend The Varden
+// Defend The Varden
+patch=1,EE,003AABCC,extended,00000001
+
+[Final Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Final Battle
+// Final Battle
+patch=1,EE,003AACCC,extended,00000001
+
+[The Throne Room]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Throne Room
+// The Throne Room
+patch=1,EE,003AAD4C,extended,00000001
+
+[The Spin Mountains]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Spin Mountains
+// The Spin Mountains
+patch=1,EE,003AA3CD,extended,00000001
+
+[Carvahall]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Carvahall
+// Carvahall
+patch=1,EE,003AA44D,extended,00000001
+
+[Daret Docks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Daret Docks
+// Daret Docks
+patch=1,EE,003AA4CD,extended,00000001
+
+[Daret Town]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Daret Town
+// Daret Town
+patch=1,EE,003AA54D,extended,00000001
+
+[Daret Bridge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Daret Bridge
+// Daret Bridge
+patch=1,EE,003AA5CD,extended,00000001
+
+[Ra'Zac Chase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ra'Zac Chase
+// Ra'Zac Chase
+patch=1,EE,003AA64D,extended,00000001
+
+[Trapped!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trapped!
+// Trapped!
+patch=1,EE,003AA6CD,extended,00000001
+
+[Gil'Ead City]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gil'Ead City
+// Gil'Ead City
+patch=1,EE,003AA74D,extended,00000001
+
+[Gil'Ead Keep]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gil'Ead Keep
+// Gil'Ead Keep
+patch=1,EE,003AA7CD,extended,00000001
+
+[Durza's Fortress]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Durza's Fortress
+// Durza's Fortress
+patch=1,EE,003AA84D,extended,00000001
+
+[The Beor Mountains]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Beor Mountains
+// The Beor Mountains
+patch=1,EE,003AA8CD,extended,00000001
+
+[Urgal Encampment]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Urgal Encampment
+// Urgal Encampment
+patch=1,EE,003AA94D,extended,00000001
+
+[Misty Gorge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Misty Gorge
+// Misty Gorge
+patch=1,EE,003AA9CD,extended,00000001
+
+[Urgal Attack!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Urgal Attack!
+// Urgal Attack!
+patch=1,EE,003AAACD,extended,00000001
+
+[Defend The Varden]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Defend The Varden
+// Defend The Varden
+patch=1,EE,003AABCD,extended,00000001
+
+[Final Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Final Battle
+// Final Battle
+patch=1,EE,003AACCD,extended,00000001
+
+[The Spin Mountains]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Spin Mountains
+// The Spin Mountains
+patch=1,EE,003AA3D4,extended,00000002
+
+[Carvahall]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Carvahall
+// Carvahall
+patch=1,EE,003AA454,extended,00000002
+
+[Daret Docks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Daret Docks
+// Daret Docks
+patch=1,EE,003AA4D4,extended,00000002
+
+[Daret Town]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Daret Town
+// Daret Town
+patch=1,EE,003AA554,extended,00000002
+
+[Daret Bridge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Daret Bridge
+// Daret Bridge
+patch=1,EE,003AA5D4,extended,00000002
+
+[Ra'Zac Chase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ra'Zac Chase
+// Ra'Zac Chase
+patch=1,EE,003AA654,extended,00000002
+
+[Trapped!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trapped!
+// Trapped!
+patch=1,EE,003AA6D4,extended,00000002
+
+[Gil'Ead City]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gil'Ead City
+// Gil'Ead City
+patch=1,EE,003AA754,extended,00000002
+
+[Gil'Ead Keep]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gil'Ead Keep
+// Gil'Ead Keep
+patch=1,EE,003AA7D4,extended,00000002
+
+[Durza's Fortress]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Durza's Fortress
+// Durza's Fortress
+patch=1,EE,003AA854,extended,00000002
+
+[The Beor Mountains]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Beor Mountains
+// The Beor Mountains
+patch=1,EE,003AA8D4,extended,00000002
+
+[Urgal Encampment]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Urgal Encampment
+// Urgal Encampment
+patch=1,EE,003AA954,extended,00000002
+
+[Misty Gorge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Misty Gorge
+// Misty Gorge
+patch=1,EE,003AA9D4,extended,00000002
+
+[Urgal Attack!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Urgal Attack!
+// Urgal Attack!
+patch=1,EE,003AAAD4,extended,00000002
+
+[Defend The Varden]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Defend The Varden
+// Defend The Varden
+patch=1,EE,003AABD4,extended,00000002
+
+[Final Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Final Battle
+// Final Battle
+patch=1,EE,003AACD4,extended,00000002
+
+[The Throne Room]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Throne Room
+// The Throne Room
+patch=1,EE,003AAD54,extended,00000002

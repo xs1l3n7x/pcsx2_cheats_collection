@@ -1,0 +1,85 @@
+gametitle=Lego Racers 2 [SLUS-20042] [1B27DB96]
+
+[Luck Stone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Luck Stone
+// Luck Stone
+patch=1,EE,F0200008,extended,002482EF
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,2027D600,extended,03E00008
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,2027D604,extended,00000000
+
+[Access All Worlds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Worlds
+// Access All Worlds
+patch=1,EE,203255C0,extended,03E00008
+
+[Access All Worlds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Worlds
+// Access All Worlds
+patch=1,EE,203255C4,extended,24020001
+
+[Access All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Tracks
+// Access All Tracks
+patch=1,EE,20325610,extended,03E00008
+
+[Access All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Tracks
+// Access All Tracks
+patch=1,EE,20325614,extended,24020001
+
+[Access All Bonus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Bonus
+// Access All Bonus
+patch=1,EE,203256D0,extended,03E00008
+
+[Access All Bonus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Bonus
+// Access All Bonus
+patch=1,EE,203256D4,extended,24020001
+
+[Access All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Cars
+// Access All Cars
+patch=1,EE,203259B0,extended,03E00008
+
+[Access All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Cars
+// Access All Cars
+patch=1,EE,203259B4,extended,24020001
+
+[Have All Tracks & Worlds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tracks & Worlds
+// Have All Tracks & Worlds
+patch=1,EE,20432C28,extended,FFFFFFFF
+
+[Have All Bonus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bonus
+// Have All Bonus
+patch=1,EE,20432C2C,extended,FFFFFFFF
+
+[Have All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Cars
+// Have All Cars
+patch=1,EE,20432C48,extended,FFFFFFFF

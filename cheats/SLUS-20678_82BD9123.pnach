@@ -1,0 +1,985 @@
+gametitle=Unlimited Saga [SLUS-20678] [82BD9123]
+
+[No Misses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Misses
+// No Misses
+patch=1,EE,9071616C,extended,0C1C873A
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,2070A928,extended,24020001
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,10872350,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,20872350,extended,0098967F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,108735D0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,108735D2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,208735D0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,008735D5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,008735D6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,108736D0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,108736D2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,208736D0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,008736D5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,008736D6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,108737D0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,108737D2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,208737D0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,008737D5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,008737D6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,108738D0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,108738D2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,208738D0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,008738D5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,008738D6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,108739D0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,108739D2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,208739D0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,008739D5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,008739D6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,10873AD0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,10873AD2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,20873AD0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,00873AD5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,00873AD6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,10873BD0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,10873BD2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,20873BD0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,00873BD5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,00873BD6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,10873CD0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,10873CD2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,20873CD0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,00873CD5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,00873CD6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,10873DD0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,10873DD2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,20873DD0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,00873DD5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,00873DD6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,10873ED0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,10873ED2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,20873ED0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,00873ED5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,00873ED6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,10873FD0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,10873FD2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,20873FD0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,00873FD5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,00873FD6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,108740D0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,108740D2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,208740D0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,008740D5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,008740D6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,108741D0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,108741D2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,208741D0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,008741D5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,008741D6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,108742D0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,108742D2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,208742D0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,008742D5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,008742D6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,108743D0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,108743D2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,208743D0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,008743D5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,008743D6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,108744D0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,108744D2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,208744D0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,008744D5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,008744D6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,108745D0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,108745D2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,208745D0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,008745D5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,008745D6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,108746D0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,108746D2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,208746D0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,008746D5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,008746D6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,108747D0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,108747D2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,208747D0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,008747D5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,008747D6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,108748D0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,108748D2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,208748D0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,008748D5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,008748D6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,108749D0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,108749D2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,208749D0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,008749D5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,008749D6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,10874AD0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,10874AD2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,20874AD0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,00874AD5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,00874AD6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,10874BD0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,10874BD2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,20874BD0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,00874BD5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,00874BD6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,10874CD0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,10874CD2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,20874CD0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,00874CD5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,00874CD6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,10874DD0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,10874DD2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,20874DD0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,00874DD5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,00874DD6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,10874ED0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,10874ED2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,20874ED0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,00874ED5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,00874ED6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,10874FD0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,10874FD2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,20874FD0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,00874FD5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,00874FD6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,108750D0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,108750D2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,208750D0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,008750D5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,008750D6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,108751D0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,108751D2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,208751D0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,008751D5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,008751D6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,108752D0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,108752D2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,208752D0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,008752D5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,008752D6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,108753D0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,108753D2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,208753D0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,008753D5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,008753D6,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,108754D0,extended,0000270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,108754D2,extended,0000270F
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,208754D0,extended,270F270F
+
+[Infinite LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite LP
+// Infinite LP
+patch=1,EE,008754D5,extended,000000FF
+
+[Max LP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LP
+// Max LP
+patch=1,EE,008754D6,extended,000000FF

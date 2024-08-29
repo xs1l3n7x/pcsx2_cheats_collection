@@ -1,0 +1,523 @@
+gametitle=Bard's Tale, The [SLUS-20803] [E9720D3E]
+
+[Shoreline Trail 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shoreline Trail 3
+// Shoreline Trail 3
+patch=1,EE,9016305C,extended,0C05A216
+
+[Quick Experience Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Experience Gain
+// Quick Experience Gain
+patch=1,EE,105FBF6C,extended,0000FFFF
+
+[Max Experience]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Experience
+// Max Experience
+patch=1,EE,205FBF6C,extended,05F5E0FF
+
+[Infinite Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Silver
+// Infinite Silver
+patch=1,EE,105FBF7C,extended,0000FFFF
+
+[Max Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Silver
+// Max Silver
+patch=1,EE,205FBF7C,extended,05F5E0FF
+
+[Infinite HP (In Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP (In Battle)
+// Infinite HP (In Battle)
+patch=1,EE,201C426C,extended,3C030060
+
+[Infinite HP (In Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP (In Battle)
+// Infinite HP (In Battle)
+patch=1,EE,201C4270,extended,8464C026
+
+[Infinite HP (In Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP (In Battle)
+// Infinite HP (In Battle)
+patch=1,EE,201C4274,extended,44840000
+
+[Infinite HP (In Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP (In Battle)
+// Infinite HP (In Battle)
+patch=1,EE,201C4278,extended,46800020
+
+[Infinite HP (In Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP (In Battle)
+// Infinite HP (In Battle)
+patch=1,EE,201C427C,extended,E6000068
+
+[Infinite Mana Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Mana Usage
+// Infinite Mana Usage
+patch=1,EE,201B7978,extended,00000000
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,105FC024,extended,0000270F
+
+[Max HP (Doesnt Show In Stats)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP (Doesnt Show In Stats)
+// Max HP (Doesnt Show In Stats)
+patch=1,EE,105FC026,extended,0000270F
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,105FC028,extended,00000063
+
+[Max Adderstones]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Adderstones
+// Max Adderstones
+patch=1,EE,105FC02A,extended,0000270F
+
+[Infinite Mana]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Mana
+// Infinite Mana
+patch=1,EE,105FC02C,extended,0000270F
+
+[Max Mana]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mana
+// Max Mana
+patch=1,EE,105FC06C,extended,0000270F
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,005FC0AD,extended,00000063
+
+[Max Vitality]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vitality
+// Max Vitality
+patch=1,EE,005FC0AE,extended,00000063
+
+[Max Luck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Luck
+// Max Luck
+patch=1,EE,005FC0AF,extended,00000063
+
+[Max Dexterity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Dexterity
+// Max Dexterity
+patch=1,EE,005FC0B0,extended,00000063
+
+[Max Charisma]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Charisma
+// Max Charisma
+patch=1,EE,005FC0B1,extended,00000063
+
+[Max Rhythm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rhythm
+// Max Rhythm
+patch=1,EE,005FC0B2,extended,00000063
+
+[Infinite Bonus Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Bonus Points
+// Infinite Bonus Points
+patch=1,EE,005FC0B3,extended,00000063
+
+[Have All Tokens]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tokens
+// Have All Tokens
+patch=1,EE,005FC1CB,extended,000000FF
+
+[Have All Tokens]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tokens
+// Have All Tokens
+patch=1,EE,205FC1CC,extended,FFFFFFFF
+
+[Have All Tunes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tunes
+// Have All Tunes
+patch=1,EE,205FC1D0,extended,FFFFFFFF
+
+[Have All Talents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Talents
+// Have All Talents
+patch=1,EE,205FC1D4,extended,FFFFFFFF
+
+[Start New Game With 50 Bonus Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start New Game With 50 Bonus Points
+// Start New Game With 50 Bonus Points
+patch=1,EE,2019BA14,extended,24030032
+
+[Start New Game With 100 Bonus Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start New Game With 100 Bonus Points
+// Start New Game With 100 Bonus Points
+patch=1,EE,2019BA14,extended,24030064
+
+[Start New Game With 150 Bonus Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start New Game With 150 Bonus Points
+// Start New Game With 150 Bonus Points
+patch=1,EE,2019BA14,extended,24030096
+
+[Start New Game With 200 Bonus Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start New Game With 200 Bonus Points
+// Start New Game With 200 Bonus Points
+patch=1,EE,2019BA14,extended,240300C8
+
+[Start New Game With 250 Bonus Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start New Game With 250 Bonus Points
+// Start New Game With 250 Bonus Points
+patch=1,EE,2019BA14,extended,240300FA
+
+[Can Choose New Talent On Each Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Can Choose New Talent On Each Level Up
+// Can Choose New Talent On Each Level Up
+patch=1,EE,2019E338,extended,24020001
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,201DE848,extended,248403E7
+
+[Super Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Quick Exp Gain
+// Super Quick Exp Gain
+patch=1,EE,201DE848,extended,2484270F
+
+[Hella Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hella Quick Exp Gain
+// Hella Quick Exp Gain
+patch=1,EE,201DE848,extended,24847FFF
+
+[Max Level After 1 Kill]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Level After 1 Kill
+// Max Level After 1 Kill
+patch=1,EE,201DE848,extended,3C040050
+
+[Sword]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword
+// Sword
+patch=1,EE,005FC0C2,extended,00000001
+
+[Broadsword]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Broadsword
+// Broadsword
+patch=1,EE,005FC0C2,extended,00000002
+
+[Caladbolg]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Caladbolg
+// Caladbolg
+patch=1,EE,005FC0C2,extended,00000003
+
+[Quicksilver Broadsword]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quicksilver Broadsword
+// Quicksilver Broadsword
+patch=1,EE,005FC0C2,extended,00000004
+
+[Casgair]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Casgair
+// Casgair
+patch=1,EE,005FC0C2,extended,00000005
+
+[Ravensteel Broadsword]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ravensteel Broadsword
+// Ravensteel Broadsword
+patch=1,EE,005FC0C2,extended,00000006
+
+[Flail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flail
+// Flail
+patch=1,EE,005FC0C3,extended,00000001
+
+[Crannderg]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crannderg
+// Crannderg
+patch=1,EE,005FC0C3,extended,00000002
+
+[Granite Flai]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Granite Flai
+// Granite Flai
+patch=1,EE,005FC0C3,extended,00000003
+
+[Onyx Flail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Onyx Flail
+// Onyx Flail
+patch=1,EE,005FC0C3,extended,00000004
+
+[Balor's Eye]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Balor's Eye
+// Balor's Eye
+patch=1,EE,005FC0C3,extended,00000005
+
+[Dirk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dirk
+// Dirk
+patch=1,EE,005FC0C4,extended,00000001
+
+[Silver Dirk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver Dirk
+// Silver Dirk
+patch=1,EE,005FC0C4,extended,00000002
+
+[Vipersteel Dirk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vipersteel Dirk
+// Vipersteel Dirk
+patch=1,EE,005FC0C4,extended,00000003
+
+[Basluath]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Basluath
+// Basluath
+patch=1,EE,005FC0C4,extended,00000004
+
+[Claymore]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Claymore
+// Claymore
+patch=1,EE,005FC0C4,extended,00000001
+
+[Claidbeamh Soluis]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Claidbeamh Soluis
+// Claidbeamh Soluis
+patch=1,EE,005FC0C4,extended,00000002
+
+[Lochaber Axe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lochaber Axe
+// Lochaber Axe
+patch=1,EE,005FC0C4,extended,00000003
+
+[Frecraid]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Frecraid
+// Frecraid
+patch=1,EE,005FC0C4,extended,00000004
+
+[Longbow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Longbow
+// Longbow
+patch=1,EE,005FC0C5,extended,00000001
+
+[Great Bow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Bow
+// Great Bow
+patch=1,EE,005FC0C5,extended,00000002
+
+[Glaisne]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Glaisne
+// Glaisne
+patch=1,EE,005FC0C5,extended,00000003
+
+[Elderwood Bow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elderwood Bow
+// Elderwood Bow
+patch=1,EE,005FC0C5,extended,00000004
+
+[Blackthorn Bow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blackthorn Bow
+// Blackthorn Bow
+patch=1,EE,005FC0C5,extended,00000005
+
+[Blackthorn Great Bow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blackthorn Great Bow
+// Blackthorn Great Bow
+patch=1,EE,005FC0C5,extended,00000006
+
+[Bow Of Bile Dathi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bow Of Bile Dathi
+// Bow Of Bile Dathi
+patch=1,EE,005FC0C5,extended,00000007
+
+[Ddraig Goch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ddraig Goch
+// Ddraig Goch
+patch=1,EE,005FC0C5,extended,00000008
+
+[Padden Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Padden Armor
+// Padden Armor
+patch=1,EE,005FC0C6,extended,00000001
+
+[Leather Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Leather Armor
+// Leather Armor
+patch=1,EE,005FC0C6,extended,00000002
+
+[Studded Leather]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Studded Leather
+// Studded Leather
+patch=1,EE,005FC0C6,extended,00000003
+
+[Oak Leaf Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Oak Leaf Armor
+// Oak Leaf Armor
+patch=1,EE,005FC0C6,extended,00000004
+
+[Chainmail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chainmail
+// Chainmail
+patch=1,EE,005FC0C6,extended,00000005
+
+[Scalemail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scalemail
+// Scalemail
+patch=1,EE,005FC0C6,extended,00000006
+
+[Scathach's Mail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scathach's Mail
+// Scathach's Mail
+patch=1,EE,005FC0C6,extended,00000007
+
+[White Bronze Chain Mail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=White Bronze Chain Mail
+// White Bronze Chain Mail
+patch=1,EE,005FC0C6,extended,00000008
+
+[White Bronze Scale Mail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=White Bronze Scale Mail
+// White Bronze Scale Mail
+patch=1,EE,005FC0C6,extended,00000009
+
+[Armor Of Lhr]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armor Of Lhr
+// Armor Of Lhr
+patch=1,EE,005FC0C6,extended,0000000A
+
+[Lute]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lute
+// Lute
+patch=1,EE,005FC0C7,extended,00000001
+
+[Harp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Harp
+// Harp
+patch=1,EE,005FC0C7,extended,00000002
+
+[Ornate Lute]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ornate Lute
+// Ornate Lute
+patch=1,EE,005FC0C7,extended,00000003
+
+[Jeweled Flute]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jeweled Flute
+// Jeweled Flute
+patch=1,EE,005FC0C7,extended,00000004
+
+[Silver Harp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver Harp
+// Silver Harp
+patch=1,EE,005FC0C7,extended,00000005
+
+[Shadow Axe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shadow Axe
+// Shadow Axe
+patch=1,EE,005FC0C7,extended,00000006
+
+[Finn's Lute]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Finn's Lute
+// Finn's Lute
+patch=1,EE,005FC0C7,extended,00000007
+
+[Ancient Flute]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ancient Flute
+// Ancient Flute
+patch=1,EE,005FC0C7,extended,00000008
+
+[Ego Sword]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ego Sword
+// Ego Sword
+patch=1,EE,005FC0C7,extended,00000009
+
+[Harp Of Ages]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Harp Of Ages
+// Harp Of Ages
+patch=1,EE,005FC0C7,extended,0000000A
+
+[Gnimb's Flute]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gnimb's Flute
+// Gnimb's Flute
+patch=1,EE,005FC0C7,extended,0000000B
+
+[Ossian's Lute]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ossian's Lute
+// Ossian's Lute
+patch=1,EE,005FC0C7,extended,0000000C

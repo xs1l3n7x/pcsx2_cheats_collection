@@ -1,0 +1,199 @@
+gametitle=Malice [SLES-52413] [723766CC]
+
+[Skill 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 25
+// Skill 25
+patch=1,EE,9025634C,extended,0C09A967
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,20259290,extended,24020001
+
+[Infinite Hearts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Hearts
+// Infinite Hearts
+patch=1,EE,203E6190,extended,41C80000
+
+[Max Hearts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Hearts
+// Max Hearts
+patch=1,EE,203E6198,extended,41C80000
+
+[Max Logic Keys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Logic Keys
+// Max Logic Keys
+patch=1,EE,200C0230,extended,3C014100
+
+[Max Logic Keys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Logic Keys
+// Max Logic Keys
+patch=1,EE,200C0234,extended,AC410000
+
+[Max Logic Keys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Logic Keys
+// Max Logic Keys
+patch=1,EE,200C0238,extended,080477C8
+
+[Max Logic Keys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Logic Keys
+// Max Logic Keys
+patch=1,EE,200C023C,extended,C4400000
+
+[Max Logic Keys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Logic Keys
+// Max Logic Keys
+patch=1,EE,2011DF1C,extended,0803008C
+
+[Max Crystal Heartpots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Crystal Heartpots
+// Max Crystal Heartpots
+patch=1,EE,200C0240,extended,3C0142C8
+
+[Max Crystal Heartpots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Crystal Heartpots
+// Max Crystal Heartpots
+patch=1,EE,200C0244,extended,AC410000
+
+[Max Crystal Heartpots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Crystal Heartpots
+// Max Crystal Heartpots
+patch=1,EE,200C0248,extended,080477D3
+
+[Max Crystal Heartpots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Crystal Heartpots
+// Max Crystal Heartpots
+patch=1,EE,200C024C,extended,C4400000
+
+[Max Crystal Heartpots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Crystal Heartpots
+// Max Crystal Heartpots
+patch=1,EE,2011DF48,extended,08030090
+
+[God Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=God Mode
+// God Mode
+patch=1,EE,203964D0,extended,00000001
+
+[Debug Profile On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Debug Profile On
+// Debug Profile On
+patch=1,EE,2039E098,extended,00000001
+
+[Disable VU Shadows]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable VU Shadows
+// Disable VU Shadows
+patch=1,EE,2039E114,extended,00000000
+
+[Enable Hide All Overlays]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enable Hide All Overlays
+// Enable Hide All Overlays
+patch=1,EE,2039E16C,extended,00000001
+
+[Disable Mouth Animation]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Mouth Animation
+// Disable Mouth Animation
+patch=1,EE,2039E188,extended,00000000
+
+[Unlock All Bonus Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Bonus Items
+// Unlock All Bonus Items
+patch=1,EE,203CC410,extended,FFFFFFFF
+
+[Have Boost Magic & Nuke Magic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Boost Magic & Nuke Magic
+// Have Boost Magic & Nuke Magic
+patch=1,EE,203E5D4C,extended,40000000
+
+[Have Speed Magic & Slow Magic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Speed Magic & Slow Magic
+// Have Speed Magic & Slow Magic
+patch=1,EE,203E5D54,extended,40000000
+
+[Have Bullet Shield Magic & Damage Shield Magic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Bullet Shield Magic & Damage Shield Magic
+// Have Bullet Shield Magic & Damage Shield Magic
+patch=1,EE,203E5EFC,extended,40000000
+
+[Have Glide Magic & Health Regen Magic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Glide Magic & Health Regen Magic
+// Have Glide Magic & Health Regen Magic
+patch=1,EE,203E5F00,extended,40000000
+
+[Infinite Magic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Magic
+// Infinite Magic
+patch=1,EE,203E6024,extended,42C80000
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,200C0220,extended,3C013D80
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,200C0224,extended,ACA10000
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,200C0228,extended,08051EC2
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,200C022C,extended,C4A10000
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,D03CDA02,extended,0000BFFF
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,20147B00,extended,08030088
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,D03CDA02,extended,0000FFFF
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,20147B00,extended,C4A10000

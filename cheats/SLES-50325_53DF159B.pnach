@@ -1,0 +1,67 @@
+gametitle=Max Payne [SLES-50325] [53DF159B]
+
+[This Is My World]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=This Is My World
+// This Is My World
+patch=1,EE,9012398C,extended,0C040BF6
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,2036F2CC,extended,00000000
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,1036F2C8,extended,00000001
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,203B0160,extended,3C0242F0
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,203B0164,extended,AC82008C
+
+[Infinite Bullet Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Bullet Time
+// Infinite Bullet Time
+patch=1,EE,20163A00,extended,00000000
+
+[Infinite Bullet Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Bullet Time
+// Infinite Bullet Time
+patch=1,EE,20163DB8,extended,00000000
+
+[Access All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Levels
+// Access All Levels
+patch=1,EE,1014DA12,extended,00001000
+
+[Access All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Levels
+// Access All Levels
+patch=1,EE,102D93EA,extended,00001000
+
+[Access All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Levels
+// Access All Levels
+patch=1,EE,102D9332,extended,00001000
+
+[Access All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Levels
+// Access All Levels
+patch=1,EE,102D9BBA,extended,00001000

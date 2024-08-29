@@ -1,0 +1,877 @@
+gametitle=Nascar 2007 [SLUS-21461] [FB0EB42B]
+
+[Slot 150]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 150
+// Slot 150
+patch=1,EE,90395144,extended,0C0C0C32
+
+[Infinite Tire Wear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Tire Wear
+// Infinite Tire Wear
+patch=1,EE,201547A8,extended,00000000
+
+[Infinite Fuel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Fuel
+// Infinite Fuel
+patch=1,EE,201626B8,extended,00000000
+
+[Cars Take No Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cars Take No Damage
+// Cars Take No Damage
+patch=1,EE,201C9FA8,extended,03E00008
+
+[Cars Take No Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cars Take No Damage
+// Cars Take No Damage
+patch=1,EE,201C9FAC,extended,00000000
+
+[Total Laps Always 500]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps Always 500
+// Total Laps Always 500
+patch=1,EE,105A9D96,extended,000001F4
+
+[Total Laps Always 250]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps Always 250
+// Total Laps Always 250
+patch=1,EE,105A9D96,extended,000000FA
+
+[Total Laps Always 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps Always 100
+// Total Laps Always 100
+patch=1,EE,105A9D96,extended,00000064
+
+[Total Laps Always 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps Always 50
+// Total Laps Always 50
+patch=1,EE,105A9D96,extended,00000032
+
+[Total Laps Always 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps Always 20
+// Total Laps Always 20
+patch=1,EE,105A9D96,extended,00000014
+
+[Total Laps Always 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps Always 10
+// Total Laps Always 10
+patch=1,EE,105A9D96,extended,0000000A
+
+[Total Laps Always 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps Always 5
+// Total Laps Always 5
+patch=1,EE,105A9D96,extended,00000005
+
+[Total Laps Always 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps Always 2
+// Total Laps Always 2
+patch=1,EE,105A9D96,extended,00000002
+
+[Total Laps Always 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps Always 1
+// Total Laps Always 1
+patch=1,EE,105A9D96,extended,00000001
+
+[Start On Lap 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 100
+// Start On Lap 100
+patch=1,EE,D058EEE4,extended,00000000
+
+[Start On Lap 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 100
+// Start On Lap 100
+patch=1,EE,1058EEE4,extended,00000064
+
+[Start On Lap 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 50
+// Start On Lap 50
+patch=1,EE,D058EEE4,extended,00000000
+
+[Start On Lap 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 50
+// Start On Lap 50
+patch=1,EE,1058EEE4,extended,00000032
+
+[Start On Lap 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 25
+// Start On Lap 25
+patch=1,EE,D058EEE4,extended,00000000
+
+[Start On Lap 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 25
+// Start On Lap 25
+patch=1,EE,1058EEE4,extended,00000019
+
+[Start On Lap 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 10
+// Start On Lap 10
+patch=1,EE,D058EEE4,extended,00000000
+
+[Start On Lap 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 10
+// Start On Lap 10
+patch=1,EE,1058EEE4,extended,0000000A
+
+[Start On Lap 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 5
+// Start On Lap 5
+patch=1,EE,D058EEE4,extended,00000000
+
+[Start On Lap 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 5
+// Start On Lap 5
+patch=1,EE,1058EEE4,extended,00000005
+
+[Start On Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 4
+// Start On Lap 4
+patch=1,EE,D058EEE4,extended,00000000
+
+[Start On Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 4
+// Start On Lap 4
+patch=1,EE,1058EEE4,extended,00000004
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,D058EEE4,extended,00000000
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,1058EEE4,extended,00000003
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,D058EEE4,extended,00000000
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,1058EEE4,extended,00000002
+
+[Start On Last Lap (10 Lap Race)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Last Lap (10 Lap Race)
+// Start On Last Lap (10 Lap Race)
+patch=1,EE,105A9D96,extended,0000000A
+
+[Start On Last Lap (10 Lap Race)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Last Lap (10 Lap Race)
+// Start On Last Lap (10 Lap Race)
+patch=1,EE,D058EEE4,extended,00000000
+
+[Start On Last Lap (10 Lap Race)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Last Lap (10 Lap Race)
+// Start On Last Lap (10 Lap Race)
+patch=1,EE,1058EEE4,extended,00000009
+
+[Infinite Available Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Available Skill Points
+// Infinite Available Skill Points
+patch=1,EE,11FD0EC0,extended,0000FFFF
+
+[Max Available Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Available Skill Points
+// Max Available Skill Points
+patch=1,EE,21FD0EC0,extended,05F5E0FF
+
+[Max Skill Points Earned]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points Earned
+// Max Skill Points Earned
+patch=1,EE,21FD0EFC,extended,05F5E0FF
+
+[Skill Points Dont Decrease When Buying Plates]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill Points Dont Decrease When Buying Plates
+// Skill Points Dont Decrease When Buying Plates
+patch=1,EE,202560B8,extended,24620000
+
+[Skill Points Increase When Buying Plates]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill Points Increase When Buying Plates
+// Skill Points Increase When Buying Plates
+patch=1,EE,202560B8,extended,00701021
+
+[Challenges Never Have Fail Stipulations]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Challenges Never Have Fail Stipulations
+// Challenges Never Have Fail Stipulations
+patch=1,EE,201E3630,extended,03E00008
+
+[Challenges Never Have Fail Stipulations]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Challenges Never Have Fail Stipulations
+// Challenges Never Have Fail Stipulations
+patch=1,EE,201E3634,extended,00000000
+
+[Never Fail Challenges]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Fail Challenges
+// Never Fail Challenges
+patch=1,EE,102339DA,extended,00001000
+
+[Activation Code (Must Be On)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Must Be On)
+// Activation Code (Must Be On)
+patch=1,EE,21FDA6D4,extended,00000068
+
+[Plate 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 1
+// Plate 1
+patch=1,EE,21FDA730,extended,00010190
+
+[Plate 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 2
+// Plate 2
+patch=1,EE,21FDA738,extended,00010191
+
+[Plate 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 3
+// Plate 3
+patch=1,EE,21FDA740,extended,00010192
+
+[Plate 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 4
+// Plate 4
+patch=1,EE,21FDA748,extended,00010193
+
+[Plate 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 5
+// Plate 5
+patch=1,EE,21FDA750,extended,00010194
+
+[Plate 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 6
+// Plate 6
+patch=1,EE,21FDA758,extended,00010195
+
+[Plate 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 7
+// Plate 7
+patch=1,EE,21FDA760,extended,00010196
+
+[Plate 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 8
+// Plate 8
+patch=1,EE,21FDA768,extended,00010197
+
+[Plate 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 9
+// Plate 9
+patch=1,EE,21FDA770,extended,00010198
+
+[Plate 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 10
+// Plate 10
+patch=1,EE,21FDA778,extended,00010199
+
+[Plate 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 11
+// Plate 11
+patch=1,EE,21FDA780,extended,0001019A
+
+[Plate 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 12
+// Plate 12
+patch=1,EE,21FDA788,extended,0001019B
+
+[Plate 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 13
+// Plate 13
+patch=1,EE,21FDA790,extended,0001019C
+
+[Plate 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 14
+// Plate 14
+patch=1,EE,21FDA798,extended,0001019D
+
+[Plate 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 15
+// Plate 15
+patch=1,EE,21FDA7A0,extended,0001019E
+
+[Plate 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 16
+// Plate 16
+patch=1,EE,21FDA7A8,extended,0001019F
+
+[Plate 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 17
+// Plate 17
+patch=1,EE,21FDA7B0,extended,000101A4
+
+[Plate 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 18
+// Plate 18
+patch=1,EE,21FDA7B8,extended,000101A5
+
+[Plate 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 19
+// Plate 19
+patch=1,EE,21FDA7C0,extended,000101A6
+
+[Plate 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 20
+// Plate 20
+patch=1,EE,21FDA7C8,extended,000101A7
+
+[Plate 21]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 21
+// Plate 21
+patch=1,EE,21FDA7D0,extended,000101A8
+
+[Plate 22]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 22
+// Plate 22
+patch=1,EE,21FDA7D8,extended,000101A9
+
+[Plate 23]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 23
+// Plate 23
+patch=1,EE,21FDA7E0,extended,00010258
+
+[Plate 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 24
+// Plate 24
+patch=1,EE,21FDA7E8,extended,00010259
+
+[Plate 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 25
+// Plate 25
+patch=1,EE,21FDA7F0,extended,0001025B
+
+[Plate 26]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 26
+// Plate 26
+patch=1,EE,21FDA7F8,extended,0001025C
+
+[Plate 27]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 27
+// Plate 27
+patch=1,EE,21FDA800,extended,0001025D
+
+[Plate 28]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 28
+// Plate 28
+patch=1,EE,21FDA808,extended,0001025E
+
+[Plate 29]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 29
+// Plate 29
+patch=1,EE,21FDA810,extended,0001025F
+
+[Plate 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 30
+// Plate 30
+patch=1,EE,21FDA818,extended,00010261
+
+[Plate 31]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 31
+// Plate 31
+patch=1,EE,21FDA820,extended,00010262
+
+[Plate 32]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 32
+// Plate 32
+patch=1,EE,21FDA828,extended,00010264
+
+[Plate 33]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 33
+// Plate 33
+patch=1,EE,21FDA830,extended,00010265
+
+[Plate 34]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 34
+// Plate 34
+patch=1,EE,21FDA838,extended,00010268
+
+[Plate 35]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 35
+// Plate 35
+patch=1,EE,21FDA840,extended,00010269
+
+[Plate 36]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 36
+// Plate 36
+patch=1,EE,21FDA848,extended,0001026A
+
+[Plate 37]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 37
+// Plate 37
+patch=1,EE,21FDA850,extended,0001026C
+
+[Plate 38]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 38
+// Plate 38
+patch=1,EE,21FDA858,extended,0001026D
+
+[Plate 39]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 39
+// Plate 39
+patch=1,EE,21FDA860,extended,0001026E
+
+[Plate 40]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 40
+// Plate 40
+patch=1,EE,21FDA868,extended,0001026F
+
+[Plate 41]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 41
+// Plate 41
+patch=1,EE,21FDA870,extended,00010270
+
+[Plate 42]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 42
+// Plate 42
+patch=1,EE,21FDA878,extended,00010271
+
+[Plate 43]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 43
+// Plate 43
+patch=1,EE,21FDA880,extended,00010277
+
+[Plate 44]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 44
+// Plate 44
+patch=1,EE,21FDA888,extended,00010278
+
+[Plate 45]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 45
+// Plate 45
+patch=1,EE,21FDA890,extended,00010279
+
+[Plate 46]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 46
+// Plate 46
+patch=1,EE,21FDA898,extended,0001027A
+
+[Plate 47]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 47
+// Plate 47
+patch=1,EE,21FDA8A0,extended,0001027B
+
+[Plate 48]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 48
+// Plate 48
+patch=1,EE,21FDA8A8,extended,0001027C
+
+[Plate 49]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 49
+// Plate 49
+patch=1,EE,21FDA8B0,extended,0001027D
+
+[Plate 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 50
+// Plate 50
+patch=1,EE,21FDA8B8,extended,0001027E
+
+[Plate 51]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 51
+// Plate 51
+patch=1,EE,21FDA8C0,extended,0001027F
+
+[Plate 52]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 52
+// Plate 52
+patch=1,EE,21FDA8C8,extended,000102D6
+
+[Plate 53]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 53
+// Plate 53
+patch=1,EE,21FDA8D0,extended,000102DB
+
+[Plate 54]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 54
+// Plate 54
+patch=1,EE,21FDA8D8,extended,00010320
+
+[Plate 55]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 55
+// Plate 55
+patch=1,EE,21FDA8E0,extended,00010321
+
+[Plate 56]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 56
+// Plate 56
+patch=1,EE,21FDA8E8,extended,00010323
+
+[Plate 57]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 57
+// Plate 57
+patch=1,EE,21FDA8F0,extended,0001032A
+
+[Plate 58]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 58
+// Plate 58
+patch=1,EE,21FDA8F8,extended,0001032F
+
+[Plate 59]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 59
+// Plate 59
+patch=1,EE,21FDA900,extended,00010330
+
+[Plate 60]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 60
+// Plate 60
+patch=1,EE,21FDA908,extended,00010331
+
+[Plate 61]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 61
+// Plate 61
+patch=1,EE,21FDA910,extended,00010332
+
+[Plate 62]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 62
+// Plate 62
+patch=1,EE,21FDA918,extended,00010333
+
+[Plate 63]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 63
+// Plate 63
+patch=1,EE,21FDA920,extended,0001033C
+
+[Plate 64]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 64
+// Plate 64
+patch=1,EE,21FDA928,extended,0001033D
+
+[Plate 65]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 65
+// Plate 65
+patch=1,EE,21FDA930,extended,0001033E
+
+[Plate 66]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 66
+// Plate 66
+patch=1,EE,21FDA938,extended,000102B2
+
+[Plate 67]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 67
+// Plate 67
+patch=1,EE,21FDA940,extended,000102CC
+
+[Plate 68]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 68
+// Plate 68
+patch=1,EE,21FDA948,extended,000102CE
+
+[Plate 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 69
+// Plate 69
+patch=1,EE,21FDA950,extended,000102CF
+
+[Plate 70]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 70
+// Plate 70
+patch=1,EE,21FDA958,extended,000102D0
+
+[Plate 71]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 71
+// Plate 71
+patch=1,EE,21FDA960,extended,000102D1
+
+[Plate 72]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 72
+// Plate 72
+patch=1,EE,21FDA968,extended,000102D2
+
+[Plate 73]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 73
+// Plate 73
+patch=1,EE,21FDA970,extended,000102D3
+
+[Plate 74]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 74
+// Plate 74
+patch=1,EE,21FDA978,extended,000102D4
+
+[Plate 75]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 75
+// Plate 75
+patch=1,EE,21FDA980,extended,000102D5
+
+[Plate 76]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 76
+// Plate 76
+patch=1,EE,21FDA988,extended,000102E4
+
+[Plate 77]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 77
+// Plate 77
+patch=1,EE,21FDA990,extended,000102E5
+
+[Plate 78]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 78
+// Plate 78
+patch=1,EE,21FDA998,extended,000102E6
+
+[Plate 79]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 79
+// Plate 79
+patch=1,EE,21FDA9A0,extended,000102E7
+
+[Plate 80]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 80
+// Plate 80
+patch=1,EE,21FDA9A8,extended,000102F8
+
+[Plate 81]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 81
+// Plate 81
+patch=1,EE,21FDA9B0,extended,000102F9
+
+[Plate 82]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 82
+// Plate 82
+patch=1,EE,21FDA9B8,extended,000102FA
+
+[Plate 83]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 83
+// Plate 83
+patch=1,EE,21FDA9C0,extended,000102FB
+
+[Plate 84]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 84
+// Plate 84
+patch=1,EE,21FDA9C8,extended,000102FC
+
+[Plate 85]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 85
+// Plate 85
+patch=1,EE,21FDA9D0,extended,000102FD
+
+[Plate 86]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 86
+// Plate 86
+patch=1,EE,21FDA9D8,extended,000102FE
+
+[Plate 87]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 87
+// Plate 87
+patch=1,EE,21FDA9E0,extended,000102FF
+
+[Plate 88]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 88
+// Plate 88
+patch=1,EE,21FDA9E8,extended,0001030C
+
+[Plate 89]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 89
+// Plate 89
+patch=1,EE,21FDA9F0,extended,000101F4
+
+[Plate 90]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 90
+// Plate 90
+patch=1,EE,21FDA9F8,extended,000101F5
+
+[Plate 91]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 91
+// Plate 91
+patch=1,EE,21FDAA00,extended,000101F6
+
+[Plate 92]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 92
+// Plate 92
+patch=1,EE,21FDAA08,extended,000101F9
+
+[Plate 93]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 93
+// Plate 93
+patch=1,EE,21FDAA10,extended,000101FA
+
+[Plate 94]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 94
+// Plate 94
+patch=1,EE,21FDAA18,extended,000101FB
+
+[Plate 95]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 95
+// Plate 95
+patch=1,EE,21FDAA20,extended,000101FC
+
+[Plate 96]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 96
+// Plate 96
+patch=1,EE,21FDAA28,extended,000101FD
+
+[Plate 97]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 97
+// Plate 97
+patch=1,EE,21FDAA30,extended,000101FE
+
+[Plate 98]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 98
+// Plate 98
+patch=1,EE,21FDAA38,extended,000101FF
+
+[Plate 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 99
+// Plate 99
+patch=1,EE,21FDAA40,extended,00010200
+
+[Plate 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 100
+// Plate 100
+patch=1,EE,21FDAA48,extended,00010202
+
+[Plate 101]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 101
+// Plate 101
+patch=1,EE,21FDAA50,extended,00010203
+
+[Plate 102]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 102
+// Plate 102
+patch=1,EE,21FDAA58,extended,00010204
+
+[Plate 103]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 103
+// Plate 103
+patch=1,EE,21FDAA60,extended,00010205
+
+[Plate 104]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Plate 104
+// Plate 104
+patch=1,EE,21FDAA68,extended,00010206

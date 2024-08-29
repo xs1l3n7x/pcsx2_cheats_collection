@@ -1,0 +1,67 @@
+gametitle=Ring Of Red [SLES-50113] [9C4BA2CE]
+
+[Class Race-250 CC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Race-250 CC
+// Class Race-250 CC
+patch=1,EE,9014183C,extended,0C05109F
+
+[Max Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Accuracy
+// Max Accuracy
+patch=1,EE,20CEFC68,extended,43000000
+
+[Always Loaded]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Loaded
+// Always Loaded
+patch=1,EE,20CEFC70,extended,00000000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,10CEFCDC,extended,0000012C
+
+[Infinite Health (Allies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Allies)
+// Infinite Health (Allies)
+patch=1,EE,40CEFCEC,extended,00030001
+
+[Infinite Health (Allies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Allies)
+// Infinite Health (Allies)
+patch=1,EE,00000078,extended,00000000
+
+[Max Specials]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Specials
+// Max Specials
+patch=1,EE,10CEFCFA,extended,0000000A
+
+[Infinite Specials]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Specials
+// Infinite Specials
+patch=1,EE,10CEFCF8,extended,0000000A
+
+[Quick Death-Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Death-Enemies
+// Quick Death-Enemies
+patch=1,EE,10CF00F8,extended,00000000
+
+[No Enemy Troops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Enemy Troops
+// No Enemy Troops
+patch=1,EE,40CF0108,extended,00030001
+
+[No Enemy Troops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Enemy Troops
+// No Enemy Troops
+patch=1,EE,00000000,extended,00000000

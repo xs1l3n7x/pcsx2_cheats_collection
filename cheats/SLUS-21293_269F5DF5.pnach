@@ -1,0 +1,511 @@
+gametitle=Metal Saga [SLUS-21293] [269F5DF5]
+
+[Do 1 Trick To Retrieve 1 Stock]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do 1 Trick To Retrieve 1 Stock
+// Do 1 Trick To Retrieve 1 Stock
+patch=1,EE,9030E920,extended,00832021
+
+[Always Low Playing Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Playing Time
+// Always Low Playing Time
+patch=1,EE,20475290,extended,00000000
+
+[Infinite Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Gold
+// Infinite Gold
+patch=1,EE,107E7BC4,extended,0000FFFF
+
+[Max Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Gold
+// Max Gold
+patch=1,EE,207E7BC4,extended,05F5E0FF
+
+[Unlock All Games]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Games
+// Unlock All Games
+patch=1,EE,207E7BC0,extended,0000F7FF
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,2080F824,extended,00000063
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,2080F828,extended,0000270F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,2080F82C,extended,0000270F
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,2080F830,extended,0000270F
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,2080F834,extended,0000270F
+
+[Max Driving]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Driving
+// Max Driving
+patch=1,EE,2080F83C,extended,0000270F
+
+[Quick EXP Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick EXP Gain
+// Quick EXP Gain
+patch=1,EE,1080F844,extended,0000FFFF
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,2080F844,extended,05F5E0FF
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,2080FA64,extended,00000063
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,2080FA68,extended,0000270F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,2080FA6C,extended,0000270F
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,2080FA70,extended,0000270F
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,2080FA74,extended,0000270F
+
+[Max Driving]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Driving
+// Max Driving
+patch=1,EE,2080FA7C,extended,0000270F
+
+[Quick EXP Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick EXP Gain
+// Quick EXP Gain
+patch=1,EE,1080FA84,extended,0000FFFF
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,2080FA84,extended,05F5E0FF
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,2080FCA4,extended,00000063
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,2080FCA8,extended,0000270F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,2080FCAC,extended,0000270F
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,2080FCB0,extended,0000270F
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,2080FCB4,extended,0000270F
+
+[Max Driving]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Driving
+// Max Driving
+patch=1,EE,2080FCBC,extended,0000270F
+
+[Quick EXP Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick EXP Gain
+// Quick EXP Gain
+patch=1,EE,1080FCC4,extended,0000FFFF
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,2080FCC4,extended,05F5E0FF
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,2080FEE4,extended,00000063
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,2080FEE8,extended,0000270F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,2080FEEC,extended,0000270F
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,2080FEF0,extended,0000270F
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,2080FEF4,extended,0000270F
+
+[Max Driving]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Driving
+// Max Driving
+patch=1,EE,2080FEFC,extended,0000270F
+
+[Quick EXP Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick EXP Gain
+// Quick EXP Gain
+patch=1,EE,1080FF04,extended,0000FFFF
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,2080FF04,extended,05F5E0FF
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,20810124,extended,00000063
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,20810128,extended,0000270F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,2081012C,extended,0000270F
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,20810130,extended,0000270F
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,20810134,extended,0000270F
+
+[Max Driving]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Driving
+// Max Driving
+patch=1,EE,2081013C,extended,0000270F
+
+[Quick EXP Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick EXP Gain
+// Quick EXP Gain
+patch=1,EE,10810144,extended,0000FFFF
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,20810144,extended,05F5E0FF
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,20810364,extended,00000063
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,20810368,extended,0000270F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,2081036C,extended,0000270F
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,20810370,extended,0000270F
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,20810374,extended,0000270F
+
+[Max Driving]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Driving
+// Max Driving
+patch=1,EE,2081037C,extended,0000270F
+
+[Quick EXP Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick EXP Gain
+// Quick EXP Gain
+patch=1,EE,10810384,extended,0000FFFF
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,20810384,extended,05F5E0FF
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,208105A4,extended,00000063
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,208105A8,extended,0000270F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,208105AC,extended,0000270F
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,208105B0,extended,0000270F
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,208105B4,extended,0000270F
+
+[Max Driving]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Driving
+// Max Driving
+patch=1,EE,208105BC,extended,0000270F
+
+[Quick EXP Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick EXP Gain
+// Quick EXP Gain
+patch=1,EE,108105C4,extended,0000FFFF
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,208105C4,extended,05F5E0FF
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,208107E4,extended,00000063
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,208107E8,extended,0000270F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,208107EC,extended,0000270F
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,208107F0,extended,0000270F
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,208107F4,extended,0000270F
+
+[Max Driving]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Driving
+// Max Driving
+patch=1,EE,208107FC,extended,0000270F
+
+[Quick EXP Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick EXP Gain
+// Quick EXP Gain
+patch=1,EE,10810804,extended,0000FFFF
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,20810804,extended,05F5E0FF
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,20810A24,extended,00000063
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,20810A28,extended,0000270F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,20810A2C,extended,0000270F
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,20810A30,extended,0000270F
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,20810A34,extended,0000270F
+
+[Max Driving]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Driving
+// Max Driving
+patch=1,EE,20810A3C,extended,0000270F
+
+[Quick EXP Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick EXP Gain
+// Quick EXP Gain
+patch=1,EE,10810A44,extended,0000FFFF
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,20810A44,extended,05F5E0FF
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,20810C64,extended,00000063
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,20810C68,extended,0000270F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,20810C6C,extended,0000270F
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,20810C70,extended,0000270F
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,20810C74,extended,0000270F
+
+[Max Driving]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Driving
+// Max Driving
+patch=1,EE,20810C7C,extended,0000270F
+
+[Quick EXP Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick EXP Gain
+// Quick EXP Gain
+patch=1,EE,10810C84,extended,0000FFFF
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,20810C84,extended,05F5E0FF

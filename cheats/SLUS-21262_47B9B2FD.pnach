@@ -1,0 +1,883 @@
+gametitle=Radiata Stories [SLUS-21262] [47B9B2FD]
+
+[Level 10-Shalbatana Vallis]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 10-Shalbatana Vallis
+// Level 10-Shalbatana Vallis
+patch=1,EE,901231A0,extended,0C041AEE
+
+[Always Low Game Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Game Time
+// Always Low Game Time
+patch=1,EE,2012CC2C,extended,00000000
+
+[Always Low Game Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Game Time
+// Always Low Game Time
+patch=1,EE,2012CC38,extended,AE020008
+
+[Always Max Game Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Game Time
+// Always Max Game Time
+patch=1,EE,2012CC2C,extended,3C020036
+
+[Always Max Game Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Game Time
+// Always Max Game Time
+patch=1,EE,2012CC34,extended,3442EE7F
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,E005202D,extended,0040E7A0
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,200C0220,extended,3C0505F5
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,200C0224,extended,34A5E0FF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,200C0228,extended,03E00008
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,200C022C,extended,AE25005C
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,2040E7A4,extended,0C030088
+
+[Buy/Sell For Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buy/Sell For Max Money
+// Buy/Sell For Max Money
+patch=1,EE,E0021818,extended,002FA5F0
+
+[Buy/Sell For Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buy/Sell For Max Money
+// Buy/Sell For Max Money
+patch=1,EE,202FA614,extended,00000000
+
+[Buy/Sell For Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buy/Sell For Max Money
+// Buy/Sell For Max Money
+patch=1,EE,202FA778,extended,00000000
+
+[Infinite Item Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Item Usage
+// Infinite Item Usage
+patch=1,EE,D02931B8,extended,0000102D
+
+[Infinite Item Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Item Usage
+// Infinite Item Usage
+patch=1,EE,202931C0,extended,00000000
+
+[Use Item For Max Quantity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Use Item For Max Quantity
+// Use Item For Max Quantity
+patch=1,EE,D0293040,extended,0000102D
+
+[Use Item For Max Quantity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Use Item For Max Quantity
+// Use Item For Max Quantity
+patch=1,EE,20293054,extended,24020063
+
+[Max Item Quantities (Upon Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Item Quantities (Upon Pickup)
+// Max Item Quantities (Upon Pickup)
+patch=1,EE,E00418C0,extended,004061D0
+
+[Max Item Quantities (Upon Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Item Quantities (Upon Pickup)
+// Max Item Quantities (Upon Pickup)
+patch=1,EE,200C0230,extended,24020063
+
+[Max Item Quantities (Upon Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Item Quantities (Upon Pickup)
+// Max Item Quantities (Upon Pickup)
+patch=1,EE,200C0234,extended,08101878
+
+[Max Item Quantities (Upon Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Item Quantities (Upon Pickup)
+// Max Item Quantities (Upon Pickup)
+patch=1,EE,200C0238,extended,A2A20002
+
+[Max Item Quantities (Upon Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Item Quantities (Upon Pickup)
+// Max Item Quantities (Upon Pickup)
+patch=1,EE,204061DC,extended,0C03008C
+
+[View Status For Max Current HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Current HP
+// View Status For Max Current HP
+patch=1,EE,E003202D,extended,0040DA58
+
+[View Status For Max Current HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Current HP
+// View Status For Max Current HP
+patch=1,EE,2040DB4C,extended,2414270F
+
+[View Status For Max Current HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Current HP
+// View Status For Max Current HP
+patch=1,EE,1040DB52,extended,00001000
+
+[View Status For Max Current HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Current HP
+// View Status For Max Current HP
+patch=1,EE,2040DB54,extended,AE140000
+
+[View Status For Max Overall HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Overall HP
+// View Status For Max Overall HP
+patch=1,EE,E002202D,extended,0040DA58
+
+[View Status For Max Overall HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Overall HP
+// View Status For Max Overall HP
+patch=1,EE,2040DA74,extended,2403270F
+
+[View Status For Max Overall HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Overall HP
+// View Status For Max Overall HP
+patch=1,EE,2040DB40,extended,AE030004
+
+[View Status For Max Str]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Str
+// View Status For Max Str
+patch=1,EE,E0031021,extended,0031AB78
+
+[View Status For Max Str]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Str
+// View Status For Max Str
+patch=1,EE,2031AB90,extended,240303E7
+
+[View Status For Max Str]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Str
+// View Status For Max Str
+patch=1,EE,2031AB98,extended,0000102D
+
+[View Status For Max Str]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Str
+// View Status For Max Str
+patch=1,EE,2031ABA0,extended,A4C30014
+
+[View Status For Max Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Def
+// View Status For Max Def
+patch=1,EE,E0031021,extended,0031AA68
+
+[View Status For Max Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Def
+// View Status For Max Def
+patch=1,EE,2031AA80,extended,240303E7
+
+[View Status For Max Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Def
+// View Status For Max Def
+patch=1,EE,2031AA88,extended,0000102D
+
+[View Status For Max Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Def
+// View Status For Max Def
+patch=1,EE,2031AA90,extended,A4C30018
+
+[View Status For Max Eva]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Eva
+// View Status For Max Eva
+patch=1,EE,E002202D,extended,004025C8
+
+[View Status For Max Eva]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Eva
+// View Status For Max Eva
+patch=1,EE,204025DC,extended,240303E7
+
+[View Status For Max Eva]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Eva
+// View Status For Max Eva
+patch=1,EE,204025EC,extended,A643001C
+
+[View Status For Max Lck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Lck
+// View Status For Max Lck
+patch=1,EE,E002202D,extended,00402624
+
+[View Status For Max Lck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Lck
+// View Status For Max Lck
+patch=1,EE,20402638,extended,240303E7
+
+[View Status For Max Lck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Lck
+// View Status For Max Lck
+patch=1,EE,20402648,extended,A6430020
+
+[View Status For No Afflictions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For No Afflictions
+// View Status For No Afflictions
+patch=1,EE,E004202D,extended,0040D8D4
+
+[View Status For No Afflictions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For No Afflictions
+// View Status For No Afflictions
+patch=1,EE,200C0240,extended,24050000
+
+[View Status For No Afflictions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For No Afflictions
+// View Status For No Afflictions
+patch=1,EE,200C0244,extended,080C95B0
+
+[View Status For No Afflictions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For No Afflictions
+// View Status For No Afflictions
+patch=1,EE,200C0248,extended,A2050054
+
+[View Status For No Afflictions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For No Afflictions
+// View Status For No Afflictions
+patch=1,EE,2040D8E4,extended,0C030090
+
+[View Status For Max Volty Gauge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Volty Gauge
+// View Status For Max Volty Gauge
+patch=1,EE,E002202D,extended,0040E348
+
+[View Status For Max Volty Gauge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Volty Gauge
+// View Status For Max Volty Gauge
+patch=1,EE,200C0250,extended,24050064
+
+[View Status For Max Volty Gauge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Volty Gauge
+// View Status For Max Volty Gauge
+patch=1,EE,200C0254,extended,03E00008
+
+[View Status For Max Volty Gauge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Volty Gauge
+// View Status For Max Volty Gauge
+patch=1,EE,200C0258,extended,A2250024
+
+[View Status For Max Volty Gauge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Volty Gauge
+// View Status For Max Volty Gauge
+patch=1,EE,2040E34C,extended,0C030094
+
+[View Friends To Have All Friends]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Friends To Have All Friends
+// View Friends To Have All Friends
+patch=1,EE,E002202D,extended,003A9C3C
+
+[View Friends To Have All Friends]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Friends To Have All Friends
+// View Friends To Have All Friends
+patch=1,EE,203A9C50,extended,24030002
+
+[View Friends To Have All Friends]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Friends To Have All Friends
+// View Friends To Have All Friends
+patch=1,EE,203A9C54,extended,A2430002
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,E0070078,extended,003E35E8
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,200C0260,extended,8C82008C
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,200C0264,extended,8C410060
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,200C0268,extended,2402270F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,200C026C,extended,AC220000
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,200C0270,extended,03E00008
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,200C0274,extended,AC220004
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,203E35EC,extended,0C030098
+
+[Max Volty Gauge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Volty Gauge
+// Max Volty Gauge
+patch=1,EE,E00600D8,extended,003E3730
+
+[Max Volty Gauge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Volty Gauge
+// Max Volty Gauge
+patch=1,EE,200C0280,extended,8C820090
+
+[Max Volty Gauge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Volty Gauge
+// Max Volty Gauge
+patch=1,EE,200C0284,extended,8C410060
+
+[Max Volty Gauge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Volty Gauge
+// Max Volty Gauge
+patch=1,EE,200C0288,extended,24020064
+
+[Max Volty Gauge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Volty Gauge
+// Max Volty Gauge
+patch=1,EE,200C028C,extended,03E00008
+
+[Max Volty Gauge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Volty Gauge
+// Max Volty Gauge
+patch=1,EE,200C0290,extended,A0220024
+
+[Max Volty Gauge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Volty Gauge
+// Max Volty Gauge
+patch=1,EE,203E3734,extended,0C0300A0
+
+[1-Hit Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Enemies)
+// 1-Hit Death (Enemies)
+patch=1,EE,E009007C,extended,003A25CC
+
+[1-Hit Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Enemies)
+// 1-Hit Death (Enemies)
+patch=1,EE,200C02A0,extended,8C82008C
+
+[1-Hit Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Enemies)
+// 1-Hit Death (Enemies)
+patch=1,EE,200C02A4,extended,8C410060
+
+[1-Hit Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Enemies)
+// 1-Hit Death (Enemies)
+patch=1,EE,200C02A8,extended,8C220000
+
+[1-Hit Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Enemies)
+// 1-Hit Death (Enemies)
+patch=1,EE,200C02AC,extended,2C430002
+
+[1-Hit Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Enemies)
+// 1-Hit Death (Enemies)
+patch=1,EE,200C02B0,extended,50600001
+
+[1-Hit Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Enemies)
+// 1-Hit Death (Enemies)
+patch=1,EE,200C02B4,extended,24020001
+
+[1-Hit Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Enemies)
+// 1-Hit Death (Enemies)
+patch=1,EE,200C02B8,extended,03E00008
+
+[1-Hit Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Enemies)
+// 1-Hit Death (Enemies)
+patch=1,EE,200C02BC,extended,AC220000
+
+[1-Hit Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Enemies)
+// 1-Hit Death (Enemies)
+patch=1,EE,203A25D0,extended,0C0300A8
+
+[Gain 50000 Money Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 50000 Money Per Battle
+// Gain 50000 Money Per Battle
+patch=1,EE,D0382308,extended,0000005C
+
+[Gain 50000 Money Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 50000 Money Per Battle
+// Gain 50000 Money Per Battle
+patch=1,EE,2038230C,extended,3402C350
+
+[Gain 40000 Money Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 40000 Money Per Battle
+// Gain 40000 Money Per Battle
+patch=1,EE,D0382308,extended,0000005C
+
+[Gain 40000 Money Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 40000 Money Per Battle
+// Gain 40000 Money Per Battle
+patch=1,EE,2038230C,extended,34029C40
+
+[Gain 30000 Money Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 30000 Money Per Battle
+// Gain 30000 Money Per Battle
+patch=1,EE,D0382308,extended,0000005C
+
+[Gain 30000 Money Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 30000 Money Per Battle
+// Gain 30000 Money Per Battle
+patch=1,EE,2038230C,extended,34027530
+
+[Gain 20000 Money Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 20000 Money Per Battle
+// Gain 20000 Money Per Battle
+patch=1,EE,D0382308,extended,0000005C
+
+[Gain 20000 Money Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 20000 Money Per Battle
+// Gain 20000 Money Per Battle
+patch=1,EE,2038230C,extended,34024E20
+
+[Gain 10000 Money Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 10000 Money Per Battle
+// Gain 10000 Money Per Battle
+patch=1,EE,D0382308,extended,0000005C
+
+[Gain 10000 Money Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 10000 Money Per Battle
+// Gain 10000 Money Per Battle
+patch=1,EE,2038230C,extended,34022710
+
+[Gain 5000 Money Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 5000 Money Per Battle
+// Gain 5000 Money Per Battle
+patch=1,EE,D0382308,extended,0000005C
+
+[Gain 5000 Money Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 5000 Money Per Battle
+// Gain 5000 Money Per Battle
+patch=1,EE,2038230C,extended,34021388
+
+[Gain 1000 Money Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 1000 Money Per Battle
+// Gain 1000 Money Per Battle
+patch=1,EE,D0382308,extended,0000005C
+
+[Gain 1000 Money Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 1000 Money Per Battle
+// Gain 1000 Money Per Battle
+patch=1,EE,2038230C,extended,340203E8
+
+[Gain 500 Money Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 500 Money Per Battle
+// Gain 500 Money Per Battle
+patch=1,EE,D0382308,extended,0000005C
+
+[Gain 500 Money Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 500 Money Per Battle
+// Gain 500 Money Per Battle
+patch=1,EE,2038230C,extended,340201F4
+
+[Max Money After 1 Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money After 1 Battle
+// Max Money After 1 Battle
+patch=1,EE,D038231C,extended,0000082A
+
+[Max Money After 1 Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money After 1 Battle
+// Max Money After 1 Battle
+patch=1,EE,20382320,extended,00000000
+
+[Gain 500000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 500000 Exp Per Battle
+// Gain 500000 Exp Per Battle
+patch=1,EE,E00242C8,extended,003823B8
+
+[Gain 500000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 500000 Exp Per Battle
+// Gain 500000 Exp Per Battle
+patch=1,EE,203823BC,extended,3C040007
+
+[Gain 500000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 500000 Exp Per Battle
+// Gain 500000 Exp Per Battle
+patch=1,EE,203823D0,extended,3484A120
+
+[Gain 400000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 400000 Exp Per Battle
+// Gain 400000 Exp Per Battle
+patch=1,EE,E00242C8,extended,003823B8
+
+[Gain 400000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 400000 Exp Per Battle
+// Gain 400000 Exp Per Battle
+patch=1,EE,203823BC,extended,3C040006
+
+[Gain 400000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 400000 Exp Per Battle
+// Gain 400000 Exp Per Battle
+patch=1,EE,203823D0,extended,34841A80
+
+[Gain 300000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 300000 Exp Per Battle
+// Gain 300000 Exp Per Battle
+patch=1,EE,E00242C8,extended,003823B8
+
+[Gain 300000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 300000 Exp Per Battle
+// Gain 300000 Exp Per Battle
+patch=1,EE,203823BC,extended,3C040004
+
+[Gain 300000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 300000 Exp Per Battle
+// Gain 300000 Exp Per Battle
+patch=1,EE,203823D0,extended,348493E0
+
+[Gain 200000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 200000 Exp Per Battle
+// Gain 200000 Exp Per Battle
+patch=1,EE,E00242C8,extended,003823B8
+
+[Gain 200000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 200000 Exp Per Battle
+// Gain 200000 Exp Per Battle
+patch=1,EE,203823BC,extended,3C040003
+
+[Gain 200000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 200000 Exp Per Battle
+// Gain 200000 Exp Per Battle
+patch=1,EE,203823D0,extended,34840D40
+
+[Gain 100000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 100000 Exp Per Battle
+// Gain 100000 Exp Per Battle
+patch=1,EE,E00242C8,extended,003823B8
+
+[Gain 100000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 100000 Exp Per Battle
+// Gain 100000 Exp Per Battle
+patch=1,EE,203823BC,extended,3C040001
+
+[Gain 100000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 100000 Exp Per Battle
+// Gain 100000 Exp Per Battle
+patch=1,EE,203823D0,extended,348486A0
+
+[Gain 50000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 50000 Exp Per Battle
+// Gain 50000 Exp Per Battle
+patch=1,EE,D03823B8,extended,000042C8
+
+[Gain 50000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 50000 Exp Per Battle
+// Gain 50000 Exp Per Battle
+patch=1,EE,203823BC,extended,3404C350
+
+[Gain 40000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 40000 Exp Per Battle
+// Gain 40000 Exp Per Battle
+patch=1,EE,D03823B8,extended,000042C8
+
+[Gain 40000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 40000 Exp Per Battle
+// Gain 40000 Exp Per Battle
+patch=1,EE,203823BC,extended,34049C40
+
+[Gain 30000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 30000 Exp Per Battle
+// Gain 30000 Exp Per Battle
+patch=1,EE,D03823B8,extended,000042C8
+
+[Gain 30000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 30000 Exp Per Battle
+// Gain 30000 Exp Per Battle
+patch=1,EE,203823BC,extended,34047530
+
+[Gain 20000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 20000 Exp Per Battle
+// Gain 20000 Exp Per Battle
+patch=1,EE,D03823B8,extended,000042C8
+
+[Gain 20000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 20000 Exp Per Battle
+// Gain 20000 Exp Per Battle
+patch=1,EE,203823BC,extended,34044E20
+
+[Gain 10000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 10000 Exp Per Battle
+// Gain 10000 Exp Per Battle
+patch=1,EE,D03823B8,extended,000042C8
+
+[Gain 10000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 10000 Exp Per Battle
+// Gain 10000 Exp Per Battle
+patch=1,EE,203823BC,extended,34042710
+
+[Gain 5000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 5000 Exp Per Battle
+// Gain 5000 Exp Per Battle
+patch=1,EE,D03823B8,extended,000042C8
+
+[Gain 5000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 5000 Exp Per Battle
+// Gain 5000 Exp Per Battle
+patch=1,EE,203823BC,extended,34041388
+
+[Gain 1000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 1000 Exp Per Battle
+// Gain 1000 Exp Per Battle
+patch=1,EE,D03823B8,extended,000042C8
+
+[Gain 1000 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 1000 Exp Per Battle
+// Gain 1000 Exp Per Battle
+patch=1,EE,203823BC,extended,340403E8
+
+[Gain 500 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 500 Exp Per Battle
+// Gain 500 Exp Per Battle
+patch=1,EE,D03823B8,extended,000042C8
+
+[Gain 500 Exp Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 500 Exp Per Battle
+// Gain 500 Exp Per Battle
+patch=1,EE,203823BC,extended,340401F4
+
+[Max Exp After 1 Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp After 1 Battle
+// Max Exp After 1 Battle
+patch=1,EE,D0382400,extended,0000082B
+
+[Max Exp After 1 Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp After 1 Battle
+// Max Exp After 1 Battle
+patch=1,EE,20382404,extended,00000000
+
+[Max Overall HP Upon Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Overall HP Upon Level Up
+// Max Overall HP Upon Level Up
+patch=1,EE,D02AE2B8,extended,0000082A
+
+[Max Overall HP Upon Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Overall HP Upon Level Up
+// Max Overall HP Upon Level Up
+patch=1,EE,202AE2BC,extended,00000000
+
+[Max Atk Upon Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Atk Upon Level Up
+// Max Atk Upon Level Up
+patch=1,EE,D02AE394,extended,000003E8
+
+[Max Atk Upon Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Atk Upon Level Up
+// Max Atk Upon Level Up
+patch=1,EE,202AE398,extended,00000000
+
+[Max Def Upon Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Def Upon Level Up
+// Max Def Upon Level Up
+patch=1,EE,D02AE3CC,extended,000003E8
+
+[Max Def Upon Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Def Upon Level Up
+// Max Def Upon Level Up
+patch=1,EE,202AE3D0,extended,00000000
+
+[Max Eva Upon Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Eva Upon Level Up
+// Max Eva Upon Level Up
+patch=1,EE,D02AE404,extended,000003E8
+
+[Max Eva Upon Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Eva Upon Level Up
+// Max Eva Upon Level Up
+patch=1,EE,202AE408,extended,00000000
+
+[Max Lck Upon Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Lck Upon Level Up
+// Max Lck Upon Level Up
+patch=1,EE,D02AE43C,extended,000003E8
+
+[Max Lck Upon Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Lck Upon Level Up
+// Max Lck Upon Level Up
+patch=1,EE,202AE440,extended,00000000
+
+[Level 99 Upon Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99 Upon Level Up
+// Level 99 Upon Level Up
+patch=1,EE,D02AE4A0,extended,00000064
+
+[Level 99 Upon Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99 Upon Level Up
+// Level 99 Upon Level Up
+patch=1,EE,202AE4A4,extended,00000000
+
+[Max Exp Upon Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp Upon Level Up
+// Max Exp Upon Level Up
+patch=1,EE,D02AE4B8,extended,0000082B
+
+[Max Exp Upon Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp Upon Level Up
+// Max Exp Upon Level Up
+patch=1,EE,202AE4BC,extended,00000000

@@ -1,0 +1,127 @@
+gametitle=Dead To Rights [SLES-51581] [FAC64195]
+
+[Have All Costumes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Costumes
+// Have All Costumes
+patch=1,EE,90229C1C,extended,0C08B460
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,2020AF44,extended,00000000
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,2020AF5C,extended,00000000
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,1020AE28,extended,00000001
+
+[Infinite Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Life
+// Infinite Life
+patch=1,EE,20172F2C,extended,E4430208
+
+[Infinite Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Armor
+// Infinite Armor
+patch=1,EE,2017319C,extended,E442020C
+
+[Infinite Adrenaline]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Adrenaline
+// Infinite Adrenaline
+patch=1,EE,2042B39C,extended,42C80000
+
+[Unlock All Chapters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Chapters
+// Unlock All Chapters
+patch=1,EE,20276390,extended,0000000F
+
+[Unlock All Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Movies
+// Unlock All Movies
+patch=1,EE,40276394,extended,00130001
+
+[Unlock All Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Movies
+// Unlock All Movies
+patch=1,EE,00000001,extended,00000000
+
+[Unlock All Mini-Games]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Mini-Games
+// Unlock All Mini-Games
+patch=1,EE,402763E0,extended,00070001
+
+[Unlock All Mini-Games]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Mini-Games
+// Unlock All Mini-Games
+patch=1,EE,00000001,extended,00000000
+
+[Infinite Bouncer Destraction (Hildy Dancing)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Bouncer Destraction (Hildy Dancing)
+// Infinite Bouncer Destraction (Hildy Dancing)
+patch=1,EE,2042B244,extended,3F800000
+
+[Max Hits (Speedbag)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Hits (Speedbag)
+// Max Hits (Speedbag)
+patch=1,EE,1042D19A,extended,0000270F
+
+[Absolute Max Hits (Speedbag)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Absolute Max Hits (Speedbag)
+// Absolute Max Hits (Speedbag)
+patch=1,EE,1042D19A,extended,0000FFFF
+
+[Max Speed (Speedbag)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed (Speedbag)
+// Max Speed (Speedbag)
+patch=1,EE,2042D1D4,extended,3F800000
+
+[Max Strength Meter (Weightlifting)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength Meter (Weightlifting)
+// Max Strength Meter (Weightlifting)
+patch=1,EE,2042DC30,extended,3F800000
+
+[Max Current Strength (Weightlifting)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Current Strength (Weightlifting)
+// Max Current Strength (Weightlifting)
+patch=1,EE,2042DC34,extended,3F800000
+
+[Max Strength (Arm Wrestling)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength (Arm Wrestling)
+// Max Strength (Arm Wrestling)
+patch=1,EE,2042D728,extended,3F800000
+
+[Infinite Time (Bomb Disarm)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time (Bomb Disarm)
+// Infinite Time (Bomb Disarm)
+patch=1,EE,20286808,extended,00008C80
+
+[Infinite Oxygen (Drowning)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Oxygen (Drowning)
+// Infinite Oxygen (Drowning)
+patch=1,EE,2042B48C,extended,3F800000

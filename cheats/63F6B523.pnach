@@ -1,0 +1,19 @@
+gametitle=Dot Hack G.U. Vol. 3 - Redemption [UNKNOWN] [63F6B523]
+
+[Infinite monster points]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite monster points
+// Infinite monster points
+patch=1,EE,5C768AC7,extended,E782879C
+
+[Max AP]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max AP
+// Max AP
+patch=1,EE,18531AEC,extended,0CA5E485
+
+[Max MP]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max MP
+// Max MP
+patch=1,EE,18531A68,extended,0CA5E485

@@ -1,0 +1,751 @@
+gametitle=Sphinx And The Cursed Mummy [SLUS-20482] [2EB82279]
+
+[Do 1 Front Flip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do 1 Front Flip
+// Do 1 Front Flip
+patch=1,EE,902FFA4C,extended,0C0C3517
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,204778AC,extended,00000024
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,204778B0,extended,00000024
+
+[Gold Ankh Piece]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Ankh Piece
+// Gold Ankh Piece
+patch=1,EE,205525D4,extended,00000014
+
+[Abydosian Pearls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Abydosian Pearls
+// Abydosian Pearls
+patch=1,EE,205525E4,extended,00000003
+
+[Healing Herbs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Healing Herbs
+// Healing Herbs
+patch=1,EE,205525F4,extended,00000005
+
+[Rosetta Stone Pieces]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rosetta Stone Pieces
+// Rosetta Stone Pieces
+patch=1,EE,20552604,extended,00000006
+
+[Atun Eye]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Atun Eye
+// Atun Eye
+patch=1,EE,20552614,extended,0000001E
+
+[Gold Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Key
+// Gold Key
+patch=1,EE,20552624,extended,00000005
+
+[Glyph Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Glyph Key
+// Glyph Key
+patch=1,EE,20552634,extended,00000005
+
+[Glyph Key 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Glyph Key 2
+// Glyph Key 2
+patch=1,EE,20552644,extended,00000005
+
+[South Desert Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Desert Key
+// South Desert Key
+patch=1,EE,20552654,extended,00000001
+
+[Obelisk Gate Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Obelisk Gate Key
+// Obelisk Gate Key
+patch=1,EE,20552664,extended,00000001
+
+[Cave Door Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cave Door Key
+// Cave Door Key
+patch=1,EE,20552674,extended,00000001
+
+[Coconut]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coconut
+// Coconut
+patch=1,EE,20552684,extended,00000003
+
+[Urukite Crown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Urukite Crown
+// Urukite Crown
+patch=1,EE,20552694,extended,00000001
+
+[Abydosian Crown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Abydosian Crown
+// Abydosian Crown
+patch=1,EE,205526A4,extended,00000001
+
+[Helian Crown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Helian Crown
+// Helian Crown
+patch=1,EE,205526B4,extended,00000001
+
+[Set Crown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Set Crown
+// Set Crown
+patch=1,EE,205526C4,extended,00000001
+
+[Curse Stone (White)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Curse Stone (White)
+// Curse Stone (White)
+patch=1,EE,205526D4,extended,00000001
+
+[Curse Stone (Green)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Curse Stone (Green)
+// Curse Stone (Green)
+patch=1,EE,205526E4,extended,00000001
+
+[Curse Stone (Red)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Curse Stone (Red)
+// Curse Stone (Red)
+patch=1,EE,205526F4,extended,00000001
+
+[Curse Stone (Orange)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Curse Stone (Orange)
+// Curse Stone (Orange)
+patch=1,EE,20552704,extended,00000001
+
+[Curse Stone (Blue)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Curse Stone (Blue)
+// Curse Stone (Blue)
+patch=1,EE,20552714,extended,00000001
+
+[Curse Stone (Purple)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Curse Stone (Purple)
+// Curse Stone (Purple)
+patch=1,EE,20552724,extended,00000001
+
+[Curse Stone (Turquoise)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Curse Stone (Turquoise)
+// Curse Stone (Turquoise)
+patch=1,EE,20552734,extended,00000001
+
+[Stolen Jewel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stolen Jewel
+// Stolen Jewel
+patch=1,EE,20552744,extended,00000001
+
+[Stolen Jewel 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stolen Jewel 2
+// Stolen Jewel 2
+patch=1,EE,20552754,extended,00000001
+
+[Stolen Jewel 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stolen Jewel 3
+// Stolen Jewel 3
+patch=1,EE,20552764,extended,00000001
+
+[Stolen Jewel 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stolen Jewel 4
+// Stolen Jewel 4
+patch=1,EE,20552774,extended,00000001
+
+[Stolen Jewel 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stolen Jewel 5
+// Stolen Jewel 5
+patch=1,EE,20552784,extended,00000001
+
+[Stolen Jewel 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stolen Jewel 6
+// Stolen Jewel 6
+patch=1,EE,20552794,extended,00000001
+
+[Skeletal Skull]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skeletal Skull
+// Skeletal Skull
+patch=1,EE,205527A4,extended,00000001
+
+[Skeletal Pelvis]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skeletal Pelvis
+// Skeletal Pelvis
+patch=1,EE,205527B4,extended,00000001
+
+[Skeletal Arm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skeletal Arm
+// Skeletal Arm
+patch=1,EE,205527C4,extended,00000001
+
+[Skeletal Leg]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skeletal Leg
+// Skeletal Leg
+patch=1,EE,205527D4,extended,00000001
+
+[Canopic Vase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Canopic Vase
+// Canopic Vase
+patch=1,EE,205527E4,extended,00000006
+
+[Mysterious Amulet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mysterious Amulet
+// Mysterious Amulet
+patch=1,EE,205527F4,extended,00000001
+
+[Abydos Amulet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Abydos Amulet
+// Abydos Amulet
+patch=1,EE,20552804,extended,00000001
+
+[Heliopolis Amulet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Heliopolis Amulet
+// Heliopolis Amulet
+patch=1,EE,20552814,extended,00000001
+
+[Anubis Amulet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anubis Amulet
+// Anubis Amulet
+patch=1,EE,20552824,extended,00000001
+
+[Bas-Ket]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bas-Ket
+// Bas-Ket
+patch=1,EE,20552834,extended,00000001
+
+[Blue Diamond]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Diamond
+// Blue Diamond
+patch=1,EE,20552844,extended,00000004
+
+[Book Of The Dead]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Book Of The Dead
+// Book Of The Dead
+patch=1,EE,20552854,extended,00000001
+
+[Physician's Note]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Physician's Note
+// Physician's Note
+patch=1,EE,20552864,extended,00000001
+
+[Rosetta Stone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rosetta Stone
+// Rosetta Stone
+patch=1,EE,20552874,extended,00000001
+
+[Abydos Pass Card]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Abydos Pass Card
+// Abydos Pass Card
+patch=1,EE,20552884,extended,00000001
+
+[Beetle Breeding Jar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Beetle Breeding Jar
+// Beetle Breeding Jar
+patch=1,EE,20552894,extended,00000001
+
+[Loyalty Card]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Loyalty Card
+// Loyalty Card
+patch=1,EE,205528A4,extended,00000001
+
+[Royal Invitation]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Royal Invitation
+// Royal Invitation
+patch=1,EE,205528B4,extended,00000001
+
+[Parasol]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Parasol
+// Parasol
+patch=1,EE,205528C4,extended,00000001
+
+[Monster List I]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monster List I
+// Monster List I
+patch=1,EE,205528D4,extended,00000001
+
+[Monster List II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monster List II
+// Monster List II
+patch=1,EE,205528E4,extended,00000001
+
+[Monster List III]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monster List III
+// Monster List III
+patch=1,EE,205528F4,extended,00000001
+
+[Zip Line Handle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zip Line Handle
+// Zip Line Handle
+patch=1,EE,20552904,extended,00000001
+
+[Old Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Old Key
+// Old Key
+patch=1,EE,20552914,extended,00000001
+
+[Stairs Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stairs Key
+// Stairs Key
+patch=1,EE,20552924,extended,00000001
+
+[Medicine Bag]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Medicine Bag
+// Medicine Bag
+patch=1,EE,20552934,extended,00000001
+
+[Atun Statue]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Atun Statue
+// Atun Statue
+patch=1,EE,20552944,extended,00000001
+
+[Hathor Statue]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hathor Statue
+// Hathor Statue
+patch=1,EE,20552954,extended,00000001
+
+[Eagle Stone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Eagle Stone
+// Eagle Stone
+patch=1,EE,20552964,extended,00000001
+
+[Dark Stone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Stone
+// Dark Stone
+patch=1,EE,20552974,extended,00000001
+
+[Marksman Medal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Marksman Medal
+// Marksman Medal
+patch=1,EE,20552984,extended,00000001
+
+[Medal Of Memory]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Medal Of Memory
+// Medal Of Memory
+patch=1,EE,20552994,extended,00000001
+
+[Medal Of Champions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Medal Of Champions
+// Medal Of Champions
+patch=1,EE,205529A4,extended,00000001
+
+[Medal Of Sequences]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Medal Of Sequences
+// Medal Of Sequences
+patch=1,EE,205529B4,extended,00000001
+
+[Master Hunter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Master Hunter
+// Master Hunter
+patch=1,EE,205529C4,extended,00000001
+
+[Hunter Gold Class]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunter Gold Class
+// Hunter Gold Class
+patch=1,EE,205529D4,extended,00000001
+
+[Hunter Silver Class]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunter Silver Class
+// Hunter Silver Class
+patch=1,EE,205529E4,extended,00000001
+
+[Hunter Bronze Class]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunter Bronze Class
+// Hunter Bronze Class
+patch=1,EE,205529F4,extended,00000001
+
+[Standard Dart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Standard Dart
+// Standard Dart
+patch=1,EE,20552484,extended,00000064
+
+[Bouncing Dart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bouncing Dart
+// Bouncing Dart
+patch=1,EE,20552494,extended,00000064
+
+[Ice Dart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Dart
+// Ice Dart
+patch=1,EE,205524A4,extended,0000001E
+
+[Acid Dart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Acid Dart
+// Acid Dart
+patch=1,EE,205524B4,extended,0000001E
+
+[Gold Scarab]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Scarab
+// Gold Scarab
+patch=1,EE,205525A4,extended,00000190
+
+[Onyx Scarab]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Onyx Scarab
+// Onyx Scarab
+patch=1,EE,205525B4,extended,00000190
+
+[Capture Beetle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Capture Beetle
+// Capture Beetle
+patch=1,EE,20552DC4,extended,00000014
+
+[Blade Of Osiris]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blade Of Osiris
+// Blade Of Osiris
+patch=1,EE,20552DD4,extended,00000001
+
+[Shield Of Osiris]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shield Of Osiris
+// Shield Of Osiris
+patch=1,EE,20552DE4,extended,00000001
+
+[Blowpipe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blowpipe
+// Blowpipe
+patch=1,EE,20552DF4,extended,00000001
+
+[Wings Of Ibis]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wings Of Ibis
+// Wings Of Ibis
+patch=1,EE,20552E04,extended,00000001
+
+[Crocodile Scales]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crocodile Scales
+// Crocodile Scales
+patch=1,EE,20552E14,extended,00000001
+
+[Underwater Projectile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Underwater Projectile
+// Underwater Projectile
+patch=1,EE,20552E24,extended,00000001
+
+[Hands Of Amun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hands Of Amun
+// Hands Of Amun
+patch=1,EE,20552E34,extended,00000001
+
+[Scarab Bag]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scarab Bag
+// Scarab Bag
+patch=1,EE,20552E44,extended,00000001
+
+[Large Scarab Bag]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Large Scarab Bag
+// Large Scarab Bag
+patch=1,EE,20552E54,extended,00000001
+
+[Beetle Pouch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Beetle Pouch
+// Beetle Pouch
+patch=1,EE,20552E64,extended,00000001
+
+[Beetle Satchel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Beetle Satchel
+// Beetle Satchel
+patch=1,EE,20552E74,extended,00000001
+
+[Dark Belt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Belt
+// Dark Belt
+patch=1,EE,20552E84,extended,00000001
+
+[Fire Armadillo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fire Armadillo
+// Fire Armadillo
+patch=1,EE,20552E94,extended,0000000A
+
+[Slim Burble]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slim Burble
+// Slim Burble
+patch=1,EE,20552EA4,extended,0000000A
+
+[Almost-A-Bull]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Almost-A-Bull
+// Almost-A-Bull
+patch=1,EE,20552F24,extended,0000000A
+
+[Big Bull]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Bull
+// Big Bull
+patch=1,EE,20552F34,extended,0000000A
+
+[Blade Scorpion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blade Scorpion
+// Blade Scorpion
+patch=1,EE,20552F44,extended,0000000A
+
+[Chihuahua]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chihuahua
+// Chihuahua
+patch=1,EE,20552F54,extended,0000000A
+
+[Cobra]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cobra
+// Cobra
+patch=1,EE,20552F64,extended,0000000A
+
+[Crabhands]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crabhands
+// Crabhands
+patch=1,EE,20552F74,extended,0000000A
+
+[Cyclops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cyclops
+// Cyclops
+patch=1,EE,20552F84,extended,0000000A
+
+[Dark Worshipper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Worshipper
+// Dark Worshipper
+patch=1,EE,20552F94,extended,0000000A
+
+[Electric Armadillo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Electric Armadillo
+// Electric Armadillo
+patch=1,EE,20552FA4,extended,0000000A
+
+[Exo-Piranha]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exo-Piranha
+// Exo-Piranha
+patch=1,EE,20552FB4,extended,0000000A
+
+[Featherless Turkey]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Featherless Turkey
+// Featherless Turkey
+patch=1,EE,20552FC4,extended,0000000A
+
+[Goofy Lizard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goofy Lizard
+// Goofy Lizard
+patch=1,EE,20552FD4,extended,0000000A
+
+[Green Giant Worm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Green Giant Worm
+// Green Giant Worm
+patch=1,EE,20552FE4,extended,0000000A
+
+[Half Brute]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Half Brute
+// Half Brute
+patch=1,EE,20552FF4,extended,0000000A
+
+[Knives Cat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knives Cat
+// Knives Cat
+patch=1,EE,20553004,extended,0000000A
+
+[Mummy Bird]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mummy Bird
+// Mummy Bird
+patch=1,EE,20553014,extended,0000000A
+
+[Mummy Chihuahua]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mummy Chihuahua
+// Mummy Chihuahua
+patch=1,EE,20553024,extended,0000000A
+
+[Mummy Worm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mummy Worm
+// Mummy Worm
+patch=1,EE,20553034,extended,0000000A
+
+[Nose Needler]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nose Needler
+// Nose Needler
+patch=1,EE,20553044,extended,0000000A
+
+[Piranha]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Piranha
+// Piranha
+patch=1,EE,20553054,extended,0000000A
+
+[Rat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rat
+// Rat
+patch=1,EE,20553064,extended,0000000A
+
+[Sharpbeak]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sharpbeak
+// Sharpbeak
+patch=1,EE,20553074,extended,0000000A
+
+[Shell Critter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shell Critter
+// Shell Critter
+patch=1,EE,20553084,extended,0000000A
+
+[Shuttlecock Bird]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shuttlecock Bird
+// Shuttlecock Bird
+patch=1,EE,20553094,extended,0000000A
+
+[Skeletal Axeman]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skeletal Axeman
+// Skeletal Axeman
+patch=1,EE,205530A4,extended,0000000A
+
+[Skeletal Spider]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skeletal Spider
+// Skeletal Spider
+patch=1,EE,205530B4,extended,0000000A
+
+[Skull Swordsman]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skull Swordsman
+// Skull Swordsman
+patch=1,EE,205530C4,extended,0000000A
+
+[Skull Worshipper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skull Worshipper
+// Skull Worshipper
+patch=1,EE,205530D4,extended,0000000A
+
+[Small Frog]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Small Frog
+// Small Frog
+patch=1,EE,205530E4,extended,0000000A
+
+[Smiling Burble]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Smiling Burble
+// Smiling Burble
+patch=1,EE,205530F4,extended,0000000A
+
+[Spike Spider]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spike Spider
+// Spike Spider
+patch=1,EE,20553104,extended,0000000A
+
+[Sunflower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sunflower
+// Sunflower
+patch=1,EE,20553114,extended,0000000A
+
+[Tree Creature]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tree Creature
+// Tree Creature
+patch=1,EE,20553124,extended,0000000A
+
+[Wasp Spider]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wasp Spider
+// Wasp Spider
+patch=1,EE,20553134,extended,0000000A

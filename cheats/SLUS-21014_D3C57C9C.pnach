@@ -1,0 +1,193 @@
+gametitle=High Rollers Casino [SLUS-21014] [D3C57C9C]
+
+[Always Full Count & 2 Outs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Count & 2 Outs
+// Always Full Count & 2 Outs
+patch=1,EE,90124C68,extended,0C04AC50
+
+[Max Bankroll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bankroll
+// Max Bankroll
+patch=1,EE,200C0220,extended,3C0405F5
+
+[Max Bankroll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bankroll
+// Max Bankroll
+patch=1,EE,200C0224,extended,3484E0FF
+
+[Max Bankroll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bankroll
+// Max Bankroll
+patch=1,EE,200C0228,extended,04600003
+
+[Max Bankroll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bankroll
+// Max Bankroll
+patch=1,EE,200C022C,extended,AC44003C
+
+[Max Bankroll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bankroll
+// Max Bankroll
+patch=1,EE,200C0230,extended,03E00008
+
+[Max Bankroll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bankroll
+// Max Bankroll
+patch=1,EE,200C0234,extended,00000000
+
+[Max Bankroll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bankroll
+// Max Bankroll
+patch=1,EE,200C0238,extended,08070C41
+
+[Max Bankroll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bankroll
+// Max Bankroll
+patch=1,EE,200C023C,extended,00000000
+
+[Max Bankroll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bankroll
+// Max Bankroll
+patch=1,EE,201C2AF4,extended,0C030088
+
+[All Bets Are For $100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Bets Are For $100
+// All Bets Are For $100
+patch=1,EE,202F7DB0,extended,34020064
+
+[All Bets Are For $100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Bets Are For $100
+// All Bets Are For $100
+patch=1,EE,202F8228,extended,34120064
+
+[All Bets Are For $500]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Bets Are For $500
+// All Bets Are For $500
+patch=1,EE,202F7DB0,extended,340201F4
+
+[All Bets Are For $500]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Bets Are For $500
+// All Bets Are For $500
+patch=1,EE,202F8228,extended,341201F4
+
+[All Bets Are For $1000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Bets Are For $1000
+// All Bets Are For $1000
+patch=1,EE,202F7DB0,extended,340203E8
+
+[All Bets Are For $1000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Bets Are For $1000
+// All Bets Are For $1000
+patch=1,EE,202F8228,extended,341203E8
+
+[All Bets Are For $5000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Bets Are For $5000
+// All Bets Are For $5000
+patch=1,EE,202F7DB0,extended,34021388
+
+[All Bets Are For $5000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Bets Are For $5000
+// All Bets Are For $5000
+patch=1,EE,202F8228,extended,34121388
+
+[All Bets Are For $10000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Bets Are For $10000
+// All Bets Are For $10000
+patch=1,EE,202F7DB0,extended,34022710
+
+[All Bets Are For $10000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Bets Are For $10000
+// All Bets Are For $10000
+patch=1,EE,202F8228,extended,34122710
+
+[All Bets Are For $25000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Bets Are For $25000
+// All Bets Are For $25000
+patch=1,EE,202F7DB0,extended,340261A8
+
+[All Bets Are For $25000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Bets Are For $25000
+// All Bets Are For $25000
+patch=1,EE,202F8228,extended,341261A8
+
+[All Bets Are For $50000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Bets Are For $50000
+// All Bets Are For $50000
+patch=1,EE,202F7DB0,extended,3402C350
+
+[All Bets Are For $50000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Bets Are For $50000
+// All Bets Are For $50000
+patch=1,EE,202F8228,extended,3412C350
+
+[P1 Press {L1}+{SELECT} To Enable Bet For Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Enable Bet For Max Money
+// P1 Press {L1}+{SELECT} To Enable Bet For Max Money
+patch=1,EE,D04B9702,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Enable Bet For Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Enable Bet For Max Money
+// P1 Press {L1}+{SELECT} To Enable Bet For Max Money
+patch=1,EE,201C6300,extended,AC8105A8
+
+[P1 Press {L2}+{SELECT} To Disable Bet For Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Disable Bet For Max Money
+// P1 Press {L2}+{SELECT} To Disable Bet For Max Money
+patch=1,EE,D04B9702,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Disable Bet For Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Disable Bet For Max Money
+// P1 Press {L2}+{SELECT} To Disable Bet For Max Money
+patch=1,EE,201C6300,extended,AC8305A8
+
+[P2 Press {L1}+{SELECT} To Enable Bet For Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} To Enable Bet For Max Money
+// P2 Press {L1}+{SELECT} To Enable Bet For Max Money
+patch=1,EE,D04B9802,extended,0000FBFE
+
+[P2 Press {L1}+{SELECT} To Enable Bet For Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} To Enable Bet For Max Money
+// P2 Press {L1}+{SELECT} To Enable Bet For Max Money
+patch=1,EE,201C6300,extended,AC8105A8
+
+[P2 Press {L2}+{SELECT} To Disable Bet For Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L2}+{SELECT} To Disable Bet For Max Money
+// P2 Press {L2}+{SELECT} To Disable Bet For Max Money
+patch=1,EE,D04B9802,extended,0000FEFE
+
+[P2 Press {L2}+{SELECT} To Disable Bet For Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L2}+{SELECT} To Disable Bet For Max Money
+// P2 Press {L2}+{SELECT} To Disable Bet For Max Money
+patch=1,EE,201C6300,extended,AC8305A8

@@ -1,0 +1,3379 @@
+gametitle=SSX 3 [SLUS-20772] [08FFF00D]
+
+[Have All Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Outfits
+// Have All Outfits
+patch=1,EE,903FFB7C,extended,0C105817
+
+[Infinite Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Boost
+// Infinite Boost
+patch=1,EE,200C0220,extended,3C013F80
+
+[Infinite Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Boost
+// Infinite Boost
+patch=1,EE,200C0224,extended,AE0102F8
+
+[Infinite Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Boost
+// Infinite Boost
+patch=1,EE,200C0228,extended,03E00008
+
+[Infinite Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Boost
+// Infinite Boost
+patch=1,EE,200C022C,extended,C60302F8
+
+[Infinite Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Boost
+// Infinite Boost
+patch=1,EE,201202F4,extended,0C030088
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,20117750,extended,2442270F
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,2011A45C,extended,2484270F
+
+[Hella Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hella Quick Score Gain
+// Hella Quick Score Gain
+patch=1,EE,20117750,extended,24427FFF
+
+[Hella Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hella Quick Score Gain
+// Hella Quick Score Gain
+patch=1,EE,2011A45C,extended,24847FFF
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,20113DD0,extended,00000000
+
+[Buying Attributes Doesnt Decrease Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Attributes Doesnt Decrease Money
+// Buying Attributes Doesnt Decrease Money
+patch=1,EE,20150E04,extended,00000000
+
+[Buying Gear/Rewards Doesnt Decrease Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Gear/Rewards Doesnt Decrease Money
+// Buying Gear/Rewards Doesnt Decrease Money
+patch=1,EE,20150B7C,extended,00000000
+
+[Access All Peaks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Peaks
+// Access All Peaks
+patch=1,EE,204A6F20,extended,00000000
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,104A776C,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,204A776C,extended,05F5E0FF
+
+[Max Earnings-Peak 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Earnings-Peak 1
+// Max Earnings-Peak 1
+patch=1,EE,204A7770,extended,05F5E0FF
+
+[Have All Career Highlights]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Career Highlights
+// Have All Career Highlights
+patch=1,EE,204A7860,extended,03030303
+
+[Have All Career Highlights]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Career Highlights
+// Have All Career Highlights
+patch=1,EE,204A7864,extended,03030303
+
+[Unlock All Posters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Posters
+// Unlock All Posters
+patch=1,EE,204A7BD8,extended,FFFFFFFF
+
+[Unlock All Posters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Posters
+// Unlock All Posters
+patch=1,EE,104A7BDC,extended,0000FFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,104A7BDE,extended,0000FFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204A7BE0,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204A7BE4,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204A7BE8,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,004A7BEC,extended,000000FF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,004A7BED,extended,000000FF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,104A7BEE,extended,0000FFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,204A7BF0,extended,FFFFFFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,204A7BF4,extended,FFFFFFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,104A7BF8,extended,0000FFFF
+
+[Unlock All Videos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Videos
+// Unlock All Videos
+patch=1,EE,004A7BFA,extended,000000FF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,004A7BFB,extended,000000FF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,104A7BFC,extended,0000FFFF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,004A7BFE,extended,000000FF
+
+[Unlock All Cheat Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheat Characters
+// Unlock All Cheat Characters
+patch=1,EE,004A7BFF,extended,000000FF
+
+[Unlock All Cheat Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheat Characters
+// Unlock All Cheat Characters
+patch=1,EE,104A7C00,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,004A7887,extended,00000037
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204A7888,extended,37373737
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104A788C,extended,00003737
+
+[Snow Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snow Jam
+// Snow Jam
+patch=1,EE,204A6CAC,extended,0000001E
+
+[Metro-City]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metro-City
+// Metro-City
+patch=1,EE,204A6CB8,extended,00000023
+
+[Ruthless Ridge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ruthless Ridge
+// Ruthless Ridge
+patch=1,EE,204A6CC4,extended,0000001E
+
+[Intimidator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Intimidator
+// Intimidator
+patch=1,EE,204A6CD0,extended,00000019
+
+[Gravitude]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gravitude
+// Gravitude
+patch=1,EE,204A6CDC,extended,0000001E
+
+[R&B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R&B
+// R&B
+patch=1,EE,204A6CE8,extended,0000001E
+
+[Style Mile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Style Mile
+// Style Mile
+patch=1,EE,204A6CF4,extended,0000001E
+
+[Kick Doubt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kick Doubt
+// Kick Doubt
+patch=1,EE,204A6D00,extended,0000001E
+
+[Crow's Nest]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crow's Nest
+// Crow's Nest
+patch=1,EE,204A6D0C,extended,00000002
+
+[Launch Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Time
+// Launch Time
+patch=1,EE,204A6D18,extended,00000004
+
+[Much-2-Much]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Much-2-Much
+// Much-2-Much
+patch=1,EE,204A6D24,extended,00000005
+
+[The Junction]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Junction
+// The Junction
+patch=1,EE,204A6D30,extended,00000004
+
+[Schizophrenia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Schizophrenia
+// Schizophrenia
+patch=1,EE,204A6D3C,extended,00000005
+
+[Perpendiculous]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perpendiculous
+// Perpendiculous
+patch=1,EE,204A6D48,extended,00000008
+
+[Happiness]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Happiness
+// Happiness
+patch=1,EE,204A6D54,extended,0000002C
+
+[Ruthless]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ruthless
+// Ruthless
+patch=1,EE,204A6D60,extended,0000002C
+
+[The Throne]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Throne
+// The Throne
+patch=1,EE,204A6D6C,extended,0000002C
+
+[Green Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Green Station
+// Green Station
+patch=1,EE,204A6D78,extended,00000005
+
+[Blue Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Station
+// Blue Station
+patch=1,EE,204A6D84,extended,00000005
+
+[Yellow Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yellow Station
+// Yellow Station
+patch=1,EE,204A6D90,extended,00000005
+
+[Red Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Station
+// Red Station
+patch=1,EE,204A6D9C,extended,00000005
+
+[Black Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Station
+// Black Station
+patch=1,EE,204A6DA8,extended,00000005
+
+[Have All Big Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Big Challenges Completed
+// Have All Big Challenges Completed
+patch=1,EE,404A6DC0,extended,00220001
+
+[Have All Big Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Big Challenges Completed
+// Have All Big Challenges Completed
+patch=1,EE,000000FF,extended,00000000
+
+[Have All Rival Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rival Challenges Completed
+// Have All Rival Challenges Completed
+patch=1,EE,404A7778,extended,000C0002
+
+[Have All Rival Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rival Challenges Completed
+// Have All Rival Challenges Completed
+patch=1,EE,00010001,extended,00000000
+
+[Have All Gold Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Medals
+// Have All Gold Medals
+patch=1,EE,404A77D8,extended,000E0002
+
+[Have All Gold Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Medals
+// Have All Gold Medals
+patch=1,EE,00010001,extended,00000000
+
+[Access All Peaks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Peaks
+// Access All Peaks
+patch=1,EE,204A7EA8,extended,00000000
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,104A86F4,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,204A86F4,extended,05F5E0FF
+
+[Max Earnings-Peak 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Earnings-Peak 1
+// Max Earnings-Peak 1
+patch=1,EE,204A86F8,extended,05F5E0FF
+
+[Have All Career Highlights]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Career Highlights
+// Have All Career Highlights
+patch=1,EE,204A87E8,extended,03030303
+
+[Have All Career Highlights]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Career Highlights
+// Have All Career Highlights
+patch=1,EE,204A87EC,extended,03030303
+
+[Unlock All Posters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Posters
+// Unlock All Posters
+patch=1,EE,204A8B60,extended,FFFFFFFF
+
+[Unlock All Posters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Posters
+// Unlock All Posters
+patch=1,EE,104A8B64,extended,0000FFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,104A8B66,extended,0000FFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204A8B68,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204A8B6C,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204A8B70,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,004A8B74,extended,000000FF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,004A8B75,extended,000000FF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,104A8B76,extended,0000FFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,204A8B78,extended,FFFFFFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,204A8B7C,extended,FFFFFFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,104A8B80,extended,0000FFFF
+
+[Unlock All Videos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Videos
+// Unlock All Videos
+patch=1,EE,004A8B82,extended,000000FF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,004A8B83,extended,000000FF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,104A8B84,extended,0000FFFF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,004A8B86,extended,000000FF
+
+[Unlock All Cheat Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheat Characters
+// Unlock All Cheat Characters
+patch=1,EE,004A8B87,extended,000000FF
+
+[Unlock All Cheat Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheat Characters
+// Unlock All Cheat Characters
+patch=1,EE,104A8B88,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,004A880F,extended,00000037
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204A8810,extended,37373737
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104A8814,extended,00003737
+
+[Snow Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snow Jam
+// Snow Jam
+patch=1,EE,204A7C34,extended,0000001E
+
+[Metro-City]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metro-City
+// Metro-City
+patch=1,EE,204A7C40,extended,00000023
+
+[Ruthless Ridge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ruthless Ridge
+// Ruthless Ridge
+patch=1,EE,204A7C4C,extended,0000001E
+
+[Intimidator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Intimidator
+// Intimidator
+patch=1,EE,204A7C58,extended,00000019
+
+[Gravitude]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gravitude
+// Gravitude
+patch=1,EE,204A7C64,extended,0000001E
+
+[R&B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R&B
+// R&B
+patch=1,EE,204A7C70,extended,0000001E
+
+[Style Mile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Style Mile
+// Style Mile
+patch=1,EE,204A7C7C,extended,0000001E
+
+[Kick Doubt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kick Doubt
+// Kick Doubt
+patch=1,EE,204A7C88,extended,0000001E
+
+[Crow's Nest]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crow's Nest
+// Crow's Nest
+patch=1,EE,204A7C94,extended,00000002
+
+[Launch Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Time
+// Launch Time
+patch=1,EE,204A7CA0,extended,00000004
+
+[Much-2-Much]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Much-2-Much
+// Much-2-Much
+patch=1,EE,204A7CAC,extended,00000005
+
+[The Junction]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Junction
+// The Junction
+patch=1,EE,204A7CB8,extended,00000004
+
+[Schizophrenia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Schizophrenia
+// Schizophrenia
+patch=1,EE,204A7CC4,extended,00000005
+
+[Perpendiculous]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perpendiculous
+// Perpendiculous
+patch=1,EE,204A7CD0,extended,00000008
+
+[Happiness]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Happiness
+// Happiness
+patch=1,EE,204A7CDC,extended,0000002C
+
+[Ruthless]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ruthless
+// Ruthless
+patch=1,EE,204A7CE8,extended,0000002C
+
+[The Throne]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Throne
+// The Throne
+patch=1,EE,204A7CF4,extended,0000002C
+
+[Green Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Green Station
+// Green Station
+patch=1,EE,204A7D00,extended,00000005
+
+[Blue Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Station
+// Blue Station
+patch=1,EE,204A7D0C,extended,00000005
+
+[Yellow Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yellow Station
+// Yellow Station
+patch=1,EE,204A7D18,extended,00000005
+
+[Red Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Station
+// Red Station
+patch=1,EE,204A7D24,extended,00000005
+
+[Black Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Station
+// Black Station
+patch=1,EE,204A7D30,extended,00000005
+
+[Have All Big Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Big Challenges Completed
+// Have All Big Challenges Completed
+patch=1,EE,404A7D48,extended,00220001
+
+[Have All Big Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Big Challenges Completed
+// Have All Big Challenges Completed
+patch=1,EE,000000FF,extended,00000000
+
+[Have All Rival Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rival Challenges Completed
+// Have All Rival Challenges Completed
+patch=1,EE,404A8700,extended,000C0002
+
+[Have All Rival Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rival Challenges Completed
+// Have All Rival Challenges Completed
+patch=1,EE,00010001,extended,00000000
+
+[Have All Gold Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Medals
+// Have All Gold Medals
+patch=1,EE,404A8760,extended,000E0002
+
+[Have All Gold Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Medals
+// Have All Gold Medals
+patch=1,EE,00010001,extended,00000000
+
+[Access All Peaks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Peaks
+// Access All Peaks
+patch=1,EE,204A8E30,extended,00000000
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,104A967C,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,204A967C,extended,05F5E0FF
+
+[Max Earnings-Peak 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Earnings-Peak 1
+// Max Earnings-Peak 1
+patch=1,EE,204A9680,extended,05F5E0FF
+
+[Have All Career Highlights]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Career Highlights
+// Have All Career Highlights
+patch=1,EE,204A9770,extended,03030303
+
+[Have All Career Highlights]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Career Highlights
+// Have All Career Highlights
+patch=1,EE,204A9774,extended,03030303
+
+[Unlock All Posters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Posters
+// Unlock All Posters
+patch=1,EE,204A9AE8,extended,FFFFFFFF
+
+[Unlock All Posters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Posters
+// Unlock All Posters
+patch=1,EE,104A9AEC,extended,0000FFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,104A9AEE,extended,0000FFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204A9AF0,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204A9AF4,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204A9AF8,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,004A9AFC,extended,000000FF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,004A9AFD,extended,000000FF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,104A9AFE,extended,0000FFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,204A9B00,extended,FFFFFFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,204A9B04,extended,FFFFFFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,104A9B08,extended,0000FFFF
+
+[Unlock All Videos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Videos
+// Unlock All Videos
+patch=1,EE,004A9B0A,extended,000000FF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,004A9B0B,extended,000000FF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,104A9B0C,extended,0000FFFF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,004A9B0E,extended,000000FF
+
+[Unlock All Cheat Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheat Characters
+// Unlock All Cheat Characters
+patch=1,EE,004A9B0F,extended,000000FF
+
+[Unlock All Cheat Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheat Characters
+// Unlock All Cheat Characters
+patch=1,EE,104A9B10,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,004A9797,extended,00000037
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204A9798,extended,37373737
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104A979C,extended,00003737
+
+[Snow Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snow Jam
+// Snow Jam
+patch=1,EE,204A8BBC,extended,0000001E
+
+[Metro-City]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metro-City
+// Metro-City
+patch=1,EE,204A8BC8,extended,00000023
+
+[Ruthless Ridge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ruthless Ridge
+// Ruthless Ridge
+patch=1,EE,204A8BD4,extended,0000001E
+
+[Intimidator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Intimidator
+// Intimidator
+patch=1,EE,204A8BE0,extended,00000019
+
+[Gravitude]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gravitude
+// Gravitude
+patch=1,EE,204A8BEC,extended,0000001E
+
+[R&B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R&B
+// R&B
+patch=1,EE,204A8BF8,extended,0000001E
+
+[Style Mile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Style Mile
+// Style Mile
+patch=1,EE,204A8C04,extended,0000001E
+
+[Kick Doubt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kick Doubt
+// Kick Doubt
+patch=1,EE,204A8C10,extended,0000001E
+
+[Crow's Nest]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crow's Nest
+// Crow's Nest
+patch=1,EE,204A8C1C,extended,00000002
+
+[Launch Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Time
+// Launch Time
+patch=1,EE,204A8C28,extended,00000004
+
+[Much-2-Much]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Much-2-Much
+// Much-2-Much
+patch=1,EE,204A8C34,extended,00000005
+
+[The Junction]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Junction
+// The Junction
+patch=1,EE,204A8C40,extended,00000004
+
+[Schizophrenia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Schizophrenia
+// Schizophrenia
+patch=1,EE,204A8C4C,extended,00000005
+
+[Perpendiculous]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perpendiculous
+// Perpendiculous
+patch=1,EE,204A8C58,extended,00000008
+
+[Happiness]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Happiness
+// Happiness
+patch=1,EE,204A8C64,extended,0000002C
+
+[Ruthless]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ruthless
+// Ruthless
+patch=1,EE,204A8C70,extended,0000002C
+
+[The Throne]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Throne
+// The Throne
+patch=1,EE,204A8C7C,extended,0000002C
+
+[Green Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Green Station
+// Green Station
+patch=1,EE,204A8C88,extended,00000005
+
+[Blue Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Station
+// Blue Station
+patch=1,EE,204A8C94,extended,00000005
+
+[Yellow Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yellow Station
+// Yellow Station
+patch=1,EE,204A8CA0,extended,00000005
+
+[Red Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Station
+// Red Station
+patch=1,EE,204A8CAC,extended,00000005
+
+[Black Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Station
+// Black Station
+patch=1,EE,204A8CB8,extended,00000005
+
+[Have All Big Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Big Challenges Completed
+// Have All Big Challenges Completed
+patch=1,EE,404A8CD0,extended,00220001
+
+[Have All Big Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Big Challenges Completed
+// Have All Big Challenges Completed
+patch=1,EE,000000FF,extended,00000000
+
+[Have All Rival Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rival Challenges Completed
+// Have All Rival Challenges Completed
+patch=1,EE,404A9688,extended,000C0002
+
+[Have All Rival Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rival Challenges Completed
+// Have All Rival Challenges Completed
+patch=1,EE,00010001,extended,00000000
+
+[Have All Gold Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Medals
+// Have All Gold Medals
+patch=1,EE,404A96E8,extended,000E0002
+
+[Have All Gold Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Medals
+// Have All Gold Medals
+patch=1,EE,00010001,extended,00000000
+
+[Access All Peaks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Peaks
+// Access All Peaks
+patch=1,EE,204A9DB8,extended,00000000
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,104AA604,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,204AA604,extended,05F5E0FF
+
+[Max Earnings-Peak 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Earnings-Peak 1
+// Max Earnings-Peak 1
+patch=1,EE,204AA608,extended,05F5E0FF
+
+[Have All Career Highlights]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Career Highlights
+// Have All Career Highlights
+patch=1,EE,204AA6F8,extended,03030303
+
+[Have All Career Highlights]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Career Highlights
+// Have All Career Highlights
+patch=1,EE,204AA6FC,extended,03030303
+
+[Unlock All Posters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Posters
+// Unlock All Posters
+patch=1,EE,204AAA70,extended,FFFFFFFF
+
+[Unlock All Posters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Posters
+// Unlock All Posters
+patch=1,EE,104AAA74,extended,0000FFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,104AAA76,extended,0000FFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204AAA78,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204AAA7C,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204AAA80,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,004AAA84,extended,000000FF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,004AAA85,extended,000000FF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,104AAA86,extended,0000FFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,204AAA88,extended,FFFFFFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,204AAA8C,extended,FFFFFFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,104AAA90,extended,0000FFFF
+
+[Unlock All Videos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Videos
+// Unlock All Videos
+patch=1,EE,004AAA92,extended,000000FF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,004AAA93,extended,000000FF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,104AAA94,extended,0000FFFF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,004AAA96,extended,000000FF
+
+[Unlock All Cheat Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheat Characters
+// Unlock All Cheat Characters
+patch=1,EE,004AAA97,extended,000000FF
+
+[Unlock All Cheat Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheat Characters
+// Unlock All Cheat Characters
+patch=1,EE,104AAA98,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,004AA71F,extended,00000037
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204AA720,extended,37373737
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104AA724,extended,00003737
+
+[Snow Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snow Jam
+// Snow Jam
+patch=1,EE,204A9B44,extended,0000001E
+
+[Metro-City]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metro-City
+// Metro-City
+patch=1,EE,204A9B50,extended,00000023
+
+[Ruthless Ridge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ruthless Ridge
+// Ruthless Ridge
+patch=1,EE,204A9B5C,extended,0000001E
+
+[Intimidator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Intimidator
+// Intimidator
+patch=1,EE,204A9B68,extended,00000019
+
+[Gravitude]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gravitude
+// Gravitude
+patch=1,EE,204A9B74,extended,0000001E
+
+[R&B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R&B
+// R&B
+patch=1,EE,204A9B80,extended,0000001E
+
+[Style Mile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Style Mile
+// Style Mile
+patch=1,EE,204A9B8C,extended,0000001E
+
+[Kick Doubt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kick Doubt
+// Kick Doubt
+patch=1,EE,204A9B98,extended,0000001E
+
+[Crow's Nest]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crow's Nest
+// Crow's Nest
+patch=1,EE,204A9BA4,extended,00000002
+
+[Launch Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Time
+// Launch Time
+patch=1,EE,204A9BB0,extended,00000004
+
+[Much-2-Much]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Much-2-Much
+// Much-2-Much
+patch=1,EE,204A9BBC,extended,00000005
+
+[The Junction]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Junction
+// The Junction
+patch=1,EE,204A9BC8,extended,00000004
+
+[Schizophrenia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Schizophrenia
+// Schizophrenia
+patch=1,EE,204A9BD4,extended,00000005
+
+[Perpendiculous]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perpendiculous
+// Perpendiculous
+patch=1,EE,204A9BE0,extended,00000008
+
+[Happiness]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Happiness
+// Happiness
+patch=1,EE,204A9BEC,extended,0000002C
+
+[Ruthless]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ruthless
+// Ruthless
+patch=1,EE,204A9BF8,extended,0000002C
+
+[The Throne]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Throne
+// The Throne
+patch=1,EE,204A9C04,extended,0000002C
+
+[Green Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Green Station
+// Green Station
+patch=1,EE,204A9C10,extended,00000005
+
+[Blue Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Station
+// Blue Station
+patch=1,EE,204A9C1C,extended,00000005
+
+[Yellow Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yellow Station
+// Yellow Station
+patch=1,EE,204A9C28,extended,00000005
+
+[Red Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Station
+// Red Station
+patch=1,EE,204A9C34,extended,00000005
+
+[Black Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Station
+// Black Station
+patch=1,EE,204A9C40,extended,00000005
+
+[Have All Big Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Big Challenges Completed
+// Have All Big Challenges Completed
+patch=1,EE,404A9C58,extended,00220001
+
+[Have All Big Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Big Challenges Completed
+// Have All Big Challenges Completed
+patch=1,EE,000000FF,extended,00000000
+
+[Have All Rival Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rival Challenges Completed
+// Have All Rival Challenges Completed
+patch=1,EE,404AA610,extended,000C0002
+
+[Have All Rival Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rival Challenges Completed
+// Have All Rival Challenges Completed
+patch=1,EE,00010001,extended,00000000
+
+[Have All Gold Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Medals
+// Have All Gold Medals
+patch=1,EE,404AA670,extended,000E0002
+
+[Have All Gold Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Medals
+// Have All Gold Medals
+patch=1,EE,00010001,extended,00000000
+
+[Access All Peaks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Peaks
+// Access All Peaks
+patch=1,EE,204AAD40,extended,00000000
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,104AB58C,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,204AB58C,extended,05F5E0FF
+
+[Max Earnings-Peak 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Earnings-Peak 1
+// Max Earnings-Peak 1
+patch=1,EE,204AB590,extended,05F5E0FF
+
+[Have All Career Highlights]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Career Highlights
+// Have All Career Highlights
+patch=1,EE,204AB680,extended,03030303
+
+[Have All Career Highlights]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Career Highlights
+// Have All Career Highlights
+patch=1,EE,204AB684,extended,03030303
+
+[Unlock All Posters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Posters
+// Unlock All Posters
+patch=1,EE,204AB9F8,extended,FFFFFFFF
+
+[Unlock All Posters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Posters
+// Unlock All Posters
+patch=1,EE,104AB9FC,extended,0000FFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,104AB9FE,extended,0000FFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204ABA00,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204ABA04,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204ABA08,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,004ABA0C,extended,000000FF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,004ABA0D,extended,000000FF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,104ABA0E,extended,0000FFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,204ABA10,extended,FFFFFFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,204ABA14,extended,FFFFFFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,104ABA18,extended,0000FFFF
+
+[Unlock All Videos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Videos
+// Unlock All Videos
+patch=1,EE,004ABA1A,extended,000000FF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,004ABA1B,extended,000000FF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,104ABA1C,extended,0000FFFF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,004ABA1E,extended,000000FF
+
+[Unlock All Cheat Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheat Characters
+// Unlock All Cheat Characters
+patch=1,EE,004ABA1F,extended,000000FF
+
+[Unlock All Cheat Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheat Characters
+// Unlock All Cheat Characters
+patch=1,EE,104ABA20,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,004AB6A7,extended,00000037
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204AB6A8,extended,37373737
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104AB6AC,extended,00003737
+
+[Snow Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snow Jam
+// Snow Jam
+patch=1,EE,204AAACC,extended,0000001E
+
+[Metro-City]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metro-City
+// Metro-City
+patch=1,EE,204AAAD8,extended,00000023
+
+[Ruthless Ridge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ruthless Ridge
+// Ruthless Ridge
+patch=1,EE,204AAAE4,extended,0000001E
+
+[Intimidator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Intimidator
+// Intimidator
+patch=1,EE,204AAAF0,extended,00000019
+
+[Gravitude]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gravitude
+// Gravitude
+patch=1,EE,204AAAFC,extended,0000001E
+
+[R&B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R&B
+// R&B
+patch=1,EE,204AAB08,extended,0000001E
+
+[Style Mile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Style Mile
+// Style Mile
+patch=1,EE,204AAB14,extended,0000001E
+
+[Kick Doubt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kick Doubt
+// Kick Doubt
+patch=1,EE,204AAB20,extended,0000001E
+
+[Crow's Nest]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crow's Nest
+// Crow's Nest
+patch=1,EE,204AAB2C,extended,00000002
+
+[Launch Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Time
+// Launch Time
+patch=1,EE,204AAB38,extended,00000004
+
+[Much-2-Much]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Much-2-Much
+// Much-2-Much
+patch=1,EE,204AAB44,extended,00000005
+
+[The Junction]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Junction
+// The Junction
+patch=1,EE,204AAB50,extended,00000004
+
+[Schizophrenia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Schizophrenia
+// Schizophrenia
+patch=1,EE,204AAB5C,extended,00000005
+
+[Perpendiculous]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perpendiculous
+// Perpendiculous
+patch=1,EE,204AAB68,extended,00000008
+
+[Happiness]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Happiness
+// Happiness
+patch=1,EE,204AAB74,extended,0000002C
+
+[Ruthless]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ruthless
+// Ruthless
+patch=1,EE,204AAB80,extended,0000002C
+
+[The Throne]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Throne
+// The Throne
+patch=1,EE,204AAB8C,extended,0000002C
+
+[Green Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Green Station
+// Green Station
+patch=1,EE,204AAB98,extended,00000005
+
+[Blue Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Station
+// Blue Station
+patch=1,EE,204AABA4,extended,00000005
+
+[Yellow Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yellow Station
+// Yellow Station
+patch=1,EE,204AABB0,extended,00000005
+
+[Red Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Station
+// Red Station
+patch=1,EE,204AABBC,extended,00000005
+
+[Black Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Station
+// Black Station
+patch=1,EE,204AABC8,extended,00000005
+
+[Have All Big Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Big Challenges Completed
+// Have All Big Challenges Completed
+patch=1,EE,404AABE0,extended,00220001
+
+[Have All Big Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Big Challenges Completed
+// Have All Big Challenges Completed
+patch=1,EE,000000FF,extended,00000000
+
+[Have All Rival Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rival Challenges Completed
+// Have All Rival Challenges Completed
+patch=1,EE,404AB598,extended,000C0002
+
+[Have All Rival Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rival Challenges Completed
+// Have All Rival Challenges Completed
+patch=1,EE,00010001,extended,00000000
+
+[Have All Gold Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Medals
+// Have All Gold Medals
+patch=1,EE,404AB5F8,extended,000E0002
+
+[Have All Gold Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Medals
+// Have All Gold Medals
+patch=1,EE,00010001,extended,00000000
+
+[Access All Peaks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Peaks
+// Access All Peaks
+patch=1,EE,204ABCC8,extended,00000000
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,104AC514,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,204AC514,extended,05F5E0FF
+
+[Max Earnings-Peak 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Earnings-Peak 1
+// Max Earnings-Peak 1
+patch=1,EE,204AC518,extended,05F5E0FF
+
+[Have All Career Highlights]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Career Highlights
+// Have All Career Highlights
+patch=1,EE,204AC608,extended,03030303
+
+[Have All Career Highlights]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Career Highlights
+// Have All Career Highlights
+patch=1,EE,204AC60C,extended,03030303
+
+[Unlock All Posters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Posters
+// Unlock All Posters
+patch=1,EE,204AC980,extended,FFFFFFFF
+
+[Unlock All Posters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Posters
+// Unlock All Posters
+patch=1,EE,104AC984,extended,0000FFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,104AC986,extended,0000FFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204AC988,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204AC98C,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204AC990,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,004AC994,extended,000000FF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,004AC995,extended,000000FF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,104AC996,extended,0000FFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,204AC998,extended,FFFFFFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,204AC99C,extended,FFFFFFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,104AC9A0,extended,0000FFFF
+
+[Unlock All Videos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Videos
+// Unlock All Videos
+patch=1,EE,004AC9A2,extended,000000FF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,004AC9A3,extended,000000FF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,104AC9A4,extended,0000FFFF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,004AC9A6,extended,000000FF
+
+[Unlock All Cheat Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheat Characters
+// Unlock All Cheat Characters
+patch=1,EE,004AC9A7,extended,000000FF
+
+[Unlock All Cheat Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheat Characters
+// Unlock All Cheat Characters
+patch=1,EE,104AC9A8,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,004AC62F,extended,00000037
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204AC630,extended,37373737
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104AC634,extended,00003737
+
+[Snow Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snow Jam
+// Snow Jam
+patch=1,EE,204ABA54,extended,0000001E
+
+[Metro-City]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metro-City
+// Metro-City
+patch=1,EE,204ABA60,extended,00000023
+
+[Ruthless Ridge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ruthless Ridge
+// Ruthless Ridge
+patch=1,EE,204ABA6C,extended,0000001E
+
+[Intimidator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Intimidator
+// Intimidator
+patch=1,EE,204ABA78,extended,00000019
+
+[Gravitude]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gravitude
+// Gravitude
+patch=1,EE,204ABA84,extended,0000001E
+
+[R&B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R&B
+// R&B
+patch=1,EE,204ABA90,extended,0000001E
+
+[Style Mile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Style Mile
+// Style Mile
+patch=1,EE,204ABA9C,extended,0000001E
+
+[Kick Doubt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kick Doubt
+// Kick Doubt
+patch=1,EE,204ABAA8,extended,0000001E
+
+[Crow's Nest]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crow's Nest
+// Crow's Nest
+patch=1,EE,204ABAB4,extended,00000002
+
+[Launch Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Time
+// Launch Time
+patch=1,EE,204ABAC0,extended,00000004
+
+[Much-2-Much]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Much-2-Much
+// Much-2-Much
+patch=1,EE,204ABACC,extended,00000005
+
+[The Junction]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Junction
+// The Junction
+patch=1,EE,204ABAD8,extended,00000004
+
+[Schizophrenia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Schizophrenia
+// Schizophrenia
+patch=1,EE,204ABAE4,extended,00000005
+
+[Perpendiculous]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perpendiculous
+// Perpendiculous
+patch=1,EE,204ABAF0,extended,00000008
+
+[Happiness]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Happiness
+// Happiness
+patch=1,EE,204ABAFC,extended,0000002C
+
+[Ruthless]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ruthless
+// Ruthless
+patch=1,EE,204ABB08,extended,0000002C
+
+[The Throne]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Throne
+// The Throne
+patch=1,EE,204ABB14,extended,0000002C
+
+[Green Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Green Station
+// Green Station
+patch=1,EE,204ABB20,extended,00000005
+
+[Blue Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Station
+// Blue Station
+patch=1,EE,204ABB2C,extended,00000005
+
+[Yellow Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yellow Station
+// Yellow Station
+patch=1,EE,204ABB38,extended,00000005
+
+[Red Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Station
+// Red Station
+patch=1,EE,204ABB44,extended,00000005
+
+[Black Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Station
+// Black Station
+patch=1,EE,204ABB50,extended,00000005
+
+[Have All Big Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Big Challenges Completed
+// Have All Big Challenges Completed
+patch=1,EE,404ABB68,extended,00220001
+
+[Have All Big Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Big Challenges Completed
+// Have All Big Challenges Completed
+patch=1,EE,000000FF,extended,00000000
+
+[Have All Rival Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rival Challenges Completed
+// Have All Rival Challenges Completed
+patch=1,EE,404AC520,extended,000C0002
+
+[Have All Rival Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rival Challenges Completed
+// Have All Rival Challenges Completed
+patch=1,EE,00010001,extended,00000000
+
+[Have All Gold Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Medals
+// Have All Gold Medals
+patch=1,EE,404AC580,extended,000E0002
+
+[Have All Gold Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Medals
+// Have All Gold Medals
+patch=1,EE,00010001,extended,00000000
+
+[Access All Peaks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Peaks
+// Access All Peaks
+patch=1,EE,204ACC50,extended,00000000
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,104AD49C,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,204AD49C,extended,05F5E0FF
+
+[Max Earnings-Peak 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Earnings-Peak 1
+// Max Earnings-Peak 1
+patch=1,EE,204AD4A0,extended,05F5E0FF
+
+[Have All Career Highlights]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Career Highlights
+// Have All Career Highlights
+patch=1,EE,204AD590,extended,03030303
+
+[Have All Career Highlights]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Career Highlights
+// Have All Career Highlights
+patch=1,EE,204AD594,extended,03030303
+
+[Unlock All Posters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Posters
+// Unlock All Posters
+patch=1,EE,204AD908,extended,FFFFFFFF
+
+[Unlock All Posters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Posters
+// Unlock All Posters
+patch=1,EE,104AD90C,extended,0000FFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,104AD90E,extended,0000FFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204AD910,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204AD914,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204AD918,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,004AD91C,extended,000000FF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,004AD91D,extended,000000FF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,104AD91E,extended,0000FFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,204AD920,extended,FFFFFFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,204AD924,extended,FFFFFFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,104AD928,extended,0000FFFF
+
+[Unlock All Videos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Videos
+// Unlock All Videos
+patch=1,EE,004AD92A,extended,000000FF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,004AD92B,extended,000000FF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,104AD92C,extended,0000FFFF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,004AD92E,extended,000000FF
+
+[Unlock All Cheat Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheat Characters
+// Unlock All Cheat Characters
+patch=1,EE,004AD92F,extended,000000FF
+
+[Unlock All Cheat Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheat Characters
+// Unlock All Cheat Characters
+patch=1,EE,104AD930,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,004AD5B7,extended,00000037
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204AD5B8,extended,37373737
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104AD5BC,extended,00003737
+
+[Snow Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snow Jam
+// Snow Jam
+patch=1,EE,204AC9DC,extended,0000001E
+
+[Metro-City]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metro-City
+// Metro-City
+patch=1,EE,204AC9E8,extended,00000023
+
+[Ruthless Ridge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ruthless Ridge
+// Ruthless Ridge
+patch=1,EE,204AC9F4,extended,0000001E
+
+[Intimidator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Intimidator
+// Intimidator
+patch=1,EE,204ACA00,extended,00000019
+
+[Gravitude]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gravitude
+// Gravitude
+patch=1,EE,204ACA0C,extended,0000001E
+
+[R&B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R&B
+// R&B
+patch=1,EE,204ACA18,extended,0000001E
+
+[Style Mile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Style Mile
+// Style Mile
+patch=1,EE,204ACA24,extended,0000001E
+
+[Kick Doubt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kick Doubt
+// Kick Doubt
+patch=1,EE,204ACA30,extended,0000001E
+
+[Crow's Nest]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crow's Nest
+// Crow's Nest
+patch=1,EE,204ACA3C,extended,00000002
+
+[Launch Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Time
+// Launch Time
+patch=1,EE,204ACA48,extended,00000004
+
+[Much-2-Much]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Much-2-Much
+// Much-2-Much
+patch=1,EE,204ACA54,extended,00000005
+
+[The Junction]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Junction
+// The Junction
+patch=1,EE,204ACA60,extended,00000004
+
+[Schizophrenia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Schizophrenia
+// Schizophrenia
+patch=1,EE,204ACA6C,extended,00000005
+
+[Perpendiculous]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perpendiculous
+// Perpendiculous
+patch=1,EE,204ACA78,extended,00000008
+
+[Happiness]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Happiness
+// Happiness
+patch=1,EE,204ACA84,extended,0000002C
+
+[Ruthless]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ruthless
+// Ruthless
+patch=1,EE,204ACA90,extended,0000002C
+
+[The Throne]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Throne
+// The Throne
+patch=1,EE,204ACA9C,extended,0000002C
+
+[Green Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Green Station
+// Green Station
+patch=1,EE,204ACAA8,extended,00000005
+
+[Blue Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Station
+// Blue Station
+patch=1,EE,204ACAB4,extended,00000005
+
+[Yellow Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yellow Station
+// Yellow Station
+patch=1,EE,204ACAC0,extended,00000005
+
+[Red Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Station
+// Red Station
+patch=1,EE,204ACACC,extended,00000005
+
+[Black Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Station
+// Black Station
+patch=1,EE,204ACAD8,extended,00000005
+
+[Have All Big Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Big Challenges Completed
+// Have All Big Challenges Completed
+patch=1,EE,404ACAF0,extended,00220001
+
+[Have All Big Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Big Challenges Completed
+// Have All Big Challenges Completed
+patch=1,EE,000000FF,extended,00000000
+
+[Have All Rival Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rival Challenges Completed
+// Have All Rival Challenges Completed
+patch=1,EE,404AD4A8,extended,000C0002
+
+[Have All Rival Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rival Challenges Completed
+// Have All Rival Challenges Completed
+patch=1,EE,00010001,extended,00000000
+
+[Have All Gold Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Medals
+// Have All Gold Medals
+patch=1,EE,404AD508,extended,000E0002
+
+[Have All Gold Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Medals
+// Have All Gold Medals
+patch=1,EE,00010001,extended,00000000
+
+[Access All Peaks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Peaks
+// Access All Peaks
+patch=1,EE,204ADBD8,extended,00000000
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,104AE424,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,204AE424,extended,05F5E0FF
+
+[Max Earnings-Peak 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Earnings-Peak 1
+// Max Earnings-Peak 1
+patch=1,EE,204AE428,extended,05F5E0FF
+
+[Have All Career Highlights]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Career Highlights
+// Have All Career Highlights
+patch=1,EE,204AE518,extended,03030303
+
+[Have All Career Highlights]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Career Highlights
+// Have All Career Highlights
+patch=1,EE,204AE51C,extended,03030303
+
+[Unlock All Posters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Posters
+// Unlock All Posters
+patch=1,EE,204AE890,extended,FFFFFFFF
+
+[Unlock All Posters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Posters
+// Unlock All Posters
+patch=1,EE,104AE894,extended,0000FFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,104AE896,extended,0000FFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204AE898,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204AE89C,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204AE8A0,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,004AE8A4,extended,000000FF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,004AE8A5,extended,000000FF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,104AE8A6,extended,0000FFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,204AE8A8,extended,FFFFFFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,204AE8AC,extended,FFFFFFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,104AE8B0,extended,0000FFFF
+
+[Unlock All Videos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Videos
+// Unlock All Videos
+patch=1,EE,004AE8B2,extended,000000FF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,004AE8B3,extended,000000FF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,104AE8B4,extended,0000FFFF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,004AE8B6,extended,000000FF
+
+[Unlock All Cheat Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheat Characters
+// Unlock All Cheat Characters
+patch=1,EE,004AE8B7,extended,000000FF
+
+[Unlock All Cheat Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheat Characters
+// Unlock All Cheat Characters
+patch=1,EE,104AE8B8,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,004AE53F,extended,00000037
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204AE540,extended,37373737
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104AE544,extended,00003737
+
+[Snow Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snow Jam
+// Snow Jam
+patch=1,EE,204AD964,extended,0000001E
+
+[Metro-City]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metro-City
+// Metro-City
+patch=1,EE,204AD970,extended,00000023
+
+[Ruthless Ridge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ruthless Ridge
+// Ruthless Ridge
+patch=1,EE,204AD97C,extended,0000001E
+
+[Intimidator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Intimidator
+// Intimidator
+patch=1,EE,204AD988,extended,00000019
+
+[Gravitude]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gravitude
+// Gravitude
+patch=1,EE,204AD994,extended,0000001E
+
+[R&B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R&B
+// R&B
+patch=1,EE,204AD9A0,extended,0000001E
+
+[Style Mile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Style Mile
+// Style Mile
+patch=1,EE,204AD9AC,extended,0000001E
+
+[Kick Doubt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kick Doubt
+// Kick Doubt
+patch=1,EE,204AD9B8,extended,0000001E
+
+[Crow's Nest]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crow's Nest
+// Crow's Nest
+patch=1,EE,204AD9C4,extended,00000002
+
+[Launch Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Time
+// Launch Time
+patch=1,EE,204AD9D0,extended,00000004
+
+[Much-2-Much]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Much-2-Much
+// Much-2-Much
+patch=1,EE,204AD9DC,extended,00000005
+
+[The Junction]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Junction
+// The Junction
+patch=1,EE,204AD9E8,extended,00000004
+
+[Schizophrenia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Schizophrenia
+// Schizophrenia
+patch=1,EE,204AD9F4,extended,00000005
+
+[Perpendiculous]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perpendiculous
+// Perpendiculous
+patch=1,EE,204ADA00,extended,00000008
+
+[Happiness]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Happiness
+// Happiness
+patch=1,EE,204ADA0C,extended,0000002C
+
+[Ruthless]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ruthless
+// Ruthless
+patch=1,EE,204ADA18,extended,0000002C
+
+[The Throne]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Throne
+// The Throne
+patch=1,EE,204ADA24,extended,0000002C
+
+[Green Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Green Station
+// Green Station
+patch=1,EE,204ADA30,extended,00000005
+
+[Blue Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Station
+// Blue Station
+patch=1,EE,204ADA3C,extended,00000005
+
+[Yellow Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yellow Station
+// Yellow Station
+patch=1,EE,204ADA48,extended,00000005
+
+[Red Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Station
+// Red Station
+patch=1,EE,204ADA54,extended,00000005
+
+[Black Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Station
+// Black Station
+patch=1,EE,204ADA60,extended,00000005
+
+[Have All Big Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Big Challenges Completed
+// Have All Big Challenges Completed
+patch=1,EE,404ADA78,extended,00220001
+
+[Have All Big Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Big Challenges Completed
+// Have All Big Challenges Completed
+patch=1,EE,000000FF,extended,00000000
+
+[Have All Rival Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rival Challenges Completed
+// Have All Rival Challenges Completed
+patch=1,EE,404AE430,extended,000C0002
+
+[Have All Rival Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rival Challenges Completed
+// Have All Rival Challenges Completed
+patch=1,EE,00010001,extended,00000000
+
+[Have All Gold Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Medals
+// Have All Gold Medals
+patch=1,EE,404AE490,extended,000E0002
+
+[Have All Gold Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Medals
+// Have All Gold Medals
+patch=1,EE,00010001,extended,00000000
+
+[Access All Peaks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Peaks
+// Access All Peaks
+patch=1,EE,204AEB60,extended,00000000
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,104AF3AC,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,204AF3AC,extended,05F5E0FF
+
+[Max Earnings-Peak 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Earnings-Peak 1
+// Max Earnings-Peak 1
+patch=1,EE,204AF3B0,extended,05F5E0FF
+
+[Have All Career Highlights]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Career Highlights
+// Have All Career Highlights
+patch=1,EE,204AF4A0,extended,03030303
+
+[Have All Career Highlights]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Career Highlights
+// Have All Career Highlights
+patch=1,EE,204AF4A4,extended,03030303
+
+[Unlock All Posters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Posters
+// Unlock All Posters
+patch=1,EE,204AF818,extended,FFFFFFFF
+
+[Unlock All Posters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Posters
+// Unlock All Posters
+patch=1,EE,104AF81C,extended,0000FFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,104AF81E,extended,0000FFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204AF820,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204AF824,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204AF828,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,004AF82C,extended,000000FF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,004AF82D,extended,000000FF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,104AF82E,extended,0000FFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,204AF830,extended,FFFFFFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,204AF834,extended,FFFFFFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,104AF838,extended,0000FFFF
+
+[Unlock All Videos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Videos
+// Unlock All Videos
+patch=1,EE,004AF83A,extended,000000FF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,004AF83B,extended,000000FF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,104AF83C,extended,0000FFFF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,004AF83E,extended,000000FF
+
+[Unlock All Cheat Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheat Characters
+// Unlock All Cheat Characters
+patch=1,EE,004AF83F,extended,000000FF
+
+[Unlock All Cheat Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheat Characters
+// Unlock All Cheat Characters
+patch=1,EE,104AF840,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,004AF4C7,extended,00000037
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204AF4C8,extended,37373737
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104AF4CC,extended,00003737
+
+[Snow Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snow Jam
+// Snow Jam
+patch=1,EE,204AE8EC,extended,0000001E
+
+[Metro-City]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metro-City
+// Metro-City
+patch=1,EE,204AE8F8,extended,00000023
+
+[Ruthless Ridge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ruthless Ridge
+// Ruthless Ridge
+patch=1,EE,204AE904,extended,0000001E
+
+[Intimidator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Intimidator
+// Intimidator
+patch=1,EE,204AE910,extended,00000019
+
+[Gravitude]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gravitude
+// Gravitude
+patch=1,EE,204AE91C,extended,0000001E
+
+[R&B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R&B
+// R&B
+patch=1,EE,204AE928,extended,0000001E
+
+[Style Mile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Style Mile
+// Style Mile
+patch=1,EE,204AE934,extended,0000001E
+
+[Kick Doubt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kick Doubt
+// Kick Doubt
+patch=1,EE,204AE940,extended,0000001E
+
+[Crow's Nest]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crow's Nest
+// Crow's Nest
+patch=1,EE,204AE94C,extended,00000002
+
+[Launch Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Time
+// Launch Time
+patch=1,EE,204AE958,extended,00000004
+
+[Much-2-Much]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Much-2-Much
+// Much-2-Much
+patch=1,EE,204AE964,extended,00000005
+
+[The Junction]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Junction
+// The Junction
+patch=1,EE,204AE970,extended,00000004
+
+[Schizophrenia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Schizophrenia
+// Schizophrenia
+patch=1,EE,204AE97C,extended,00000005
+
+[Perpendiculous]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perpendiculous
+// Perpendiculous
+patch=1,EE,204AE988,extended,00000008
+
+[Happiness]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Happiness
+// Happiness
+patch=1,EE,204AE994,extended,0000002C
+
+[Ruthless]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ruthless
+// Ruthless
+patch=1,EE,204AE9A0,extended,0000002C
+
+[The Throne]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Throne
+// The Throne
+patch=1,EE,204AE9AC,extended,0000002C
+
+[Green Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Green Station
+// Green Station
+patch=1,EE,204AE9B8,extended,00000005
+
+[Blue Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Station
+// Blue Station
+patch=1,EE,204AE9C4,extended,00000005
+
+[Yellow Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yellow Station
+// Yellow Station
+patch=1,EE,204AE9D0,extended,00000005
+
+[Red Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Station
+// Red Station
+patch=1,EE,204AE9DC,extended,00000005
+
+[Black Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Station
+// Black Station
+patch=1,EE,204AE9E8,extended,00000005
+
+[Have All Big Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Big Challenges Completed
+// Have All Big Challenges Completed
+patch=1,EE,404AEA00,extended,00220001
+
+[Have All Big Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Big Challenges Completed
+// Have All Big Challenges Completed
+patch=1,EE,000000FF,extended,00000000
+
+[Have All Rival Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rival Challenges Completed
+// Have All Rival Challenges Completed
+patch=1,EE,404AF3B8,extended,000C0002
+
+[Have All Rival Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rival Challenges Completed
+// Have All Rival Challenges Completed
+patch=1,EE,00010001,extended,00000000
+
+[Have All Gold Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Medals
+// Have All Gold Medals
+patch=1,EE,404AF418,extended,000E0002
+
+[Have All Gold Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Medals
+// Have All Gold Medals
+patch=1,EE,00010001,extended,00000000
+
+[Access All Peaks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Peaks
+// Access All Peaks
+patch=1,EE,204AFAE8,extended,00000000
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,104B0334,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,204B0334,extended,05F5E0FF
+
+[Max Earnings-Peak 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Earnings-Peak 1
+// Max Earnings-Peak 1
+patch=1,EE,204B0338,extended,05F5E0FF
+
+[Have All Career Highlights]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Career Highlights
+// Have All Career Highlights
+patch=1,EE,204B0428,extended,03030303
+
+[Have All Career Highlights]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Career Highlights
+// Have All Career Highlights
+patch=1,EE,204B042C,extended,03030303
+
+[Unlock All Posters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Posters
+// Unlock All Posters
+patch=1,EE,204B07A0,extended,FFFFFFFF
+
+[Unlock All Posters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Posters
+// Unlock All Posters
+patch=1,EE,104B07A4,extended,0000FFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,104B07A6,extended,0000FFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204B07A8,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204B07AC,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,204B07B0,extended,FFFFFFFF
+
+[Unlock All Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trading Cards
+// Unlock All Trading Cards
+patch=1,EE,004B07B4,extended,000000FF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,004B07B5,extended,000000FF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,104B07B6,extended,0000FFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,204B07B8,extended,FFFFFFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,204B07BC,extended,FFFFFFFF
+
+[Unlock All Art]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Art
+// Unlock All Art
+patch=1,EE,104B07C0,extended,0000FFFF
+
+[Unlock All Videos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Videos
+// Unlock All Videos
+patch=1,EE,004B07C2,extended,000000FF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,004B07C3,extended,000000FF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,104B07C4,extended,0000FFFF
+
+[Unlock All Toys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Toys
+// Unlock All Toys
+patch=1,EE,004B07C6,extended,000000FF
+
+[Unlock All Cheat Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheat Characters
+// Unlock All Cheat Characters
+patch=1,EE,004B07C7,extended,000000FF
+
+[Unlock All Cheat Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheat Characters
+// Unlock All Cheat Characters
+patch=1,EE,104B07C8,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,004B044F,extended,00000037
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204B0450,extended,37373737
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104B0454,extended,00003737
+
+[Snow Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snow Jam
+// Snow Jam
+patch=1,EE,204AF874,extended,0000001E
+
+[Metro-City]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metro-City
+// Metro-City
+patch=1,EE,204AF880,extended,00000023
+
+[Ruthless Ridge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ruthless Ridge
+// Ruthless Ridge
+patch=1,EE,204AF88C,extended,0000001E
+
+[Intimidator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Intimidator
+// Intimidator
+patch=1,EE,204AF898,extended,00000019
+
+[Gravitude]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gravitude
+// Gravitude
+patch=1,EE,204AF8A4,extended,0000001E
+
+[R&B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R&B
+// R&B
+patch=1,EE,204AF8B0,extended,0000001E
+
+[Style Mile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Style Mile
+// Style Mile
+patch=1,EE,204AF8BC,extended,0000001E
+
+[Kick Doubt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kick Doubt
+// Kick Doubt
+patch=1,EE,204AF8C8,extended,0000001E
+
+[Crow's Nest]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crow's Nest
+// Crow's Nest
+patch=1,EE,204AF8D4,extended,00000002
+
+[Launch Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Time
+// Launch Time
+patch=1,EE,204AF8E0,extended,00000004
+
+[Much-2-Much]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Much-2-Much
+// Much-2-Much
+patch=1,EE,204AF8EC,extended,00000005
+
+[The Junction]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Junction
+// The Junction
+patch=1,EE,204AF8F8,extended,00000004
+
+[Schizophrenia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Schizophrenia
+// Schizophrenia
+patch=1,EE,204AF904,extended,00000005
+
+[Perpendiculous]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perpendiculous
+// Perpendiculous
+patch=1,EE,204AF910,extended,00000008
+
+[Happiness]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Happiness
+// Happiness
+patch=1,EE,204AF91C,extended,0000002C
+
+[Ruthless]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ruthless
+// Ruthless
+patch=1,EE,204AF928,extended,0000002C
+
+[The Throne]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Throne
+// The Throne
+patch=1,EE,204AF934,extended,0000002C
+
+[Green Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Green Station
+// Green Station
+patch=1,EE,204AF940,extended,00000005
+
+[Blue Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Station
+// Blue Station
+patch=1,EE,204AF94C,extended,00000005
+
+[Yellow Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yellow Station
+// Yellow Station
+patch=1,EE,204AF958,extended,00000005
+
+[Red Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Station
+// Red Station
+patch=1,EE,204AF964,extended,00000005
+
+[Black Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Station
+// Black Station
+patch=1,EE,204AF970,extended,00000005
+
+[Have All Big Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Big Challenges Completed
+// Have All Big Challenges Completed
+patch=1,EE,404AF988,extended,00220001
+
+[Have All Big Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Big Challenges Completed
+// Have All Big Challenges Completed
+patch=1,EE,000000FF,extended,00000000
+
+[Have All Rival Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rival Challenges Completed
+// Have All Rival Challenges Completed
+patch=1,EE,404B0340,extended,000C0002
+
+[Have All Rival Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rival Challenges Completed
+// Have All Rival Challenges Completed
+patch=1,EE,00010001,extended,00000000
+
+[Have All Gold Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Medals
+// Have All Gold Medals
+patch=1,EE,404B03A0,extended,000E0002
+
+[Have All Gold Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Medals
+// Have All Gold Medals
+patch=1,EE,00010001,extended,00000000

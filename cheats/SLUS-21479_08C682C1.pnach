@@ -1,0 +1,301 @@
+gametitle=Reservoir Dogs [SLUS-21479] [08C682C1]
+
+[Apocalypse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Apocalypse
+// Apocalypse
+patch=1,EE,9044E64C,extended,0C113BF1
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,2043D940,extended,24020001
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201ECF64,extended,C4410004
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201ECF74,extended,E460154C
+
+[Infinite Adrenaline]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Adrenaline
+// Infinite Adrenaline
+patch=1,EE,201D2A40,extended,E4A11834
+
+[Infinite Ammo-Pistols]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo-Pistols
+// Infinite Ammo-Pistols
+patch=1,EE,201064F0,extended,00000000
+
+[Infinite Ammo-Pistols]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo-Pistols
+// Infinite Ammo-Pistols
+patch=1,EE,201065B0,extended,00000000
+
+[Max Infinite Ammo-Pistols]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo-Pistols
+// Max Infinite Ammo-Pistols
+patch=1,EE,201064EC,extended,240203E7
+
+[Max Infinite Ammo-Pistols]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo-Pistols
+// Max Infinite Ammo-Pistols
+patch=1,EE,201065AC,extended,240203E7
+
+[Extra Ammo-Pistols]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo-Pistols
+// Extra Ammo-Pistols
+patch=1,EE,201064EC,extended,00451021
+
+[Extra Ammo-Pistols]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo-Pistols
+// Extra Ammo-Pistols
+patch=1,EE,201065AC,extended,00651021
+
+[Infinite Ammo-Shotgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo-Shotgun
+// Infinite Ammo-Shotgun
+patch=1,EE,20106140,extended,00000000
+
+[Max Infinite Ammo-Shotgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo-Shotgun
+// Max Infinite Ammo-Shotgun
+patch=1,EE,20106134,extended,240203E7
+
+[Extra Ammo-Shotgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo-Shotgun
+// Extra Ammo-Shotgun
+patch=1,EE,10106134,extended,00000001
+
+[Infinite Ammo-Sub Machine Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo-Sub Machine Gun
+// Infinite Ammo-Sub Machine Gun
+patch=1,EE,20106660,extended,00000000
+
+[Max Infinite Ammo-Sub Machine Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo-Sub Machine Gun
+// Max Infinite Ammo-Sub Machine Gun
+patch=1,EE,20106654,extended,240203E7
+
+[Extra Ammo-Sub Machine Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo-Sub Machine Gun
+// Extra Ammo-Sub Machine Gun
+patch=1,EE,20106654,extended,00651021
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,20139D20,extended,00000000
+
+[Never Reload With Max Clip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload With Max Clip
+// Never Reload With Max Clip
+patch=1,EE,20139D1C,extended,240203E7
+
+[Disable Ammo Hud]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Ammo Hud
+// Disable Ammo Hud
+patch=1,EE,2031FCBC,extended,00000000
+
+[Unlock All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Levels
+// Unlock All Levels
+patch=1,EE,41DD8E24,extended,00100010
+
+[Unlock All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Levels
+// Unlock All Levels
+patch=1,EE,000000FF,extended,00000000
+
+[Career Criminal Rank-All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Career Criminal Rank-All Levels
+// Career Criminal Rank-All Levels
+patch=1,EE,41DD8E20,extended,00100010
+
+[Career Criminal Rank-All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Career Criminal Rank-All Levels
+// Career Criminal Rank-All Levels
+patch=1,EE,00000000,extended,00000000
+
+[Professional Rank-All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Professional Rank-All Levels
+// Professional Rank-All Levels
+patch=1,EE,41DD8E20,extended,00100010
+
+[Professional Rank-All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Professional Rank-All Levels
+// Professional Rank-All Levels
+patch=1,EE,3F000000,extended,00000000
+
+[Consummuate Pro Rank-All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Consummuate Pro Rank-All Levels
+// Consummuate Pro Rank-All Levels
+patch=1,EE,41DD8E20,extended,00100010
+
+[Consummuate Pro Rank-All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Consummuate Pro Rank-All Levels
+// Consummuate Pro Rank-All Levels
+patch=1,EE,3F800000,extended,00000000
+
+[Psychopath Rank-All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Psychopath Rank-All Levels
+// Psychopath Rank-All Levels
+patch=1,EE,41DD8E20,extended,00100010
+
+[Psychopath Rank-All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Psychopath Rank-All Levels
+// Psychopath Rank-All Levels
+patch=1,EE,BF000000,extended,00000000
+
+[Stone Cold Psycho Rank-All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stone Cold Psycho Rank-All Levels
+// Stone Cold Psycho Rank-All Levels
+patch=1,EE,41DD8E20,extended,00100010
+
+[Stone Cold Psycho Rank-All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stone Cold Psycho Rank-All Levels
+// Stone Cold Psycho Rank-All Levels
+patch=1,EE,BF800000,extended,00000000
+
+[Unlock Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Levels
+// Unlock Levels
+patch=1,EE,21DE429C,extended,93FBE490
+
+[Unlock Art Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Art Gallery
+// Unlock Art Gallery
+patch=1,EE,21DE42A0,extended,7F1981CE
+
+[Unlock Movie Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Movie Gallery
+// Unlock Movie Gallery
+patch=1,EE,21DE42A4,extended,24B85D04
+
+[Fully Loaded]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fully Loaded
+// Fully Loaded
+patch=1,EE,21DE42A8,extended,A21C56C5
+
+[Bulletproof]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bulletproof
+// Bulletproof
+patch=1,EE,21DE42AC,extended,F9BD8A0F
+
+[Adrenaline Rush]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Adrenaline Rush
+// Adrenaline Rush
+patch=1,EE,21DE42B0,extended,155FEF51
+
+[Magic Bullet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Magic Bullet
+// Magic Bullet
+patch=1,EE,21DE42B4,extended,4EFE339B
+
+[Battering Ram]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battering Ram
+// Battering Ram
+patch=1,EE,21DE42B8,extended,1CD6E564
+
+[Time Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Time Out
+// Time Out
+patch=1,EE,21DE42BC,extended,477739AE
+
+[Unlock Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Levels
+// Unlock Levels
+patch=1,EE,21DE5224,extended,00000001
+
+[Unlock Art Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Art Gallery
+// Unlock Art Gallery
+patch=1,EE,21DE5228,extended,00000001
+
+[Unlock Movie Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Movie Gallery
+// Unlock Movie Gallery
+patch=1,EE,21DE522C,extended,00000001
+
+[Fully Loaded]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fully Loaded
+// Fully Loaded
+patch=1,EE,21DE5230,extended,00000001
+
+[Bulletproof]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bulletproof
+// Bulletproof
+patch=1,EE,21DE5234,extended,00000001
+
+[Adrenaline Rush]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Adrenaline Rush
+// Adrenaline Rush
+patch=1,EE,21DE5238,extended,00000001
+
+[Magic Bullet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Magic Bullet
+// Magic Bullet
+patch=1,EE,21DE523C,extended,00000001
+
+[Battering Ram]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battering Ram
+// Battering Ram
+patch=1,EE,21DE5240,extended,00000001
+
+[Time Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Time Out
+// Time Out
+patch=1,EE,21DE5244,extended,00000001

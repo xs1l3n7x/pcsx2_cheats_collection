@@ -1,0 +1,163 @@
+gametitle=MX Superfly [SLUS-20381] [0CD3C2F6]
+
+[9 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9 Opponents
+// 9 Opponents
+patch=1,EE,F0100008,extended,0012C6A7
+
+[Max Race Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Race Points
+// Max Race Points
+patch=1,EE,1041FEE4,extended,000003E7
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,104204A8,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,204204A8,extended,05F5E0FF
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,201E0C10,extended,03E00008
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,201E0C14,extended,00000000
+
+[Have All Riders]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Riders
+// Have All Riders
+patch=1,EE,20412D20,extended,00000000
+
+[Have All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bikes
+// Have All Bikes
+patch=1,EE,20412D24,extended,0000FFFF
+
+[Have All Mini-Games]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Mini-Games
+// Have All Mini-Games
+patch=1,EE,20412D28,extended,0000FFFF
+
+[1 Lap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Lap
+// 1 Lap
+patch=1,EE,20412340,extended,00000000
+
+[2 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Laps
+// 2 Laps
+patch=1,EE,20412340,extended,00000001
+
+[3 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=3 Laps
+// 3 Laps
+patch=1,EE,20412340,extended,00000002
+
+[4 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4 Laps
+// 4 Laps
+patch=1,EE,20412340,extended,00000003
+
+[5 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5 Laps
+// 5 Laps
+patch=1,EE,20412340,extended,00000004
+
+[6 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=6 Laps
+// 6 Laps
+patch=1,EE,20412340,extended,00000005
+
+[7 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=7 Laps
+// 7 Laps
+patch=1,EE,20412340,extended,00000006
+
+[8 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=8 Laps
+// 8 Laps
+patch=1,EE,20412340,extended,00000007
+
+[9 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9 Laps
+// 9 Laps
+patch=1,EE,20412340,extended,00000008
+
+[10 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=10 Laps
+// 10 Laps
+patch=1,EE,20412340,extended,00000009
+
+[No Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Opponents
+// No Opponents
+patch=1,EE,2041232C,extended,00000000
+
+[1 Opponent]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Opponent
+// 1 Opponent
+patch=1,EE,2041232C,extended,00000001
+
+[2 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Opponents
+// 2 Opponents
+patch=1,EE,2041232C,extended,00000002
+
+[3 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=3 Opponents
+// 3 Opponents
+patch=1,EE,2041232C,extended,00000003
+
+[4 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4 Opponents
+// 4 Opponents
+patch=1,EE,2041232C,extended,00000004
+
+[5 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5 Opponents
+// 5 Opponents
+patch=1,EE,2041232C,extended,00000005
+
+[6 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=6 Opponents
+// 6 Opponents
+patch=1,EE,2041232C,extended,00000006
+
+[7 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=7 Opponents
+// 7 Opponents
+patch=1,EE,2041232C,extended,00000007

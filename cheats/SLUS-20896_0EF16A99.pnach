@@ -1,0 +1,919 @@
+gametitle=Monster Hunter [SLUS-20896] [0EF16A99]
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,90186BD0,extended,0C05B1BC
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,103E99E0,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,203E99E0,extended,05F5E0FF
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,10407A22,extended,00000096
+
+[Infinite Stamina]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Stamina
+// Infinite Stamina
+patch=1,EE,10407E68,extended,0000270F
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,004168B5,extended,00000032
+
+[Max Stamina]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stamina
+// Max Stamina
+patch=1,EE,104168B6,extended,0000012C
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004168B3,extended,0000007F
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004168B4,extended,0000007F
+
+[Max Fire Res]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fire Res
+// Max Fire Res
+patch=1,EE,0059EB79,extended,00000064
+
+[Max Water Res]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Water Res
+// Max Water Res
+patch=1,EE,0059EB7A,extended,00000064
+
+[Max Thunder Res]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Thunder Res
+// Max Thunder Res
+patch=1,EE,0059EB7B,extended,00000064
+
+[Max Dragon Res]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Dragon Res
+// Max Dragon Res
+patch=1,EE,0059EB7C,extended,00000064
+
+[Always Low Game Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Game Time
+// Always Low Game Time
+patch=1,EE,203E9F9C,extended,00000000
+
+[Infinite Quest Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Quest Time
+// Infinite Quest Time
+patch=1,EE,203EA0C0,extended,0001A5DF
+
+[P1 Press {L1}+{SELECT} To Stop Quest Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Quest Timer
+// P1 Press {L1}+{SELECT} To Stop Quest Timer
+patch=1,EE,D047829C,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Stop Quest Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Quest Timer
+// P1 Press {L1}+{SELECT} To Stop Quest Timer
+patch=1,EE,201F3FE4,extended,00000000
+
+[P1 Press {L2}+{SELECT} To Restart Quest Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Quest Timer
+// P1 Press {L2}+{SELECT} To Restart Quest Timer
+patch=1,EE,D047829C,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Restart Quest Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Quest Timer
+// P1 Press {L2}+{SELECT} To Restart Quest Timer
+patch=1,EE,201F3FE4,extended,AC23A0C0
+
+[Level 1-Quest 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 1-Quest 1
+// Level 1-Quest 1
+patch=1,EE,703E9F8C,extended,00000008
+
+[Level 1-Quest 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 1-Quest 2
+// Level 1-Quest 2
+patch=1,EE,703E9F8C,extended,00000010
+
+[Level 1-Quest 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 1-Quest 3
+// Level 1-Quest 3
+patch=1,EE,703E9F8C,extended,00000020
+
+[Level 1-Quest 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 1-Quest 4
+// Level 1-Quest 4
+patch=1,EE,703E9F8C,extended,00000040
+
+[Level 1-Quest 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 1-Quest 5
+// Level 1-Quest 5
+patch=1,EE,703E9F8C,extended,00000080
+
+[Level 1-All Quests]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 1-All Quests
+// Level 1-All Quests
+patch=1,EE,703E9F8C,extended,000000F8
+
+[Level 2-Quest 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 2-Quest 1
+// Level 2-Quest 1
+patch=1,EE,703E9F8D,extended,00000001
+
+[Level 2-Quest 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 2-Quest 2
+// Level 2-Quest 2
+patch=1,EE,703E9F8D,extended,00000020
+
+[Level 2-Quest 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 2-Quest 3
+// Level 2-Quest 3
+patch=1,EE,703E9F8D,extended,00000040
+
+[Level 2-Quest 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 2-Quest 4
+// Level 2-Quest 4
+patch=1,EE,703E9F8D,extended,00000080
+
+[Level 2-Quest 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 2-Quest 5
+// Level 2-Quest 5
+patch=1,EE,703E9F8D,extended,00000004
+
+[Level 2-All Quests]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 2-All Quests
+// Level 2-All Quests
+patch=1,EE,703E9F8D,extended,000000E5
+
+[Level 3-Quest 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 3-Quest 1
+// Level 3-Quest 1
+patch=1,EE,703E9F8E,extended,00000002
+
+[Level 3-Quest 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 3-Quest 2
+// Level 3-Quest 2
+patch=1,EE,703E9F92,extended,00000004
+
+[Level 3-Quest 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 3-Quest 3
+// Level 3-Quest 3
+patch=1,EE,703E9F8D,extended,00000002
+
+[Level 3-Quest 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 3-Quest 4
+// Level 3-Quest 4
+patch=1,EE,703E9F8E,extended,00000008
+
+[Level 3-Quest 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 3-Quest 5
+// Level 3-Quest 5
+patch=1,EE,703E9F8E,extended,00000020
+
+[Level 3-All Quests]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 3-All Quests
+// Level 3-All Quests
+patch=1,EE,703E9F8D,extended,00000002
+
+[Level 3-All Quests]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 3-All Quests
+// Level 3-All Quests
+patch=1,EE,703E9F8E,extended,0000002A
+
+[Level 3-All Quests]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 3-All Quests
+// Level 3-All Quests
+patch=1,EE,703E9F92,extended,00000004
+
+[Level 4-Unlock Quests]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 4-Unlock Quests
+// Level 4-Unlock Quests
+patch=1,EE,703E9F8F,extended,00000004
+
+[Level 4-Quest 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 4-Quest 1
+// Level 4-Quest 1
+patch=1,EE,703E9F8E,extended,00000080
+
+[Level 4-Quest 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 4-Quest 2
+// Level 4-Quest 2
+patch=1,EE,703E9F92,extended,00000008
+
+[Level 4-Quest 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 4-Quest 3
+// Level 4-Quest 3
+patch=1,EE,703E9F8F,extended,00000001
+
+[Level 4-Quest 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 4-Quest 4
+// Level 4-Quest 4
+patch=1,EE,703E9F92,extended,00000040
+
+[Level 4-Quest 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 4-Quest 5
+// Level 4-Quest 5
+patch=1,EE,703E9F8F,extended,00000020
+
+[Level 4-All Quests]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 4-All Quests
+// Level 4-All Quests
+patch=1,EE,703E9F8E,extended,00102580
+
+[Level 4-All Quests]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 4-All Quests
+// Level 4-All Quests
+patch=1,EE,703E9F92,extended,00000048
+
+[Level 5-Quest 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 5-Quest 1
+// Level 5-Quest 1
+patch=1,EE,703E9F90,extended,00000080
+
+[Level 5-Quest 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 5-Quest 2
+// Level 5-Quest 2
+patch=1,EE,703E9F93,extended,00000001
+
+[Level 5-Quest 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 5-Quest 3
+// Level 5-Quest 3
+patch=1,EE,703E9F90,extended,00000008
+
+[Level 5-Quest 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 5-Quest 4
+// Level 5-Quest 4
+patch=1,EE,703E9F8D,extended,00000008
+
+[Level 5-Quest 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 5-Quest 5
+// Level 5-Quest 5
+patch=1,EE,703E9F8D,extended,00000010
+
+[Level 5-All Quests]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 5-All Quests
+// Level 5-All Quests
+patch=1,EE,703E9F8D,extended,00000018
+
+[Level 5-All Quests]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 5-All Quests
+// Level 5-All Quests
+patch=1,EE,703E9F90,extended,00000088
+
+[Level 5-All Quests]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 5-All Quests
+// Level 5-All Quests
+patch=1,EE,703E9F93,extended,00000001
+
+[All Levels-All Quests]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Levels-All Quests
+// All Levels-All Quests
+patch=1,EE,703E9F8C,extended,0010FFF8
+
+[All Levels-All Quests]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Levels-All Quests
+// All Levels-All Quests
+patch=1,EE,703E9F8E,extended,001025AA
+
+[All Levels-All Quests]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Levels-All Quests
+// All Levels-All Quests
+patch=1,EE,703E9F8C,extended,00100088
+
+[All Levels-All Quests]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Levels-All Quests
+// All Levels-All Quests
+patch=1,EE,703E9F8C,extended,001001FF
+
+[Slot 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1
+// Slot 1
+patch=1,EE,103E9FA6,extended,00000063
+
+[Slot 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1
+// Slot 1
+patch=1,EE,10407F4A,extended,00000063
+
+[Slot 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2
+// Slot 2
+patch=1,EE,103E9FAA,extended,00000063
+
+[Slot 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2
+// Slot 2
+patch=1,EE,10407F4E,extended,00000063
+
+[Slot 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3
+// Slot 3
+patch=1,EE,103E9FAE,extended,00000063
+
+[Slot 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3
+// Slot 3
+patch=1,EE,10407F52,extended,00000063
+
+[Slot 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4
+// Slot 4
+patch=1,EE,103E9FB2,extended,00000063
+
+[Slot 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4
+// Slot 4
+patch=1,EE,10407F56,extended,00000063
+
+[Slot 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 5
+// Slot 5
+patch=1,EE,103E9FB6,extended,00000063
+
+[Slot 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 5
+// Slot 5
+patch=1,EE,10407F5A,extended,00000063
+
+[Slot 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 6
+// Slot 6
+patch=1,EE,103E9FBA,extended,00000063
+
+[Slot 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 6
+// Slot 6
+patch=1,EE,10407F5E,extended,00000063
+
+[Slot 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 7
+// Slot 7
+patch=1,EE,103E9FBE,extended,00000063
+
+[Slot 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 7
+// Slot 7
+patch=1,EE,10407F62,extended,00000063
+
+[Slot 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 8
+// Slot 8
+patch=1,EE,103E9FC2,extended,00000063
+
+[Slot 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 8
+// Slot 8
+patch=1,EE,10407F66,extended,00000063
+
+[Slot 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 9
+// Slot 9
+patch=1,EE,103E9FC6,extended,00000063
+
+[Slot 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 9
+// Slot 9
+patch=1,EE,10407F6A,extended,00000063
+
+[Slot 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 10
+// Slot 10
+patch=1,EE,103E9FCA,extended,00000063
+
+[Slot 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 10
+// Slot 10
+patch=1,EE,10407F6E,extended,00000063
+
+[Slot 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 11
+// Slot 11
+patch=1,EE,103E9FCE,extended,00000063
+
+[Slot 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 11
+// Slot 11
+patch=1,EE,10407F72,extended,00000063
+
+[Slot 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 12
+// Slot 12
+patch=1,EE,103E9FD2,extended,00000063
+
+[Slot 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 12
+// Slot 12
+patch=1,EE,10407F76,extended,00000063
+
+[Slot 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 13
+// Slot 13
+patch=1,EE,103E9FD6,extended,00000063
+
+[Slot 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 13
+// Slot 13
+patch=1,EE,10407F7A,extended,00000063
+
+[Slot 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 14
+// Slot 14
+patch=1,EE,103E9FDA,extended,00000063
+
+[Slot 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 14
+// Slot 14
+patch=1,EE,10407F7E,extended,00000063
+
+[Slot 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 15
+// Slot 15
+patch=1,EE,103E9FDE,extended,00000063
+
+[Slot 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 15
+// Slot 15
+patch=1,EE,10407F82,extended,00000063
+
+[Slot 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 16
+// Slot 16
+patch=1,EE,103E9FE2,extended,00000063
+
+[Slot 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 16
+// Slot 16
+patch=1,EE,10407F86,extended,00000063
+
+[Slot 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 17
+// Slot 17
+patch=1,EE,103E9FE6,extended,00000063
+
+[Slot 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 17
+// Slot 17
+patch=1,EE,10407F8A,extended,00000063
+
+[Slot 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 18
+// Slot 18
+patch=1,EE,103E9FEA,extended,00000063
+
+[Slot 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 18
+// Slot 18
+patch=1,EE,10407F8E,extended,00000063
+
+[Slot 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 19
+// Slot 19
+patch=1,EE,103E9FEE,extended,00000063
+
+[Slot 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 19
+// Slot 19
+patch=1,EE,10407F92,extended,00000063
+
+[Slot 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 20
+// Slot 20
+patch=1,EE,103E9FF2,extended,00000063
+
+[Slot 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 20
+// Slot 20
+patch=1,EE,10407F96,extended,00000063
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0004,extended,3C01003B
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0008,extended,9021AC51
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C000C,extended,24030001
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0010,extended,1423002F
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0014,extended,3C010048
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0018,extended,9421829C
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C001C,extended,3C08000C
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0020,extended,3403FFFF
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0024,extended,5023002A
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0028,extended,A1000000
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C002C,extended,3403F7FF
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0030,extended,5023000C
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0034,extended,34050001
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0038,extended,3403FBFF
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C003C,extended,50230009
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0040,extended,2405FFFF
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0044,extended,3403FDFF
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0048,extended,50230006
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C004C,extended,3C050001
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0050,extended,3403FEFF
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0054,extended,50230003
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0058,extended,3C05FFFF
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C005C,extended,1000001C
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0060,extended,00000000
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0064,extended,8D010000
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0068,extended,14200019
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C006C,extended,3C01003A
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0070,extended,90213889
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0074,extended,3C03003E
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0078,extended,34639FA4
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C007C,extended,00010880
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0080,extended,00611821
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0084,extended,8C640000
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0088,extended,00852021
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C008C,extended,30A6FFFF
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0090,extended,3087FFFF
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0094,extended,2CE70150
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C0098,extended,14E00002
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C009C,extended,00C53826
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C00A0,extended,00862023
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C00A4,extended,00042D82
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C00A8,extended,2CA50064
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C00AC,extended,50A00001
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C00B0,extended,00872023
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C00B4,extended,AC640000
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C00B8,extended,3C030040
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C00BC,extended,34637F48
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C00C0,extended,00611821
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C00C4,extended,AC640000
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C00C8,extended,24030001
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C00CC,extended,A1030000
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C00D0,extended,03E00008
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,200C00D4,extended,00000000
+
+[Super Item Modifier Code]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Item Modifier Code
+// Super Item Modifier Code
+patch=1,EE,20186C1C,extended,08030001

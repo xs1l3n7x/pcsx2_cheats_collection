@@ -1,0 +1,121 @@
+gametitle=Crash 'N' Burn [SLUS-21013] [F21EE6E0]
+
+[P1 Press {L2}+{SELECT} To Restart Lap Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Lap Timer
+// P1 Press {L2}+{SELECT} To Restart Lap Timer
+patch=1,EE,903B28C0,extended,0C1026FB
+
+[Infinite Turbo Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Turbo Usage
+// Infinite Turbo Usage
+patch=1,EE,2019CC0C,extended,00000000
+
+[Start With Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With Max Money
+// Start With Max Money
+patch=1,EE,20592C4C,extended,05F5E0FF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,200C0220,extended,3C0605F5
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,200C0224,extended,34C6E0FF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,200C0228,extended,0809B240
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,200C022C,extended,AC6634B8
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,202185A8,extended,0C030088
+
+[Unlock All Tracks/Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Tracks/Events
+// Unlock All Tracks/Events
+patch=1,EE,200C0230,extended,3C0105F5
+
+[Unlock All Tracks/Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Tracks/Events
+// Unlock All Tracks/Events
+patch=1,EE,200C0234,extended,3421E0FF
+
+[Unlock All Tracks/Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Tracks/Events
+// Unlock All Tracks/Events
+patch=1,EE,200C0238,extended,AC6134BC
+
+[Unlock All Tracks/Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Tracks/Events
+// Unlock All Tracks/Events
+patch=1,EE,200C023C,extended,0808614B
+
+[Unlock All Tracks/Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Tracks/Events
+// Unlock All Tracks/Events
+patch=1,EE,200C0240,extended,C46C34BC
+
+[Unlock All Tracks/Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Tracks/Events
+// Unlock All Tracks/Events
+patch=1,EE,20218528,extended,0C03008C
+
+[Buying Items Doesnt Decrease Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Items Doesnt Decrease Money
+// Buying Items Doesnt Decrease Money
+patch=1,EE,20125A5C,extended,00000000
+
+[Buying Items Increases Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Items Increases Money
+// Buying Items Increases Money
+patch=1,EE,20125A60,extended,00A22821
+
+[Indestructible Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Indestructible Car
+// Indestructible Car
+patch=1,EE,20592BD0,extended,00000001
+
+[Unlimited Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Money
+// Unlimited Money
+patch=1,EE,20592CA0,extended,00000001
+
+[Unlock All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Tracks
+// Unlock All Tracks
+patch=1,EE,20592CA4,extended,00000001
+
+[Unlock All Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Events
+// Unlock All Events
+patch=1,EE,20592CA8,extended,00000001

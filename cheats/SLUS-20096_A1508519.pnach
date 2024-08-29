@@ -1,0 +1,205 @@
+gametitle=Swing Away Golf [SLUS-20096] [A1508519]
+
+[All Rider Stills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Rider Stills
+// All Rider Stills
+patch=1,EE,F0200008,extended,0031B78B
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,203BF984,extended,FFFFFFFF
+
+[Infinite Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Skill Points
+// Infinite Skill Points
+patch=1,EE,202ABA30,extended,00000000
+
+[Infinite Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Skill Points
+// Infinite Skill Points
+patch=1,EE,202ABD50,extended,00000000
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,103D7780,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,203D7780,extended,05F5E0FF
+
+[Buying Items Doesnt Decrease Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Items Doesnt Decrease Money
+// Buying Items Doesnt Decrease Money
+patch=1,EE,202C37D8,extended,00000000
+
+[Buying Items Increases Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Items Increases Money
+// Buying Items Increases Money
+patch=1,EE,202C37D4,extended,00A92821
+
+[Have All Drivers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Drivers
+// Have All Drivers
+patch=1,EE,103D794C,extended,0000FFFF
+
+[Have All Woods]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Woods
+// Have All Woods
+patch=1,EE,103D794E,extended,0000FFFF
+
+[Have All Utilities]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Utilities
+// Have All Utilities
+patch=1,EE,103D7950,extended,0000FFFF
+
+[Have All Irons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Irons
+// Have All Irons
+patch=1,EE,103D7952,extended,0000FFFF
+
+[Have All Wedges]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Wedges
+// Have All Wedges
+patch=1,EE,103D7954,extended,0000FFFF
+
+[Have All Putters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Putters
+// Have All Putters
+patch=1,EE,103D7956,extended,0000FFFF
+
+[Have All Balls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Balls
+// Have All Balls
+patch=1,EE,103D7958,extended,0000FFFF
+
+[Have All Shoes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Shoes
+// Have All Shoes
+patch=1,EE,103D795A,extended,0000FFFF
+
+[Have All Bags]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bags
+// Have All Bags
+patch=1,EE,103D795C,extended,0000FFFF
+
+[Have All Gloves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gloves
+// Have All Gloves
+patch=1,EE,103D795E,extended,0000FFFF
+
+[Always Hole In One P1-All Holes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Hole In One P1-All Holes
+// Always Hole In One P1-All Holes
+patch=1,EE,403D62A8,extended,00090001
+
+[Always Hole In One P1-All Holes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Hole In One P1-All Holes
+// Always Hole In One P1-All Holes
+patch=1,EE,00000000,extended,00000000
+
+[Always 9 Strokes Recorded P1-All Holes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always 9 Strokes Recorded P1-All Holes
+// Always 9 Strokes Recorded P1-All Holes
+patch=1,EE,403D62A8,extended,00090001
+
+[Always 9 Strokes Recorded P1-All Holes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always 9 Strokes Recorded P1-All Holes
+// Always 9 Strokes Recorded P1-All Holes
+patch=1,EE,00090009,extended,00000000
+
+[Always Hole In One P2-All Holes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Hole In One P2-All Holes
+// Always Hole In One P2-All Holes
+patch=1,EE,403D66E8,extended,00090001
+
+[Always Hole In One P2-All Holes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Hole In One P2-All Holes
+// Always Hole In One P2-All Holes
+patch=1,EE,00000000,extended,00000000
+
+[Always 9 Strokes Recorded P2-All Holes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always 9 Strokes Recorded P2-All Holes
+// Always 9 Strokes Recorded P2-All Holes
+patch=1,EE,403D66E8,extended,00090001
+
+[Always 9 Strokes Recorded P2-All Holes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always 9 Strokes Recorded P2-All Holes
+// Always 9 Strokes Recorded P2-All Holes
+patch=1,EE,00090009,extended,00000000
+
+[Always Hole In One P3-All Holes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Hole In One P3-All Holes
+// Always Hole In One P3-All Holes
+patch=1,EE,403D6B28,extended,00090001
+
+[Always Hole In One P3-All Holes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Hole In One P3-All Holes
+// Always Hole In One P3-All Holes
+patch=1,EE,00000000,extended,00000000
+
+[Always 9 Strokes Recorded P3-All Holes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always 9 Strokes Recorded P3-All Holes
+// Always 9 Strokes Recorded P3-All Holes
+patch=1,EE,403D6B28,extended,00090001
+
+[Always 9 Strokes Recorded P3-All Holes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always 9 Strokes Recorded P3-All Holes
+// Always 9 Strokes Recorded P3-All Holes
+patch=1,EE,00090009,extended,00000000
+
+[Always Hole In One P4-All Holes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Hole In One P4-All Holes
+// Always Hole In One P4-All Holes
+patch=1,EE,403D6F68,extended,00090001
+
+[Always Hole In One P4-All Holes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Hole In One P4-All Holes
+// Always Hole In One P4-All Holes
+patch=1,EE,00000000,extended,00000000
+
+[Always 9 Strokes Recorded P4-All Holes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always 9 Strokes Recorded P4-All Holes
+// Always 9 Strokes Recorded P4-All Holes
+patch=1,EE,403D6F68,extended,00090001
+
+[Always 9 Strokes Recorded P4-All Holes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always 9 Strokes Recorded P4-All Holes
+// Always 9 Strokes Recorded P4-All Holes
+patch=1,EE,00090009,extended,00000000

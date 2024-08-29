@@ -1,0 +1,85 @@
+gametitle=God Of War [UNKNOWN] [D78D3D1F]
+
+[Infinite Health (Yakkimaru)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health (Yakkimaru)
+// Infinite Health (Yakkimaru)
+patch=1,EE,201FD464,extended,00000000
+
+[Infinite Health (Dororo)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health (Dororo)
+// Infinite Health (Dororo)
+patch=1,EE,2029D0B4,extended,3C0143C8
+
+[Infinite Health (Dororo)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health (Dororo)
+// Infinite Health (Dororo)
+patch=1,EE,2029D0B8,extended,44810000
+
+[Infinite Health (Dororo)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health (Dororo)
+// Infinite Health (Dororo)
+patch=1,EE,2029D0BC,extended,E6000020
+
+[Infinite Energy]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Energy
+// Infinite Energy
+patch=1,EE,200FFF00,extended,3C013F80
+
+[Infinite Energy]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Energy
+// Infinite Energy
+patch=1,EE,200FFF04,extended,AE8107EC
+
+[Infinite Energy]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Energy
+// Infinite Energy
+patch=1,EE,200FFF08,extended,AE61005C
+
+[Infinite Energy]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Energy
+// Infinite Energy
+patch=1,EE,200FFF0C,extended,03E00008
+
+[Infinite Energy]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Energy
+// Infinite Energy
+patch=1,EE,201FDC90,extended,0C03FFC0
+
+[Infinite Ammo (arms)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Ammo (arms)
+// Infinite Ammo (arms)
+patch=1,EE,20207924,extended,00000000
+
+[Infinite Ammo (legs)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Ammo (legs)
+// Infinite Ammo (legs)
+patch=1,EE,202080BC,extended,00000000
+
+[Faster Animations]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Faster Animations
+// Faster Animations
+patch=1,EE,2028EC88,extended,3C014000
+
+[Faster Animations]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Faster Animations
+// Faster Animations
+patch=1,EE,2028ECA0,extended,4481B000
+
+[Freeze Missions time]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Freeze Missions time
+// Freeze Missions time
+patch=1,EE,201EB448,extended,00000000

@@ -1,0 +1,1861 @@
+gametitle=Evergrace [SLUS-20016] [758F0EE6]
+
+[Beryl Knife]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Beryl Knife
+// Beryl Knife
+patch=1,EE,901C4D18,extended,0C07698C
+
+[Max Str]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Str
+// Max Str
+patch=1,EE,101F7110,extended,000003E7
+
+[Max Sta]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Sta
+// Max Sta
+patch=1,EE,101F7112,extended,000003E7
+
+[Max Int]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Int
+// Max Int
+patch=1,EE,101F7114,extended,000003E7
+
+[Max Res]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Res
+// Max Res
+patch=1,EE,101F7116,extended,000003E7
+
+[Max Luk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Luk
+// Max Luk
+patch=1,EE,101F7118,extended,000003E7
+
+[Max Atk Slash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Atk Slash
+// Max Atk Slash
+patch=1,EE,101F712E,extended,000003E7
+
+[Max Atk Hit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Atk Hit
+// Max Atk Hit
+patch=1,EE,101F7130,extended,000003E7
+
+[Max Atk Lunge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Atk Lunge
+// Max Atk Lunge
+patch=1,EE,101F7132,extended,000003E7
+
+[Max Atk Lightning]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Atk Lightning
+// Max Atk Lightning
+patch=1,EE,101F7134,extended,000003E7
+
+[Max Atk Tree]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Atk Tree
+// Max Atk Tree
+patch=1,EE,101F7136,extended,000003E7
+
+[Max Atk Flame]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Atk Flame
+// Max Atk Flame
+patch=1,EE,101F7138,extended,000003E7
+
+[Max Atk Ice]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Atk Ice
+// Max Atk Ice
+patch=1,EE,101F713A,extended,000003E7
+
+[Max Def Slash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Def Slash
+// Max Def Slash
+patch=1,EE,101F7140,extended,000003E7
+
+[Max Def Hit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Def Hit
+// Max Def Hit
+patch=1,EE,101F7142,extended,000003E7
+
+[Max Def Lunge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Def Lunge
+// Max Def Lunge
+patch=1,EE,101F7144,extended,000003E7
+
+[Max Def Lightning]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Def Lightning
+// Max Def Lightning
+patch=1,EE,101F7146,extended,000003E7
+
+[Max Def Tree]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Def Tree
+// Max Def Tree
+patch=1,EE,101F7148,extended,000003E7
+
+[Max Def Flame]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Def Flame
+// Max Def Flame
+patch=1,EE,101F714A,extended,000003E7
+
+[Max Def Ice]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Def Ice
+// Max Def Ice
+patch=1,EE,101F714C,extended,000003E7
+
+[Infinite Health & Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health & Power
+// Infinite Health & Power
+patch=1,EE,101F7E60,extended,00000428
+
+[Infinite Health & Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health & Power
+// Infinite Health & Power
+patch=1,EE,101F7E66,extended,00000428
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,201F716C,extended,05F5E0FF
+
+[Serrated Blade L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Serrated Blade L1
+// Serrated Blade L1
+patch=1,EE,101F2E90,extended,00004081
+
+[Serrated Blade L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Serrated Blade L2
+// Serrated Blade L2
+patch=1,EE,101F2E98,extended,00004081
+
+[Serrated Blade L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Serrated Blade L3
+// Serrated Blade L3
+patch=1,EE,101F2EA0,extended,00004081
+
+[Majestic Sword L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Majestic Sword L1
+// Majestic Sword L1
+patch=1,EE,101F2EA8,extended,00004081
+
+[Majestic Sword L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Majestic Sword L2
+// Majestic Sword L2
+patch=1,EE,101F2EB0,extended,00004081
+
+[Majestic Sword L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Majestic Sword L3
+// Majestic Sword L3
+patch=1,EE,101F2EB8,extended,00004081
+
+[Degutla L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Degutla L1
+// Degutla L1
+patch=1,EE,101F2EC0,extended,00004081
+
+[Degutla L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Degutla L2
+// Degutla L2
+patch=1,EE,101F2EC8,extended,00004081
+
+[Degutla L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Degutla L3
+// Degutla L3
+patch=1,EE,101F2ED0,extended,00004081
+
+[Tear Blade L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tear Blade L1
+// Tear Blade L1
+patch=1,EE,101F2ED8,extended,00004081
+
+[Tear Blade L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tear Blade L2
+// Tear Blade L2
+patch=1,EE,101F2EE0,extended,00004081
+
+[Tear Blade L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tear Blade L3
+// Tear Blade L3
+patch=1,EE,101F2EE8,extended,00004081
+
+[Defender L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Defender L1
+// Defender L1
+patch=1,EE,101F2EF0,extended,00004081
+
+[Defender L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Defender L2
+// Defender L2
+patch=1,EE,101F2EF8,extended,00004081
+
+[Defender L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Defender L3
+// Defender L3
+patch=1,EE,101F2F00,extended,00004081
+
+[Alterstar L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Alterstar L1
+// Alterstar L1
+patch=1,EE,101F2F08,extended,00004081
+
+[Alterstar L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Alterstar L2
+// Alterstar L2
+patch=1,EE,101F2F10,extended,00004081
+
+[Alterstar L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Alterstar L3
+// Alterstar L3
+patch=1,EE,101F2F18,extended,00004081
+
+[Moonlight Sword L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Moonlight Sword L1
+// Moonlight Sword L1
+patch=1,EE,101F2F20,extended,00004081
+
+[Moonlight Sword L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Moonlight Sword L2
+// Moonlight Sword L2
+patch=1,EE,101F2F28,extended,00004081
+
+[Moonlight Sword L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Moonlight Sword L3
+// Moonlight Sword L3
+patch=1,EE,101F2F30,extended,00004081
+
+[Katana L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana L1
+// Katana L1
+patch=1,EE,101F2F38,extended,00004081
+
+[Katana L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana L2
+// Katana L2
+patch=1,EE,101F2F40,extended,00004081
+
+[Katana L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Katana L3
+// Katana L3
+patch=1,EE,101F2F48,extended,00004081
+
+[Club L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Club L1
+// Club L1
+patch=1,EE,101F2F50,extended,00004081
+
+[Club L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Club L2
+// Club L2
+patch=1,EE,101F2F58,extended,00004081
+
+[Club L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Club L3
+// Club L3
+patch=1,EE,101F2F60,extended,00004081
+
+[Cleaver L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cleaver L1
+// Cleaver L1
+patch=1,EE,101F2F68,extended,00004081
+
+[Cleaver L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cleaver L2
+// Cleaver L2
+patch=1,EE,101F2F70,extended,00004081
+
+[Cleaver L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cleaver L3
+// Cleaver L3
+patch=1,EE,101F2F78,extended,00004081
+
+[Olden Warhammer L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Olden Warhammer L1
+// Olden Warhammer L1
+patch=1,EE,101F2F80,extended,00004081
+
+[Olden Warhammer L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Olden Warhammer L2
+// Olden Warhammer L2
+patch=1,EE,101F2F88,extended,00004081
+
+[Azure Headband L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Azure Headband L1
+// Azure Headband L1
+patch=1,EE,101F30D8,extended,0000C089
+
+[Azure Headband L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Azure Headband L2
+// Azure Headband L2
+patch=1,EE,101F30E0,extended,0000C089
+
+[Azure Headband L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Azure Headband L3
+// Azure Headband L3
+patch=1,EE,101F30E8,extended,0000C089
+
+[Blessed Mask L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blessed Mask L1
+// Blessed Mask L1
+patch=1,EE,101F30F0,extended,0000C089
+
+[Blessed Mask L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blessed Mask L2
+// Blessed Mask L2
+patch=1,EE,101F30F8,extended,0000C089
+
+[Blessed Mask L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blessed Mask L3
+// Blessed Mask L3
+patch=1,EE,101F3100,extended,0000C089
+
+[Paldio Helmet L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Paldio Helmet L1
+// Paldio Helmet L1
+patch=1,EE,101F3108,extended,0000C089
+
+[Infinite Paldio Helmet Palmira Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Paldio Helmet Palmira Power
+// Infinite Paldio Helmet Palmira Power
+patch=1,EE,101F310E,extended,000003E7
+
+[Paldio Helmet L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Paldio Helmet L2
+// Paldio Helmet L2
+patch=1,EE,101F3110,extended,0000C089
+
+[Paldio Helmet L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Paldio Helmet L3
+// Paldio Helmet L3
+patch=1,EE,101F3118,extended,0000C089
+
+[Tylissa's Mask L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tylissa's Mask L1
+// Tylissa's Mask L1
+patch=1,EE,101F3120,extended,0000C089
+
+[Tylissa's Mask L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tylissa's Mask L2
+// Tylissa's Mask L2
+patch=1,EE,101F3128,extended,0000C089
+
+[Tylissa's Mask L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tylissa's Mask L3
+// Tylissa's Mask L3
+patch=1,EE,101F3130,extended,0000C089
+
+[Astute Turban L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Astute Turban L1
+// Astute Turban L1
+patch=1,EE,101F3138,extended,0000C089
+
+[Astute Turban L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Astute Turban L2
+// Astute Turban L2
+patch=1,EE,101F3140,extended,0000C089
+
+[Astute Turban L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Astute Turban L3
+// Astute Turban L3
+patch=1,EE,101F3148,extended,0000C089
+
+[Pot L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pot L1
+// Pot L1
+patch=1,EE,101F3150,extended,0000C089
+
+[Pot L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pot L2
+// Pot L2
+patch=1,EE,101F3158,extended,0000C089
+
+[Pot L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pot L3
+// Pot L3
+patch=1,EE,101F3160,extended,0000C089
+
+[Swan Beret L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Swan Beret L1
+// Swan Beret L1
+patch=1,EE,101F3168,extended,0000C089
+
+[Swan Beret L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Swan Beret L2
+// Swan Beret L2
+patch=1,EE,101F3170,extended,0000C089
+
+[Swan Beret L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Swan Beret L3
+// Swan Beret L3
+patch=1,EE,101F3178,extended,0000C089
+
+[Rabbit Helmet L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rabbit Helmet L1
+// Rabbit Helmet L1
+patch=1,EE,101F3180,extended,0000C089
+
+[Rabbit Helmet L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rabbit Helmet L2
+// Rabbit Helmet L2
+patch=1,EE,101F3188,extended,0000C089
+
+[Rabbit Helmet L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rabbit Helmet L3
+// Rabbit Helmet L3
+patch=1,EE,101F3190,extended,0000C089
+
+[Devine Halo L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Devine Halo L1
+// Devine Halo L1
+patch=1,EE,101F3198,extended,0000C089
+
+[Devine Halo L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Devine Halo L2
+// Devine Halo L2
+patch=1,EE,101F31A0,extended,0000C089
+
+[Devine Halo L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Devine Halo L3
+// Devine Halo L3
+patch=1,EE,101F31A8,extended,0000C089
+
+[Armor Of Frost L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armor Of Frost L1
+// Armor Of Frost L1
+patch=1,EE,101F3230,extended,00004091
+
+[Armor Of Frost L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armor Of Frost L2
+// Armor Of Frost L2
+patch=1,EE,101F3238,extended,00004091
+
+[Armor Of Frost L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armor Of Frost L3
+// Armor Of Frost L3
+patch=1,EE,101F3240,extended,00004091
+
+[Flayed Skin Armor L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flayed Skin Armor L1
+// Flayed Skin Armor L1
+patch=1,EE,101F3248,extended,00004091
+
+[Flayed Skin Armor L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flayed Skin Armor L2
+// Flayed Skin Armor L2
+patch=1,EE,101F3250,extended,00004091
+
+[Flayed Skin Armor L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flayed Skin Armor L3
+// Flayed Skin Armor L3
+patch=1,EE,101F3258,extended,00004091
+
+[Royal Robe L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Royal Robe L1
+// Royal Robe L1
+patch=1,EE,101F3260,extended,00004091
+
+[Royal Robe L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Royal Robe L2
+// Royal Robe L2
+patch=1,EE,101F3268,extended,00000490
+
+[Royal Robe L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Royal Robe L3
+// Royal Robe L3
+patch=1,EE,101F3270,extended,00000490
+
+[Paldio Breastplate L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Paldio Breastplate L1
+// Paldio Breastplate L1
+patch=1,EE,101F3278,extended,00004091
+
+[Infinite Paldio Breastplate Palmira Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Paldio Breastplate Palmira Power
+// Infinite Paldio Breastplate Palmira Power
+patch=1,EE,101F327E,extended,000003E7
+
+[Paldio Breastplate L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Paldio Breastplate L2
+// Paldio Breastplate L2
+patch=1,EE,101F3280,extended,00004091
+
+[Paldio Breastplate L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Paldio Breastplate L3
+// Paldio Breastplate L3
+patch=1,EE,101F3288,extended,00004091
+
+[War Cry Armor L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=War Cry Armor L1
+// War Cry Armor L1
+patch=1,EE,101F3290,extended,00004091
+
+[War Cry Armor L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=War Cry Armor L2
+// War Cry Armor L2
+patch=1,EE,101F3298,extended,00004091
+
+[War Cry Armor L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=War Cry Armor L3
+// War Cry Armor L3
+patch=1,EE,101F32A0,extended,00000491
+
+[Volt Suit L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Volt Suit L1
+// Volt Suit L1
+patch=1,EE,101F32A8,extended,00000491
+
+[Volt Suit L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Volt Suit L2
+// Volt Suit L2
+patch=1,EE,101F32B0,extended,00000491
+
+[Volt Suit L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Volt Suit L3
+// Volt Suit L3
+patch=1,EE,101F32B8,extended,00000491
+
+[Absorbtion Armor L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Absorbtion Armor L1
+// Absorbtion Armor L1
+patch=1,EE,101F32C0,extended,00000491
+
+[Absorbtion Armor L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Absorbtion Armor L2
+// Absorbtion Armor L2
+patch=1,EE,101F32C8,extended,00000491
+
+[Absorbtion Armor L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Absorbtion Armor L3
+// Absorbtion Armor L3
+patch=1,EE,101F32D0,extended,00000491
+
+[Armor Of Valor L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armor Of Valor L1
+// Armor Of Valor L1
+patch=1,EE,101F32D8,extended,00000491
+
+[Armor Of Valor L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armor Of Valor L2
+// Armor Of Valor L2
+patch=1,EE,101F32E8,extended,00000491
+
+[Darkforge Armor L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Darkforge Armor L1
+// Darkforge Armor L1
+patch=1,EE,101F32F0,extended,00000491
+
+[Darkforge Armor L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Darkforge Armor L2
+// Darkforge Armor L2
+patch=1,EE,101F32F8,extended,00000491
+
+[Darkforge Armor L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Darkforge Armor L3
+// Darkforge Armor L3
+patch=1,EE,101F3300,extended,00000491
+
+[Guard Boots L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guard Boots L1
+// Guard Boots L1
+patch=1,EE,101F3310,extended,0000C099
+
+[Guard Boots L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guard Boots L2
+// Guard Boots L2
+patch=1,EE,101F3318,extended,0000C099
+
+[Guard Boots L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guard Boots L3
+// Guard Boots L3
+patch=1,EE,101F3320,extended,0000C099
+
+[Royal Boots L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Royal Boots L1
+// Royal Boots L1
+patch=1,EE,101F3328,extended,0000C099
+
+[Royal Boots L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Royal Boots L2
+// Royal Boots L2
+patch=1,EE,101F3330,extended,0000C099
+
+[Royal Boots L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Royal Boots L3
+// Royal Boots L3
+patch=1,EE,101F3338,extended,0000C099
+
+[Armored Boots L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armored Boots L1
+// Armored Boots L1
+patch=1,EE,101F3340,extended,0000C099
+
+[Armored Boots L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armored Boots L2
+// Armored Boots L2
+patch=1,EE,101F3348,extended,0000C099
+
+[Armored Boots L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armored Boots L3
+// Armored Boots L3
+patch=1,EE,101F3350,extended,0000C099
+
+[Dragolos Boots L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dragolos Boots L1
+// Dragolos Boots L1
+patch=1,EE,101F3358,extended,0000C099
+
+[Dragolos Boots L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dragolos Boots L2
+// Dragolos Boots L2
+patch=1,EE,101F3360,extended,0000C099
+
+[Dragolos Boots L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dragolos Boots L3
+// Dragolos Boots L3
+patch=1,EE,101F3368,extended,0000C099
+
+[Speed Boots L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speed Boots L1
+// Speed Boots L1
+patch=1,EE,101F3370,extended,0000C099
+
+[Speed Boots L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speed Boots L2
+// Speed Boots L2
+patch=1,EE,101F3378,extended,0000C099
+
+[Speed Boots L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speed Boots L3
+// Speed Boots L3
+patch=1,EE,101F3380,extended,0000C099
+
+[Hover Boots L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hover Boots L1
+// Hover Boots L1
+patch=1,EE,101F3388,extended,0000C099
+
+[Woven Boots L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Woven Boots L2
+// Woven Boots L2
+patch=1,EE,101F3388,extended,0000C099
+
+[Hover Boots L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hover Boots L2
+// Hover Boots L2
+patch=1,EE,101F3390,extended,0000C099
+
+[Woven Boots L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Woven Boots L2
+// Woven Boots L2
+patch=1,EE,101F3390,extended,0000C099
+
+[Hover Boots L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hover Boots L3
+// Hover Boots L3
+patch=1,EE,101F3398,extended,0000C099
+
+[Woven Boots L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Woven Boots L3
+// Woven Boots L3
+patch=1,EE,101F3398,extended,0000C099
+
+[Paldio Boots L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Paldio Boots L1
+// Paldio Boots L1
+patch=1,EE,101F33A0,extended,0000C099
+
+[Paldio Boots L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Paldio Boots L2
+// Paldio Boots L2
+patch=1,EE,101F33A8,extended,0000C099
+
+[Paldio Boots L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Paldio Boots L3
+// Paldio Boots L3
+patch=1,EE,101F33B0,extended,0000C099
+
+[Heroic Necklace]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Heroic Necklace
+// Heroic Necklace
+patch=1,EE,101F33C0,extended,000040A1
+
+[Star Necklace]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Star Necklace
+// Star Necklace
+patch=1,EE,101F33C8,extended,000040A1
+
+[Pendant Of Hope]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pendant Of Hope
+// Pendant Of Hope
+patch=1,EE,101F33D0,extended,000040A1
+
+[Icon Of Divinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Icon Of Divinity
+// Icon Of Divinity
+patch=1,EE,101F33D8,extended,000040A1
+
+[Icon Of Loyalty]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Icon Of Loyalty
+// Icon Of Loyalty
+patch=1,EE,101F33E0,extended,000040A1
+
+[Band Of Clarity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Band Of Clarity
+// Band Of Clarity
+patch=1,EE,101F33E8,extended,000040A1
+
+[Ring Of Blessing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ring Of Blessing
+// Ring Of Blessing
+patch=1,EE,101F33F0,extended,000040A1
+
+[Elder's Ring]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elder's Ring
+// Elder's Ring
+patch=1,EE,101F33F8,extended,000040A1
+
+[Amulet Of Purity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Amulet Of Purity
+// Amulet Of Purity
+patch=1,EE,101F3400,extended,000040A1
+
+[Ring Of Resist]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ring Of Resist
+// Ring Of Resist
+patch=1,EE,101F3408,extended,000040A1
+
+[Life Extract]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Life Extract
+// Life Extract
+patch=1,EE,101F3410,extended,000004C1
+
+[Antidote]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Antidote
+// Antidote
+patch=1,EE,101F3418,extended,000004C1
+
+[Billiana Leaf]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Billiana Leaf
+// Billiana Leaf
+patch=1,EE,101F3420,extended,000004C1
+
+[Release Emblem]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Release Emblem
+// Release Emblem
+patch=1,EE,101F3428,extended,000004C1
+
+[Orb Of Atonement]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Orb Of Atonement
+// Orb Of Atonement
+patch=1,EE,101F3430,extended,000004C1
+
+[Billiana Extract]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Billiana Extract
+// Billiana Extract
+patch=1,EE,101F3438,extended,000004C1
+
+[Red Fruit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Fruit
+// Red Fruit
+patch=1,EE,101F3440,extended,000004C1
+
+[Blue Fruit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Fruit
+// Blue Fruit
+patch=1,EE,101F3448,extended,000004C1
+
+[Mushrooms]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mushrooms
+// Mushrooms
+patch=1,EE,101F3450,extended,000004C1
+
+[Palmira Ore]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Palmira Ore
+// Palmira Ore
+patch=1,EE,101F3458,extended,000004C1
+
+[Sword Star]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword Star
+// Sword Star
+patch=1,EE,101F3460,extended,000004C1
+
+[Royal Medal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Royal Medal
+// Royal Medal
+patch=1,EE,101F3468,extended,000004C1
+
+[Red Sphere]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Sphere
+// Red Sphere
+patch=1,EE,101F3470,extended,000004C1
+
+[Blue Sphere]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Sphere
+// Blue Sphere
+patch=1,EE,101F3478,extended,000004C1
+
+[Master Key 2F]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Master Key 2F
+// Master Key 2F
+patch=1,EE,101F3480,extended,000004C1
+
+[Billiana Fruit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Billiana Fruit
+// Billiana Fruit
+patch=1,EE,101F3488,extended,000004C1
+
+[Right Winged Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Right Winged Key
+// Right Winged Key
+patch=1,EE,101F3490,extended,000004C1
+
+[Left Winged Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Left Winged Key
+// Left Winged Key
+patch=1,EE,101F3498,extended,000004C1
+
+[Red Sphere (B)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Sphere (B)
+// Red Sphere (B)
+patch=1,EE,101F34A0,extended,000004C1
+
+[Blue Sphere (B)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Sphere (B)
+// Blue Sphere (B)
+patch=1,EE,101F34A8,extended,000004C1
+
+[Scarlet Sphere]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scarlet Sphere
+// Scarlet Sphere
+patch=1,EE,101F34B0,extended,000004C1
+
+[Azure Sphere]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Azure Sphere
+// Azure Sphere
+patch=1,EE,101F34B8,extended,000004C1
+
+[Dark Guide Post]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Guide Post
+// Dark Guide Post
+patch=1,EE,101F34C0,extended,000004C1
+
+[Caped Statue Body]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Caped Statue Body
+// Caped Statue Body
+patch=1,EE,101F34C8,extended,000004C1
+
+[Caped Statue Head]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Caped Statue Head
+// Caped Statue Head
+patch=1,EE,101F34D0,extended,000004C1
+
+[Treasure Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Treasure Key
+// Treasure Key
+patch=1,EE,101F34D8,extended,000004C1
+
+[Soul Of Goddess]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Soul Of Goddess
+// Soul Of Goddess
+patch=1,EE,101F34E0,extended,000004C1
+
+[Small Flower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Small Flower
+// Small Flower
+patch=1,EE,101F34E8,extended,000004C1
+
+[Transpot Palmira]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Transpot Palmira
+// Transpot Palmira
+patch=1,EE,101F34F0,extended,000004C1
+
+[Sealed Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sealed Key
+// Sealed Key
+patch=1,EE,101F34F8,extended,000004C1
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,201F7170,extended,05F5E0FF
+
+[Premier Spear L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Premier Spear L1
+// Premier Spear L1
+patch=1,EE,101F3580,extended,00004085
+
+[Premier Spear L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Premier Spear L2
+// Premier Spear L2
+patch=1,EE,101F3588,extended,00004085
+
+[Premier Spear L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Premier Spear L3
+// Premier Spear L3
+patch=1,EE,101F3590,extended,00004085
+
+[Sacred Rod L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sacred Rod L1
+// Sacred Rod L1
+patch=1,EE,101F3598,extended,00004085
+
+[Sacred Rod L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sacred Rod L2
+// Sacred Rod L2
+patch=1,EE,101F35A0,extended,00004085
+
+[Sacred Rod L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sacred Rod L3
+// Sacred Rod L3
+patch=1,EE,101F35A8,extended,00004085
+
+[Velancer L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Velancer L1
+// Velancer L1
+patch=1,EE,101F35B0,extended,00004085
+
+[Velancer L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Velancer L2
+// Velancer L2
+patch=1,EE,101F35B8,extended,00004085
+
+[Velancer L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Velancer L3
+// Velancer L3
+patch=1,EE,101F35C0,extended,00004085
+
+[Bloodclaw L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bloodclaw L1
+// Bloodclaw L1
+patch=1,EE,101F35C8,extended,00004085
+
+[Bloodclaw L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bloodclaw L2
+// Bloodclaw L2
+patch=1,EE,101F35D0,extended,00004085
+
+[Bloodclaw L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bloodclaw L3
+// Bloodclaw L3
+patch=1,EE,101F35D8,extended,00004085
+
+[Solta Bow L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Solta Bow L1
+// Solta Bow L1
+patch=1,EE,101F35E0,extended,00004085
+
+[Solta Bow L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Solta Bow L2
+// Solta Bow L2
+patch=1,EE,101F35E8,extended,00004085
+
+[Solta Bow L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Solta Bow L3
+// Solta Bow L3
+patch=1,EE,101F35F0,extended,00004085
+
+[Elite Bow L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elite Bow L1
+// Elite Bow L1
+patch=1,EE,101F35F8,extended,00004085
+
+[Elite Bow L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elite Bow L2
+// Elite Bow L2
+patch=1,EE,101F3600,extended,00004085
+
+[Elite Bow L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elite Bow L3
+// Elite Bow L3
+patch=1,EE,101F3608,extended,00004085
+
+[Frying Pan L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Frying Pan L1
+// Frying Pan L1
+patch=1,EE,101F3610,extended,00004085
+
+[Frying Pan L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Frying Pan L2
+// Frying Pan L2
+patch=1,EE,101F3618,extended,00004085
+
+[Frying Pan L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Frying Pan L3
+// Frying Pan L3
+patch=1,EE,101F3620,extended,00004085
+
+[Tiger Claw L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiger Claw L1
+// Tiger Claw L1
+patch=1,EE,101F3628,extended,00004085
+
+[Tiger Claw L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiger Claw L2
+// Tiger Claw L2
+patch=1,EE,101F3630,extended,00004085
+
+[Tiger Claw L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiger Claw L3
+// Tiger Claw L3
+patch=1,EE,101F3638,extended,00004085
+
+[Avenger L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Avenger L1
+// Avenger L1
+patch=1,EE,101F3640,extended,00004085
+
+[Avenger L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Avenger L2
+// Avenger L2
+patch=1,EE,101F3648,extended,00004085
+
+[Avenger L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Avenger L3
+// Avenger L3
+patch=1,EE,101F3650,extended,00004085
+
+[Zul's Toy L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zul's Toy L1
+// Zul's Toy L1
+patch=1,EE,101F3658,extended,00004085
+
+[Zul's Toy L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zul's Toy L2
+// Zul's Toy L2
+patch=1,EE,101F3660,extended,00004085
+
+[Zul's Toy L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zul's Toy L3
+// Zul's Toy L3
+patch=1,EE,101F3668,extended,00004085
+
+[Azure Headband L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Azure Headband L1
+// Azure Headband L1
+patch=1,EE,101F3678,extended,0000408D
+
+[Azure Headband L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Azure Headband L2
+// Azure Headband L2
+patch=1,EE,101F3680,extended,0000408D
+
+[Azure Headband L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Azure Headband L3
+// Azure Headband L3
+patch=1,EE,101F3688,extended,0000408D
+
+[Kanzashi L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kanzashi L1
+// Kanzashi L1
+patch=1,EE,101F36D8,extended,0000408D
+
+[Kanzashi L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kanzashi L2
+// Kanzashi L2
+patch=1,EE,101F36E0,extended,0000408D
+
+[Kanzashi L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kanzashi L3
+// Kanzashi L3
+patch=1,EE,101F36E8,extended,0000408D
+
+[Billiana Hood L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Billiana Hood L1
+// Billiana Hood L1
+patch=1,EE,101F36F0,extended,0000408D
+
+[Billiana Hood L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Billiana Hood L2
+// Billiana Hood L2
+patch=1,EE,101F36F8,extended,0000408D
+
+[Billiana Hood L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Billiana Hood L3
+// Billiana Hood L3
+patch=1,EE,101F3700,extended,0000408D
+
+[Pot L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pot L1
+// Pot L1
+patch=1,EE,101F3708,extended,0000408D
+
+[Pot L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pot L2
+// Pot L2
+patch=1,EE,101F3710,extended,0000408D
+
+[Pot L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pot L3
+// Pot L3
+patch=1,EE,101F3718,extended,0000408D
+
+[Swan Beret L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Swan Beret L1
+// Swan Beret L1
+patch=1,EE,101F3720,extended,0000408D
+
+[Swan Beret L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Swan Beret L2
+// Swan Beret L2
+patch=1,EE,101F3728,extended,0000408D
+
+[Swan Beret L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Swan Beret L3
+// Swan Beret L3
+patch=1,EE,101F3730,extended,0000408D
+
+[Cat Ears L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cat Ears L1
+// Cat Ears L1
+patch=1,EE,101F3738,extended,0000408D
+
+[Cat Ears L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cat Ears L2
+// Cat Ears L2
+patch=1,EE,101F3740,extended,0000408D
+
+[Cat Ears L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cat Ears L3
+// Cat Ears L3
+patch=1,EE,101F3748,extended,0000408D
+
+[Rabbit Helmet L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rabbit Helmet L1
+// Rabbit Helmet L1
+patch=1,EE,101F3750,extended,0000408D
+
+[Rabbit Helmet L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rabbit Helmet L2
+// Rabbit Helmet L2
+patch=1,EE,101F3758,extended,0000408D
+
+[Rabbit Helmet L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rabbit Helmet L3
+// Rabbit Helmet L3
+patch=1,EE,101F3760,extended,0000408D
+
+[Armor Of Frost L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armor Of Frost L1
+// Armor Of Frost L1
+patch=1,EE,101F3818,extended,00004095
+
+[Armor Of Frost L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armor Of Frost L2
+// Armor Of Frost L2
+patch=1,EE,101F3820,extended,00004095
+
+[Armor Of Frost L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armor Of Frost L3
+// Armor Of Frost L3
+patch=1,EE,101F3828,extended,00004095
+
+[Flayed Skin Armor L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flayed Skin Armor L1
+// Flayed Skin Armor L1
+patch=1,EE,101F3830,extended,00004095
+
+[Flayed Skin Armor L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flayed Skin Armor L2
+// Flayed Skin Armor L2
+patch=1,EE,101F3838,extended,00004095
+
+[Flayed Skin Armor L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flayed Skin Armor L3
+// Flayed Skin Armor L3
+patch=1,EE,101F3840,extended,00004095
+
+[Paldio Breastplate L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Paldio Breastplate L1
+// Paldio Breastplate L1
+patch=1,EE,101F3848,extended,00004095
+
+[Paldio Breastplate L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Paldio Breastplate L2
+// Paldio Breastplate L2
+patch=1,EE,101F3850,extended,00004095
+
+[Paldio Breastplate L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Paldio Breastplate L3
+// Paldio Breastplate L3
+patch=1,EE,101F3858,extended,00004095
+
+[Volt Suit L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Volt Suit L1
+// Volt Suit L1
+patch=1,EE,101F3860,extended,00004095
+
+[Volt Suit L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Volt Suit L2
+// Volt Suit L2
+patch=1,EE,101F3868,extended,00004095
+
+[Volt Suit L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Volt Suit L3
+// Volt Suit L3
+patch=1,EE,101F3870,extended,00004095
+
+[Absorption Armor L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Absorption Armor L1
+// Absorption Armor L1
+patch=1,EE,101F3878,extended,00004095
+
+[Absorption Armor L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Absorption Armor L2
+// Absorption Armor L2
+patch=1,EE,101F3880,extended,00004095
+
+[Absorption Armor L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Absorption Armor L3
+// Absorption Armor L3
+patch=1,EE,101F3888,extended,00004095
+
+[Dragolos Armor L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dragolos Armor L1
+// Dragolos Armor L1
+patch=1,EE,101F3890,extended,00004095
+
+[Dragolos Armor L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dragolos Armor L2
+// Dragolos Armor L2
+patch=1,EE,101F3898,extended,00004095
+
+[Dragolos Armor L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dragolos Armor L3
+// Dragolos Armor L3
+patch=1,EE,101F38A0,extended,00004095
+
+[Armor of Valor L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armor of Valor L1
+// Armor of Valor L1
+patch=1,EE,101F38A8,extended,00004095
+
+[Armor of Valor L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armor of Valor L2
+// Armor of Valor L2
+patch=1,EE,101F38B0,extended,00004095
+
+[Armor of Valor L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armor of Valor L3
+// Armor of Valor L3
+patch=1,EE,101F38B8,extended,00004095
+
+[HRL-000-A L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=HRL-000-A L1
+// HRL-000-A L1
+patch=1,EE,101F38C0,extended,00004095
+
+[HRL-000-A L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=HRL-000-A L2
+// HRL-000-A L2
+patch=1,EE,101F38C8,extended,00004095
+
+[HRL-000-A L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=HRL-000-A L3
+// HRL-000-A L3
+patch=1,EE,101F38D0,extended,00004095
+
+[Armored Boots L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armored Boots L1
+// Armored Boots L1
+patch=1,EE,101F38F8,extended,0000409D
+
+[Armored Boots L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armored Boots L2
+// Armored Boots L2
+patch=1,EE,101F3900,extended,0000409D
+
+[Armored Boots L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armored Boots L3
+// Armored Boots L3
+patch=1,EE,101F3908,extended,0000409D
+
+[Dragolos Boots L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dragolos Boots L1
+// Dragolos Boots L1
+patch=1,EE,101F3910,extended,0000409D
+
+[Dragolos Boots L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dragolos Boots L2
+// Dragolos Boots L2
+patch=1,EE,101F3918,extended,0000409D
+
+[Dragolos Boots L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dragolos Boots L3
+// Dragolos Boots L3
+patch=1,EE,101F3920,extended,0000409D
+
+[Speed Boots L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speed Boots L1
+// Speed Boots L1
+patch=1,EE,101F3928,extended,0000409D
+
+[Speed Boots L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speed Boots L2
+// Speed Boots L2
+patch=1,EE,101F3930,extended,0000409D
+
+[Speed Boots L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speed Boots L3
+// Speed Boots L3
+patch=1,EE,101F3938,extended,0000409D
+
+[Woven Boots L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Woven Boots L1
+// Woven Boots L1
+patch=1,EE,101F3940,extended,0000409D
+
+[Woven Boots L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Woven Boots L2
+// Woven Boots L2
+patch=1,EE,101F3948,extended,0000409D
+
+[Woven Boots L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Woven Boots L3
+// Woven Boots L3
+patch=1,EE,101F3950,extended,0000409D
+
+[Paldio Boots L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Paldio Boots L1
+// Paldio Boots L1
+patch=1,EE,101F3958,extended,0000409D
+
+[Paldio Boots L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Paldio Boots L2
+// Paldio Boots L2
+patch=1,EE,101F3960,extended,0000409D
+
+[Paldio Boots L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Paldio Boots L3
+// Paldio Boots L3
+patch=1,EE,101F3968,extended,0000409D
+
+[HRL-000-B L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=HRL-000-B L1
+// HRL-000-B L1
+patch=1,EE,101F3970,extended,0000409D
+
+[HRL-000-B L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=HRL-000-B L2
+// HRL-000-B L2
+patch=1,EE,101F3978,extended,0000409D
+
+[HRL-000-B L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=HRL-000-B L3
+// HRL-000-B L3
+patch=1,EE,101F3980,extended,0000409D
+
+[Cat Feet L1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cat Feet L1
+// Cat Feet L1
+patch=1,EE,101F3988,extended,0000409D
+
+[Cat Feet L2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cat Feet L2
+// Cat Feet L2
+patch=1,EE,101F3990,extended,0000409D
+
+[Cat Feet L3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cat Feet L3
+// Cat Feet L3
+patch=1,EE,101F3998,extended,0000409D
+
+[Star Necklace]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Star Necklace
+// Star Necklace
+patch=1,EE,101F39B0,extended,000040A5
+
+[Pendant Of Hope]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pendant Of Hope
+// Pendant Of Hope
+patch=1,EE,101F39B8,extended,000040A5
+
+[Icon Of Divinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Icon Of Divinity
+// Icon Of Divinity
+patch=1,EE,101F39C0,extended,000040A5
+
+[Icon Of Loyalty]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Icon Of Loyalty
+// Icon Of Loyalty
+patch=1,EE,101F39C8,extended,000040A5
+
+[Band Of Clarity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Band Of Clarity
+// Band Of Clarity
+patch=1,EE,101F39D0,extended,000040A5
+
+[Ring Of Blessing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ring Of Blessing
+// Ring Of Blessing
+patch=1,EE,101F39D8,extended,000040A5
+
+[Elder's Ring]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elder's Ring
+// Elder's Ring
+patch=1,EE,101F39E0,extended,000040A5
+
+[Amulet Of Purity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Amulet Of Purity
+// Amulet Of Purity
+patch=1,EE,101F39E8,extended,000040A5
+
+[Ring Of Resist]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ring Of Resist
+// Ring Of Resist
+patch=1,EE,101F39F0,extended,000040A5
+
+[Life Extract]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Life Extract
+// Life Extract
+patch=1,EE,101F39F8,extended,000004C5
+
+[Antidote]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Antidote
+// Antidote
+patch=1,EE,101F3A00,extended,000004C5
+
+[Billiana Leaf]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Billiana Leaf
+// Billiana Leaf
+patch=1,EE,101F3A08,extended,000004C5
+
+[Release Emblem]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Release Emblem
+// Release Emblem
+patch=1,EE,101F3A10,extended,000004C5
+
+[Orb Of Atonement]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Orb Of Atonement
+// Orb Of Atonement
+patch=1,EE,101F3A18,extended,000004C5
+
+[Billiana Extract]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Billiana Extract
+// Billiana Extract
+patch=1,EE,101F3A20,extended,000004C5
+
+[Red Fruit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Fruit
+// Red Fruit
+patch=1,EE,101F3A28,extended,000004C5
+
+[Blue Fruit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Fruit
+// Blue Fruit
+patch=1,EE,101F3A30,extended,000004C5
+
+[Mushrooms]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mushrooms
+// Mushrooms
+patch=1,EE,101F3A38,extended,000004C5
+
+[Palmira Ore]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Palmira Ore
+// Palmira Ore
+patch=1,EE,101F3A40,extended,000004C5
+
+[Sword Star]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword Star
+// Sword Star
+patch=1,EE,101F3A48,extended,000004C5
+
+[Royal Medal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Royal Medal
+// Royal Medal
+patch=1,EE,101F3A50,extended,000004C5
+
+[Red Sphere]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Sphere
+// Red Sphere
+patch=1,EE,101F3A58,extended,000004C5
+
+[Blue Sphere]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Sphere
+// Blue Sphere
+patch=1,EE,101F3A60,extended,000004C5
+
+[Master Key 2F]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Master Key 2F
+// Master Key 2F
+patch=1,EE,101F3A68,extended,000004C5
+
+[Billiana Fruit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Billiana Fruit
+// Billiana Fruit
+patch=1,EE,101F3A70,extended,000004C5
+
+[Right Winged Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Right Winged Key
+// Right Winged Key
+patch=1,EE,101F3A78,extended,000004C5
+
+[Left Winged Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Left Winged Key
+// Left Winged Key
+patch=1,EE,101F3A80,extended,000004C5
+
+[Red Sphere (B)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Sphere (B)
+// Red Sphere (B)
+patch=1,EE,101F3A88,extended,000004C5
+
+[Blue Sphere (B)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Sphere (B)
+// Blue Sphere (B)
+patch=1,EE,101F3A90,extended,000004C5
+
+[Scarlet Sphere]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scarlet Sphere
+// Scarlet Sphere
+patch=1,EE,101F3A98,extended,000004C5
+
+[Azure Sphere]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Azure Sphere
+// Azure Sphere
+patch=1,EE,101F3AA0,extended,000004C5
+
+[Dark Guide Post]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Guide Post
+// Dark Guide Post
+patch=1,EE,101F3AA8,extended,000004C5
+
+[Caped Stat Body]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Caped Stat Body
+// Caped Stat Body
+patch=1,EE,101F3AB0,extended,000004C5
+
+[Caped Stat Head]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Caped Stat Head
+// Caped Stat Head
+patch=1,EE,101F3AB8,extended,000004C5
+
+[Treasure Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Treasure Key
+// Treasure Key
+patch=1,EE,101F3AC0,extended,000004C5
+
+[Soul Of Goddess]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Soul Of Goddess
+// Soul Of Goddess
+patch=1,EE,101F3AC8,extended,000004C5
+
+[Small Flower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Small Flower
+// Small Flower
+patch=1,EE,101F3AD0,extended,000004C5
+
+[Transpot Palmira]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Transpot Palmira
+// Transpot Palmira
+patch=1,EE,101F3AD8,extended,000004C5
+
+[Sealed Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sealed Key
+// Sealed Key
+patch=1,EE,101F3AE0,extended,000004C5

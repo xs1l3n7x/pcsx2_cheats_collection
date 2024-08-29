@@ -1,0 +1,13 @@
+gametitle=Monopoly Party [SLUS-20348] [59A36A19]
+
+[Infinite Turbo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Turbo
+// Infinite Turbo
+patch=1,EE,F0100008,extended,0027F7CF
+
+[Infinite Money (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money (All Players)
+// Infinite Money (All Players)
+patch=1,EE,201E87EC,extended,00000000

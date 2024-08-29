@@ -1,0 +1,865 @@
+gametitle=Phantom Brave [SLUS-20955] [B43000A1]
+
+[Timers Never Increase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Timers Never Increase
+// Timers Never Increase
+patch=1,EE,901156A4,extended,0C046B58
+
+[Timers Never Increase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Timers Never Increase
+// Timers Never Increase
+patch=1,EE,20143D3C,extended,10000006
+
+[Infinite BOR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite BOR
+// Infinite BOR
+patch=1,EE,10286940,extended,0000FFFF
+
+[Max BOR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max BOR
+// Max BOR
+patch=1,EE,20286940,extended,05F5E0FF
+
+[Super Max BOR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Max BOR
+// Super Max BOR
+patch=1,EE,20286940,extended,4E729FFF
+
+[Super Max BOR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Max BOR
+// Super Max BOR
+patch=1,EE,20286944,extended,00000918
+
+[Quick EXP Gain (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick EXP Gain (In-Battle)
+// Quick EXP Gain (In-Battle)
+patch=1,EE,201824E8,extended,64427FFF
+
+[Quick EXP Gain (Town Healer)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick EXP Gain (Town Healer)
+// Quick EXP Gain (Town Healer)
+patch=1,EE,20212524,extended,64627FFF
+
+[Quick Skill EXP Gain Modifier]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Skill EXP Gain Modifier
+// Quick Skill EXP Gain Modifier
+patch=1,EE,2017DB34,extended,244203E7
+
+[Quick Skill Affinity EXP Gain Modifier]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Skill Affinity EXP Gain Modifier
+// Quick Skill Affinity EXP Gain Modifier
+patch=1,EE,2017DE3C,extended,244203E7
+
+[Phantoms Never Removed From Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Phantoms Never Removed From Battle
+// Phantoms Never Removed From Battle
+patch=1,EE,201AD980,extended,00000000
+
+[All Phantoms Stay For 99 Turns]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Phantoms Stay For 99 Turns
+// All Phantoms Stay For 99 Turns
+patch=1,EE,2015B2C8,extended,24020063
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,10286960,extended,0000FFFF
+
+[Super Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Quick Exp Gain
+// Super Quick Exp Gain
+patch=1,EE,10286960,extended,0000FFFF
+
+[Super Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Quick Exp Gain
+// Super Quick Exp Gain
+patch=1,EE,00286962,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,202869DC,extended,0001869F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,202869E4,extended,0001869F
+
+[Max ATK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max ATK
+// Max ATK
+patch=1,EE,202869EC,extended,0000270F
+
+[Max ATK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max ATK
+// Max ATK
+patch=1,EE,20286A0C,extended,0000270F
+
+[Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DEF
+// Max DEF
+patch=1,EE,202869F0,extended,0000270F
+
+[Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DEF
+// Max DEF
+patch=1,EE,20286A10,extended,0000270F
+
+[Max INT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max INT
+// Max INT
+patch=1,EE,202869F4,extended,0000270F
+
+[Max INT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max INT
+// Max INT
+patch=1,EE,20286A14,extended,0000270F
+
+[Max RES]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max RES
+// Max RES
+patch=1,EE,202869F8,extended,0000270F
+
+[Max RES]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max RES
+// Max RES
+patch=1,EE,20286A18,extended,0000270F
+
+[Max SPD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max SPD
+// Max SPD
+patch=1,EE,202869FC,extended,0000270F
+
+[Max SPD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max SPD
+// Max SPD
+patch=1,EE,20286A1C,extended,0000270F
+
+[Infinite Mana]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Mana
+// Infinite Mana
+patch=1,EE,20286A2C,extended,0000270F
+
+[Max Equip HP+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Equip HP+
+// Max Equip HP+
+patch=1,EE,20286A50,extended,00002710
+
+[Max Equip HP+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Equip HP+
+// Max Equip HP+
+patch=1,EE,20286A70,extended,00002710
+
+[Max Equip ATK+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Equip ATK+
+// Max Equip ATK+
+patch=1,EE,10286A54,extended,00002710
+
+[Max Equip ATK+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Equip ATK+
+// Max Equip ATK+
+patch=1,EE,10286A74,extended,00002710
+
+[Max Equip DEF+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Equip DEF+
+// Max Equip DEF+
+patch=1,EE,10286A56,extended,00002710
+
+[Max Equip DEF+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Equip DEF+
+// Max Equip DEF+
+patch=1,EE,10286A76,extended,00002710
+
+[Max Equip INT+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Equip INT+
+// Max Equip INT+
+patch=1,EE,10286A58,extended,00002710
+
+[Max Equip INT+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Equip INT+
+// Max Equip INT+
+patch=1,EE,10286A78,extended,00002710
+
+[Max Equip RES+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Equip RES+
+// Max Equip RES+
+patch=1,EE,10286A5A,extended,00002710
+
+[Max Equip RES+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Equip RES+
+// Max Equip RES+
+patch=1,EE,10286A7A,extended,00002710
+
+[Max Equip SPD+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Equip SPD+
+// Max Equip SPD+
+patch=1,EE,10286A5C,extended,00002710
+
+[Max Equip SPD+]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Equip SPD+
+// Max Equip SPD+
+patch=1,EE,10286A7C,extended,00002710
+
+[Max Fire Resistance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fire Resistance
+// Max Fire Resistance
+patch=1,EE,10286A80,extended,000003E7
+
+[Max Wind Resistance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wind Resistance
+// Max Wind Resistance
+patch=1,EE,10286A82,extended,000003E7
+
+[Max Ice Resistance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ice Resistance
+// Max Ice Resistance
+patch=1,EE,10286A84,extended,000003E7
+
+[Level 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 100
+// Level 100
+patch=1,EE,10286BF0,extended,00000064
+
+[Level 999]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 999
+// Level 999
+patch=1,EE,10286BF0,extended,000003E7
+
+[Level 9999]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 9999
+// Level 9999
+patch=1,EE,10286BF0,extended,0000270F
+
+[Physical Skill Affinity Max Current SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Physical Skill Affinity Max Current SP
+// Physical Skill Affinity Max Current SP
+patch=1,EE,10286B90,extended,000003E7
+
+[Physical Skill Affinity Max Overall SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Physical Skill Affinity Max Overall SP
+// Physical Skill Affinity Max Overall SP
+patch=1,EE,10286B92,extended,000003E7
+
+[Physical Skill Affinity Rank S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Physical Skill Affinity Rank S
+// Physical Skill Affinity Rank S
+patch=1,EE,20286B94,extended,000000FF
+
+[Physical Skill Affinity Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Physical Skill Affinity Max EXP
+// Physical Skill Affinity Max EXP
+patch=1,EE,20286B98,extended,001A0000
+
+[Energy Skill Affinity Max Current SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Energy Skill Affinity Max Current SP
+// Energy Skill Affinity Max Current SP
+patch=1,EE,10286B9C,extended,000003E7
+
+[Energy Skill Affinity Max Overall SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Energy Skill Affinity Max Overall SP
+// Energy Skill Affinity Max Overall SP
+patch=1,EE,10286B9E,extended,000003E7
+
+[Energy Skill Affinity Rank S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Energy Skill Affinity Rank S
+// Energy Skill Affinity Rank S
+patch=1,EE,20286BA0,extended,000000FF
+
+[Energy Skill Affinity Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Energy Skill Affinity Max EXP
+// Energy Skill Affinity Max EXP
+patch=1,EE,20286BA4,extended,001A0000
+
+[Elemental Magic Skill Affinity Max Current SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elemental Magic Skill Affinity Max Current SP
+// Elemental Magic Skill Affinity Max Current SP
+patch=1,EE,10286BA8,extended,000003E7
+
+[Elemental Magic Skill Affinity Max Overall SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elemental Magic Skill Affinity Max Overall SP
+// Elemental Magic Skill Affinity Max Overall SP
+patch=1,EE,10286BAA,extended,000003E7
+
+[Elemental Magic Skill Affinity Rank S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elemental Magic Skill Affinity Rank S
+// Elemental Magic Skill Affinity Rank S
+patch=1,EE,20286BAC,extended,000000FF
+
+[Elemental Magic Skill Affinity Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elemental Magic Skill Affinity Max EXP
+// Elemental Magic Skill Affinity Max EXP
+patch=1,EE,20286BB0,extended,001A0000
+
+[Physical Magic Skill Affinity Max Current SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Physical Magic Skill Affinity Max Current SP
+// Physical Magic Skill Affinity Max Current SP
+patch=1,EE,10286BB4,extended,000003E7
+
+[Physical Magic Skill Affinity Max Overall SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Physical Magic Skill Affinity Max Overall SP
+// Physical Magic Skill Affinity Max Overall SP
+patch=1,EE,10286BB6,extended,000003E7
+
+[Physical Magic Skill Affinity Rank S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Physical Magic Skill Affinity Rank S
+// Physical Magic Skill Affinity Rank S
+patch=1,EE,20286BB8,extended,000000FF
+
+[Physical Magic Skill Affinity Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Physical Magic Skill Affinity Max EXP
+// Physical Magic Skill Affinity Max EXP
+patch=1,EE,20286BBC,extended,001A0000
+
+[Space-Time Skill Affinity Max Current SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Space-Time Skill Affinity Max Current SP
+// Space-Time Skill Affinity Max Current SP
+patch=1,EE,10286BC0,extended,000003E7
+
+[Space-Time Skill Affinity Max Overall SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Space-Time Skill Affinity Max Overall SP
+// Space-Time Skill Affinity Max Overall SP
+patch=1,EE,10286BC2,extended,000003E7
+
+[Space-Time Skill Affinity Rank S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Space-Time Skill Affinity Rank S
+// Space-Time Skill Affinity Rank S
+patch=1,EE,20286BC4,extended,000000FF
+
+[Space-Time Skill Affinity Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Space-Time Skill Affinity Max EXP
+// Space-Time Skill Affinity Max EXP
+patch=1,EE,20286BC8,extended,001A0000
+
+[Stat-Altering Skill Affinity Max Current SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stat-Altering Skill Affinity Max Current SP
+// Stat-Altering Skill Affinity Max Current SP
+patch=1,EE,10286BCC,extended,000003E7
+
+[Stat-Altering Skill Affinity Max Overall SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stat-Altering Skill Affinity Max Overall SP
+// Stat-Altering Skill Affinity Max Overall SP
+patch=1,EE,10286BCE,extended,000003E7
+
+[Stat-Altering Skill Affinity Rank S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stat-Altering Skill Affinity Rank S
+// Stat-Altering Skill Affinity Rank S
+patch=1,EE,20286BD0,extended,000000FF
+
+[Stat-Altering Skill Affinity Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stat-Altering Skill Affinity Max EXP
+// Stat-Altering Skill Affinity Max EXP
+patch=1,EE,20286BD4,extended,001A0000
+
+[Healing Skill Affinity Max Current SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Healing Skill Affinity Max Current SP
+// Healing Skill Affinity Max Current SP
+patch=1,EE,10286BD8,extended,000003E7
+
+[Healing Skill Affinity Max Overall SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Healing Skill Affinity Max Overall SP
+// Healing Skill Affinity Max Overall SP
+patch=1,EE,10286BDA,extended,000003E7
+
+[Healing Skill Affinity Rank S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Healing Skill Affinity Rank S
+// Healing Skill Affinity Rank S
+patch=1,EE,20286BDC,extended,000000FF
+
+[Healing Skill Affinity Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Healing Skill Affinity Max EXP
+// Healing Skill Affinity Max EXP
+patch=1,EE,20286BE0,extended,001A0000
+
+[Max Mv]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mv
+// Max Mv
+patch=1,EE,00286C12,extended,000000FF
+
+[Max Dark Alignment]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Dark Alignment
+// Max Dark Alignment
+patch=1,EE,0028C61E,extended,00000063
+
+[No Dark Alignment]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Dark Alignment
+// No Dark Alignment
+patch=1,EE,0028C61E,extended,00000000
+
+[Max Remove (# Of Turns Available In Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Remove (# Of Turns Available In Battle)
+// Max Remove (# Of Turns Available In Battle)
+patch=1,EE,00286C22,extended,000000FF
+
+[Max Steal Rate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Steal Rate
+// Max Steal Rate
+patch=1,EE,10286C26,extended,0000270F
+
+[Max Guard Rate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Guard Rate
+// Max Guard Rate
+patch=1,EE,10286C30,extended,0000270F
+
+[Slot 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1
+// Slot 1
+patch=1,EE,10286A92,extended,00000063
+
+[Slot 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2
+// Slot 2
+patch=1,EE,10286A9A,extended,00000063
+
+[Slot 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3
+// Slot 3
+patch=1,EE,10286AA2,extended,00000063
+
+[Slot 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4
+// Slot 4
+patch=1,EE,10286AAA,extended,00000063
+
+[Slot 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 5
+// Slot 5
+patch=1,EE,10286AB2,extended,00000063
+
+[Slot 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 6
+// Slot 6
+patch=1,EE,10286ABA,extended,00000063
+
+[Slot 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 7
+// Slot 7
+patch=1,EE,10286AC2,extended,00000063
+
+[Slot 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 8
+// Slot 8
+patch=1,EE,10286ACA,extended,00000063
+
+[Slot 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 9
+// Slot 9
+patch=1,EE,10286AD2,extended,00000063
+
+[Slot 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 10
+// Slot 10
+patch=1,EE,10286ADA,extended,00000063
+
+[Slot 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 11
+// Slot 11
+patch=1,EE,10286AE2,extended,00000063
+
+[Slot 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 12
+// Slot 12
+patch=1,EE,10286AEA,extended,00000063
+
+[Slot 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 13
+// Slot 13
+patch=1,EE,10286AF2,extended,00000063
+
+[Slot 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 14
+// Slot 14
+patch=1,EE,10286AFA,extended,00000063
+
+[Slot 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 15
+// Slot 15
+patch=1,EE,10286B02,extended,00000063
+
+[Slot 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 16
+// Slot 16
+patch=1,EE,10286B0A,extended,00000063
+
+[Slot 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 17
+// Slot 17
+patch=1,EE,10286B12,extended,00000063
+
+[Slot 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 18
+// Slot 18
+patch=1,EE,10286B1A,extended,00000063
+
+[Slot 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 19
+// Slot 19
+patch=1,EE,10286B22,extended,00000063
+
+[Slot 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 20
+// Slot 20
+patch=1,EE,10286B2A,extended,00000063
+
+[Slot 21]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 21
+// Slot 21
+patch=1,EE,10286B32,extended,00000063
+
+[Slot 22]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 22
+// Slot 22
+patch=1,EE,10286B3A,extended,00000063
+
+[Slot 23]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 23
+// Slot 23
+patch=1,EE,10286B42,extended,00000063
+
+[Slot 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 24
+// Slot 24
+patch=1,EE,10286B4A,extended,00000063
+
+[Slot 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 25
+// Slot 25
+patch=1,EE,10286B52,extended,00000063
+
+[Slot 26]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 26
+// Slot 26
+patch=1,EE,10286B5A,extended,00000063
+
+[Slot 27]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 27
+// Slot 27
+patch=1,EE,10286B62,extended,00000063
+
+[Slot 28]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 28
+// Slot 28
+patch=1,EE,10286B6A,extended,00000063
+
+[Slot 29]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 29
+// Slot 29
+patch=1,EE,10286B72,extended,00000063
+
+[Slot 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 30
+// Slot 30
+patch=1,EE,10286B7A,extended,00000063
+
+[Slot 31]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 31
+// Slot 31
+patch=1,EE,10286B82,extended,00000063
+
+[Slot 32]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 32
+// Slot 32
+patch=1,EE,10286B8A,extended,00000063
+
+[Slot 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1
+// Slot 1
+patch=1,EE,20286A94,extended,000128C0
+
+[Slot 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2
+// Slot 2
+patch=1,EE,20286A9C,extended,000128C0
+
+[Slot 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3
+// Slot 3
+patch=1,EE,20286AA4,extended,000128C0
+
+[Slot 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4
+// Slot 4
+patch=1,EE,20286AAC,extended,000128C0
+
+[Slot 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 5
+// Slot 5
+patch=1,EE,20286AB4,extended,000128C0
+
+[Slot 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 6
+// Slot 6
+patch=1,EE,20286ABC,extended,000128C0
+
+[Slot 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 7
+// Slot 7
+patch=1,EE,20286AC4,extended,000128C0
+
+[Slot 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 8
+// Slot 8
+patch=1,EE,20286ACC,extended,000128C0
+
+[Slot 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 9
+// Slot 9
+patch=1,EE,20286AD4,extended,000128C0
+
+[Slot 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 10
+// Slot 10
+patch=1,EE,20286ADC,extended,000128C0
+
+[Slot 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 11
+// Slot 11
+patch=1,EE,20286AE4,extended,000128C0
+
+[Slot 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 12
+// Slot 12
+patch=1,EE,20286AEC,extended,000128C0
+
+[Slot 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 13
+// Slot 13
+patch=1,EE,20286AF4,extended,000128C0
+
+[Slot 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 14
+// Slot 14
+patch=1,EE,20286AFC,extended,000128C0
+
+[Slot 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 15
+// Slot 15
+patch=1,EE,20286B04,extended,000128C0
+
+[Slot 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 16
+// Slot 16
+patch=1,EE,20286B0C,extended,000128C0
+
+[Slot 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 17
+// Slot 17
+patch=1,EE,20286B14,extended,000128C0
+
+[Slot 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 18
+// Slot 18
+patch=1,EE,20286B1C,extended,000128C0
+
+[Slot 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 19
+// Slot 19
+patch=1,EE,20286B24,extended,000128C0
+
+[Slot 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 20
+// Slot 20
+patch=1,EE,20286B2C,extended,000128C0
+
+[Slot 21]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 21
+// Slot 21
+patch=1,EE,20286B34,extended,000128C0
+
+[Slot 22]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 22
+// Slot 22
+patch=1,EE,20286B3C,extended,000128C0
+
+[Slot 23]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 23
+// Slot 23
+patch=1,EE,20286B44,extended,000128C0
+
+[Slot 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 24
+// Slot 24
+patch=1,EE,20286B4C,extended,000128C0
+
+[Slot 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 25
+// Slot 25
+patch=1,EE,20286B54,extended,000128C0
+
+[Slot 26]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 26
+// Slot 26
+patch=1,EE,20286B5C,extended,000128C0
+
+[Slot 27]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 27
+// Slot 27
+patch=1,EE,20286B64,extended,000128C0
+
+[Slot 28]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 28
+// Slot 28
+patch=1,EE,20286B6C,extended,000128C0
+
+[Slot 29]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 29
+// Slot 29
+patch=1,EE,20286B74,extended,000128C0
+
+[Slot 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 30
+// Slot 30
+patch=1,EE,20286B7C,extended,000128C0
+
+[Slot 31]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 31
+// Slot 31
+patch=1,EE,20286B84,extended,000128C0
+
+[Slot 32]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 32
+// Slot 32
+patch=1,EE,20286B8C,extended,000128C0

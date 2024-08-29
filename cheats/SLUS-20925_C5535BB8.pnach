@@ -1,0 +1,373 @@
+gametitle=Shark Tale [SLUS-20925] [C5535BB8]
+
+[All Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Movies
+// All Movies
+patch=1,EE,90289B1C,extended,0C0A7E97
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,11FDC140,extended,0000FFFF
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,11FDB084,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,21FDC140,extended,05F5E0FF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,21FDB084,extended,05F5E0FF
+
+[Quick Fame Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Fame Gain
+// Quick Fame Gain
+patch=1,EE,11FDC194,extended,0000FFFF
+
+[Max Fame]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fame
+// Max Fame
+patch=1,EE,21FDC194,extended,05F5E0FF
+
+[Enable Debug Menu (Press {L1}+{R2} To Open/Close)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enable Debug Menu (Press {L1}+{R2} To Open/Close)
+// Enable Debug Menu (Press {L1}+{R2} To Open/Close)
+patch=1,EE,20334C0C,extended,00000001
+
+[Occlusion Culling Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Occlusion Culling Always On
+// Occlusion Culling Always On
+patch=1,EE,203330F8,extended,00000001
+
+[Occlusion Culling Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Occlusion Culling Always Off
+// Occlusion Culling Always Off
+patch=1,EE,203330F8,extended,00000000
+
+[Draw Occlusion Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Draw Occlusion Always On
+// Draw Occlusion Always On
+patch=1,EE,203330FC,extended,00000001
+
+[Draw Occlusion Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Draw Occlusion Always Off
+// Draw Occlusion Always Off
+patch=1,EE,203330FC,extended,00000000
+
+[Stop Drawing-Particles Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stop Drawing-Particles Always On
+// Stop Drawing-Particles Always On
+patch=1,EE,20333138,extended,00000001
+
+[Stop Drawing-Particles Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stop Drawing-Particles Always Off
+// Stop Drawing-Particles Always Off
+patch=1,EE,20333138,extended,00000000
+
+[Draw Partitions Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Draw Partitions Always On
+// Draw Partitions Always On
+patch=1,EE,20333190,extended,00000001
+
+[Draw Partitions Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Draw Partitions Always Off
+// Draw Partitions Always Off
+patch=1,EE,20333190,extended,00000000
+
+[Distortion Wireframe Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Distortion Wireframe Always On
+// Distortion Wireframe Always On
+patch=1,EE,203331FC,extended,00000001
+
+[Distortion Wireframe Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Distortion Wireframe Always Off
+// Distortion Wireframe Always Off
+patch=1,EE,203331FC,extended,00000000
+
+[Overhead View Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Overhead View Always On
+// Overhead View Always On
+patch=1,EE,20333248,extended,00000001
+
+[Overhead View Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Overhead View Always Off
+// Overhead View Always Off
+patch=1,EE,20333248,extended,00000000
+
+[Free Memory Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Free Memory Always On
+// Free Memory Always On
+patch=1,EE,20333EB4,extended,00000001
+
+[Free Memory Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Free Memory Always Off
+// Free Memory Always Off
+patch=1,EE,20333EB4,extended,00000000
+
+[Sound System State Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sound System State Always On
+// Sound System State Always On
+patch=1,EE,20333EB8,extended,00000001
+
+[Sound System State Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sound System State Always Off
+// Sound System State Always Off
+patch=1,EE,20333EB8,extended,00000000
+
+[Instance Names Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instance Names Always On
+// Instance Names Always On
+patch=1,EE,20333EBC,extended,00000001
+
+[Instance Names Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instance Names Always Off
+// Instance Names Always Off
+patch=1,EE,20333EBC,extended,00000000
+
+[Depth Complexity Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Depth Complexity Always On
+// Depth Complexity Always On
+patch=1,EE,2033470C,extended,00000001
+
+[Depth Complexity Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Depth Complexity Always Off
+// Depth Complexity Always Off
+patch=1,EE,2033470C,extended,00000000
+
+[Draw Collision Cause Spheres Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Draw Collision Cause Spheres Always On
+// Draw Collision Cause Spheres Always On
+patch=1,EE,20334BF4,extended,00000001
+
+[Draw Collision Cause Spheres Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Draw Collision Cause Spheres Always Off
+// Draw Collision Cause Spheres Always Off
+patch=1,EE,20334BF4,extended,00000000
+
+[Draw Collision Receive Spheres Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Draw Collision Receive Spheres Always On
+// Draw Collision Receive Spheres Always On
+patch=1,EE,20334BF8,extended,00000001
+
+[Draw Collision Receive Spheres Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Draw Collision Receive Spheres Always Off
+// Draw Collision Receive Spheres Always Off
+patch=1,EE,20334BF8,extended,00000000
+
+[Draw Fog Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Draw Fog Always On
+// Draw Fog Always On
+patch=1,EE,20334BFC,extended,00000001
+
+[Draw Fog Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Draw Fog Always Off
+// Draw Fog Always Off
+patch=1,EE,20334BFC,extended,00000000
+
+[Collide With World Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Collide With World Always On
+// Collide With World Always On
+patch=1,EE,20334C00,extended,00000001
+
+[Collide With World Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Collide With World Always Off
+// Collide With World Always Off
+patch=1,EE,20334C00,extended,00000000
+
+[Draw Safe Frame Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Draw Safe Frame Always On
+// Draw Safe Frame Always On
+patch=1,EE,20334C08,extended,00000001
+
+[Draw Safe Frame Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Draw Safe Frame Always Off
+// Draw Safe Frame Always Off
+patch=1,EE,20334C08,extended,00000000
+
+[Show Background Shader Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Background Shader Always On
+// Show Background Shader Always On
+patch=1,EE,20334C10,extended,00000001
+
+[Show Background Shader Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Background Shader Always Off
+// Show Background Shader Always Off
+patch=1,EE,20334C10,extended,00000000
+
+[Show Newspaper Transitions Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Newspaper Transitions Always On
+// Show Newspaper Transitions Always On
+patch=1,EE,20334C14,extended,00000001
+
+[Show Newspaper Transitions Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Newspaper Transitions Always Off
+// Show Newspaper Transitions Always Off
+patch=1,EE,20334C14,extended,00000000
+
+[Skip Moves Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skip Moves Always On
+// Skip Moves Always On
+patch=1,EE,20334C18,extended,00000001
+
+[Skip Moves Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skip Moves Always Off
+// Skip Moves Always Off
+patch=1,EE,20334C18,extended,00000000
+
+[Mute PC Audio Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mute PC Audio Always On
+// Mute PC Audio Always On
+patch=1,EE,20334C1C,extended,00000001
+
+[Mute PC Audio Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mute PC Audio Always Off
+// Mute PC Audio Always Off
+patch=1,EE,20334C1C,extended,00000000
+
+[Oscar Invincible Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Oscar Invincible Always On
+// Oscar Invincible Always On
+patch=1,EE,20334C20,extended,00000001
+
+[Oscar Invincible Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Oscar Invincible Always Off
+// Oscar Invincible Always Off
+patch=1,EE,20334C20,extended,00000000
+
+[Show Skybox Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Skybox Always On
+// Show Skybox Always On
+patch=1,EE,20334C24,extended,00000001
+
+[Show Skybox Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Skybox Always Off
+// Show Skybox Always Off
+patch=1,EE,20334C24,extended,00000000
+
+[Screen Position Info Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Screen Position Info Always On
+// Screen Position Info Always On
+patch=1,EE,20334C28,extended,00000001
+
+[Screen Position Info Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Screen Position Info Always Off
+// Screen Position Info Always Off
+patch=1,EE,20334C28,extended,00000000
+
+[Oscar Super Speed Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Oscar Super Speed Always On
+// Oscar Super Speed Always On
+patch=1,EE,20334C2C,extended,00000001
+
+[Oscar Super Speed Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Oscar Super Speed Always Off
+// Oscar Super Speed Always Off
+patch=1,EE,20334C2C,extended,00000000
+
+[Debug Pause Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Debug Pause Always On
+// Debug Pause Always On
+patch=1,EE,20334C30,extended,00000001
+
+[Debug Pause Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Debug Pause Always Off
+// Debug Pause Always Off
+patch=1,EE,20334C30,extended,00000000
+
+[Particle Mem Msg Always Enabled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Particle Mem Msg Always Enabled
+// Particle Mem Msg Always Enabled
+patch=1,EE,20334C34,extended,00000001
+
+[Particle Mem Msg Always Disabled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Particle Mem Msg Always Disabled
+// Particle Mem Msg Always Disabled
+patch=1,EE,20334C34,extended,00000000
+
+[Draw Instance Bounds Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Draw Instance Bounds Always On
+// Draw Instance Bounds Always On
+patch=1,EE,20334C54,extended,00000001
+
+[Draw Instance Bounds Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Draw Instance Bounds Always Off
+// Draw Instance Bounds Always Off
+patch=1,EE,20334C54,extended,00000000
+
+[Performance Metrics Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Performance Metrics Always On
+// Performance Metrics Always On
+patch=1,EE,2033A54C,extended,00000001
+
+[Performance Metrics Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Performance Metrics Always Off
+// Performance Metrics Always Off
+patch=1,EE,2033A54C,extended,00000000

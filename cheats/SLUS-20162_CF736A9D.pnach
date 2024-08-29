@@ -1,0 +1,31 @@
+gametitle=Aqua Aqua [SLUS-20162] [CF736A9D]
+
+[No Health P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P4
+// No Health P4
+patch=1,EE,901CB420,extended,0C075C51
+
+[Access Story Puzzle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access Story Puzzle
+// Access Story Puzzle
+patch=1,EE,2020401C,extended,00000000
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,20101E48,extended,3405270F
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,202006B4,extended,00000000
+
+[Water Drain Meter Never Fills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Water Drain Meter Never Fills
+// Water Drain Meter Never Fills
+patch=1,EE,20103974,extended,00000000

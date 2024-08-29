@@ -1,0 +1,37 @@
+gametitle=NFL Blitz 2002 [UNKNOWN] [3D02E0BF]
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201EB0B0,extended,8C8203A0
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201EB0B4,extended,AC820398
+
+[Infinite Energy]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Energy
+// Infinite Energy
+patch=1,EE,20169514,extended,00000000
+
+[Buying Moves Does Not Decrease Exp]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Buying Moves Does Not Decrease Exp
+// Buying Moves Does Not Decrease Exp
+patch=1,EE,20174C64,extended,00000000
+
+[Sub-Zero]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Sub-Zero
+// Sub-Zero
+patch=1,EE,205D82B4,extended,00000001
+
+[Scorpion]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Scorpion
+// Scorpion
+patch=1,EE,205D82B8,extended,00000001

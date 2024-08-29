@@ -1,0 +1,181 @@
+gametitle=Midnight Club II [SLUS-20209] [C1625F14]
+
+[No Total Damage Outs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Total Damage Outs
+// No Total Damage Outs
+patch=1,EE,F0100008,extended,003F2927
+
+[Infinite Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Damage
+// Infinite Damage
+patch=1,EE,2020E6E4,extended,AE00005C
+
+[Infinite Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Damage
+// Infinite Damage
+patch=1,EE,2020E67C,extended,AE20005C
+
+[Machine Gun & Rockets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Machine Gun & Rockets
+// Machine Gun & Rockets
+patch=1,EE,00427788,extended,00000001
+
+[Never Take Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Take Damage
+// Never Take Damage
+patch=1,EE,0042780C,extended,00000001
+
+[Infinite Nitro]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Nitro
+// Infinite Nitro
+patch=1,EE,0042780D,extended,00000001
+
+[Unlock All Races]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Races
+// Unlock All Races
+patch=1,EE,0042CCE8,extended,00000001
+
+[Unlock All Cities]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cities
+// Unlock All Cities
+patch=1,EE,0042CCE9,extended,00000001
+
+[Unlock All Vehicles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Vehicles
+// Unlock All Vehicles
+patch=1,EE,0042CCEA,extended,00000001
+
+[Unlock Customization]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Customization
+// Unlock Customization
+patch=1,EE,0042CCEB,extended,00000001
+
+[Unlock All Abilities]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Abilities
+// Unlock All Abilities
+patch=1,EE,0042CCEC,extended,00000001
+
+[Unlock Insanity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Insanity
+// Unlock Insanity
+patch=1,EE,0042CCED,extended,00000001
+
+[No Props]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Props
+// No Props
+patch=1,EE,0042CDAC,extended,00000000
+
+[No Props]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Props
+// No Props
+patch=1,EE,004AC189,extended,00000000
+
+[No Traffic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Traffic
+// No Traffic
+patch=1,EE,0042CDAD,extended,00000000
+
+[No Traffic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Traffic
+// No Traffic
+patch=1,EE,004AC18A,extended,00000000
+
+[No AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No AI
+// No AI
+patch=1,EE,0042CDAF,extended,00000001
+
+[No AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No AI
+// No AI
+patch=1,EE,004AC18B,extended,00000000
+
+[No Pedestrians]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Pedestrians
+// No Pedestrians
+patch=1,EE,0042CDAF,extended,00000001
+
+[No Pedestrians]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Pedestrians
+// No Pedestrians
+patch=1,EE,004AC18C,extended,00000000
+
+[VoomPeds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=VoomPeds
+// VoomPeds
+patch=1,EE,0042CEB8,extended,00000001
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,2042CCE0,extended,3A83126F
+
+[Quick Win (Arcade Mode-Circuit)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Win (Arcade Mode-Circuit)
+// Quick Win (Arcade Mode-Circuit)
+patch=1,EE,201AE674,extended,2441FFFF
+
+[Quick Win (Arcade Mode-Circuit)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Win (Arcade Mode-Circuit)
+// Quick Win (Arcade Mode-Circuit)
+patch=1,EE,201AE678,extended,A1010030
+
+[Game Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Game Completed
+// Game Completed
+patch=1,EE,205B4C80,extended,FFFFFFFF
+
+[Game Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Game Completed
+// Game Completed
+patch=1,EE,205B4C84,extended,FFFFFFFF
+
+[Game Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Game Completed
+// Game Completed
+patch=1,EE,205B4C88,extended,FFFFFFFF
+
+[Game Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Game Completed
+// Game Completed
+patch=1,EE,205B4C8C,extended,FFFFFFFF
+
+[Game Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Game Completed
+// Game Completed
+patch=1,EE,205B4C90,extended,FFFFFFFF
+
+[Game Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Game Completed
+// Game Completed
+patch=1,EE,205B4C94,extended,FFFFFFFF

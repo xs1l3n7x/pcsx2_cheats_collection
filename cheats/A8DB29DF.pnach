@@ -1,0 +1,67 @@
+gametitle=MS Saga a new dawn [UNKNOWN] [A8DB29DF]
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,202939D8,extended,3C0142C8
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,202939E0,extended,AC410028
+
+[Infinite Breath]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Breath
+// Infinite Breath
+patch=1,EE,20297100,extended,3C013000
+
+[Max skill points (9)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max skill points (9)
+// Max skill points (9)
+patch=1,EE,202DC674,extended,24030009
+
+[Unlock All levels]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock All levels
+// Unlock All levels
+patch=1,EE,202E5FF8,extended,24020001
+
+[Unlock All levels]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock All levels
+// Unlock All levels
+patch=1,EE,2031CC28,extended,24020001
+
+[Unlock All levels]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock All levels
+// Unlock All levels
+patch=1,EE,2031CB14,extended,24020001
+
+[Unlock All levels]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock All levels
+// Unlock All levels
+patch=1,EE,202E5818,extended,24020001
+
+[Max ammo (main weapon)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max ammo (main weapon)
+// Max ammo (main weapon)
+patch=1,EE,2036ACE4,extended,2407270F
+
+[Max ammo (main weapon)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max ammo (main weapon)
+// Max ammo (main weapon)
+patch=1,EE,2036DE00,extended,2402270F
+
+[Max ammo (main weapon)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max ammo (main weapon)
+// Max ammo (main weapon)
+patch=1,EE,2036B760,extended,2411270F

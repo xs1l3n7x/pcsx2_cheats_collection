@@ -1,0 +1,85 @@
+gametitle=Sunny Garcia Surfing [SLUS-20208] [C9E72987]
+
+[Slot 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 30
+// Slot 30
+patch=1,EE,F0200008,extended,00327447
+
+[Quick Score Gain P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain P1
+// Quick Score Gain P1
+patch=1,EE,103885AC,extended,0000FFFF
+
+[Max Score P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P1
+// Max Score P1
+patch=1,EE,203885AC,extended,0098967F
+
+[Quick Score Gain P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain P2
+// Quick Score Gain P2
+patch=1,EE,103885E0,extended,0000FFFF
+
+[Max Score P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P2
+// Max Score P2
+patch=1,EE,203885E0,extended,0098967F
+
+[Unlock All Beaches]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Beaches
+// Unlock All Beaches
+patch=1,EE,203888B4,extended,FFFFFFFF
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,203888B8,extended,FFFFFFFF
+
+[Unlock All Challenges]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Challenges
+// Unlock All Challenges
+patch=1,EE,003888D4,extended,000000FF
+
+[Unlock All Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Outfits
+// Unlock All Outfits
+patch=1,EE,203888BC,extended,FFFFFFFF
+
+[Unlock All Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Outfits
+// Unlock All Outfits
+patch=1,EE,203888C0,extended,FFFFFFFF
+
+[Unlock All Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Outfits
+// Unlock All Outfits
+patch=1,EE,203888C4,extended,FFFFFFFF
+
+[Unlock All Boards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Boards
+// Unlock All Boards
+patch=1,EE,203888C8,extended,FFFFFFFF
+
+[Unlock All Boards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Boards
+// Unlock All Boards
+patch=1,EE,203888CC,extended,FFFFFFFF
+
+[Unlock All Boards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Boards
+// Unlock All Boards
+patch=1,EE,203888D0,extended,FFFFFFFF

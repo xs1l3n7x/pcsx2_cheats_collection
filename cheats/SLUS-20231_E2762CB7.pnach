@@ -1,0 +1,157 @@
+gametitle=Herdy Gerdy [SLUS-20231] [E2762CB7]
+
+[Shadow Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shadow Always Off
+// Shadow Always Off
+patch=1,EE,902FCC6C,extended,0C0C43B2
+
+[Max Doops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Doops
+// Max Doops
+patch=1,EE,20350900,extended,000003E7
+
+[No Doops To Left To Find]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Doops To Left To Find
+// No Doops To Left To Find
+patch=1,EE,20350904,extended,00000000
+
+[No Doops Dead]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Doops Dead
+// No Doops Dead
+patch=1,EE,20350908,extended,00000000
+
+[Max Doops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Doops
+// Max Doops
+patch=1,EE,20350900,extended,000003E7
+
+[No Doops Left To Find]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Doops Left To Find
+// No Doops Left To Find
+patch=1,EE,20350904,extended,00000000
+
+[No Doops Dead]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Doops Dead
+// No Doops Dead
+patch=1,EE,20350908,extended,00000000
+
+[Max Gromps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Gromps
+// Max Gromps
+patch=1,EE,2035090C,extended,000003E7
+
+[No Gromps Left To Find]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Gromps Left To Find
+// No Gromps Left To Find
+patch=1,EE,20350910,extended,00000000
+
+[No Gromps Dead]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Gromps Dead
+// No Gromps Dead
+patch=1,EE,20350914,extended,00000000
+
+[Max Bleeps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bleeps
+// Max Bleeps
+patch=1,EE,20350918,extended,000003E7
+
+[No Bleeps Left To Find]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Bleeps Left To Find
+// No Bleeps Left To Find
+patch=1,EE,2035091C,extended,00000000
+
+[No Bleeps Dead]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Bleeps Dead
+// No Bleeps Dead
+patch=1,EE,20350920,extended,00000000
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,0035227B,extended,00000005
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,2035227C,extended,04030201
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,00352284,extended,00000005
+
+[Have Super Jump Ability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Super Jump Ability
+// Have Super Jump Ability
+patch=1,EE,00352288,extended,00000001
+
+[Have Feather]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Feather
+// Have Feather
+patch=1,EE,0035228C,extended,00000001
+
+[Have Swimming Ability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Swimming Ability
+// Have Swimming Ability
+patch=1,EE,00352290,extended,00000001
+
+[Start With 99 Bells]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With 99 Bells
+// Start With 99 Bells
+patch=1,EE,D0350B20,extended,00200062
+
+[Start With 99 Bells]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With 99 Bells
+// Start With 99 Bells
+patch=1,EE,10350B20,extended,00000063
+
+[Max Bells]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bells
+// Max Bells
+patch=1,EE,10350B20,extended,00000064
+
+[Enable All Level Codes (On Map)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enable All Level Codes (On Map)
+// Enable All Level Codes (On Map)
+patch=1,EE,20267034,extended,24020001
+
+[Enable All Level Codes (On Map)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enable All Level Codes (On Map)
+// Enable All Level Codes (On Map)
+patch=1,EE,20267038,extended,AE420000
+
+[Unlock All Secrets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Secrets
+// Unlock All Secrets
+patch=1,EE,403A9120,extended,00140001
+
+[Unlock All Secrets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Secrets
+// Unlock All Secrets
+patch=1,EE,00000001,extended,00000000

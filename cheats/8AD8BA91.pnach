@@ -1,0 +1,67 @@
+gametitle=R-Type Final [UNKNOWN] [8AD8BA91]
+
+[Infinite health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health
+// Infinite health
+patch=1,EE,80D97461,extended,7C356497
+
+[Max ! count]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max ! count
+// Max ! count
+patch=1,EE,204F263C,extended,000003E7
+
+[Max blue souls]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max blue souls
+// Max blue souls
+patch=1,EE,2049B4E4,extended,00000009
+
+[Max skulls]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max skulls
+// Max skulls
+patch=1,EE,2049B54C,extended,00000009
+
+[Max souls]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max souls
+// Max souls
+patch=1,EE,2049B4D4,extended,0001869F
+
+[Max combo]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max combo
+// Max combo
+patch=1,EE,104A952E,extended,000003E7
+
+[No damage]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=No damage
+// No damage
+patch=1,EE,204F2638,extended,00000000
+
+[No time]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=No time
+// No time
+patch=1,EE,204F2630,extended,3F800000
+
+[Red souls]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Red souls
+// Red souls
+patch=1,EE,2049B534,extended,00000032
+
+[Infinite health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health
+// Infinite health
+patch=1,EE,201A1E58,extended,8E220DC4
+
+[Infinite health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health
+// Infinite health
+patch=1,EE,201A1E64,extended,00000000

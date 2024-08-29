@@ -1,0 +1,775 @@
+gametitle=Speed Kings [SLUS-20584] [C90920FC]
+
+[Inferno Cannon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Inferno Cannon
+// Inferno Cannon
+patch=1,EE,F0100008,extended,002704FB
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,201A6AC4,extended,00000000
+
+[Unlock Mirror Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Mirror Mode
+// Unlock Mirror Mode
+patch=1,EE,202CAA40,extended,00000000
+
+[Unlock Grand Prix]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Grand Prix
+// Unlock Grand Prix
+patch=1,EE,202CC954,extended,00002000
+
+[Unlock Traffic Gameplay Option]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Traffic Gameplay Option
+// Unlock Traffic Gameplay Option
+patch=1,EE,202CA9A4,extended,00002000
+
+[Total Laps Always 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps Always 1
+// Total Laps Always 1
+patch=1,EE,0030B959,extended,00000001
+
+[Total Laps Always 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps Always 5
+// Total Laps Always 5
+patch=1,EE,0030B959,extended,00000005
+
+[Total Laps Always 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps Always 10
+// Total Laps Always 10
+patch=1,EE,0030B959,extended,0000000A
+
+[Total Laps Always 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps Always 20
+// Total Laps Always 20
+patch=1,EE,0030B959,extended,00000014
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,200C0220,extended,805003C4
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,200C0224,extended,52000001
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,200C0228,extended,24100001
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,200C022C,extended,A05003C4
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,200C0230,extended,03E00008
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,200C0234,extended,0090202A
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,20134530,extended,0C030088
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,200C0220,extended,805003C4
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,200C0224,extended,52000001
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,200C0228,extended,24100002
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,200C022C,extended,A05003C4
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,200C0230,extended,03E00008
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,200C0234,extended,0090202A
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,20134530,extended,0C030088
+
+[Start On Last Lap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Last Lap
+// Start On Last Lap
+patch=1,EE,200C0220,extended,805003C4
+
+[Start On Last Lap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Last Lap
+// Start On Last Lap
+patch=1,EE,200C0224,extended,16000004
+
+[Start On Last Lap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Last Lap
+// Start On Last Lap
+patch=1,EE,200C0228,extended,3C010031
+
+[Start On Last Lap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Last Lap
+// Start On Last Lap
+patch=1,EE,200C022C,extended,8030B959
+
+[Start On Last Lap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Last Lap
+// Start On Last Lap
+patch=1,EE,200C0230,extended,2610FFFF
+
+[Start On Last Lap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Last Lap
+// Start On Last Lap
+patch=1,EE,200C0234,extended,A05003C4
+
+[Start On Last Lap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Last Lap
+// Start On Last Lap
+patch=1,EE,200C0238,extended,03E00008
+
+[Start On Last Lap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Last Lap
+// Start On Last Lap
+patch=1,EE,200C023C,extended,0090202A
+
+[Start On Last Lap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Last Lap
+// Start On Last Lap
+patch=1,EE,20134530,extended,0C030088
+
+[Access Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access Everything
+// Access Everything
+patch=1,EE,2013C3B8,extended,00000000
+
+[Max Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Credits
+// Max Credits
+patch=1,EE,0030B878,extended,00000063
+
+[Max Respect]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Respect
+// Max Respect
+patch=1,EE,2030DFEC,extended,000003E7
+
+[Respect Completed-All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Respect Completed-All Tracks
+// Respect Completed-All Tracks
+patch=1,EE,4034E560,extended,00360001
+
+[Respect Completed-All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Respect Completed-All Tracks
+// Respect Completed-All Tracks
+patch=1,EE,00000001,extended,00000000
+
+[De Soso 750cc]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=De Soso 750cc
+// De Soso 750cc
+patch=1,EE,202CA698,extended,00002000
+
+[Bazzer TVW 1000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bazzer TVW 1000
+// Bazzer TVW 1000
+patch=1,EE,202CA734,extended,00002000
+
+[Kerranga 1200]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kerranga 1200
+// Kerranga 1200
+patch=1,EE,202CA7D0,extended,00002000
+
+[Namoto IR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Namoto IR
+// Namoto IR
+patch=1,EE,202CA86C,extended,00002000
+
+[Namoto FRi 1300]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Namoto FRi 1300
+// Namoto FRi 1300
+patch=1,EE,202CA908,extended,00002000
+
+[Arwaka 1057]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arwaka 1057
+// Arwaka 1057
+patch=1,EE,202CC168,extended,00002000
+
+[Namoto Elvis]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Namoto Elvis
+// Namoto Elvis
+patch=1,EE,202CC204,extended,00002000
+
+[Varris 987]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Varris 987
+// Varris 987
+patch=1,EE,202CC2A0,extended,00002000
+
+[De Walter 999]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=De Walter 999
+// De Walter 999
+patch=1,EE,202CC33C,extended,00002000
+
+[Cowboy Meteor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cowboy Meteor
+// Cowboy Meteor
+patch=1,EE,202CC3D8,extended,00002000
+
+[De Soso 1100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=De Soso 1100
+// De Soso 1100
+patch=1,EE,202CC474,extended,00002000
+
+[Casiograna Y777]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Casiograna Y777
+// Casiograna Y777
+patch=1,EE,202CC648,extended,00002000
+
+[Franchesi Rsv]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Franchesi Rsv
+// Franchesi Rsv
+patch=1,EE,202CC6E4,extended,00002000
+
+[Namoto GP9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Namoto GP9
+// Namoto GP9
+patch=1,EE,202CC780,extended,00002000
+
+[Franchesi GP 1000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Franchesi GP 1000
+// Franchesi GP 1000
+patch=1,EE,202CC81C,extended,00002000
+
+[Galaxy 9009]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Galaxy 9009
+// Galaxy 9009
+patch=1,EE,202CC8B8,extended,00002000
+
+[Franchesi 6000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Franchesi 6000
+// Franchesi 6000
+patch=1,EE,202CCCFC,extended,00002000
+
+[Mu Mu 900]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mu Mu 900
+// Mu Mu 900
+patch=1,EE,202CCD98,extended,00002000
+
+[DMV W09]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=DMV W09
+// DMV W09
+patch=1,EE,202CCE34,extended,00002000
+
+[DMV W11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=DMV W11
+// DMV W11
+patch=1,EE,202CCED0,extended,00002000
+
+[Hasama 600cc]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hasama 600cc
+// Hasama 600cc
+patch=1,EE,202CCF6C,extended,00002000
+
+[UberBurg]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UberBurg
+// UberBurg
+patch=1,EE,202CB538,extended,00002000
+
+[Stein Bender]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stein Bender
+// Stein Bender
+patch=1,EE,202CB5D4,extended,00002000
+
+[Lumber Run]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lumber Run
+// Lumber Run
+patch=1,EE,202CB670,extended,00002000
+
+[East Coast Express]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=East Coast Express
+// East Coast Express
+patch=1,EE,202CB7A8,extended,00002000
+
+[Petrol Pastoral]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Petrol Pastoral
+// Petrol Pastoral
+patch=1,EE,202CB844,extended,00002000
+
+[Motor City Express]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Motor City Express
+// Motor City Express
+patch=1,EE,202CB8E0,extended,00002000
+
+[Freewya Abandon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Freewya Abandon
+// Freewya Abandon
+patch=1,EE,202CBA18,extended,00002000
+
+[Sunny Detroit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sunny Detroit
+// Sunny Detroit
+patch=1,EE,202CBAB4,extended,00002000
+
+[Capital Loop]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Capital Loop
+// Capital Loop
+patch=1,EE,202CBB50,extended,00002000
+
+[Bridge Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bridge Spin
+// Bridge Spin
+patch=1,EE,202CBC88,extended,00002000
+
+[Inner Limits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Inner Limits
+// Inner Limits
+patch=1,EE,202CBD24,extended,00002000
+
+[Mountain Pass]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mountain Pass
+// Mountain Pass
+patch=1,EE,202CBDC0,extended,00002000
+
+[The Splatterhorn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Splatterhorn
+// The Splatterhorn
+patch=1,EE,202CBE5C,extended,00002000
+
+[Snow Cap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snow Cap
+// Snow Cap
+patch=1,EE,202CBEF8,extended,00002000
+
+[Casino Run]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Casino Run
+// Casino Run
+patch=1,EE,202CBF94,extended,00002000
+
+[Dune Drive]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dune Drive
+// Dune Drive
+patch=1,EE,202CC030,extended,00002000
+
+[Arizona Stars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arizona Stars
+// Arizona Stars
+patch=1,EE,202CC0CC,extended,00002000
+
+[Do A Boost Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do A Boost Start
+// Do A Boost Start
+patch=1,EE,2034E560,extended,00000001
+
+[JumP For 250 Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=JumP For 250 Feet
+// JumP For 250 Feet
+patch=1,EE,2034E564,extended,00000001
+
+[Wheelie For 1000 Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wheelie For 1000 Feet
+// Wheelie For 1000 Feet
+patch=1,EE,2034E568,extended,00000001
+
+[8 PowerBands]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=8 PowerBands
+// 8 PowerBands
+patch=1,EE,2034E56C,extended,00000001
+
+[Do 20 Dings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do 20 Dings
+// Do 20 Dings
+patch=1,EE,2034E570,extended,00000001
+
+[Endo For 200 Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Endo For 200 Feet
+// Endo For 200 Feet
+patch=1,EE,2034E574,extended,00000001
+
+[Knock Down 6 Players]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knock Down 6 Players
+// Knock Down 6 Players
+patch=1,EE,2034E5FC,extended,00000001
+
+[Do 160 MPH Past Speed Camera]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do 160 MPH Past Speed Camera
+// Do 160 MPH Past Speed Camera
+patch=1,EE,2034E600,extended,00000001
+
+[Surf For 500 Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Surf For 500 Feet
+// Surf For 500 Feet
+patch=1,EE,2034E604,extended,00000001
+
+[Do 8 Donuts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do 8 Donuts
+// Do 8 Donuts
+patch=1,EE,2034E59C,extended,00000001
+
+[Do 20 Dings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do 20 Dings
+// Do 20 Dings
+patch=1,EE,2034E5A0,extended,00000001
+
+[Do Surfing Powerdown For 200 Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do Surfing Powerdown For 200 Feet
+// Do Surfing Powerdown For 200 Feet
+patch=1,EE,2034E5A4,extended,00000001
+
+[8 PowerBands]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=8 PowerBands
+// 8 PowerBands
+patch=1,EE,2034E5E4,extended,00000001
+
+[Jump For 270 Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jump For 270 Feet
+// Jump For 270 Feet
+patch=1,EE,2034E5E8,extended,00000001
+
+[Endo For 350 Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Endo For 350 Feet
+// Endo For 350 Feet
+patch=1,EE,2034E5EC,extended,00000001
+
+[Knock Down 6 Players]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knock Down 6 Players
+// Knock Down 6 Players
+patch=1,EE,2034E608,extended,00000001
+
+[Do 170 MPH Past Speed Camera]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do 170 MPH Past Speed Camera
+// Do 170 MPH Past Speed Camera
+patch=1,EE,2034E60C,extended,00000001
+
+[Do Standing Wheelie For 1500 Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do Standing Wheelie For 1500 Feet
+// Do Standing Wheelie For 1500 Feet
+patch=1,EE,2034E610,extended,00000001
+
+[Do 12 Donuts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do 12 Donuts
+// Do 12 Donuts
+patch=1,EE,2034E584,extended,00000001
+
+[Jump For 250 Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jump For 250 Feet
+// Jump For 250 Feet
+patch=1,EE,2034E588,extended,00000001
+
+[Do Handstand For 500 Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do Handstand For 500 Feet
+// Do Handstand For 500 Feet
+patch=1,EE,2034E58C,extended,00000001
+
+[8 PowerBands]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=8 PowerBands
+// 8 PowerBands
+patch=1,EE,2034E590,extended,00000001
+
+[Do 15 Dings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do 15 Dings
+// Do 15 Dings
+patch=1,EE,2034E594,extended,00000001
+
+[Wheelie For 1200 Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wheelie For 1200 Feet
+// Wheelie For 1200 Feet
+patch=1,EE,2034E598,extended,00000001
+
+[Knock Down 6 Players]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knock Down 6 Players
+// Knock Down 6 Players
+patch=1,EE,2034E614,extended,00000001
+
+[Do 170 MPH Past Speed Camera]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do 170 MPH Past Speed Camera
+// Do 170 MPH Past Speed Camera
+patch=1,EE,2034E618,extended,00000001
+
+[Do Pavement Ride For 700 Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do Pavement Ride For 700 Feet
+// Do Pavement Ride For 700 Feet
+patch=1,EE,2034E61C,extended,00000001
+
+[Do Not Crash For 1 Lap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do Not Crash For 1 Lap
+// Do Not Crash For 1 Lap
+patch=1,EE,2034E5A8,extended,00000001
+
+[Do 15 Dings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do 15 Dings
+// Do 15 Dings
+patch=1,EE,2034E5AC,extended,00000001
+
+[Do Standing WHeelie For 1400 Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do Standing WHeelie For 1400 Feet
+// Do Standing WHeelie For 1400 Feet
+patch=1,EE,2034E5B0,extended,00000001
+
+[14 PowerBands]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=14 PowerBands
+// 14 PowerBands
+patch=1,EE,2034E5D8,extended,00000001
+
+[Do Not Crash During Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do Not Crash During Race
+// Do Not Crash During Race
+patch=1,EE,2034E5DC,extended,00000001
+
+[Wheeling For 1600 Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wheeling For 1600 Feet
+// Wheeling For 1600 Feet
+patch=1,EE,2034E5E0,extended,00000001
+
+[Knock Down 6 Players]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knock Down 6 Players
+// Knock Down 6 Players
+patch=1,EE,2034E620,extended,00000001
+
+[Do 180 MPH Past Speed Camera]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do 180 MPH Past Speed Camera
+// Do 180 MPH Past Speed Camera
+patch=1,EE,2034E624,extended,00000001
+
+[Do Surfing Wheelie For 500 Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do Surfing Wheelie For 500 Feet
+// Do Surfing Wheelie For 500 Feet
+patch=1,EE,2034E628,extended,00000001
+
+[Do No Crash During Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do No Crash During Race
+// Do No Crash During Race
+patch=1,EE,2034E5C0,extended,00000001
+
+[Do 10 Dings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do 10 Dings
+// Do 10 Dings
+patch=1,EE,2034E5C4,extended,00000001
+
+[Do Standing Wheelie For 1500 Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do Standing Wheelie For 1500 Feet
+// Do Standing Wheelie For 1500 Feet
+patch=1,EE,2034E5C8,extended,00000001
+
+[12 PowerBands]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12 PowerBands
+// 12 PowerBands
+patch=1,EE,2034E5B4,extended,00000001
+
+[Do Not Crash For 1 Lap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do Not Crash For 1 Lap
+// Do Not Crash For 1 Lap
+patch=1,EE,2034E5B8,extended,00000001
+
+[Do Handstand Powerdown For 500 Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do Handstand Powerdown For 500 Feet
+// Do Handstand Powerdown For 500 Feet
+patch=1,EE,2034E5BC,extended,00000001
+
+[Knock Down 6 Players]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knock Down 6 Players
+// Knock Down 6 Players
+patch=1,EE,2034E62C,extended,00000001
+
+[Do 190 MPH Past Speed Camera]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do 190 MPH Past Speed Camera
+// Do 190 MPH Past Speed Camera
+patch=1,EE,2034E630,extended,00000001
+
+[Do Handstand For 600 Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do Handstand For 600 Feet
+// Do Handstand For 600 Feet
+patch=1,EE,2034E634,extended,00000001
+
+[Do Not Crash For 1 Lap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do Not Crash For 1 Lap
+// Do Not Crash For 1 Lap
+patch=1,EE,2034E5CC,extended,00000001
+
+[Do 15 Dings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do 15 Dings
+// Do 15 Dings
+patch=1,EE,2034E5D0,extended,00000001
+
+[Wheelie For 2000 Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wheelie For 2000 Feet
+// Wheelie For 2000 Feet
+patch=1,EE,2034E5D4,extended,00000001
+
+[16 PowerBands]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=16 PowerBands
+// 16 PowerBands
+patch=1,EE,2034E578,extended,00000001
+
+[Do 230 MPH Past Speed Camera]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do 230 MPH Past Speed Camera
+// Do 230 MPH Past Speed Camera
+patch=1,EE,2034E57C,extended,00000001
+
+[Do 1 Back Flip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do 1 Back Flip
+// Do 1 Back Flip
+patch=1,EE,2034E580,extended,00000001
+
+[Knock Down 6 Players]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knock Down 6 Players
+// Knock Down 6 Players
+patch=1,EE,2034E5F0,extended,00000001
+
+[Do Not Crash During Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do Not Crash During Race
+// Do Not Crash During Race
+patch=1,EE,2034E5F4,extended,00000001
+
+[Do 1 Front Flip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Do 1 Front Flip
+// Do 1 Front Flip
+patch=1,EE,2034E5F8,extended,00000001

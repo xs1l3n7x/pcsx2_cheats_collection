@@ -1,0 +1,2497 @@
+gametitle=Shadow Of Rome [SLUS-20902] [57818AF6]
+
+[All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Items
+// All Items
+patch=1,EE,90275238,extended,0C0496E8
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,201099B0,extended,24020001
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2037D284,extended,A4430382
+
+[Infinite Salvo Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Salvo Points
+// Infinite Salvo Points
+patch=1,EE,104FEB40,extended,0000FFFF
+
+[Max Salvo Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Salvo Points
+// Max Salvo Points
+patch=1,EE,204FEB40,extended,05F5E0FF
+
+[Infinite Weapon Durability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Weapon Durability
+// Infinite Weapon Durability
+patch=1,EE,201A208C,extended,00000000
+
+[Have All Salvo List (In-Game)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Salvo List (In-Game)
+// Have All Salvo List (In-Game)
+patch=1,EE,40551590,extended,007E0001
+
+[Have All Salvo List (In-Game)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Salvo List (In-Game)
+// Have All Salvo List (In-Game)
+patch=1,EE,A70FA70F,extended,00000000
+
+[Unlock All Options/Cheats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Options/Cheats
+// Unlock All Options/Cheats
+patch=1,EE,20550998,extended,FFFFFFFF
+
+[Have All Salvos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Salvos
+// Have All Salvos
+patch=1,EE,40550FD4,extended,00080001
+
+[Have All Salvos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Salvos
+// Have All Salvos
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Have All Salvos Viewed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Salvos Viewed
+// Have All Salvos Viewed
+patch=1,EE,40550FF4,extended,00080001
+
+[Have All Salvos Viewed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Salvos Viewed
+// Have All Salvos Viewed
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Max Total Salvo Points-All Games]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Salvo Points-All Games
+// Max Total Salvo Points-All Games
+patch=1,EE,20551BE4,extended,05F5E0FF
+
+[No Total Salvo Points-All Games]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Total Salvo Points-All Games
+// No Total Salvo Points-All Games
+patch=1,EE,20551BE4,extended,00000000
+
+[Max Enemies Killed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Enemies Killed
+// Max Enemies Killed
+patch=1,EE,205522BC,extended,85F5E0FF
+
+[No Enemies Killed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Enemies Killed
+// No Enemies Killed
+patch=1,EE,205522BC,extended,80000000
+
+[Max Most Salvo Points In One Event]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Most Salvo Points In One Event
+// Max Most Salvo Points In One Event
+patch=1,EE,205522C4,extended,85F5E0FF
+
+[No Most Salvo Points In One Event]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Most Salvo Points In One Event
+// No Most Salvo Points In One Event
+patch=1,EE,205522C4,extended,80000000
+
+[No Continues Used]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Continues Used
+// No Continues Used
+patch=1,EE,205522CC,extended,80000000
+
+[Max Longest Chain Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Longest Chain Combo
+// Max Longest Chain Combo
+patch=1,EE,205522D0,extended,85F5E0FF
+
+[No Longest Chain Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Longest Chain Combo
+// No Longest Chain Combo
+patch=1,EE,205522D0,extended,80000000
+
+[Max Bare-Handed Clears]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bare-Handed Clears
+// Max Bare-Handed Clears
+patch=1,EE,205522F8,extended,85F5E0FF
+
+[No Bare-Handed Clears]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Bare-Handed Clears
+// No Bare-Handed Clears
+patch=1,EE,205522F8,extended,80000000
+
+[Max Distance Traveled In Miles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Distance Traveled In Miles
+// Max Distance Traveled In Miles
+patch=1,EE,20552350,extended,8997A960
+
+[No Distance Traveled In Miles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Traveled In Miles
+// No Distance Traveled In Miles
+patch=1,EE,20552350,extended,80000000
+
+[Max Most Points From A Single Salvo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Most Points From A Single Salvo
+// Max Most Points From A Single Salvo
+patch=1,EE,20552378,extended,85F5E0FF
+
+[No Most Points From A Single Salvo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Most Points From A Single Salvo
+// No Most Points From A Single Salvo
+patch=1,EE,20552378,extended,80000000
+
+[Max Weapons Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Weapons Thrown
+// Max Weapons Thrown
+patch=1,EE,205522D4,extended,85F5E0FF
+
+[No Weapons Thrown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Weapons Thrown
+// No Weapons Thrown
+patch=1,EE,205522D4,extended,80000000
+
+[Max Thrown Weapon Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Thrown Weapon Hits
+// Max Thrown Weapon Hits
+patch=1,EE,205522D8,extended,85F5E0FF
+
+[No Thrown Weapon Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Thrown Weapon Hits
+// No Thrown Weapon Hits
+patch=1,EE,205522D8,extended,80000000
+
+[Max Thrown Weapon Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Thrown Weapon Kills
+// Max Thrown Weapon Kills
+patch=1,EE,205522DC,extended,85F5E0FF
+
+[No Thrown Weapon Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Thrown Weapon Kills
+// No Thrown Weapon Kills
+patch=1,EE,205522DC,extended,80000000
+
+[Max Weapons Broken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Weapons Broken
+// Max Weapons Broken
+patch=1,EE,205522E0,extended,85F5E0FF
+
+[No Weapons Broken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Weapons Broken
+// No Weapons Broken
+patch=1,EE,205522E0,extended,80000000
+
+[Max Weapons Stolen From Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Weapons Stolen From Enemies
+// Max Weapons Stolen From Enemies
+patch=1,EE,205522FC,extended,85F5E0FF
+
+[No Weapons Stolen From Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Weapons Stolen From Enemies
+// No Weapons Stolen From Enemies
+patch=1,EE,205522FC,extended,80000000
+
+[Max Weapons Stolen By Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Weapons Stolen By Enemies
+// Max Weapons Stolen By Enemies
+patch=1,EE,20552300,extended,85F5E0FF
+
+[No Weapons Stolen By Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Weapons Stolen By Enemies
+// No Weapons Stolen By Enemies
+patch=1,EE,20552300,extended,80000000
+
+[Max Weapons Dropped]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Weapons Dropped
+// Max Weapons Dropped
+patch=1,EE,20552320,extended,85F5E0FF
+
+[No Weapons Dropped]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Weapons Dropped
+// No Weapons Dropped
+patch=1,EE,20552320,extended,80000000
+
+[Max Enemy Weapons Dropped]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Enemy Weapons Dropped
+// Max Enemy Weapons Dropped
+patch=1,EE,20552324,extended,85F5E0FF
+
+[No Enemy Weapons Dropped]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Enemy Weapons Dropped
+// No Enemy Weapons Dropped
+patch=1,EE,20552324,extended,80000000
+
+[Max Successful Supra Attacks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Successful Supra Attacks
+// Max Successful Supra Attacks
+patch=1,EE,20552330,extended,85F5E0FF
+
+[No Successful Supra Attacks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Successful Supra Attacks
+// No Successful Supra Attacks
+patch=1,EE,20552330,extended,80000000
+
+[Max Times You've Been Knocked Down]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Times You've Been Knocked Down
+// Max Times You've Been Knocked Down
+patch=1,EE,205522E4,extended,85F5E0FF
+
+[No Times You've Been Knocked Down]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Times You've Been Knocked Down
+// No Times You've Been Knocked Down
+patch=1,EE,205522E4,extended,80000000
+
+[Max Times You've Knocked Enemies Down]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Times You've Knocked Enemies Down
+// Max Times You've Knocked Enemies Down
+patch=1,EE,205522E8,extended,85F5E0FF
+
+[No Times You've Knocked Enemies Down]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Times You've Knocked Enemies Down
+// No Times You've Knocked Enemies Down
+patch=1,EE,205522E8,extended,80000000
+
+[Max Enemies Pulled To Their Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Enemies Pulled To Their Feet
+// Max Enemies Pulled To Their Feet
+patch=1,EE,205522EC,extended,85F5E0FF
+
+[No Enemies Pulled To Their Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Enemies Pulled To Their Feet
+// No Enemies Pulled To Their Feet
+patch=1,EE,205522EC,extended,80000000
+
+[Max Enemies Chased And Attacked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Enemies Chased And Attacked
+// Max Enemies Chased And Attacked
+patch=1,EE,205522F0,extended,85F5E0FF
+
+[No Enemies Chased And Attacked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Enemies Chased And Attacked
+// No Enemies Chased And Attacked
+patch=1,EE,205522F0,extended,80000000
+
+[Max Enemies Chased And Killed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Enemies Chased And Killed
+// Max Enemies Chased And Killed
+patch=1,EE,205522F4,extended,85F5E0FF
+
+[No Enemies Chased And Killed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Enemies Chased And Killed
+// No Enemies Chased And Killed
+patch=1,EE,205522F4,extended,80000000
+
+[Max Attacks Received By Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attacks Received By Enemies
+// Max Attacks Received By Enemies
+patch=1,EE,2055231C,extended,85F5E0FF
+
+[No Attacks Received By Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Attacks Received By Enemies
+// No Attacks Received By Enemies
+patch=1,EE,2055231C,extended,80000000
+
+[Max Enemy Attacks Blocked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Enemy Attacks Blocked
+// Max Enemy Attacks Blocked
+patch=1,EE,20552328,extended,85F5E0FF
+
+[No Enemy Attacks Blocked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Enemy Attacks Blocked
+// No Enemy Attacks Blocked
+patch=1,EE,20552328,extended,80000000
+
+[Max Attacks Blocked By Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attacks Blocked By Enemies
+// Max Attacks Blocked By Enemies
+patch=1,EE,2055232C,extended,85F5E0FF
+
+[No Attacks Blocked By Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Attacks Blocked By Enemies
+// No Attacks Blocked By Enemies
+patch=1,EE,2055232C,extended,80000000
+
+[Max Helmets Broken By Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Helmets Broken By Enemies
+// Max Helmets Broken By Enemies
+patch=1,EE,20552334,extended,85F5E0FF
+
+[No Helmets Broken By Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Helmets Broken By Enemies
+// No Helmets Broken By Enemies
+patch=1,EE,20552334,extended,80000000
+
+[Max Enemy Helmets Broken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Enemy Helmets Broken
+// Max Enemy Helmets Broken
+patch=1,EE,20552338,extended,85F5E0FF
+
+[No Enemy Helmets Broken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Enemy Helmets Broken
+// No Enemy Helmets Broken
+patch=1,EE,20552338,extended,80000000
+
+[Max Victories-Gladius]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Gladius
+// Max Victories-Gladius
+patch=1,EE,2055237C,extended,85F5E0FF
+
+[No Victories-Gladius]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Gladius
+// No Victories-Gladius
+patch=1,EE,2055237C,extended,80000000
+
+[Max Victories-Scimitar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Scimitar
+// Max Victories-Scimitar
+patch=1,EE,20552380,extended,85F5E0FF
+
+[No Victories-Scimitar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Scimitar
+// No Victories-Scimitar
+patch=1,EE,20552380,extended,80000000
+
+[Max Victories-Mace]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Mace
+// Max Victories-Mace
+patch=1,EE,20552384,extended,85F5E0FF
+
+[No Victories-Mace]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Mace
+// No Victories-Mace
+patch=1,EE,20552384,extended,80000000
+
+[Max Victories-Halberd]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Halberd
+// Max Victories-Halberd
+patch=1,EE,20552388,extended,85F5E0FF
+
+[No Victories-Halberd]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Halberd
+// No Victories-Halberd
+patch=1,EE,20552388,extended,80000000
+
+[Max Victories-Maul]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Maul
+// Max Victories-Maul
+patch=1,EE,2055238C,extended,85F5E0FF
+
+[No Victories-Maul]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Maul
+// No Victories-Maul
+patch=1,EE,2055238C,extended,80000000
+
+[Max Victories-Morningstar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Morningstar
+// Max Victories-Morningstar
+patch=1,EE,20552390,extended,85F5E0FF
+
+[No Victories-Morningstar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Morningstar
+// No Victories-Morningstar
+patch=1,EE,20552390,extended,80000000
+
+[Max Victories-Dagger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Dagger
+// Max Victories-Dagger
+patch=1,EE,20552394,extended,85F5E0FF
+
+[No Victories-Dagger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Dagger
+// No Victories-Dagger
+patch=1,EE,20552394,extended,80000000
+
+[Max Victories-Rock]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Rock
+// Max Victories-Rock
+patch=1,EE,20552398,extended,85F5E0FF
+
+[No Victories-Rock]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Rock
+// No Victories-Rock
+patch=1,EE,20552398,extended,80000000
+
+[Max Victories-Spear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Spear
+// Max Victories-Spear
+patch=1,EE,2055239C,extended,85F5E0FF
+
+[No Victories-Spear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Spear
+// No Victories-Spear
+patch=1,EE,2055239C,extended,80000000
+
+[Max Victories-Bow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Bow
+// Max Victories-Bow
+patch=1,EE,205523A0,extended,85F5E0FF
+
+[No Victories-Bow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Bow
+// No Victories-Bow
+patch=1,EE,205523A0,extended,80000000
+
+[Max Victories-Sling]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Sling
+// Max Victories-Sling
+patch=1,EE,205523A4,extended,85F5E0FF
+
+[No Victories-Sling]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Sling
+// No Victories-Sling
+patch=1,EE,205523A4,extended,80000000
+
+[Max Victories-Torch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Torch
+// Max Victories-Torch
+patch=1,EE,205523A8,extended,85F5E0FF
+
+[No Victories-Torch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Torch
+// No Victories-Torch
+patch=1,EE,205523A8,extended,80000000
+
+[Max Victories-Rudis]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Rudis
+// Max Victories-Rudis
+patch=1,EE,205523AC,extended,85F5E0FF
+
+[No Victories-Rudis]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Rudis
+// No Victories-Rudis
+patch=1,EE,205523AC,extended,80000000
+
+[Max Victories-Whip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Whip
+// Max Victories-Whip
+patch=1,EE,205523B0,extended,85F5E0FF
+
+[No Victories-Whip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Whip
+// No Victories-Whip
+patch=1,EE,205523B0,extended,80000000
+
+[Max Victories-Trident]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Trident
+// Max Victories-Trident
+patch=1,EE,205523B4,extended,85F5E0FF
+
+[No Victories-Trident]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Trident
+// No Victories-Trident
+patch=1,EE,205523B4,extended,80000000
+
+[Max Victories-Magnus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Magnus
+// Max Victories-Magnus
+patch=1,EE,205523B8,extended,85F5E0FF
+
+[No Victories-Magnus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Magnus
+// No Victories-Magnus
+patch=1,EE,205523B8,extended,80000000
+
+[Max Victories-Roma Sai]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Roma Sai
+// Max Victories-Roma Sai
+patch=1,EE,205523BC,extended,85F5E0FF
+
+[No Victories-Roma Sai]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Roma Sai
+// No Victories-Roma Sai
+patch=1,EE,205523BC,extended,80000000
+
+[Max Victories-Barca Axe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Barca Axe
+// Max Victories-Barca Axe
+patch=1,EE,205523C0,extended,85F5E0FF
+
+[No Victories-Barca Axe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Barca Axe
+// No Victories-Barca Axe
+patch=1,EE,205523C0,extended,80000000
+
+[Max Victories-German Hand Axe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-German Hand Axe
+// Max Victories-German Hand Axe
+patch=1,EE,205523C4,extended,85F5E0FF
+
+[No Victories-German Hand Axe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-German Hand Axe
+// No Victories-German Hand Axe
+patch=1,EE,205523C4,extended,80000000
+
+[Max Victories-Long Axe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Long Axe
+// Max Victories-Long Axe
+patch=1,EE,205523C8,extended,85F5E0FF
+
+[No Victories-Long Axe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Long Axe
+// No Victories-Long Axe
+patch=1,EE,205523C8,extended,80000000
+
+[Max Victories-Guardian Gladius]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Guardian Gladius
+// Max Victories-Guardian Gladius
+patch=1,EE,205523CC,extended,85F5E0FF
+
+[No Victories-Guardian Gladius]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Guardian Gladius
+// No Victories-Guardian Gladius
+patch=1,EE,205523CC,extended,80000000
+
+[Max Victories-Gedo Spear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Gedo Spear
+// Max Victories-Gedo Spear
+patch=1,EE,205523D0,extended,85F5E0FF
+
+[No Victories-Gedo Spear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Gedo Spear
+// No Victories-Gedo Spear
+patch=1,EE,205523D0,extended,80000000
+
+[Max Victories-Zedo Spear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Zedo Spear
+// Max Victories-Zedo Spear
+patch=1,EE,205523D4,extended,85F5E0FF
+
+[No Victories-Zedo Spear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Zedo Spear
+// No Victories-Zedo Spear
+patch=1,EE,205523D4,extended,80000000
+
+[Max Victories-Power Gladius]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Power Gladius
+// Max Victories-Power Gladius
+patch=1,EE,205523D8,extended,85F5E0FF
+
+[No Victories-Power Gladius]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Power Gladius
+// No Victories-Power Gladius
+patch=1,EE,205523D8,extended,80000000
+
+[Max Victories-Power Scimitar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Power Scimitar
+// Max Victories-Power Scimitar
+patch=1,EE,205523DC,extended,85F5E0FF
+
+[No Victories-Power Scimitar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Power Scimitar
+// No Victories-Power Scimitar
+patch=1,EE,205523DC,extended,80000000
+
+[Max Victories-Grand Mace]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Grand Mace
+// Max Victories-Grand Mace
+patch=1,EE,205523E0,extended,85F5E0FF
+
+[No Victories-Grand Mace]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Grand Mace
+// No Victories-Grand Mace
+patch=1,EE,205523E0,extended,80000000
+
+[Max Victories-Grand Halberd]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Grand Halberd
+// Max Victories-Grand Halberd
+patch=1,EE,205523E4,extended,85F5E0FF
+
+[No Victories-Grand Halberd]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Grand Halberd
+// No Victories-Grand Halberd
+patch=1,EE,205523E4,extended,80000000
+
+[Max Victories-Power Maul]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Power Maul
+// Max Victories-Power Maul
+patch=1,EE,205523E8,extended,85F5E0FF
+
+[No Victories-Power Maul]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Power Maul
+// No Victories-Power Maul
+patch=1,EE,205523E8,extended,80000000
+
+[Max Victories-War Chain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-War Chain
+// Max Victories-War Chain
+patch=1,EE,205523EC,extended,85F5E0FF
+
+[No Victories-War Chain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-War Chain
+// No Victories-War Chain
+patch=1,EE,205523EC,extended,80000000
+
+[Max Victories-Apollo Spear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Apollo Spear
+// Max Victories-Apollo Spear
+patch=1,EE,205523F0,extended,85F5E0FF
+
+[No Victories-Apollo Spear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Apollo Spear
+// No Victories-Apollo Spear
+patch=1,EE,205523F0,extended,80000000
+
+[Max Victories-Fire Bow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Fire Bow
+// Max Victories-Fire Bow
+patch=1,EE,205523F4,extended,85F5E0FF
+
+[No Victories-Fire Bow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Fire Bow
+// No Victories-Fire Bow
+patch=1,EE,205523F4,extended,80000000
+
+[Max Victories-Oil Sling]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Oil Sling
+// Max Victories-Oil Sling
+patch=1,EE,205523F8,extended,85F5E0FF
+
+[No Victories-Oil Sling]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Oil Sling
+// No Victories-Oil Sling
+patch=1,EE,205523F8,extended,80000000
+
+[Max Victories-Stick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Stick
+// Max Victories-Stick
+patch=1,EE,205523FC,extended,85F5E0FF
+
+[No Victories-Stick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Stick
+// No Victories-Stick
+patch=1,EE,205523FC,extended,80000000
+
+[Max Victories-Head]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Head
+// Max Victories-Head
+patch=1,EE,20552400,extended,85F5E0FF
+
+[No Victories-Head]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Head
+// No Victories-Head
+patch=1,EE,20552400,extended,80000000
+
+[Max Victories-Arm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Arm
+// Max Victories-Arm
+patch=1,EE,20552404,extended,85F5E0FF
+
+[No Victories-Arm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Arm
+// No Victories-Arm
+patch=1,EE,20552404,extended,80000000
+
+[Max Victories-Parma]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Parma
+// Max Victories-Parma
+patch=1,EE,20552408,extended,85F5E0FF
+
+[No Victories-Parma]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Parma
+// No Victories-Parma
+patch=1,EE,20552408,extended,80000000
+
+[Max Victories-Spike Shield]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Spike Shield
+// Max Victories-Spike Shield
+patch=1,EE,2055240C,extended,85F5E0FF
+
+[No Victories-Spike Shield]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Spike Shield
+// No Victories-Spike Shield
+patch=1,EE,2055240C,extended,80000000
+
+[Max Victories-German Shield]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-German Shield
+// Max Victories-German Shield
+patch=1,EE,20552410,extended,85F5E0FF
+
+[No Victories-German Shield]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-German Shield
+// No Victories-German Shield
+patch=1,EE,20552410,extended,80000000
+
+[Max Victories-Roma Shield]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Roma Shield
+// Max Victories-Roma Shield
+patch=1,EE,20552414,extended,85F5E0FF
+
+[No Victories-Roma Shield]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Roma Shield
+// No Victories-Roma Shield
+patch=1,EE,20552414,extended,80000000
+
+[Max Victories-Guardian Shield]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Guardian Shield
+// Max Victories-Guardian Shield
+patch=1,EE,20552418,extended,85F5E0FF
+
+[No Victories-Guardian Shield]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Guardian Shield
+// No Victories-Guardian Shield
+patch=1,EE,20552418,extended,80000000
+
+[Max Victories-No Weapon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-No Weapon
+// Max Victories-No Weapon
+patch=1,EE,2055241C,extended,85F5E0FF
+
+[No Victories-No Weapon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-No Weapon
+// No Victories-No Weapon
+patch=1,EE,2055241C,extended,80000000
+
+[Max Victories-Barrel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Barrel
+// Max Victories-Barrel
+patch=1,EE,20552420,extended,85F5E0FF
+
+[No Victories-Barrel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Barrel
+// No Victories-Barrel
+patch=1,EE,20552420,extended,80000000
+
+[Max Victories-Valcross Bow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Valcross Bow
+// Max Victories-Valcross Bow
+patch=1,EE,20552424,extended,85F5E0FF
+
+[No Victories-Valcross Bow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Valcross Bow
+// No Victories-Valcross Bow
+patch=1,EE,20552424,extended,80000000
+
+[Max Victories-Claw Shard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Claw Shard
+// Max Victories-Claw Shard
+patch=1,EE,20552428,extended,85F5E0FF
+
+[No Victories-Claw Shard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Claw Shard
+// No Victories-Claw Shard
+patch=1,EE,20552428,extended,80000000
+
+[Max Victories-Large Warrior]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Large Warrior
+// Max Victories-Large Warrior
+patch=1,EE,2055246C,extended,85F5E0FF
+
+[No Victories-Large Warrior]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Large Warrior
+// No Victories-Large Warrior
+patch=1,EE,2055246C,extended,80000000
+
+[Max Victories-Mid-Size Warrior]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Mid-Size Warrior
+// Max Victories-Mid-Size Warrior
+patch=1,EE,20552470,extended,85F5E0FF
+
+[No Victories-Mid-Size Warrior]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Mid-Size Warrior
+// No Victories-Mid-Size Warrior
+patch=1,EE,20552470,extended,80000000
+
+[Max Victories-Small Warrior]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Small Warrior
+// Max Victories-Small Warrior
+patch=1,EE,20552474,extended,85F5E0FF
+
+[No Victories-Small Warrior]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Small Warrior
+// No Victories-Small Warrior
+patch=1,EE,20552474,extended,80000000
+
+[Max Victories-Female Warrior]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Female Warrior
+// Max Victories-Female Warrior
+patch=1,EE,20552478,extended,85F5E0FF
+
+[No Victories-Female Warrior]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Female Warrior
+// No Victories-Female Warrior
+patch=1,EE,20552478,extended,80000000
+
+[Max Victories-Roman Soldier]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Roman Soldier
+// Max Victories-Roman Soldier
+patch=1,EE,2055247C,extended,85F5E0FF
+
+[No Victories-Roman Soldier]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Roman Soldier
+// No Victories-Roman Soldier
+patch=1,EE,2055247C,extended,80000000
+
+[Max Victories-German Fighter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-German Fighter
+// Max Victories-German Fighter
+patch=1,EE,20552480,extended,85F5E0FF
+
+[No Victories-German Fighter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-German Fighter
+// No Victories-German Fighter
+patch=1,EE,20552480,extended,80000000
+
+[Max Victories-Soldier Of Antonius]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Soldier Of Antonius
+// Max Victories-Soldier Of Antonius
+patch=1,EE,20552484,extended,85F5E0FF
+
+[No Victories-Soldier Of Antonius]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Soldier Of Antonius
+// No Victories-Soldier Of Antonius
+patch=1,EE,20552484,extended,80000000
+
+[Max Victories-Bandit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Bandit
+// Max Victories-Bandit
+patch=1,EE,20552488,extended,85F5E0FF
+
+[No Victories-Bandit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Bandit
+// No Victories-Bandit
+patch=1,EE,20552488,extended,80000000
+
+[Max Victories-Pirate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Pirate
+// Max Victories-Pirate
+patch=1,EE,2055248C,extended,85F5E0FF
+
+[No Victories-Pirate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Pirate
+// No Victories-Pirate
+patch=1,EE,2055248C,extended,80000000
+
+[Max Victories-Barca]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Barca
+// Max Victories-Barca
+patch=1,EE,20552490,extended,85F5E0FF
+
+[No Victories-Barca]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Barca
+// No Victories-Barca
+patch=1,EE,20552490,extended,80000000
+
+[Max Victories-Sextus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Sextus
+// Max Victories-Sextus
+patch=1,EE,20552494,extended,85F5E0FF
+
+[No Victories-Sextus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Sextus
+// No Victories-Sextus
+patch=1,EE,20552494,extended,80000000
+
+[Max Victories-Decius]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Decius
+// Max Victories-Decius
+patch=1,EE,20552498,extended,85F5E0FF
+
+[No Victories-Decius]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Decius
+// No Victories-Decius
+patch=1,EE,20552498,extended,80000000
+
+[Max Victories-Antonius]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Antonius
+// Max Victories-Antonius
+patch=1,EE,2055249C,extended,85F5E0FF
+
+[No Victories-Antonius]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Antonius
+// No Victories-Antonius
+patch=1,EE,2055249C,extended,80000000
+
+[Max Victories-Arcanas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Arcanas
+// Max Victories-Arcanas
+patch=1,EE,205524A0,extended,85F5E0FF
+
+[No Victories-Arcanas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Arcanas
+// No Victories-Arcanas
+patch=1,EE,205524A0,extended,80000000
+
+[Max Victories-Narclastese]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Narclastese
+// Max Victories-Narclastese
+patch=1,EE,205524A4,extended,85F5E0FF
+
+[No Victories-Narclastese]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Narclastese
+// No Victories-Narclastese
+patch=1,EE,205524A4,extended,80000000
+
+[Max Victories-Askari]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Askari
+// Max Victories-Askari
+patch=1,EE,205524A8,extended,85F5E0FF
+
+[No Victories-Askari]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Askari
+// No Victories-Askari
+patch=1,EE,205524A8,extended,80000000
+
+[Max Victories-Zedo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Zedo
+// Max Victories-Zedo
+patch=1,EE,205524AC,extended,85F5E0FF
+
+[No Victories-Zedo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Zedo
+// No Victories-Zedo
+patch=1,EE,205524AC,extended,80000000
+
+[Max Victories-Gedo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Gedo
+// Max Victories-Gedo
+patch=1,EE,205524B0,extended,85F5E0FF
+
+[No Victories-Gedo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Gedo
+// No Victories-Gedo
+patch=1,EE,205524B0,extended,80000000
+
+[Max Victories-Tiger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Tiger
+// Max Victories-Tiger
+patch=1,EE,205524B4,extended,85F5E0FF
+
+[No Victories-Tiger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Tiger
+// No Victories-Tiger
+patch=1,EE,205524B4,extended,80000000
+
+[Max Victories-Elephant]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Elephant
+// Max Victories-Elephant
+patch=1,EE,205524B8,extended,85F5E0FF
+
+[No Victories-Elephant]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Elephant
+// No Victories-Elephant
+patch=1,EE,205524B8,extended,80000000
+
+[Max Victories-Vulture]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Vulture
+// Max Victories-Vulture
+patch=1,EE,205524BC,extended,85F5E0FF
+
+[No Victories-Vulture]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Vulture
+// No Victories-Vulture
+patch=1,EE,205524BC,extended,80000000
+
+[Max Victories-Elite Large Warrior]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Elite Large Warrior
+// Max Victories-Elite Large Warrior
+patch=1,EE,205524C0,extended,85F5E0FF
+
+[No Victories-Elite Large Warrior]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Elite Large Warrior
+// No Victories-Elite Large Warrior
+patch=1,EE,205524C0,extended,80000000
+
+[Max Victories-Elite Mid-Size Warrior]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Elite Mid-Size Warrior
+// Max Victories-Elite Mid-Size Warrior
+patch=1,EE,205524C4,extended,85F5E0FF
+
+[No Victories-Elite Mid-Size Warrior]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Elite Mid-Size Warrior
+// No Victories-Elite Mid-Size Warrior
+patch=1,EE,205524C4,extended,80000000
+
+[Max Victories-Elite Small Warrior]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Elite Small Warrior
+// Max Victories-Elite Small Warrior
+patch=1,EE,205524C8,extended,85F5E0FF
+
+[No Victories-Elite Small Warrior]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Elite Small Warrior
+// No Victories-Elite Small Warrior
+patch=1,EE,205524C8,extended,80000000
+
+[Max Victories-Elite Female Warrior]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Victories-Elite Female Warrior
+// Max Victories-Elite Female Warrior
+patch=1,EE,205524CC,extended,85F5E0FF
+
+[No Victories-Elite Female Warrior]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Victories-Elite Female Warrior
+// No Victories-Elite Female Warrior
+patch=1,EE,205524CC,extended,80000000
+
+[Max Heads Severed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Heads Severed
+// Max Heads Severed
+patch=1,EE,20552444,extended,85F5E0FF
+
+[No Heads Severed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Heads Severed
+// No Heads Severed
+patch=1,EE,20552444,extended,80000000
+
+[Max Arms Severed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Arms Severed
+// Max Arms Severed
+patch=1,EE,20552448,extended,85F5E0FF
+
+[No Arms Severed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Arms Severed
+// No Arms Severed
+patch=1,EE,20552448,extended,80000000
+
+[Max Torsos Hacked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Torsos Hacked
+// Max Torsos Hacked
+patch=1,EE,2055244C,extended,85F5E0FF
+
+[No Torsos Hacked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Torsos Hacked
+// No Torsos Hacked
+patch=1,EE,2055244C,extended,80000000
+
+[Max Heads Crushed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Heads Crushed
+// Max Heads Crushed
+patch=1,EE,20552450,extended,85F5E0FF
+
+[No Heads Crushed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Heads Crushed
+// No Heads Crushed
+patch=1,EE,20552450,extended,80000000
+
+[Max Necks Broken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Necks Broken
+// Max Necks Broken
+patch=1,EE,20552454,extended,85F5E0FF
+
+[No Necks Broken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Necks Broken
+// No Necks Broken
+patch=1,EE,20552454,extended,80000000
+
+[Max Arms Broken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Arms Broken
+// Max Arms Broken
+patch=1,EE,20552458,extended,85F5E0FF
+
+[No Arms Broken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Arms Broken
+// No Arms Broken
+patch=1,EE,20552458,extended,80000000
+
+[Max Distance Ran In Miles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Distance Ran In Miles
+// Max Distance Ran In Miles
+patch=1,EE,205524D0,extended,8997A960
+
+[No Distance Ran In Miles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Ran In Miles
+// No Distance Ran In Miles
+patch=1,EE,205524D0,extended,80000000
+
+[Max Distance Walked In Miles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Distance Walked In Miles
+// Max Distance Walked In Miles
+patch=1,EE,205524D4,extended,8997A960
+
+[No Distance Walked In Miles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Walked In Miles
+// No Distance Walked In Miles
+patch=1,EE,205524D4,extended,80000000
+
+[Max Distance Crawled In Miles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Distance Crawled In Miles
+// Max Distance Crawled In Miles
+patch=1,EE,205524D8,extended,8997A960
+
+[No Distance Crawled In Miles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Distance Crawled In Miles
+// No Distance Crawled In Miles
+patch=1,EE,205524D8,extended,80000000
+
+[Max Pieces Of Meat Thrown To Crowd]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pieces Of Meat Thrown To Crowd
+// Max Pieces Of Meat Thrown To Crowd
+patch=1,EE,20552304,extended,85F5E0FF
+
+[No Pieces Of Meat Thrown To Crowd]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Pieces Of Meat Thrown To Crowd
+// No Pieces Of Meat Thrown To Crowd
+patch=1,EE,20552304,extended,80000000
+
+[Max Roses Thrown To Crowd]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Roses Thrown To Crowd
+// Max Roses Thrown To Crowd
+patch=1,EE,20552308,extended,85F5E0FF
+
+[No Roses Thrown To Crowd]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Roses Thrown To Crowd
+// No Roses Thrown To Crowd
+patch=1,EE,20552308,extended,80000000
+
+[Max Weapons Thrown To Crowd]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Weapons Thrown To Crowd
+// Max Weapons Thrown To Crowd
+patch=1,EE,2055230C,extended,85F5E0FF
+
+[No Weapons Thrown To Crowd]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Weapons Thrown To Crowd
+// No Weapons Thrown To Crowd
+patch=1,EE,2055230C,extended,80000000
+
+[Max Appeals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Appeals
+// Max Appeals
+patch=1,EE,20552310,extended,85F5E0FF
+
+[No Appeals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Appeals
+// No Appeals
+patch=1,EE,20552310,extended,80000000
+
+[Max Successful Appeals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Successful Appeals
+// Max Successful Appeals
+patch=1,EE,20552314,extended,85F5E0FF
+
+[No Successful Appeals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Successful Appeals
+// No Successful Appeals
+patch=1,EE,20552314,extended,80000000
+
+[Max Times Caught On Fire]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Times Caught On Fire
+// Max Times Caught On Fire
+patch=1,EE,2055233C,extended,85F5E0FF
+
+[No Times Caught On Fire]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Times Caught On Fire
+// No Times Caught On Fire
+patch=1,EE,2055233C,extended,80000000
+
+[Max Enemies Caught On Fire]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Enemies Caught On Fire
+// Max Enemies Caught On Fire
+patch=1,EE,20552340,extended,85F5E0FF
+
+[No Enemies Caught On Fire]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Enemies Caught On Fire
+// No Enemies Caught On Fire
+patch=1,EE,20552340,extended,80000000
+
+[Max Times Doused In Oil]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Times Doused In Oil
+// Max Times Doused In Oil
+patch=1,EE,20552344,extended,85F5E0FF
+
+[No Times Doused In Oil]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Times Doused In Oil
+// No Times Doused In Oil
+patch=1,EE,20552344,extended,80000000
+
+[Max Times Enemies Doused In Oil]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Times Enemies Doused In Oil
+// Max Times Enemies Doused In Oil
+patch=1,EE,20552348,extended,85F5E0FF
+
+[No Times Enemies Doused In Oil]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Times Enemies Doused In Oil
+// No Times Enemies Doused In Oil
+patch=1,EE,20552348,extended,80000000
+
+[Max Pieces Of Meat Eaten]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pieces Of Meat Eaten
+// Max Pieces Of Meat Eaten
+patch=1,EE,2055234C,extended,85F5E0FF
+
+[No Pieces Of Meat Eaten]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Pieces Of Meat Eaten
+// No Pieces Of Meat Eaten
+patch=1,EE,2055234C,extended,80000000
+
+[City Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Battle Royale
+// City Arena-Battle Royale
+patch=1,EE,005509AD,extended,00000001
+
+[City Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Elimination
+// City Arena-Elimination
+patch=1,EE,005509B5,extended,00000001
+
+[City Arena-Beast Hunt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Beast Hunt
+// City Arena-Beast Hunt
+patch=1,EE,005509BD,extended,00000001
+
+[City Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Team Battle
+// City Arena-Team Battle
+patch=1,EE,005509C5,extended,00000001
+
+[City Arena-Siege]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Siege
+// City Arena-Siege
+patch=1,EE,005509CD,extended,00000001
+
+[City Arena-Boss Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Boss Battle
+// City Arena-Boss Battle
+patch=1,EE,005509D5,extended,00000001
+
+[Northern Arena-Rescue Mission]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Rescue Mission
+// Northern Arena-Rescue Mission
+patch=1,EE,005509DD,extended,00000001
+
+[Northern Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Elimination
+// Northern Arena-Elimination
+patch=1,EE,005509E5,extended,00000001
+
+[Northern Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Battle Royale
+// Northern Arena-Battle Royale
+patch=1,EE,005509ED,extended,00000001
+
+[Northern Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Team Battle
+// Northern Arena-Team Battle
+patch=1,EE,005509F5,extended,00000001
+
+[Northern Arena-Artus Dominus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Artus Dominus
+// Northern Arena-Artus Dominus
+patch=1,EE,005509FD,extended,00000001
+
+[Northern Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Battle Royale
+// Northern Arena-Battle Royale
+patch=1,EE,00550A0D,extended,00000001
+
+[Circus Maximus-1st Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-1st Race
+// Circus Maximus-1st Race
+patch=1,EE,00550A15,extended,00000001
+
+[Circus Maximus-2nd Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-2nd Race
+// Circus Maximus-2nd Race
+patch=1,EE,00550A1D,extended,00000001
+
+[Circus Maximus-3rd Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-3rd Race
+// Circus Maximus-3rd Race
+patch=1,EE,00550A25,extended,00000001
+
+[Circus Maximus-Last Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-Last Race
+// Circus Maximus-Last Race
+patch=1,EE,00550A35,extended,00000001
+
+[Desert Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Battle Royale
+// Desert Arena-Battle Royale
+patch=1,EE,00550A3D,extended,00000001
+
+[Desert Arena-Beast Hunt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Beast Hunt
+// Desert Arena-Beast Hunt
+patch=1,EE,00550A45,extended,00000001
+
+[Desert Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Team Battle
+// Desert Arena-Team Battle
+patch=1,EE,00550A4D,extended,00000001
+
+[Desert Arena-Artus Dominus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Artus Dominus
+// Desert Arena-Artus Dominus
+patch=1,EE,00550A55,extended,00000001
+
+[Desert Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Elimination
+// Desert Arena-Elimination
+patch=1,EE,00550A5D,extended,00000001
+
+[Desert Arena-Boss Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Boss Battle
+// Desert Arena-Boss Battle
+patch=1,EE,00550A65,extended,00000001
+
+[Great Arena-Rescue Mission]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Rescue Mission
+// Great Arena-Rescue Mission
+patch=1,EE,00550A6D,extended,00000001
+
+[Great Arena-Beast Hunt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Beast Hunt
+// Great Arena-Beast Hunt
+patch=1,EE,00550A75,extended,00000001
+
+[Great Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Elimination
+// Great Arena-Elimination
+patch=1,EE,00550A7D,extended,00000001
+
+[Great Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Team Battle
+// Great Arena-Team Battle
+patch=1,EE,00550A85,extended,00000001
+
+[Great Arena-Siege]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Siege
+// Great Arena-Siege
+patch=1,EE,00550A8D,extended,00000001
+
+[Great Arena-Sword Struggle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Sword Struggle
+// Great Arena-Sword Struggle
+patch=1,EE,00550A95,extended,00000001
+
+[Great Arena-Decius' Last Stand?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Decius' Last Stand?
+// Great Arena-Decius' Last Stand?
+patch=1,EE,00550AAD,extended,00000001
+
+[City Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Battle Royale
+// City Arena-Battle Royale
+patch=1,EE,205509A8,extended,05F5E0FF
+
+[City Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Elimination
+// City Arena-Elimination
+patch=1,EE,205509B0,extended,05F5E0FF
+
+[City Arena-Beast Hunt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Beast Hunt
+// City Arena-Beast Hunt
+patch=1,EE,205509B8,extended,05F5E0FF
+
+[City Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Team Battle
+// City Arena-Team Battle
+patch=1,EE,205509C0,extended,05F5E0FF
+
+[City Arena-Siege]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Siege
+// City Arena-Siege
+patch=1,EE,205509C8,extended,05F5E0FF
+
+[City Arena-Boss Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Boss Battle
+// City Arena-Boss Battle
+patch=1,EE,205509D0,extended,05F5E0FF
+
+[Northern Arena-Rescue Mission]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Rescue Mission
+// Northern Arena-Rescue Mission
+patch=1,EE,205509D8,extended,05F5E0FF
+
+[Northern Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Elimination
+// Northern Arena-Elimination
+patch=1,EE,205509E0,extended,05F5E0FF
+
+[Northern Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Battle Royale
+// Northern Arena-Battle Royale
+patch=1,EE,205509E8,extended,05F5E0FF
+
+[Northern Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Team Battle
+// Northern Arena-Team Battle
+patch=1,EE,205509F0,extended,05F5E0FF
+
+[Northern Arena-Artus Dominus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Artus Dominus
+// Northern Arena-Artus Dominus
+patch=1,EE,205509F8,extended,05F5E0FF
+
+[Northern Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Battle Royale
+// Northern Arena-Battle Royale
+patch=1,EE,20550A08,extended,05F5E0FF
+
+[Circus Maximus-1st Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-1st Race
+// Circus Maximus-1st Race
+patch=1,EE,20550A10,extended,05F5E0FF
+
+[Circus Maximus-2nd Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-2nd Race
+// Circus Maximus-2nd Race
+patch=1,EE,20550A18,extended,05F5E0FF
+
+[Circus Maximus-3rd Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-3rd Race
+// Circus Maximus-3rd Race
+patch=1,EE,20550A20,extended,05F5E0FF
+
+[Circus Maximus-Last Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-Last Race
+// Circus Maximus-Last Race
+patch=1,EE,20550A30,extended,05F5E0FF
+
+[Desert Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Battle Royale
+// Desert Arena-Battle Royale
+patch=1,EE,20550A38,extended,05F5E0FF
+
+[Desert Arena-Beast Hunt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Beast Hunt
+// Desert Arena-Beast Hunt
+patch=1,EE,20550A40,extended,05F5E0FF
+
+[Desert Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Team Battle
+// Desert Arena-Team Battle
+patch=1,EE,20550A48,extended,05F5E0FF
+
+[Desert Arena-Artus Dominus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Artus Dominus
+// Desert Arena-Artus Dominus
+patch=1,EE,20550A50,extended,05F5E0FF
+
+[Desert Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Elimination
+// Desert Arena-Elimination
+patch=1,EE,20550A58,extended,05F5E0FF
+
+[Desert Arena-Boss Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Boss Battle
+// Desert Arena-Boss Battle
+patch=1,EE,20550A60,extended,05F5E0FF
+
+[Great Arena-Rescue Mission]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Rescue Mission
+// Great Arena-Rescue Mission
+patch=1,EE,20550A68,extended,05F5E0FF
+
+[Great Arena-Beast Hunt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Beast Hunt
+// Great Arena-Beast Hunt
+patch=1,EE,20550A70,extended,05F5E0FF
+
+[Great Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Elimination
+// Great Arena-Elimination
+patch=1,EE,20550A78,extended,05F5E0FF
+
+[Great Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Team Battle
+// Great Arena-Team Battle
+patch=1,EE,20550A80,extended,05F5E0FF
+
+[Great Arena-Siege]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Siege
+// Great Arena-Siege
+patch=1,EE,20550A88,extended,05F5E0FF
+
+[Great Arena-Sword Struggle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Sword Struggle
+// Great Arena-Sword Struggle
+patch=1,EE,20550A90,extended,05F5E0FF
+
+[Great Arena-Decius' Last Stand?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Decius' Last Stand?
+// Great Arena-Decius' Last Stand?
+patch=1,EE,20550AA8,extended,05F5E0FF
+
+[City Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Battle Royale
+// City Arena-Battle Royale
+patch=1,EE,00550B2D,extended,00000001
+
+[City Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Elimination
+// City Arena-Elimination
+patch=1,EE,00550B35,extended,00000001
+
+[City Arena-Beast Hunt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Beast Hunt
+// City Arena-Beast Hunt
+patch=1,EE,00550B3D,extended,00000001
+
+[City Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Team Battle
+// City Arena-Team Battle
+patch=1,EE,00550B45,extended,00000001
+
+[City Arena-Siege]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Siege
+// City Arena-Siege
+patch=1,EE,00550B4D,extended,00000001
+
+[City Arena-Boss Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Boss Battle
+// City Arena-Boss Battle
+patch=1,EE,00550B55,extended,00000001
+
+[Northern Arena-Rescue Mission]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Rescue Mission
+// Northern Arena-Rescue Mission
+patch=1,EE,00550B5D,extended,00000001
+
+[Northern Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Elimination
+// Northern Arena-Elimination
+patch=1,EE,00550B65,extended,00000001
+
+[Northern Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Battle Royale
+// Northern Arena-Battle Royale
+patch=1,EE,00550B6D,extended,00000001
+
+[Northern Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Team Battle
+// Northern Arena-Team Battle
+patch=1,EE,00550B75,extended,00000001
+
+[Northern Arena-Artus Dominus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Artus Dominus
+// Northern Arena-Artus Dominus
+patch=1,EE,00550B7D,extended,00000001
+
+[Northern Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Battle Royale
+// Northern Arena-Battle Royale
+patch=1,EE,00550B8D,extended,00000001
+
+[Circus Maximus-1st Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-1st Race
+// Circus Maximus-1st Race
+patch=1,EE,00550B95,extended,00000001
+
+[Circus Maximus-2nd Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-2nd Race
+// Circus Maximus-2nd Race
+patch=1,EE,00550B9D,extended,00000001
+
+[Circus Maximus-3rd Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-3rd Race
+// Circus Maximus-3rd Race
+patch=1,EE,00550BA5,extended,00000001
+
+[Circus Maximus-Last Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-Last Race
+// Circus Maximus-Last Race
+patch=1,EE,00550BB5,extended,00000001
+
+[Desert Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Battle Royale
+// Desert Arena-Battle Royale
+patch=1,EE,00550BBD,extended,00000001
+
+[Desert Arena-Beast Hunt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Beast Hunt
+// Desert Arena-Beast Hunt
+patch=1,EE,00550BC5,extended,00000001
+
+[Desert Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Team Battle
+// Desert Arena-Team Battle
+patch=1,EE,00550BCD,extended,00000001
+
+[Desert Arena-Artus Dominus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Artus Dominus
+// Desert Arena-Artus Dominus
+patch=1,EE,00550BD5,extended,00000001
+
+[Desert Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Elimination
+// Desert Arena-Elimination
+patch=1,EE,00550BDD,extended,00000001
+
+[Desert Arena-Boss Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Boss Battle
+// Desert Arena-Boss Battle
+patch=1,EE,00550BE5,extended,00000001
+
+[Great Arena-Rescue Mission]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Rescue Mission
+// Great Arena-Rescue Mission
+patch=1,EE,00550BED,extended,00000001
+
+[Great Arena-Beast Hunt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Beast Hunt
+// Great Arena-Beast Hunt
+patch=1,EE,00550BF5,extended,00000001
+
+[Great Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Elimination
+// Great Arena-Elimination
+patch=1,EE,00550BFD,extended,00000001
+
+[Great Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Team Battle
+// Great Arena-Team Battle
+patch=1,EE,00550C05,extended,00000001
+
+[Great Arena-Siege]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Siege
+// Great Arena-Siege
+patch=1,EE,00550C0D,extended,00000001
+
+[Great Arena-Sword Struggle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Sword Struggle
+// Great Arena-Sword Struggle
+patch=1,EE,00550C15,extended,00000001
+
+[Great Arena-Decius' Last Stand?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Decius' Last Stand?
+// Great Arena-Decius' Last Stand?
+patch=1,EE,00550C2D,extended,00000001
+
+[City Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Battle Royale
+// City Arena-Battle Royale
+patch=1,EE,20550B28,extended,05F5E0FF
+
+[City Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Elimination
+// City Arena-Elimination
+patch=1,EE,20550B30,extended,05F5E0FF
+
+[City Arena-Beast Hunt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Beast Hunt
+// City Arena-Beast Hunt
+patch=1,EE,20550B38,extended,05F5E0FF
+
+[City Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Team Battle
+// City Arena-Team Battle
+patch=1,EE,20550B40,extended,05F5E0FF
+
+[City Arena-Siege]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Siege
+// City Arena-Siege
+patch=1,EE,20550B48,extended,05F5E0FF
+
+[City Arena-Boss Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Boss Battle
+// City Arena-Boss Battle
+patch=1,EE,20550B50,extended,05F5E0FF
+
+[Northern Arena-Rescue Mission]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Rescue Mission
+// Northern Arena-Rescue Mission
+patch=1,EE,20550B58,extended,05F5E0FF
+
+[Northern Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Elimination
+// Northern Arena-Elimination
+patch=1,EE,20550B60,extended,05F5E0FF
+
+[Northern Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Battle Royale
+// Northern Arena-Battle Royale
+patch=1,EE,20550B68,extended,05F5E0FF
+
+[Northern Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Team Battle
+// Northern Arena-Team Battle
+patch=1,EE,20550B70,extended,05F5E0FF
+
+[Northern Arena-Artus Dominus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Artus Dominus
+// Northern Arena-Artus Dominus
+patch=1,EE,20550B78,extended,05F5E0FF
+
+[Northern Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Battle Royale
+// Northern Arena-Battle Royale
+patch=1,EE,20550B88,extended,05F5E0FF
+
+[Circus Maximus-1st Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-1st Race
+// Circus Maximus-1st Race
+patch=1,EE,20550B90,extended,05F5E0FF
+
+[Circus Maximus-2nd Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-2nd Race
+// Circus Maximus-2nd Race
+patch=1,EE,20550B98,extended,05F5E0FF
+
+[Circus Maximus-3rd Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-3rd Race
+// Circus Maximus-3rd Race
+patch=1,EE,20550BA0,extended,05F5E0FF
+
+[Circus Maximus-Last Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-Last Race
+// Circus Maximus-Last Race
+patch=1,EE,20550BB0,extended,05F5E0FF
+
+[Desert Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Battle Royale
+// Desert Arena-Battle Royale
+patch=1,EE,20550BB8,extended,05F5E0FF
+
+[Desert Arena-Beast Hunt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Beast Hunt
+// Desert Arena-Beast Hunt
+patch=1,EE,20550BC0,extended,05F5E0FF
+
+[Desert Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Team Battle
+// Desert Arena-Team Battle
+patch=1,EE,20550BC8,extended,05F5E0FF
+
+[Desert Arena-Artus Dominus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Artus Dominus
+// Desert Arena-Artus Dominus
+patch=1,EE,20550BD0,extended,05F5E0FF
+
+[Desert Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Elimination
+// Desert Arena-Elimination
+patch=1,EE,20550BD8,extended,05F5E0FF
+
+[Desert Arena-Boss Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Boss Battle
+// Desert Arena-Boss Battle
+patch=1,EE,20550BE0,extended,05F5E0FF
+
+[Great Arena-Rescue Mission]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Rescue Mission
+// Great Arena-Rescue Mission
+patch=1,EE,20550BE8,extended,05F5E0FF
+
+[Great Arena-Beast Hunt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Beast Hunt
+// Great Arena-Beast Hunt
+patch=1,EE,20550BF0,extended,05F5E0FF
+
+[Great Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Elimination
+// Great Arena-Elimination
+patch=1,EE,20550BF8,extended,05F5E0FF
+
+[Great Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Team Battle
+// Great Arena-Team Battle
+patch=1,EE,20550C00,extended,05F5E0FF
+
+[Great Arena-Siege]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Siege
+// Great Arena-Siege
+patch=1,EE,20550C08,extended,05F5E0FF
+
+[Great Arena-Sword Struggle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Sword Struggle
+// Great Arena-Sword Struggle
+patch=1,EE,20550C10,extended,05F5E0FF
+
+[Great Arena-Decius' Last Stand?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Decius' Last Stand?
+// Great Arena-Decius' Last Stand?
+patch=1,EE,20550C28,extended,05F5E0FF
+
+[City Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Battle Royale
+// City Arena-Battle Royale
+patch=1,EE,00550CAD,extended,00000001
+
+[City Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Elimination
+// City Arena-Elimination
+patch=1,EE,00550CB5,extended,00000001
+
+[City Arena-Beast Hunt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Beast Hunt
+// City Arena-Beast Hunt
+patch=1,EE,00550CBD,extended,00000001
+
+[City Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Team Battle
+// City Arena-Team Battle
+patch=1,EE,00550CC5,extended,00000001
+
+[City Arena-Siege]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Siege
+// City Arena-Siege
+patch=1,EE,00550CCD,extended,00000001
+
+[City Arena-Boss Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Boss Battle
+// City Arena-Boss Battle
+patch=1,EE,00550CD5,extended,00000001
+
+[Northern Arena-Rescue Mission]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Rescue Mission
+// Northern Arena-Rescue Mission
+patch=1,EE,00550CDD,extended,00000001
+
+[Northern Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Elimination
+// Northern Arena-Elimination
+patch=1,EE,00550CE5,extended,00000001
+
+[Northern Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Battle Royale
+// Northern Arena-Battle Royale
+patch=1,EE,00550CED,extended,00000001
+
+[Northern Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Team Battle
+// Northern Arena-Team Battle
+patch=1,EE,00550CF5,extended,00000001
+
+[Northern Arena-Artus Dominus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Artus Dominus
+// Northern Arena-Artus Dominus
+patch=1,EE,00550CFD,extended,00000001
+
+[Northern Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Battle Royale
+// Northern Arena-Battle Royale
+patch=1,EE,00550D0D,extended,00000001
+
+[Circus Maximus-1st Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-1st Race
+// Circus Maximus-1st Race
+patch=1,EE,00550D15,extended,00000001
+
+[Circus Maximus-2nd Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-2nd Race
+// Circus Maximus-2nd Race
+patch=1,EE,00550D1D,extended,00000001
+
+[Circus Maximus-3rd Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-3rd Race
+// Circus Maximus-3rd Race
+patch=1,EE,00550D25,extended,00000001
+
+[Circus Maximus-Last Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-Last Race
+// Circus Maximus-Last Race
+patch=1,EE,00550D35,extended,00000001
+
+[Desert Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Battle Royale
+// Desert Arena-Battle Royale
+patch=1,EE,00550D3D,extended,00000001
+
+[Desert Arena-Beast Hunt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Beast Hunt
+// Desert Arena-Beast Hunt
+patch=1,EE,00550D45,extended,00000001
+
+[Desert Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Team Battle
+// Desert Arena-Team Battle
+patch=1,EE,00550D4D,extended,00000001
+
+[Desert Arena-Artus Dominus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Artus Dominus
+// Desert Arena-Artus Dominus
+patch=1,EE,00550D55,extended,00000001
+
+[Desert Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Elimination
+// Desert Arena-Elimination
+patch=1,EE,00550D5D,extended,00000001
+
+[Desert Arena-Boss Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Boss Battle
+// Desert Arena-Boss Battle
+patch=1,EE,00550D65,extended,00000001
+
+[Great Arena-Rescue Mission]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Rescue Mission
+// Great Arena-Rescue Mission
+patch=1,EE,00550D6D,extended,00000001
+
+[Great Arena-Beast Hunt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Beast Hunt
+// Great Arena-Beast Hunt
+patch=1,EE,00550D75,extended,00000001
+
+[Great Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Elimination
+// Great Arena-Elimination
+patch=1,EE,00550D7D,extended,00000001
+
+[Great Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Team Battle
+// Great Arena-Team Battle
+patch=1,EE,00550D85,extended,00000001
+
+[Great Arena-Siege]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Siege
+// Great Arena-Siege
+patch=1,EE,00550D8D,extended,00000001
+
+[Great Arena-Sword Struggle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Sword Struggle
+// Great Arena-Sword Struggle
+patch=1,EE,00550D95,extended,00000001
+
+[Great Arena-Decius' Last Stand?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Decius' Last Stand?
+// Great Arena-Decius' Last Stand?
+patch=1,EE,00550DAD,extended,00000001
+
+[City Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Battle Royale
+// City Arena-Battle Royale
+patch=1,EE,20550CA8,extended,05F5E0FF
+
+[City Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Elimination
+// City Arena-Elimination
+patch=1,EE,20550CB0,extended,05F5E0FF
+
+[City Arena-Beast Hunt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Beast Hunt
+// City Arena-Beast Hunt
+patch=1,EE,20550CB8,extended,05F5E0FF
+
+[City Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Team Battle
+// City Arena-Team Battle
+patch=1,EE,20550CC0,extended,05F5E0FF
+
+[City Arena-Siege]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Siege
+// City Arena-Siege
+patch=1,EE,20550CC8,extended,05F5E0FF
+
+[City Arena-Boss Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Arena-Boss Battle
+// City Arena-Boss Battle
+patch=1,EE,20550CD0,extended,05F5E0FF
+
+[Northern Arena-Rescue Mission]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Rescue Mission
+// Northern Arena-Rescue Mission
+patch=1,EE,20550CD8,extended,05F5E0FF
+
+[Northern Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Elimination
+// Northern Arena-Elimination
+patch=1,EE,20550CE0,extended,05F5E0FF
+
+[Northern Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Battle Royale
+// Northern Arena-Battle Royale
+patch=1,EE,20550CE8,extended,05F5E0FF
+
+[Northern Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Team Battle
+// Northern Arena-Team Battle
+patch=1,EE,20550CF0,extended,05F5E0FF
+
+[Northern Arena-Artus Dominus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Artus Dominus
+// Northern Arena-Artus Dominus
+patch=1,EE,20550CF8,extended,05F5E0FF
+
+[Northern Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Northern Arena-Battle Royale
+// Northern Arena-Battle Royale
+patch=1,EE,20550D08,extended,05F5E0FF
+
+[Circus Maximus-1st Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-1st Race
+// Circus Maximus-1st Race
+patch=1,EE,20550D10,extended,05F5E0FF
+
+[Circus Maximus-2nd Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-2nd Race
+// Circus Maximus-2nd Race
+patch=1,EE,20550D18,extended,05F5E0FF
+
+[Circus Maximus-3rd Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-3rd Race
+// Circus Maximus-3rd Race
+patch=1,EE,20550D20,extended,05F5E0FF
+
+[Circus Maximus-Last Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circus Maximus-Last Race
+// Circus Maximus-Last Race
+patch=1,EE,20550D30,extended,05F5E0FF
+
+[Desert Arena-Battle Royale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Battle Royale
+// Desert Arena-Battle Royale
+patch=1,EE,20550D38,extended,05F5E0FF
+
+[Desert Arena-Beast Hunt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Beast Hunt
+// Desert Arena-Beast Hunt
+patch=1,EE,20550D40,extended,05F5E0FF
+
+[Desert Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Team Battle
+// Desert Arena-Team Battle
+patch=1,EE,20550D48,extended,05F5E0FF
+
+[Desert Arena-Artus Dominus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Artus Dominus
+// Desert Arena-Artus Dominus
+patch=1,EE,20550D50,extended,05F5E0FF
+
+[Desert Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Elimination
+// Desert Arena-Elimination
+patch=1,EE,20550D58,extended,05F5E0FF
+
+[Desert Arena-Boss Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Arena-Boss Battle
+// Desert Arena-Boss Battle
+patch=1,EE,20550D60,extended,05F5E0FF
+
+[Great Arena-Rescue Mission]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Rescue Mission
+// Great Arena-Rescue Mission
+patch=1,EE,20550D68,extended,05F5E0FF
+
+[Great Arena-Beast Hunt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Beast Hunt
+// Great Arena-Beast Hunt
+patch=1,EE,20550D70,extended,05F5E0FF
+
+[Great Arena-Elimination]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Elimination
+// Great Arena-Elimination
+patch=1,EE,20550D78,extended,05F5E0FF
+
+[Great Arena-Team Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Team Battle
+// Great Arena-Team Battle
+patch=1,EE,20550D80,extended,05F5E0FF
+
+[Great Arena-Siege]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Siege
+// Great Arena-Siege
+patch=1,EE,20550D88,extended,05F5E0FF
+
+[Great Arena-Sword Struggle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Sword Struggle
+// Great Arena-Sword Struggle
+patch=1,EE,20550D90,extended,05F5E0FF
+
+[Great Arena-Decius' Last Stand?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great Arena-Decius' Last Stand?
+// Great Arena-Decius' Last Stand?
+patch=1,EE,20550DA8,extended,05F5E0FF

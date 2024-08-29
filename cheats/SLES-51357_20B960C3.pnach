@@ -1,0 +1,73 @@
+gametitle=G1 Jockey 3 [SLES-51357] [20B960C3]
+
+[All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Characters
+// All Characters
+patch=1,EE,F0100008,extended,002621C7
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,20167CF4,extended,3C014200
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,20167CFC,extended,AE010064
+
+[Max Stamina]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stamina
+// Max Stamina
+patch=1,EE,200C0220,extended,8E01001C
+
+[Max Stamina]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stamina
+// Max Stamina
+patch=1,EE,200C0224,extended,03E00008
+
+[Max Stamina]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stamina
+// Max Stamina
+patch=1,EE,200C0228,extended,AE010074
+
+[Max Stamina]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stamina
+// Max Stamina
+patch=1,EE,20167F40,extended,0C030088
+
+[Max Potential]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Potential
+// Max Potential
+patch=1,EE,20167FA0,extended,AE030078
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,10785ED8,extended,0000270F
+
+[Infinite Riding Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Riding Points
+// Infinite Riding Points
+patch=1,EE,107864B0,extended,0000270F
+
+[Never Suspended/Injured]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Suspended/Injured
+// Never Suspended/Injured
+patch=1,EE,007864B4,extended,00000000
+
+[Have All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Skills
+// Have All Skills
+patch=1,EE,207864E4,extended,01010101

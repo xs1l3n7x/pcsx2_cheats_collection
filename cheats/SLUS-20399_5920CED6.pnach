@@ -1,0 +1,187 @@
+gametitle=MTX Mototrax [SLUS-20399] [5920CED6]
+
+[P1 Press {L2}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Stop Timer
+// P1 Press {L2}+{SELECT} To Stop Timer
+patch=1,EE,9039535C,extended,0C0EB089
+
+[Disable VSync]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable VSync
+// Disable VSync
+patch=1,EE,203C1944,extended,00000000
+
+[Constant Nosedive]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Constant Nosedive
+// Constant Nosedive
+patch=1,EE,10117830,extended,00003800
+
+[Constant Wheelie Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Constant Wheelie Mode
+// Constant Wheelie Mode
+patch=1,EE,10117830,extended,000038A8
+
+[Tiny Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiny Mode
+// Tiny Mode
+patch=1,EE,10117838,extended,00004300
+
+[Stretched Character]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stretched Character
+// Stretched Character
+patch=1,EE,10117838,extended,000041C0
+
+[Stretch Armstrong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stretch Armstrong
+// Stretch Armstrong
+patch=1,EE,10117838,extended,00004180
+
+[Max MXTP (Free Ride Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MXTP (Free Ride Mode)
+// Max MXTP (Free Ride Mode)
+patch=1,EE,207ABA88,extended,000F423F
+
+[P1 Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Timer
+// P1 Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,D0AC4F00,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Timer
+// P1 Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,20246E98,extended,00000000
+
+[P1 Press {L2}+{SELECT} To Restart Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Timer
+// P1 Press {L2}+{SELECT} To Restart Timer
+patch=1,EE,D0AC4F00,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Restart Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Timer
+// P1 Press {L2}+{SELECT} To Restart Timer
+patch=1,EE,20246E98,extended,AE030054
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,109B8534,extended,0000FFFF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,209B8534,extended,05F5E0FF
+
+[Only Race 1 Lap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only Race 1 Lap
+// Only Race 1 Lap
+patch=1,EE,20301E1C,extended,AC820034
+
+[Always Low Lap Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Lap Timer
+// Always Low Lap Timer
+patch=1,EE,20301E4C,extended,AC400000
+
+[No Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Opponents
+// No Opponents
+patch=1,EE,20305A4C,extended,00000000
+
+[Always Only 1 Opponent]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Only 1 Opponent
+// Always Only 1 Opponent
+patch=1,EE,20305A4C,extended,00000000
+
+[Always Only 1 Opponent]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Only 1 Opponent
+// Always Only 1 Opponent
+patch=1,EE,10305A54,extended,00000002
+
+[Always Only 2 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Only 2 Opponents
+// Always Only 2 Opponents
+patch=1,EE,20305A4C,extended,00000000
+
+[Always Only 2 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Only 2 Opponents
+// Always Only 2 Opponents
+patch=1,EE,10305A54,extended,00000003
+
+[Always Only 3 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Only 3 Opponents
+// Always Only 3 Opponents
+patch=1,EE,20305A4C,extended,00000000
+
+[Always Only 3 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Only 3 Opponents
+// Always Only 3 Opponents
+patch=1,EE,10305A54,extended,00000004
+
+[Always Only 4 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Only 4 Opponents
+// Always Only 4 Opponents
+patch=1,EE,20305A4C,extended,00000000
+
+[Always Only 4 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Only 4 Opponents
+// Always Only 4 Opponents
+patch=1,EE,10305A54,extended,00000005
+
+[Always Only 5 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Only 5 Opponents
+// Always Only 5 Opponents
+patch=1,EE,20305A4C,extended,00000000
+
+[Always Only 5 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Only 5 Opponents
+// Always Only 5 Opponents
+patch=1,EE,10305A54,extended,00000006
+
+[Always Only 6 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Only 6 Opponents
+// Always Only 6 Opponents
+patch=1,EE,20305A4C,extended,00000000
+
+[Always Only 6 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Only 6 Opponents
+// Always Only 6 Opponents
+patch=1,EE,10305A54,extended,00000007
+
+[Always Only 7 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Only 7 Opponents
+// Always Only 7 Opponents
+patch=1,EE,20305A4C,extended,00000000
+
+[Always Only 7 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Only 7 Opponents
+// Always Only 7 Opponents
+patch=1,EE,10305A54,extended,00000008

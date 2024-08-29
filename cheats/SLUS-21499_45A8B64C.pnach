@@ -1,0 +1,127 @@
+gametitle=Corvette Evolution GT [SLUS-21499] [45A8B64C]
+
+[Access Any Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access Any Race
+// Access Any Race
+patch=1,EE,90439A78,extended,0C0F0D6C
+
+[P1 Press {SELECT} To Skip FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {SELECT} To Skip FMV
+// P1 Press {SELECT} To Skip FMV
+patch=1,EE,D058931C,extended,0000FFFE
+
+[P1 Press {SELECT} To Skip FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {SELECT} To Skip FMV
+// P1 Press {SELECT} To Skip FMV
+patch=1,EE,201E0270,extended,24020001
+
+[P1 Press {SELECT} To Skip FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {SELECT} To Skip FMV
+// P1 Press {SELECT} To Skip FMV
+patch=1,EE,D058931C,extended,0000FFFF
+
+[P1 Press {SELECT} To Skip FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {SELECT} To Skip FMV
+// P1 Press {SELECT} To Skip FMV
+patch=1,EE,201E0270,extended,8C620000
+
+[Infinite Driver Condition]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Driver Condition
+// Infinite Driver Condition
+patch=1,EE,200C0220,extended,3C014348
+
+[Infinite Driver Condition]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Driver Condition
+// Infinite Driver Condition
+patch=1,EE,200C0224,extended,AC41002C
+
+[Infinite Driver Condition]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Driver Condition
+// Infinite Driver Condition
+patch=1,EE,200C0228,extended,03E00008
+
+[Infinite Driver Condition]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Driver Condition
+// Infinite Driver Condition
+patch=1,EE,200C022C,extended,44021000
+
+[Infinite Driver Condition]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Driver Condition
+// Infinite Driver Condition
+patch=1,EE,202C85CC,extended,0C030088
+
+[Infinite Tiger Effect]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Tiger Effect
+// Infinite Tiger Effect
+patch=1,EE,202C8610,extended,3C014348
+
+[Infinite Tiger Effect]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Tiger Effect
+// Infinite Tiger Effect
+patch=1,EE,202C8614,extended,AC61007C
+
+[Infinite Car Condition]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Car Condition
+// Infinite Car Condition
+patch=1,EE,202C8D20,extended,3C0142C8
+
+[Infinite Car Condition]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Car Condition
+// Infinite Car Condition
+patch=1,EE,202C8D24,extended,AC410024
+
+[Infinite Available Points Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Available Points Usage
+// Infinite Available Points Usage
+patch=1,EE,202C1B78,extended,00000000
+
+[Extra Available Points Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Available Points Usage
+// Extra Available Points Usage
+patch=1,EE,102C1B70,extended,00000001
+
+[Max Infinite Available Points Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Available Points Usage
+// Max Infinite Available Points Usage
+patch=1,EE,202C1B70,extended,24040063
+
+[P1 Press {L1}+{SELECT} To Stop Lap Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Lap Timer
+// P1 Press {L1}+{SELECT} To Stop Lap Timer
+patch=1,EE,D058931C,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Stop Lap Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Lap Timer
+// P1 Press {L1}+{SELECT} To Stop Lap Timer
+patch=1,EE,201F6B8C,extended,00000000
+
+[P1 Press {L2}+{SELECT} To Restart Lap Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Lap Timer
+// P1 Press {L2}+{SELECT} To Restart Lap Timer
+patch=1,EE,D058931C,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Restart Lap Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Lap Timer
+// P1 Press {L2}+{SELECT} To Restart Lap Timer
+patch=1,EE,201F6B8C,extended,E460000C

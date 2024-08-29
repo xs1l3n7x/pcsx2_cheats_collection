@@ -1,0 +1,211 @@
+gametitle=Viewtiful Joe 2 [SLPM-65824] [F977249C]
+
+[P1 Press {L1}+Down To Disble 1-Hit Deaths (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Disble 1-Hit Deaths (Enemies)
+// P1 Press {L1}+Down To Disble 1-Hit Deaths (Enemies)
+patch=1,EE,90391D68,extended,0C0EA65B
+
+[Unlock All Difficulties]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Difficulties
+// Unlock All Difficulties
+patch=1,EE,01EC5F84,extended,000000FF
+
+[Unlock Reel Select & The 36 Chambers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Reel Select & The 36 Chambers
+// Unlock Reel Select & The 36 Chambers
+patch=1,EE,01EC5F87,extended,000000FF
+
+[Infinite VFX Gauge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite VFX Gauge
+// Infinite VFX Gauge
+patch=1,EE,11EC5F98,extended,000005DC
+
+[Max VFX Gauge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max VFX Gauge
+// Max VFX Gauge
+patch=1,EE,11EC5F9A,extended,000005DC
+
+[Max Infinite VFX Gauge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite VFX Gauge
+// Max Infinite VFX Gauge
+patch=1,EE,21EC5F98,extended,05DC05DC
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,11EC5F9C,extended,0000000F
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,11EC5F9E,extended,0000000F
+
+[Max Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health
+// Max Infinite Health
+patch=1,EE,21EC5F9C,extended,000F000F
+
+[Have Mac Speed Level 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Mac Speed Level 3
+// Have Mac Speed Level 3
+patch=1,EE,11EC5FA4,extended,00000202
+
+[Infinite Lives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives
+// Infinite Lives
+patch=1,EE,01EC5FA6,extended,00000063
+
+[Have All Upgrades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upgrades
+// Have All Upgrades
+patch=1,EE,21EC5FA8,extended,FFFFFFFF
+
+[Max V-Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max V-Points
+// Max V-Points
+patch=1,EE,21EC5FAC,extended,000F423F
+
+[Extra Lives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Lives
+// Extra Lives
+patch=1,EE,10348648,extended,00000001
+
+[Infinite V-Boomerangs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite V-Boomerangs
+// Infinite V-Boomerangs
+patch=1,EE,11EC5FB0,extended,00000063
+
+[Infinite Bombs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Bombs
+// Infinite Bombs
+patch=1,EE,11EC5FB2,extended,00000063
+
+[Infinite Take 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Take 2
+// Infinite Take 2
+patch=1,EE,11EC5FB4,extended,00000063
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,20328FBC,extended,00000000
+
+[Max V-Films]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max V-Films
+// Max V-Films
+patch=1,EE,21EC7528,extended,00000063
+
+[Always V Defense Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always V Defense Rating
+// Always V Defense Rating
+patch=1,EE,21EC7838,extended,00000000
+
+[Always V Time Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always V Time Rating
+// Always V Time Rating
+patch=1,EE,21EC785C,extended,00000000
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,21EC7864,extended,470C9F00
+
+[Max V-Point Bonus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max V-Point Bonus
+// Max V-Point Bonus
+patch=1,EE,11F1F61E,extended,000000FF
+
+[Invincible]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincible
+// Invincible
+patch=1,EE,71F20518,extended,00000010
+
+[Always On Fire]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always On Fire
+// Always On Fire
+patch=1,EE,21F21B84,extended,0000270F
+
+[P1 Press {L1}+Up For Wider Vision Range]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Wider Vision Range
+// P1 Press {L1}+Up For Wider Vision Range
+patch=1,EE,D07EE19C,extended,0000FBEF
+
+[P1 Press {L1}+Up For Wider Vision Range]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Wider Vision Range
+// P1 Press {L1}+Up For Wider Vision Range
+patch=1,EE,01EC5F5D,extended,00000001
+
+[P1 Press {L1}+Right For Normal Vision Range]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right For Normal Vision Range
+// P1 Press {L1}+Right For Normal Vision Range
+patch=1,EE,D07EE19C,extended,0000FBDF
+
+[P1 Press {L1}+Right For Normal Vision Range]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right For Normal Vision Range
+// P1 Press {L1}+Right For Normal Vision Range
+patch=1,EE,01EC5F5D,extended,00000002
+
+[P1 Press {L1}+Down For Less Vision Range]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down For Less Vision Range
+// P1 Press {L1}+Down For Less Vision Range
+patch=1,EE,D07EE19C,extended,0000FBBF
+
+[P1 Press {L1}+Down For Less Vision Range]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down For Less Vision Range
+// P1 Press {L1}+Down For Less Vision Range
+patch=1,EE,01EC5F5D,extended,00000003
+
+[P1 Press {L2}+Up To Enable 1-Hit Deaths (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Up To Enable 1-Hit Deaths (Enemies)
+// P1 Press {L2}+Up To Enable 1-Hit Deaths (Enemies)
+patch=1,EE,D07EE19C,extended,0000FEEF
+
+[P1 Press {L2}+Up To Enable 1-Hit Deaths (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Up To Enable 1-Hit Deaths (Enemies)
+// P1 Press {L2}+Up To Enable 1-Hit Deaths (Enemies)
+patch=1,EE,201D6954,extended,A6001F44
+
+[P1 Press {L1}+Down To Disble 1-Hit Deaths (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Disble 1-Hit Deaths (Enemies)
+// P1 Press {L1}+Down To Disble 1-Hit Deaths (Enemies)
+patch=1,EE,D07EE19C,extended,0000FBEF
+
+[P1 Press {L1}+Down To Disble 1-Hit Deaths (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Disble 1-Hit Deaths (Enemies)
+// P1 Press {L1}+Down To Disble 1-Hit Deaths (Enemies)
+patch=1,EE,201D6954,extended,A6061F44

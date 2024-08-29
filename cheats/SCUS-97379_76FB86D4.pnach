@@ -1,0 +1,67 @@
+gametitle=Athens 2004 [SCUS-97379] [76FB86D4]
+
+[All Mana Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Mana Characters
+// All Mana Characters
+patch=1,EE,902B5548,extended,0C0B12AF
+
+[Infinite Breath]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Breath
+// Infinite Breath
+patch=1,EE,20117238,extended,3C013F80
+
+[Infinite Breath]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Breath
+// Infinite Breath
+patch=1,EE,2011723C,extended,44810000
+
+[Infinite Breath]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Breath
+// Infinite Breath
+patch=1,EE,2012614C,extended,00000000
+
+[Infinite Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Strength
+// Infinite Strength
+patch=1,EE,2017100C,extended,3C013F80
+
+[Infinite Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Strength
+// Infinite Strength
+patch=1,EE,20171010,extended,44810000
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,20191A74,extended,AC800000
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2018A970,extended,3C014000
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,2018A974,extended,44810000
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,1018AE28,extended,00003F80
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,20166670,extended,00000000

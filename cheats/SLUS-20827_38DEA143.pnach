@@ -1,0 +1,121 @@
+gametitle=Manhunt [SLUS-20827] [38DEA143]
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,90130B14,extended,0C04999E
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20112CA4,extended,AFC20010
+
+[Infinite Stamina]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Stamina
+// Infinite Stamina
+patch=1,EE,201B3968,extended,00000000
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,2035F7D0,extended,24020001
+
+[Save Anywhere]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save Anywhere
+// Save Anywhere
+patch=1,EE,00549868,extended,00000001
+
+[Have All Levels Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Levels Completed
+// Have All Levels Completed
+patch=1,EE,405E0684,extended,0014002C
+
+[Have All Levels Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Levels Completed
+// Have All Levels Completed
+patch=1,EE,00000001,extended,00000000
+
+[Max Rating-All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating-All Levels
+// Max Rating-All Levels
+patch=1,EE,405E0688,extended,0014002C
+
+[Max Rating-All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating-All Levels
+// Max Rating-All Levels
+patch=1,EE,00000005,extended,00000000
+
+[Rabbit Skin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rabbit Skin
+// Rabbit Skin
+patch=1,EE,20548D18,extended,00000001
+
+[Monkey Skin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monkey Skin
+// Monkey Skin
+patch=1,EE,20548D18,extended,00000002
+
+[Piggsy Skin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Piggsy Skin
+// Piggsy Skin
+patch=1,EE,20548D18,extended,00000003
+
+[Runner]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Runner
+// Runner
+patch=1,EE,20549AF4,extended,00000001
+
+[Silence]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silence
+// Silence
+patch=1,EE,20549AF8,extended,00000001
+
+[Regenerate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Regenerate
+// Regenerate
+patch=1,EE,20549AFC,extended,00000001
+
+[Helium Hunters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Helium Hunters
+// Helium Hunters
+patch=1,EE,20549B00,extended,00000001
+
+[Fully Equipped]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fully Equipped
+// Fully Equipped
+patch=1,EE,20549B04,extended,00000001
+
+[Super Punch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Punch
+// Super Punch
+patch=1,EE,20549B08,extended,00000001
+
+[Invisibility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisibility
+// Invisibility
+patch=1,EE,20549B0C,extended,00000001
+
+[God Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=God Mode
+// God Mode
+patch=1,EE,20549B10,extended,00000001

@@ -1,0 +1,97 @@
+gametitle=Virtua Quest [SLUS-20977] [051EEE5F]
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,900BEEA0,extended,0C0409BE
+
+[Infinite Data Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Data Points
+// Infinite Data Points
+patch=1,EE,10909208,extended,0000FFFF
+
+[Max Data Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Data Points
+// Max Data Points
+patch=1,EE,20909208,extended,05F5E0FF
+
+[ALways Low Lesson Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=ALways Low Lesson Time
+// ALways Low Lesson Time
+patch=1,EE,209030E8,extended,00000000
+
+[Always Low Stage Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Stage Time
+// Always Low Stage Time
+patch=1,EE,2090962C,extended,00000000
+
+[Always Low Total Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Time
+// Always Low Total Time
+patch=1,EE,20909634,extended,00000000
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,10909138,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,10909140,extended,000003E7
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1090913A,extended,000003E7
+
+[Max ATK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max ATK
+// Max ATK
+patch=1,EE,1090913C,extended,000003E7
+
+[Max ATK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max ATK
+// Max ATK
+patch=1,EE,10909142,extended,000003E7
+
+[Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DEF
+// Max DEF
+patch=1,EE,1090913E,extended,000003E7
+
+[Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DEF
+// Max DEF
+patch=1,EE,10909144,extended,000003E7
+
+[Max SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max SP
+// Max SP
+patch=1,EE,1090920C,extended,000003E7
+
+[Max SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max SP
+// Max SP
+patch=1,EE,1090920E,extended,000003E7
+
+[Infinite SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite SP
+// Infinite SP
+patch=1,EE,10909212,extended,000003E7

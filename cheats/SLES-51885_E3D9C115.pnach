@@ -1,0 +1,607 @@
+gametitle=Mega Man X7 [SLES-51885] [E3D9C115]
+
+[D]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=D
+// D
+patch=1,EE,901049AC,extended,0C061164
+
+[Stop Overall Game Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stop Overall Game Timer
+// Stop Overall Game Timer
+patch=1,EE,202EDD68,extended,00000000
+
+[Infinite Lives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives
+// Infinite Lives
+patch=1,EE,004637A0,extended,00000009
+
+[Extra Lives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Lives
+// Extra Lives
+patch=1,EE,101C0D0C,extended,00000001
+
+[Infinite Lives (Alternate)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives (Alternate)
+// Infinite Lives (Alternate)
+patch=1,EE,201C0D14,extended,00000000
+
+[Always Low Overall Game Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Overall Game Timer
+// Always Low Overall Game Timer
+patch=1,EE,20E430EC,extended,00000000
+
+[Always Low Overall Game Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Overall Game Timer
+// Always Low Overall Game Timer
+patch=1,EE,20E430F0,extended,00000000
+
+[Have All Characters Selectable]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Characters Selectable
+// Have All Characters Selectable
+patch=1,EE,20E43568,extended,00000004
+
+[Have All Characters Selectable]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Characters Selectable
+// Have All Characters Selectable
+patch=1,EE,20E435A4,extended,41100000
+
+[Have All Characters Selectable]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Characters Selectable
+// Have All Characters Selectable
+patch=1,EE,20E435CC,extended,42A20000
+
+[Have All Characters Selectable]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Characters Selectable
+// Have All Characters Selectable
+patch=1,EE,20E435F4,extended,43190000
+
+[Have All Characters Selectable]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Characters Selectable
+// Have All Characters Selectable
+patch=1,EE,20E4361C,extended,43610000
+
+[Have All Characters Selectable]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Characters Selectable
+// Have All Characters Selectable
+patch=1,EE,20E43644,extended,43070000
+
+[Have All Characters Selectable]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Characters Selectable
+// Have All Characters Selectable
+patch=1,EE,20E4366C,extended,43948000
+
+[Infinite Special Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Special Usage
+// Infinite Special Usage
+patch=1,EE,2012FA48,extended,00000000
+
+[Invincible (Main Character)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincible (Main Character)
+// Invincible (Main Character)
+patch=1,EE,00E51314,extended,00000001
+
+[Infinite Health (Main Character)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Main Character)
+// Infinite Health (Main Character)
+patch=1,EE,20E5131C,extended,00000064
+
+[Invincible (Sub Character)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincible (Sub Character)
+// Invincible (Sub Character)
+patch=1,EE,00E51414,extended,00000001
+
+[Infinite Health (Sub Character)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Sub Character)
+// Infinite Health (Sub Character)
+patch=1,EE,20E5141C,extended,00000064
+
+[Easy Mission With Num. Targets Left]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Easy Mission With Num. Targets Left
+// Easy Mission With Num. Targets Left
+patch=1,EE,20294AF4,extended,AC400000
+
+[Easy Mission With Num. Targets Left]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Easy Mission With Num. Targets Left
+// Easy Mission With Num. Targets Left
+patch=1,EE,20294AFC,extended,24020000
+
+[Infinite Time (To Get Targets)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time (To Get Targets)
+// Infinite Time (To Get Targets)
+patch=1,EE,20291600,extended,00000000
+
+[Instant Death (Bosses)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Death (Bosses)
+// Instant Death (Bosses)
+patch=1,EE,200C0220,extended,03E00008
+
+[Instant Death (Bosses)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Death (Bosses)
+// Instant Death (Bosses)
+patch=1,EE,200C0224,extended,24020000
+
+[Instant Death (Bosses)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Death (Bosses)
+// Instant Death (Bosses)
+patch=1,EE,2019E778,extended,08030088
+
+[Instant Death (Bosses)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Death (Bosses)
+// Instant Death (Bosses)
+patch=1,EE,2019E77C,extended,AC400000
+
+[Reploid 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reploid 1
+// Reploid 1
+patch=1,EE,00E09638,extended,00000001
+
+[Reploid 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reploid 2
+// Reploid 2
+patch=1,EE,00E09640,extended,00000001
+
+[Reploid 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reploid 3
+// Reploid 3
+patch=1,EE,00E09648,extended,00000001
+
+[Reploid 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reploid 4
+// Reploid 4
+patch=1,EE,00E09650,extended,00000001
+
+[Reploid 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reploid 5
+// Reploid 5
+patch=1,EE,00E09658,extended,00000001
+
+[Reploid 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reploid 6
+// Reploid 6
+patch=1,EE,00E09660,extended,00000001
+
+[Reploid 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reploid 7
+// Reploid 7
+patch=1,EE,00E09668,extended,00000001
+
+[Reploid 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reploid 8
+// Reploid 8
+patch=1,EE,00E09670,extended,00000001
+
+[Reploid 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reploid 9
+// Reploid 9
+patch=1,EE,00E09678,extended,00000001
+
+[Reploid 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reploid 10
+// Reploid 10
+patch=1,EE,00E09680,extended,00000001
+
+[Reploid 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reploid 11
+// Reploid 11
+patch=1,EE,00E09688,extended,00000001
+
+[Reploid 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reploid 12
+// Reploid 12
+patch=1,EE,00E09690,extended,00000001
+
+[Reploid 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reploid 13
+// Reploid 13
+patch=1,EE,00E09698,extended,00000001
+
+[Reploid 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reploid 14
+// Reploid 14
+patch=1,EE,00E096A0,extended,00000001
+
+[Reploid 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reploid 15
+// Reploid 15
+patch=1,EE,00E096A8,extended,00000001
+
+[Reploid 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reploid 16
+// Reploid 16
+patch=1,EE,00E096B0,extended,00000001
+
+[Main Character-Max Hunted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Main Character-Max Hunted
+// Main Character-Max Hunted
+patch=1,EE,10E6DD6A,extended,000003E7
+
+[Main Character-No Hunted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Main Character-No Hunted
+// Main Character-No Hunted
+patch=1,EE,10E6DD6A,extended,00000000
+
+[Sub Character-Max Hunted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sub Character-Max Hunted
+// Sub Character-Max Hunted
+patch=1,EE,10E6DD6E,extended,000003E7
+
+[Sub Character-No Hunted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sub Character-No Hunted
+// Sub Character-No Hunted
+patch=1,EE,10E6DD6E,extended,00000000
+
+[Main Character-Max Damaged]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Main Character-Max Damaged
+// Main Character-Max Damaged
+patch=1,EE,10E6DD70,extended,000003E7
+
+[Main Character-No Damaged]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Main Character-No Damaged
+// Main Character-No Damaged
+patch=1,EE,10E6DD70,extended,00000000
+
+[Sub Character-Max Damaged]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sub Character-Max Damaged
+// Sub Character-Max Damaged
+patch=1,EE,10E6DD74,extended,000003E7
+
+[Sub Character-No Damaged]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sub Character-No Damaged
+// Sub Character-No Damaged
+patch=1,EE,10E6DD74,extended,00000000
+
+[Rank UH]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank UH
+// Rank UH
+patch=1,EE,00E431E0,extended,00000007
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,204ECF24,extended,00000064
+
+[Max Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special
+// Max Special
+patch=1,EE,104EC72E,extended,00000064
+
+[Max Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special
+// Max Special
+patch=1,EE,104EC730,extended,00000064
+
+[Max Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special
+// Max Special
+patch=1,EE,204ECF30,extended,00000064
+
+[Have All Special Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Special Weapons
+// Have All Special Weapons
+patch=1,EE,204EC720,extended,FFFFFFFF
+
+[Max Power/Speed/Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power/Speed/Special
+// Max Power/Speed/Special
+patch=1,EE,204EC724,extended,FFFFFFFF
+
+[Quick Weapon Charge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Weapon Charge
+// Quick Weapon Charge
+patch=1,EE,204EC758,extended,0003005A
+
+[X-Buster]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=X-Buster
+// X-Buster
+patch=1,EE,104EC732,extended,00000064
+
+[Circle Blaze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circle Blaze
+// Circle Blaze
+patch=1,EE,104EC734,extended,00000064
+
+[Explosion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Explosion
+// Explosion
+patch=1,EE,104EC736,extended,00000064
+
+[Volt Tornado]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Volt Tornado
+// Volt Tornado
+patch=1,EE,104EC738,extended,00000064
+
+[Splash Laser]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Splash Laser
+// Splash Laser
+patch=1,EE,104EC73A,extended,00000064
+
+[Gaea Shield]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gaea Shield
+// Gaea Shield
+patch=1,EE,104EC73C,extended,00000064
+
+[Wind Cutter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wind Cutter
+// Wind Cutter
+patch=1,EE,104EC73E,extended,00000064
+
+[Sniper Missile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sniper Missile
+// Sniper Missile
+patch=1,EE,104EC740,extended,00000064
+
+[Moving Wheel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Moving Wheel
+// Moving Wheel
+patch=1,EE,104EC742,extended,00000064
+
+[Giga Crash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Giga Crash
+// Giga Crash
+patch=1,EE,104EC756,extended,00000064
+
+[Rank UH]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank UH
+// Rank UH
+patch=1,EE,00E431E1,extended,00000007
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,204ED974,extended,00000064
+
+[Max Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special
+// Max Special
+patch=1,EE,104ED17E,extended,00000064
+
+[Max Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special
+// Max Special
+patch=1,EE,104ED180,extended,00000064
+
+[Max Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special
+// Max Special
+patch=1,EE,204ED980,extended,00000064
+
+[Have All Special Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Special Weapons
+// Have All Special Weapons
+patch=1,EE,204ED170,extended,FFFFFFFF
+
+[Max Power/Speed/Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power/Speed/Special
+// Max Power/Speed/Special
+patch=1,EE,204ED174,extended,FFFFFFFF
+
+[Z-Saber]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Z-Saber
+// Z-Saber
+patch=1,EE,104ED182,extended,00000064
+
+[Bakuenjin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bakuenjin
+// Bakuenjin
+patch=1,EE,104ED184,extended,00000064
+
+[Haoangeki]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Haoangeki
+// Haoangeki
+patch=1,EE,104ED186,extended,00000064
+
+[Raijinshou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Raijinshou
+// Raijinshou
+patch=1,EE,104ED188,extended,00000064
+
+[Suiretusen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suiretusen
+// Suiretusen
+patch=1,EE,104ED18A,extended,00000064
+
+[Gokumonkey]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gokumonkey
+// Gokumonkey
+patch=1,EE,104ED18C,extended,00000064
+
+[Souenbu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Souenbu
+// Souenbu
+patch=1,EE,104ED18E,extended,00000064
+
+[Hieijin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hieijin
+// Hieijin
+patch=1,EE,104ED190,extended,00000064
+
+[Zankourin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zankourin
+// Zankourin
+patch=1,EE,104ED182,extended,00000064
+
+[Rank UH]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank UH
+// Rank UH
+patch=1,EE,00E431E2,extended,00000007
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,204EE3C4,extended,00000064
+
+[Max Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special
+// Max Special
+patch=1,EE,104EDBCE,extended,00000064
+
+[Max Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special
+// Max Special
+patch=1,EE,104EDBD0,extended,00000064
+
+[Max Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special
+// Max Special
+patch=1,EE,204EE3D0,extended,00000064
+
+[Have All Special Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Special Weapons
+// Have All Special Weapons
+patch=1,EE,204EDBC0,extended,FFFFFFFF
+
+[Max Power/Speed/Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power/Speed/Special
+// Max Power/Speed/Special
+patch=1,EE,204EDBC4,extended,FFFFFFFF
+
+[Infinite Hover Ability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Hover Ability
+// Infinite Hover Ability
+patch=1,EE,10E43BE4,extended,000001FF
+
+[Axl Bullet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axl Bullet
+// Axl Bullet
+patch=1,EE,104EDBD2,extended,00000064
+
+[Circle Blaze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circle Blaze
+// Circle Blaze
+patch=1,EE,104EDBD4,extended,00000064
+
+[Explosion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Explosion
+// Explosion
+patch=1,EE,104EDBD6,extended,00000064
+
+[Volt Tornado]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Volt Tornado
+// Volt Tornado
+patch=1,EE,104EDBD8,extended,00000064
+
+[Splash Laser]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Splash Laser
+// Splash Laser
+patch=1,EE,104EDBDA,extended,00000064
+
+[Gaea Shield]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gaea Shield
+// Gaea Shield
+patch=1,EE,104EDBDC,extended,00000064
+
+[Wind Cutter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wind Cutter
+// Wind Cutter
+patch=1,EE,104EDBDE,extended,00000064
+
+[Sniper Missile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sniper Missile
+// Sniper Missile
+patch=1,EE,104EDBE0,extended,00000064
+
+[Moving Wheel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Moving Wheel
+// Moving Wheel
+patch=1,EE,104EDBE2,extended,00000064

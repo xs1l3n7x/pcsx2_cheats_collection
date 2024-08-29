@@ -1,0 +1,217 @@
+gametitle=R-Type Final [SLPS-25247] [D0E17D26]
+
+[Have All Extras Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Extras Completed
+// Have All Extras Completed
+patch=1,EE,F0100008,extended,001223EF
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,102E6744,extended,0000FFFF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,202E6744,extended,0098967F
+
+[Infinite Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Credits
+// Infinite Credits
+patch=1,EE,202E6754,extended,00000063
+
+[Infinite Lives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives
+// Infinite Lives
+patch=1,EE,202E6758,extended,00000009
+
+[Extra Lives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Lives
+// Extra Lives
+patch=1,EE,10182508,extended,00000001
+
+[Unlock All Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Gallery
+// Unlock All Gallery
+patch=1,EE,202F354C,extended,FFFFFFFF
+
+[Instant Beam High Charge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Beam High Charge
+// Instant Beam High Charge
+patch=1,EE,20545790,extended,43480000
+
+[Always Have Missles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Have Missles
+// Always Have Missles
+patch=1,EE,2054636C,extended,00000001
+
+[Max Dose]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Dose
+// Max Dose
+patch=1,EE,20546390,extended,45BB8000
+
+[Invincible]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincible
+// Invincible
+patch=1,EE,101C5036,extended,00001000
+
+[Invincible]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincible
+// Invincible
+patch=1,EE,101C5E66,extended,00001000
+
+[Invincible]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincible
+// Invincible
+patch=1,EE,101C5F86,extended,00001000
+
+[Invincible]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincible
+// Invincible
+patch=1,EE,101C60BE,extended,00001000
+
+[Invincible]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincible
+// Invincible
+patch=1,EE,101C6F2A,extended,00001000
+
+[Invincible (Alternate)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincible (Alternate)
+// Invincible (Alternate)
+patch=1,EE,2030746C,extended,00000001
+
+[Enter R Museum To Unlock All Ships]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enter R Museum To Unlock All Ships
+// Enter R Museum To Unlock All Ships
+patch=1,EE,2015CF7C,extended,90410000
+
+[Enter R Museum To Unlock All Ships]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enter R Museum To Unlock All Ships
+// Enter R Museum To Unlock All Ships
+patch=1,EE,2015CF80,extended,00230825
+
+[Enter R Museum To Unlock All Ships]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enter R Museum To Unlock All Ships
+// Enter R Museum To Unlock All Ships
+patch=1,EE,2015CF84,extended,A0410000
+
+[Enter R Museum To Unlock All Ships]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enter R Museum To Unlock All Ships
+// Enter R Museum To Unlock All Ships
+patch=1,EE,2015CF88,extended,24020000
+
+[Max Total Play Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Play Time
+// Max Total Play Time
+patch=1,EE,202F2C9C,extended,05F5E0FF
+
+[Max Total Wave Cannon Energy Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Wave Cannon Energy Points
+// Max Total Wave Cannon Energy Points
+patch=1,EE,202F2CF4,extended,05F5E0FF
+
+[Max Special Weapon Usage Times]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special Weapon Usage Times
+// Max Special Weapon Usage Times
+patch=1,EE,202F2CF8,extended,0001869F
+
+[Max Cleared Times]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cleared Times
+// Max Cleared Times
+patch=1,EE,202F2D50,extended,0000270F
+
+[Max Launches Times]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Launches Times
+// Max Launches Times
+patch=1,EE,202F2D58,extended,0001869F
+
+[Max Current Win Streak]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Current Win Streak
+// Max Current Win Streak
+patch=1,EE,202F2D00,extended,0000270F
+
+[No Current Losing Streak]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Current Losing Streak
+// No Current Losing Streak
+patch=1,EE,202F2D04,extended,00000000
+
+[Max Longest Win Streak]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Longest Win Streak
+// Max Longest Win Streak
+patch=1,EE,202F2D08,extended,0000270F
+
+[NO Longest Losing Streak]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=NO Longest Losing Streak
+// NO Longest Losing Streak
+patch=1,EE,202F2D0C,extended,00000000
+
+[Max Record VS CPU W]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Record VS CPU W
+// Max Record VS CPU W
+patch=1,EE,202F2D10,extended,0000270F
+
+[No Record VS CPU L]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Record VS CPU L
+// No Record VS CPU L
+patch=1,EE,202F2D14,extended,00000000
+
+[Max Record VS CPU %]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Record VS CPU %
+// Max Record VS CPU %
+patch=1,EE,202F2D18,extended,0000270F
+
+[Max Record VS Pilot W]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Record VS Pilot W
+// Max Record VS Pilot W
+patch=1,EE,202F2D1C,extended,0000270F
+
+[No Record VS Pilot L]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Record VS Pilot L
+// No Record VS Pilot L
+patch=1,EE,202F2D20,extended,00000000
+
+[Max Record VS Pilot %]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Record VS Pilot %
+// Max Record VS Pilot %
+patch=1,EE,202F2D24,extended,0000270F
+
+[Max Perfect Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Perfect Wins
+// Max Perfect Wins
+patch=1,EE,202F2D28,extended,0000270F

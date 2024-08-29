@@ -1,0 +1,121 @@
+gametitle=Final Fantasy X2 [UNKNOWN] [52585249]
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200FFF00,extended,3C01007D
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200FFF04,extended,8C21D250
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200FFF08,extended,24020BB8
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200FFF0C,extended,A4220126
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200FFF10,extended,03E00008
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20291D0C,extended,0803FFC0
+
+[Quicker Character]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Quicker Character
+// Quicker Character
+patch=1,EE,203004A0,extended,3FC00000
+
+[Even Quicker Character]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Even Quicker Character
+// Even Quicker Character
+patch=1,EE,203004A0,extended,40000000
+
+[Infinite Items Slot 1]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Items Slot 1
+// Infinite Items Slot 1
+patch=1,EE,107C58CA,extended,00000032
+
+[Infinite Items Slot 2]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Items Slot 2
+// Infinite Items Slot 2
+patch=1,EE,107C58DA,extended,00000032
+
+[Infinite Items Slot 3]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Items Slot 3
+// Infinite Items Slot 3
+patch=1,EE,107C58EA,extended,00000032
+
+[Infinite Items Slot 4]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Items Slot 4
+// Infinite Items Slot 4
+patch=1,EE,107C58FA,extended,00000032
+
+[Infinite Items Slot 5]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Items Slot 5
+// Infinite Items Slot 5
+patch=1,EE,107C590A,extended,00000032
+
+[Infinite Items Slot 6]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Items Slot 6
+// Infinite Items Slot 6
+patch=1,EE,107C591A,extended,00000032
+
+[Infinite Items Slot 7]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Items Slot 7
+// Infinite Items Slot 7
+patch=1,EE,107C592A,extended,00000032
+
+[Infinite Items Slot 8]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Items Slot 8
+// Infinite Items Slot 8
+patch=1,EE,107C593A,extended,00000032
+
+[Infinite Items Slot 9]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Items Slot 9
+// Infinite Items Slot 9
+patch=1,EE,107C594A,extended,00000032
+
+[Infinite Items Slot 10]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Items Slot 10
+// Infinite Items Slot 10
+patch=1,EE,107C595A,extended,00000032
+
+[Infinite Items Slot 11]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Items Slot 11
+// Infinite Items Slot 11
+patch=1,EE,107C596A,extended,00000032
+
+[Infinite Items Slot 12]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Items Slot 12
+// Infinite Items Slot 12
+patch=1,EE,107C597A,extended,00000032

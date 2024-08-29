@@ -1,0 +1,523 @@
+gametitle=Extermination [SCUS-97112] [0AE679AF]
+
+[Unlock All Gears]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Gears
+// Unlock All Gears
+patch=1,EE,F0100008,extended,00110B5F
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,208104D0,extended,42C80000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20810858,extended,42C80000
+
+[Never Infected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Infected
+// Never Infected
+patch=1,EE,108104DA,extended,00000000
+
+[Never Infected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Infected
+// Never Infected
+patch=1,EE,1081085E,extended,00000000
+
+[Infinite Ammo-Shotgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo-Shotgun
+// Infinite Ammo-Shotgun
+patch=1,EE,10810CA8,extended,0000270F
+
+[Infinite Ammo-Grenade Launcher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo-Grenade Launcher
+// Infinite Ammo-Grenade Launcher
+patch=1,EE,10810CAA,extended,0000270F
+
+[Infinite Ammo-Flame Thrower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo-Flame Thrower
+// Infinite Ammo-Flame Thrower
+patch=1,EE,20810CAC,extended,00630063
+
+[Infinite Ammo-Machine Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo-Machine Gun
+// Infinite Ammo-Machine Gun
+patch=1,EE,10810CB4,extended,0000270F
+
+[Infinite Rockets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Rockets
+// Infinite Rockets
+patch=1,EE,10810CB0,extended,0000270F
+
+[Infinite Battery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Battery
+// Infinite Battery
+patch=1,EE,00810CB2,extended,00000030
+
+[Infinite Battery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Battery
+// Infinite Battery
+patch=1,EE,00810CB7,extended,00000030
+
+[Always Low Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Timer
+// Always Low Timer
+patch=1,EE,20810750,extended,00000000
+
+[Thorn Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thorn Mode
+// Thorn Mode
+patch=1,EE,D0810CA4,extended,0010FF02
+
+[Thorn Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thorn Mode
+// Thorn Mode
+patch=1,EE,10810CA4,extended,0000FFFF
+
+[Have All Weapon Parts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Weapon Parts
+// Have All Weapon Parts
+patch=1,EE,40810C64,extended,00040001
+
+[Have All Weapon Parts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Weapon Parts
+// Have All Weapon Parts
+patch=1,EE,01010101,extended,00000000
+
+[Have Tactical Grip Unit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Tactical Grip Unit
+// Have Tactical Grip Unit
+patch=1,EE,00810C64,extended,00000001
+
+[Have Shotgun Unit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Shotgun Unit
+// Have Shotgun Unit
+patch=1,EE,00810C65,extended,00000001
+
+[Have Grenade Launcher Unit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Grenade Launcher Unit
+// Have Grenade Launcher Unit
+patch=1,EE,00810C66,extended,00000001
+
+[Have Grenade Launcher Unit AT-6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Grenade Launcher Unit AT-6
+// Have Grenade Launcher Unit AT-6
+patch=1,EE,00810C67,extended,00000001
+
+[Have Flamethrower Unit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Flamethrower Unit
+// Have Flamethrower Unit
+patch=1,EE,00810C68,extended,00000001
+
+[Have U.R.S. Cover]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have U.R.S. Cover
+// Have U.R.S. Cover
+patch=1,EE,00810C69,extended,00000001
+
+[Have Dog Tag Receiver Unit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Dog Tag Receiver Unit
+// Have Dog Tag Receiver Unit
+patch=1,EE,00810C6A,extended,00000001
+
+[Have Dot Sight]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Dot Sight
+// Have Dot Sight
+patch=1,EE,00810C6B,extended,00000001
+
+[Have Zoom Scope]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Zoom Scope
+// Have Zoom Scope
+patch=1,EE,00810C6C,extended,00000001
+
+[Have Night Vision Scope]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Night Vision Scope
+// Have Night Vision Scope
+patch=1,EE,00810C6D,extended,00000001
+
+[Have Delta Auto Sight]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Delta Auto Sight
+// Have Delta Auto Sight
+patch=1,EE,00810C6E,extended,00000001
+
+[Have Interceptor Unit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Interceptor Unit
+// Have Interceptor Unit
+patch=1,EE,00810C6F,extended,00000001
+
+[Have Missile Launcher Unit-A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Missile Launcher Unit-A
+// Have Missile Launcher Unit-A
+patch=1,EE,00810C70,extended,00000001
+
+[Have Missile Launcher Unit-B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Missile Launcher Unit-B
+// Have Missile Launcher Unit-B
+patch=1,EE,00810C71,extended,00000001
+
+[Have Missile Launcher Unit-C]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Missile Launcher Unit-C
+// Have Missile Launcher Unit-C
+patch=1,EE,00810C72,extended,00000001
+
+[Have Full Auto Trigger Group]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Full Auto Trigger Group
+// Have Full Auto Trigger Group
+patch=1,EE,00810C73,extended,00000001
+
+[Have Climbing Spikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Climbing Spikes
+// Have Climbing Spikes
+patch=1,EE,00810C7D,extended,00000001
+
+[Have Arctic Parka]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Arctic Parka
+// Have Arctic Parka
+patch=1,EE,00810C7E,extended,00000001
+
+[Have Battery Pack-6 Guage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Battery Pack-6 Guage
+// Have Battery Pack-6 Guage
+patch=1,EE,00810C7F,extended,00000001
+
+[Have Battery Pack-18 Guage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Battery Pack-18 Guage
+// Have Battery Pack-18 Guage
+patch=1,EE,00810C80,extended,00000001
+
+[Have Battery Pack-24 Gauge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Battery Pack-24 Gauge
+// Have Battery Pack-24 Gauge
+patch=1,EE,00810C81,extended,00000001
+
+[Infinite Recovery Unit A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Recovery Unit A
+// Infinite Recovery Unit A
+patch=1,EE,00810C82,extended,00000063
+
+[Infinite Recovery Unit B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Recovery Unit B
+// Infinite Recovery Unit B
+patch=1,EE,00810C83,extended,00000063
+
+[Infinite MTS Vaccine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MTS Vaccine
+// Infinite MTS Vaccine
+patch=1,EE,00810C84,extended,00000063
+
+[Infinite Booster Type A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Booster Type A
+// Infinite Booster Type A
+patch=1,EE,00810C85,extended,00000063
+
+[Infinite Booster Type B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Booster Type B
+// Infinite Booster Type B
+patch=1,EE,00810C86,extended,00000063
+
+[Have Card Key Alpha]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Card Key Alpha
+// Have Card Key Alpha
+patch=1,EE,00810C87,extended,00000001
+
+[Have Card Key Beta]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Card Key Beta
+// Have Card Key Beta
+patch=1,EE,00810C88,extended,00000001
+
+[Have Snow Truck Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Snow Truck Key
+// Have Snow Truck Key
+patch=1,EE,00810C89,extended,00000001
+
+[Have Train Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Train Key
+// Have Train Key
+patch=1,EE,00810C8A,extended,00000001
+
+[Have Crowbar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Crowbar
+// Have Crowbar
+patch=1,EE,00810C8B,extended,00000001
+
+[Have Gary's Bomb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Gary's Bomb
+// Have Gary's Bomb
+patch=1,EE,00810C8C,extended,00000001
+
+[Have Metal Tag 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Metal Tag 1
+// Have Metal Tag 1
+patch=1,EE,00810C8D,extended,00000001
+
+[Have Metal Tag 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Metal Tag 2
+// Have Metal Tag 2
+patch=1,EE,00810C8E,extended,00000001
+
+[Have DVD-ROM]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have DVD-ROM
+// Have DVD-ROM
+patch=1,EE,00810C8F,extended,00000001
+
+[Have Roger's Knife]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Roger's Knife
+// Have Roger's Knife
+patch=1,EE,00810C90,extended,00000001
+
+[Have All Dennis' Memos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Dennis' Memos
+// Have All Dennis' Memos
+patch=1,EE,00810CC3,extended,00000001
+
+[Have All Dennis' Memos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Dennis' Memos
+// Have All Dennis' Memos
+patch=1,EE,40810CC4,extended,00070001
+
+[Have All Dennis' Memos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Dennis' Memos
+// Have All Dennis' Memos
+patch=1,EE,01010101,extended,00000000
+
+[Have All Dennis' Memos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Dennis' Memos
+// Have All Dennis' Memos
+patch=1,EE,10810CE0,extended,00000101
+
+[Have All Dennis' Memos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Dennis' Memos
+// Have All Dennis' Memos
+patch=1,EE,00810CE2,extended,00000001
+
+[Have All Operation Manuals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Operation Manuals
+// Have All Operation Manuals
+patch=1,EE,00810CE3,extended,00000001
+
+[Have All Operation Manuals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Operation Manuals
+// Have All Operation Manuals
+patch=1,EE,40810CE4,extended,00050001
+
+[Have All Operation Manuals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Operation Manuals
+// Have All Operation Manuals
+patch=1,EE,01010101,extended,00000000
+
+[Have All Staff Logs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Staff Logs
+// Have All Staff Logs
+patch=1,EE,00810CF5,extended,00000001
+
+[Have All Staff Logs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Staff Logs
+// Have All Staff Logs
+patch=1,EE,10810CF6,extended,00000101
+
+[Have All Staff Logs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Staff Logs
+// Have All Staff Logs
+patch=1,EE,40810CF8,extended,00040001
+
+[Have All Staff Logs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Staff Logs
+// Have All Staff Logs
+patch=1,EE,01010101,extended,00000000
+
+[Have All Staff Logs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Staff Logs
+// Have All Staff Logs
+patch=1,EE,10810D08,extended,00000101
+
+[Have All Staff Logs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Staff Logs
+// Have All Staff Logs
+patch=1,EE,00810D0A,extended,00000001
+
+[Have All Classified Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Classified Files
+// Have All Classified Files
+patch=1,EE,00810D0B,extended,00000001
+
+[Have All Classified Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Classified Files
+// Have All Classified Files
+patch=1,EE,40810D0C,extended,00050001
+
+[Have All Classified Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Classified Files
+// Have All Classified Files
+patch=1,EE,01010101,extended,00000000
+
+[Have All Top Secret Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Top Secret Files
+// Have All Top Secret Files
+patch=1,EE,40810D20,extended,00040001
+
+[Have All Top Secret Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Top Secret Files
+// Have All Top Secret Files
+patch=1,EE,01010101,extended,00000000
+
+[Tag 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tag 1
+// Tag 1
+patch=1,EE,00810C91,extended,00000001
+
+[Tag 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tag 2
+// Tag 2
+patch=1,EE,00810C92,extended,00000001
+
+[Tag 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tag 3
+// Tag 3
+patch=1,EE,00810C93,extended,00000001
+
+[Tag 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tag 4
+// Tag 4
+patch=1,EE,00810C94,extended,00000001
+
+[Tag 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tag 5
+// Tag 5
+patch=1,EE,00810C95,extended,00000001
+
+[Tag 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tag 6
+// Tag 6
+patch=1,EE,00810C96,extended,00000001
+
+[Tag 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tag 7
+// Tag 7
+patch=1,EE,00810C97,extended,00000001
+
+[Tag 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tag 8
+// Tag 8
+patch=1,EE,00810C98,extended,00000001
+
+[Tag 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tag 9
+// Tag 9
+patch=1,EE,00810C99,extended,00000001
+
+[Tag 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tag 10
+// Tag 10
+patch=1,EE,00810C9A,extended,00000001
+
+[Tag 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tag 11
+// Tag 11
+patch=1,EE,00810C9B,extended,00000001
+
+[Tag 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tag 12
+// Tag 12
+patch=1,EE,00810C9C,extended,00000001
+
+[Tag 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tag 13
+// Tag 13
+patch=1,EE,00810C9D,extended,00000001
+
+[Tag 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tag 14
+// Tag 14
+patch=1,EE,00810C9E,extended,00000001
+
+[Tag 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tag 15
+// Tag 15
+patch=1,EE,00810C9F,extended,00000001

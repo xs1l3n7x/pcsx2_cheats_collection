@@ -1,0 +1,523 @@
+gametitle=Trigger Man [SLUS-20931] [AA73521B]
+
+[Always 3rd Person Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always 3rd Person Mode
+// Always 3rd Person Mode
+patch=1,EE,90201D08,extended,0C085B2B
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0220,extended,8C820000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0224,extended,AC820008
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0228,extended,03E00008
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C022C,extended,46000546
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20183E8C,extended,0C030088
+
+[Infinite Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Armor
+// Infinite Armor
+patch=1,EE,20175538,extended,8C820000
+
+[Infinite Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Armor
+// Infinite Armor
+patch=1,EE,20175540,extended,AC820008
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,201F7C9C,extended,00000000
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,201F7CA0,extended,00000000
+
+[Max Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo
+// Max Infinite Ammo
+patch=1,EE,101F7C92,extended,00001000
+
+[Max Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo
+// Max Infinite Ammo
+patch=1,EE,201F7C94,extended,240203E7
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,101F7C92,extended,00001000
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,201F7C94,extended,00651021
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,201F64D4,extended,00000000
+
+[Have All Weapons/Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Weapons/Infinite Ammo
+// Have All Weapons/Infinite Ammo
+patch=1,EE,20201D3C,extended,0804CFF6
+
+[P1 Press {L1}+{SELECT} To Complete Mission]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Complete Mission
+// P1 Press {L1}+{SELECT} To Complete Mission
+patch=1,EE,D03FA502,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Complete Mission]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Complete Mission
+// P1 Press {L1}+{SELECT} To Complete Mission
+patch=1,EE,20216D50,extended,0804CFEE
+
+[P1 Press {L1}+{SELECT} To Complete Mission]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Complete Mission
+// P1 Press {L1}+{SELECT} To Complete Mission
+patch=1,EE,D03FA502,extended,0010FBFE
+
+[P1 Press {L1}+{SELECT} To Complete Mission]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Complete Mission
+// P1 Press {L1}+{SELECT} To Complete Mission
+patch=1,EE,20216D50,extended,03E00008
+
+[Idiot AI Guard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI Guard
+// Idiot AI Guard
+patch=1,EE,2011C638,extended,03E00008
+
+[Idiot AI Guard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI Guard
+// Idiot AI Guard
+patch=1,EE,2011C63C,extended,00000000
+
+[Idiot AI Sentry]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI Sentry
+// Idiot AI Sentry
+patch=1,EE,2011C970,extended,03E00008
+
+[Idiot AI Sentry]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI Sentry
+// Idiot AI Sentry
+patch=1,EE,2011C974,extended,00000000
+
+[Enemy Doesnt Investigate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enemy Doesnt Investigate
+// Enemy Doesnt Investigate
+patch=1,EE,2011CD28,extended,03E00008
+
+[Enemy Doesnt Investigate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enemy Doesnt Investigate
+// Enemy Doesnt Investigate
+patch=1,EE,2011CD2C,extended,00000000
+
+[Enemy Doesnt Hide]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enemy Doesnt Hide
+// Enemy Doesnt Hide
+patch=1,EE,2011D038,extended,03E00008
+
+[Enemy Doesnt Hide]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enemy Doesnt Hide
+// Enemy Doesnt Hide
+patch=1,EE,2011D03C,extended,00000000
+
+[Guards Dont Randomly Fire]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guards Dont Randomly Fire
+// Guards Dont Randomly Fire
+patch=1,EE,2011D358,extended,03E00008
+
+[Guards Dont Randomly Fire]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guards Dont Randomly Fire
+// Guards Dont Randomly Fire
+patch=1,EE,2011D35C,extended,00000000
+
+[Guards Dont Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guards Dont Attack
+// Guards Dont Attack
+patch=1,EE,2011D468,extended,03E00008
+
+[Guards Dont Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guards Dont Attack
+// Guards Dont Attack
+patch=1,EE,2011D46C,extended,00000000
+
+[Sentries Dont Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sentries Dont Attack
+// Sentries Dont Attack
+patch=1,EE,2011D8D0,extended,03E00008
+
+[Sentries Dont Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sentries Dont Attack
+// Sentries Dont Attack
+patch=1,EE,2011D8D4,extended,00000000
+
+[Enemy Doest Chase You]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enemy Doest Chase You
+// Enemy Doest Chase You
+patch=1,EE,2011DCC8,extended,03E00008
+
+[Enemy Doest Chase You]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enemy Doest Chase You
+// Enemy Doest Chase You
+patch=1,EE,2011DCCC,extended,00000000
+
+[No Enemy Cover Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Enemy Cover Attack
+// No Enemy Cover Attack
+patch=1,EE,2011E368,extended,03E00008
+
+[No Enemy Cover Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Enemy Cover Attack
+// No Enemy Cover Attack
+patch=1,EE,2011E36C,extended,00000000
+
+[Wire Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wire Mode
+// Wire Mode
+patch=1,EE,20279750,extended,00000001
+
+[Display AI Vision]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Display AI Vision
+// Display AI Vision
+patch=1,EE,20277A54,extended,00000001
+
+[Adrenalin Refills Faster]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Adrenalin Refills Faster
+// Adrenalin Refills Faster
+patch=1,EE,20277C84,extended,41000000
+
+[Pause Never Disabled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pause Never Disabled
+// Pause Never Disabled
+patch=1,EE,20277DD0,extended,00000000
+
+[Pause Always Disabled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pause Always Disabled
+// Pause Always Disabled
+patch=1,EE,20277DD0,extended,00000001
+
+[Enemy Zero Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enemy Zero Accuracy
+// Enemy Zero Accuracy
+patch=1,EE,20279344,extended,00000000
+
+[Always Day 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Day 1
+// Always Day 1
+patch=1,EE,20277610,extended,00000001
+
+[Game Time Always 00:00:00]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Game Time Always 00:00:00
+// Game Time Always 00:00:00
+patch=1,EE,20277614,extended,00000000
+
+[Slow Motion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slow Motion
+// Slow Motion
+patch=1,EE,2027761C,extended,3F000000
+
+[Super Slow Motion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Slow Motion
+// Super Slow Motion
+patch=1,EE,2027761C,extended,3E800000
+
+[Mega Slow Motion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mega Slow Motion
+// Mega Slow Motion
+patch=1,EE,2027761C,extended,3E400000
+
+[Normal Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Normal Speed
+// Normal Speed
+patch=1,EE,2027761C,extended,3F800000
+
+[Hyper Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hyper Mode
+// Hyper Mode
+patch=1,EE,2027761C,extended,40000000
+
+[Mega Hyper Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mega Hyper Mode
+// Mega Hyper Mode
+patch=1,EE,2027761C,extended,41000000
+
+[Super Hyper Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Hyper Mode
+// Super Hyper Mode
+patch=1,EE,2027761C,extended,40800000
+
+[Blood Enabled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blood Enabled
+// Blood Enabled
+patch=1,EE,20277DC8,extended,00000001
+
+[Faster Aim Turn Rate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Faster Aim Turn Rate
+// Faster Aim Turn Rate
+patch=1,EE,20278418,extended,3E000000
+
+[Invulnerable]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invulnerable
+// Invulnerable
+patch=1,EE,202797FC,extended,00000001
+
+[Enable Rain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enable Rain
+// Enable Rain
+patch=1,EE,20279910,extended,00000001
+
+[Disable Rain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Rain
+// Disable Rain
+patch=1,EE,20279910,extended,00000000
+
+[Enable Lightning]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enable Lightning
+// Enable Lightning
+patch=1,EE,20279918,extended,00000001
+
+[Disable Lightning]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Lightning
+// Disable Lightning
+patch=1,EE,20279918,extended,00000000
+
+[Auto Wall Mode Enabled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Auto Wall Mode Enabled
+// Auto Wall Mode Enabled
+patch=1,EE,20279338,extended,00000001
+
+[Disable HUD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable HUD
+// Disable HUD
+patch=1,EE,202795C8,extended,00000001
+
+[Player Health Bar Enabled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Player Health Bar Enabled
+// Player Health Bar Enabled
+patch=1,EE,20279A40,extended,00000001
+
+[Player Armor Bar Enabled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Player Armor Bar Enabled
+// Player Armor Bar Enabled
+patch=1,EE,20279A44,extended,00000001
+
+[Adrenalin Bar Enabled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Adrenalin Bar Enabled
+// Adrenalin Bar Enabled
+patch=1,EE,20279A48,extended,00000001
+
+[1-Shot Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Shot Kills
+// 1-Shot Kills
+patch=1,EE,20279A4C,extended,00000001
+
+[Stay Locked On When R1 is Released]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stay Locked On When R1 is Released
+// Stay Locked On When R1 is Released
+patch=1,EE,20279A50,extended,00000001
+
+[Dive always Slomo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dive always Slomo
+// Dive always Slomo
+patch=1,EE,20279A54,extended,00000001
+
+[Throw always Slomo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throw always Slomo
+// Throw always Slomo
+patch=1,EE,20279A58,extended,00000001
+
+[Shoot when Frozen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shoot when Frozen
+// Shoot when Frozen
+patch=1,EE,20279A60,extended,00000001
+
+[Can Exit Wall Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Can Exit Wall Mode
+// Can Exit Wall Mode
+patch=1,EE,20279A64,extended,00000001
+
+[Enemy Health Bar Enabled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enemy Health Bar Enabled
+// Enemy Health Bar Enabled
+patch=1,EE,20279A6C,extended,00000001
+
+[Boss Health Bar Enabled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boss Health Bar Enabled
+// Boss Health Bar Enabled
+patch=1,EE,20279A70,extended,00000001
+
+[Special Health Bar Enabled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Special Health Bar Enabled
+// Special Health Bar Enabled
+patch=1,EE,20279A74,extended,00000001
+
+[Ammo Count Enabled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ammo Count Enabled
+// Ammo Count Enabled
+patch=1,EE,20279A78,extended,00000001
+
+[Weapon Icon Enabled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weapon Icon Enabled
+// Weapon Icon Enabled
+patch=1,EE,20279A80,extended,00000001
+
+[Stay In Manual Targeting When R2 Released]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stay In Manual Targeting When R2 Released
+// Stay In Manual Targeting When R2 Released
+patch=1,EE,20279AB4,extended,00000001
+
+[Player Continued From Game Over Screen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Player Continued From Game Over Screen
+// Player Continued From Game Over Screen
+patch=1,EE,20279AC0,extended,00000001
+
+[Draw Scripted Sniper Scope]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Draw Scripted Sniper Scope
+// Draw Scripted Sniper Scope
+patch=1,EE,20279AC8,extended,00000001
+
+[God Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=God Mode
+// God Mode
+patch=1,EE,20279C08,extended,00000001
+
+[Have All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Weapons
+// Have All Weapons
+patch=1,EE,7025183C,extended,00000001
+
+[Infnite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infnite Ammo
+// Infnite Ammo
+patch=1,EE,7025185C,extended,00000001
+
+[Head Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Head Shot
+// Head Shot
+patch=1,EE,7025187C,extended,00000001
+
+[Infinite Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Armor
+// Infinite Armor
+patch=1,EE,7025189C,extended,00000001
+
+[1-Hit Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Kills
+// 1-Hit Kills
+patch=1,EE,702518BC,extended,00000001
+
+[1-Shot Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Shot Kills
+// 1-Shot Kills
+patch=1,EE,702518DC,extended,00000001
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,702518FC,extended,00000001

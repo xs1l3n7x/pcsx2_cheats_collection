@@ -1,0 +1,1147 @@
+gametitle=Fatal Frame [SLUS-20388] [339A0B8C]
+
+[Have All Film Cars Unlocked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Film Cars Unlocked
+// Have All Film Cars Unlocked
+patch=1,EE,F0100008,extended,0022DC67
+
+[Always Low Game Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Game Time
+// Always Low Game Time
+patch=1,EE,202522F8,extended,00000000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,10252AA4,extended,000001F4
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,10265CF8,extended,0000FFFF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20265CF8,extended,0098967F
+
+[1-Hit Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Enemies)
+// 1-Hit Death (Enemies)
+patch=1,EE,D0252E98,extended,0003000A
+
+[1-Hit Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Enemies)
+// 1-Hit Death (Enemies)
+patch=1,EE,10252E98,extended,00000001
+
+[1-Hit Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Enemies)
+// 1-Hit Death (Enemies)
+patch=1,EE,D02536F8,extended,0003000A
+
+[1-Hit Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Enemies)
+// 1-Hit Death (Enemies)
+patch=1,EE,102536F8,extended,00000001
+
+[Max High Score (Battle Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max High Score (Battle Mode)
+// Max High Score (Battle Mode)
+patch=1,EE,203577F0,extended,0098967F
+
+[Quick Score Gain (Battle Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain (Battle Mode)
+// Quick Score Gain (Battle Mode)
+patch=1,EE,103577F8,extended,0000FFFF
+
+[Max Score (Battle Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score (Battle Mode)
+// Max Score (Battle Mode)
+patch=1,EE,203577F8,extended,0098967F
+
+[Type-7 Film]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Type-7 Film
+// Type-7 Film
+patch=1,EE,00254360,extended,00000063
+
+[Type-14 Film]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Type-14 Film
+// Type-14 Film
+patch=1,EE,00254361,extended,00000063
+
+[Type-37 Film]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Type-37 Film
+// Type-37 Film
+patch=1,EE,00254362,extended,00000063
+
+[Type-74 Film]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Type-74 Film
+// Type-74 Film
+patch=1,EE,00254363,extended,00000063
+
+[Type-90 Film]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Type-90 Film
+// Type-90 Film
+patch=1,EE,00254364,extended,00000063
+
+[Spirit Stone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spirit Stone
+// Spirit Stone
+patch=1,EE,00254365,extended,00000063
+
+[Herbal Medicine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Herbal Medicine
+// Herbal Medicine
+patch=1,EE,00254366,extended,00000063
+
+[Sacred Water]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sacred Water
+// Sacred Water
+patch=1,EE,00254367,extended,00000063
+
+[Stone Mirror]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stone Mirror
+// Stone Mirror
+patch=1,EE,00254368,extended,00000063
+
+[Camera]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Camera
+// Camera
+patch=1,EE,00254369,extended,00000063
+
+[Red Handmirror]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Handmirror
+// Red Handmirror
+patch=1,EE,0025436A,extended,00000063
+
+[Black Carving]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Carving
+// Black Carving
+patch=1,EE,0025436B,extended,00000063
+
+[Blue Carving]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Carving
+// Blue Carving
+patch=1,EE,0025436C,extended,00000063
+
+[Kagome Doll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kagome Doll
+// Kagome Doll
+patch=1,EE,0025436D,extended,00000063
+
+[Master's Seal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Master's Seal
+// Master's Seal
+patch=1,EE,0025436E,extended,00000063
+
+[CeremonialRope]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CeremonialRope
+// CeremonialRope
+patch=1,EE,0025436F,extended,00000063
+
+[Brass Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Brass Key
+// Brass Key
+patch=1,EE,00254370,extended,00000063
+
+[KotoSheetMusic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=KotoSheetMusic
+// KotoSheetMusic
+patch=1,EE,00254371,extended,00000063
+
+[Tape Recorder]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tape Recorder
+// Tape Recorder
+patch=1,EE,00254372,extended,00000063
+
+[Red Tape 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Tape 1
+// Red Tape 1
+patch=1,EE,00254373,extended,00000063
+
+[Blue Tape 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Tape 1
+// Blue Tape 1
+patch=1,EE,00254374,extended,00000063
+
+[Photo Of The Editor, Ogata]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Photo Of The Editor, Ogata
+// Photo Of The Editor, Ogata
+patch=1,EE,00254375,extended,00000063
+
+[Picture Of Door With Humuro Family Crest]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Picture Of Door With Humuro Family Crest
+// Picture Of Door With Humuro Family Crest
+patch=1,EE,00254376,extended,00000063
+
+[Teal Carving]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Teal Carving
+// Teal Carving
+patch=1,EE,00254377,extended,00000063
+
+[Gold Carving]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Carving
+// Gold Carving
+patch=1,EE,00254378,extended,00000063
+
+[HeadlessBuddha]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=HeadlessBuddha
+// HeadlessBuddha
+patch=1,EE,00254379,extended,00000063
+
+[Purple Carving]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Purple Carving
+// Purple Carving
+patch=1,EE,0025437A,extended,00000063
+
+[Mirror/Piece]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mirror/Piece
+// Mirror/Piece
+patch=1,EE,0025437B,extended,00000063
+
+[Family Photo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Family Photo
+// Family Photo
+patch=1,EE,0025437C,extended,00000063
+
+[Editor's Photo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Editor's Photo
+// Editor's Photo
+patch=1,EE,0025437D,extended,00000063
+
+[Sturdy Notebook]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sturdy Notebook
+// Sturdy Notebook
+patch=1,EE,0025437E,extended,00000063
+
+[Blood-Stained Scrapbook]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blood-Stained Scrapbook
+// Blood-Stained Scrapbook
+patch=1,EE,0025437F,extended,00000063
+
+[Blood-Stained Notebook]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blood-Stained Notebook
+// Blood-Stained Notebook
+patch=1,EE,00254380,extended,00000063
+
+[Small Notebook]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Small Notebook
+// Small Notebook
+patch=1,EE,00254381,extended,00000063
+
+[Matches]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Matches
+// Matches
+patch=1,EE,00254382,extended,00000063
+
+[Book Of Folklore About The Himuro Family]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Book Of Folklore About The Himuro Family
+// Book Of Folklore About The Himuro Family
+patch=1,EE,00254383,extended,00000063
+
+[Old Rie Paper With Puzzling Words]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Old Rie Paper With Puzzling Words
+// Old Rie Paper With Puzzling Words
+patch=1,EE,00254384,extended,00000063
+
+[Lighter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lighter
+// Lighter
+patch=1,EE,00254385,extended,00000063
+
+[Kirie Photo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kirie Photo
+// Kirie Photo
+patch=1,EE,00254386,extended,00000063
+
+[Scroll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scroll
+// Scroll
+patch=1,EE,00254387,extended,00000063
+
+[Kirie's Hairpin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kirie's Hairpin
+// Kirie's Hairpin
+patch=1,EE,00254388,extended,00000063
+
+[Joyful Mask]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Joyful Mask
+// Joyful Mask
+patch=1,EE,00254389,extended,00000063
+
+[Angry Mask]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Angry Mask
+// Angry Mask
+patch=1,EE,0025438A,extended,00000063
+
+[Sad Mask]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sad Mask
+// Sad Mask
+patch=1,EE,0025438B,extended,00000063
+
+[Happy Mask]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Happy Mask
+// Happy Mask
+patch=1,EE,0025438C,extended,00000063
+
+[Demon Tag Girls Photo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Demon Tag Girls Photo
+// Demon Tag Girls Photo
+patch=1,EE,0025438D,extended,00000063
+
+[Mask/Reflection]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mask/Reflection
+// Mask/Reflection
+patch=1,EE,0025438E,extended,00000063
+
+[Blinding Mask]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blinding Mask
+// Blinding Mask
+patch=1,EE,0025438F,extended,00000063
+
+[Bronze Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bronze Key
+// Bronze Key
+patch=1,EE,00254390,extended,00000063
+
+[Mirror/Piece 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mirror/Piece 2
+// Mirror/Piece 2
+patch=1,EE,00254391,extended,00000063
+
+[Unknown 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 1
+// Unknown 1
+patch=1,EE,00254392,extended,00000063
+
+[Unknown 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 2
+// Unknown 2
+patch=1,EE,00254393,extended,00000063
+
+[Unknown 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 3
+// Unknown 3
+patch=1,EE,00254394,extended,00000063
+
+[Unknown 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 4
+// Unknown 4
+patch=1,EE,00254395,extended,00000063
+
+[Unknown 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 5
+// Unknown 5
+patch=1,EE,00254396,extended,00000063
+
+[Unknown 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 6
+// Unknown 6
+patch=1,EE,00254397,extended,00000063
+
+[Mirror/Piece 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mirror/Piece 3
+// Mirror/Piece 3
+patch=1,EE,00254398,extended,00000063
+
+[Mirror/Piece 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mirror/Piece 4
+// Mirror/Piece 4
+patch=1,EE,00254399,extended,00000063
+
+[Mirror/Piece 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mirror/Piece 5
+// Mirror/Piece 5
+patch=1,EE,0025439A,extended,00000063
+
+[Holy Mirror]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Holy Mirror
+// Holy Mirror
+patch=1,EE,0025439B,extended,00000063
+
+[White Tape 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=White Tape 1
+// White Tape 1
+patch=1,EE,0025439C,extended,00000063
+
+[White Tape 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=White Tape 2
+// White Tape 2
+patch=1,EE,0025439D,extended,00000063
+
+[Red Tape 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Tape 2
+// Red Tape 2
+patch=1,EE,0025439E,extended,00000063
+
+[Red Tape 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Tape 3
+// Red Tape 3
+patch=1,EE,0025439F,extended,00000063
+
+[Red Tape 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Tape 4
+// Red Tape 4
+patch=1,EE,002543A0,extended,00000063
+
+[Blue Tape 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Tape 2
+// Blue Tape 2
+patch=1,EE,002543A1,extended,00000063
+
+[Moon Incense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Moon Incense
+// Moon Incense
+patch=1,EE,002543A2,extended,00000063
+
+[Unknown 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 7
+// Unknown 7
+patch=1,EE,002543A3,extended,00000063
+
+[Unknown 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 8
+// Unknown 8
+patch=1,EE,002543A4,extended,00000063
+
+[Unknown 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 9
+// Unknown 9
+patch=1,EE,002543A5,extended,00000063
+
+[Kirie's Diary 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kirie's Diary 1
+// Kirie's Diary 1
+patch=1,EE,00254428,extended,00000003
+
+[Kirie's Diary 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kirie's Diary 2
+// Kirie's Diary 2
+patch=1,EE,00254429,extended,00000003
+
+[Kirie's Diary 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kirie's Diary 3
+// Kirie's Diary 3
+patch=1,EE,0025442A,extended,00000003
+
+[Kirie's Diary 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kirie's Diary 4
+// Kirie's Diary 4
+patch=1,EE,0025442B,extended,00000003
+
+[Kirie's Diary 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kirie's Diary 5
+// Kirie's Diary 5
+patch=1,EE,0025442C,extended,00000003
+
+[Kirie's Diary 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kirie's Diary 6
+// Kirie's Diary 6
+patch=1,EE,0025442D,extended,00000003
+
+[Unknown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown
+// Unknown
+patch=1,EE,0025442E,extended,00000003
+
+[Mafuyu's Notes 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mafuyu's Notes 1
+// Mafuyu's Notes 1
+patch=1,EE,0025442F,extended,00000003
+
+[Mafuyu's Notes 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mafuyu's Notes 2
+// Mafuyu's Notes 2
+patch=1,EE,00254430,extended,00000003
+
+[Mafuyu's Notes 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mafuyu's Notes 3
+// Mafuyu's Notes 3
+patch=1,EE,00254431,extended,00000003
+
+[Mafuyu's Notes 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mafuyu's Notes 4
+// Mafuyu's Notes 4
+patch=1,EE,00254432,extended,00000003
+
+[Mafuyu's Notes 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mafuyu's Notes 5
+// Mafuyu's Notes 5
+patch=1,EE,00254433,extended,00000003
+
+[Mafuyu's Notes 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mafuyu's Notes 6
+// Mafuyu's Notes 6
+patch=1,EE,00254434,extended,00000003
+
+[Mafuyu's Notes 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mafuyu's Notes 7
+// Mafuyu's Notes 7
+patch=1,EE,00254435,extended,00000003
+
+[Priest's Writings 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Priest's Writings 1
+// Priest's Writings 1
+patch=1,EE,00254436,extended,00000003
+
+[Priest's Writings 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Priest's Writings 2
+// Priest's Writings 2
+patch=1,EE,00254437,extended,00000003
+
+[Priest's Writings 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Priest's Writings 3
+// Priest's Writings 3
+patch=1,EE,00254438,extended,00000003
+
+[Priest's Writings 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Priest's Writings 4
+// Priest's Writings 4
+patch=1,EE,00254439,extended,00000003
+
+[Unknown 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 2
+// Unknown 2
+patch=1,EE,0025443A,extended,00000003
+
+[Old Diary Scrap 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Old Diary Scrap 1
+// Old Diary Scrap 1
+patch=1,EE,0025443B,extended,00000003
+
+[Old Diary Scrap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Old Diary Scrap 2
+// Old Diary Scrap 2
+patch=1,EE,0025443C,extended,00000003
+
+[Old Diary Scrap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Old Diary Scrap 3
+// Old Diary Scrap 3
+patch=1,EE,0025443D,extended,00000003
+
+[Old Diary Scrap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Old Diary Scrap 4
+// Old Diary Scrap 4
+patch=1,EE,0025443E,extended,00000003
+
+[Unknown 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 3
+// Unknown 3
+patch=1,EE,0025443F,extended,00000003
+
+[Lady's Diary Scrap 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lady's Diary Scrap 1
+// Lady's Diary Scrap 1
+patch=1,EE,00254440,extended,00000003
+
+[Lady's Diary Scrap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lady's Diary Scrap 2
+// Lady's Diary Scrap 2
+patch=1,EE,00254441,extended,00000003
+
+[Lady's Diary Scrap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lady's Diary Scrap 3
+// Lady's Diary Scrap 3
+patch=1,EE,00254442,extended,00000003
+
+[Yae's Death Note]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yae's Death Note
+// Yae's Death Note
+patch=1,EE,00254443,extended,00000003
+
+[Unknown 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 4
+// Unknown 4
+patch=1,EE,00254444,extended,00000003
+
+[Child's Writing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Child's Writing
+// Child's Writing
+patch=1,EE,00254445,extended,00000003
+
+[Black Notebook Scrap 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Notebook Scrap 1
+// Black Notebook Scrap 1
+patch=1,EE,00254446,extended,00000003
+
+[Black Notebook Scrap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Notebook Scrap 2
+// Black Notebook Scrap 2
+patch=1,EE,00254447,extended,00000003
+
+[Black Notebook Scrap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Notebook Scrap 3
+// Black Notebook Scrap 3
+patch=1,EE,00254448,extended,00000003
+
+[Black Notebook Scrap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Notebook Scrap 4
+// Black Notebook Scrap 4
+patch=1,EE,00254449,extended,00000003
+
+[Black Notebook Scrap 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Notebook Scrap 5
+// Black Notebook Scrap 5
+patch=1,EE,0025444A,extended,00000003
+
+[Black Notebook Scrap 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Notebook Scrap 6
+// Black Notebook Scrap 6
+patch=1,EE,0025444B,extended,00000003
+
+[Unknown 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 5
+// Unknown 5
+patch=1,EE,0025444C,extended,00000003
+
+[Red Notebook Scrap 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Notebook Scrap 1
+// Red Notebook Scrap 1
+patch=1,EE,0025444D,extended,00000003
+
+[Red Notebook Scrap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Notebook Scrap 2
+// Red Notebook Scrap 2
+patch=1,EE,0025444E,extended,00000003
+
+[Red Notebook Scrap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Notebook Scrap 3
+// Red Notebook Scrap 3
+patch=1,EE,0025444F,extended,00000003
+
+[Red Notebook Scrap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Notebook Scrap 4
+// Red Notebook Scrap 4
+patch=1,EE,00254450,extended,00000003
+
+[Red Notebook Scrap 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Notebook Scrap 5
+// Red Notebook Scrap 5
+patch=1,EE,00254451,extended,00000003
+
+[Red Notebook Scrap 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Notebook Scrap 6
+// Red Notebook Scrap 6
+patch=1,EE,00254452,extended,00000003
+
+[Red Notebook Scrap 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Notebook Scrap 7
+// Red Notebook Scrap 7
+patch=1,EE,00254453,extended,00000003
+
+[Unknown 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 6
+// Unknown 6
+patch=1,EE,00254454,extended,00000003
+
+[Research Notes 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Research Notes 1
+// Research Notes 1
+patch=1,EE,00254455,extended,00000003
+
+[Research Notes 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Research Notes 2
+// Research Notes 2
+patch=1,EE,00254456,extended,00000003
+
+[Research Notes 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Research Notes 3
+// Research Notes 3
+patch=1,EE,00254457,extended,00000003
+
+[Research Notes 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Research Notes 4
+// Research Notes 4
+patch=1,EE,00254458,extended,00000003
+
+[Research Notes 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Research Notes 5
+// Research Notes 5
+patch=1,EE,00254459,extended,00000003
+
+[Unknown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown
+// Unknown
+patch=1,EE,0025445A,extended,00000003
+
+[Huge Altar?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Altar?
+// Huge Altar?
+patch=1,EE,0025445B,extended,00000003
+
+[Mask On The Pillar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mask On The Pillar
+// Mask On The Pillar
+patch=1,EE,0025445C,extended,00000003
+
+[Unknown 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 2
+// Unknown 2
+patch=1,EE,0025445D,extended,00000003
+
+[Unknown 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 3
+// Unknown 3
+patch=1,EE,0025445E,extended,00000003
+
+[Shinto Gate In Photo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shinto Gate In Photo
+// Shinto Gate In Photo
+patch=1,EE,0025445F,extended,00000003
+
+[Unknown 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 4
+// Unknown 4
+patch=1,EE,00254460,extended,00000003
+
+[Unknown 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 5
+// Unknown 5
+patch=1,EE,00254461,extended,00000003
+
+[Unknown 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 6
+// Unknown 6
+patch=1,EE,00254462,extended,00000003
+
+[Unknown 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 7
+// Unknown 7
+patch=1,EE,00254463,extended,00000003
+
+[Unknown 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 8
+// Unknown 8
+patch=1,EE,00254464,extended,00000003
+
+[Storehouse?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Storehouse?
+// Storehouse?
+patch=1,EE,00254465,extended,00000003
+
+[Unknown 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 9
+// Unknown 9
+patch=1,EE,00254466,extended,00000003
+
+[Japanese Doll Shelf]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Japanese Doll Shelf
+// Japanese Doll Shelf
+patch=1,EE,00254467,extended,00000003
+
+[Foot Of Staircase?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Foot Of Staircase?
+// Foot Of Staircase?
+patch=1,EE,00254468,extended,00000003
+
+[Waterwheel In Photo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Waterwheel In Photo
+// Waterwheel In Photo
+patch=1,EE,00254469,extended,00000003
+
+[Girl Pulled Into Well]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Girl Pulled Into Well
+// Girl Pulled Into Well
+patch=1,EE,0025446A,extended,00000003
+
+[Stone On The Well]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stone On The Well
+// Stone On The Well
+patch=1,EE,0025446B,extended,00000003
+
+[Stone Burial Mound?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stone Burial Mound?
+// Stone Burial Mound?
+patch=1,EE,0025446C,extended,00000003
+
+[Row Of Candlesticks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Row Of Candlesticks
+// Row Of Candlesticks
+patch=1,EE,0025446D,extended,00000003
+
+[Girl Pulled Thru Door]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Girl Pulled Thru Door
+// Girl Pulled Thru Door
+patch=1,EE,0025446E,extended,00000003
+
+[Boy Pulled Into Clock]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boy Pulled Into Clock
+// Boy Pulled Into Clock
+patch=1,EE,0025446F,extended,00000003
+
+[Shinto House Altar?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shinto House Altar?
+// Shinto House Altar?
+patch=1,EE,00254470,extended,00000003
+
+[Key In The Photo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Key In The Photo
+// Key In The Photo
+patch=1,EE,00254471,extended,00000003
+
+[Light Thru Crevice]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Light Thru Crevice
+// Light Thru Crevice
+patch=1,EE,00254472,extended,00000003
+
+[On The Beam?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=On The Beam?
+// On The Beam?
+patch=1,EE,00254473,extended,00000003
+
+[Rubbish Heap In Photo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rubbish Heap In Photo
+// Rubbish Heap In Photo
+patch=1,EE,00254474,extended,00000003
+
+[Some Stone Monument?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Some Stone Monument?
+// Some Stone Monument?
+patch=1,EE,00254475,extended,00000003
+
+[Unknown 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 10
+// Unknown 10
+patch=1,EE,00254476,extended,00000003
+
+[Row Of Japanese Dolls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Row Of Japanese Dolls
+// Row Of Japanese Dolls
+patch=1,EE,00254477,extended,00000003
+
+[Unknown 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 11
+// Unknown 11
+patch=1,EE,00254478,extended,00000003
+
+[Lit Garden Lantern]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lit Garden Lantern
+// Lit Garden Lantern
+patch=1,EE,00254479,extended,00000003
+
+[Ornamental Lion Mask]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ornamental Lion Mask
+// Ornamental Lion Mask
+patch=1,EE,0025447A,extended,00000003
+
+[Stand With No Mirror]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stand With No Mirror
+// Stand With No Mirror
+patch=1,EE,0025447B,extended,00000003
+
+[Unknown 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 12
+// Unknown 12
+patch=1,EE,0025447C,extended,00000003
+
+[Scroll In The Photo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scroll In The Photo
+// Scroll In The Photo
+patch=1,EE,0025447D,extended,00000003
+
+[Unknown 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 13
+// Unknown 13
+patch=1,EE,0025447E,extended,00000003
+
+[Row Of GardenLanterns]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Row Of GardenLanterns
+// Row Of GardenLanterns
+patch=1,EE,0025447F,extended,00000003
+
+[StoneMonument InPhoto]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=StoneMonument InPhoto
+// StoneMonument InPhoto
+patch=1,EE,00254480,extended,00000003
+
+[Stone Burial Mound]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stone Burial Mound
+// Stone Burial Mound
+patch=1,EE,00254481,extended,00000003
+
+[Huge Stone Monument]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Stone Monument
+// Huge Stone Monument
+patch=1,EE,00254482,extended,00000003
+
+[Graveston In Photo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Graveston In Photo
+// Graveston In Photo
+patch=1,EE,00254483,extended,00000003
+
+[Photo Of Character? 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Photo Of Character? 1
+// Photo Of Character? 1
+patch=1,EE,00254484,extended,00000003
+
+[Photo Of Character? 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Photo Of Character? 2
+// Photo Of Character? 2
+patch=1,EE,00254485,extended,00000003
+
+[Photo Of Character? 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Photo Of Character? 3
+// Photo Of Character? 3
+patch=1,EE,00254486,extended,00000003
+
+[Photo Of Character? 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Photo Of Character? 4
+// Photo Of Character? 4
+patch=1,EE,00254487,extended,00000003
+
+[Furious-Looking Mask]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Furious-Looking Mask
+// Furious-Looking Mask
+patch=1,EE,00254488,extended,00000003
+
+[Demon Tag Scroll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Demon Tag Scroll
+// Demon Tag Scroll
+patch=1,EE,00254489,extended,00000003
+
+[Camera Controls 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Camera Controls 1
+// Camera Controls 1
+patch=1,EE,002544AD,extended,00000003
+
+[Camera Controls 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Camera Controls 2
+// Camera Controls 2
+patch=1,EE,002544AE,extended,00000003
+
+[Shooting Ghosts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shooting Ghosts
+// Shooting Ghosts
+patch=1,EE,002544AF,extended,00000003
+
+[Power-Ups]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power-Ups
+// Power-Ups
+patch=1,EE,002544B0,extended,00000003
+
+[Max Range]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Range
+// Max Range
+patch=1,EE,00265CE8,extended,00000003
+
+[Max Max Value]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Max Value
+// Max Max Value
+patch=1,EE,00265CE9,extended,00000003
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,00265CEA,extended,00000003
+
+[Have All Bonus Camera Options]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bonus Camera Options
+// Have All Bonus Camera Options
+patch=1,EE,00265CEB,extended,00000002
+
+[Have All Bonus Camera Options]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bonus Camera Options
+// Have All Bonus Camera Options
+patch=1,EE,20265CEC,extended,02020202
+
+[Have All Special Camera Options]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Special Camera Options
+// Have All Special Camera Options
+patch=1,EE,20265CF0,extended,02020202
+
+[Have All Special Camera Options]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Special Camera Options
+// Have All Special Camera Options
+patch=1,EE,00265CF4,extended,00000002

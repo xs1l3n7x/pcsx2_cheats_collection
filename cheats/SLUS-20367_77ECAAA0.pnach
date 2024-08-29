@@ -1,0 +1,841 @@
+gametitle=Freekstyle [SLUS-20367] [77ECAAA0]
+
+[P1 Press {L2}+Right For Full Charisma]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Right For Full Charisma
+// P1 Press {L2}+Right For Full Charisma
+patch=1,EE,901127F4,extended,0C046FAA
+
+[Invisible Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisible Bikes
+// Invisible Bikes
+patch=1,EE,1023D844,extended,00000000
+
+[P1 Press {L1}+{SELECT} To Activate Slow Motion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Activate Slow Motion
+// P1 Press {L1}+{SELECT} To Activate Slow Motion
+patch=1,EE,D023EA02,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Activate Slow Motion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Activate Slow Motion
+// P1 Press {L1}+{SELECT} To Activate Slow Motion
+patch=1,EE,10240464,extended,00000001
+
+[P1 Press {L2}+{SELECT} To Activate Slow Motion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Activate Slow Motion
+// P1 Press {L2}+{SELECT} To Activate Slow Motion
+patch=1,EE,D023EA02,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Activate Slow Motion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Activate Slow Motion
+// P1 Press {L2}+{SELECT} To Activate Slow Motion
+patch=1,EE,10240464,extended,00000000
+
+[Always Freekout Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Freekout Mode
+// Always Freekout Mode
+patch=1,EE,10240684,extended,00000001
+
+[Always Freekout Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Freekout Mode
+// Always Freekout Mode
+patch=1,EE,10274D5A,extended,00000001
+
+[Max All Stats (All Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats (All Characters)
+// Max All Stats (All Characters)
+patch=1,EE,40276434,extended,000A0001
+
+[Max All Stats (All Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats (All Characters)
+// Max All Stats (All Characters)
+patch=1,EE,14141414,extended,00000000
+
+[Have All Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Outfits
+// Have All Outfits
+patch=1,EE,20276418,extended,FFFFFFFF
+
+[Have All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bikes
+// Have All Bikes
+patch=1,EE,2027641C,extended,FFFFFFFF
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,00276439,extended,00000014
+
+[Max Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Boost
+// Max Boost
+patch=1,EE,0027643A,extended,00000014
+
+[Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Control
+// Max Control
+patch=1,EE,0027643B,extended,00000014
+
+[Max Jumping]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jumping
+// Max Jumping
+patch=1,EE,0027643C,extended,00000014
+
+[Max Landing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Landing
+// Max Landing
+patch=1,EE,0027643D,extended,00000014
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276520,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276524,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276528,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,2027652C,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276530,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276534,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,2027653C,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,20276540,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,20276544,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,20276548,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,2027654C,extended,FFFFFFFF
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,0027644D,extended,00000014
+
+[Max Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Boost
+// Max Boost
+patch=1,EE,0027644E,extended,00000014
+
+[Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Control
+// Max Control
+patch=1,EE,0027644F,extended,00000014
+
+[Max Jumping]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jumping
+// Max Jumping
+patch=1,EE,00276450,extended,00000014
+
+[Max Landing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Landing
+// Max Landing
+patch=1,EE,00276451,extended,00000014
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276770,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276774,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276778,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,2027677C,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276780,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276784,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,2027678C,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,20276790,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,20276794,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,20276798,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,2027679C,extended,FFFFFFFF
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,0027643E,extended,00000014
+
+[Max Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Boost
+// Max Boost
+patch=1,EE,0027643F,extended,00000014
+
+[Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Control
+// Max Control
+patch=1,EE,00276440,extended,00000014
+
+[Max Jumping]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jumping
+// Max Jumping
+patch=1,EE,00276441,extended,00000014
+
+[Max Landing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Landing
+// Max Landing
+patch=1,EE,00276442,extended,00000014
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,202765B4,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,202765B8,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,202765BC,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,202765C0,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,202765C4,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,202765C8,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,202765D0,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,202765D4,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,202765D8,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,202765DC,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,202765E0,extended,FFFFFFFF
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,00276443,extended,00000014
+
+[Max Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Boost
+// Max Boost
+patch=1,EE,00276444,extended,00000014
+
+[Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Control
+// Max Control
+patch=1,EE,00276445,extended,00000014
+
+[Max Jumping]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jumping
+// Max Jumping
+patch=1,EE,00276446,extended,00000014
+
+[Max Landing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Landing
+// Max Landing
+patch=1,EE,00276447,extended,00000014
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276648,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,2027664C,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276650,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276654,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276658,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,2027665C,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,20276664,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,20276668,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,2027666C,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,20276670,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,20276674,extended,FFFFFFFF
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,00276452,extended,00000014
+
+[Max Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Boost
+// Max Boost
+patch=1,EE,00276453,extended,00000014
+
+[Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Control
+// Max Control
+patch=1,EE,00276454,extended,00000014
+
+[Max Jumping]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jumping
+// Max Jumping
+patch=1,EE,00276455,extended,00000014
+
+[Max Landing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Landing
+// Max Landing
+patch=1,EE,00276456,extended,00000014
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276804,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276808,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,2027680C,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276810,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276814,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276818,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,20276820,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,20276824,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,20276828,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,2027682C,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,20276830,extended,FFFFFFFF
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,00276457,extended,00000014
+
+[Max Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Boost
+// Max Boost
+patch=1,EE,00276458,extended,00000014
+
+[Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Control
+// Max Control
+patch=1,EE,00276459,extended,00000014
+
+[Max Jumping]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jumping
+// Max Jumping
+patch=1,EE,0027645A,extended,00000014
+
+[Max Landing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Landing
+// Max Landing
+patch=1,EE,0027645B,extended,00000014
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276898,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,2027689C,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,202768A0,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,202768A4,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,202768A8,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,202768AC,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,202768B4,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,202768B8,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,202768BC,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,202768C0,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,202768C4,extended,FFFFFFFF
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,00276448,extended,00000014
+
+[Max Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Boost
+// Max Boost
+patch=1,EE,00276449,extended,00000014
+
+[Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Control
+// Max Control
+patch=1,EE,0027644A,extended,00000014
+
+[Max Jumping]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jumping
+// Max Jumping
+patch=1,EE,0027644B,extended,00000014
+
+[Max Landing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Landing
+// Max Landing
+patch=1,EE,0027644C,extended,00000014
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,202766DC,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,202766E0,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,202766E4,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,202766E8,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,202766EC,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,202766F0,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,202766F8,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,202766FC,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,20276700,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,20276704,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,20276708,extended,FFFFFFFF
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,00276434,extended,00000014
+
+[Max Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Boost
+// Max Boost
+patch=1,EE,00276435,extended,00000014
+
+[Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Control
+// Max Control
+patch=1,EE,00276436,extended,00000014
+
+[Max Jumping]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jumping
+// Max Jumping
+patch=1,EE,00276437,extended,00000014
+
+[Max Landing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Landing
+// Max Landing
+patch=1,EE,00276438,extended,00000014
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,2027648C,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276490,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276494,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,20276498,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,2027649C,extended,FFFFFFFF
+
+[Have All Tricks Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks Completed
+// Have All Tricks Completed
+patch=1,EE,202764A0,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,202764A8,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,202764AC,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,202764B0,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,202764B4,extended,FFFFFFFF
+
+[Have All Combos Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Combos Completed
+// Have All Combos Completed
+patch=1,EE,202764B8,extended,FFFFFFFF

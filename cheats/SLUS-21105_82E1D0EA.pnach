@@ -1,0 +1,193 @@
+gametitle=Tom Clancy's Ghost Recon 2 [SLUS-21105] [82E1D0EA]
+
+[P1 Press {L3}+{CROSS} To Become Visible Again]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3}+{CROSS} To Become Visible Again
+// P1 Press {L3}+{CROSS} To Become Visible Again
+patch=1,EE,90137B74,extended,0C04B1A4
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,20113B70,extended,24020001
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2037380C,extended,24020078
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20373810,extended,AE020714
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,10373816,extended,00001000
+
+[Infinite Health (Your Team)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Your Team)
+// Infinite Health (Your Team)
+patch=1,EE,203944CC,extended,8FA12B1C
+
+[Infinite Health (Your Team)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Your Team)
+// Infinite Health (Your Team)
+patch=1,EE,203944D0,extended,AC410714
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,2039A650,extended,904100CF
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,2039A654,extended,34210002
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,2039A658,extended,A04100CF
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,2039A65C,extended,00000000
+
+[Max Infinite Clip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Clip
+// Max Infinite Clip
+patch=1,EE,2039A70C,extended,24020063
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,2039A710,extended,00000000
+
+[Infinite Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Grenades
+// Infinite Grenades
+patch=1,EE,2015F6E8,extended,00000000
+
+[Max Infinite Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Grenades
+// Max Infinite Grenades
+patch=1,EE,2015F6E4,extended,24030063
+
+[Extra Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Grenades
+// Extra Grenades
+patch=1,EE,10156FE4,extended,00000001
+
+[Disable Map HUD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Map HUD
+// Disable Map HUD
+patch=1,EE,20391914,extended,00000000
+
+[Disable Ammo HUD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Ammo HUD
+// Disable Ammo HUD
+patch=1,EE,20392E74,extended,00000000
+
+[Disable Team Health HUD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Team Health HUD
+// Disable Team Health HUD
+patch=1,EE,103942FE,extended,00001000
+
+[Max Points To Buy Galleries/Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Points To Buy Galleries/Movies
+// Max Points To Buy Galleries/Movies
+patch=1,EE,200C0220,extended,24087530
+
+[Max Points To Buy Galleries/Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Points To Buy Galleries/Movies
+// Max Points To Buy Galleries/Movies
+patch=1,EE,200C0224,extended,A5A80320
+
+[Max Points To Buy Galleries/Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Points To Buy Galleries/Movies
+// Max Points To Buy Galleries/Movies
+patch=1,EE,200C0228,extended,0812B7DF
+
+[Max Points To Buy Galleries/Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Points To Buy Galleries/Movies
+// Max Points To Buy Galleries/Movies
+patch=1,EE,200C022C,extended,A5A80324
+
+[Max Points To Buy Galleries/Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Points To Buy Galleries/Movies
+// Max Points To Buy Galleries/Movies
+patch=1,EE,204ADF74,extended,08030088
+
+[All Gallery Items Cost 0 Pts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Gallery Items Cost 0 Pts
+// All Gallery Items Cost 0 Pts
+patch=1,EE,204A79CC,extended,24060000
+
+[All Gallery Items Cost 0 Pts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Gallery Items Cost 0 Pts
+// All Gallery Items Cost 0 Pts
+patch=1,EE,204A79E8,extended,AC4601E0
+
+[All Gallery Movies Cost 0 Pts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Gallery Movies Cost 0 Pts
+// All Gallery Movies Cost 0 Pts
+patch=1,EE,204A5724,extended,24060000
+
+[All Gallery Movies Cost 0 Pts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Gallery Movies Cost 0 Pts
+// All Gallery Movies Cost 0 Pts
+patch=1,EE,204A572C,extended,AC4602D0
+
+[Unlock All Gallery Items/Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Gallery Items/Movies
+// Unlock All Gallery Items/Movies
+patch=1,EE,204AE054,extended,2403FFFF
+
+[Unlock All Gallery Items/Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Gallery Items/Movies
+// Unlock All Gallery Items/Movies
+patch=1,EE,204AE058,extended,AD0301D0
+
+[Unlock All Gallery Items/Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Gallery Items/Movies
+// Unlock All Gallery Items/Movies
+patch=1,EE,204AE06C,extended,AC6001E0
+
+[Unlock All Gallery Items/Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Gallery Items/Movies
+// Unlock All Gallery Items/Movies
+patch=1,EE,204AE070,extended,00000000

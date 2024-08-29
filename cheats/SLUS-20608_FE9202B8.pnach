@@ -1,0 +1,67 @@
+gametitle=Mobile Light Force 2 [SLUS-20608] [FE9202B8]
+
+[Never Gain Wins P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Gain Wins P2
+// Never Gain Wins P2
+patch=1,EE,901D8204,extended,0C078945
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,20287424,extended,0000EA24
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,1031E03C,extended,00000003
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,1031E060,extended,0000FFFF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,2031E060,extended,05F5E0FF
+
+[Infinite Bombs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Bombs
+// Infinite Bombs
+patch=1,EE,1031E0A6,extended,00000005
+
+[Max Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Items
+// Max Items
+patch=1,EE,2031E0D8,extended,0001869F
+
+[Infinite Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Credits
+// Infinite Credits
+patch=1,EE,20285D1C,extended,00000009
+
+[Extra Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Credits
+// Extra Credits
+patch=1,EE,101397D0,extended,00000001
+
+[Instant Boss Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Boss Death
+// Instant Boss Death
+patch=1,EE,2018D2E8,extended,24040000
+
+[Instant Boss Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Boss Death
+// Instant Boss Death
+patch=1,EE,2018D2EC,extended,AC640014

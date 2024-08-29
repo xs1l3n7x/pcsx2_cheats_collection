@@ -1,0 +1,67 @@
+gametitle=World Rally Championship [SCES-50139] [B9373369]
+
+[No Showdowns Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Showdowns Won
+// No Showdowns Won
+patch=1,EE,901A1124,extended,0C0620CA
+
+[Upside Down Cameras]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Upside Down Cameras
+// Upside Down Cameras
+patch=1,EE,00B959DC,extended,00000001
+
+[Increased Acceleration And Top Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Increased Acceleration And Top Speed
+// Increased Acceleration And Top Speed
+patch=1,EE,00B959DD,extended,00000001
+
+[Speeded Up Codriver Calls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speeded Up Codriver Calls
+// Speeded Up Codriver Calls
+patch=1,EE,00B959DE,extended,00000001
+
+[Underwater Visual Effect]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Underwater Visual Effect
+// Underwater Visual Effect
+patch=1,EE,00B959DF,extended,00000001
+
+[Top Down Camera]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top Down Camera
+// Top Down Camera
+patch=1,EE,00B959E0,extended,00000001
+
+[Removed Car Shell]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Removed Car Shell
+// Removed Car Shell
+patch=1,EE,00B959E1,extended,00000001
+
+[Flying Car In Replay]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flying Car In Replay
+// Flying Car In Replay
+patch=1,EE,00B959E2,extended,00000001
+
+[Psychadelic Visual Effect]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Psychadelic Visual Effect
+// Psychadelic Visual Effect
+patch=1,EE,00B959E3,extended,00000001
+
+[All Bonus Stages Unlocked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Bonus Stages Unlocked
+// All Bonus Stages Unlocked
+patch=1,EE,00B959E4,extended,00000001
+
+[Everything Unlocked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Everything Unlocked
+// Everything Unlocked
+patch=1,EE,00B959E5,extended,00000001

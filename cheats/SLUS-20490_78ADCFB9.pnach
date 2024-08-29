@@ -1,0 +1,1321 @@
+gametitle=Gladius [SLUS-20490] [78ADCFB9]
+
+[P1 Press {L2}+{SELECT} To Start Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Start Timer
+// P1 Press {L2}+{SELECT} To Start Timer
+patch=1,EE,902AA9B4,extended,0C0ACA04
+
+[Infinite Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Gold
+// Infinite Gold
+patch=1,EE,105BC97C,extended,0000FFFF
+
+[Max Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Gold
+// Max Gold
+patch=1,EE,205BC97C,extended,05F5E0FF
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0220,extended,24020032
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0224,extended,52400001
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0228,extended,A4820102
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C022C,extended,03E00008
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0230,extended,84820102
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2018AAEC,extended,0C030088
+
+[1-Hit Death Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death Enemies
+// 1-Hit Death Enemies
+patch=1,EE,200C0240,extended,56400001
+
+[1-Hit Death Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death Enemies
+// 1-Hit Death Enemies
+patch=1,EE,200C0244,extended,A4800102
+
+[1-Hit Death Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death Enemies
+// 1-Hit Death Enemies
+patch=1,EE,200C0248,extended,03E00008
+
+[1-Hit Death Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death Enemies
+// 1-Hit Death Enemies
+patch=1,EE,200C024C,extended,00000000
+
+[1-Hit Death Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death Enemies
+// 1-Hit Death Enemies
+patch=1,EE,2018AB00,extended,0C030090
+
+[Infinite Offensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Offensive Affinity
+// Infinite Offensive Affinity
+patch=1,EE,201EC93C,extended,24010064
+
+[Infinite Offensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Offensive Affinity
+// Infinite Offensive Affinity
+patch=1,EE,101EC942,extended,00001000
+
+[Infinite Offensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Offensive Affinity
+// Infinite Offensive Affinity
+patch=1,EE,201EC944,extended,AC81010C
+
+[Infinite Defensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Defensive Affinity
+// Infinite Defensive Affinity
+patch=1,EE,201EC9CC,extended,24010064
+
+[Infinite Defensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Defensive Affinity
+// Infinite Defensive Affinity
+patch=1,EE,101EC9D2,extended,00001000
+
+[Infinite Defensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Defensive Affinity
+// Infinite Defensive Affinity
+patch=1,EE,201EC9D4,extended,AC810110
+
+[Infinite Job Points Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Job Points Usage
+// Infinite Job Points Usage
+patch=1,EE,20142014,extended,00000000
+
+[Extra Job Points Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Job Points Usage
+// Extra Job Points Usage
+patch=1,EE,20142010,extended,00641821
+
+[Max Days]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Days
+// Max Days
+patch=1,EE,20605884,extended,4A828480
+
+[Rogue 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 1
+// Rogue 1
+patch=1,EE,005BC9A0,extended,00000001
+
+[Rogue 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 2
+// Rogue 2
+patch=1,EE,005BC9A1,extended,00000001
+
+[Rogue 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 3
+// Rogue 3
+patch=1,EE,005BC9A2,extended,00000001
+
+[Rogue 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 4
+// Rogue 4
+patch=1,EE,005BC9A3,extended,00000001
+
+[Rogue 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 5
+// Rogue 5
+patch=1,EE,005BC9A4,extended,00000001
+
+[Rogue 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 6
+// Rogue 6
+patch=1,EE,005BC9A5,extended,00000001
+
+[Rogue 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 7
+// Rogue 7
+patch=1,EE,005BC9A6,extended,00000001
+
+[Rogue 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 8
+// Rogue 8
+patch=1,EE,005BC9A7,extended,00000001
+
+[Rogue 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 9
+// Rogue 9
+patch=1,EE,005BC9A8,extended,00000001
+
+[Rogue 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 10
+// Rogue 10
+patch=1,EE,005BC9A9,extended,00000001
+
+[Rogue 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 11
+// Rogue 11
+patch=1,EE,005BC9AA,extended,00000001
+
+[Rogue 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 12
+// Rogue 12
+patch=1,EE,005BC9BB,extended,00000001
+
+[Rogue 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 13
+// Rogue 13
+patch=1,EE,005BC9BE,extended,00000001
+
+[Rogue 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 14
+// Rogue 14
+patch=1,EE,005BC9C0,extended,00000001
+
+[Rogue 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 15
+// Rogue 15
+patch=1,EE,005BC9C1,extended,00000001
+
+[Rogue 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 16
+// Rogue 16
+patch=1,EE,005BC9C2,extended,00000001
+
+[Rogue 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 17
+// Rogue 17
+patch=1,EE,005BC9C3,extended,00000001
+
+[Rogue 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 18
+// Rogue 18
+patch=1,EE,005BC9C5,extended,00000001
+
+[Rogue 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 19
+// Rogue 19
+patch=1,EE,005BC9C6,extended,00000001
+
+[Rogue 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 20
+// Rogue 20
+patch=1,EE,005BC9C7,extended,00000001
+
+[Rogue 21]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 21
+// Rogue 21
+patch=1,EE,005BC9C8,extended,00000001
+
+[Rogue 22]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 22
+// Rogue 22
+patch=1,EE,005BC9C9,extended,00000001
+
+[Rogue 23]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 23
+// Rogue 23
+patch=1,EE,005BC9CA,extended,00000001
+
+[Rogue 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 24
+// Rogue 24
+patch=1,EE,005BC9CB,extended,00000001
+
+[Rogue 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 25
+// Rogue 25
+patch=1,EE,005BC9CC,extended,00000001
+
+[Rogue 26]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 26
+// Rogue 26
+patch=1,EE,005BC9CD,extended,00000001
+
+[Rogue 27]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 27
+// Rogue 27
+patch=1,EE,005BC9CE,extended,00000001
+
+[Rogue 28]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 28
+// Rogue 28
+patch=1,EE,005BC9CF,extended,00000001
+
+[Rogue 29]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 29
+// Rogue 29
+patch=1,EE,005BC9D0,extended,00000001
+
+[Rogue 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 30
+// Rogue 30
+patch=1,EE,005BC9D9,extended,00000001
+
+[Rogue 31]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 31
+// Rogue 31
+patch=1,EE,005BC9DA,extended,00000001
+
+[Rogue 32]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 32
+// Rogue 32
+patch=1,EE,005BC9DB,extended,00000001
+
+[Rogue 33]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 33
+// Rogue 33
+patch=1,EE,005BC9DC,extended,00000001
+
+[Rogue 34]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 34
+// Rogue 34
+patch=1,EE,005BC9DE,extended,00000001
+
+[Rogue 35]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 35
+// Rogue 35
+patch=1,EE,005BC9E0,extended,00000001
+
+[Rogue 36]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 36
+// Rogue 36
+patch=1,EE,005BC9E1,extended,00000001
+
+[Rogue 37]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 37
+// Rogue 37
+patch=1,EE,005BC9E3,extended,00000001
+
+[Rogue 38]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 38
+// Rogue 38
+patch=1,EE,005BC9E4,extended,00000001
+
+[Rogue 39]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 39
+// Rogue 39
+patch=1,EE,005BC9E7,extended,00000001
+
+[Rogue 40]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 40
+// Rogue 40
+patch=1,EE,005BC9E8,extended,00000001
+
+[Rogue 41]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 41
+// Rogue 41
+patch=1,EE,005BC9E9,extended,00000001
+
+[Rogue 42]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 42
+// Rogue 42
+patch=1,EE,005BC9EA,extended,00000001
+
+[Rogue 43]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 43
+// Rogue 43
+patch=1,EE,005BC9EB,extended,00000001
+
+[Rogue 44]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 44
+// Rogue 44
+patch=1,EE,005BC9F0,extended,00000001
+
+[Rogue 45]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 45
+// Rogue 45
+patch=1,EE,005BC9F2,extended,00000001
+
+[Rogue 46]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 46
+// Rogue 46
+patch=1,EE,005BC9F3,extended,00000001
+
+[Rogue 47]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 47
+// Rogue 47
+patch=1,EE,005BC9F8,extended,00000001
+
+[Rogue 48]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 48
+// Rogue 48
+patch=1,EE,005BC9F9,extended,00000001
+
+[Rogue 49]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 49
+// Rogue 49
+patch=1,EE,005BC9FA,extended,00000001
+
+[Rogue 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 50
+// Rogue 50
+patch=1,EE,005BC9FB,extended,00000001
+
+[Rogue 51]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 51
+// Rogue 51
+patch=1,EE,005BC9FC,extended,00000001
+
+[Rogue 52]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 52
+// Rogue 52
+patch=1,EE,005BC9FD,extended,00000001
+
+[Rogue 53]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 53
+// Rogue 53
+patch=1,EE,005BC9FE,extended,00000001
+
+[Rogue 54]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 54
+// Rogue 54
+patch=1,EE,005BC9FF,extended,00000001
+
+[Rogue 55]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 55
+// Rogue 55
+patch=1,EE,005BCA00,extended,00000001
+
+[Rogue 56]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 56
+// Rogue 56
+patch=1,EE,005BCA01,extended,00000001
+
+[Rogue 57]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 57
+// Rogue 57
+patch=1,EE,005BCA02,extended,00000001
+
+[Rogue 58]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 58
+// Rogue 58
+patch=1,EE,005BCA03,extended,00000001
+
+[Rogue 59]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 59
+// Rogue 59
+patch=1,EE,005BCA04,extended,00000001
+
+[Rogue 60]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 60
+// Rogue 60
+patch=1,EE,005BCA05,extended,00000001
+
+[Rogue 61]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 61
+// Rogue 61
+patch=1,EE,005BCA0A,extended,00000001
+
+[Rogue 62]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 62
+// Rogue 62
+patch=1,EE,005BCA0B,extended,00000001
+
+[Rogue 63]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 63
+// Rogue 63
+patch=1,EE,005BCA0C,extended,00000001
+
+[Rogue 64]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 64
+// Rogue 64
+patch=1,EE,005BCA0D,extended,00000001
+
+[Rogue 65]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 65
+// Rogue 65
+patch=1,EE,005BCA0E,extended,00000001
+
+[Rogue 66]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 66
+// Rogue 66
+patch=1,EE,005BCA0F,extended,00000001
+
+[Rogue 67]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 67
+// Rogue 67
+patch=1,EE,005BCA10,extended,00000001
+
+[Rogue 68]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 68
+// Rogue 68
+patch=1,EE,005BCA11,extended,00000001
+
+[Rogue 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 69
+// Rogue 69
+patch=1,EE,005BCA12,extended,00000001
+
+[Rogue 70]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 70
+// Rogue 70
+patch=1,EE,005BCA13,extended,00000001
+
+[Rogue 71]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 71
+// Rogue 71
+patch=1,EE,005BCA1D,extended,00000001
+
+[Rogue 72]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 72
+// Rogue 72
+patch=1,EE,005BCA1E,extended,00000001
+
+[Rogue 73]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rogue 73
+// Rogue 73
+patch=1,EE,005BCA1F,extended,00000001
+
+[All Rogues]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Rogues
+// All Rogues
+patch=1,EE,405BC9A0,extended,00200001
+
+[All Rogues]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Rogues
+// All Rogues
+patch=1,EE,01010101,extended,00000000
+
+[Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 1
+// Character 1
+patch=1,EE,10577300,extended,0000001E
+
+[Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 2
+// Character 2
+patch=1,EE,105773AC,extended,0000001E
+
+[Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 3
+// Character 3
+patch=1,EE,10577458,extended,0000001E
+
+[Character 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 4
+// Character 4
+patch=1,EE,10577504,extended,0000001E
+
+[Character 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 5
+// Character 5
+patch=1,EE,105775B0,extended,0000001E
+
+[Character 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 6
+// Character 6
+patch=1,EE,1057765C,extended,0000001E
+
+[Character 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 7
+// Character 7
+patch=1,EE,10577708,extended,0000001E
+
+[Character 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 8
+// Character 8
+patch=1,EE,105777B4,extended,0000001E
+
+[Character 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 9
+// Character 9
+patch=1,EE,10577860,extended,0000001E
+
+[Character 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 10
+// Character 10
+patch=1,EE,1057790C,extended,0000001E
+
+[Character 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 11
+// Character 11
+patch=1,EE,105779B8,extended,0000001E
+
+[Character 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 12
+// Character 12
+patch=1,EE,10577A64,extended,0000001E
+
+[Character 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 13
+// Character 13
+patch=1,EE,10577B10,extended,0000001E
+
+[Character 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 14
+// Character 14
+patch=1,EE,10577BBC,extended,0000001E
+
+[Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 1
+// Character 1
+patch=1,EE,10577302,extended,0000270F
+
+[Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 2
+// Character 2
+patch=1,EE,105773AE,extended,0000270F
+
+[Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 3
+// Character 3
+patch=1,EE,1057745A,extended,0000270F
+
+[Character 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 4
+// Character 4
+patch=1,EE,10577506,extended,0000270F
+
+[Character 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 5
+// Character 5
+patch=1,EE,105775B2,extended,0000270F
+
+[Character 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 6
+// Character 6
+patch=1,EE,1057765E,extended,0000270F
+
+[Character 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 7
+// Character 7
+patch=1,EE,1057770A,extended,0000270F
+
+[Character 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 8
+// Character 8
+patch=1,EE,105777B6,extended,0000270F
+
+[Character 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 9
+// Character 9
+patch=1,EE,10577862,extended,0000270F
+
+[Character 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 10
+// Character 10
+patch=1,EE,1057790E,extended,0000270F
+
+[Character 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 11
+// Character 11
+patch=1,EE,105779BA,extended,0000270F
+
+[Character 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 12
+// Character 12
+patch=1,EE,10577A66,extended,0000270F
+
+[Character 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 13
+// Character 13
+patch=1,EE,10577B12,extended,0000270F
+
+[Character 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 14
+// Character 14
+patch=1,EE,10577BBE,extended,0000270F
+
+[Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 1
+// Character 1
+patch=1,EE,10577304,extended,0000FFFF
+
+[Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 2
+// Character 2
+patch=1,EE,105773B0,extended,0000FFFF
+
+[Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 3
+// Character 3
+patch=1,EE,1057745C,extended,0000FFFF
+
+[Character 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 4
+// Character 4
+patch=1,EE,10577508,extended,0000FFFF
+
+[Character 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 5
+// Character 5
+patch=1,EE,105775B4,extended,0000FFFF
+
+[Character 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 6
+// Character 6
+patch=1,EE,10577660,extended,0000FFFF
+
+[Character 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 7
+// Character 7
+patch=1,EE,1057770C,extended,0000FFFF
+
+[Character 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 8
+// Character 8
+patch=1,EE,105777B8,extended,0000FFFF
+
+[Character 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 9
+// Character 9
+patch=1,EE,10577864,extended,0000FFFF
+
+[Character 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 10
+// Character 10
+patch=1,EE,10577910,extended,0000FFFF
+
+[Character 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 11
+// Character 11
+patch=1,EE,105779BC,extended,0000FFFF
+
+[Character 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 12
+// Character 12
+patch=1,EE,10577A68,extended,0000FFFF
+
+[Character 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 13
+// Character 13
+patch=1,EE,10577B14,extended,0000FFFF
+
+[Character 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 14
+// Character 14
+patch=1,EE,10577BC0,extended,0000FFFF
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,D0761C10,extended,00000000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,10761C36,extended,00000032
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,D0761C10,extended,00000000
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,00761C39,extended,00000032
+
+[Max Sub-Attack?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Sub-Attack?
+// Max Sub-Attack?
+patch=1,EE,D0761C10,extended,00000000
+
+[Max Sub-Attack?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Sub-Attack?
+// Max Sub-Attack?
+patch=1,EE,00761C3D,extended,00000064
+
+[Infinite Offensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Offensive Affinity
+// Infinite Offensive Affinity
+patch=1,EE,D0761C10,extended,00000000
+
+[Infinite Offensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Offensive Affinity
+// Infinite Offensive Affinity
+patch=1,EE,20761C40,extended,00000064
+
+[Infinite Defensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Defensive Affinity
+// Infinite Defensive Affinity
+patch=1,EE,D0761C10,extended,00000000
+
+[Infinite Defensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Defensive Affinity
+// Infinite Defensive Affinity
+patch=1,EE,20761C44,extended,00000064
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,D0762094,extended,00000000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,107620BA,extended,00000032
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,D0762094,extended,00000000
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,007620BD,extended,00000032
+
+[Max Sub-Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Sub-Attack
+// Max Sub-Attack
+patch=1,EE,D0762094,extended,00000000
+
+[Max Sub-Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Sub-Attack
+// Max Sub-Attack
+patch=1,EE,007620C1,extended,00000064
+
+[Infinite Offensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Offensive Affinity
+// Infinite Offensive Affinity
+patch=1,EE,D0762094,extended,00000000
+
+[Infinite Offensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Offensive Affinity
+// Infinite Offensive Affinity
+patch=1,EE,207620C4,extended,00000064
+
+[Infinite Defensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Defensive Affinity
+// Infinite Defensive Affinity
+patch=1,EE,D0762094,extended,00000000
+
+[Infinite Defensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Defensive Affinity
+// Infinite Defensive Affinity
+patch=1,EE,207620C8,extended,00000064
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,D0762518,extended,00000000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,1076253E,extended,00000032
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,D0762518,extended,00000000
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,00762541,extended,00000032
+
+[Max Sub-Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Sub-Attack
+// Max Sub-Attack
+patch=1,EE,D0762518,extended,00000000
+
+[Max Sub-Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Sub-Attack
+// Max Sub-Attack
+patch=1,EE,00762545,extended,00000064
+
+[Infinite Offensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Offensive Affinity
+// Infinite Offensive Affinity
+patch=1,EE,D0762518,extended,00000000
+
+[Infinite Offensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Offensive Affinity
+// Infinite Offensive Affinity
+patch=1,EE,20762548,extended,00000064
+
+[Infinite Defensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Defensive Affinity
+// Infinite Defensive Affinity
+patch=1,EE,D0762518,extended,00000000
+
+[Infinite Defensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Defensive Affinity
+// Infinite Defensive Affinity
+patch=1,EE,2076254C,extended,00000064
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,D076299C,extended,00000000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,107629C2,extended,00000032
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,D076299C,extended,00000000
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,007629C5,extended,00000032
+
+[Max Sub-Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Sub-Attack
+// Max Sub-Attack
+patch=1,EE,D076299C,extended,00000000
+
+[Max Sub-Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Sub-Attack
+// Max Sub-Attack
+patch=1,EE,007629C9,extended,00000064
+
+[Infinite Offensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Offensive Affinity
+// Infinite Offensive Affinity
+patch=1,EE,D076299C,extended,00000000
+
+[Infinite Offensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Offensive Affinity
+// Infinite Offensive Affinity
+patch=1,EE,207629CC,extended,00000064
+
+[Infinite Defensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Defensive Affinity
+// Infinite Defensive Affinity
+patch=1,EE,D076299C,extended,00000000
+
+[Infinite Defensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Defensive Affinity
+// Infinite Defensive Affinity
+patch=1,EE,207629D0,extended,00000064
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,D0762E20,extended,00000000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,10762E46,extended,00000032
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,D0762E20,extended,00000000
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,00762E49,extended,00000032
+
+[Max Sub-Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Sub-Attack
+// Max Sub-Attack
+patch=1,EE,D0762E20,extended,00000000
+
+[Max Sub-Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Sub-Attack
+// Max Sub-Attack
+patch=1,EE,00762E4D,extended,00000064
+
+[Infinite Offensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Offensive Affinity
+// Infinite Offensive Affinity
+patch=1,EE,D0762E20,extended,00000000
+
+[Infinite Offensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Offensive Affinity
+// Infinite Offensive Affinity
+patch=1,EE,20762E50,extended,00000064
+
+[Infinite Defensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Defensive Affinity
+// Infinite Defensive Affinity
+patch=1,EE,D0762E20,extended,00000000
+
+[Infinite Defensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Defensive Affinity
+// Infinite Defensive Affinity
+patch=1,EE,20762E54,extended,00000064
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,D07632A4,extended,00000000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,107632CA,extended,00000032
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,D07632A4,extended,00000000
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,007632CD,extended,00000032
+
+[Max Sub-Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Sub-Attack
+// Max Sub-Attack
+patch=1,EE,D07632A4,extended,00000000
+
+[Max Sub-Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Sub-Attack
+// Max Sub-Attack
+patch=1,EE,007632D1,extended,00000064
+
+[Infinite Offensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Offensive Affinity
+// Infinite Offensive Affinity
+patch=1,EE,D07632A4,extended,00000000
+
+[Infinite Offensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Offensive Affinity
+// Infinite Offensive Affinity
+patch=1,EE,207632D4,extended,00000064
+
+[Infinite Defensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Defensive Affinity
+// Infinite Defensive Affinity
+patch=1,EE,D07632A4,extended,00000000
+
+[Infinite Defensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Defensive Affinity
+// Infinite Defensive Affinity
+patch=1,EE,207632D8,extended,00000064
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,D0763728,extended,00000000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,1076374E,extended,00000032
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,D0763728,extended,00000000
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,00763751,extended,00000032
+
+[Max Sub-Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Sub-Attack
+// Max Sub-Attack
+patch=1,EE,D0763728,extended,00000000
+
+[Max Sub-Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Sub-Attack
+// Max Sub-Attack
+patch=1,EE,00763755,extended,00000064
+
+[Infinite Offensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Offensive Affinity
+// Infinite Offensive Affinity
+patch=1,EE,D0763728,extended,00000000
+
+[Infinite Offensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Offensive Affinity
+// Infinite Offensive Affinity
+patch=1,EE,20763758,extended,00000064
+
+[Infinite Defensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Defensive Affinity
+// Infinite Defensive Affinity
+patch=1,EE,D0763728,extended,00000000
+
+[Infinite Defensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Defensive Affinity
+// Infinite Defensive Affinity
+patch=1,EE,2076375C,extended,00000064
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,D0763BAC,extended,00000000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,10763BD2,extended,00000032
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,D0763BAC,extended,00000000
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,00763BD5,extended,00000032
+
+[Max Sub-Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Sub-Attack
+// Max Sub-Attack
+patch=1,EE,D0763BAC,extended,00000000
+
+[Max Sub-Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Sub-Attack
+// Max Sub-Attack
+patch=1,EE,00763BD9,extended,00000064
+
+[Infinite Offensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Offensive Affinity
+// Infinite Offensive Affinity
+patch=1,EE,D0763BAC,extended,00000000
+
+[Infinite Offensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Offensive Affinity
+// Infinite Offensive Affinity
+patch=1,EE,20763BDC,extended,00000064
+
+[Infinite Defensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Defensive Affinity
+// Infinite Defensive Affinity
+patch=1,EE,D0763BAC,extended,00000000
+
+[Infinite Defensive Affinity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Defensive Affinity
+// Infinite Defensive Affinity
+patch=1,EE,20763BE0,extended,00000064

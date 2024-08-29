@@ -1,0 +1,265 @@
+gametitle=Dark Cloud [SCUS-97111] [A5C05C78]
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,9011FB3C,extended,0C040CEC
+
+[Max Fish Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fish Points
+// Max Fish Points
+patch=1,EE,11CD431C,extended,0000270F
+
+[Infinite Gilda]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Gilda
+// Infinite Gilda
+patch=1,EE,11CDD892,extended,0000FFFF
+
+[Max HP (All Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP (All Characters)
+// Max HP (All Characters)
+patch=1,EE,11CD9552,extended,000000C8
+
+[Max HP (All Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP (All Characters)
+// Max HP (All Characters)
+patch=1,EE,21CD9554,extended,00C800C8
+
+[Max HP (All Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP (All Characters)
+// Max HP (All Characters)
+patch=1,EE,21CD9558,extended,00C800C8
+
+[Max HP (All Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP (All Characters)
+// Max HP (All Characters)
+patch=1,EE,11CD955C,extended,000000C8
+
+[Infinite HP (All Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP (All Characters)
+// Infinite HP (All Characters)
+patch=1,EE,11CD955E,extended,000000C8
+
+[Infinite HP (All Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP (All Characters)
+// Infinite HP (All Characters)
+patch=1,EE,21CD9560,extended,00C800C8
+
+[Infinite HP (All Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP (All Characters)
+// Infinite HP (All Characters)
+patch=1,EE,21CD9564,extended,00C800C8
+
+[Infinite HP (All Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP (All Characters)
+// Infinite HP (All Characters)
+patch=1,EE,11CD9568,extended,000000C8
+
+[Slot 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1
+// Slot 1
+patch=1,EE,11CDD8B4,extended,00000009
+
+[Slot 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2
+// Slot 2
+patch=1,EE,11CDD8B6,extended,00000009
+
+[Slot 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3
+// Slot 3
+patch=1,EE,11CDD8B8,extended,00000009
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11CD9552,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11CD955E,extended,000000FF
+
+[Max Water]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Water
+// Max Water
+patch=1,EE,21CDD838,extended,42C80000
+
+[Infinite Water]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Water
+// Infinite Water
+patch=1,EE,21CDD850,extended,42C80000
+
+[Max Defense Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense Power
+// Max Defense Power
+patch=1,EE,11CDD894,extended,00000063
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11CD9554,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11CD9560,extended,000000FF
+
+[Max Water]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Water
+// Max Water
+patch=1,EE,21CDD83C,extended,42C80000
+
+[Infinite Water]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Water
+// Infinite Water
+patch=1,EE,21CDD854,extended,42C80000
+
+[Max Defense Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense Power
+// Max Defense Power
+patch=1,EE,11CDE33C,extended,00000063
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11CD9556,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11CD9562,extended,000000FF
+
+[Max Water]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Water
+// Max Water
+patch=1,EE,21CDD840,extended,42C80000
+
+[Infinite Water]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Water
+// Infinite Water
+patch=1,EE,21CDD858,extended,42C80000
+
+[Max Defense Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense Power
+// Max Defense Power
+patch=1,EE,11CDEDE4,extended,00000063
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11CD9558,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11CD9564,extended,000000FF
+
+[Max Water]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Water
+// Max Water
+patch=1,EE,21CDD844,extended,42C80000
+
+[Infinite Water]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Water
+// Infinite Water
+patch=1,EE,21CDD85C,extended,42C80000
+
+[Max Defense Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense Power
+// Max Defense Power
+patch=1,EE,11CDF88C,extended,00000063
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11CD955A,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11CD9566,extended,000000FF
+
+[Max Water]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Water
+// Max Water
+patch=1,EE,21CE02D8,extended,42C80000
+
+[Max Water]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Water
+// Max Water
+patch=1,EE,21CDD848,extended,42C80000
+
+[Infinite Water]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Water
+// Infinite Water
+patch=1,EE,21CDD860,extended,42C80000
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11CD955C,extended,000000FF
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11CD9568,extended,000000FF
+
+[Max Water]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Water
+// Max Water
+patch=1,EE,21CDD84C,extended,42C80000
+
+[Infinite Water]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Water
+// Infinite Water
+patch=1,EE,21CDD864,extended,42C80000
+
+[Max Defense Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense Power
+// Max Defense Power
+patch=1,EE,11CE0DDC,extended,00000063

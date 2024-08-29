@@ -1,0 +1,85 @@
+gametitle=Warship Gunner 2 [SLUS-21387] [701965CE]
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,902754F8,extended,00832021
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,201223AC,extended,8DEE0038
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,201223B0,extended,ADEE0034
+
+[Infinite Ammo (All Weapons)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo (All Weapons)
+// Infinite Ammo (All Weapons)
+patch=1,EE,2015C8A4,extended,00000000
+
+[Infinite Repairs Remaining]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Repairs Remaining
+// Infinite Repairs Remaining
+patch=1,EE,002AFC7E,extended,00000063
+
+[Weapon 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weapon 1
+// Weapon 1
+patch=1,EE,202C381C,extended,0001869F
+
+[Weapon 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weapon 2
+// Weapon 2
+patch=1,EE,202C3820,extended,0001869F
+
+[Weapon 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weapon 3
+// Weapon 3
+patch=1,EE,202C3824,extended,0001869F
+
+[Weapon 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weapon 4
+// Weapon 4
+patch=1,EE,202C3828,extended,0001869F
+
+[Weapon 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weapon 5
+// Weapon 5
+patch=1,EE,202C382C,extended,0001869F
+
+[Weapon 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weapon 6
+// Weapon 6
+patch=1,EE,202C3830,extended,0001869F
+
+[Weapon 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weapon 7
+// Weapon 7
+patch=1,EE,202C3834,extended,0001869F
+
+[All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Weapons
+// All Weapons
+patch=1,EE,402C381C,extended,00070001
+
+[All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Weapons
+// All Weapons
+patch=1,EE,0001869F,extended,00000000

@@ -1,0 +1,103 @@
+gametitle=God Hand [SLUS-21503] [6FB69282]
+
+[Disable Fog Of War]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Fog Of War
+// Disable Fog Of War
+patch=1,EE,90397D48,extended,00832021
+
+[Infinite Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Life
+// Infinite Life
+patch=1,EE,202C3554,extended,84410548
+
+[Infinite Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Life
+// Infinite Life
+patch=1,EE,202C355C,extended,A441054A
+
+[Max Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Gold
+// Max Gold
+patch=1,EE,205686F0,extended,000F423F
+
+[Max Lv 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Lv 1
+// Max Lv 1
+patch=1,EE,1056875C,extended,0000270F
+
+[Max Lv 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Lv 2
+// Max Lv 2
+patch=1,EE,1056875E,extended,0000270F
+
+[Max Lv 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Lv 3
+// Max Lv 3
+patch=1,EE,10568760,extended,0000270F
+
+[Max Lv 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Lv 4
+// Max Lv 4
+patch=1,EE,10568764,extended,0000270F
+
+[Infinite Roulette Orbs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Roulette Orbs
+// Infinite Roulette Orbs
+patch=1,EE,20568778,extended,01010101
+
+[Have All Roulette]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Roulette
+// Have All Roulette
+patch=1,EE,20568800,extended,FFFFFFFF
+
+[Max Tension Gauge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tension Gauge
+// Max Tension Gauge
+patch=1,EE,205CB000,extended,43480000
+
+[Infinite Tension Gauge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Tension Gauge
+// Infinite Tension Gauge
+patch=1,EE,205CB004,extended,43480000
+
+[Always Max Difficulty Level Mete]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Difficulty Level Mete
+// Always Max Difficulty Level Mete
+patch=1,EE,105686EC,extended,00001400
+
+[Always Low Difficulty Level Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Difficulty Level Meter
+// Always Low Difficulty Level Meter
+patch=1,EE,105686EC,extended,00000000
+
+[Always Low Play Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Play Time
+// Always Low Play Time
+patch=1,EE,2061A990,extended,00000000
+
+[Have All Techniques]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Techniques
+// Have All Techniques
+patch=1,EE,202C912C,extended,34420007
+
+[Have All Techniques]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Techniques
+// Have All Techniques
+patch=1,EE,202C9130,extended,AC62000C

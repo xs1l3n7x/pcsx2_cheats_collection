@@ -1,0 +1,265 @@
+gametitle=Cabela's Big Game Hunter 2005 Adventures [SLUS-21021] [DF6BC54F]
+
+[Unlock All Maps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Maps
+// Unlock All Maps
+patch=1,EE,9012B0BC,extended,0C0411AA
+
+[Infinite Stamina]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Stamina
+// Infinite Stamina
+patch=1,EE,206A3D3C,extended,3F800000
+
+[Infinite Health-Head]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health-Head
+// Infinite Health-Head
+patch=1,EE,206A3D50,extended,3F800000
+
+[Infinite Health-Right Arm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health-Right Arm
+// Infinite Health-Right Arm
+patch=1,EE,206A3D54,extended,3F800000
+
+[Infinite Health-Left Arm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health-Left Arm
+// Infinite Health-Left Arm
+patch=1,EE,206A3D58,extended,3F800000
+
+[Infinite Health-Right Leg]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health-Right Leg
+// Infinite Health-Right Leg
+patch=1,EE,206A3D5C,extended,3F800000
+
+[Infinite Health-Left Leg]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health-Left Leg
+// Infinite Health-Left Leg
+patch=1,EE,206A3D60,extended,3F800000
+
+[Infinite Stealth]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Stealth
+// Infinite Stealth
+patch=1,EE,206A3D7C,extended,3F800000
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,20498D38,extended,00000000
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,106A3D08,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,206A3D08,extended,05F5E0FF
+
+[Buying Items Doesnt Decrease Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Items Doesnt Decrease Money
+// Buying Items Doesnt Decrease Money
+patch=1,EE,203C2FB0,extended,00000000
+
+[Buying Items Increases Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Items Increases Money
+// Buying Items Increases Money
+patch=1,EE,203C2FAC,extended,00701821
+
+[Infinite Creation Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Creation Points
+// Infinite Creation Points
+patch=1,EE,206A3D80,extended,3F800000
+
+[Disable HUD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable HUD
+// Disable HUD
+patch=1,EE,2052F3F0,extended,00000000
+
+[God Mode On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=God Mode On
+// God Mode On
+patch=1,EE,205AF068,extended,00000001
+
+[P1 Press {L1}+{SELECT} To Activate No Clipping Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Activate No Clipping Mode
+// P1 Press {L1}+{SELECT} To Activate No Clipping Mode
+patch=1,EE,D05AAEC2,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Activate No Clipping Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Activate No Clipping Mode
+// P1 Press {L1}+{SELECT} To Activate No Clipping Mode
+patch=1,EE,205AF060,extended,00000001
+
+[P1 Press {L2}+{SELECT} To Deactivate No Clipping Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Deactivate No Clipping Mode
+// P1 Press {L2}+{SELECT} To Deactivate No Clipping Mode
+patch=1,EE,D05AAEC2,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Deactivate No Clipping Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Deactivate No Clipping Mode
+// P1 Press {L2}+{SELECT} To Deactivate No Clipping Mode
+patch=1,EE,205AF060,extended,00000000
+
+[Disable AI Think]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable AI Think
+// Disable AI Think
+patch=1,EE,205AD590,extended,00000001
+
+[Disable AI Actions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable AI Actions
+// Disable AI Actions
+patch=1,EE,205AD598,extended,00000001
+
+[Access All Subregions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Subregions
+// Access All Subregions
+patch=1,EE,206A3F2C,extended,00000001
+
+[Unlock All Subregions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Subregions
+// Unlock All Subregions
+patch=1,EE,206A3D00,extended,00000011
+
+[Vibration Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vibration Always Off
+// Vibration Always Off
+patch=1,EE,205C9868,extended,00000000
+
+[Vibration Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vibration Always On
+// Vibration Always On
+patch=1,EE,205C9868,extended,00000001
+
+[Trophy Beacon Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trophy Beacon Always Off
+// Trophy Beacon Always Off
+patch=1,EE,205C986C,extended,00000000
+
+[Trophy Beacon Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trophy Beacon Always On
+// Trophy Beacon Always On
+patch=1,EE,205C986C,extended,00000001
+
+[Auto Claim Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Auto Claim Always Off
+// Auto Claim Always Off
+patch=1,EE,205C9870,extended,00000000
+
+[Auto Claim Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Auto Claim Always On
+// Auto Claim Always On
+patch=1,EE,205C9870,extended,00000001
+
+[Show HUD Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show HUD Always Off
+// Show HUD Always Off
+patch=1,EE,205C9874,extended,00000000
+
+[Show HUD Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show HUD Always On
+// Show HUD Always On
+patch=1,EE,205C9874,extended,00000001
+
+[Bullet Camera Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bullet Camera Always Off
+// Bullet Camera Always Off
+patch=1,EE,205C9878,extended,00000000
+
+[Bullet Camera Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bullet Camera Always On
+// Bullet Camera Always On
+patch=1,EE,205C9878,extended,00000001
+
+[Animal Info Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Animal Info Always Off
+// Animal Info Always Off
+patch=1,EE,205C987C,extended,00000000
+
+[Animal Info Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Animal Info Always On
+// Animal Info Always On
+patch=1,EE,205C987C,extended,00000001
+
+[Max Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shots Fired
+// Max Shots Fired
+patch=1,EE,206A3E3C,extended,05F5E0FF
+
+[Always Low Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Shots Fired
+// Always Low Shots Fired
+patch=1,EE,206A3E3C,extended,00000001
+
+[Always No Shots Fired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always No Shots Fired
+// Always No Shots Fired
+patch=1,EE,206A3E3C,extended,00000000
+
+[Max Hit Percentage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Hit Percentage
+// Max Hit Percentage
+patch=1,EE,206A3E40,extended,00000064
+
+[Max Clean Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Clean Shots
+// Max Clean Shots
+patch=1,EE,206A3E44,extended,05F5E0FF
+
+[Always Low Clean Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Clean Shots
+// Always Low Clean Shots
+patch=1,EE,206A3E44,extended,00000001
+
+[Always No Clean Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always No Clean Shots
+// Always No Clean Shots
+patch=1,EE,206A3E44,extended,00000000
+
+[Max Longest Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Longest Shot
+// Max Longest Shot
+patch=1,EE,206A3E4C,extended,461C3C00

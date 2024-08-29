@@ -1,0 +1,199 @@
+gametitle=Under The Skin [SLES-52719] [823CDB0D]
+
+[All Costumes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Costumes
+// All Costumes
+patch=1,EE,901AF7C0,extended,0C071052
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,2088B7B8,extended,FFFFFFFF
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,2088B7BC,extended,FFFFFFFF
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,2017AEF0,extended,00000000
+
+[P1 Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Timer
+// P1 Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,D091E502,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Timer
+// P1 Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,2017AEF0,extended,00000000
+
+[P1 Press {L2}+{SELECT} To Restart Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Timer
+// P1 Press {L2}+{SELECT} To Restart Timer
+patch=1,EE,D091E502,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Restart Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Timer
+// P1 Press {L2}+{SELECT} To Restart Timer
+patch=1,EE,2017AEF0,extended,ACC50748
+
+[P2 Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} To Stop Timer
+// P2 Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,D091E602,extended,0000FBFE
+
+[P2 Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} To Stop Timer
+// P2 Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,2017AEF0,extended,00000000
+
+[P2 Press {L2}+{SELECT} To Restart Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L2}+{SELECT} To Restart Timer
+// P2 Press {L2}+{SELECT} To Restart Timer
+patch=1,EE,D091E602,extended,0000FEFE
+
+[P2 Press {L2}+{SELECT} To Restart Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L2}+{SELECT} To Restart Timer
+// P2 Press {L2}+{SELECT} To Restart Timer
+patch=1,EE,2017AEF0,extended,ACC50748
+
+[Max Coins P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Coins P1
+// Max Coins P1
+patch=1,EE,20888484,extended,0000270F
+
+[No Coins P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Coins P1
+// No Coins P1
+patch=1,EE,20888484,extended,00000000
+
+[P1 Press {R1}+{SELECT} For Max Coins P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} For Max Coins P1
+// P1 Press {R1}+{SELECT} For Max Coins P1
+patch=1,EE,D091E502,extended,0000F7FE
+
+[P1 Press {R1}+{SELECT} For Max Coins P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} For Max Coins P1
+// P1 Press {R1}+{SELECT} For Max Coins P1
+patch=1,EE,20888484,extended,0000270F
+
+[P1 Press {R2}+{SELECT} For No Coins P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+{SELECT} For No Coins P2
+// P1 Press {R2}+{SELECT} For No Coins P2
+patch=1,EE,D091E502,extended,0000FDFE
+
+[P1 Press {R2}+{SELECT} For No Coins P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+{SELECT} For No Coins P2
+// P1 Press {R2}+{SELECT} For No Coins P2
+patch=1,EE,2088B004,extended,00000000
+
+[Max Coins P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Coins P2
+// Max Coins P2
+patch=1,EE,2088B004,extended,0000270F
+
+[No Coins P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Coins P2
+// No Coins P2
+patch=1,EE,2088B004,extended,00000000
+
+[P2 Press {R1}+{SELECT} For Max Coins P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {R1}+{SELECT} For Max Coins P2
+// P2 Press {R1}+{SELECT} For Max Coins P2
+patch=1,EE,D091E602,extended,0000F7FE
+
+[P2 Press {R1}+{SELECT} For Max Coins P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {R1}+{SELECT} For Max Coins P2
+// P2 Press {R1}+{SELECT} For Max Coins P2
+patch=1,EE,2088B004,extended,0000270F
+
+[P2 Press {R2}+{SELECT} For No Coins P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {R2}+{SELECT} For No Coins P1
+// P2 Press {R2}+{SELECT} For No Coins P1
+patch=1,EE,D091E602,extended,0000FDFE
+
+[P2 Press {R2}+{SELECT} For No Coins P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {R2}+{SELECT} For No Coins P1
+// P2 Press {R2}+{SELECT} For No Coins P1
+patch=1,EE,20888484,extended,00000000
+
+[Coco Town]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coco Town
+// Coco Town
+patch=1,EE,7088B222,extended,00000001
+
+[Pharoah Island]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pharoah Island
+// Pharoah Island
+patch=1,EE,7088B222,extended,00000002
+
+[Raccoon City]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Raccoon City
+// Raccoon City
+patch=1,EE,7088B222,extended,00000004
+
+[Frontiersville]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Frontiersville
+// Frontiersville
+patch=1,EE,7088B222,extended,00000008
+
+[Big Booty Bay]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Booty Bay
+// Big Booty Bay
+patch=1,EE,7088B222,extended,00000010
+
+[Pranksylvania]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pranksylvania
+// Pranksylvania
+patch=1,EE,7088B222,extended,00000020
+
+[Cosmopolis]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cosmopolis
+// Cosmopolis
+patch=1,EE,7088B222,extended,00000040
+
+[High Stakes Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=High Stakes Hills
+// High Stakes Hills
+patch=1,EE,7088B222,extended,00000080
+
+[All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Levels
+// All Levels
+patch=1,EE,7088B222,extended,000000FF

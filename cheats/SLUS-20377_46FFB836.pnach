@@ -1,0 +1,55 @@
+gametitle=Metropolismania [SLUS-20377] [46FFB836]
+
+[Super Bullet Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Bullet Gun
+// Super Bullet Gun
+patch=1,EE,F0100008,extended,0011C31F
+
+[Quick Money Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Money Gain
+// Quick Money Gain
+patch=1,EE,101C5540,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,201C5540,extended,05F5E0FF
+
+[Quick Salary Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Salary Gain
+// Quick Salary Gain
+patch=1,EE,101C5540,extended,0000FFFF
+
+[Max Salary]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Salary
+// Max Salary
+patch=1,EE,201C5544,extended,05F5E0FF
+
+[Only Need Town With 1 Person To Reach Target]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only Need Town With 1 Person To Reach Target
+// Only Need Town With 1 Person To Reach Target
+patch=1,EE,D01C554C,extended,00300001
+
+[Only Need Town With 1 Person To Reach Target]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only Need Town With 1 Person To Reach Target
+// Only Need Town With 1 Person To Reach Target
+patch=1,EE,101C554C,extended,00000001
+
+[Max 100% Approval Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max 100% Approval Rating
+// Max 100% Approval Rating
+patch=1,EE,1074A11C,extended,00000064
+
+[Max 120% Approval Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max 120% Approval Rating
+// Max 120% Approval Rating
+patch=1,EE,1074A11C,extended,00000078

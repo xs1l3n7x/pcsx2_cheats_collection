@@ -1,0 +1,31 @@
+gametitle=Mortal Kombat - Shaolin Monks [UNKNOWN] [44A61C8F]
+
+[Always 1 Lap]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Always 1 Lap
+// Always 1 Lap
+patch=1,EE,200FFF88,extended,8C830000
+
+[Always 1 Lap]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Always 1 Lap
+// Always 1 Lap
+patch=1,EE,200FFF8C,extended,24050001
+
+[Always 1 Lap]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Always 1 Lap
+// Always 1 Lap
+patch=1,EE,200FFF90,extended,AC650000
+
+[Always 1 Lap]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Always 1 Lap
+// Always 1 Lap
+patch=1,EE,2039B838,extended,0803FFE0
+
+[Always 1 Lap]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Always 1 Lap
+// Always 1 Lap
+patch=1,EE,200FFF94,extended,080E6E10

@@ -1,0 +1,79 @@
+gametitle=Shrek Smash N' Crash Racing [SLUS-21392] [34B473E6]
+
+[All Upgrades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Upgrades
+// All Upgrades
+patch=1,EE,901B1938,extended,00832021
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,20145850,extended,AE4008AC
+
+[Infinite Pixie Dust]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Pixie Dust
+// Infinite Pixie Dust
+patch=1,EE,2014F1E8,extended,00000000
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,104BE5C4,extended,0000FFFF
+
+[Puss In Boots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Puss In Boots
+// Puss In Boots
+patch=1,EE,704BE5C4,extended,00000004
+
+[Prince Charming]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Prince Charming
+// Prince Charming
+patch=1,EE,704BE5C4,extended,00000008
+
+[Humpty Dumpty]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Humpty Dumpty
+// Humpty Dumpty
+patch=1,EE,704BE5C4,extended,00000010
+
+[Red Riding Hood]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Riding Hood
+// Red Riding Hood
+patch=1,EE,704BE5C4,extended,00000020
+
+[Pinocchio]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pinocchio
+// Pinocchio
+patch=1,EE,704BE5C4,extended,00000040
+
+[Three Little Pigs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Three Little Pigs
+// Three Little Pigs
+patch=1,EE,704BE5C4,extended,00000080
+
+[Goldilocks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goldilocks
+// Goldilocks
+patch=1,EE,704BE5C5,extended,00000001
+
+[Thelonious]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thelonious
+// Thelonious
+patch=1,EE,704BE5C5,extended,00000002
+
+[All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Characters
+// All Characters
+patch=1,EE,704BE5C4,extended,001003FC

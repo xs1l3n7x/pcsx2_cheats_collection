@@ -1,0 +1,79 @@
+gametitle=Rez [SLUS-20344] [A33748AA]
+
+[Start With Patch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With Patch
+// Start With Patch
+patch=1,EE,F0100008,extended,001E0457
+
+[Always Form 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Form 1
+// Always Form 1
+patch=1,EE,102F9630,extended,00000000
+
+[Always Form 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Form 2
+// Always Form 2
+patch=1,EE,102F9630,extended,00000001
+
+[Always Form 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Form 3
+// Always Form 3
+patch=1,EE,102F9630,extended,00000002
+
+[Always Form 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Form 4
+// Always Form 4
+patch=1,EE,102F9630,extended,00000003
+
+[Always Form 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Form 5
+// Always Form 5
+patch=1,EE,102F9630,extended,00000004
+
+[Always Form 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Form 6
+// Always Form 6
+patch=1,EE,102F9630,extended,00000005
+
+[Always Form 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Form 7
+// Always Form 7
+patch=1,EE,102F9630,extended,00000006
+
+[Always Form 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Form 8
+// Always Form 8
+patch=1,EE,102F9630,extended,00000007
+
+[Quick Form Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Form Gain
+// Quick Form Gain
+patch=1,EE,102F967C,extended,00000008
+
+[Infinite Overdrive]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Overdrive
+// Infinite Overdrive
+patch=1,EE,102F9680,extended,00000004
+
+[Max Analyzation]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Analyzation
+// Max Analyzation
+patch=1,EE,102F96AC,extended,00000009
+
+[Max Analyzation]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Analyzation
+// Max Analyzation
+patch=1,EE,102F96B0,extended,00000009

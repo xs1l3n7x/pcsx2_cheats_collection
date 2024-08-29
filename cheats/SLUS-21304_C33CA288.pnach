@@ -1,0 +1,1093 @@
+gametitle=Justice League Heroes [SLUS-21304] [C33CA288]
+
+[No Rioja Safehouses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Rioja Safehouses
+// No Rioja Safehouses
+patch=1,EE,9034B110,extended,00832021
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,201C4C0C,extended,3411270F
+
+[Super Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Exp Gain
+// Super Exp Gain
+patch=1,EE,201C4C0C,extended,341161A8
+
+[Ultra Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultra Exp Gain
+// Ultra Exp Gain
+patch=1,EE,201C4C0C,extended,3411C350
+
+[Max Shields]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shields
+// Max Shields
+patch=1,EE,10575DD2,extended,0000270F
+
+[Buying Unlockables Doesnt Decrease Shields]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Unlockables Doesnt Decrease Shields
+// Buying Unlockables Doesnt Decrease Shields
+patch=1,EE,201718E8,extended,00000000
+
+[Buying Unlockables Increases Shields]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Unlockables Increases Shields
+// Buying Unlockables Increases Shields
+patch=1,EE,101718E4,extended,00000001
+
+[Infinite Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1
+// Infinite Health P1
+patch=1,EE,206C2D6C,extended,461C3C00
+
+[Max Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health P1
+// Max Health P1
+patch=1,EE,206C2D70,extended,461C3C00
+
+[Infinite Power P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Power P1
+// Infinite Power P1
+patch=1,EE,206C2DA4,extended,461C3C00
+
+[Max Power P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power P1
+// Max Power P1
+patch=1,EE,206C2DA8,extended,461C3C00
+
+[Infinite Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2
+// Infinite Health P2
+patch=1,EE,206C2E24,extended,461C3C00
+
+[Max Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health P2
+// Max Health P2
+patch=1,EE,206C2E28,extended,461C3C00
+
+[Infinite Power P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Power P2
+// Infinite Power P2
+patch=1,EE,206C2E5C,extended,461C3C00
+
+[Max Power P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power P2
+// Max Power P2
+patch=1,EE,206C2E60,extended,461C3C00
+
+[Unlock All JLH Cinematics]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All JLH Cinematics
+// Unlock All JLH Cinematics
+patch=1,EE,403A5450,extended,00040001
+
+[Unlock All JLH Cinematics]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All JLH Cinematics
+// Unlock All JLH Cinematics
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Level 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 20
+// Level 20
+patch=1,EE,003A5CE3,extended,00000014
+
+[Max Power Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power Points
+// Max Power Points
+patch=1,EE,203A5CE4,extended,0000270F
+
+[Power 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 1
+// Power 1
+patch=1,EE,003A5CF4,extended,00000005
+
+[Power 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 2
+// Power 2
+patch=1,EE,003A5CFF,extended,00000005
+
+[Power 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 3
+// Power 3
+patch=1,EE,003A5D0A,extended,00000005
+
+[Power 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 4
+// Power 4
+patch=1,EE,003A5D15,extended,00000005
+
+[Power 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 5
+// Power 5
+patch=1,EE,003A5D20,extended,00000005
+
+[Combat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Combat
+// Combat
+patch=1,EE,003A5D2B,extended,00000005
+
+[Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health
+// Health
+patch=1,EE,003A5D36,extended,00000005
+
+[Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Energy
+// Energy
+patch=1,EE,003A5D41,extended,00000005
+
+[Recovery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Recovery
+// Recovery
+patch=1,EE,003A5D4C,extended,00000005
+
+[Level 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 20
+// Level 20
+patch=1,EE,003A5D5B,extended,00000014
+
+[Max Power Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power Points
+// Max Power Points
+patch=1,EE,203A5D5C,extended,0000270F
+
+[Power 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 1
+// Power 1
+patch=1,EE,003A5D6C,extended,00000005
+
+[Power 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 2
+// Power 2
+patch=1,EE,003A5D77,extended,00000005
+
+[Power 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 3
+// Power 3
+patch=1,EE,003A5D82,extended,00000005
+
+[Power 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 4
+// Power 4
+patch=1,EE,003A5D8D,extended,00000005
+
+[Power 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 5
+// Power 5
+patch=1,EE,003A5D98,extended,00000005
+
+[Combat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Combat
+// Combat
+patch=1,EE,003A5DA3,extended,00000005
+
+[Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health
+// Health
+patch=1,EE,003A5DAE,extended,00000005
+
+[Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Energy
+// Energy
+patch=1,EE,003A5DB9,extended,00000005
+
+[Recovery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Recovery
+// Recovery
+patch=1,EE,003A5DC4,extended,00000005
+
+[Level 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 20
+// Level 20
+patch=1,EE,003A5DD3,extended,00000014
+
+[Max Power Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power Points
+// Max Power Points
+patch=1,EE,203A5DD4,extended,0000270F
+
+[Power 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 1
+// Power 1
+patch=1,EE,003A5DE4,extended,00000005
+
+[Power 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 2
+// Power 2
+patch=1,EE,003A5DEF,extended,00000005
+
+[Power 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 3
+// Power 3
+patch=1,EE,003A5DFA,extended,00000005
+
+[Power 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 4
+// Power 4
+patch=1,EE,003A5E05,extended,00000005
+
+[Power 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 5
+// Power 5
+patch=1,EE,003A5E10,extended,00000005
+
+[Combat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Combat
+// Combat
+patch=1,EE,003A5E1B,extended,00000005
+
+[Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health
+// Health
+patch=1,EE,003A5E26,extended,00000005
+
+[Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Energy
+// Energy
+patch=1,EE,003A5E31,extended,00000005
+
+[Recovery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Recovery
+// Recovery
+patch=1,EE,003A5E3C,extended,00000005
+
+[Level 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 20
+// Level 20
+patch=1,EE,003A5E4B,extended,00000014
+
+[Max Power Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power Points
+// Max Power Points
+patch=1,EE,203A5E4C,extended,0000270F
+
+[Power 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 1
+// Power 1
+patch=1,EE,003A5E5C,extended,00000005
+
+[Power 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 2
+// Power 2
+patch=1,EE,003A5E67,extended,00000005
+
+[Power 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 3
+// Power 3
+patch=1,EE,003A5E72,extended,00000005
+
+[Power 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 4
+// Power 4
+patch=1,EE,003A5E7D,extended,00000005
+
+[Power 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 5
+// Power 5
+patch=1,EE,003A5E88,extended,00000005
+
+[Combat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Combat
+// Combat
+patch=1,EE,003A5E93,extended,00000005
+
+[Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health
+// Health
+patch=1,EE,003A5E9E,extended,00000005
+
+[Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Energy
+// Energy
+patch=1,EE,003A5EA9,extended,00000005
+
+[Recovery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Recovery
+// Recovery
+patch=1,EE,003A5EB4,extended,00000005
+
+[Level 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 20
+// Level 20
+patch=1,EE,003A5EC3,extended,00000014
+
+[Max Power Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power Points
+// Max Power Points
+patch=1,EE,203A5EC4,extended,0000270F
+
+[Power 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 1
+// Power 1
+patch=1,EE,003A5ED4,extended,00000005
+
+[Power 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 2
+// Power 2
+patch=1,EE,003A5EDF,extended,00000005
+
+[Power 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 3
+// Power 3
+patch=1,EE,003A5EEA,extended,00000005
+
+[Power 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 4
+// Power 4
+patch=1,EE,003A5EF5,extended,00000005
+
+[Power 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 5
+// Power 5
+patch=1,EE,003A5F00,extended,00000005
+
+[Combat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Combat
+// Combat
+patch=1,EE,003A5F0B,extended,00000005
+
+[Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health
+// Health
+patch=1,EE,003A5F16,extended,00000005
+
+[Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Energy
+// Energy
+patch=1,EE,003A5F21,extended,00000005
+
+[Recovery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Recovery
+// Recovery
+patch=1,EE,003A5F2C,extended,00000005
+
+[Level 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 20
+// Level 20
+patch=1,EE,003A5F3B,extended,00000014
+
+[Max Power Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power Points
+// Max Power Points
+patch=1,EE,203A5F3C,extended,0000270F
+
+[Power 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 1
+// Power 1
+patch=1,EE,003A5F4C,extended,00000005
+
+[Power 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 2
+// Power 2
+patch=1,EE,003A5F57,extended,00000005
+
+[Power 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 3
+// Power 3
+patch=1,EE,003A5F62,extended,00000005
+
+[Power 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 4
+// Power 4
+patch=1,EE,003A5F6D,extended,00000005
+
+[Power 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 5
+// Power 5
+patch=1,EE,003A5F78,extended,00000005
+
+[Combat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Combat
+// Combat
+patch=1,EE,003A5F83,extended,00000005
+
+[Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health
+// Health
+patch=1,EE,003A5F8E,extended,00000005
+
+[Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Energy
+// Energy
+patch=1,EE,003A5F99,extended,00000005
+
+[Recovery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Recovery
+// Recovery
+patch=1,EE,003A5FA4,extended,00000005
+
+[Level 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 20
+// Level 20
+patch=1,EE,003A5FB3,extended,00000014
+
+[Max Power Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power Points
+// Max Power Points
+patch=1,EE,203A5FB4,extended,0000270F
+
+[Power 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 1
+// Power 1
+patch=1,EE,003A5FC4,extended,00000005
+
+[Power 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 2
+// Power 2
+patch=1,EE,003A5FCF,extended,00000005
+
+[Power 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 3
+// Power 3
+patch=1,EE,003A5FDA,extended,00000005
+
+[Power 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 4
+// Power 4
+patch=1,EE,003A5FE5,extended,00000005
+
+[Power 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 5
+// Power 5
+patch=1,EE,003A5FF0,extended,00000005
+
+[Combat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Combat
+// Combat
+patch=1,EE,003A5FFB,extended,00000005
+
+[Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health
+// Health
+patch=1,EE,003A6006,extended,00000005
+
+[Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Energy
+// Energy
+patch=1,EE,003A6011,extended,00000005
+
+[Recovery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Recovery
+// Recovery
+patch=1,EE,003A601C,extended,00000005
+
+[Level 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 20
+// Level 20
+patch=1,EE,003A602B,extended,00000014
+
+[Max Power Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power Points
+// Max Power Points
+patch=1,EE,203A602C,extended,0000270F
+
+[Power 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 1
+// Power 1
+patch=1,EE,003A603C,extended,00000005
+
+[Power 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 2
+// Power 2
+patch=1,EE,003A6047,extended,00000005
+
+[Power 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 3
+// Power 3
+patch=1,EE,003A6052,extended,00000005
+
+[Power 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 4
+// Power 4
+patch=1,EE,003A605D,extended,00000005
+
+[Power 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 5
+// Power 5
+patch=1,EE,003A6068,extended,00000005
+
+[Combat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Combat
+// Combat
+patch=1,EE,003A6073,extended,00000005
+
+[Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health
+// Health
+patch=1,EE,003A607E,extended,00000005
+
+[Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Energy
+// Energy
+patch=1,EE,003A6089,extended,00000005
+
+[Recovery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Recovery
+// Recovery
+patch=1,EE,003A6094,extended,00000005
+
+[Level 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 20
+// Level 20
+patch=1,EE,003A60A3,extended,00000014
+
+[Max Power Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power Points
+// Max Power Points
+patch=1,EE,203A60A4,extended,0000270F
+
+[Power 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 1
+// Power 1
+patch=1,EE,003A60B4,extended,00000005
+
+[Power 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 2
+// Power 2
+patch=1,EE,003A60BF,extended,00000005
+
+[Power 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 3
+// Power 3
+patch=1,EE,003A60CA,extended,00000005
+
+[Power 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 4
+// Power 4
+patch=1,EE,003A60D5,extended,00000005
+
+[Power 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 5
+// Power 5
+patch=1,EE,003A60E0,extended,00000005
+
+[Combat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Combat
+// Combat
+patch=1,EE,003A60EB,extended,00000005
+
+[Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health
+// Health
+patch=1,EE,003A60F6,extended,00000005
+
+[Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Energy
+// Energy
+patch=1,EE,003A6101,extended,00000005
+
+[Recovery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Recovery
+// Recovery
+patch=1,EE,003A610C,extended,00000005
+
+[Level 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 20
+// Level 20
+patch=1,EE,003A611B,extended,00000014
+
+[Max Power Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power Points
+// Max Power Points
+patch=1,EE,203A611C,extended,0000270F
+
+[Power 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 1
+// Power 1
+patch=1,EE,003A612C,extended,00000005
+
+[Power 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 2
+// Power 2
+patch=1,EE,003A6137,extended,00000005
+
+[Power 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 3
+// Power 3
+patch=1,EE,003A6142,extended,00000005
+
+[Power 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 4
+// Power 4
+patch=1,EE,003A614D,extended,00000005
+
+[Power 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 5
+// Power 5
+patch=1,EE,003A6158,extended,00000005
+
+[Combat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Combat
+// Combat
+patch=1,EE,003A6163,extended,00000005
+
+[Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health
+// Health
+patch=1,EE,003A616E,extended,00000005
+
+[Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Energy
+// Energy
+patch=1,EE,003A6179,extended,00000005
+
+[Recovery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Recovery
+// Recovery
+patch=1,EE,003A6184,extended,00000005
+
+[Level 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 20
+// Level 20
+patch=1,EE,003A6193,extended,00000014
+
+[Max Power Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power Points
+// Max Power Points
+patch=1,EE,203A6194,extended,0000270F
+
+[Power 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 1
+// Power 1
+patch=1,EE,003A61A4,extended,00000005
+
+[Power 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 2
+// Power 2
+patch=1,EE,003A61AF,extended,00000005
+
+[Power 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 3
+// Power 3
+patch=1,EE,003A61BA,extended,00000005
+
+[Power 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 4
+// Power 4
+patch=1,EE,003A61C5,extended,00000005
+
+[Power 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 5
+// Power 5
+patch=1,EE,003A61D0,extended,00000005
+
+[Combat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Combat
+// Combat
+patch=1,EE,003A61DB,extended,00000005
+
+[Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health
+// Health
+patch=1,EE,003A61E6,extended,00000005
+
+[Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Energy
+// Energy
+patch=1,EE,003A61F1,extended,00000005
+
+[Recovery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Recovery
+// Recovery
+patch=1,EE,003A61FC,extended,00000005
+
+[Level 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 20
+// Level 20
+patch=1,EE,003A620B,extended,00000014
+
+[Max Power Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power Points
+// Max Power Points
+patch=1,EE,203A620C,extended,0000270F
+
+[Power 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 1
+// Power 1
+patch=1,EE,003A621C,extended,00000005
+
+[Power 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 2
+// Power 2
+patch=1,EE,003A6227,extended,00000005
+
+[Power 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 3
+// Power 3
+patch=1,EE,003A6232,extended,00000005
+
+[Power 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 4
+// Power 4
+patch=1,EE,003A623D,extended,00000005
+
+[Power 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 5
+// Power 5
+patch=1,EE,003A6248,extended,00000005
+
+[Combat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Combat
+// Combat
+patch=1,EE,003A6253,extended,00000005
+
+[Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health
+// Health
+patch=1,EE,003A625E,extended,00000005
+
+[Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Energy
+// Energy
+patch=1,EE,003A6269,extended,00000005
+
+[Recovery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Recovery
+// Recovery
+patch=1,EE,003A6274,extended,00000005
+
+[Level 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 20
+// Level 20
+patch=1,EE,003A6283,extended,00000014
+
+[Max Power Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power Points
+// Max Power Points
+patch=1,EE,203A6284,extended,0000270F
+
+[Power 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 1
+// Power 1
+patch=1,EE,003A6294,extended,00000005
+
+[Power 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 2
+// Power 2
+patch=1,EE,003A629F,extended,00000005
+
+[Power 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 3
+// Power 3
+patch=1,EE,003A62AA,extended,00000005
+
+[Power 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 4
+// Power 4
+patch=1,EE,003A62B5,extended,00000005
+
+[Power 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 5
+// Power 5
+patch=1,EE,003A62C0,extended,00000005
+
+[Combat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Combat
+// Combat
+patch=1,EE,003A62CB,extended,00000005
+
+[Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health
+// Health
+patch=1,EE,003A62D6,extended,00000005
+
+[Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Energy
+// Energy
+patch=1,EE,003A62E1,extended,00000005
+
+[Recovery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Recovery
+// Recovery
+patch=1,EE,003A62EC,extended,00000005
+
+[Level 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 20
+// Level 20
+patch=1,EE,003A62FB,extended,00000014
+
+[Max Power Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power Points
+// Max Power Points
+patch=1,EE,203A62FC,extended,0000270F
+
+[Power 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 1
+// Power 1
+patch=1,EE,003A630C,extended,00000005
+
+[Power 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 2
+// Power 2
+patch=1,EE,003A6317,extended,00000005
+
+[Power 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 3
+// Power 3
+patch=1,EE,003A6322,extended,00000005
+
+[Power 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 4
+// Power 4
+patch=1,EE,003A632D,extended,00000005
+
+[Power 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 5
+// Power 5
+patch=1,EE,003A6338,extended,00000005
+
+[Combat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Combat
+// Combat
+patch=1,EE,003A6343,extended,00000005
+
+[Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health
+// Health
+patch=1,EE,003A634E,extended,00000005
+
+[Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Energy
+// Energy
+patch=1,EE,003A6359,extended,00000005
+
+[Recovery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Recovery
+// Recovery
+patch=1,EE,003A6364,extended,00000005
+
+[Level 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 20
+// Level 20
+patch=1,EE,003A6373,extended,00000014
+
+[Max Power Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power Points
+// Max Power Points
+patch=1,EE,203A6374,extended,0000270F
+
+[Power 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 1
+// Power 1
+patch=1,EE,003A6384,extended,00000005
+
+[Power 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 2
+// Power 2
+patch=1,EE,003A638F,extended,00000005
+
+[Power 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 3
+// Power 3
+patch=1,EE,003A639A,extended,00000005
+
+[Power 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 4
+// Power 4
+patch=1,EE,003A63A5,extended,00000005
+
+[Power 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power 5
+// Power 5
+patch=1,EE,003A63B0,extended,00000005
+
+[Combat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Combat
+// Combat
+patch=1,EE,003A63BB,extended,00000005
+
+[Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health
+// Health
+patch=1,EE,003A63C6,extended,00000005
+
+[Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Energy
+// Energy
+patch=1,EE,003A63D1,extended,00000005
+
+[Recovery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Recovery
+// Recovery
+patch=1,EE,003A63DC,extended,00000005

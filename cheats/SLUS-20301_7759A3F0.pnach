@@ -1,0 +1,151 @@
+gametitle=Hidden Invasion [SLUS-20301] [7759A3F0]
+
+[Infinite Warspeed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Warspeed
+// Infinite Warspeed
+patch=1,EE,9018E374,extended,0C0684D0
+
+[Infinite Time (Minutes)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time (Minutes)
+// Infinite Time (Minutes)
+patch=1,EE,201E0F0C,extended,42C60000
+
+[Infinite Time (Seconds)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time (Seconds)
+// Infinite Time (Seconds)
+patch=1,EE,201E0F10,extended,426C0000
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,1025B48C,extended,0000FFFF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,2025B48C,extended,05F5E0FF
+
+[Steve Austin Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Steve Austin Mode
+// Steve Austin Mode
+patch=1,EE,001E0B1C,extended,00000001
+
+[Big Head Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Head Mode
+// Big Head Mode
+patch=1,EE,201E0B4C,extended,00000001
+
+[Boogie Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boogie Mode
+// Boogie Mode
+patch=1,EE,201E0B50,extended,00000001
+
+[Players Can Choose Same Character]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Players Can Choose Same Character
+// Players Can Choose Same Character
+patch=1,EE,201E0B54,extended,00000001
+
+[Infinite Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1
+// Infinite Health P1
+patch=1,EE,1025B1CC,extended,00000064
+
+[Infinite Green Bar P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Green Bar P1
+// Infinite Green Bar P1
+patch=1,EE,1025B1D0,extended,000000C8
+
+[Infinite Lives P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives P1
+// Infinite Lives P1
+patch=1,EE,0025B4AB,extended,00000063
+
+[Infinite Ammo (Weapon 1) P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo (Weapon 1) P1
+// Infinite Ammo (Weapon 1) P1
+patch=1,EE,1025B2B8,extended,00000063
+
+[Infinite Ammo (Weapon 2) P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo (Weapon 2) P1
+// Infinite Ammo (Weapon 2) P1
+patch=1,EE,1025B2BA,extended,00000063
+
+[Infinite Grenades P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Grenades P1
+// Infinite Grenades P1
+patch=1,EE,1025B2BC,extended,00000063
+
+[Infinite Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2
+// Infinite Health P2
+patch=1,EE,1025B1DC,extended,00000063
+
+[Infinite Green Bar P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Green Bar P2
+// Infinite Green Bar P2
+patch=1,EE,1025B1E0,extended,000000C8
+
+[Infinite Lives P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives P2
+// Infinite Lives P2
+patch=1,EE,0025BABB,extended,00000063
+
+[Infinite Ammo (Weapon 1) P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo (Weapon 1) P2
+// Infinite Ammo (Weapon 1) P2
+patch=1,EE,1025B8C8,extended,00000063
+
+[Infinite Ammo (Weapon 2) P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo (Weapon 2) P2
+// Infinite Ammo (Weapon 2) P2
+patch=1,EE,1025B8CA,extended,00000063
+
+[Infinite Grenades P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Grenades P2
+// Infinite Grenades P2
+patch=1,EE,1025B8CC,extended,00000063
+
+[Infinite Ammo (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo (Both Players)
+// Infinite Ammo (Both Players)
+patch=1,EE,20147C58,extended,00000000
+
+[Extra Ammo (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo (Both Players)
+// Extra Ammo (Both Players)
+patch=1,EE,10147C54,extended,00000001
+
+[Infinite Lives (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives (Both Players)
+// Infinite Lives (Both Players)
+patch=1,EE,201497C8,extended,00000000
+
+[Extra Lives (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Lives (Both Players)
+// Extra Lives (Both Players)
+patch=1,EE,101497C0,extended,00000001

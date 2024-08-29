@@ -1,0 +1,169 @@
+gametitle=Lego Soccer Mania [SLUS-20456] [8B6DFE0D]
+
+[Have All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Cars
+// Have All Cars
+patch=1,EE,F0100000,extended,0044EABB
+
+[Home Team Scores 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 50
+// Home Team Scores 50
+patch=1,EE,105F306C,extended,00000032
+
+[Home Team Scores 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 20
+// Home Team Scores 20
+patch=1,EE,105F306C,extended,00000014
+
+[Home Team Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 0
+// Home Team Scores 0
+patch=1,EE,105F306C,extended,00000000
+
+[Home Team Start With 50 Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With 50 Goals
+// Home Team Start With 50 Goals
+patch=1,EE,D05F306C,extended,00000000
+
+[Home Team Start With 50 Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With 50 Goals
+// Home Team Start With 50 Goals
+patch=1,EE,105F306C,extended,00000032
+
+[Home Team Start With 20 Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With 20 Goals
+// Home Team Start With 20 Goals
+patch=1,EE,D05F306C,extended,00000000
+
+[Home Team Start With 20 Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With 20 Goals
+// Home Team Start With 20 Goals
+patch=1,EE,105F306C,extended,00000014
+
+[Home Team Start With 10 Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With 10 Goals
+// Home Team Start With 10 Goals
+patch=1,EE,D05F306C,extended,00000000
+
+[Home Team Start With 10 Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With 10 Goals
+// Home Team Start With 10 Goals
+patch=1,EE,105F306C,extended,0000000A
+
+[Home Team Start With 5 Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With 5 Goals
+// Home Team Start With 5 Goals
+patch=1,EE,D05F306C,extended,00000000
+
+[Home Team Start With 5 Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With 5 Goals
+// Home Team Start With 5 Goals
+patch=1,EE,105F306C,extended,00000005
+
+[Away Team Scores 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 50
+// Away Team Scores 50
+patch=1,EE,105F3FBC,extended,00000032
+
+[Away Team Scores 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 20
+// Away Team Scores 20
+patch=1,EE,105F3FBC,extended,00000014
+
+[Away Team Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 0
+// Away Team Scores 0
+patch=1,EE,105F3FBC,extended,00000000
+
+[Away Team Start With 50 Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With 50 Goals
+// Away Team Start With 50 Goals
+patch=1,EE,D05F3FBC,extended,00000000
+
+[Away Team Start With 50 Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With 50 Goals
+// Away Team Start With 50 Goals
+patch=1,EE,105F3FBC,extended,00000032
+
+[Away Team Start With 20 Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With 20 Goals
+// Away Team Start With 20 Goals
+patch=1,EE,D05F3FBC,extended,00000000
+
+[Away Team Start With 20 Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With 20 Goals
+// Away Team Start With 20 Goals
+patch=1,EE,105F3FBC,extended,00000014
+
+[Away Team Start With 10 Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With 10 Goals
+// Away Team Start With 10 Goals
+patch=1,EE,D05F3FBC,extended,00000000
+
+[Away Team Start With 10 Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With 10 Goals
+// Away Team Start With 10 Goals
+patch=1,EE,105F3FBC,extended,0000000A
+
+[Away Team Start With 5 Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With 5 Goals
+// Away Team Start With 5 Goals
+patch=1,EE,D05F3FBC,extended,00000000
+
+[Away Team Start With 5 Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With 5 Goals
+// Away Team Start With 5 Goals
+patch=1,EE,105F3FBC,extended,00000005
+
+[Goals Score 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goals Score 10
+// Goals Score 10
+patch=1,EE,10187254,extended,0000000A
+
+[Goals Score 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goals Score 5
+// Goals Score 5
+patch=1,EE,10187254,extended,00000005
+
+[Goals Score 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goals Score 2
+// Goals Score 2
+patch=1,EE,10187254,extended,00000002
+
+[Unlock All Teams]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Teams
+// Unlock All Teams
+patch=1,EE,406D71FC,extended,000C0001
+
+[Unlock All Teams]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Teams
+// Unlock All Teams
+patch=1,EE,01000100,extended,00000000

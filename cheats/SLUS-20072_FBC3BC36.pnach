@@ -1,0 +1,241 @@
+gametitle=MX 2002 Featuring Ricky Carmichael [SLUS-20072] [FBC3BC36]
+
+[P1 Press {L1}+Down For 2 Outs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down For 2 Outs
+// P1 Press {L1}+Down For 2 Outs
+patch=1,EE,F0100008,extended,001E4217
+
+[Max Race Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Race Points
+// Max Race Points
+patch=1,EE,10342A8C,extended,000003E7
+
+[Max Stunt Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stunt Score
+// Max Stunt Score
+patch=1,EE,D0432448,extended,00000000
+
+[Max Stunt Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stunt Score
+// Max Stunt Score
+patch=1,EE,20432448,extended,05F5E0FF
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,201539E0,extended,03E00008
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,201539E4,extended,00000000
+
+[Have All Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Challenges Completed
+// Have All Challenges Completed
+patch=1,EE,20353B14,extended,FFFFFFFF
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,201F74F8,extended,24020001
+
+[Unlock All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Tracks
+// Unlock All Tracks
+patch=1,EE,20353B00,extended,FFFFFFFF
+
+[Unlock All Modes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Modes
+// Unlock All Modes
+patch=1,EE,20353B04,extended,FFFFFFFF
+
+[Unlock All Modes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Modes
+// Unlock All Modes
+patch=1,EE,20353B08,extended,FFFFFFFF
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,200C0220,extended,50400001
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,200C0224,extended,24020002
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,200C0228,extended,24460001
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,200C022C,extended,03E00008
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,200C0230,extended,AE220014
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,20121558,extended,0C030088
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,200C0220,extended,50400001
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,200C0224,extended,24020001
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,200C0228,extended,24460001
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,200C022C,extended,03E00008
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,200C0230,extended,AE220014
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,20121558,extended,0C030088
+
+[Always Place 1st]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Place 1st
+// Always Place 1st
+patch=1,EE,2038BEE8,extended,00000001
+
+[1 Lap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Lap
+// 1 Lap
+patch=1,EE,204328C0,extended,00000001
+
+[2 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Laps
+// 2 Laps
+patch=1,EE,204328C0,extended,00000002
+
+[3 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=3 Laps
+// 3 Laps
+patch=1,EE,204328C0,extended,00000003
+
+[4 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4 Laps
+// 4 Laps
+patch=1,EE,204328C0,extended,00000004
+
+[5 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5 Laps
+// 5 Laps
+patch=1,EE,204328C0,extended,00000005
+
+[6 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=6 Laps
+// 6 Laps
+patch=1,EE,204328C0,extended,00000006
+
+[7 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=7 Laps
+// 7 Laps
+patch=1,EE,204328C0,extended,00000007
+
+[8 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=8 Laps
+// 8 Laps
+patch=1,EE,204328C0,extended,00000008
+
+[9 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9 Laps
+// 9 Laps
+patch=1,EE,204328C0,extended,00000009
+
+[No Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Opponents
+// No Opponents
+patch=1,EE,204328D0,extended,00000001
+
+[1 Opponent]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Opponent
+// 1 Opponent
+patch=1,EE,204328D0,extended,00000002
+
+[2 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Opponents
+// 2 Opponents
+patch=1,EE,204328D0,extended,00000003
+
+[3 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=3 Opponents
+// 3 Opponents
+patch=1,EE,204328D0,extended,00000004
+
+[4 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4 Opponents
+// 4 Opponents
+patch=1,EE,204328D0,extended,00000005
+
+[5 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5 Opponents
+// 5 Opponents
+patch=1,EE,204328D0,extended,00000006
+
+[6 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=6 Opponents
+// 6 Opponents
+patch=1,EE,204328D0,extended,00000007

@@ -1,0 +1,535 @@
+gametitle=Island Xtreme Stunts [SLUS-20575] [BC910F04]
+
+[All Characters-All Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Characters-All Events
+// All Characters-All Events
+patch=1,EE,F01010F8,extended,0021E31F
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,102D2660,extended,0000FFFF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,202D2660,extended,0098967F
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,202D2668,extended,0000003B
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,202D266C,extended,0000003B
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0220,extended,2401000A
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0224,extended,AE010F3C
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0228,extended,03E00008
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C022C,extended,8E0400C8
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201B7F30,extended,0C030088
+
+[1-Hit Death (Opponents)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Opponents)
+// 1-Hit Death (Opponents)
+patch=1,EE,201BD1A8,extended,2403001E
+
+[Max Brick Pool]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Brick Pool
+// Max Brick Pool
+patch=1,EE,202DAEE8,extended,000003E7
+
+[Max Brickimals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Brickimals
+// Max Brickimals
+patch=1,EE,202DAEEC,extended,00000015
+
+[Have Road License]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Road License
+// Have Road License
+patch=1,EE,202DAF04,extended,00000001
+
+[Have Sea License]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Sea License
+// Have Sea License
+patch=1,EE,202DAF08,extended,00000001
+
+[Have Air License]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Air License
+// Have Air License
+patch=1,EE,202DAF0C,extended,00000001
+
+[Have Secret LA F. TA #1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Secret LA F. TA #1
+// Have Secret LA F. TA #1
+patch=1,EE,202DAF10,extended,00000001
+
+[Have Secret LA F. TA #2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Secret LA F. TA #2
+// Have Secret LA F. TA #2
+patch=1,EE,202DAF14,extended,00000001
+
+[Have Golden LA F. TA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Golden LA F. TA
+// Have Golden LA F. TA
+patch=1,EE,202DAF18,extended,00000001
+
+[Have Platinum LA F. TA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Platinum LA F. TA
+// Have Platinum LA F. TA
+patch=1,EE,202DAF1C,extended,00000001
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,21E8783C,extended,00000001
+
+[Pepper Roni]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pepper Roni
+// Pepper Roni
+patch=1,EE,01E7140D,extended,00000001
+
+[The Brickster]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Brickster
+// The Brickster
+patch=1,EE,01E8DA21,extended,00000001
+
+[Brickster-Bot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Brickster-Bot
+// Brickster-Bot
+patch=1,EE,01E8DA45,extended,00000001
+
+[Belinda Blink]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Belinda Blink
+// Belinda Blink
+patch=1,EE,01E8DB65,extended,00000001
+
+[The Director]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Director
+// The Director
+patch=1,EE,01E8DB89,extended,00000001
+
+[Shugu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shugu
+// Shugu
+patch=1,EE,01E8DBAD,extended,00000001
+
+[Dr Clickitt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dr Clickitt
+// Dr Clickitt
+patch=1,EE,01E8DBD1,extended,00000001
+
+[Dr Jackitt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dr Jackitt
+// Dr Jackitt
+patch=1,EE,01E8DBF5,extended,00000001
+
+[Enter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enter
+// Enter
+patch=1,EE,01E8DC19,extended,00000001
+
+[Gnarly Bones]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gnarly Bones
+// Gnarly Bones
+patch=1,EE,01E8DC3D,extended,00000001
+
+[Rhoda Hogg]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rhoda Hogg
+// Rhoda Hogg
+patch=1,EE,01E8DC61,extended,00000001
+
+[Infomaniac]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infomaniac
+// Infomaniac
+patch=1,EE,01E8DCA9,extended,00000001
+
+[Jack O'Trades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jack O'Trades
+// Jack O'Trades
+patch=1,EE,01E8DCCD,extended,00000001
+
+[Sky Lane]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sky Lane
+// Sky Lane
+patch=1,EE,01E8DCF1,extended,00000001
+
+[Lucky Larry]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lucky Larry
+// Lucky Larry
+patch=1,EE,01E8DD15,extended,00000001
+
+[Liam Lense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Liam Lense
+// Liam Lense
+patch=1,EE,01E8DD39,extended,00000001
+
+[Laura Brick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Laura Brick
+// Laura Brick
+patch=1,EE,01E8DD5D,extended,00000001
+
+[Ed Mail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ed Mail
+// Ed Mail
+patch=1,EE,01E8DD81,extended,00000001
+
+[Mama Brickolini]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mama Brickolini
+// Mama Brickolini
+patch=1,EE,01E8DDA5,extended,00000001
+
+[Nancy Nubbins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nancy Nubbins
+// Nancy Nubbins
+patch=1,EE,01E8DDC9,extended,00000001
+
+[Nick Brick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nick Brick
+// Nick Brick
+patch=1,EE,01E8DDED,extended,00000001
+
+[Nubby Stevens]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nubby Stevens
+// Nubby Stevens
+patch=1,EE,01E8DE11,extended,00000001
+
+[Papa Brickolini]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Papa Brickolini
+// Papa Brickolini
+patch=1,EE,01E8DE35,extended,00000001
+
+[Phil Maker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Phil Maker
+// Phil Maker
+patch=1,EE,01E8DE59,extended,00000001
+
+[Margaret Patricia Post]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Margaret Patricia Post
+// Margaret Patricia Post
+patch=1,EE,01E8DE7D,extended,00000001
+
+[Penelope Puff]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Penelope Puff
+// Penelope Puff
+patch=1,EE,01E8DEA1,extended,00000001
+
+[Red Greenbase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Greenbase
+// Red Greenbase
+patch=1,EE,01E8DEC5,extended,00000001
+
+[Return]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Return
+// Return
+patch=1,EE,01E8DEE9,extended,00000001
+
+[Snap Lockitt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snap Lockitt
+// Snap Lockitt
+patch=1,EE,01E8DF0D,extended,00000001
+
+[Studz Linkin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Studz Linkin
+// Studz Linkin
+patch=1,EE,01E8DF31,extended,00000001
+
+[Super Stationmaster]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Stationmaster
+// Super Stationmaster
+patch=1,EE,01E8DF55,extended,00000001
+
+[Technician Bob]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Technician Bob
+// Technician Bob
+patch=1,EE,01E8DF79,extended,00000001
+
+[Valergie Stubbins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Valergie Stubbins
+// Valergie Stubbins
+patch=1,EE,01E8DF9D,extended,00000001
+
+[Jenny]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jenny
+// Jenny
+patch=1,EE,01E8DFC1,extended,00000001
+
+[Jimmy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jimmy
+// Jimmy
+patch=1,EE,01E8DFE5,extended,00000001
+
+[Timmy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Timmy
+// Timmy
+patch=1,EE,01E8E009,extended,00000001
+
+[Biran Shrimp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Biran Shrimp
+// Biran Shrimp
+patch=1,EE,01E8E2FD,extended,00000001
+
+[Air Chase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Air Chase
+// Air Chase
+patch=1,EE,002DAF78,extended,00000001
+
+[Freeway Frenzy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Freeway Frenzy
+// Freeway Frenzy
+patch=1,EE,002DAF7C,extended,00000001
+
+[Ripcord Rescue]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripcord Rescue
+// Ripcord Rescue
+patch=1,EE,002DAF80,extended,00000001
+
+[Wave Catcher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wave Catcher
+// Wave Catcher
+patch=1,EE,002DAF84,extended,00000001
+
+[Motorbike Mayhem]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Motorbike Mayhem
+// Motorbike Mayhem
+patch=1,EE,002DAF88,extended,00000001
+
+[Air Chase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Air Chase
+// Air Chase
+patch=1,EE,002DAF79,extended,00000007
+
+[Freeway Frenzy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Freeway Frenzy
+// Freeway Frenzy
+patch=1,EE,002DAF7D,extended,00000007
+
+[Ripcord Rescue]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ripcord Rescue
+// Ripcord Rescue
+patch=1,EE,002DAF81,extended,00000007
+
+[Wave Catcher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wave Catcher
+// Wave Catcher
+patch=1,EE,002DAF85,extended,00000007
+
+[Motorbike Mayhem]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Motorbike Mayhem
+// Motorbike Mayhem
+patch=1,EE,002DAF89,extended,00000007
+
+[Dog]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dog
+// Dog
+patch=1,EE,002EBE1B,extended,00000002
+
+[Platypus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Platypus
+// Platypus
+patch=1,EE,002EBE1F,extended,00000002
+
+[Giraffe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Giraffe
+// Giraffe
+patch=1,EE,002EBE23,extended,00000002
+
+[Whale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Whale
+// Whale
+patch=1,EE,002EBE27,extended,00000002
+
+[Goose]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goose
+// Goose
+patch=1,EE,002EBE2B,extended,00000002
+
+[Elephant]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elephant
+// Elephant
+patch=1,EE,002EBE2F,extended,00000002
+
+[Gazelle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gazelle
+// Gazelle
+patch=1,EE,002EBE33,extended,00000002
+
+[Snamel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snamel
+// Snamel
+patch=1,EE,002EBE37,extended,00000002
+
+[Rhino]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rhino
+// Rhino
+patch=1,EE,002EBE3B,extended,00000002
+
+[Baby Rhino]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Baby Rhino
+// Baby Rhino
+patch=1,EE,002EBE3F,extended,00000002
+
+[Tufted Duck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tufted Duck
+// Tufted Duck
+patch=1,EE,002EBE43,extended,00000002
+
+[Bison]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bison
+// Bison
+patch=1,EE,002EBE47,extended,00000002
+
+[Baby Elephant]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Baby Elephant
+// Baby Elephant
+patch=1,EE,002EBE4B,extended,00000002
+
+[Squirrel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Squirrel
+// Squirrel
+patch=1,EE,002EBE4F,extended,00000002
+
+[Bill]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bill
+// Bill
+patch=1,EE,002EBE53,extended,00000002
+
+[Pelican]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pelican
+// Pelican
+patch=1,EE,002EBE57,extended,00000002
+
+[Fish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fish
+// Fish
+patch=1,EE,002EBE5B,extended,00000002
+
+[Cutesy Duck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cutesy Duck
+// Cutesy Duck
+patch=1,EE,002EBE5F,extended,00000002
+
+[Duck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Duck
+// Duck
+patch=1,EE,002EBE63,extended,00000002
+
+[Speed Boat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speed Boat
+// Speed Boat
+patch=1,EE,002EBE67,extended,00000002
+
+[Phoenix]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Phoenix
+// Phoenix
+patch=1,EE,002EBE6B,extended,00000002

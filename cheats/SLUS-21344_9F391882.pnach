@@ -1,0 +1,187 @@
+gametitle=Steambot Chronicles [SLUS-21344] [9F391882]
+
+[All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Characters
+// All Characters
+patch=1,EE,902581A0,extended,00832021
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,10587408,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,20587408,extended,05F5E0FF
+
+[Buying Items Doesnt Decrease Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Items Doesnt Decrease Money
+// Buying Items Doesnt Decrease Money
+patch=1,EE,20167458,extended,00000000
+
+[Buying Items Increases Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Items Increases Money
+// Buying Items Increases Money
+patch=1,EE,20167454,extended,2442270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,2058F6F0,extended,447A0000
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,2058F6F4,extended,447A0000
+
+[Max Fuel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fuel
+// Max Fuel
+patch=1,EE,2058F6FC,extended,447A0000
+
+[Infinite Fuel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Fuel
+// Infinite Fuel
+patch=1,EE,2058F700,extended,447A0000
+
+[Infinite Fuel Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Fuel Usage
+// Infinite Fuel Usage
+patch=1,EE,201F377C,extended,00000000
+
+[Max Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Boost
+// Max Boost
+patch=1,EE,2058F704,extended,43200000
+
+[Infinite Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Boost
+// Infinite Boost
+patch=1,EE,2058F708,extended,43200000
+
+[Infinite Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Boost
+// Infinite Boost
+patch=1,EE,D058F706,extended,00004320
+
+[Infinite Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Boost
+// Infinite Boost
+patch=1,EE,101F36CC,extended,00004320
+
+[Infinite Boost Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Boost Usage
+// Infinite Boost Usage
+patch=1,EE,201F364C,extended,00000000
+
+[Starving]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Starving
+// Starving
+patch=1,EE,20587404,extended,00000000
+
+[Hungry]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hungry
+// Hungry
+patch=1,EE,20587404,extended,00000001
+
+[Snacking]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snacking
+// Snacking
+patch=1,EE,20587404,extended,00000002
+
+[Sated]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sated
+// Sated
+patch=1,EE,20587404,extended,00000003
+
+[Stuffed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stuffed
+// Stuffed
+patch=1,EE,20587404,extended,00000004
+
+[Lousy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lousy
+// Lousy
+patch=1,EE,20587404,extended,00000005
+
+[Have All Albums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Albums
+// Have All Albums
+patch=1,EE,00607785,extended,00000000
+
+[Have All Albums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Albums
+// Have All Albums
+patch=1,EE,10607786,extended,00000201
+
+[Have All Albums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Albums
+// Have All Albums
+patch=1,EE,40607788,extended,00040001
+
+[Have All Albums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Albums
+// Have All Albums
+patch=1,EE,06050403,extended,04040404
+
+[Have All Albums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Albums
+// Have All Albums
+patch=1,EE,10607798,extended,00001413
+
+[Have All Albums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Albums
+// Have All Albums
+patch=1,EE,006077E9,extended,00000004
+
+[Have All Albums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Albums
+// Have All Albums
+patch=1,EE,106077EA,extended,00000404
+
+[Have All Albums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Albums
+// Have All Albums
+patch=1,EE,406077EC,extended,00110001
+
+[Have All Albums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Albums
+// Have All Albums
+patch=1,EE,04040404,extended,00000000
+
+[Have All Albums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Albums
+// Have All Albums
+patch=1,EE,00607830,extended,00000004

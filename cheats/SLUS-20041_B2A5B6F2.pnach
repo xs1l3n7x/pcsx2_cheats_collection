@@ -1,0 +1,271 @@
+gametitle=ESPN International Track & Field [SLUS-20041] [B2A5B6F2]
+
+[Drive Tendency]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Drive Tendency
+// Drive Tendency
+patch=1,EE,F0200008,extended,002579CB
+
+[Unlock All Gifts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Gifts
+// Unlock All Gifts
+patch=1,EE,107E14D4,extended,0000FFFF
+
+[Animals Sound Effects]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Animals Sound Effects
+// Animals Sound Effects
+patch=1,EE,007E14D3,extended,00000001
+
+[Robot Sound Effects]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Robot Sound Effects
+// Robot Sound Effects
+patch=1,EE,007E14D3,extended,00000002
+
+[Cartoon Sound Effects]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cartoon Sound Effects
+// Cartoon Sound Effects
+patch=1,EE,007E14D3,extended,00000003
+
+[Max Score In 1-Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score In 1-Shot
+// Max Score In 1-Shot
+patch=1,EE,D15A8D50,extended,0000A35C
+
+[Max Score In 1-Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score In 1-Shot
+// Max Score In 1-Shot
+patch=1,EE,215A8D3C,extended,240203E7
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,D15A8D50,extended,0000A35C
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,215A8D3C,extended,24420063
+
+[Infinite Bullets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Bullets
+// Infinite Bullets
+patch=1,EE,D15A8CE0,extended,00001880
+
+[Infinite Bullets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Bullets
+// Infinite Bullets
+patch=1,EE,215A8CD0,extended,00000000
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AFD18C,extended,41200000
+
+[Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bronze
+// Bronze
+patch=1,EE,107E15C6,extended,00000063
+
+[Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver
+// Silver
+patch=1,EE,107E15C8,extended,00000063
+
+[Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold
+// Gold
+patch=1,EE,107E15CA,extended,00000063
+
+[Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bronze
+// Bronze
+patch=1,EE,107E1652,extended,00000063
+
+[Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver
+// Silver
+patch=1,EE,107E1654,extended,00000063
+
+[Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold
+// Gold
+patch=1,EE,107E1656,extended,00000063
+
+[Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bronze
+// Bronze
+patch=1,EE,107E16DE,extended,00000063
+
+[Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver
+// Silver
+patch=1,EE,107E16E0,extended,00000063
+
+[Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold
+// Gold
+patch=1,EE,107E16E2,extended,00000063
+
+[Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bronze
+// Bronze
+patch=1,EE,107E176A,extended,00000063
+
+[Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver
+// Silver
+patch=1,EE,107E176C,extended,00000063
+
+[Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold
+// Gold
+patch=1,EE,107E176E,extended,00000063
+
+[Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bronze
+// Bronze
+patch=1,EE,107E17F6,extended,00000063
+
+[Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver
+// Silver
+patch=1,EE,107E17F8,extended,00000063
+
+[Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold
+// Gold
+patch=1,EE,107E17FA,extended,00000063
+
+[Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bronze
+// Bronze
+patch=1,EE,107E1882,extended,00000063
+
+[Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver
+// Silver
+patch=1,EE,107E1884,extended,00000063
+
+[Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold
+// Gold
+patch=1,EE,107E1886,extended,00000063
+
+[Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bronze
+// Bronze
+patch=1,EE,107E190E,extended,00000063
+
+[Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver
+// Silver
+patch=1,EE,107E1910,extended,00000063
+
+[Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold
+// Gold
+patch=1,EE,107E1912,extended,00000063
+
+[Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bronze
+// Bronze
+patch=1,EE,107E199A,extended,00000063
+
+[Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver
+// Silver
+patch=1,EE,107E199C,extended,00000063
+
+[Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold
+// Gold
+patch=1,EE,107E199E,extended,00000063
+
+[Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bronze
+// Bronze
+patch=1,EE,107E1A26,extended,00000063
+
+[Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver
+// Silver
+patch=1,EE,107E1A28,extended,00000063
+
+[Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold
+// Gold
+patch=1,EE,107E1A2A,extended,00000063
+
+[Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bronze
+// Bronze
+patch=1,EE,107E1AB2,extended,00000063
+
+[Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver
+// Silver
+patch=1,EE,107E1AB4,extended,00000063
+
+[Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold
+// Gold
+patch=1,EE,107E1AB6,extended,00000063
+
+[Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bronze
+// Bronze
+patch=1,EE,107E1B3E,extended,00000063
+
+[Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver
+// Silver
+patch=1,EE,107E1B40,extended,00000063
+
+[Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold
+// Gold
+patch=1,EE,107E1B42,extended,00000063

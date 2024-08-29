@@ -1,0 +1,1615 @@
+gametitle=Constantine [SLUS-21142] [314DAA9F]
+
+[Super Slow Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Slow Speed
+// Super Slow Speed
+patch=1,EE,903E2CB8,extended,0C101B69
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2017C544,extended,C4800014
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2017C54C,extended,E4800018
+
+[Health Never Decreases]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health Never Decreases
+// Health Never Decreases
+patch=1,EE,20318A58,extended,00000000
+
+[Health Never Decreases]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health Never Decreases
+// Health Never Decreases
+patch=1,EE,20318A5C,extended,00000000
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,2015F830,extended,00000000
+
+[Max Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo
+// Max Infinite Ammo
+patch=1,EE,2015F82C,extended,240203E7
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,2015F82C,extended,00451021
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,2015F844,extended,00000000
+
+[Infinite Flash Of Enlightenment Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Flash Of Enlightenment Usage
+// Infinite Flash Of Enlightenment Usage
+patch=1,EE,2015F7A4,extended,00000000
+
+[Infinite Spell Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Spell Usage
+// Infinite Spell Usage
+patch=1,EE,20318C44,extended,00000000
+
+[Have All Bonus Material]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bonus Material
+// Have All Bonus Material
+patch=1,EE,405848E8,extended,00340001
+
+[Have All Bonus Material]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bonus Material
+// Have All Bonus Material
+patch=1,EE,01010101,extended,00000000
+
+[Witch's Curse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Witch's Curse
+// Witch's Curse
+patch=1,EE,204CD69C,extended,00000000
+
+[Holy Water Bombs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Holy Water Bombs
+// Holy Water Bombs
+patch=1,EE,204CD6C8,extended,00000000
+
+[Flask Of Enlightenment]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flask Of Enlightenment
+// Flask Of Enlightenment
+patch=1,EE,204CD6F4,extended,00000000
+
+[Amityville Screech Beetle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Amityville Screech Beetle
+// Amityville Screech Beetle
+patch=1,EE,204CD720,extended,00000000
+
+[Knuckledusters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knuckledusters
+// Knuckledusters
+patch=1,EE,204CD74C,extended,00000000
+
+[Crucifier]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crucifier
+// Crucifier
+patch=1,EE,204CD778,extended,00000000
+
+[Dragon's Breath]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dragon's Breath
+// Dragon's Breath
+patch=1,EE,204CD7A4,extended,00000000
+
+[Holy Shotgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Holy Shotgun
+// Holy Shotgun
+patch=1,EE,204CD7D0,extended,00000000
+
+[Purger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Purger
+// Purger
+patch=1,EE,204CD7FC,extended,00000000
+
+[Moses Shroup]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Moses Shroup
+// Moses Shroup
+patch=1,EE,204CD828,extended,00000000
+
+[Cross Of Isteria]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cross Of Isteria
+// Cross Of Isteria
+patch=1,EE,204CD854,extended,00000000
+
+[Spear Of Destiny]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear Of Destiny
+// Spear Of Destiny
+patch=1,EE,204CD880,extended,00000000
+
+[All Artifacts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Artifacts
+// All Artifacts
+patch=1,EE,404CD69C,extended,000C000B
+
+[All Artifacts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Artifacts
+// All Artifacts
+patch=1,EE,00000000,extended,00000000
+
+[Gateway]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gateway
+// Gateway
+patch=1,EE,204CE440,extended,00000000
+
+[True Sight]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=True Sight
+// True Sight
+patch=1,EE,204CE46C,extended,00000000
+
+[Storm Crow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Storm Crow
+// Storm Crow
+patch=1,EE,204CE498,extended,00000000
+
+[Exorcism]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exorcism
+// Exorcism
+patch=1,EE,204CE4C4,extended,00000000
+
+[Hunger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunger
+// Hunger
+patch=1,EE,204CE51C,extended,00000000
+
+[Protection]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Protection
+// Protection
+patch=1,EE,204CE548,extended,00000000
+
+[Confusion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Confusion
+// Confusion
+patch=1,EE,204CE574,extended,00000000
+
+[Gargoyle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gargoyle
+// Gargoyle
+patch=1,EE,204CE5A0,extended,00000000
+
+[Demon Leech]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Demon Leech
+// Demon Leech
+patch=1,EE,204CE5CC,extended,00000000
+
+[All Spells]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Spells
+// All Spells
+patch=1,EE,404CE440,extended,000A000B
+
+[All Spells]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Spells
+// All Spells
+patch=1,EE,00000000,extended,00000000
+
+[Scavenger Scout]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scavenger Scout
+// Scavenger Scout
+patch=1,EE,204CF18C,extended,00000000
+
+[Scavenger Soldier]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scavenger Soldier
+// Scavenger Soldier
+patch=1,EE,204CF1B8,extended,00000000
+
+[Scavenger Warrior]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scavenger Warrior
+// Scavenger Warrior
+patch=1,EE,204CF1E4,extended,00000000
+
+[Seplavite]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Seplavite
+// Seplavite
+patch=1,EE,204CF210,extended,00000000
+
+[Half Breed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Half Breed
+// Half Breed
+patch=1,EE,204CF23C,extended,00000000
+
+[Vermin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vermin
+// Vermin
+patch=1,EE,204CF268,extended,00000000
+
+[Scavenger Crawler]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scavenger Crawler
+// Scavenger Crawler
+patch=1,EE,204CF294,extended,00000000
+
+[Bile'Riz]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bile'Riz
+// Bile'Riz
+patch=1,EE,204CF2C0,extended,00000000
+
+[Host]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Host
+// Host
+patch=1,EE,204CF2EC,extended,00000000
+
+[Vermin Demon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vermin Demon
+// Vermin Demon
+patch=1,EE,204CF318,extended,00000000
+
+[Kan-Gore]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kan-Gore
+// Kan-Gore
+patch=1,EE,204CF344,extended,00000000
+
+[Impaler]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Impaler
+// Impaler
+patch=1,EE,204CF39C,extended,00000000
+
+[Bastado]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bastado
+// Bastado
+patch=1,EE,204CF3C8,extended,00000000
+
+[Behemoth]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Behemoth
+// Behemoth
+patch=1,EE,204CF3F4,extended,00000000
+
+[Cleaver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cleaver
+// Cleaver
+patch=1,EE,204CF420,extended,00000000
+
+[Balthazar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Balthazar
+// Balthazar
+patch=1,EE,204CF44C,extended,00000000
+
+[Gabriel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gabriel
+// Gabriel
+patch=1,EE,204CF478,extended,00000000
+
+[Mammon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mammon
+// Mammon
+patch=1,EE,204CF4A4,extended,00000000
+
+[All Demons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Demons
+// All Demons
+patch=1,EE,404CF18C,extended,0013000B
+
+[All Demons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Demons
+// All Demons
+patch=1,EE,00000000,extended,00000000
+
+[Comic 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Comic 1
+// Comic 1
+patch=1,EE,005848BB,extended,00000001
+
+[Story Movie 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Story Movie 1
+// Story Movie 1
+patch=1,EE,005848BC,extended,00000001
+
+[Story Movie 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Story Movie 2
+// Story Movie 2
+patch=1,EE,005848BD,extended,00000001
+
+[Scavenger Scout]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scavenger Scout
+// Scavenger Scout
+patch=1,EE,005848BE,extended,00000001
+
+[Concept 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 1
+// Concept 1
+patch=1,EE,005848BF,extended,00000001
+
+[Concept 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 2
+// Concept 2
+patch=1,EE,005848C0,extended,00000001
+
+[Concept 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 3
+// Concept 3
+patch=1,EE,005848CA,extended,00000001
+
+[Concept 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 4
+// Concept 4
+patch=1,EE,005848CB,extended,00000001
+
+[Interview]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Interview
+// Interview
+patch=1,EE,005848CC,extended,00000001
+
+[Movie 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 1
+// Movie 1
+patch=1,EE,005848CD,extended,00000001
+
+[Movie 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 2
+// Movie 2
+patch=1,EE,005848CE,extended,00000001
+
+[Quote]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quote
+// Quote
+patch=1,EE,005848CF,extended,00000001
+
+[All Elriu's Apartment]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Elriu's Apartment
+// All Elriu's Apartment
+patch=1,EE,005848BB,extended,00000001
+
+[All Elriu's Apartment]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Elriu's Apartment
+// All Elriu's Apartment
+patch=1,EE,205848BC,extended,01010101
+
+[All Elriu's Apartment]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Elriu's Apartment
+// All Elriu's Apartment
+patch=1,EE,005848C0,extended,00000001
+
+[All Elriu's Apartment]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Elriu's Apartment
+// All Elriu's Apartment
+patch=1,EE,105848CA,extended,00000101
+
+[All Elriu's Apartment]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Elriu's Apartment
+// All Elriu's Apartment
+patch=1,EE,205848CC,extended,01010101
+
+[Comic 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Comic 2
+// Comic 2
+patch=1,EE,005848D9,extended,00000001
+
+[Story Movie 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Story Movie 3
+// Story Movie 3
+patch=1,EE,005848DA,extended,00000001
+
+[Scavenger Soldier]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scavenger Soldier
+// Scavenger Soldier
+patch=1,EE,005848DB,extended,00000001
+
+[Concept 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 5
+// Concept 5
+patch=1,EE,005848DC,extended,00000001
+
+[Concept 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 6
+// Concept 6
+patch=1,EE,005848DD,extended,00000001
+
+[Concept 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 7
+// Concept 7
+patch=1,EE,005848DE,extended,00000001
+
+[Movie 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 3
+// Movie 3
+patch=1,EE,005848E8,extended,00000001
+
+[Movie 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 4
+// Movie 4
+patch=1,EE,005848E9,extended,00000001
+
+[Movie 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 5
+// Movie 5
+patch=1,EE,005848EA,extended,00000001
+
+[Movie 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 6
+// Movie 6
+patch=1,EE,005848EB,extended,00000001
+
+[Movie 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 7
+// Movie 7
+patch=1,EE,005848EC,extended,00000001
+
+[The Damned 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Damned 1
+// The Damned 1
+patch=1,EE,005848ED,extended,00000001
+
+[All Elriu's Basement]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Elriu's Basement
+// All Elriu's Basement
+patch=1,EE,005848D9,extended,00000001
+
+[All Elriu's Basement]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Elriu's Basement
+// All Elriu's Basement
+patch=1,EE,105848DA,extended,00000101
+
+[All Elriu's Basement]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Elriu's Basement
+// All Elriu's Basement
+patch=1,EE,105848DC,extended,00000101
+
+[All Elriu's Basement]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Elriu's Basement
+// All Elriu's Basement
+patch=1,EE,005848DE,extended,00000001
+
+[All Elriu's Basement]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Elriu's Basement
+// All Elriu's Basement
+patch=1,EE,205848E8,extended,01010101
+
+[All Elriu's Basement]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Elriu's Basement
+// All Elriu's Basement
+patch=1,EE,105848EC,extended,00000101
+
+[Comic 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Comic 3
+// Comic 3
+patch=1,EE,005848F7,extended,00000001
+
+[Seplavite]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Seplavite
+// Seplavite
+patch=1,EE,005848F8,extended,00000001
+
+[Story Movie 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Story Movie 4
+// Story Movie 4
+patch=1,EE,005848F9,extended,00000001
+
+[Concept 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 8
+// Concept 8
+patch=1,EE,005848FA,extended,00000001
+
+[Concept 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 9
+// Concept 9
+patch=1,EE,005848FB,extended,00000001
+
+[Concept 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 10
+// Concept 10
+patch=1,EE,005848FC,extended,00000001
+
+[Concept 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 11
+// Concept 11
+patch=1,EE,005848FD,extended,00000001
+
+[Concept 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 12
+// Concept 12
+patch=1,EE,005848FE,extended,00000001
+
+[Movie 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 8
+// Movie 8
+patch=1,EE,005848FF,extended,00000001
+
+[Movie 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 9
+// Movie 9
+patch=1,EE,00584900,extended,00000001
+
+[Movie 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 10
+// Movie 10
+patch=1,EE,00584901,extended,00000001
+
+[The Damned 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Damned 2
+// The Damned 2
+patch=1,EE,00584902,extended,00000001
+
+[All Edward Crowley Memory Library]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Edward Crowley Memory Library
+// All Edward Crowley Memory Library
+patch=1,EE,005848F7,extended,00000001
+
+[All Edward Crowley Memory Library]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Edward Crowley Memory Library
+// All Edward Crowley Memory Library
+patch=1,EE,205848F8,extended,01010101
+
+[All Edward Crowley Memory Library]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Edward Crowley Memory Library
+// All Edward Crowley Memory Library
+patch=1,EE,205848FC,extended,01010101
+
+[All Edward Crowley Memory Library]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Edward Crowley Memory Library
+// All Edward Crowley Memory Library
+patch=1,EE,10584900,extended,00000101
+
+[All Edward Crowley Memory Library]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Edward Crowley Memory Library
+// All Edward Crowley Memory Library
+patch=1,EE,00584902,extended,00000001
+
+[Comic 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Comic 4
+// Comic 4
+patch=1,EE,00584906,extended,00000001
+
+[Story Movie 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Story Movie 5
+// Story Movie 5
+patch=1,EE,00584907,extended,00000001
+
+[Concept 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 13
+// Concept 13
+patch=1,EE,00584908,extended,00000001
+
+[Concept 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 14
+// Concept 14
+patch=1,EE,00584909,extended,00000001
+
+[Concept 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 15
+// Concept 15
+patch=1,EE,0058490A,extended,00000001
+
+[Concept 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 16
+// Concept 16
+patch=1,EE,0058490B,extended,00000001
+
+[Concept 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 17
+// Concept 17
+patch=1,EE,0058490C,extended,00000001
+
+[Movie 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 11
+// Movie 11
+patch=1,EE,0058490D,extended,00000001
+
+[Movie 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 12
+// Movie 12
+patch=1,EE,0058490E,extended,00000001
+
+[Movie 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 13
+// Movie 13
+patch=1,EE,0058490F,extended,00000001
+
+[Movie 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 14
+// Movie 14
+patch=1,EE,00584910,extended,00000001
+
+[Movie 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 15
+// Movie 15
+patch=1,EE,00584911,extended,00000001
+
+[All The Mortuary]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All The Mortuary
+// All The Mortuary
+patch=1,EE,10584906,extended,00000101
+
+[All The Mortuary]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All The Mortuary
+// All The Mortuary
+patch=1,EE,20584908,extended,01010101
+
+[All The Mortuary]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All The Mortuary
+// All The Mortuary
+patch=1,EE,2058490C,extended,01010101
+
+[All The Mortuary]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All The Mortuary
+// All The Mortuary
+patch=1,EE,10584910,extended,00000101
+
+[Comic 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Comic 5
+// Comic 5
+patch=1,EE,00584915,extended,00000001
+
+[Impaler]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Impaler
+// Impaler
+patch=1,EE,00584916,extended,00000001
+
+[Story Movie 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Story Movie 6
+// Story Movie 6
+patch=1,EE,00584917,extended,00000001
+
+[Comic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Comic
+// Comic
+patch=1,EE,00584918,extended,00000001
+
+[Movie 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 16
+// Movie 16
+patch=1,EE,00584919,extended,00000001
+
+[Movie 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 17
+// Movie 17
+patch=1,EE,0058491A,extended,00000001
+
+[Movie 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 18
+// Movie 18
+patch=1,EE,0058491B,extended,00000001
+
+[Movie 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 19
+// Movie 19
+patch=1,EE,0058491C,extended,00000001
+
+[Movie 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 20
+// Movie 20
+patch=1,EE,0058491D,extended,00000001
+
+[Movie 21]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 21
+// Movie 21
+patch=1,EE,0058491E,extended,00000001
+
+[Movie 22]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 22
+// Movie 22
+patch=1,EE,0058491F,extended,00000001
+
+[Movie 23]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 23
+// Movie 23
+patch=1,EE,00584920,extended,00000001
+
+[All 13th Precinct House]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All 13th Precinct House
+// All 13th Precinct House
+patch=1,EE,10584915,extended,00000001
+
+[All 13th Precinct House]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All 13th Precinct House
+// All 13th Precinct House
+patch=1,EE,10584916,extended,00000101
+
+[All 13th Precinct House]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All 13th Precinct House
+// All 13th Precinct House
+patch=1,EE,20584918,extended,01010101
+
+[All 13th Precinct House]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All 13th Precinct House
+// All 13th Precinct House
+patch=1,EE,2058491C,extended,01010101
+
+[All 13th Precinct House]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All 13th Precinct House
+// All 13th Precinct House
+patch=1,EE,00584920,extended,00000001
+
+[Comic 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Comic 6
+// Comic 6
+patch=1,EE,00584924,extended,00000001
+
+[Behemoth]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Behemoth
+// Behemoth
+patch=1,EE,00584925,extended,00000001
+
+[Story Movie 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Story Movie 7
+// Story Movie 7
+patch=1,EE,00584926,extended,00000001
+
+[Concept 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 18
+// Concept 18
+patch=1,EE,00584927,extended,00000001
+
+[Concept 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 19
+// Concept 19
+patch=1,EE,00584928,extended,00000001
+
+[Concept 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 20
+// Concept 20
+patch=1,EE,00584929,extended,00000001
+
+[Concept 21]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 21
+// Concept 21
+patch=1,EE,0058492A,extended,00000001
+
+[Crucifier]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crucifier
+// Crucifier
+patch=1,EE,0058492B,extended,00000001
+
+[Dragon's Breath]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dragon's Breath
+// Dragon's Breath
+patch=1,EE,0058492C,extended,00000001
+
+[Movie 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 24
+// Movie 24
+patch=1,EE,0058492D,extended,00000001
+
+[Movie 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 25
+// Movie 25
+patch=1,EE,0058492E,extended,00000001
+
+[Movie 26]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 26
+// Movie 26
+patch=1,EE,0058492F,extended,00000001
+
+[All Journey To Papa Midnite's]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Journey To Papa Midnite's
+// All Journey To Papa Midnite's
+patch=1,EE,40584924,extended,00030001
+
+[All Journey To Papa Midnite's]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Journey To Papa Midnite's
+// All Journey To Papa Midnite's
+patch=1,EE,01010101,extended,00000000
+
+[Comic 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Comic 7
+// Comic 7
+patch=1,EE,00584933,extended,00000001
+
+[Concept 21A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 21A
+// Concept 21A
+patch=1,EE,00584934,extended,00000001
+
+[Cleaver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cleaver
+// Cleaver
+patch=1,EE,00584935,extended,00000001
+
+[Story Movie 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Story Movie 8
+// Story Movie 8
+patch=1,EE,00584936,extended,00000001
+
+[Story Movie 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Story Movie 9
+// Story Movie 9
+patch=1,EE,00584937,extended,00000001
+
+[Concept 22]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 22
+// Concept 22
+patch=1,EE,00584938,extended,00000001
+
+[Movie 27]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 27
+// Movie 27
+patch=1,EE,00584939,extended,00000001
+
+[Movie 28]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 28
+// Movie 28
+patch=1,EE,0058493A,extended,00000001
+
+[Movie 29]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 29
+// Movie 29
+patch=1,EE,0058493B,extended,00000001
+
+[Movie 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 30
+// Movie 30
+patch=1,EE,0058493C,extended,00000001
+
+[The Damned 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Damned 3
+// The Damned 3
+patch=1,EE,0058493D,extended,00000001
+
+[Interview 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Interview 2
+// Interview 2
+patch=1,EE,0058493E,extended,00000001
+
+[All Hell's Museum]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Hell's Museum
+// All Hell's Museum
+patch=1,EE,00584933,extended,00000001
+
+[All Hell's Museum]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Hell's Museum
+// All Hell's Museum
+patch=1,EE,20584934,extended,01010101
+
+[All Hell's Museum]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Hell's Museum
+// All Hell's Museum
+patch=1,EE,20584938,extended,01010101
+
+[All Hell's Museum]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Hell's Museum
+// All Hell's Museum
+patch=1,EE,1058493C,extended,00000101
+
+[All Hell's Museum]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Hell's Museum
+// All Hell's Museum
+patch=1,EE,0058493E,extended,00000001
+
+[Comic 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Comic 8
+// Comic 8
+patch=1,EE,00584942,extended,00000001
+
+[Warrior]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warrior
+// Warrior
+patch=1,EE,00584943,extended,00000001
+
+[Story Movie 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Story Movie 10
+// Story Movie 10
+patch=1,EE,00584944,extended,00000001
+
+[Concept 23]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 23
+// Concept 23
+patch=1,EE,00584945,extended,00000001
+
+[Concept 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 24
+// Concept 24
+patch=1,EE,00584946,extended,00000001
+
+[Concept 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 25
+// Concept 25
+patch=1,EE,00584947,extended,00000001
+
+[Concept 26]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 26
+// Concept 26
+patch=1,EE,00584948,extended,00000001
+
+[Concept 27]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 27
+// Concept 27
+patch=1,EE,00584949,extended,00000001
+
+[Lexicon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lexicon
+// Lexicon
+patch=1,EE,0058494A,extended,00000001
+
+[Purger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Purger
+// Purger
+patch=1,EE,0058494B,extended,00000001
+
+[Movie 31]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 31
+// Movie 31
+patch=1,EE,0058494C,extended,00000001
+
+[Movie 32]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 32
+// Movie 32
+patch=1,EE,0058494D,extended,00000001
+
+[All 20 Lanes Bowling Alley]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All 20 Lanes Bowling Alley
+// All 20 Lanes Bowling Alley
+patch=1,EE,10584942,extended,00000101
+
+[All 20 Lanes Bowling Alley]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All 20 Lanes Bowling Alley
+// All 20 Lanes Bowling Alley
+patch=1,EE,20584944,extended,01010101
+
+[All 20 Lanes Bowling Alley]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All 20 Lanes Bowling Alley
+// All 20 Lanes Bowling Alley
+patch=1,EE,20584948,extended,01010101
+
+[All 20 Lanes Bowling Alley]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All 20 Lanes Bowling Alley
+// All 20 Lanes Bowling Alley
+patch=1,EE,1058494C,extended,00000101
+
+[Comic 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Comic 9
+// Comic 9
+patch=1,EE,00584951,extended,00000001
+
+[Bastado]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bastado
+// Bastado
+patch=1,EE,00584952,extended,00000001
+
+[Sotry Movie 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sotry Movie 11
+// Sotry Movie 11
+patch=1,EE,00584953,extended,00000001
+
+[Concept 27]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 27
+// Concept 27
+patch=1,EE,00584954,extended,00000001
+
+[Concept 28]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 28
+// Concept 28
+patch=1,EE,00584955,extended,00000001
+
+[Concept 29]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 29
+// Concept 29
+patch=1,EE,00584956,extended,00000001
+
+[Concept 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 30
+// Concept 30
+patch=1,EE,00584957,extended,00000001
+
+[Movie 33]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 33
+// Movie 33
+patch=1,EE,00584958,extended,00000001
+
+[Movie 34]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 34
+// Movie 34
+patch=1,EE,00584959,extended,00000001
+
+[Movie 35]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 35
+// Movie 35
+patch=1,EE,0058495A,extended,00000001
+
+[Movie 36]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 36
+// Movie 36
+patch=1,EE,0058495B,extended,00000001
+
+[Interview 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Interview 3
+// Interview 3
+patch=1,EE,0058495C,extended,00000001
+
+[All Hell's Highway]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Hell's Highway
+// All Hell's Highway
+patch=1,EE,00584951,extended,00000001
+
+[All Hell's Highway]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Hell's Highway
+// All Hell's Highway
+patch=1,EE,10584952,extended,00000101
+
+[All Hell's Highway]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Hell's Highway
+// All Hell's Highway
+patch=1,EE,20584954,extended,01010101
+
+[All Hell's Highway]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Hell's Highway
+// All Hell's Highway
+patch=1,EE,20584958,extended,01010101
+
+[All Hell's Highway]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Hell's Highway
+// All Hell's Highway
+patch=1,EE,0058495C,extended,00000001
+
+[Comic 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Comic 10
+// Comic 10
+patch=1,EE,00584960,extended,00000001
+
+[Concept 31]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 31
+// Concept 31
+patch=1,EE,00584961,extended,00000001
+
+[Concept 32]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 32
+// Concept 32
+patch=1,EE,00584962,extended,00000001
+
+[Condept 33]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Condept 33
+// Condept 33
+patch=1,EE,00584963,extended,00000001
+
+[Concept 34]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 34
+// Concept 34
+patch=1,EE,00584964,extended,00000001
+
+[Concept 35]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 35
+// Concept 35
+patch=1,EE,00584965,extended,00000001
+
+[Concept 36]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 36
+// Concept 36
+patch=1,EE,00584966,extended,00000001
+
+[Concept 37]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 37
+// Concept 37
+patch=1,EE,00584967,extended,00000001
+
+[Concept 38]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 38
+// Concept 38
+patch=1,EE,00584968,extended,00000001
+
+[Concept 39]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 39
+// Concept 39
+patch=1,EE,00584969,extended,00000001
+
+[Shotgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shotgun
+// Shotgun
+patch=1,EE,0058496A,extended,00000001
+
+[Movie 37]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 37
+// Movie 37
+patch=1,EE,0058496B,extended,00000001
+
+[All Hell's Temple]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Hell's Temple
+// All Hell's Temple
+patch=1,EE,40584960,extended,00030001
+
+[All Hell's Temple]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Hell's Temple
+// All Hell's Temple
+patch=1,EE,01010101,extended,00000000
+
+[Comic 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Comic 11
+// Comic 11
+patch=1,EE,0058496F,extended,00000001
+
+[Story Movie 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Story Movie 12
+// Story Movie 12
+patch=1,EE,00584970,extended,00000001
+
+[Concept 40]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 40
+// Concept 40
+patch=1,EE,00584971,extended,00000001
+
+[Concept 41]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 41
+// Concept 41
+patch=1,EE,00584972,extended,00000001
+
+[Concept 42]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 42
+// Concept 42
+patch=1,EE,00584973,extended,00000001
+
+[Concept 43]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 43
+// Concept 43
+patch=1,EE,00584974,extended,00000001
+
+[Concept 44]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 44
+// Concept 44
+patch=1,EE,0058497E,extended,00000001
+
+[Concept 45]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 45
+// Concept 45
+patch=1,EE,0058497F,extended,00000001
+
+[Concept 46]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 46
+// Concept 46
+patch=1,EE,00584980,extended,00000001
+
+[Concept 47]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 47
+// Concept 47
+patch=1,EE,00584981,extended,00000001
+
+[Movie 38]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 38
+// Movie 38
+patch=1,EE,00584982,extended,00000001
+
+[The Damned 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Damned 4
+// The Damned 4
+patch=1,EE,00584983,extended,00000001
+
+[All Balthazar Zymergy Registry Inc.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Balthazar Zymergy Registry Inc.
+// All Balthazar Zymergy Registry Inc.
+patch=1,EE,0058496F,extended,00000001
+
+[All Balthazar Zymergy Registry Inc.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Balthazar Zymergy Registry Inc.
+// All Balthazar Zymergy Registry Inc.
+patch=1,EE,20584970,extended,01010101
+
+[All Balthazar Zymergy Registry Inc.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Balthazar Zymergy Registry Inc.
+// All Balthazar Zymergy Registry Inc.
+patch=1,EE,00584974,extended,00000001
+
+[All Balthazar Zymergy Registry Inc.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Balthazar Zymergy Registry Inc.
+// All Balthazar Zymergy Registry Inc.
+patch=1,EE,1058497E,extended,00000101
+
+[Concept 46]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 46
+// Concept 46
+patch=1,EE,20584980,extended,01010101
+
+[Comic 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Comic 12
+// Comic 12
+patch=1,EE,2058498D,extended,00000001
+
+[Story Movie 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Story Movie 13
+// Story Movie 13
+patch=1,EE,2058498E,extended,00000001
+
+[Concept 48]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 48
+// Concept 48
+patch=1,EE,2058498F,extended,00000001
+
+[Concept 49]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 49
+// Concept 49
+patch=1,EE,20584990,extended,00000001
+
+[COncept 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=COncept 50
+// COncept 50
+patch=1,EE,20584991,extended,00000001
+
+[Comic 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Comic 13
+// Comic 13
+patch=1,EE,20584992,extended,00000001
+
+[Movie 39]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 39
+// Movie 39
+patch=1,EE,20584993,extended,00000001
+
+[Movie 40]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 40
+// Movie 40
+patch=1,EE,20584994,extended,00000001
+
+[Movie 41]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 41
+// Movie 41
+patch=1,EE,20584995,extended,00000001
+
+[Movie 42]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 42
+// Movie 42
+patch=1,EE,20584996,extended,00000001
+
+[Movie 43]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 43
+// Movie 43
+patch=1,EE,20584997,extended,00000001
+
+[Movie 44]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 44
+// Movie 44
+patch=1,EE,20584998,extended,00000001
+
+[All Ravenscar Hospital]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Ravenscar Hospital
+// All Ravenscar Hospital
+patch=1,EE,0058498D,extended,00000001
+
+[All Ravenscar Hospital]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Ravenscar Hospital
+// All Ravenscar Hospital
+patch=1,EE,1058498E,extended,00000101
+
+[All Ravenscar Hospital]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Ravenscar Hospital
+// All Ravenscar Hospital
+patch=1,EE,20584990,extended,01010101
+
+[All Ravenscar Hospital]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Ravenscar Hospital
+// All Ravenscar Hospital
+patch=1,EE,20584994,extended,01010101
+
+[All Ravenscar Hospital]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Ravenscar Hospital
+// All Ravenscar Hospital
+patch=1,EE,00584998,extended,00000001
+
+[Story Movie 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Story Movie 14
+// Story Movie 14
+patch=1,EE,0058499C,extended,00000001
+
+[Story Movie 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Story Movie 15
+// Story Movie 15
+patch=1,EE,0058499D,extended,00000001
+
+[Concept 51]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concept 51
+// Concept 51
+patch=1,EE,0058499E,extended,00000001
+
+[Witch's Curse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Witch's Curse
+// Witch's Curse
+patch=1,EE,0058499F,extended,00000001
+
+[Movie 45]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 45
+// Movie 45
+patch=1,EE,005849A0,extended,00000001
+
+[Movie 46]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 46
+// Movie 46
+patch=1,EE,005849A1,extended,00000001
+
+[Movie 47]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 47
+// Movie 47
+patch=1,EE,005849A2,extended,00000001
+
+[Movie 48]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 48
+// Movie 48
+patch=1,EE,005849A3,extended,00000001
+
+[Movie 49]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 49
+// Movie 49
+patch=1,EE,005849A4,extended,00000001
+
+[Movie 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 50
+// Movie 50
+patch=1,EE,005849A5,extended,00000001
+
+[Movie 51]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 51
+// Movie 51
+patch=1,EE,005849A6,extended,00000001
+
+[Movie 52]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie 52
+// Movie 52
+patch=1,EE,005849A7,extended,00000001
+
+[All Hydrotheraphy Pool Codes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Hydrotheraphy Pool Codes
+// All Hydrotheraphy Pool Codes
+patch=1,EE,4058499C,extended,00030001
+
+[All Hydrotheraphy Pool Codes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Hydrotheraphy Pool Codes
+// All Hydrotheraphy Pool Codes
+patch=1,EE,01010101,extended,00000000

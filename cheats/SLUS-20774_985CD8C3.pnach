@@ -1,0 +1,253 @@
+gametitle=Culdcept [SLUS-20774] [985CD8C3]
+
+[Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power
+// Max Power
+patch=1,EE,901C8004,extended,0C07679C
+
+[Infinite Magic P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Magic P1
+// Infinite Magic P1
+patch=1,EE,202959E8,extended,0000270F
+
+[No Magic P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Magic P1
+// No Magic P1
+patch=1,EE,202959E8,extended,00000000
+
+[Max Magic P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Magic P1
+// Max Magic P1
+patch=1,EE,20295AF0,extended,0000270F
+
+[Low Max Magic P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Max Magic P1
+// Low Max Magic P1
+patch=1,EE,20295AF0,extended,00000001
+
+[Infinite Magic P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Magic P2
+// Infinite Magic P2
+patch=1,EE,20295B0C,extended,0000270F
+
+[No Magic P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Magic P2
+// No Magic P2
+patch=1,EE,20295B0C,extended,00000000
+
+[Max Magic P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Magic P2
+// Max Magic P2
+patch=1,EE,20295C14,extended,0000270F
+
+[Low Max Magic P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Max Magic P2
+// Low Max Magic P2
+patch=1,EE,20295C14,extended,00000001
+
+[Have All Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Medals
+// Have All Medals
+patch=1,EE,2040D1E8,extended,FFFFFFFF
+
+[Have All Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Medals
+// Have All Medals
+patch=1,EE,2040D1EC,extended,FFFFFFFF
+
+[Max All Neutral Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Neutral Creature Cards
+// Max All Neutral Creature Cards
+patch=1,EE,0040D2AC,extended,00000063
+
+[Max All Neutral Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Neutral Creature Cards
+// Max All Neutral Creature Cards
+patch=1,EE,0040D2AF,extended,00000063
+
+[Max All Neutral Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Neutral Creature Cards
+// Max All Neutral Creature Cards
+patch=1,EE,4040D2B0,extended,000D0001
+
+[Max All Neutral Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Neutral Creature Cards
+// Max All Neutral Creature Cards
+patch=1,EE,63636363,extended,00000000
+
+[Max All Neutral Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Neutral Creature Cards
+// Max All Neutral Creature Cards
+patch=1,EE,1040D2E4,extended,00006363
+
+[Max All Neutral Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Neutral Creature Cards
+// Max All Neutral Creature Cards
+patch=1,EE,0040D2E6,extended,00000063
+
+[Max All Fire Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Fire Creature Cards
+// Max All Fire Creature Cards
+patch=1,EE,0040D2E7,extended,00000063
+
+[Max All Fire Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Fire Creature Cards
+// Max All Fire Creature Cards
+patch=1,EE,4040D2E8,extended,000A0001
+
+[Max All Fire Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Fire Creature Cards
+// Max All Fire Creature Cards
+patch=1,EE,63636363,extended,00000000
+
+[Max All Fire Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Fire Creature Cards
+// Max All Fire Creature Cards
+patch=1,EE,1040D310,extended,00006363
+
+[Max Water Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Water Creature Cards
+// Max Water Creature Cards
+patch=1,EE,1040D312,extended,00006363
+
+[Max Water Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Water Creature Cards
+// Max Water Creature Cards
+patch=1,EE,4040D314,extended,000A0001
+
+[Max Water Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Water Creature Cards
+// Max Water Creature Cards
+patch=1,EE,63636363,extended,00000000
+
+[Max Water Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Water Creature Cards
+// Max Water Creature Cards
+patch=1,EE,0040D33C,extended,00000063
+
+[Max All Earth Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Earth Creature Cards
+// Max All Earth Creature Cards
+patch=1,EE,0040D2AD,extended,00000063
+
+[Max All Earth Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Earth Creature Cards
+// Max All Earth Creature Cards
+patch=1,EE,0040D2AE,extended,00000063
+
+[Max All Earth Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Earth Creature Cards
+// Max All Earth Creature Cards
+patch=1,EE,0040D33D,extended,00000063
+
+[Max All Earth Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Earth Creature Cards
+// Max All Earth Creature Cards
+patch=1,EE,1040D33E,extended,00006363
+
+[Max All Earth Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Earth Creature Cards
+// Max All Earth Creature Cards
+patch=1,EE,4040D340,extended,000A0001
+
+[Max All Earth Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Earth Creature Cards
+// Max All Earth Creature Cards
+patch=1,EE,63636363,extended,00000000
+
+[Max Wind Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wind Creature Cards
+// Max Wind Creature Cards
+patch=1,EE,4040D368,extended,000A0001
+
+[Max Wind Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wind Creature Cards
+// Max Wind Creature Cards
+patch=1,EE,63636363,extended,00000000
+
+[Max Wind Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wind Creature Cards
+// Max Wind Creature Cards
+patch=1,EE,1040D390,extended,00006363
+
+[Max Wind Creature Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wind Creature Cards
+// Max Wind Creature Cards
+patch=1,EE,0040D392,extended,00000063
+
+[Max All Item Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Item Cards
+// Max All Item Cards
+patch=1,EE,0040D393,extended,00000063
+
+[Max All Item Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Item Cards
+// Max All Item Cards
+patch=1,EE,4040D394,extended,00190001
+
+[Max All Item Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Item Cards
+// Max All Item Cards
+patch=1,EE,63636363,extended,00000000
+
+[Max All Item Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Item Cards
+// Max All Item Cards
+patch=1,EE,1040D3F8,extended,00006363
+
+[Max All Spell Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Spell Cards
+// Max All Spell Cards
+patch=1,EE,1040D3FA,extended,00006363
+
+[Max All Spell Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Spell Cards
+// Max All Spell Cards
+patch=1,EE,4040D3FC,extended,00270001
+
+[Max All Spell Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Spell Cards
+// Max All Spell Cards
+patch=1,EE,63636363,extended,00000000

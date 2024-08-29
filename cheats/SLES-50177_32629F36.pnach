@@ -1,0 +1,43 @@
+gametitle=Oni [SLES-50177] [32629F36]
+
+[No Score P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Score P4
+// No Score P4
+patch=1,EE,902B12D0,extended,0C0AECCE
+
+[Have Easy Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Easy Kills
+// Have Easy Kills
+patch=1,EE,0033A932,extended,00000001
+
+[Have Gauge Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Gauge Info
+// Have Gauge Info
+patch=1,EE,0033B35C,extended,00000001
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,006E55EC,extended,00000063
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,106E5620,extended,00000190
+
+[Infinite Hypos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Hypos
+// Infinite Hypos
+patch=1,EE,006E578C,extended,00000004
+
+[Invisible]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisible
+// Invisible
+patch=1,EE,106E57A2,extended,0000FFFF

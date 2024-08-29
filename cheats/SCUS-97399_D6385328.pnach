@@ -1,0 +1,343 @@
+gametitle=God Of War [SCUS-97399] [D6385328]
+
+[Have All Techniques]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Techniques
+// Have All Techniques
+patch=1,EE,9027BA70,extended,0C0A24A5
+
+[P1 Press {SELECT} To Skip FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {SELECT} To Skip FMV
+// P1 Press {SELECT} To Skip FMV
+patch=1,EE,D02FDA9C,extended,0000FFFE
+
+[P1 Press {SELECT} To Skip FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {SELECT} To Skip FMV
+// P1 Press {SELECT} To Skip FMV
+patch=1,EE,2026FF78,extended,24020001
+
+[P1 Press {SELECT} To Skip FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {SELECT} To Skip FMV
+// P1 Press {SELECT} To Skip FMV
+patch=1,EE,D02FDA9C,extended,0010FFFE
+
+[P1 Press {SELECT} To Skip FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {SELECT} To Skip FMV
+// P1 Press {SELECT} To Skip FMV
+patch=1,EE,2026FF78,extended,8C620000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,E001453B,extended,1079597E
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20795978,extended,43480000
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,E001453B,extended,1079597E
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,2079597C,extended,43480000
+
+[P1 Press {L1}+Left For Quick Last Boss Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Left For Quick Last Boss Death
+// P1 Press {L1}+Left For Quick Last Boss Death
+patch=1,EE,E002FB7F,extended,002FDA9C
+
+[P1 Press {L1}+Left For Quick Last Boss Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Left For Quick Last Boss Death
+// P1 Press {L1}+Left For Quick Last Boss Death
+patch=1,EE,E001453B,extended,0079597E
+
+[P1 Press {L1}+Left For Quick Last Boss Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Left For Quick Last Boss Death
+// P1 Press {L1}+Left For Quick Last Boss Death
+patch=1,EE,20795978,extended,453B7FFF
+
+[Infinite Magic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Magic
+// Infinite Magic
+patch=1,EE,20302D1C,extended,42C80000
+
+[P1 Press {L1}+Right To Refill Rage Of The Gods Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right To Refill Rage Of The Gods Meter
+// P1 Press {L1}+Right To Refill Rage Of The Gods Meter
+patch=1,EE,D02FDA9C,extended,0000FBDF
+
+[P1 Press {L1}+Right To Refill Rage Of The Gods Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right To Refill Rage Of The Gods Meter
+// P1 Press {L1}+Right To Refill Rage Of The Gods Meter
+patch=1,EE,20302D20,extended,42C80000
+
+[Max Power-Up Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power-Up Meter
+// Max Power-Up Meter
+patch=1,EE,20302D28,extended,0000EA60
+
+[Have All Gorgon Eyes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gorgon Eyes
+// Have All Gorgon Eyes
+patch=1,EE,00302D3F,extended,00000018
+
+[Have All Phoenix Feathers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Phoenix Feathers
+// Have All Phoenix Feathers
+patch=1,EE,00302D40,extended,00000018
+
+[Have All Muse Keys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Muse Keys
+// Have All Muse Keys
+patch=1,EE,00302D41,extended,00000002
+
+[Have All Powerups/Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Powerups/Moves
+// Have All Powerups/Moves
+patch=1,EE,10302D42,extended,0000FFFF
+
+[P1 Press {L1}+Up To Kill Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up To Kill Enemies
+// P1 Press {L1}+Up To Kill Enemies
+patch=1,EE,200C0234,extended,03E00008
+
+[P1 Press {L1}+Up To Kill Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up To Kill Enemies
+// P1 Press {L1}+Up To Kill Enemies
+patch=1,EE,200C0238,extended,86020060
+
+[P1 Press {L1}+Up To Kill Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up To Kill Enemies
+// P1 Press {L1}+Up To Kill Enemies
+patch=1,EE,201B4D84,extended,0C03008C
+
+[P1 Press {L1}+Up To Kill Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up To Kill Enemies
+// P1 Press {L1}+Up To Kill Enemies
+patch=1,EE,201B4D88,extended,8E700000
+
+[P1 Press {L1}+Up To Kill Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up To Kill Enemies
+// P1 Press {L1}+Up To Kill Enemies
+patch=1,EE,D02FDA9C,extended,0000FBEF
+
+[P1 Press {L1}+Up To Kill Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up To Kill Enemies
+// P1 Press {L1}+Up To Kill Enemies
+patch=1,EE,200C0230,extended,AE600178
+
+[P1 Press {L1}+Up To Kill Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up To Kill Enemies
+// P1 Press {L1}+Up To Kill Enemies
+patch=1,EE,D02FDA9C,extended,0010FBEF
+
+[P1 Press {L1}+Up To Kill Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up To Kill Enemies
+// P1 Press {L1}+Up To Kill Enemies
+patch=1,EE,200C0230,extended,00000000
+
+[P1 Press {L1}+Down To Refill Health For Your Family]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Refill Health For Your Family
+// P1 Press {L1}+Down To Refill Health For Your Family
+patch=1,EE,200C0220,extended,8E61017C
+
+[P1 Press {L1}+Down To Refill Health For Your Family]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Refill Health For Your Family
+// P1 Press {L1}+Down To Refill Health For Your Family
+patch=1,EE,200C0224,extended,AE610178
+
+[P1 Press {L1}+Down To Refill Health For Your Family]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Refill Health For Your Family
+// P1 Press {L1}+Down To Refill Health For Your Family
+patch=1,EE,200C0228,extended,03E00008
+
+[P1 Press {L1}+Down To Refill Health For Your Family]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Refill Health For Your Family
+// P1 Press {L1}+Down To Refill Health For Your Family
+patch=1,EE,200C022C,extended,8E700000
+
+[P1 Press {L1}+Down To Refill Health For Your Family]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Refill Health For Your Family
+// P1 Press {L1}+Down To Refill Health For Your Family
+patch=1,EE,D02FDA9C,extended,0000FBBF
+
+[P1 Press {L1}+Down To Refill Health For Your Family]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Refill Health For Your Family
+// P1 Press {L1}+Down To Refill Health For Your Family
+patch=1,EE,201B4E5C,extended,0C030088
+
+[P1 Press {L1}+Down To Refill Health For Your Family]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Refill Health For Your Family
+// P1 Press {L1}+Down To Refill Health For Your Family
+patch=1,EE,D02FDA9C,extended,0010FBBF
+
+[P1 Press {L1}+Down To Refill Health For Your Family]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Refill Health For Your Family
+// P1 Press {L1}+Down To Refill Health For Your Family
+patch=1,EE,201B4E5C,extended,8E700000
+
+[Max Combo Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Combo Hits
+// Max Combo Hits
+patch=1,EE,2076D650,extended,0000270F
+
+[Max Red Orbs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Red Orbs
+// Max Red Orbs
+patch=1,EE,2076D7D8,extended,0000EA60
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,201E8E2C,extended,00000000
+
+[Unlock All Treasures]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Treasures
+// Unlock All Treasures
+patch=1,EE,202A12C8,extended,FFFFFFFF
+
+[Poseidon's Rage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poseidon's Rage
+// Poseidon's Rage
+patch=1,EE,2076D7DC,extended,00002710
+
+[Medusa's Gaze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Medusa's Gaze
+// Medusa's Gaze
+patch=1,EE,2076D7E0,extended,00002710
+
+[Zeus' Fury]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zeus' Fury
+// Zeus' Fury
+patch=1,EE,2076D7E4,extended,00002710
+
+[Army Of Hades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Army Of Hades
+// Army Of Hades
+patch=1,EE,2076D7E8,extended,00002710
+
+[Blade Of Artemis]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blade Of Artemis
+// Blade Of Artemis
+patch=1,EE,2076D7EC,extended,00002710
+
+[Blades Of Chaos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blades Of Chaos
+// Blades Of Chaos
+patch=1,EE,2076D7F0,extended,00002710
+
+[All Power-Ups]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Power-Ups
+// All Power-Ups
+patch=1,EE,4076D7DC,extended,00060001
+
+[All Power-Ups]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Power-Ups
+// All Power-Ups
+patch=1,EE,00002710,extended,00000000
+
+[Poseidon's Rage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poseidon's Rage
+// Poseidon's Rage
+patch=1,EE,2076D7F4,extended,00000002
+
+[Medusa's Gaze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Medusa's Gaze
+// Medusa's Gaze
+patch=1,EE,2076D7F8,extended,00000002
+
+[Zeus' Fury]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zeus' Fury
+// Zeus' Fury
+patch=1,EE,2076D7FC,extended,00000002
+
+[Army Of Hades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Army Of Hades
+// Army Of Hades
+patch=1,EE,2076D800,extended,00000002
+
+[Blade Of Artemis]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blade Of Artemis
+// Blade Of Artemis
+patch=1,EE,2076D804,extended,00000002
+
+[Blades Of Chaos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blades Of Chaos
+// Blades Of Chaos
+patch=1,EE,2076D808,extended,00000005
+
+[All Power-Ups]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Power-Ups
+// All Power-Ups
+patch=1,EE,4076D7F4,extended,00050001
+
+[All Power-Ups]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Power-Ups
+// All Power-Ups
+patch=1,EE,00000002,extended,00000000
+
+[All Power-Ups]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Power-Ups
+// All Power-Ups
+patch=1,EE,2076D808,extended,00000005

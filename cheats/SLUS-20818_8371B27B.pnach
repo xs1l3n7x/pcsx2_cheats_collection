@@ -1,0 +1,145 @@
+gametitle=Bionicle [SLUS-20818] [8371B27B]
+
+[Attack Of The Banana Men From The Moon!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Attack Of The Banana Men From The Moon!
+// Attack Of The Banana Men From The Moon!
+patch=1,EE,F0100008,extended,0018BF97
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2032B198,extended,40400000
+
+[Infinite Specials]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Specials
+// Infinite Specials
+patch=1,EE,201FBC38,extended,0000000C
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,2032B240,extended,00000007
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,200C0220,extended,3C010032
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,200C0224,extended,8C215498
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,200C0228,extended,10200003
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,200C022C,extended,00000000
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,200C0230,extended,8C210028
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,200C0234,extended,AC200104
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,200C0238,extended,03E00008
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,200C023C,extended,00000000
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,2018BFAC,extended,08030088
+
+[Tahu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tahu
+// Tahu
+patch=1,EE,2032B1E0,extended,00000064
+
+[Kopaka]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kopaka
+// Kopaka
+patch=1,EE,2032B1E4,extended,000000C8
+
+[Gali Nuva]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gali Nuva
+// Gali Nuva
+patch=1,EE,2032B1E8,extended,0000005A
+
+[Pohatu Nuva]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pohatu Nuva
+// Pohatu Nuva
+patch=1,EE,2032B1EC,extended,000000A8
+
+[Onua Nuva]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Onua Nuva
+// Onua Nuva
+patch=1,EE,2032B1F0,extended,00000064
+
+[Lewa Nuva]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lewa Nuva
+// Lewa Nuva
+patch=1,EE,2032B1F4,extended,000000AA
+
+[Tahu Nuva]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tahu Nuva
+// Tahu Nuva
+patch=1,EE,2032B1F8,extended,00000094
+
+[Takua Nuva]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Takua Nuva
+// Takua Nuva
+patch=1,EE,2032B1FC,extended,00000004
+
+[Tahu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tahu
+// Tahu
+patch=1,EE,2032B200,extended,00000005
+
+[Gali Nuva]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gali Nuva
+// Gali Nuva
+patch=1,EE,2032B208,extended,0000000F
+
+[Lewa Nuva]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lewa Nuva
+// Lewa Nuva
+patch=1,EE,2032B214,extended,00000006

@@ -1,0 +1,49 @@
+gametitle=Kingdom Hearts [UNKNOWN] [B59EF006]
+
+[All Secret Files]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Secret Files
+// All Secret Files
+patch=1,EE,004F93A8,extended,00000015
+
+[All Databank]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Databank
+// All Databank
+patch=1,EE,404F938C,extended,00040001
+
+[All Databank]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Databank
+// All Databank
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[All Databank]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Databank
+// All Databank
+patch=1,EE,104F939C,extended,0000FFFF
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2026ACFC,extended,00000000
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,201569EC,extended,00000000
+
+[Never Reload]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,20156930,extended,00000000
+
+[Infinite Grenades]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Grenades
+// Infinite Grenades
+patch=1,EE,20207A10,extended,00000000

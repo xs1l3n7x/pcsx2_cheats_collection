@@ -1,0 +1,229 @@
+gametitle=Blowout [SLUS-20850] [71584BAC]
+
+[Max Max DNA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Max DNA
+// Max Max DNA
+patch=1,EE,902C8D14,extended,0C0B898B
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201AE084,extended,3C0142C8
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201AE08C,extended,AE011DD4
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,20193638,extended,00000000
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,10193634,extended,00000001
+
+[Changes Weapons To Have Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Changes Weapons To Have Weapons
+// Changes Weapons To Have Weapons
+patch=1,EE,201A4FA8,extended,24020001
+
+[Changes Weapons To Have Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Changes Weapons To Have Weapons
+// Changes Weapons To Have Weapons
+patch=1,EE,201A4FAC,extended,AC6202CC
+
+[Change Weapons For Max Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Change Weapons For Max Ammo
+// Change Weapons For Max Ammo
+patch=1,EE,201A4FC4,extended,00000000
+
+[Change Weapons For Max Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Change Weapons For Max Ammo
+// Change Weapons For Max Ammo
+patch=1,EE,201A4FDC,extended,24010063
+
+[Change Weapons For Max Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Change Weapons For Max Ammo
+// Change Weapons For Max Ammo
+patch=1,EE,201A4FE0,extended,AC81029C
+
+[Pause To Have All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pause To Have All Weapons
+// Pause To Have All Weapons
+patch=1,EE,201C5A40,extended,24030001
+
+[Pause To Have All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pause To Have All Weapons
+// Pause To Have All Weapons
+patch=1,EE,201C5A48,extended,AC4302CC
+
+[Unlock All Cheats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheats
+// Unlock All Cheats
+patch=1,EE,203BB530,extended,FFFFFFFF
+
+[God Mode On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=God Mode On
+// God Mode On
+patch=1,EE,20318578,extended,00000001
+
+[Enemies Frozen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enemies Frozen
+// Enemies Frozen
+patch=1,EE,20318580,extended,00000001
+
+[Big Head Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Head Mode
+// Big Head Mode
+patch=1,EE,203185A0,extended,00000001
+
+[Big Feet Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Feet Mode
+// Big Feet Mode
+patch=1,EE,203185A4,extended,00000001
+
+[Unlimited Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Ammo
+// Unlimited Ammo
+patch=1,EE,203185C8,extended,00000001
+
+[Area 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Area 1
+// Area 1
+patch=1,EE,20378FB8,extended,00000001
+
+[Area 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Area 1
+// Area 1
+patch=1,EE,20379D90,extended,05F5E0FF
+
+[Area 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Area 2
+// Area 2
+patch=1,EE,20378FBC,extended,00000001
+
+[Area 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Area 2
+// Area 2
+patch=1,EE,20379D94,extended,05F5E0FF
+
+[Area 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Area 3
+// Area 3
+patch=1,EE,20378FC0,extended,00000001
+
+[Area 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Area 3
+// Area 3
+patch=1,EE,20379D98,extended,05F5E0FF
+
+[Area 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Area 4
+// Area 4
+patch=1,EE,20378FC4,extended,00000001
+
+[Area 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Area 4
+// Area 4
+patch=1,EE,20379D9C,extended,05F5E0FF
+
+[Area 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Area 5
+// Area 5
+patch=1,EE,20378FC8,extended,00000001
+
+[Area 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Area 5
+// Area 5
+patch=1,EE,20379DA0,extended,05F5E0FF
+
+[Area 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Area 6
+// Area 6
+patch=1,EE,20378FCC,extended,00000001
+
+[Area 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Area 6
+// Area 6
+patch=1,EE,20379DA4,extended,05F5E0FF
+
+[Area 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Area 7
+// Area 7
+patch=1,EE,20378FD0,extended,00000001
+
+[Area 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Area 7
+// Area 7
+patch=1,EE,20379DA8,extended,05F5E0FF
+
+[Area 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Area 8
+// Area 8
+patch=1,EE,20378FD4,extended,00000001
+
+[Area 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Area 8
+// Area 8
+patch=1,EE,20379DAC,extended,05F5E0FF
+
+[Area 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Area 9
+// Area 9
+patch=1,EE,20378FD8,extended,00000001
+
+[Area 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Area 9
+// Area 9
+patch=1,EE,20379DB0,extended,05F5E0FF
+
+[Area 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Area 10
+// Area 10
+patch=1,EE,20378FDC,extended,00000001
+
+[Area 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Area 10
+// Area 10
+patch=1,EE,20379DB4,extended,05F5E0FF

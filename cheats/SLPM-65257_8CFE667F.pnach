@@ -1,0 +1,337 @@
+gametitle=Silent Hill 3 [SLPM-65257] [8CFE667F]
+
+[Always Low Total Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Damage
+// Always Low Total Damage
+patch=1,EE,9011F5C0,extended,0C04412C
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,203D4AEC,extended,43480000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,203D4AF0,extended,43480000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,203D4AF4,extended,42C80000
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,2016D91C,extended,00000000
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,1016D918,extended,00000001
+
+[Have All Weapons & Supplies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Weapons & Supplies
+// Have All Weapons & Supplies
+patch=1,EE,21D31BF0,extended,8D7FFFFE
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,21D31BF4,extended,FFFFFFFC
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,21D31BF8,extended,FFFFFFFF
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,21D31BFC,extended,00000FFF
+
+[Always Number Of Saves 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Number Of Saves 0
+// Always Number Of Saves 0
+patch=1,EE,201998E4,extended,24040000
+
+[1-Hit Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Enemies)
+// 1-Hit Death (Enemies)
+patch=1,EE,2022EF78,extended,AC80019C
+
+[Access All Maps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Maps
+// Access All Maps
+patch=1,EE,202D1898,extended,24020001
+
+[Have Maps For Current Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Maps For Current Level
+// Have Maps For Current Level
+patch=1,EE,202D1888,extended,24010001
+
+[Have Maps For Current Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Maps For Current Level
+// Have Maps For Current Level
+patch=1,EE,202D1890,extended,00410804
+
+[Have Maps For Current Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Maps For Current Level
+// Have Maps For Current Level
+patch=1,EE,202D1894,extended,00611825
+
+[Have Maps For Current Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Maps For Current Level
+// Have Maps For Current Level
+patch=1,EE,202D1898,extended,AE030000
+
+[Have Maps For Current Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Maps For Current Level
+// Have Maps For Current Level
+patch=1,EE,202D189C,extended,24020001
+
+[Have Maps For Current Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Maps For Current Level
+// Have Maps For Current Level
+patch=1,EE,202D18A0,extended,7BB00000
+
+[Have Maps For Current Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Maps For Current Level
+// Have Maps For Current Level
+patch=1,EE,202D18A4,extended,03E00008
+
+[Have Maps For Current Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Maps For Current Level
+// Have Maps For Current Level
+patch=1,EE,202D18A8,extended,27BD0020
+
+[Never Tired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Tired
+// Never Tired
+patch=1,EE,21D87F6C,extended,00000000
+
+[No Saves Recorded]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Saves Recorded
+// No Saves Recorded
+patch=1,EE,11D87FDC,extended,00000000
+
+[Enemy Attacks Do No Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enemy Attacks Do No Damage
+// Enemy Attacks Do No Damage
+patch=1,EE,103D4AFE,extended,00000000
+
+[1-Hit Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Kills
+// 1-Hit Kills
+patch=1,EE,203D4AF8,extended,42C80000
+
+[Invincible (Cant Be Hit)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincible (Cant Be Hit)
+// Invincible (Cant Be Hit)
+patch=1,EE,203D4AD8,extended,42C80000
+
+[Stun Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Gun
+// Stun Gun
+patch=1,EE,11D31C10,extended,000003E7
+
+[Handgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Handgun
+// Handgun
+patch=1,EE,11D31C12,extended,000003E7
+
+[Shotgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shotgun
+// Shotgun
+patch=1,EE,11D31C14,extended,000003E7
+
+[Submachine Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Submachine Gun
+// Submachine Gun
+patch=1,EE,11D31C16,extended,000003E7
+
+[Stun Gun Battery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Gun Battery
+// Stun Gun Battery
+patch=1,EE,11D31C1A,extended,000003E7
+
+[Handgun Bullets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Handgun Bullets
+// Handgun Bullets
+patch=1,EE,11D31C1C,extended,000003E7
+
+[Shotgun Shells]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shotgun Shells
+// Shotgun Shells
+patch=1,EE,11D31C1E,extended,000003E7
+
+[Submachine Gun Bullets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Submachine Gun Bullets
+// Submachine Gun Bullets
+patch=1,EE,11D31C20,extended,000003E7
+
+[Health Drinks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health Drinks
+// Health Drinks
+patch=1,EE,11D31C22,extended,000003E7
+
+[First-Aid Kits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=First-Aid Kits
+// First-Aid Kits
+patch=1,EE,11D31C24,extended,000003E7
+
+[Ampoules]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ampoules
+// Ampoules
+patch=1,EE,11D31C26,extended,000003E7
+
+[Beef Jerky]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Beef Jerky
+// Beef Jerky
+patch=1,EE,11D31C28,extended,000003E7
+
+[Max Clear Number]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Clear Number
+// Max Clear Number
+patch=1,EE,01D87FD0,extended,00000063
+
+[No Clear Number]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Clear Number
+// No Clear Number
+patch=1,EE,01D87FD0,extended,00000000
+
+[Max Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Items
+// Max Items
+patch=1,EE,11D87FE0,extended,0000270F
+
+[No Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Items
+// No Items
+patch=1,EE,11D87FE0,extended,00000000
+
+[Max Enemies Defeated By Shooting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Enemies Defeated By Shooting
+// Max Enemies Defeated By Shooting
+patch=1,EE,11D87FE2,extended,0000270F
+
+[No Enemies Defeated By Shooting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Enemies Defeated By Shooting
+// No Enemies Defeated By Shooting
+patch=1,EE,11D87FE2,extended,00000000
+
+[Max Enemies Defeated By Fighting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Enemies Defeated By Fighting
+// Max Enemies Defeated By Fighting
+patch=1,EE,11D87FE4,extended,0000270F
+
+[No Enemies Defeated By Fighting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Enemies Defeated By Fighting
+// No Enemies Defeated By Fighting
+patch=1,EE,11D87FE4,extended,00000000
+
+[Always Low Clear Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Clear Time
+// Always Low Clear Time
+patch=1,EE,21D87FEC,extended,00000000
+
+[Always Low Walking Distance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Walking Distance
+// Always Low Walking Distance
+patch=1,EE,21D87FF0,extended,00000000
+
+[Always Low Running Distance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Running Distance
+// Always Low Running Distance
+patch=1,EE,21D87FF4,extended,00000000
+
+[Max Total Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Damage
+// Max Total Damage
+patch=1,EE,21D87FF8,extended,497423F0
+
+[No Total Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Total Damage
+// No Total Damage
+patch=1,EE,21D87FF8,extended,00000000
+
+[Always Low Split Worm Kill Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Split Worm Kill Time
+// Always Low Split Worm Kill Time
+patch=1,EE,21D87FFC,extended,00000000
+
+[Always Low Missionary Kill TIme]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Missionary Kill TIme
+// Always Low Missionary Kill TIme
+patch=1,EE,21D88000,extended,00000000
+
+[Always Low Leonard Kill Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Leonard Kill Time
+// Always Low Leonard Kill Time
+patch=1,EE,21D88004,extended,00000000
+
+[Always Low Memory Of Alessa Kill Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Memory Of Alessa Kill Time
+// Always Low Memory Of Alessa Kill Time
+patch=1,EE,21D88008,extended,00000000
+
+[Always Low The God Kill Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low The God Kill Time
+// Always Low The God Kill Time
+patch=1,EE,21D8800C,extended,00000000

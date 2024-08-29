@@ -1,0 +1,91 @@
+gametitle=Rally Fusion [SLUS-20361] [90CEC03C]
+
+[Max Exp Upon Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp Upon Level Up
+// Max Exp Upon Level Up
+patch=1,EE,F0100008,extended,0030B427
+
+[Access All Multiplayer Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Multiplayer Cars
+// Access All Multiplayer Cars
+patch=1,EE,20918FF8,extended,FFFFFFFF
+
+[Access All Multiplayer Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Multiplayer Tracks
+// Access All Multiplayer Tracks
+patch=1,EE,20918FFC,extended,FFFFFFFF
+
+[Access All Multiplayer Modes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Multiplayer Modes
+// Access All Multiplayer Modes
+patch=1,EE,20919000,extended,FFFFFFFF
+
+[Access All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Tracks
+// Access All Tracks
+patch=1,EE,20919008,extended,FFFFFFFF
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,201BBB0C,extended,00000000
+
+[Press {L1}+{SELECT} To End Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} To End Race
+// Press {L1}+{SELECT} To End Race
+patch=1,EE,200C0220,extended,9421E082
+
+[Press {L1}+{SELECT} To End Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} To End Race
+// Press {L1}+{SELECT} To End Race
+patch=1,EE,200C0224,extended,3402FBFE
+
+[Press {L1}+{SELECT} To End Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} To End Race
+// Press {L1}+{SELECT} To End Race
+patch=1,EE,200C0228,extended,14220002
+
+[Press {L1}+{SELECT} To End Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} To End Race
+// Press {L1}+{SELECT} To End Race
+patch=1,EE,200C022C,extended,24020001
+
+[Press {L1}+{SELECT} To End Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} To End Race
+// Press {L1}+{SELECT} To End Race
+patch=1,EE,200C0230,extended,AC820060
+
+[Press {L1}+{SELECT} To End Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} To End Race
+// Press {L1}+{SELECT} To End Race
+patch=1,EE,200C0234,extended,03E00008
+
+[Press {L1}+{SELECT} To End Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} To End Race
+// Press {L1}+{SELECT} To End Race
+patch=1,EE,200C0238,extended,8C820060
+
+[Press {L1}+{SELECT} To End Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} To End Race
+// Press {L1}+{SELECT} To End Race
+patch=1,EE,201C8958,extended,08030088
+
+[Press {L1}+{SELECT} To End Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} To End Race
+// Press {L1}+{SELECT} To End Race
+patch=1,EE,201C895C,extended,3C010072

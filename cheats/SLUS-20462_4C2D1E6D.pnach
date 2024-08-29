@@ -1,0 +1,103 @@
+gametitle=Wipeout Fusion [SLUS-20462] [4C2D1E6D]
+
+[Max Master League Funds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Master League Funds
+// Max Master League Funds
+patch=1,EE,F0100008,extended,00219097
+
+[Unlock All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Weapons
+// Unlock All Weapons
+patch=1,EE,203A4978,extended,07FFFFFF
+
+[Unlock All Leagues]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Leagues
+// Unlock All Leagues
+patch=1,EE,203A497C,extended,0000FFFF
+
+[Have All Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Challenges Completed
+// Have All Challenges Completed
+patch=1,EE,203A5890,extended,FFFFFFFF
+
+[Have All Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Challenges Completed
+// Have All Challenges Completed
+patch=1,EE,203A5894,extended,FFFFFFFF
+
+[Time Playing Always 00'00]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Time Playing Always 00'00
+// Time Playing Always 00'00
+patch=1,EE,203A58B8,extended,00000000
+
+[Unlock All Teams]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Teams
+// Unlock All Teams
+patch=1,EE,203A58C0,extended,0000FFFF
+
+[Unlock All Challenges]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Challenges
+// Unlock All Challenges
+patch=1,EE,203A58C8,extended,FFFFFFFF
+
+[Unlock All Challenges]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Challenges
+// Unlock All Challenges
+patch=1,EE,203A58CC,extended,FFFFFFFF
+
+[Unlock All Modes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Modes
+// Unlock All Modes
+patch=1,EE,203A58D0,extended,00000003
+
+[Retro Planes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Retro Planes
+// Retro Planes
+patch=1,EE,20248AE8,extended,00000001
+
+[Animal Ships]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Animal Ships
+// Animal Ships
+patch=1,EE,20248AF0,extended,00000001
+
+[Infinite Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Weapons
+// Infinite Weapons
+patch=1,EE,20248AF4,extended,00000001
+
+[Infinite Shield]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Shield
+// Infinite Shield
+patch=1,EE,20248AF8,extended,00000001
+
+[Super Fast Ship]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Fast Ship
+// Super Fast Ship
+patch=1,EE,20248AFC,extended,00000001
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,20248B00,extended,00000001
+
+[Features Unlocked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Features Unlocked
+// Features Unlocked
+patch=1,EE,20248B04,extended,00000001

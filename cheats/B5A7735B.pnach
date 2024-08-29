@@ -1,0 +1,31 @@
+gametitle=Area 51 [UNKNOWN] [B5A7735B]
+
+[Infinite Health All]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health All
+// Infinite Health All
+patch=1,EE,200FFF00,extended,2401270F
+
+[Infinite Health All]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health All
+// Infinite Health All
+patch=1,EE,200FFF04,extended,A6210070
+
+[Infinite Health All]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health All
+// Infinite Health All
+patch=1,EE,200FFF08,extended,A6210074
+
+[Infinite Health All]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health All
+// Infinite Health All
+patch=1,EE,200FFF0C,extended,0810CE4A
+
+[Infinite Health All]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health All
+// Infinite Health All
+patch=1,EE,20433920,extended,0803FFC0

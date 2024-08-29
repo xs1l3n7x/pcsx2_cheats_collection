@@ -1,0 +1,577 @@
+gametitle=NHL Hitz 2002 [SLUS-20140] [E2CC1613]
+
+[Super Max Puck Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Max Puck Speed
+// Super Max Puck Speed
+patch=1,EE,F038CDF8,extended,003B2ED7
+
+[Home Team Scores 255]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 255
+// Home Team Scores 255
+patch=1,EE,11E7293C,extended,000000FF
+
+[Home Team Scores 150]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 150
+// Home Team Scores 150
+patch=1,EE,11E7293C,extended,00000096
+
+[Home Team Scores 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 100
+// Home Team Scores 100
+patch=1,EE,11E7293C,extended,00000064
+
+[Home Team Scores 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 50
+// Home Team Scores 50
+patch=1,EE,11E7293C,extended,00000032
+
+[Home Team Scores 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 25
+// Home Team Scores 25
+patch=1,EE,11E7293C,extended,00000019
+
+[Home Team Scores 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 10
+// Home Team Scores 10
+patch=1,EE,11E7293C,extended,0000000A
+
+[Home Team Scores 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 5
+// Home Team Scores 5
+patch=1,EE,11E7293C,extended,00000005
+
+[Home Team Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 0
+// Home Team Scores 0
+patch=1,EE,11E7293C,extended,00000000
+
+[Away Team Scores 255]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 255
+// Away Team Scores 255
+patch=1,EE,11E72940,extended,000000FF
+
+[Away Team Scores 150]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 150
+// Away Team Scores 150
+patch=1,EE,11E72940,extended,00000096
+
+[Away Team Scores 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 100
+// Away Team Scores 100
+patch=1,EE,11E72940,extended,00000064
+
+[Away Team Scores 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 50
+// Away Team Scores 50
+patch=1,EE,11E72940,extended,00000032
+
+[Away Team Scores 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 25
+// Away Team Scores 25
+patch=1,EE,11E72940,extended,00000019
+
+[Away Team Scores 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 10
+// Away Team Scores 10
+patch=1,EE,11E72940,extended,0000000A
+
+[Away Team Scores 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 5
+// Away Team Scores 5
+patch=1,EE,11E72940,extended,00000005
+
+[Away Team Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 0
+// Away Team Scores 0
+patch=1,EE,11E72940,extended,00000000
+
+[Infinite Turbo P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Turbo P1
+// Infinite Turbo P1
+patch=1,EE,21E729D0,extended,42C80000
+
+[No Turbo P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Turbo P1
+// No Turbo P1
+patch=1,EE,21E729D0,extended,00000000
+
+[Infinite Turbo P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Turbo P2
+// Infinite Turbo P2
+patch=1,EE,21E729D4,extended,42C80000
+
+[No Turbo P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Turbo P2
+// No Turbo P2
+patch=1,EE,21E729D4,extended,00000000
+
+[Infinite Turbo P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Turbo P3
+// Infinite Turbo P3
+patch=1,EE,21E729D8,extended,42C80000
+
+[No Turbo P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Turbo P3
+// No Turbo P3
+patch=1,EE,21E729D8,extended,00000000
+
+[Infinite Turbo P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Turbo P4
+// Infinite Turbo P4
+patch=1,EE,21E729DC,extended,42C80000
+
+[No Turbo P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Turbo P4
+// No Turbo P4
+patch=1,EE,21E729DC,extended,00000000
+
+[Infinite Turbo P5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Turbo P5
+// Infinite Turbo P5
+patch=1,EE,21E729E0,extended,42C80000
+
+[No Turbo P5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Turbo P5
+// No Turbo P5
+patch=1,EE,21E729E0,extended,00000000
+
+[Infinite Turbo P6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Turbo P6
+// Infinite Turbo P6
+patch=1,EE,21E729E4,extended,42C80000
+
+[No Turbo P6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Turbo P6
+// No Turbo P6
+patch=1,EE,21E729E4,extended,00000000
+
+[Infinite Turbo P7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Turbo P7
+// Infinite Turbo P7
+patch=1,EE,21E729E8,extended,42C80000
+
+[No Turbo P7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Turbo P7
+// No Turbo P7
+patch=1,EE,21E729E8,extended,00000000
+
+[Infinite Turbo P8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Turbo P8
+// Infinite Turbo P8
+patch=1,EE,21E729EC,extended,42C80000
+
+[No Turbo P8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Turbo P8
+// No Turbo P8
+patch=1,EE,21E729EC,extended,00000000
+
+[Infinite Credits (Hockey Shop)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Credits (Hockey Shop)
+// Infinite Credits (Hockey Shop)
+patch=1,EE,11E6EE50,extended,0000270F
+
+[Start On 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On 2nd Period
+// Start On 2nd Period
+patch=1,EE,D1E72938,extended,00000001
+
+[Start On 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On 2nd Period
+// Start On 2nd Period
+patch=1,EE,11E72938,extended,00000002
+
+[Start On 3rd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On 3rd Period
+// Start On 3rd Period
+patch=1,EE,D1E72938,extended,00000001
+
+[Start On 3rd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On 3rd Period
+// Start On 3rd Period
+patch=1,EE,11E72938,extended,00000003
+
+[Max Stats (Created Character)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stats (Created Character)
+// Max Stats (Created Character)
+patch=1,EE,10483B1E,extended,00001414
+
+[Max Stats (Created Character)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stats (Created Character)
+// Max Stats (Created Character)
+patch=1,EE,20483B20,extended,14141414
+
+[Max Stats (Created Character)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stats (Created Character)
+// Max Stats (Created Character)
+patch=1,EE,10483B24,extended,00001414
+
+[Max Stats (Created Character)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stats (Created Character)
+// Max Stats (Created Character)
+patch=1,EE,10483B26,extended,00000014
+
+[P1 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L2} For More Time
+// P1 Press {L1}+{L2} For More Time
+patch=1,EE,D1EC0048,extended,00000005
+
+[P1 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L2} For More Time
+// P1 Press {L1}+{L2} For More Time
+patch=1,EE,1173E79E,extended,00004334
+
+[P1 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{R2} To End Period
+// P1 Press {R1}+{R2} To End Period
+patch=1,EE,D1EC0048,extended,0000000A
+
+[P1 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{R2} To End Period
+// P1 Press {R1}+{R2} To End Period
+patch=1,EE,1173E79E,extended,00003F80
+
+[P2 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{L2} For More Time
+// P2 Press {L1}+{L2} For More Time
+patch=1,EE,D1EBFA68,extended,00000005
+
+[P2 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{L2} For More Time
+// P2 Press {L1}+{L2} For More Time
+patch=1,EE,1173E79E,extended,00004334
+
+[P2 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {R1}+{R2} To End Period
+// P2 Press {R1}+{R2} To End Period
+patch=1,EE,D1EBFA68,extended,0000000A
+
+[P2 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {R1}+{R2} To End Period
+// P2 Press {R1}+{R2} To End Period
+patch=1,EE,1173E79E,extended,00003F80
+
+[Show Shot Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Shot Speed
+// Show Shot Speed
+patch=1,EE,11E72A2C,extended,00000001
+
+[Show Hot Spot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Hot Spot
+// Show Hot Spot
+patch=1,EE,11E72A58,extended,00000001
+
+[No Crowd]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Crowd
+// No Crowd
+patch=1,EE,11E72B08,extended,00000001
+
+[Snow Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snow Mode
+// Snow Mode
+patch=1,EE,11E72B34,extended,00000001
+
+[Rain Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rain Mode
+// Rain Mode
+patch=1,EE,11E72B60,extended,00000001
+
+[Infinite Turbo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Turbo
+// Infinite Turbo
+patch=1,EE,11E72BE4,extended,00000001
+
+[Big Puck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Puck
+// Big Puck
+patch=1,EE,11E72C10,extended,00000001
+
+[Late Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Late Hits
+// Late Hits
+patch=1,EE,11E72C94,extended,00000001
+
+[Pinball Boards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pinball Boards
+// Pinball Boards
+patch=1,EE,11E72D18,extended,00000001
+
+[No Puck Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Puck Out
+// No Puck Out
+patch=1,EE,11E72D70,extended,00000001
+
+[Hitz Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hitz Time
+// Hitz Time
+patch=1,EE,11E72E20,extended,00000001
+
+[Tennis Ball]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tennis Ball
+// Tennis Ball
+patch=1,EE,11E72E78,extended,00000001
+
+[Win Fights For Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Win Fights For Goals
+// Win Fights For Goals
+patch=1,EE,11E72ED0,extended,00000001
+
+[Skills Versus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skills Versus
+// Skills Versus
+patch=1,EE,11E72F54,extended,00000001
+
+[Big Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Hits
+// Big Hits
+patch=1,EE,11E7305C,extended,00000001
+
+[Turbo Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Turbo Boost
+// Turbo Boost
+patch=1,EE,11E730B4,extended,00000001
+
+[Domino Effect]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Domino Effect
+// Domino Effect
+patch=1,EE,11E7310C,extended,00000001
+
+[No Fake Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Fake Shots
+// No Fake Shots
+patch=1,EE,11E73214,extended,00000001
+
+[No One-Timers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No One-Timers
+// No One-Timers
+patch=1,EE,11E73240,extended,00000001
+
+[Bulldozer Puck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bulldozer Puck
+// Bulldozer Puck
+patch=1,EE,11E73298,extended,00000001
+
+[Huge Puck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Puck
+// Huge Puck
+patch=1,EE,11E732F0,extended,00000001
+
+[First To 7 Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=First To 7 Wins
+// First To 7 Wins
+patch=1,EE,11E73348,extended,00000001
+
+[Big Head P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Head P1
+// Big Head P1
+patch=1,EE,11E72A84,extended,00000001
+
+[Big Head P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Head P1
+// Big Head P1
+patch=1,EE,11E72A90,extended,00000001
+
+[Huge Head P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Head P1
+// Huge Head P1
+patch=1,EE,11E73004,extended,00000001
+
+[Huge Head P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Head P1
+// Huge Head P1
+patch=1,EE,11E73010,extended,00000001
+
+[Big Head Team-P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Head Team-P1
+// Big Head Team-P1
+patch=1,EE,11E72AB0,extended,00000001
+
+[Big Head Team-P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Head Team-P1
+// Big Head Team-P1
+patch=1,EE,11E72AB8,extended,00000001
+
+[Huge Head Team-P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Head Team-P1
+// Huge Head Team-P1
+patch=1,EE,11E73030,extended,00000001
+
+[Huge Head Team-P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Head Team-P1
+// Huge Head Team-P1
+patch=1,EE,11E73038,extended,00000001
+
+[Big Head P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Head P2
+// Big Head P2
+patch=1,EE,11E72A84,extended,00000001
+
+[Big Head P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Head P2
+// Big Head P2
+patch=1,EE,11E72AA0,extended,00000001
+
+[Huge Head P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Head P2
+// Huge Head P2
+patch=1,EE,11E73004,extended,00000001
+
+[Huge Head P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Head P2
+// Huge Head P2
+patch=1,EE,11E73020,extended,00000001
+
+[Big Head Team-P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Head Team-P2
+// Big Head Team-P2
+patch=1,EE,11E72AB0,extended,00000001
+
+[Big Head Team-P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Head Team-P2
+// Big Head Team-P2
+patch=1,EE,11E72AB4,extended,00000001
+
+[Huge Head Team-P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Head Team-P2
+// Huge Head Team-P2
+patch=1,EE,11E73030,extended,00000001
+
+[Huge Head Team-P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Head Team-P2
+// Huge Head Team-P2
+patch=1,EE,11E73034,extended,00000001
+
+[Have All Jerseys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Jerseys
+// Have All Jerseys
+patch=1,EE,41E6EE54,extended,00350001
+
+[Have All Jerseys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Jerseys
+// Have All Jerseys
+patch=1,EE,00000000,extended,00000000
+
+[Have All Heads]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Heads
+// Have All Heads
+patch=1,EE,41E6EF28,extended,000F0001
+
+[Have All Heads]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Heads
+// Have All Heads
+patch=1,EE,00000000,extended,00000000
+
+[Have All Stadiums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Stadiums
+// Have All Stadiums
+patch=1,EE,41E6EF64,extended,000E0001
+
+[Have All Stadiums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Stadiums
+// Have All Stadiums
+patch=1,EE,00000000,extended,00000000
+
+[Have All Teams]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Teams
+// Have All Teams
+patch=1,EE,41E6EF9C,extended,00140001
+
+[Have All Teams]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Teams
+// Have All Teams
+patch=1,EE,00000000,extended,00000000

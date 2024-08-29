@@ -1,0 +1,181 @@
+gametitle=Tokyo Xtreme Racer 3 [SLUS-20831] [0F932D81]
+
+[Buying Items Increases Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Items Increases Money
+// Buying Items Increases Money
+patch=1,EE,9014B700,extended,0C04ADFA
+
+[Infinite Money (Start A Race)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money (Start A Race)
+// Infinite Money (Start A Race)
+patch=1,EE,103AEBB0,extended,0000FFFF
+
+[Max Money (Start A Race)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money (Start A Race)
+// Max Money (Start A Race)
+patch=1,EE,203AEBB0,extended,05F5E0FF
+
+[Infinite Money (Alternate)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money (Alternate)
+// Infinite Money (Alternate)
+patch=1,EE,108153B0,extended,0000FFFF
+
+[Max Money (Alternate)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money (Alternate)
+// Max Money (Alternate)
+patch=1,EE,208153B0,extended,05F5E0FF
+
+[Days 999]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Days 999
+// Days 999
+patch=1,EE,208153B4,extended,000003E7
+
+[Max Days]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Days
+// Max Days
+patch=1,EE,103AEBB4,extended,000003E7
+
+[Quick Odometer Meter Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Odometer Meter Gain
+// Quick Odometer Meter Gain
+patch=1,EE,103AEB54,extended,0000FFFF
+
+[Max Odometer Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Odometer Meter
+// Max Odometer Meter
+patch=1,EE,203AEB54,extended,3B9AC9FF
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,D041E8D2,extended,00000041
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,2041EAC0,extended,00000000
+
+[Max Trip Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Trip Meter
+// Max Trip Meter
+patch=1,EE,D041E8D2,extended,00000041
+
+[Max Trip Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Trip Meter
+// Max Trip Meter
+patch=1,EE,2041EABC,extended,00189BC6
+
+[Infinite SP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite SP P1
+// Infinite SP P1
+patch=1,EE,D041E8D2,extended,00000041
+
+[Infinite SP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite SP P1
+// Infinite SP P1
+patch=1,EE,2041E958,extended,004C4B40
+
+[No SP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No SP P1
+// No SP P1
+patch=1,EE,D041E8D2,extended,00000041
+
+[No SP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No SP P1
+// No SP P1
+patch=1,EE,2041E958,extended,00000000
+
+[Infinite SP Rival]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite SP Rival
+// Infinite SP Rival
+patch=1,EE,D041E8D2,extended,00000041
+
+[Infinite SP Rival]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite SP Rival
+// Infinite SP Rival
+patch=1,EE,2041E9A8,extended,004C4B40
+
+[No SP Rival]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No SP Rival
+// No SP Rival
+patch=1,EE,D041E8D2,extended,00000041
+
+[No SP Rival]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No SP Rival
+// No SP Rival
+patch=1,EE,2041E9A8,extended,00000000
+
+[Rival Always Loses SP Over Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rival Always Loses SP Over Time
+// Rival Always Loses SP Over Time
+patch=1,EE,20165B18,extended,24090BB8
+
+[Rival Always Loses SP Over Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rival Always Loses SP Over Time
+// Rival Always Loses SP Over Time
+patch=1,EE,10165B22,extended,00001000
+
+[Never Lose SP Over Time P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Lose SP Over Time P1
+// Never Lose SP Over Time P1
+patch=1,EE,20165B60,extended,00000000
+
+[Never Lose SP Over Time P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Lose SP Over Time P1
+// Never Lose SP Over Time P1
+patch=1,EE,20165B68,extended,00000000
+
+[Never Lose SP From Damage P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Lose SP From Damage P1
+// Never Lose SP From Damage P1
+patch=1,EE,201653F0,extended,00000000
+
+[Access All Cars (Free Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Cars (Free Mode)
+// Access All Cars (Free Mode)
+patch=1,EE,201D338C,extended,00000000
+
+[Access All Cars For Sale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Cars For Sale
+// Access All Cars For Sale
+patch=1,EE,201D36E8,extended,00000000
+
+[Money Doesnt Decrease When Buying Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Money Doesnt Decrease When Buying Cars
+// Money Doesnt Decrease When Buying Cars
+patch=1,EE,2020D8DC,extended,00000000
+
+[Money Increases When Buying Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Money Increases When Buying Cars
+// Money Increases When Buying Cars
+patch=1,EE,2020D8D8,extended,00451021

@@ -1,0 +1,2323 @@
+gametitle=BMX XXX [SLUS-20415] [2999BCF9]
+
+[Unlock All Unlockables]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Unlockables
+// Unlock All Unlockables
+patch=1,EE,9022B2DC,extended,0C08D023
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201AD310,extended,240200FF
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201AD318,extended,A2020194
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,201EC644,extended,00000000
+
+[End Run For Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=End Run For Max Score
+// End Run For Max Score
+patch=1,EE,200C0220,extended,3C014B18
+
+[End Run For Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=End Run For Max Score
+// End Run For Max Score
+patch=1,EE,200C0224,extended,3421967F
+
+[End Run For Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=End Run For Max Score
+// End Run For Max Score
+patch=1,EE,200C0228,extended,AE410000
+
+[End Run For Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=End Run For Max Score
+// End Run For Max Score
+patch=1,EE,200C022C,extended,03E00008
+
+[End Run For Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=End Run For Max Score
+// End Run For Max Score
+patch=1,EE,200C0230,extended,C6400008
+
+[End Run For Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=End Run For Max Score
+// End Run For Max Score
+patch=1,EE,201B0F6C,extended,0C030088
+
+[The Bronx, NYC-3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC-3
+// The Bronx, NYC-3
+patch=1,EE,2027B148,extended,00000001
+
+[The Bronx, NYC-1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC-1
+// The Bronx, NYC-1
+patch=1,EE,2027B14C,extended,00000001
+
+[The Bronx, NYC-2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC-2
+// The Bronx, NYC-2
+patch=1,EE,2027B150,extended,00000001
+
+[The Dam-1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam-1
+// The Dam-1
+patch=1,EE,2027B154,extended,00000001
+
+[The Dam-2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam-2
+// The Dam-2
+patch=1,EE,2027B158,extended,00000001
+
+[Bonus Movie-1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bonus Movie-1
+// Bonus Movie-1
+patch=1,EE,2027B15C,extended,00000001
+
+[Rampage Skatepark-2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rampage Skatepark-2
+// Rampage Skatepark-2
+patch=1,EE,2027B160,extended,00000001
+
+[Sheep Hills-1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills-1
+// Sheep Hills-1
+patch=1,EE,2027B164,extended,00000001
+
+[Sheep Hills-2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills-2
+// Sheep Hills-2
+patch=1,EE,2027B168,extended,00000001
+
+[Syracuse-1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse-1
+// Syracuse-1
+patch=1,EE,2027B16C,extended,00000001
+
+[Syracuse-2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse-2
+// Syracuse-2
+patch=1,EE,2027B170,extended,00000001
+
+[Bonus Movie-2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bonus Movie-2
+// Bonus Movie-2
+patch=1,EE,2027B174,extended,00000001
+
+[UGP Roots Jam-2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UGP Roots Jam-2
+// UGP Roots Jam-2
+patch=1,EE,2027B178,extended,00000001
+
+[Las Vegas-1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas-1
+// Las Vegas-1
+patch=1,EE,2027B17C,extended,00000001
+
+[Las Vegas-2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas-2
+// Las Vegas-2
+patch=1,EE,2027B180,extended,00000001
+
+[Launch Pad 69-1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69-1
+// Launch Pad 69-1
+patch=1,EE,2027B184,extended,00000001
+
+[Launch Pad 69-2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69-2
+// Launch Pad 69-2
+patch=1,EE,2027B188,extended,00000001
+
+[Final Movie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Final Movie
+// Final Movie
+patch=1,EE,2027B18C,extended,00000001
+
+[All Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Movies
+// All Movies
+patch=1,EE,4027B148,extended,00120001
+
+[All Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Movies
+// All Movies
+patch=1,EE,00000001,extended,00000000
+
+[Have All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bikes
+// Have All Bikes
+patch=1,EE,00259247,extended,00000005
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,00259997,extended,00000001
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00259B9D,extended,00000001
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00259DA3,extended,00000001
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00259FA9,extended,00000001
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0025A1AF,extended,00000001
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0025A3B5,extended,00000001
+
+[Rampage Skatepark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rampage Skatepark
+// Rampage Skatepark
+patch=1,EE,0025A5BB,extended,00000001
+
+[UGP Roots Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UGP Roots Jam
+// UGP Roots Jam
+patch=1,EE,0025A7C1,extended,00000001
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,00259993,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00259B99,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00259D9F,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00259FA5,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0025A1AB,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0025A3B1,extended,00000014
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,00259995,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00259B9B,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00259DA1,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00259FA7,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0025A1AD,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0025A3B3,extended,00000014
+
+[Have All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bikes
+// Have All Bikes
+patch=1,EE,0025B23B,extended,00000005
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0025B98B,extended,00000001
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,0025BB91,extended,00000001
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,0025BD97,extended,00000001
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,0025BF9D,extended,00000001
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0025C1A3,extended,00000001
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0025C3A9,extended,00000001
+
+[Rampage Skatepark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rampage Skatepark
+// Rampage Skatepark
+patch=1,EE,0025C5AF,extended,00000001
+
+[UGP Roots Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UGP Roots Jam
+// UGP Roots Jam
+patch=1,EE,0025C7B5,extended,00000001
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0025B987,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,0025BB8D,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,0025BD93,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,0025BF99,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0025C19F,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0025C3A5,extended,00000014
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0025B989,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,0025BB8F,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,0025BD95,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,0025BF9B,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0025C1A1,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0025C3A7,extended,00000014
+
+[Have All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bikes
+// Have All Bikes
+patch=1,EE,0025D22F,extended,00000005
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0025D97F,extended,00000001
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,0025DB85,extended,00000001
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,0025DD8B,extended,00000001
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,0025DF91,extended,00000001
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0025E197,extended,00000001
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0025E39D,extended,00000001
+
+[Rampage Skatepark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rampage Skatepark
+// Rampage Skatepark
+patch=1,EE,0025E5A3,extended,00000001
+
+[UGP Roots Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UGP Roots Jam
+// UGP Roots Jam
+patch=1,EE,0025E7A9,extended,00000001
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0025D97B,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,0025DB81,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,0025DD87,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,0025DF8D,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0025E193,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0025E399,extended,00000014
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0025D97D,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,0025DB83,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,0025DD89,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,0025DF8F,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0025E195,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0025E39B,extended,00000014
+
+[Have All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bikes
+// Have All Bikes
+patch=1,EE,0025F223,extended,00000005
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0025F973,extended,00000001
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,0025FB79,extended,00000001
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,0025FD7F,extended,00000001
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,0025FF85,extended,00000001
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0026018B,extended,00000001
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,00260391,extended,00000001
+
+[Rampage Skatepark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rampage Skatepark
+// Rampage Skatepark
+patch=1,EE,00260597,extended,00000001
+
+[UGP Roots Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UGP Roots Jam
+// UGP Roots Jam
+patch=1,EE,0026079D,extended,00000001
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0025F96F,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,0025FB75,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,0025FD7B,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,0025FF81,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,00260187,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0026038D,extended,00000014
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0025F971,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,0025FB77,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,0025FD7D,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,0025FF83,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,00260189,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0026038F,extended,00000014
+
+[Have All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bikes
+// Have All Bikes
+patch=1,EE,00261217,extended,00000005
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,00261967,extended,00000001
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00261B6D,extended,00000001
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00261D73,extended,00000001
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00261F79,extended,00000001
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0026217F,extended,00000001
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,00262385,extended,00000001
+
+[Rampage Skatepark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rampage Skatepark
+// Rampage Skatepark
+patch=1,EE,0026258B,extended,00000001
+
+[UGP Roots Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UGP Roots Jam
+// UGP Roots Jam
+patch=1,EE,00262791,extended,00000001
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,00261963,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00261B69,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00261D6F,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00261F75,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0026217B,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,00262381,extended,00000014
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,00261965,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00261B6B,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00261D71,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00261F77,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0026217D,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,00262383,extended,00000014
+
+[Have All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bikes
+// Have All Bikes
+patch=1,EE,0026320B,extended,00000005
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0026395B,extended,00000001
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00263B61,extended,00000001
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00263D67,extended,00000001
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00263F6D,extended,00000001
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,00264173,extended,00000001
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,00264379,extended,00000001
+
+[Rampage Skatepark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rampage Skatepark
+// Rampage Skatepark
+patch=1,EE,0026457F,extended,00000001
+
+[UGP Roots Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UGP Roots Jam
+// UGP Roots Jam
+patch=1,EE,00264785,extended,00000001
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,00263957,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00263B5D,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00263D63,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00263F69,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0026416F,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,00264375,extended,00000014
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,00263959,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00263B5F,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00263D65,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00263F6B,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,00264171,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,00264377,extended,00000014
+
+[Have All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bikes
+// Have All Bikes
+patch=1,EE,002651FF,extended,00000005
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0026594F,extended,00000001
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00265B55,extended,00000001
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00265D5B,extended,00000001
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00265F61,extended,00000001
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,00266167,extended,00000001
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0026636D,extended,00000001
+
+[Rampage Skatepark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rampage Skatepark
+// Rampage Skatepark
+patch=1,EE,00266573,extended,00000001
+
+[UGP Roots Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UGP Roots Jam
+// UGP Roots Jam
+patch=1,EE,00266779,extended,00000001
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0026594B,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00265B51,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00265D57,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00265F5D,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,00266163,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,00266369,extended,00000014
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0026594D,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00265B53,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00265D59,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00265F5F,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,00266165,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0026636B,extended,00000014
+
+[Have All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bikes
+// Have All Bikes
+patch=1,EE,002671F3,extended,00000005
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,00267943,extended,00000001
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00267B49,extended,00000001
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00267D4F,extended,00000001
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00267F55,extended,00000001
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0026815B,extended,00000001
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,00268361,extended,00000001
+
+[Rampage Skatepark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rampage Skatepark
+// Rampage Skatepark
+patch=1,EE,00268567,extended,00000001
+
+[UGP Roots Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UGP Roots Jam
+// UGP Roots Jam
+patch=1,EE,0026876D,extended,00000001
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0026793F,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00267B45,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00267D4B,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00267F51,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,00268157,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0026835D,extended,00000014
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,00267941,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00267B47,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00267D4D,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00267F53,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,00268159,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0026835F,extended,00000014
+
+[Have All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bikes
+// Have All Bikes
+patch=1,EE,002691E7,extended,00000005
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,00269937,extended,00000001
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00269B3D,extended,00000001
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00269D43,extended,00000001
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00269F49,extended,00000001
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0026A14F,extended,00000001
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0026A355,extended,00000001
+
+[Rampage Skatepark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rampage Skatepark
+// Rampage Skatepark
+patch=1,EE,0026A55B,extended,00000001
+
+[UGP Roots Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UGP Roots Jam
+// UGP Roots Jam
+patch=1,EE,0026A761,extended,00000001
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,00269933,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00269B39,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00269D3F,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00269F45,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0026A14B,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0026A351,extended,00000014
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,00269935,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00269B3B,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00269D41,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00269F47,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0026A14D,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0026A353,extended,00000014
+
+[Have All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bikes
+// Have All Bikes
+patch=1,EE,0026B1DB,extended,00000005
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0026B92B,extended,00000001
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,0026BB31,extended,00000001
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,0026BD37,extended,00000001
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,0026BF3D,extended,00000001
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0026C143,extended,00000001
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0026C349,extended,00000001
+
+[Rampage Skatepark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rampage Skatepark
+// Rampage Skatepark
+patch=1,EE,0026C54F,extended,00000001
+
+[UGP Roots Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UGP Roots Jam
+// UGP Roots Jam
+patch=1,EE,0026C755,extended,00000001
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0026B927,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,0026BB2D,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,0026BD33,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,0026BF39,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0026C13F,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0026C345,extended,00000014
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0026B929,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,0026BB2F,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,0026BD35,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,0026BF3B,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0026C141,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0026C347,extended,00000014
+
+[Have All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bikes
+// Have All Bikes
+patch=1,EE,0026D1CF,extended,00000005
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0026D91F,extended,00000001
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,0026DB25,extended,00000001
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,0026DD2B,extended,00000001
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,0026DF31,extended,00000001
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0026E137,extended,00000001
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0026E33D,extended,00000001
+
+[Rampage Skatepark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rampage Skatepark
+// Rampage Skatepark
+patch=1,EE,0026E543,extended,00000001
+
+[UGP Roots Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UGP Roots Jam
+// UGP Roots Jam
+patch=1,EE,0026E749,extended,00000001
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0026D91B,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,0026DB21,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,0026DD27,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,0026DF2D,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0026E133,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0026E339,extended,00000014
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0026D91D,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,0026DB23,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,0026DD29,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,0026DF2F,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0026E135,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0026E33B,extended,00000014
+
+[Have All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bikes
+// Have All Bikes
+patch=1,EE,0026F1C3,extended,00000005
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0026F913,extended,00000001
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,0026FB19,extended,00000001
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,0026FD1F,extended,00000001
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,0026FF25,extended,00000001
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0027012B,extended,00000001
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,00270331,extended,00000001
+
+[Rampage Skatepark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rampage Skatepark
+// Rampage Skatepark
+patch=1,EE,00270537,extended,00000001
+
+[UGP Roots Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UGP Roots Jam
+// UGP Roots Jam
+patch=1,EE,0027073D,extended,00000001
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0026F90F,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,0026FB15,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,0026FD1B,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,0026FF21,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,00270127,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0027032D,extended,00000014
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,0026F911,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,0026FB17,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,0026FD1D,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,0026FF23,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,00270129,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0027032F,extended,00000014
+
+[Have All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bikes
+// Have All Bikes
+patch=1,EE,002711B7,extended,00000005
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,00271907,extended,00000001
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00271B0D,extended,00000001
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00271D13,extended,00000001
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00271F19,extended,00000001
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0027211F,extended,00000001
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,00272325,extended,00000001
+
+[Rampage Skatepark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rampage Skatepark
+// Rampage Skatepark
+patch=1,EE,0027252B,extended,00000001
+
+[UGP Roots Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UGP Roots Jam
+// UGP Roots Jam
+patch=1,EE,00272731,extended,00000001
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,00271903,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00271B09,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00271D0F,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00271F15,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0027211B,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,00272321,extended,00000014
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,00271905,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00271B0B,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00271D11,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00271F17,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0027211D,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,00272323,extended,00000014
+
+[Have All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bikes
+// Have All Bikes
+patch=1,EE,002731AB,extended,00000005
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,002738FB,extended,00000001
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00273B01,extended,00000001
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00273D07,extended,00000001
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00273F0D,extended,00000001
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,00274113,extended,00000001
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,00274319,extended,00000001
+
+[Rampage Skatepark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rampage Skatepark
+// Rampage Skatepark
+patch=1,EE,0027451F,extended,00000001
+
+[UGP Roots Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UGP Roots Jam
+// UGP Roots Jam
+patch=1,EE,00274725,extended,00000001
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,002738F7,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00273AFD,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00273D03,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00273F09,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0027410F,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,00274315,extended,00000014
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,002738F9,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00273AFF,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00273D05,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00273F0B,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,00274111,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,00274317,extended,00000014
+
+[Have All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bikes
+// Have All Bikes
+patch=1,EE,0027519F,extended,00000005
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,002758EF,extended,00000001
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00275AF5,extended,00000001
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00275CFB,extended,00000001
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00275F01,extended,00000001
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,00276107,extended,00000001
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0027630D,extended,00000001
+
+[Rampage Skatepark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rampage Skatepark
+// Rampage Skatepark
+patch=1,EE,00276513,extended,00000001
+
+[UGP Roots Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UGP Roots Jam
+// UGP Roots Jam
+patch=1,EE,00276719,extended,00000001
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,002758EB,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00275AF1,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00275CF7,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00275EFD,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,00276103,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,00276309,extended,00000014
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,002758ED,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00275AF3,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00275CF9,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00275EFF,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,00276105,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0027630B,extended,00000014
+
+[Have All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bikes
+// Have All Bikes
+patch=1,EE,00277193,extended,00000005
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,002778E3,extended,00000001
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00277AE9,extended,00000001
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00277CEF,extended,00000001
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00277EF5,extended,00000001
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,002780FB,extended,00000001
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,00278301,extended,00000001
+
+[Rampage Skatepark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rampage Skatepark
+// Rampage Skatepark
+patch=1,EE,00278507,extended,00000001
+
+[UGP Roots Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UGP Roots Jam
+// UGP Roots Jam
+patch=1,EE,0027870D,extended,00000001
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,002778DF,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00277AE5,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00277CEB,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00277EF1,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,002780F7,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,002782FD,extended,00000014
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,002778E1,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00277AE7,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00277CED,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00277EF3,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,002780F9,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,002782FF,extended,00000014
+
+[Have All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bikes
+// Have All Bikes
+patch=1,EE,00279187,extended,00000005
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,002798D7,extended,00000001
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00279ADD,extended,00000001
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00279CE3,extended,00000001
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00279EE9,extended,00000001
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0027A0EF,extended,00000001
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0027A2F5,extended,00000001
+
+[Rampage Skatepark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rampage Skatepark
+// Rampage Skatepark
+patch=1,EE,0027A4FB,extended,00000001
+
+[UGP Roots Jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=UGP Roots Jam
+// UGP Roots Jam
+patch=1,EE,0027A701,extended,00000001
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,002798D3,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00279AD9,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00279CDF,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00279EE5,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0027A0EB,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0027A2F1,extended,00000014
+
+[The Bronx, NYC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Bronx, NYC
+// The Bronx, NYC
+patch=1,EE,002798D5,extended,00000014
+
+[The Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dam
+// The Dam
+patch=1,EE,00279ADB,extended,00000014
+
+[Sheep Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheep Hills
+// Sheep Hills
+patch=1,EE,00279CE1,extended,00000014
+
+[Syracuse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Syracuse
+// Syracuse
+patch=1,EE,00279EE7,extended,00000014
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,0027A0ED,extended,00000014
+
+[Launch Pad 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Pad 69
+// Launch Pad 69
+patch=1,EE,0027A2F3,extended,00000014

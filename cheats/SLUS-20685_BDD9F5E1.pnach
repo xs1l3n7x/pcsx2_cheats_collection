@@ -1,0 +1,265 @@
+gametitle=Ape Escape 2 [SLUS-20685] [BDD9F5E1]
+
+[Always Max Fire Crystals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Fire Crystals
+// Always Max Fire Crystals
+patch=1,EE,F0100008,extended,0036B4AB
+
+[Infinite Lives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives
+// Infinite Lives
+patch=1,EE,203E0668,extended,00000009
+
+[Infinite Cookies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Cookies
+// Infinite Cookies
+patch=1,EE,203E066C,extended,00000032
+
+[Max Gold Coins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Gold Coins
+// Max Gold Coins
+patch=1,EE,203E0670,extended,000003E7
+
+[Unlock All Stages]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Stages
+// Unlock All Stages
+patch=1,EE,203E0674,extended,0000001C
+
+[Have All Stages Cleared]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Stages Cleared
+// Have All Stages Cleared
+patch=1,EE,203E0678,extended,0000001C
+
+[Have All Standard Gadgets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Standard Gadgets
+// Have All Standard Gadgets
+patch=1,EE,203E067C,extended,000000FF
+
+[Have Magic Punch Gadget]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Magic Punch Gadget
+// Have Magic Punch Gadget
+patch=1,EE,004D16F3,extended,00000001
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,202ACA90,extended,00000000
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,202ACA9C,extended,00000000
+
+[Unlock All Monkey Fables]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Monkey Fables
+// Unlock All Monkey Fables
+patch=1,EE,403E0904,extended,00140001
+
+[Unlock All Monkey Fables]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Monkey Fables
+// Unlock All Monkey Fables
+patch=1,EE,00000001,extended,00000000
+
+[Unlock All Mini-Games]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Mini-Games
+// Unlock All Mini-Games
+patch=1,EE,203E0954,extended,01010101
+
+[Unlock All Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Movies
+// Unlock All Movies
+patch=1,EE,003E0957,extended,00000001
+
+[Unlock All Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Movies
+// Unlock All Movies
+patch=1,EE,203E0958,extended,01010101
+
+[Unlock All Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Movies
+// Unlock All Movies
+patch=1,EE,103E095C,extended,00000101
+
+[Unlock All Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Movies
+// Unlock All Movies
+patch=1,EE,003E095E,extended,00000001
+
+[Unlock All Soundtracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Soundtracks
+// Unlock All Soundtracks
+patch=1,EE,003E095F,extended,00000001
+
+[Unlock All Soundtracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Soundtracks
+// Unlock All Soundtracks
+patch=1,EE,403E0960,extended,000C0001
+
+[Unlock All Soundtracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Soundtracks
+// Unlock All Soundtracks
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Soundtracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Soundtracks
+// Unlock All Soundtracks
+patch=1,EE,003E0990,extended,00000001
+
+[Unlock All RC Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All RC Cars
+// Unlock All RC Cars
+patch=1,EE,003E0991,extended,00000001
+
+[Unlock All RC Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All RC Cars
+// Unlock All RC Cars
+patch=1,EE,103E0992,extended,00000101
+
+[Unlock All RC Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All RC Cars
+// Unlock All RC Cars
+patch=1,EE,003E0994,extended,00000001
+
+[Unlock All Comic Strips]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Comic Strips
+// Unlock All Comic Strips
+patch=1,EE,003E0995,extended,00000001
+
+[Unlock All Comic Strips]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Comic Strips
+// Unlock All Comic Strips
+patch=1,EE,103E0996,extended,00000101
+
+[Unlock All Comic Strips]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Comic Strips
+// Unlock All Comic Strips
+patch=1,EE,403E0998,extended,00030001
+
+[Unlock All Comic Strips]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Comic Strips
+// Unlock All Comic Strips
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Comic Strips]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Comic Strips
+// Unlock All Comic Strips
+patch=1,EE,103E09A4,extended,00000101
+
+[Unlock All Concept Arts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Concept Arts
+// Unlock All Concept Arts
+patch=1,EE,103E09A6,extended,00000101
+
+[Unlock All Concept Arts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Concept Arts
+// Unlock All Concept Arts
+patch=1,EE,403E09A8,extended,000C0001
+
+[Unlock All Concept Arts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Concept Arts
+// Unlock All Concept Arts
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Secret Photos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Secret Photos
+// Unlock All Secret Photos
+patch=1,EE,403E09D8,extended,000C0001
+
+[Unlock All Secret Photos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Secret Photos
+// Unlock All Secret Photos
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Secret Photos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Secret Photos
+// Unlock All Secret Photos
+patch=1,EE,103E0A08,extended,00000101
+
+[Unlock All Enemy Photos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Enemy Photos
+// Unlock All Enemy Photos
+patch=1,EE,103E0A0A,extended,00000101
+
+[Unlock All Enemy Photos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Enemy Photos
+// Unlock All Enemy Photos
+patch=1,EE,403E0A0C,extended,00060001
+
+[Unlock All Enemy Photos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Enemy Photos
+// Unlock All Enemy Photos
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Stage Photos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Stage Photos
+// Unlock All Stage Photos
+patch=1,EE,003E0A25,extended,00000001
+
+[Unlock All Stage Photos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Stage Photos
+// Unlock All Stage Photos
+patch=1,EE,103E0A26,extended,00000101
+
+[Unlock All Stage Photos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Stage Photos
+// Unlock All Stage Photos
+patch=1,EE,403E0A28,extended,00050001
+
+[Unlock All Stage Photos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Stage Photos
+// Unlock All Stage Photos
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Stage Photos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Stage Photos
+// Unlock All Stage Photos
+patch=1,EE,103E0A3C,extended,00000101
+
+[Unlock All Stage Photos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Stage Photos
+// Unlock All Stage Photos
+patch=1,EE,003E0A3E,extended,00000001

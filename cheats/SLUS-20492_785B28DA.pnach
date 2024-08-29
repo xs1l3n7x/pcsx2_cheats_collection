@@ -1,0 +1,211 @@
+gametitle=Ninja Assault [SLUS-20492] [785B28DA]
+
+[Retry Never Increases When Retrying Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Retry Never Increases When Retrying Levels
+// Retry Never Increases When Retrying Levels
+patch=1,EE,90139504,extended,0C0990C0
+
+[Infinite Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1
+// Infinite Health P1
+patch=1,EE,109557F6,extended,00000100
+
+[Infinite Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1
+// Infinite Health P1
+patch=1,EE,109557F8,extended,00000100
+
+[Never Reload P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload P1
+// Never Reload P1
+patch=1,EE,109557FA,extended,00000009
+
+[Quick Score Gain P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain P1
+// Quick Score Gain P1
+patch=1,EE,10955808,extended,0000FFFF
+
+[Max Score P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P1
+// Max Score P1
+patch=1,EE,20955808,extended,0098967F
+
+[Max Hits! P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Hits! P1
+// Max Hits! P1
+patch=1,EE,20955814,extended,00630063
+
+[Infinite Specials P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Specials P1
+// Infinite Specials P1
+patch=1,EE,10955834,extended,00000009
+
+[Infinite Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2
+// Infinite Health P2
+patch=1,EE,10955846,extended,00000100
+
+[Infinite Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2
+// Infinite Health P2
+patch=1,EE,10955848,extended,00000100
+
+[Never Reload P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload P2
+// Never Reload P2
+patch=1,EE,1095584A,extended,00000009
+
+[Quick Score Gain P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain P2
+// Quick Score Gain P2
+patch=1,EE,10955858,extended,0000FFFF
+
+[Max Score P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P2
+// Max Score P2
+patch=1,EE,20955858,extended,0098967F
+
+[Max Hits! P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Hits! P2
+// Max Hits! P2
+patch=1,EE,20955864,extended,00630063
+
+[Infinite Specials P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Specials P2
+// Infinite Specials P2
+patch=1,EE,10955884,extended,00000009
+
+[Infinite Specials (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Specials (Both Players)
+// Infinite Specials (Both Players)
+patch=1,EE,20107170,extended,00000000
+
+[Extra Specials (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Specials (Both Players)
+// Extra Specials (Both Players)
+patch=1,EE,10107168,extended,00000001
+
+[Infinite Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Credits
+// Infinite Credits
+patch=1,EE,1095BFB8,extended,00000063
+
+[Extra Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Credits
+// Extra Credits
+patch=1,EE,10108748,extended,00000001
+
+[Unlock Magnum (Story Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Magnum (Story Mode)
+// Unlock Magnum (Story Mode)
+patch=1,EE,0095BF19,extended,00000001
+
+[Unlock Shotgun (Story Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Shotgun (Story Mode)
+// Unlock Shotgun (Story Mode)
+patch=1,EE,0095BF1A,extended,00000001
+
+[Guren Chapter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guren Chapter
+// Guren Chapter
+patch=1,EE,0095BEEE,extended,00000001
+
+[Gunjo Chapter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gunjo Chapter
+// Gunjo Chapter
+patch=1,EE,0095BEEF,extended,00000001
+
+[Aoi Chapter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aoi Chapter
+// Aoi Chapter
+patch=1,EE,0095BEF0,extended,00000001
+
+[Arcade Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arcade Mode
+// Arcade Mode
+patch=1,EE,0095BEF1,extended,00000001
+
+[Always Only 1 Objective]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Only 1 Objective
+// Always Only 1 Objective
+patch=1,EE,102955E4,extended,00000001
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,202955E8,extended,00008C80
+
+[P1 Press {SELECT} For Instant Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {SELECT} For Instant Win
+// P1 Press {SELECT} For Instant Win
+patch=1,EE,D071EB02,extended,0000FFFE
+
+[P1 Press {SELECT} For Instant Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {SELECT} For Instant Win
+// P1 Press {SELECT} For Instant Win
+patch=1,EE,002955E0,extended,00000001
+
+[Unlock Training-Fireworks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Training-Fireworks
+// Unlock Training-Fireworks
+patch=1,EE,0095BF17,extended,00000001
+
+[Unlock Final Mission]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Final Mission
+// Unlock Final Mission
+patch=1,EE,0095BF18,extended,00000001
+
+[Have All Missions Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Missions Completed
+// Have All Missions Completed
+patch=1,EE,1095BEF2,extended,00000101
+
+[Have All Missions Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Missions Completed
+// Have All Missions Completed
+patch=1,EE,4095BEF4,extended,00070001
+
+[Have All Missions Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Missions Completed
+// Have All Missions Completed
+patch=1,EE,01010101,extended,00000000
+
+[Have All Missions Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Missions Completed
+// Have All Missions Completed
+patch=1,EE,1095BF10,extended,00000101

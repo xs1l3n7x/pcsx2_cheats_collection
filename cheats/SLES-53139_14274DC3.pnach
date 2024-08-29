@@ -1,0 +1,313 @@
+gametitle=Alien Hominid [SLES-53139] [14274DC3]
+
+[P1 Press {R3}+{SELECT} For Normal Vision]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+{SELECT} For Normal Vision
+// P1 Press {R3}+{SELECT} For Normal Vision
+patch=1,EE,901A8818,extended,0C06BCFA
+
+[P1 Press {R3}+{SELECT} For Normal Vision]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+{SELECT} For Normal Vision
+// P1 Press {R3}+{SELECT} For Normal Vision
+patch=1,EE,20127608,extended,00402821
+
+[Infinite Grenades (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Grenades (All Players)
+// Infinite Grenades (All Players)
+patch=1,EE,20127568,extended,00000000
+
+[Infinite Ammo (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo (All Players)
+// Infinite Ammo (All Players)
+patch=1,EE,20144318,extended,241E0063
+
+[Infinite Lives (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives (All Players)
+// Infinite Lives (All Players)
+patch=1,EE,200C0220,extended,24010009
+
+[Infinite Lives (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives (All Players)
+// Infinite Lives (All Players)
+patch=1,EE,200C0224,extended,54A00001
+
+[Infinite Lives (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives (All Players)
+// Infinite Lives (All Players)
+patch=1,EE,200C0228,extended,ACA10008
+
+[Infinite Lives (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives (All Players)
+// Infinite Lives (All Players)
+patch=1,EE,200C022C,extended,03E00008
+
+[Infinite Lives (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives (All Players)
+// Infinite Lives (All Players)
+patch=1,EE,200C0230,extended,0040A82D
+
+[Infinite Lives (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives (All Players)
+// Infinite Lives (All Players)
+patch=1,EE,201447A4,extended,0C030088
+
+[Infinite Credits (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Credits (All Players)
+// Infinite Credits (All Players)
+patch=1,EE,20145100,extended,24020063
+
+[Infinite Credits (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Credits (All Players)
+// Infinite Credits (All Players)
+patch=1,EE,20145104,extended,1000012C
+
+[Infinite Credits (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Credits (All Players)
+// Infinite Credits (All Players)
+patch=1,EE,20145108,extended,ACA20008
+
+[Hat 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 1
+// Hat 1
+patch=1,EE,005065D3,extended,00000001
+
+[Hat 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 2
+// Hat 2
+patch=1,EE,005065D4,extended,00000001
+
+[Hat 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 3
+// Hat 3
+patch=1,EE,005065D5,extended,00000001
+
+[Hat 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 4
+// Hat 4
+patch=1,EE,005065D6,extended,00000001
+
+[Hat 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 5
+// Hat 5
+patch=1,EE,005065D7,extended,00000001
+
+[Hat 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 6
+// Hat 6
+patch=1,EE,005065D8,extended,00000001
+
+[Hat 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 7
+// Hat 7
+patch=1,EE,005065D9,extended,00000001
+
+[Hat 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 8
+// Hat 8
+patch=1,EE,005065DA,extended,00000001
+
+[Hat 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 9
+// Hat 9
+patch=1,EE,005065DB,extended,00000001
+
+[Hat 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 10
+// Hat 10
+patch=1,EE,005065DC,extended,00000001
+
+[Hat 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 11
+// Hat 11
+patch=1,EE,005065DD,extended,00000001
+
+[Hat 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 12
+// Hat 12
+patch=1,EE,005065DE,extended,00000001
+
+[Hat 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 13
+// Hat 13
+patch=1,EE,005065DF,extended,00000001
+
+[Hat 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 14
+// Hat 14
+patch=1,EE,005065E0,extended,00000001
+
+[Hat 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 15
+// Hat 15
+patch=1,EE,005065E1,extended,00000001
+
+[Hat 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 16
+// Hat 16
+patch=1,EE,005065E2,extended,00000001
+
+[Hat 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 17
+// Hat 17
+patch=1,EE,005065E3,extended,00000001
+
+[Hat 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 18
+// Hat 18
+patch=1,EE,005065E4,extended,00000001
+
+[Hat 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 19
+// Hat 19
+patch=1,EE,005065E5,extended,00000001
+
+[Hat 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 20
+// Hat 20
+patch=1,EE,005065E6,extended,00000001
+
+[Hat 21]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 21
+// Hat 21
+patch=1,EE,005065E7,extended,00000001
+
+[Hat 22]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 22
+// Hat 22
+patch=1,EE,005065E8,extended,00000001
+
+[Hat 23]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 23
+// Hat 23
+patch=1,EE,005065E9,extended,00000001
+
+[Hat 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 24
+// Hat 24
+patch=1,EE,005065EA,extended,00000001
+
+[Hat 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 25
+// Hat 25
+patch=1,EE,005065EB,extended,00000001
+
+[Hat 26]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 26
+// Hat 26
+patch=1,EE,005065EC,extended,00000001
+
+[Hat 27]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 27
+// Hat 27
+patch=1,EE,005065ED,extended,00000001
+
+[Hat 28]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 28
+// Hat 28
+patch=1,EE,005065EE,extended,00000001
+
+[Hat 29]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hat 29
+// Hat 29
+patch=1,EE,005065EF,extended,00000001
+
+[All Hats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Hats
+// All Hats
+patch=1,EE,005065D3,extended,00000001
+
+[All Hats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Hats
+// All Hats
+patch=1,EE,405065D4,extended,00070001
+
+[All Hats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Hats
+// All Hats
+patch=1,EE,01010101,extended,00000000
+
+[PDA Games]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PDA Games
+// PDA Games
+patch=1,EE,00506603,extended,00000001
+
+[Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Challenge
+// Challenge
+patch=1,EE,00506604,extended,00000001
+
+[Missile Mastar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Missile Mastar
+// Missile Mastar
+patch=1,EE,00506605,extended,00000001
+
+[Neutron Ball]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Neutron Ball
+// Neutron Ball
+patch=1,EE,00506606,extended,00000001
+
+[Pinata Boss]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pinata Boss
+// Pinata Boss
+patch=1,EE,00506607,extended,00000001
+
+[All Mini-Games]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Mini-Games
+// All Mini-Games
+patch=1,EE,00506603,extended,00000001
+
+[All Mini-Games]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Mini-Games
+// All Mini-Games
+patch=1,EE,20506604,extended,01010101

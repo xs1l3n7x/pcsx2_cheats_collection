@@ -1,0 +1,205 @@
+gametitle=Final Fantasy XII [UNKNOWN] [0BED0AF9]
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,205C3870,extended,3C030073
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,205C3874,extended,8C6317A8
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,205C3878,extended,AC832AD4
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,205C387C,extended,03E00008
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,202057B4,extended,08170E1C
+
+[All Bonus Material Unlocked]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Bonus Material Unlocked
+// All Bonus Material Unlocked
+patch=1,EE,41CB0520,extended,00030001
+
+[All Bonus Material Unlocked]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Bonus Material Unlocked
+// All Bonus Material Unlocked
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Max Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max Health
+// Max Health
+patch=1,EE,207317A8,extended,469C4000
+
+[Max Red Orbs]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max Red Orbs
+// Max Red Orbs
+patch=1,EE,2073168C,extended,000F423F
+
+[Infinite Vital Stars S]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Vital Stars S
+// Infinite Vital Stars S
+patch=1,EE,007316A0,extended,0000001E
+
+[Infinite Vital Stars L]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Vital Stars L
+// Infinite Vital Stars L
+patch=1,EE,007316A1,extended,0000001E
+
+[Infinite Devil Stars]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Devil Stars
+// Infinite Devil Stars
+patch=1,EE,007316A2,extended,0000001E
+
+[Infinite Holy Water]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Holy Water
+// Infinite Holy Water
+patch=1,EE,007316A3,extended,0000001E
+
+[Max Vital Stars S]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max Vital Stars S
+// Max Vital Stars S
+patch=1,EE,01782CDD,extended,0000001E
+
+[Max Vital Stars L]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max Vital Stars L
+// Max Vital Stars L
+patch=1,EE,01782CDC,extended,0000001E
+
+[Max Devil Stars]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max Devil Stars
+// Max Devil Stars
+patch=1,EE,01782CDE,extended,0000000A
+
+[Max Holy Water]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max Holy Water
+// Max Holy Water
+patch=1,EE,01782CDF,extended,0000001E
+
+[Max Blue Orbs]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max Blue Orbs
+// Max Blue Orbs
+patch=1,EE,01782CD3,extended,00000006
+
+[Max Purple Orbs]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max Purple Orbs
+// Max Purple Orbs
+patch=1,EE,01782CD4,extended,00000007
+
+[Max Yellow Orbs]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max Yellow Orbs
+// Max Yellow Orbs
+patch=1,EE,01782CD2,extended,00000063
+
+[Mission end - Low Time]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Mission end - Low Time
+// Mission end - Low Time
+patch=1,EE,207316F8,extended,3F800000
+
+[Mission end - Max Orbs]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Mission end - Max Orbs
+// Mission end - Max Orbs
+patch=1,EE,20731700,extended,000F423F
+
+[Mission end - Max Stylish PTS.]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Mission end - Max Stylish PTS.
+// Mission end - Max Stylish PTS.
+patch=1,EE,207317B4,extended,4A000000
+
+[Mission end - No Damage]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Mission end - No Damage
+// Mission end - No Damage
+patch=1,EE,207316FC,extended,00000000
+
+[Mission end - No Items Used]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Mission end - No Items Used
+// Mission end - No Items Used
+patch=1,EE,20731704,extended,00000000
+
+[Mission end - All Weapons]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Mission end - All Weapons
+// Mission end - All Weapons
+patch=1,EE,107316A6,extended,00000101
+
+[Mission end - All Weapons]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Mission end - All Weapons
+// Mission end - All Weapons
+patch=1,EE,207316A8,extended,01010101
+
+[Mission end - All Weapons]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Mission end - All Weapons
+// Mission end - All Weapons
+patch=1,EE,107316AC,extended,00000101
+
+[Mission end - All Weapons]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Mission end - All Weapons
+// Mission end - All Weapons
+patch=1,EE,007316AE,extended,00000001
+
+[Mission end - All Levels]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Mission end - All Levels
+// Mission end - All Levels
+patch=1,EE,007316E1,extended,00000005
+
+[Mission end - All Levels]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Mission end - All Levels
+// Mission end - All Levels
+patch=1,EE,107316E2,extended,00000505
+
+[Mission end - All Levels]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Mission end - All Levels
+// Mission end - All Levels
+patch=1,EE,407316E4,extended,00040001
+
+[Mission end - All Levels]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Mission end - All Levels
+// Mission end - All Levels
+patch=1,EE,05050505,extended,00000000
+
+[Mission end - All Levels]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Mission end - All Levels
+// Mission end - All Levels
+patch=1,EE,007316F4,extended,00000005

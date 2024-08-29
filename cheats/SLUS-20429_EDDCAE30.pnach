@@ -1,0 +1,997 @@
+gametitle=Riding Spirits [SLUS-20429] [EDDCAE30]
+
+[Have All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Cars
+// Have All Cars
+patch=1,EE,9020BA74,extended,0C087F33
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,10236B20,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,20236B20,extended,05F5E0FF
+
+[Always Low Total Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Time
+// Always Low Total Time
+patch=1,EE,202A023C,extended,00000000
+
+[Always Low Lap 1 Total Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Lap 1 Total Time
+// Always Low Lap 1 Total Time
+patch=1,EE,202A0254,extended,00000000
+
+[Always Low Lap 2 Total Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Lap 2 Total Time
+// Always Low Lap 2 Total Time
+patch=1,EE,202A0258,extended,00000000
+
+[Always Low Lap 3 Total Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Lap 3 Total Time
+// Always Low Lap 3 Total Time
+patch=1,EE,202A025C,extended,00000000
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,D02A05DC,extended,00000000
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,002A05DC,extended,00000001
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,D02A05DC,extended,00000000
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,002A05DC,extended,00000002
+
+[Access All Riding Spirit Races]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Riding Spirit Races
+// Access All Riding Spirit Races
+patch=1,EE,20247A78,extended,FFFFFFFF
+
+[Access All Riding Spirit Races]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Riding Spirit Races
+// Access All Riding Spirit Races
+patch=1,EE,20247A7C,extended,FFFFFFFF
+
+[Press {R1}+{CROSS} For Turbo Speed P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R1}+{CROSS} For Turbo Speed P1
+// Press {R1}+{CROSS} For Turbo Speed P1
+patch=1,EE,D0236882,extended,0000B7FF
+
+[Press {R1}+{CROSS} For Turbo Speed P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R1}+{CROSS} For Turbo Speed P1
+// Press {R1}+{CROSS} For Turbo Speed P1
+patch=1,EE,20296524,extended,42480000
+
+[Press {R2}+{CROSS} For Super Speed P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R2}+{CROSS} For Super Speed P1
+// Press {R2}+{CROSS} For Super Speed P1
+patch=1,EE,D0236882,extended,0000BDFF
+
+[Press {R2}+{CROSS} For Super Speed P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R2}+{CROSS} For Super Speed P1
+// Press {R2}+{CROSS} For Super Speed P1
+patch=1,EE,20296524,extended,42800000
+
+[Press {R1}+{R2}+{CROSS} For Hella Speed P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R1}+{R2}+{CROSS} For Hella Speed P1
+// Press {R1}+{R2}+{CROSS} For Hella Speed P1
+patch=1,EE,D0236882,extended,0000B5FF
+
+[Press {R1}+{R2}+{CROSS} For Hella Speed P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R1}+{R2}+{CROSS} For Hella Speed P1
+// Press {R1}+{R2}+{CROSS} For Hella Speed P1
+patch=1,EE,20296524,extended,42C80000
+
+[Press {R1}+{CROSS} For Turbo Speed P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R1}+{CROSS} For Turbo Speed P2
+// Press {R1}+{CROSS} For Turbo Speed P2
+patch=1,EE,D0236982,extended,0000B7FF
+
+[Press {R1}+{CROSS} For Turbo Speed P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R1}+{CROSS} For Turbo Speed P2
+// Press {R1}+{CROSS} For Turbo Speed P2
+patch=1,EE,202966A0,extended,42480000
+
+[Press {R2}+{CROSS} For Super Speed P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R2}+{CROSS} For Super Speed P2
+// Press {R2}+{CROSS} For Super Speed P2
+patch=1,EE,D0236982,extended,0000BDFF
+
+[Press {R2}+{CROSS} For Super Speed P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R2}+{CROSS} For Super Speed P2
+// Press {R2}+{CROSS} For Super Speed P2
+patch=1,EE,202966A0,extended,42800000
+
+[Press {R1}+{R2}+{CROSS} For Hella Speed P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R1}+{R2}+{CROSS} For Hella Speed P2
+// Press {R1}+{R2}+{CROSS} For Hella Speed P2
+patch=1,EE,D0236982,extended,0000B5FF
+
+[Press {R1}+{R2}+{CROSS} For Hella Speed P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R1}+{R2}+{CROSS} For Hella Speed P2
+// Press {R1}+{R2}+{CROSS} For Hella Speed P2
+patch=1,EE,202966A0,extended,42C80000
+
+[Opponent 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Opponent 1
+// Opponent 1
+patch=1,EE,002A05DD,extended,00000000
+
+[Opponent 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Opponent 2
+// Opponent 2
+patch=1,EE,002A05DE,extended,00000000
+
+[Opponent 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Opponent 3
+// Opponent 3
+patch=1,EE,002A05DF,extended,00000000
+
+[Opponent 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Opponent 4
+// Opponent 4
+patch=1,EE,002A05E0,extended,00000000
+
+[Opponent 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Opponent 5
+// Opponent 5
+patch=1,EE,002A05E1,extended,00000000
+
+[CR-01]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CR-01
+// CR-01
+patch=1,EE,00247758,extended,00000004
+
+[CR-02]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CR-02
+// CR-02
+patch=1,EE,00247759,extended,00000004
+
+[CR-03]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CR-03
+// CR-03
+patch=1,EE,0024775A,extended,00000004
+
+[CR-04]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CR-04
+// CR-04
+patch=1,EE,0024775B,extended,00000004
+
+[CR-05]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CR-05
+// CR-05
+patch=1,EE,0024775C,extended,00000004
+
+[CR-06]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CR-06
+// CR-06
+patch=1,EE,0024775D,extended,00000004
+
+[CR-07]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CR-07
+// CR-07
+patch=1,EE,0024775E,extended,00000004
+
+[CR-08]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CR-08
+// CR-08
+patch=1,EE,0024775F,extended,00000004
+
+[CR-09]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CR-09
+// CR-09
+patch=1,EE,00247760,extended,00000004
+
+[CR-10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CR-10
+// CR-10
+patch=1,EE,00247761,extended,00000004
+
+[CR-11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CR-11
+// CR-11
+patch=1,EE,00247762,extended,00000004
+
+[CR-12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CR-12
+// CR-12
+patch=1,EE,00247763,extended,00000004
+
+[CR-13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CR-13
+// CR-13
+patch=1,EE,00247764,extended,00000004
+
+[CR-14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CR-14
+// CR-14
+patch=1,EE,00247765,extended,00000004
+
+[CR-15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CR-15
+// CR-15
+patch=1,EE,00247766,extended,00000004
+
+[CR-16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CR-16
+// CR-16
+patch=1,EE,00247767,extended,00000004
+
+[CR-17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CR-17
+// CR-17
+patch=1,EE,00247768,extended,00000004
+
+[CR-18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CR-18
+// CR-18
+patch=1,EE,00247769,extended,00000004
+
+[CR-19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CR-19
+// CR-19
+patch=1,EE,0024776A,extended,00000004
+
+[CR-20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CR-20
+// CR-20
+patch=1,EE,0024776B,extended,00000004
+
+[SR-01]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SR-01
+// SR-01
+patch=1,EE,0024776C,extended,00000004
+
+[SR-02]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SR-02
+// SR-02
+patch=1,EE,0024776D,extended,00000004
+
+[SR-03]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SR-03
+// SR-03
+patch=1,EE,0024776E,extended,00000004
+
+[SR-04]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SR-04
+// SR-04
+patch=1,EE,0024776F,extended,00000004
+
+[SR-05]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SR-05
+// SR-05
+patch=1,EE,00247770,extended,00000004
+
+[SR-06]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SR-06
+// SR-06
+patch=1,EE,00247771,extended,00000004
+
+[SR-07]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SR-07
+// SR-07
+patch=1,EE,00247772,extended,00000004
+
+[SR-08]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SR-08
+// SR-08
+patch=1,EE,00247773,extended,00000004
+
+[SR-09]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SR-09
+// SR-09
+patch=1,EE,00247774,extended,00000004
+
+[SR-10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SR-10
+// SR-10
+patch=1,EE,00247775,extended,00000004
+
+[SR-11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SR-11
+// SR-11
+patch=1,EE,00247776,extended,00000004
+
+[SR-12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SR-12
+// SR-12
+patch=1,EE,00247777,extended,00000004
+
+[SR-13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SR-13
+// SR-13
+patch=1,EE,00247778,extended,00000004
+
+[SR-14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SR-14
+// SR-14
+patch=1,EE,00247779,extended,00000004
+
+[SR-15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SR-15
+// SR-15
+patch=1,EE,0024777A,extended,00000004
+
+[SR-16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SR-16
+// SR-16
+patch=1,EE,0024777B,extended,00000004
+
+[SR-17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SR-17
+// SR-17
+patch=1,EE,0024777C,extended,00000004
+
+[SR-18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SR-18
+// SR-18
+patch=1,EE,0024777D,extended,00000004
+
+[SR-19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SR-19
+// SR-19
+patch=1,EE,0024777E,extended,00000004
+
+[SR-20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SR-20
+// SR-20
+patch=1,EE,0024777F,extended,00000004
+
+[Rampart Raceway]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rampart Raceway
+// Rampart Raceway
+patch=1,EE,00247780,extended,00000004
+
+[Red-Hot Valley]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red-Hot Valley
+// Red-Hot Valley
+patch=1,EE,00247781,extended,00000004
+
+[Stone Maze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stone Maze
+// Stone Maze
+patch=1,EE,00247782,extended,00000004
+
+[Black Forest Raceway]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Forest Raceway
+// Black Forest Raceway
+patch=1,EE,00247783,extended,00000004
+
+[Rich Table]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rich Table
+// Rich Table
+patch=1,EE,00247784,extended,00000004
+
+[Grassy Hillside]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grassy Hillside
+// Grassy Hillside
+patch=1,EE,00247785,extended,00000004
+
+[Queen's Backyard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Queen's Backyard
+// Queen's Backyard
+patch=1,EE,00247786,extended,00000004
+
+[Rampart Raceway (Reverse)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rampart Raceway (Reverse)
+// Rampart Raceway (Reverse)
+patch=1,EE,00247787,extended,00000004
+
+[Red-Hot Valley (Reverse)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red-Hot Valley (Reverse)
+// Red-Hot Valley (Reverse)
+patch=1,EE,00247788,extended,00000004
+
+[Stone Maxe (Reverse)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stone Maxe (Reverse)
+// Stone Maxe (Reverse)
+patch=1,EE,00247789,extended,00000004
+
+[Black Forest Raceway (Reverse)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Forest Raceway (Reverse)
+// Black Forest Raceway (Reverse)
+patch=1,EE,0024778A,extended,00000004
+
+[Rich Table (Reverse)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rich Table (Reverse)
+// Rich Table (Reverse)
+patch=1,EE,0024778B,extended,00000004
+
+[Grassy Hillside (Reverse)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grassy Hillside (Reverse)
+// Grassy Hillside (Reverse)
+patch=1,EE,0024778C,extended,00000004
+
+[Queen's Backyard (Reverse)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Queen's Backyard (Reverse)
+// Queen's Backyard (Reverse)
+patch=1,EE,0024778D,extended,00000004
+
+[Have Battle Duel Completed-All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Battle Duel Completed-All Bikes
+// Have Battle Duel Completed-All Bikes
+patch=1,EE,40247790,extended,00050001
+
+[Have Battle Duel Completed-All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Battle Duel Completed-All Bikes
+// Have Battle Duel Completed-All Bikes
+patch=1,EE,01010101,extended,00000000
+
+[Battle From Zero-Battle From Zero Sports]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle From Zero-Battle From Zero Sports
+// Battle From Zero-Battle From Zero Sports
+patch=1,EE,002477B6,extended,00000001
+
+[Battle From Zero-Battle From Zero Naked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle From Zero-Battle From Zero Naked
+// Battle From Zero-Battle From Zero Naked
+patch=1,EE,002477B5,extended,00000001
+
+[Battle From Zero-Battle From Zero Sports]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle From Zero-Battle From Zero Sports
+// Battle From Zero-Battle From Zero Sports
+patch=1,EE,002477B4,extended,00000001
+
+[Free Race-Freshman Meeting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Free Race-Freshman Meeting
+// Free Race-Freshman Meeting
+patch=1,EE,002477AD,extended,00000001
+
+[Free Race-Sunday Meeting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Free Race-Sunday Meeting
+// Free Race-Sunday Meeting
+patch=1,EE,002477AC,extended,00000001
+
+[Beginner-Step UP Meeting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Beginner-Step UP Meeting
+// Beginner-Step UP Meeting
+patch=1,EE,002477A6,extended,00000001
+
+[Beginner-RS Beginner's Meeting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Beginner-RS Beginner's Meeting
+// Beginner-RS Beginner's Meeting
+patch=1,EE,002477A5,extended,00000001
+
+[Beginner-Welcome To RS Meeting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Beginner-Welcome To RS Meeting
+// Beginner-Welcome To RS Meeting
+patch=1,EE,002477A4,extended,00000001
+
+[Battle From Zero-Battle From Zero 600]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle From Zero-Battle From Zero 600
+// Battle From Zero-Battle From Zero 600
+patch=1,EE,002477DE,extended,00000001
+
+[Battle From Zero-Battle From Zero Naked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle From Zero-Battle From Zero Naked
+// Battle From Zero-Battle From Zero Naked
+patch=1,EE,002477DD,extended,00000001
+
+[Battle From Zero-Battle From Zero Sports]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle From Zero-Battle From Zero Sports
+// Battle From Zero-Battle From Zero Sports
+patch=1,EE,002477DC,extended,00000001
+
+[Power Of Heart-V-Twin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power Of Heart-V-Twin
+// Power Of Heart-V-Twin
+patch=1,EE,002477D8,extended,00000001
+
+[Power Of Heart-V-Four]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power Of Heart-V-Four
+// Power Of Heart-V-Four
+patch=1,EE,002477D7,extended,00000001
+
+[Power Of Heart-Inline Four]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power Of Heart-Inline Four
+// Power Of Heart-Inline Four
+patch=1,EE,002477D6,extended,00000001
+
+[Power Of Heart-Four-Cycle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power Of Heart-Four-Cycle
+// Power Of Heart-Four-Cycle
+patch=1,EE,002477D5,extended,00000001
+
+[Power Of Heart-Two-Cycle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power Of Heart-Two-Cycle
+// Power Of Heart-Two-Cycle
+patch=1,EE,002477D4,extended,00000001
+
+[The One-Make Memorial-GSX1100S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The One-Make Memorial-GSX1100S
+// The One-Make Memorial-GSX1100S
+patch=1,EE,002477D3,extended,00000001
+
+[The One-Make Memorial-Z900SUPER4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The One-Make Memorial-Z900SUPER4
+// The One-Make Memorial-Z900SUPER4
+patch=1,EE,002477D2,extended,00000001
+
+[The One-Make Memorial-750RS]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The One-Make Memorial-750RS
+// The One-Make Memorial-750RS
+patch=1,EE,002477D1,extended,00000001
+
+[The One-Make Memorial-CB750F]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The One-Make Memorial-CB750F
+// The One-Make Memorial-CB750F
+patch=1,EE,002477D0,extended,00000001
+
+[The One-Make Memorial-CB750Four]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The One-Make Memorial-CB750Four
+// The One-Make Memorial-CB750Four
+patch=1,EE,002477CF,extended,00000001
+
+[The One-Make Memorial-TZR250]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The One-Make Memorial-TZR250
+// The One-Make Memorial-TZR250
+patch=1,EE,002477CE,extended,00000001
+
+[The One-Make Memorial-RZ250R]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The One-Make Memorial-RZ250R
+// The One-Make Memorial-RZ250R
+patch=1,EE,002477CD,extended,00000001
+
+[The One-Make Memorial-RGV-R 250SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The One-Make Memorial-RGV-R 250SP
+// The One-Make Memorial-RGV-R 250SP
+patch=1,EE,002477CC,extended,00000001
+
+[Battle Of The Kings-YAMAHA Meeting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle Of The Kings-YAMAHA Meeting
+// Battle Of The Kings-YAMAHA Meeting
+patch=1,EE,002477C7,extended,00000001
+
+[Battle Of The Kings-SUZUKI Meeting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle Of The Kings-SUZUKI Meeting
+// Battle Of The Kings-SUZUKI Meeting
+patch=1,EE,002477C6,extended,00000001
+
+[Battle Of The Kings-KAWASAKI Meeting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle Of The Kings-KAWASAKI Meeting
+// Battle Of The Kings-KAWASAKI Meeting
+patch=1,EE,002477C5,extended,00000001
+
+[Battle Of The Kings-HONDA Meeting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle Of The Kings-HONDA Meeting
+// Battle Of The Kings-HONDA Meeting
+patch=1,EE,002477C4,extended,00000001
+
+[Class Race-600 CC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Race-600 CC
+// Class Race-600 CC
+patch=1,EE,002477BE,extended,00000001
+
+[Class Race-400 CC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Race-400 CC
+// Class Race-400 CC
+patch=1,EE,002477BD,extended,00000001
+
+[Class Race-250 CC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Race-250 CC
+// Class Race-250 CC
+patch=1,EE,002477BC,extended,00000001
+
+[King Of RS-King Of RS Heat 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=King Of RS-King Of RS Heat 7
+// King Of RS-King Of RS Heat 7
+patch=1,EE,0024780A,extended,00000001
+
+[King Of RS-King Of RS Heat 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=King Of RS-King Of RS Heat 6
+// King Of RS-King Of RS Heat 6
+patch=1,EE,00247809,extended,00000001
+
+[King Of RS-King Of RS Heat 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=King Of RS-King Of RS Heat 5
+// King Of RS-King Of RS Heat 5
+patch=1,EE,00247808,extended,00000001
+
+[King Of RS-King Of RS Heat 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=King Of RS-King Of RS Heat 4
+// King Of RS-King Of RS Heat 4
+patch=1,EE,00247807,extended,00000001
+
+[King Of RS-King Of RS Heat 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=King Of RS-King Of RS Heat 3
+// King Of RS-King Of RS Heat 3
+patch=1,EE,00247806,extended,00000001
+
+[King Of RS-King Of RS Heat 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=King Of RS-King Of RS Heat 2
+// King Of RS-King Of RS Heat 2
+patch=1,EE,00247805,extended,00000001
+
+[King Of RS-King Of RS Heat 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=King Of RS-King Of RS Heat 1
+// King Of RS-King Of RS Heat 1
+patch=1,EE,00247804,extended,00000001
+
+[Battle From Zero-Battle From Zero Open]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle From Zero-Battle From Zero Open
+// Battle From Zero-Battle From Zero Open
+patch=1,EE,002477FE,extended,00000001
+
+[Battle From Zero-Battle From Zero Naked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle From Zero-Battle From Zero Naked
+// Battle From Zero-Battle From Zero Naked
+patch=1,EE,002477FD,extended,00000001
+
+[Battle From Zero-Battle From Zero Sports]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle From Zero-Battle From Zero Sports
+// Battle From Zero-Battle From Zero Sports
+patch=1,EE,002477FC,extended,00000001
+
+[Speed Master-Time Tunnel~80's]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speed Master-Time Tunnel~80's
+// Speed Master-Time Tunnel~80's
+patch=1,EE,002477F8,extended,00000001
+
+[Speed Master-Time Tunnel~70's]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speed Master-Time Tunnel~70's
+// Speed Master-Time Tunnel~70's
+patch=1,EE,002477F7,extended,00000001
+
+[Speed Master-Unlimited]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speed Master-Unlimited
+// Speed Master-Unlimited
+patch=1,EE,002477F6,extended,00000001
+
+[Speed Master-Maximum]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speed Master-Maximum
+// Speed Master-Maximum
+patch=1,EE,002477F5,extended,00000001
+
+[Speed Master-Power Wars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speed Master-Power Wars
+// Speed Master-Power Wars
+patch=1,EE,002477F4,extended,00000001
+
+[The Super Machine-Super Twin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Super Machine-Super Twin
+// The Super Machine-Super Twin
+patch=1,EE,002477EF,extended,00000001
+
+[The Super Machine-Super Street]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Super Machine-Super Street
+// The Super Machine-Super Street
+patch=1,EE,002477EE,extended,00000001
+
+[The Super Machine-Super Naked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Super Machine-Super Naked
+// The Super Machine-Super Naked
+patch=1,EE,002477ED,extended,00000001
+
+[The Super Machine-Super Sports]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Super Machine-Super Sports
+// The Super Machine-Super Sports
+patch=1,EE,002477EC,extended,00000001
+
+[Class Race-Open]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Race-Open
+// Class Race-Open
+patch=1,EE,002477E8,extended,00000001
+
+[Class Race-750 CC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Race-750 CC
+// Class Race-750 CC
+patch=1,EE,002477E7,extended,00000001
+
+[Class Race-600 CC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Race-600 CC
+// Class Race-600 CC
+patch=1,EE,002477E6,extended,00000001
+
+[Class Race-400 CC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Race-400 CC
+// Class Race-400 CC
+patch=1,EE,002477E5,extended,00000001
+
+[Class Race-250 CC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Race-250 CC
+// Class Race-250 CC
+patch=1,EE,002477E4,extended,00000001
+
+[King Of Night-King Of Night Heat 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=King Of Night-King Of Night Heat 7
+// King Of Night-King Of Night Heat 7
+patch=1,EE,00247832,extended,00000001
+
+[King Of Night-King Of Night Heat 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=King Of Night-King Of Night Heat 6
+// King Of Night-King Of Night Heat 6
+patch=1,EE,00247831,extended,00000001
+
+[King Of Night-King Of Night Heat 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=King Of Night-King Of Night Heat 5
+// King Of Night-King Of Night Heat 5
+patch=1,EE,00247830,extended,00000001
+
+[King Of Night-King Of Night Heat 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=King Of Night-King Of Night Heat 4
+// King Of Night-King Of Night Heat 4
+patch=1,EE,0024782F,extended,00000001
+
+[King Of Night-King Of Night Heat 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=King Of Night-King Of Night Heat 3
+// King Of Night-King Of Night Heat 3
+patch=1,EE,0024782E,extended,00000001
+
+[King Of Night-King Of Night Heat 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=King Of Night-King Of Night Heat 2
+// King Of Night-King Of Night Heat 2
+patch=1,EE,0024782D,extended,00000001
+
+[King Of Night-King Of Night Heat 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=King Of Night-King Of Night Heat 1
+// King Of Night-King Of Night Heat 1
+patch=1,EE,0024782C,extended,00000001
+
+[Battle From Zero-Battle From Zero Extreme]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle From Zero-Battle From Zero Extreme
+// Battle From Zero-Battle From Zero Extreme
+patch=1,EE,00247826,extended,00000001
+
+[Battle From Zero-Battle From Zero Naked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle From Zero-Battle From Zero Naked
+// Battle From Zero-Battle From Zero Naked
+patch=1,EE,00247825,extended,00000001
+
+[Battle From Zero-Battle From Zero Sports]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle From Zero-Battle From Zero Sports
+// Battle From Zero-Battle From Zero Sports
+patch=1,EE,00247824,extended,00000001
+
+[Riding Spirits-Down Hill 2nd]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Riding Spirits-Down Hill 2nd
+// Riding Spirits-Down Hill 2nd
+patch=1,EE,0024781F,extended,00000001
+
+[Riding Spirits-Up Hill 2nd]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Riding Spirits-Up Hill 2nd
+// Riding Spirits-Up Hill 2nd
+patch=1,EE,0024781E,extended,00000001
+
+[Riding Spirits-Down Hill]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Riding Spirits-Down Hill
+// Riding Spirits-Down Hill
+patch=1,EE,0024781D,extended,00000001
+
+[Riding Spirits-Up Hill]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Riding Spirits-Up Hill
+// Riding Spirits-Up Hill
+patch=1,EE,0024781C,extended,00000001
+
+[Time Tunnel-Over The Ton]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Time Tunnel-Over The Ton
+// Time Tunnel-Over The Ton
+patch=1,EE,00247818,extended,00000001
+
+[Time Tunnel-VS New Generations]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Time Tunnel-VS New Generations
+// Time Tunnel-VS New Generations
+patch=1,EE,00247817,extended,00000001
+
+[Time Tunnel-Time Tunnel Speed Master]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Time Tunnel-Time Tunnel Speed Master
+// Time Tunnel-Time Tunnel Speed Master
+patch=1,EE,00247816,extended,00000001
+
+[Time Tunnel-Time Tunnel Maximum]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Time Tunnel-Time Tunnel Maximum
+// Time Tunnel-Time Tunnel Maximum
+patch=1,EE,00247815,extended,00000001
+
+[Time Tunnel-Time Tunnel 500]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Time Tunnel-Time Tunnel 500
+// Time Tunnel-Time Tunnel 500
+patch=1,EE,00247814,extended,00000001
+
+[Class Race-Extreme]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Race-Extreme
+// Class Race-Extreme
+patch=1,EE,00247811,extended,00000001
+
+[Class Race-Open]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Race-Open
+// Class Race-Open
+patch=1,EE,00247810,extended,00000001
+
+[Class Race-750 CC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Race-750 CC
+// Class Race-750 CC
+patch=1,EE,0024780F,extended,00000001
+
+[Class Race-600 CC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Race-600 CC
+// Class Race-600 CC
+patch=1,EE,0024780E,extended,00000001
+
+[Class Race-400 CC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Race-400 CC
+// Class Race-400 CC
+patch=1,EE,0024780D,extended,00000001
+
+[Class Race-250 CC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Race-250 CC
+// Class Race-250 CC
+patch=1,EE,0024780C,extended,00000001

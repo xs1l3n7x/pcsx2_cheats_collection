@@ -1,0 +1,913 @@
+gametitle=Destruction Derby Arenas [SCES-50781] [83A82EA1]
+
+[Max Upgrade Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Upgrade Points
+// Max Upgrade Points
+patch=1,EE,9020761C,extended,0C098C01
+
+[Infinite Nitro Usage (Upon Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Nitro Usage (Upon Pickup)
+// Infinite Nitro Usage (Upon Pickup)
+patch=1,EE,20273644,extended,00000000
+
+[Quick Score Gain P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain P1
+// Quick Score Gain P1
+patch=1,EE,105D5054,extended,0000FFFF
+
+[Max Score P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P1
+// Max Score P1
+patch=1,EE,205D5054,extended,05F5E0FF
+
+[Infinite Nitro P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Nitro P1
+// Infinite Nitro P1
+patch=1,EE,105D541E,extended,00001388
+
+[Access All Cars/Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Cars/Tracks
+// Access All Cars/Tracks
+patch=1,EE,2011E630,extended,00000000
+
+[Max Score (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score (All Players)
+// Max Score (All Players)
+patch=1,EE,200C0240,extended,3C0605F5
+
+[Max Score (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score (All Players)
+// Max Score (All Players)
+patch=1,EE,200C0244,extended,34C6E0FF
+
+[Max Score (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score (All Players)
+// Max Score (All Players)
+patch=1,EE,200C0248,extended,08080198
+
+[Max Score (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score (All Players)
+// Max Score (All Players)
+patch=1,EE,200C024C,extended,AC4601D4
+
+[Max Score (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score (All Players)
+// Max Score (All Players)
+patch=1,EE,2011FD80,extended,08030090
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,200C0220,extended,9061014E
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,200C0224,extended,14200004
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,200C0228,extended,24010001
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,200C022C,extended,14220002
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,200C0230,extended,24010002
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,200C0234,extended,AC610140
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,200C0238,extended,0806DE16
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,200C023C,extended,00000000
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,2011FDF4,extended,0C030088
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,200C0220,extended,9061014E
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,200C0224,extended,14200004
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,200C0228,extended,24010001
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,200C022C,extended,14220002
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,200C0230,extended,24010003
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,200C0234,extended,AC610140
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,200C0238,extended,0806DE16
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,200C023C,extended,00000000
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,2011FDF4,extended,0C030088
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,200C0220,extended,9061014E
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,200C0224,extended,14200004
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,200C0228,extended,24010001
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,200C022C,extended,14220002
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,200C0230,extended,24010004
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,200C0234,extended,AC610140
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,200C0238,extended,0806DE16
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,200C023C,extended,00000000
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,2011FDF4,extended,0C030088
+
+[Right Rear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Right Rear
+// Right Rear
+patch=1,EE,205D509C,extended,00000000
+
+[Left Rear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Left Rear
+// Left Rear
+patch=1,EE,205D50A4,extended,00000000
+
+[Right Front]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Right Front
+// Right Front
+patch=1,EE,205D50AC,extended,00000000
+
+[Left Front]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Left Front
+// Left Front
+patch=1,EE,205D50B4,extended,00000000
+
+[Right Side]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Right Side
+// Right Side
+patch=1,EE,205D50BC,extended,00000000
+
+[Left Side]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Left Side
+// Left Side
+patch=1,EE,205D50C4,extended,00000000
+
+[Whole Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Whole Car
+// Whole Car
+patch=1,EE,405D509C,extended,00060002
+
+[Whole Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Whole Car
+// Whole Car
+patch=1,EE,00000000,extended,00000000
+
+[Right Rear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Right Rear
+// Right Rear
+patch=1,EE,205D509C,extended,3F800000
+
+[Left Rear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Left Rear
+// Left Rear
+patch=1,EE,205D50A4,extended,3F800000
+
+[Right Front]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Right Front
+// Right Front
+patch=1,EE,205D50AC,extended,3F800000
+
+[Left Front]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Left Front
+// Left Front
+patch=1,EE,205D50B4,extended,3F800000
+
+[Right Side]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Right Side
+// Right Side
+patch=1,EE,205D50BC,extended,3F800000
+
+[Left Side]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Left Side
+// Left Side
+patch=1,EE,205D50C4,extended,3F800000
+
+[Whole Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Whole Car
+// Whole Car
+patch=1,EE,405D509C,extended,00060002
+
+[Whole Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Whole Car
+// Whole Car
+patch=1,EE,3F800000,extended,00000000
+
+[Quick Score Gain P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain P2
+// Quick Score Gain P2
+patch=1,EE,105D5604,extended,0000FFFF
+
+[Max Score P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P2
+// Max Score P2
+patch=1,EE,205D5604,extended,05F5E0FF
+
+[Infinite Nitro P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Nitro P2
+// Infinite Nitro P2
+patch=1,EE,105D59CE,extended,00001388
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,200C0240,extended,9061014E
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,200C0244,extended,14200004
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,200C0248,extended,24010001
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,200C024C,extended,14220002
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,200C0250,extended,24010002
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,200C0254,extended,AC610140
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,200C0258,extended,0806DE16
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,200C025C,extended,00000000
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,201201A0,extended,0C030090
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,200C0240,extended,9061014E
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,200C0244,extended,14200004
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,200C0248,extended,24010001
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,200C024C,extended,14220002
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,200C0250,extended,24010003
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,200C0254,extended,AC610140
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,200C0258,extended,0806DE16
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,200C025C,extended,00000000
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,201201A0,extended,0C030090
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,200C0240,extended,9061014E
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,200C0244,extended,14200004
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,200C0248,extended,24010001
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,200C024C,extended,14220002
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,200C0250,extended,24010004
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,200C0254,extended,AC610140
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,200C0258,extended,0806DE16
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,200C025C,extended,00000000
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,201201A0,extended,0C030090
+
+[Right Rear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Right Rear
+// Right Rear
+patch=1,EE,205D564C,extended,00000000
+
+[Left Rear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Left Rear
+// Left Rear
+patch=1,EE,205D5654,extended,00000000
+
+[Right Front]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Right Front
+// Right Front
+patch=1,EE,205D565C,extended,00000000
+
+[Left Front]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Left Front
+// Left Front
+patch=1,EE,205D5664,extended,00000000
+
+[Right Side]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Right Side
+// Right Side
+patch=1,EE,205D566C,extended,00000000
+
+[Left Side]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Left Side
+// Left Side
+patch=1,EE,205D5674,extended,00000000
+
+[Whole Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Whole Car
+// Whole Car
+patch=1,EE,405D564C,extended,00060002
+
+[Whole Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Whole Car
+// Whole Car
+patch=1,EE,00000000,extended,00000000
+
+[Right Rear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Right Rear
+// Right Rear
+patch=1,EE,205D564C,extended,3F800000
+
+[Left Rear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Left Rear
+// Left Rear
+patch=1,EE,205D5654,extended,3F800000
+
+[Right Front]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Right Front
+// Right Front
+patch=1,EE,205D565C,extended,3F800000
+
+[Left Front]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Left Front
+// Left Front
+patch=1,EE,205D5664,extended,3F800000
+
+[Right Side]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Right Side
+// Right Side
+patch=1,EE,205D566C,extended,3F800000
+
+[Left Side]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Left Side
+// Left Side
+patch=1,EE,205D5674,extended,3F800000
+
+[Whole Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Whole Car
+// Whole Car
+patch=1,EE,405D564C,extended,00060002
+
+[Whole Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Whole Car
+// Whole Car
+patch=1,EE,3F800000,extended,00000000
+
+[Airfield]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Airfield
+// Airfield
+patch=1,EE,003095F4,extended,00000001
+
+[Chinatown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chinatown
+// Chinatown
+patch=1,EE,003095F5,extended,00000001
+
+[Steelworks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Steelworks
+// Steelworks
+patch=1,EE,003095F6,extended,00000001
+
+[Casino]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Casino
+// Casino
+patch=1,EE,003095F7,extended,00000001
+
+[Harbor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Harbor
+// Harbor
+patch=1,EE,003095F8,extended,00000001
+
+[South Central]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central
+// South Central
+patch=1,EE,003095F9,extended,00000001
+
+[Under Construction]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Under Construction
+// Under Construction
+patch=1,EE,003095FA,extended,00000001
+
+[Chinatown 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chinatown 2
+// Chinatown 2
+patch=1,EE,003095FB,extended,00000001
+
+[Refinery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Refinery
+// Refinery
+patch=1,EE,003095FC,extended,00000001
+
+[South Central 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central 2
+// South Central 2
+patch=1,EE,003095FD,extended,00000001
+
+[Subway]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Subway
+// Subway
+patch=1,EE,003095FE,extended,00000001
+
+[Casino 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Casino 2
+// Casino 2
+patch=1,EE,003095FF,extended,00000001
+
+[Dam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dam
+// Dam
+patch=1,EE,00309600,extended,00000001
+
+[All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Tracks
+// All Tracks
+patch=1,EE,403095F4,extended,00030001
+
+[All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Tracks
+// All Tracks
+patch=1,EE,01010101,extended,00000000
+
+[All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Tracks
+// All Tracks
+patch=1,EE,00309600,extended,00000001
+
+[BMovie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=BMovie
+// BMovie
+patch=1,EE,00309601,extended,00000001
+
+[Colosseum]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Colosseum
+// Colosseum
+patch=1,EE,00309602,extended,00000001
+
+[Redline]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Redline
+// Redline
+patch=1,EE,00309603,extended,00000001
+
+[Titan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Titan
+// Titan
+patch=1,EE,00309604,extended,00000001
+
+[Rough Justice]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rough Justice
+// Rough Justice
+patch=1,EE,00309605,extended,00000001
+
+[All Arenas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Arenas
+// All Arenas
+patch=1,EE,00309601,extended,00000001
+
+[All Arenas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Arenas
+// All Arenas
+patch=1,EE,10309602,extended,00000101
+
+[All Arenas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Arenas
+// All Arenas
+patch=1,EE,10309604,extended,00000101
+
+[Mariah]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mariah
+// Mariah
+patch=1,EE,00309618,extended,00000001
+
+[Brennan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Brennan
+// Brennan
+patch=1,EE,00309619,extended,00000001
+
+[Red Widow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Widow
+// Red Widow
+patch=1,EE,0030961A,extended,00000001
+
+[Johnson]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Johnson
+// Johnson
+patch=1,EE,0030961B,extended,00000001
+
+[Set]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Set
+// Set
+patch=1,EE,0030961C,extended,00000001
+
+[Mako]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mako
+// Mako
+patch=1,EE,0030961D,extended,00000001
+
+[Victim]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Victim
+// Victim
+patch=1,EE,0030961E,extended,00000001
+
+[Toffee]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Toffee
+// Toffee
+patch=1,EE,0030961F,extended,00000001
+
+[Cadence]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cadence
+// Cadence
+patch=1,EE,00309620,extended,00000001
+
+[Scratch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scratch
+// Scratch
+patch=1,EE,00309621,extended,00000001
+
+[Jeremiah]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jeremiah
+// Jeremiah
+patch=1,EE,00309622,extended,00000001
+
+[Yin Yang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yin Yang
+// Yin Yang
+patch=1,EE,00309623,extended,00000001
+
+[Carver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Carver
+// Carver
+patch=1,EE,00309624,extended,00000001
+
+[Fortune]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fortune
+// Fortune
+patch=1,EE,00309625,extended,00000001
+
+[Cassandra]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cassandra
+// Cassandra
+patch=1,EE,00309626,extended,00000001
+
+[Makucha]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Makucha
+// Makucha
+patch=1,EE,00309627,extended,00000001
+
+[Crane]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crane
+// Crane
+patch=1,EE,00309628,extended,00000001
+
+[Noire]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Noire
+// Noire
+patch=1,EE,00309629,extended,00000001
+
+[Canvas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Canvas
+// Canvas
+patch=1,EE,0030962A,extended,00000001
+
+[Underdog]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Underdog
+// Underdog
+patch=1,EE,0030962B,extended,00000001
+
+[Bonus Car 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bonus Car 1
+// Bonus Car 1
+patch=1,EE,0030962C,extended,00000001
+
+[Bonus Car 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bonus Car 2
+// Bonus Car 2
+patch=1,EE,0030962D,extended,00000001
+
+[Bonus Car 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bonus Car 3
+// Bonus Car 3
+patch=1,EE,0030962E,extended,00000001
+
+[Bonus Car 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bonus Car 4
+// Bonus Car 4
+patch=1,EE,0030962F,extended,00000001
+
+[Bonus Car 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bonus Car 5
+// Bonus Car 5
+patch=1,EE,00309630,extended,00000001
+
+[All Drivers/Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Drivers/Cars
+// All Drivers/Cars
+patch=1,EE,40309618,extended,00060001
+
+[All Drivers/Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Drivers/Cars
+// All Drivers/Cars
+patch=1,EE,01010101,extended,00000000
+
+[All Drivers/Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Drivers/Cars
+// All Drivers/Cars
+patch=1,EE,00309630,extended,00000001

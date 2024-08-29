@@ -1,0 +1,139 @@
+gametitle=Nightshade [SLUS-20810] [519E816B]
+
+[Win 1 Battle For Max Exp/Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Win 1 Battle For Max Exp/Level
+// Win 1 Battle For Max Exp/Level
+patch=1,EE,F0180008,extended,003B1D07
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,203648C4,extended,24020003
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201BE2B4,extended,00000000
+
+[Max Special Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special Meter
+// Max Special Meter
+patch=1,EE,201BE2E4,extended,00000000
+
+[Infinite Throwing Knives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Throwing Knives
+// Infinite Throwing Knives
+patch=1,EE,201C3744,extended,00000000
+
+[Extra Throwing Knives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Throwing Knives
+// Extra Throwing Knives
+patch=1,EE,101C3740,extended,00000001
+
+[Infinite Main Spells]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Main Spells
+// Infinite Main Spells
+patch=1,EE,201C8964,extended,00000000
+
+[Extra Main Spell]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Main Spell
+// Extra Main Spell
+patch=1,EE,101C8960,extended,00000001
+
+[Always Have Max Infinite Main Spells]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Have Max Infinite Main Spells
+// Always Have Max Infinite Main Spells
+patch=1,EE,201BE838,extended,24030003
+
+[Always Have Max Infinite Main Spells]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Have Max Infinite Main Spells
+// Always Have Max Infinite Main Spells
+patch=1,EE,201BE840,extended,AE030918
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,201C6DF4,extended,00000000
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,201BB484,extended,00000000
+
+[Infinite Dashes In Air]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Dashes In Air
+// Infinite Dashes In Air
+patch=1,EE,201C60CC,extended,00000000
+
+[Super Jumps/Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Jumps/Double Jumps
+// Super Jumps/Double Jumps
+patch=1,EE,201C6AC8,extended,00000000
+
+[Super Jumps/Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Jumps/Double Jumps
+// Super Jumps/Double Jumps
+patch=1,EE,201C6AD4,extended,00000000
+
+[Super Jumps/Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Jumps/Double Jumps
+// Super Jumps/Double Jumps
+patch=1,EE,101C6AD8,extended,00004000
+
+[Mega Jumps/Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mega Jumps/Double Jumps
+// Mega Jumps/Double Jumps
+patch=1,EE,201C6AC8,extended,00000000
+
+[Mega Jumps/Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mega Jumps/Double Jumps
+// Mega Jumps/Double Jumps
+patch=1,EE,201C6AD4,extended,00000000
+
+[Mega Jumps/Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mega Jumps/Double Jumps
+// Mega Jumps/Double Jumps
+patch=1,EE,101C6AD8,extended,00004040
+
+[Ultra Jumps/Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultra Jumps/Double Jumps
+// Ultra Jumps/Double Jumps
+patch=1,EE,201C6AC8,extended,00000000
+
+[Ultra Jumps/Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultra Jumps/Double Jumps
+// Ultra Jumps/Double Jumps
+patch=1,EE,201C6AD4,extended,00000000
+
+[Ultra Jumps/Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultra Jumps/Double Jumps
+// Ultra Jumps/Double Jumps
+patch=1,EE,101C6AD8,extended,00004080
+
+[Retry Never Increases When Retrying Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Retry Never Increases When Retrying Levels
+// Retry Never Increases When Retrying Levels
+patch=1,EE,201AF558,extended,00000000

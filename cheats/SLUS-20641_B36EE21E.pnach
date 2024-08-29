@@ -1,0 +1,79 @@
+gametitle=IndyCar Series [SLUS-20641] [B36EE21E]
+
+[Martina Topley-Bird-Sandpaper Kisses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Martina Topley-Bird-Sandpaper Kisses
+// Martina Topley-Bird-Sandpaper Kisses
+patch=1,EE,F0100008,extended,0020184F
+
+[No Crowd]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Crowd
+// No Crowd
+patch=1,EE,202407A0,extended,00000000
+
+[Heavy Crowd]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Heavy Crowd
+// Heavy Crowd
+patch=1,EE,202407A0,extended,40000000
+
+[Total Laps Always 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps Always 1
+// Total Laps Always 1
+patch=1,EE,2024D9D0,extended,00000001
+
+[Total Laps Always 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps Always 5
+// Total Laps Always 5
+patch=1,EE,2024D9D0,extended,00000005
+
+[Total Laps Always 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps Always 25
+// Total Laps Always 25
+patch=1,EE,2024D9D0,extended,00000019
+
+[Total Laps Always 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps Always 50
+// Total Laps Always 50
+patch=1,EE,2024D9D0,extended,00000032
+
+[Total Laps Always 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps Always 100
+// Total Laps Always 100
+patch=1,EE,2024D9D0,extended,00000064
+
+[Total Laps Always 250]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps Always 250
+// Total Laps Always 250
+patch=1,EE,2024D9D0,extended,000000FA
+
+[Total Laps Always 500]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Total Laps Always 500
+// Total Laps Always 500
+patch=1,EE,2024D9D0,extended,000001F4
+
+[Have All Bronze Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Bronze Trading Cards
+// Have All Bronze Trading Cards
+patch=1,EE,20371DC0,extended,FFFFFFFF
+
+[Have All Silver Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Silver Trading Cards
+// Have All Silver Trading Cards
+patch=1,EE,20371DC4,extended,FFFFFFFF
+
+[Have All Gold Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Gold Trading Cards
+// Have All Gold Trading Cards
+patch=1,EE,20371DC8,extended,FFFFFFFF

@@ -1,0 +1,55 @@
+gametitle=Happy Feet [SLES-54421] [1AFD7469]
+
+[Xen Gravity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xen Gravity
+// Xen Gravity
+patch=1,EE,9011DE64,extended,0C04AC48
+
+[Unlock All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Levels
+// Unlock All Levels
+patch=1,EE,2079AE24,extended,448D58C6
+
+[Infinite Grace Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Grace Meter
+// Infinite Grace Meter
+patch=1,EE,D146E130,extended,0000F02D
+
+[Infinite Grace Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Grace Meter
+// Infinite Grace Meter
+patch=1,EE,2146E174,extended,00000000
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,D1211C90,extended,0000202D
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,21211D7C,extended,24030001
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,21211D80,extended,AC430060
+
+[Infinite Air]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Air
+// Infinite Air
+patch=1,EE,D17CEB74,extended,00002023
+
+[Infinite Air]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Air
+// Infinite Air
+patch=1,EE,217CEB78,extended,00000000

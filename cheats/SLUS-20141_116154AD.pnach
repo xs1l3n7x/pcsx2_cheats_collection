@@ -1,0 +1,79 @@
+gametitle=Cart Fury Championship Racing [SLUS-20141] [116154AD]
+
+[Unlock All Character Skins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Character Skins
+// Unlock All Character Skins
+patch=1,EE,901E901C,extended,0C077B30
+
+[Max Season Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Season Points
+// Max Season Points
+patch=1,EE,10597EB0,extended,0000270F
+
+[Infinite Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Boost
+// Infinite Boost
+patch=1,EE,1056B224,extended,000001A4
+
+[Always Super Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Super Boost
+// Always Super Boost
+patch=1,EE,0056C7D9,extended,00000001
+
+[Start On Last Track (Simulation Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Last Track (Simulation Mode)
+// Start On Last Track (Simulation Mode)
+patch=1,EE,00597FA0,extended,00000010
+
+[Max Kills (Demolition)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Kills (Demolition)
+// Max Kills (Demolition)
+patch=1,EE,1056C2A0,extended,0000270F
+
+[Infinite Missile Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Missile Time
+// Infinite Missile Time
+patch=1,EE,1056C2E8,extended,00000063
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,1056C328,extended,00000063
+
+[Max Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Kills
+// Max Kills
+patch=1,EE,105CEC42,extended,0000270F
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,2056C5C0,extended,00000063
+
+[No Barrels Hit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Barrels Hit
+// No Barrels Hit
+patch=1,EE,105F56C0,extended,00000000
+
+[0 Time Out Of Bounds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=0 Time Out Of Bounds
+// 0 Time Out Of Bounds
+patch=1,EE,205F56C4,extended,00000000
+
+[Low Total Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Total Time
+// Low Total Time
+patch=1,EE,205F56C8,extended,00000000

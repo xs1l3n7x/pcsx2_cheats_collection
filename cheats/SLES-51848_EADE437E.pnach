@@ -1,0 +1,739 @@
+gametitle=Tony Hawk's Underground [SLES-51848] [EADE437E]
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,9031A58C,extended,0C0CC501
+
+[Access More Menus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access More Menus
+// Access More Menus
+patch=1,EE,2012B880,extended,00000000
+
+[Always Max Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Special
+// Always Max Special
+patch=1,EE,202369F0,extended,24020BB8
+
+[Always Max Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Special
+// Always Max Special
+patch=1,EE,202369F4,extended,AE220068
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,20237FC4,extended,24A503E7
+
+[Super Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Score Gain
+// Super Score Gain
+patch=1,EE,20237FC4,extended,24A5270F
+
+[Hella Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hella Score Gain
+// Hella Score Gain
+patch=1,EE,20237FC4,extended,24A57FFF
+
+[Trick Score x30000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trick Score x30000
+// Trick Score x30000
+patch=1,EE,20237550,extended,34027530
+
+[Trick Score x25000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trick Score x25000
+// Trick Score x25000
+patch=1,EE,20237550,extended,340261A8
+
+[Trick Score x20000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trick Score x20000
+// Trick Score x20000
+patch=1,EE,20237550,extended,34024E20
+
+[Trick Score x15000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trick Score x15000
+// Trick Score x15000
+patch=1,EE,20237550,extended,34023A98
+
+[Trick Score x10000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trick Score x10000
+// Trick Score x10000
+patch=1,EE,20237550,extended,34022710
+
+[Trick Score x5000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trick Score x5000
+// Trick Score x5000
+patch=1,EE,20237550,extended,34021388
+
+[Trick Score x1000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trick Score x1000
+// Trick Score x1000
+patch=1,EE,20237550,extended,340203E8
+
+[Trick Score x500]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trick Score x500
+// Trick Score x500
+patch=1,EE,20237550,extended,340201F4
+
+[Trick Score x100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trick Score x100
+// Trick Score x100
+patch=1,EE,20237550,extended,34020064
+
+[Trick Score x50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trick Score x50
+// Trick Score x50
+patch=1,EE,20237550,extended,34020032
+
+[Trick Score x25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trick Score x25
+// Trick Score x25
+patch=1,EE,20237550,extended,34020019
+
+[Trick Score x10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trick Score x10
+// Trick Score x10
+patch=1,EE,20237550,extended,3402000A
+
+[Trick Score x5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trick Score x5
+// Trick Score x5
+patch=1,EE,20237550,extended,34020005
+
+[Trick Score x2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trick Score x2
+// Trick Score x2
+patch=1,EE,20237550,extended,34020002
+
+[Max Score After 1 Trick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score After 1 Trick
+// Max Score After 1 Trick
+patch=1,EE,20237FA4,extended,3C0505F5
+
+[Max Score After 1 Trick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score After 1 Trick
+// Max Score After 1 Trick
+patch=1,EE,20237FC4,extended,34A5E0FF
+
+[Max Score After 1 Trick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score After 1 Trick
+// Max Score After 1 Trick
+patch=1,EE,20237FEC,extended,3C0505F5
+
+[Max Score After 1 Trick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score After 1 Trick
+// Max Score After 1 Trick
+patch=1,EE,20237FF0,extended,34A5E0FF
+
+[Infinite Running Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Running Combo
+// Infinite Running Combo
+patch=1,EE,2029E364,extended,00000000
+
+[Infinite Running Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Running Combo
+// Infinite Running Combo
+patch=1,EE,2029E378,extended,00000000
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,20245290,extended,00000000
+
+[View Gaps To Have All Gaps (Current Level)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Gaps To Have All Gaps (Current Level)
+// View Gaps To Have All Gaps (Current Level)
+patch=1,EE,200C0230,extended,2402270F
+
+[View Gaps To Have All Gaps (Current Level)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Gaps To Have All Gaps (Current Level)
+// View Gaps To Have All Gaps (Current Level)
+patch=1,EE,200C0234,extended,03E00008
+
+[View Gaps To Have All Gaps (Current Level)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Gaps To Have All Gaps (Current Level)
+// View Gaps To Have All Gaps (Current Level)
+patch=1,EE,200C0238,extended,AC820044
+
+[View Gaps To Have All Gaps (Current Level)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Gaps To Have All Gaps (Current Level)
+// View Gaps To Have All Gaps (Current Level)
+patch=1,EE,2026CB68,extended,0803008C
+
+[Unlock Skateshop]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Skateshop
+// Unlock Skateshop
+patch=1,EE,70AA5A5D,extended,00000001
+
+[Unlock Create-A-Deck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Create-A-Deck
+// Unlock Create-A-Deck
+patch=1,EE,70AA5A69,extended,00000008
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,200C0240,extended,8C8305F0
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,200C0244,extended,00651825
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,200C0248,extended,08098F25
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,200C024C,extended,AC8305F0
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,20263C90,extended,08030090
+
+[Element]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Element
+// Element
+patch=1,EE,70AA5A45,extended,00000004
+
+[Girl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Girl
+// Girl
+patch=1,EE,70AA5A45,extended,00000008
+
+[Flip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flip
+// Flip
+patch=1,EE,70AA5A45,extended,00000010
+
+[Birdhouse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Birdhouse
+// Birdhouse
+patch=1,EE,70AA5A45,extended,00000020
+
+[Arto Saari]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arto Saari
+// Arto Saari
+patch=1,EE,70AA5A45,extended,00000040
+
+[Zero]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zero
+// Zero
+patch=1,EE,70AA5A46,extended,00000001
+
+[Kiss]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kiss
+// Kiss
+patch=1,EE,70AA5A46,extended,00000002
+
+[Tony Hawk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tony Hawk
+// Tony Hawk
+patch=1,EE,70AA5A54,extended,00000080
+
+[Eric Koston]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Eric Koston
+// Eric Koston
+patch=1,EE,70AA5A55,extended,00000008
+
+[Bucky Lasek]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bucky Lasek
+// Bucky Lasek
+patch=1,EE,70AA5A55,extended,00000010
+
+[Bam Margera]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bam Margera
+// Bam Margera
+patch=1,EE,70AA5A55,extended,00000020
+
+[Rodney Mullen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rodney Mullen
+// Rodney Mullen
+patch=1,EE,70AA5A55,extended,00000040
+
+[Chad Muska]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chad Muska
+// Chad Muska
+patch=1,EE,70AA5A55,extended,00000080
+
+[Andrew Reynolds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Andrew Reynolds
+// Andrew Reynolds
+patch=1,EE,70AA5A56,extended,00000001
+
+[Geoff Rowley]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Geoff Rowley
+// Geoff Rowley
+patch=1,EE,70AA5A56,extended,00000002
+
+[Jamie Thomas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jamie Thomas
+// Jamie Thomas
+patch=1,EE,70AA5A56,extended,00000008
+
+[Bob Burnquist]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bob Burnquist
+// Bob Burnquist
+patch=1,EE,70AA5A56,extended,00000010
+
+[Mike Vallely]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mike Vallely
+// Mike Vallely
+patch=1,EE,70AA5A56,extended,00000020
+
+[Paul Rodriguez]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Paul Rodriguez
+// Paul Rodriguez
+patch=1,EE,70AA5A56,extended,00000040
+
+[Bails 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bails 1
+// Bails 1
+patch=1,EE,70AA5A57,extended,00000002
+
+[Always Hard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Hard
+// Always Hard
+patch=1,EE,70AA5A57,extended,00000004
+
+[Bails 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bails 2
+// Bails 2
+patch=1,EE,70AA5A57,extended,00000020
+
+[All THUG Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All THUG Movies
+// All THUG Movies
+patch=1,EE,70AA5A45,extended,0000007C
+
+[All THUG Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All THUG Movies
+// All THUG Movies
+patch=1,EE,70AA5A46,extended,00000003
+
+[All THUG Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All THUG Movies
+// All THUG Movies
+patch=1,EE,70AA5A54,extended,0010F880
+
+[All THUG Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All THUG Movies
+// All THUG Movies
+patch=1,EE,70AA5A56,extended,0010267B
+
+[New Jersey]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=New Jersey
+// New Jersey
+patch=1,EE,70AA5A50,extended,00000020
+
+[Manhattan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manhattan
+// Manhattan
+patch=1,EE,70AA5A50,extended,00000040
+
+[Tampa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tampa
+// Tampa
+patch=1,EE,70AA5A50,extended,00000080
+
+[San Diego]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=San Diego
+// San Diego
+patch=1,EE,70AA5A51,extended,00000001
+
+[Hawaii]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hawaii
+// Hawaii
+patch=1,EE,70AA5A51,extended,00000002
+
+[Vancouver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vancouver
+// Vancouver
+patch=1,EE,70AA5A51,extended,00000004
+
+[Slam City jam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slam City jam
+// Slam City jam
+patch=1,EE,70AA5A51,extended,00000008
+
+[Moscow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Moscow
+// Moscow
+patch=1,EE,70AA5A51,extended,00000010
+
+[Hotter Than Hell]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hotter Than Hell
+// Hotter Than Hell
+patch=1,EE,70AA5A51,extended,00000020
+
+[Venice]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Venice
+// Venice
+patch=1,EE,70AA5A77,extended,00000010
+
+[Hangar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hangar
+// Hangar
+patch=1,EE,70AA5A77,extended,00000020
+
+[School II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=School II
+// School II
+patch=1,EE,70AA5A77,extended,00000040
+
+[All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Levels
+// All Levels
+patch=1,EE,70AA5A50,extended,00103FE0
+
+[All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Levels
+// All Levels
+patch=1,EE,70AA5A77,extended,00000070
+
+[Iron Man]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Iron Man
+// Iron Man
+patch=1,EE,70AA5A51,extended,00000040
+
+[Gene Simmons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gene Simmons
+// Gene Simmons
+patch=1,EE,70AA5A51,extended,00000080
+
+[T.H.U.D.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T.H.U.D.
+// T.H.U.D.
+patch=1,EE,70AA5A52,extended,00000001
+
+[Pedestrian]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pedestrian
+// Pedestrian
+patch=1,EE,70AA5A52,extended,00000002
+
+[All Hidden Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Hidden Characters
+// All Hidden Characters
+patch=1,EE,70AA5A51,extended,000000C0
+
+[All Hidden Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Hidden Characters
+// All Hidden Characters
+patch=1,EE,70AA5A52,extended,00000003
+
+[Secret 2-Ironman]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Secret 2-Ironman
+// Secret 2-Ironman
+patch=1,EE,70AA5A51,extended,00000040
+
+[Secret 1-Kiss]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Secret 1-Kiss
+// Secret 1-Kiss
+patch=1,EE,70AA5A51,extended,00000080
+
+[Secret 3-T.H.U.D.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Secret 3-T.H.U.D.
+// Secret 3-T.H.U.D.
+patch=1,EE,70AA5A52,extended,00000001
+
+[Sponsor 1-Birdhouse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sponsor 1-Birdhouse
+// Sponsor 1-Birdhouse
+patch=1,EE,70AA5A5D,extended,00000002
+
+[Sponsor 2-Element]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sponsor 2-Element
+// Sponsor 2-Element
+patch=1,EE,70AA5A5D,extended,00000004
+
+[Sponsor 3-Flip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sponsor 3-Flip
+// Sponsor 3-Flip
+patch=1,EE,70AA5A5D,extended,00000008
+
+[Sponsor 4-Girl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sponsor 4-Girl
+// Sponsor 4-Girl
+patch=1,EE,70AA5A5D,extended,00000010
+
+[Sponsor 5-Zero]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sponsor 5-Zero
+// Sponsor 5-Zero
+patch=1,EE,70AA5A5D,extended,00000020
+
+[All Interface Themes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Interface Themes
+// All Interface Themes
+patch=1,EE,70AA5A51,extended,000000C0
+
+[All Interface Themes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Interface Themes
+// All Interface Themes
+patch=1,EE,70AA5A52,extended,00000001
+
+[All Interface Themes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Interface Themes
+// All Interface Themes
+patch=1,EE,70AA5A5D,extended,0000003E
+
+[Cool Specials]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cool Specials
+// Cool Specials
+patch=1,EE,70AA5A53,extended,00000001
+
+[Kid Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kid Mode
+// Kid Mode
+patch=1,EE,70AA5A53,extended,00000004
+
+[Rollerskates]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rollerskates
+// Rollerskates
+patch=1,EE,70AA5A53,extended,00000010
+
+[Flame]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flame
+// Flame
+patch=1,EE,70AA5A54,extended,00000002
+
+[Always Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Special
+// Always Special
+patch=1,EE,70AA5A54,extended,00000008
+
+[Perfect Rail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perfect Rail
+// Perfect Rail
+patch=1,EE,70AA5A54,extended,00000010
+
+[Perfect Skitch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perfect Skitch
+// Perfect Skitch
+patch=1,EE,70AA5A54,extended,00000020
+
+[Perfect Manual]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perfect Manual
+// Perfect Manual
+patch=1,EE,70AA5A76,extended,00000001
+
+[Moon Gravity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Moon Gravity
+// Moon Gravity
+patch=1,EE,70AA5A76,extended,00000002
+
+[All Cheats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Cheats
+// All Cheats
+patch=1,EE,70AA5A53,extended,00000015
+
+[All Cheats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Cheats
+// All Cheats
+patch=1,EE,70AA5A54,extended,0000003A
+
+[All Cheats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Cheats
+// All Cheats
+patch=1,EE,70AA5A76,extended,00000003
+
+[Always Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Special
+// Always Special
+patch=1,EE,70AA5A5B,extended,00000004
+
+[Perfect Rail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perfect Rail
+// Perfect Rail
+patch=1,EE,70AA5A5B,extended,00000008
+
+[Cool Specials]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cool Specials
+// Cool Specials
+patch=1,EE,70AA5A5B,extended,00000020
+
+[Perfect Manual]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perfect Manual
+// Perfect Manual
+patch=1,EE,70AA5A5B,extended,00000080
+
+[Kid Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kid Mode
+// Kid Mode
+patch=1,EE,70AA5A5C,extended,00000001
+
+[Moon Gravity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Moon Gravity
+// Moon Gravity
+patch=1,EE,70AA5A5C,extended,00000002
+
+[Perfect Skitch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Perfect Skitch
+// Perfect Skitch
+patch=1,EE,70AA5A5C,extended,00000010
+
+[Rollerskates]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rollerskates
+// Rollerskates
+patch=1,EE,70AA5A5C,extended,00000040
+
+[Flame]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flame
+// Flame
+patch=1,EE,70AA5A76,extended,00000008
+
+[Birdhouse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Birdhouse
+// Birdhouse
+patch=1,EE,70AA5A5D,extended,00000002
+
+[Element]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Element
+// Element
+patch=1,EE,70AA5A5D,extended,00000004
+
+[Flip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flip
+// Flip
+patch=1,EE,70AA5A5D,extended,00000008
+
+[Girl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Girl
+// Girl
+patch=1,EE,70AA5A5D,extended,00000010
+
+[Zero]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zero
+// Zero
+patch=1,EE,70AA5A5D,extended,00000020
+
+[All Decks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Decks
+// All Decks
+patch=1,EE,70AA5A5D,extended,0000003E

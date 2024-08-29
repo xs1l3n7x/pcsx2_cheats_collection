@@ -1,0 +1,1051 @@
+gametitle=Spider-Man 2 [SLUS-20776] [E2DFCE12]
+
+[Max Perfect]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Perfect
+// Max Perfect
+patch=1,EE,90579D28,extended,0C162E8B
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20B31B98,extended,000003E8
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,20B31BA0,extended,000003E8
+
+[Score Display Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Score Display Always On
+// Score Display Always On
+patch=1,EE,21A33188,extended,00000001
+
+[Score Display Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Score Display Always Off
+// Score Display Always Off
+patch=1,EE,21A33188,extended,00000000
+
+[Invert Camera Up/Down Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invert Camera Up/Down Always On
+// Invert Camera Up/Down Always On
+patch=1,EE,21A331A0,extended,00000001
+
+[Invert Camera Up/Down Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invert Camera Up/Down Always Off
+// Invert Camera Up/Down Always Off
+patch=1,EE,21A331A0,extended,00000000
+
+[Invert Camera Left/Right Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invert Camera Left/Right Always On
+// Invert Camera Left/Right Always On
+patch=1,EE,21A331A4,extended,00000001
+
+[Invert Camera Left/Right Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invert Camera Left/Right Always Off
+// Invert Camera Left/Right Always Off
+patch=1,EE,21A331A4,extended,00000000
+
+[Easy Swinging Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Easy Swinging Always On
+// Easy Swinging Always On
+patch=1,EE,21A331A8,extended,00000001
+
+[Easy Swinging Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Easy Swinging Always Off
+// Easy Swinging Always Off
+patch=1,EE,21A331A8,extended,00000000
+
+[Map Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Map Always On
+// Map Always On
+patch=1,EE,21A331AC,extended,00000001
+
+[Map Always Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Map Always Off
+// Map Always Off
+patch=1,EE,21A331AC,extended,00000001
+
+[Max Hero Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Hero Points
+// Max Hero Points
+patch=1,EE,20A5FAD0,extended,4CBEBC20
+
+[P1 Press {L1}+{SELECT} To Stop Timers Going Down]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Timers Going Down
+// P1 Press {L1}+{SELECT} To Stop Timers Going Down
+patch=1,EE,D0608102,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Stop Timers Going Down]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Timers Going Down
+// P1 Press {L1}+{SELECT} To Stop Timers Going Down
+patch=1,EE,2037820C,extended,00000000
+
+[P1 Press {L2}+{SELECT} To Restart Timers Going Down]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Timers Going Down
+// P1 Press {L2}+{SELECT} To Restart Timers Going Down
+patch=1,EE,D0608102,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Restart Timers Going Down]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Timers Going Down
+// P1 Press {L2}+{SELECT} To Restart Timers Going Down
+patch=1,EE,2037820C,extended,E6200030
+
+[P1 Press {R1}+{SELECT} To Stop Timers Going Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} To Stop Timers Going Up
+// P1 Press {R1}+{SELECT} To Stop Timers Going Up
+patch=1,EE,D0608102,extended,0000F7FE
+
+[P1 Press {R1}+{SELECT} To Stop Timers Going Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} To Stop Timers Going Up
+// P1 Press {R1}+{SELECT} To Stop Timers Going Up
+patch=1,EE,2037822C,extended,00000000
+
+[P1 Press {R2}+{SELECT} To Restart Timers Going Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+{SELECT} To Restart Timers Going Up
+// P1 Press {R2}+{SELECT} To Restart Timers Going Up
+patch=1,EE,D0608102,extended,0000FDFE
+
+[P1 Press {R2}+{SELECT} To Restart Timers Going Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+{SELECT} To Restart Timers Going Up
+// P1 Press {R2}+{SELECT} To Restart Timers Going Up
+patch=1,EE,2037822C,extended,E6200030
+
+[No Traffic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Traffic
+// No Traffic
+patch=1,EE,005DF968,extended,00000000
+
+[12:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12:00 A.M.
+// 12:00 A.M.
+patch=1,EE,20698BE8,extended,00000000
+
+[1:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1:00 A.M.
+// 1:00 A.M.
+patch=1,EE,20698BE8,extended,00000E10
+
+[2:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2:00 A.M.
+// 2:00 A.M.
+patch=1,EE,20698BE8,extended,00001C20
+
+[3:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=3:00 A.M.
+// 3:00 A.M.
+patch=1,EE,20698BE8,extended,00002A30
+
+[4:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4:00 A.M.
+// 4:00 A.M.
+patch=1,EE,20698BE8,extended,00003840
+
+[5:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5:00 A.M.
+// 5:00 A.M.
+patch=1,EE,20698BE8,extended,00004650
+
+[6:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=6:00 A.M.
+// 6:00 A.M.
+patch=1,EE,20698BE8,extended,00005460
+
+[7:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=7:00 A.M.
+// 7:00 A.M.
+patch=1,EE,20698BE8,extended,00006270
+
+[8:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=8:00 A.M.
+// 8:00 A.M.
+patch=1,EE,20698BE8,extended,00007080
+
+[9:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9:00 A.M.
+// 9:00 A.M.
+patch=1,EE,20698BE8,extended,00007E90
+
+[10:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=10:00 A.M.
+// 10:00 A.M.
+patch=1,EE,20698BE8,extended,00008CA0
+
+[11:00 A.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=11:00 A.M.
+// 11:00 A.M.
+patch=1,EE,20698BE8,extended,00009AB0
+
+[12:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12:00 P.M.
+// 12:00 P.M.
+patch=1,EE,20698BE8,extended,0000A8C0
+
+[1:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1:00 P.M.
+// 1:00 P.M.
+patch=1,EE,20698BE8,extended,0000B6D0
+
+[2:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2:00 P.M.
+// 2:00 P.M.
+patch=1,EE,20698BE8,extended,0000C4E0
+
+[3:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=3:00 P.M.
+// 3:00 P.M.
+patch=1,EE,20698BE8,extended,0000D2F0
+
+[4:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=4:00 P.M.
+// 4:00 P.M.
+patch=1,EE,20698BE8,extended,0000E100
+
+[5:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=5:00 P.M.
+// 5:00 P.M.
+patch=1,EE,20698BE8,extended,0000EF10
+
+[6:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=6:00 P.M.
+// 6:00 P.M.
+patch=1,EE,20698BE8,extended,0000FD20
+
+[7:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=7:00 P.M.
+// 7:00 P.M.
+patch=1,EE,20698BE8,extended,00010B30
+
+[8:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=8:00 P.M.
+// 8:00 P.M.
+patch=1,EE,20698BE8,extended,00011940
+
+[9:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=9:00 P.M.
+// 9:00 P.M.
+patch=1,EE,20698BE8,extended,00012750
+
+[10:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=10:00 P.M.
+// 10:00 P.M.
+patch=1,EE,20698BE8,extended,00013560
+
+[11:00 P.M.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=11:00 P.M.
+// 11:00 P.M.
+patch=1,EE,20698BE8,extended,00014370
+
+[Grapple]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grapple
+// Grapple
+patch=1,EE,20A5FB40,extended,3F800000
+
+[Air Jump Off Kick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Air Jump Off Kick
+// Air Jump Off Kick
+patch=1,EE,20A5FB64,extended,3F800000
+
+[Cannonball Kick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cannonball Kick
+// Cannonball Kick
+patch=1,EE,20A5FB70,extended,3F800000
+
+[Rising Knee Kick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rising Knee Kick
+// Rising Knee Kick
+patch=1,EE,20A5FB7C,extended,3F800000
+
+[Yank Behind]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yank Behind
+// Yank Behind
+patch=1,EE,20A5FB88,extended,3F800000
+
+[Earth Breaker Punch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Earth Breaker Punch
+// Earth Breaker Punch
+patch=1,EE,20A5FB94,extended,3F800000
+
+[Level 3 Air Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 3 Air Combo
+// Level 3 Air Combo
+patch=1,EE,20A5FBA0,extended,3F800000
+
+[Launch Kick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launch Kick
+// Launch Kick
+patch=1,EE,20A5FBAC,extended,3F800000
+
+[Dizzy Strike]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dizzy Strike
+// Dizzy Strike
+patch=1,EE,20A5FBB8,extended,3F800000
+
+[Multi Web Hammer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Multi Web Hammer
+// Multi Web Hammer
+patch=1,EE,20A5FBC4,extended,3F800000
+
+[The Hero Punch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Hero Punch
+// The Hero Punch
+patch=1,EE,20A5FBD0,extended,3F800000
+
+[Interceptor Kick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Interceptor Kick
+// Interceptor Kick
+patch=1,EE,20A5FBDC,extended,3F800000
+
+[Level 4 Air Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 4 Air Combo
+// Level 4 Air Combo
+patch=1,EE,20A5FBE8,extended,3F800000
+
+[Jaw Launcher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jaw Launcher
+// Jaw Launcher
+patch=1,EE,20A5FBF4,extended,3F800000
+
+[Air Pile Driver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Air Pile Driver
+// Air Pile Driver
+patch=1,EE,20A5FC00,extended,3F800000
+
+[Double Heel Kick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Double Heel Kick
+// Double Heel Kick
+patch=1,EE,20A5FC0C,extended,3F800000
+
+[Stair Step Kicks Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stair Step Kicks Combo
+// Stair Step Kicks Combo
+patch=1,EE,20A5FC18,extended,3F800000
+
+[Whirlwind Kick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Whirlwind Kick
+// Whirlwind Kick
+patch=1,EE,20A5FC24,extended,3F800000
+
+[Rising Shoulder Charge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rising Shoulder Charge
+// Rising Shoulder Charge
+patch=1,EE,20A5FC30,extended,3F800000
+
+[Air Web Slam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Air Web Slam
+// Air Web Slam
+patch=1,EE,20A5FC3C,extended,3F800000
+
+[Spider Missile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spider Missile
+// Spider Missile
+patch=1,EE,20A5FC48,extended,3F800000
+
+[Web Hanger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Web Hanger
+// Web Hanger
+patch=1,EE,20A5FC54,extended,3F800000
+
+[Super Web]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Web
+// Super Web
+patch=1,EE,20A5FC60,extended,3F800000
+
+[Max Max Trap Webs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Max Trap Webs
+// Max Max Trap Webs
+patch=1,EE,20A5FD74,extended,40800000
+
+[All Combat Upgrades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Combat Upgrades
+// All Combat Upgrades
+patch=1,EE,20A5FB40,extended,3F800000
+
+[All Combat Upgrades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Combat Upgrades
+// All Combat Upgrades
+patch=1,EE,40A5FB64,extended,00170003
+
+[All Combat Upgrades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Combat Upgrades
+// All Combat Upgrades
+patch=1,EE,3F800000,extended,00000000
+
+[All Combat Upgrades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Combat Upgrades
+// All Combat Upgrades
+patch=1,EE,20A5FD74,extended,40800000
+
+[Slingshot Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slingshot Jump
+// Slingshot Jump
+patch=1,EE,20A5FB34,extended,3F800000
+
+[Max Swing Speed Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Swing Speed Level
+// Max Swing Speed Level
+patch=1,EE,20A5FDBC,extended,41000000
+
+[Web Zip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Web Zip
+// Web Zip
+patch=1,EE,20A5FE24,extended,3F800000
+
+[Wallspring Duration Upgrade 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wallspring Duration Upgrade 1
+// Wallspring Duration Upgrade 1
+patch=1,EE,20A5FE60,extended,3F800000
+
+[Employee Of The Month]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Employee Of The Month
+// Employee Of The Month
+patch=1,EE,20A60090,extended,3F800000
+
+[Shutterbug]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shutterbug
+// Shutterbug
+patch=1,EE,20A60094,extended,3F800000
+
+[Knowledge Seeker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knowledge Seeker
+// Knowledge Seeker
+patch=1,EE,20A60098,extended,3F800000
+
+[Silver Medalist]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver Medalist
+// Silver Medalist
+patch=1,EE,20A6009C,extended,3F800000
+
+[Gold Medalist]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Medalist
+// Gold Medalist
+patch=1,EE,20A600A0,extended,3F800000
+
+[Drenched Explorer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Drenched Explorer
+// Drenched Explorer
+patch=1,EE,20A600A4,extended,3F800000
+
+[Watchful Explorer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Watchful Explorer
+// Watchful Explorer
+patch=1,EE,20A600A8,extended,3F800000
+
+[Towering Explorer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Towering Explorer
+// Towering Explorer
+patch=1,EE,20A600AC,extended,3F800000
+
+[Vigilant Explorer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vigilant Explorer
+// Vigilant Explorer
+patch=1,EE,20A600B0,extended,3F800000
+
+[Master Explorer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Master Explorer
+// Master Explorer
+patch=1,EE,20A600B4,extended,3F800000
+
+[Friend To Childer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Friend To Childer
+// Friend To Childer
+patch=1,EE,20A600B8,extended,3F800000
+
+[Peace Maker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peace Maker
+// Peace Maker
+patch=1,EE,20A600BC,extended,3F800000
+
+[Bane Of Petty Thieves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bane Of Petty Thieves
+// Bane Of Petty Thieves
+patch=1,EE,20A600C0,extended,3F800000
+
+[Thug Mugger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thug Mugger
+// Thug Mugger
+patch=1,EE,20A600C4,extended,3F800000
+
+[Watch Dog]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Watch Dog
+// Watch Dog
+patch=1,EE,20A600C8,extended,3F800000
+
+[Anger Manager]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anger Manager
+// Anger Manager
+patch=1,EE,20A600CC,extended,3F800000
+
+[Stick Up Artist]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stick Up Artist
+// Stick Up Artist
+patch=1,EE,20A600D0,extended,3F800000
+
+[Partycrasher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Partycrasher
+// Partycrasher
+patch=1,EE,20A600D4,extended,3F800000
+
+[Lifter Of Spirits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lifter Of Spirits
+// Lifter Of Spirits
+patch=1,EE,20A600D8,extended,3F800000
+
+[Sucker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sucker
+// Sucker
+patch=1,EE,20A600DC,extended,3F800000
+
+[Automobile Avenger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Automobile Avenger
+// Automobile Avenger
+patch=1,EE,20A600E0,extended,3F800000
+
+[Life Preserver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Life Preserver
+// Life Preserver
+patch=1,EE,20A600E4,extended,3F800000
+
+[Human Ambulance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Human Ambulance
+// Human Ambulance
+patch=1,EE,20A600E8,extended,3F800000
+
+[Honoparty Deputy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Honoparty Deputy
+// Honoparty Deputy
+patch=1,EE,20A600EC,extended,3F800000
+
+[Crime Stopper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crime Stopper
+// Crime Stopper
+patch=1,EE,20A600F0,extended,3F800000
+
+[Good Samaritan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Good Samaritan
+// Good Samaritan
+patch=1,EE,20A600F4,extended,3F800000
+
+[Champ]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Champ
+// Champ
+patch=1,EE,20A600F8,extended,3F800000
+
+[Mega Champ]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mega Champ
+// Mega Champ
+patch=1,EE,20A600FC,extended,3F800000
+
+[Big Game Hunter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Game Hunter
+// Big Game Hunter
+patch=1,EE,20A60100,extended,3F800000
+
+[Alien Buster]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Alien Buster
+// Alien Buster
+patch=1,EE,20A60104,extended,3F800000
+
+[Shock Absorber]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shock Absorber
+// Shock Absorber
+patch=1,EE,20A60108,extended,3F800000
+
+[Tentacle Wrangler]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tentacle Wrangler
+// Tentacle Wrangler
+patch=1,EE,20A6010C,extended,3F800000
+
+[Speed Freak]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speed Freak
+// Speed Freak
+patch=1,EE,20A60110,extended,3F800000
+
+[Hardcore Gamer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hardcore Gamer
+// Hardcore Gamer
+patch=1,EE,20A60114,extended,3F800000
+
+[Lover Not A Fighter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lover Not A Fighter
+// Lover Not A Fighter
+patch=1,EE,20A60118,extended,3F800000
+
+[Hero In Training]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hero In Training
+// Hero In Training
+patch=1,EE,20A6011C,extended,3F800000
+
+[Hero]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hero
+// Hero
+patch=1,EE,20A60120,extended,3F800000
+
+[Super Hero]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Hero
+// Super Hero
+patch=1,EE,20A60124,extended,3F800000
+
+[Mega Hero]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mega Hero
+// Mega Hero
+patch=1,EE,20A60128,extended,3F800000
+
+[Game Master]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Game Master
+// Game Master
+patch=1,EE,20A6012C,extended,3F800000
+
+[All Awards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Awards
+// All Awards
+patch=1,EE,40A60090,extended,00280001
+
+[All Awards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Awards
+// All Awards
+patch=1,EE,3F800000,extended,00000000
+
+[Max Hint Markers Found]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Hint Markers Found
+// Max Hint Markers Found
+patch=1,EE,20A5FAAC,extended,43550000
+
+[Find 1 Hit Marker For Quantity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Find 1 Hit Marker For Quantity
+// Find 1 Hit Marker For Quantity
+patch=1,EE,D0A5FAAE,extended,00204354
+
+[Find 1 Hit Marker For Quantity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Find 1 Hit Marker For Quantity
+// Find 1 Hit Marker For Quantity
+patch=1,EE,20A5FAAC,extended,43540000
+
+[Max Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Challenges Completed
+// Max Challenges Completed
+patch=1,EE,20A5FAA4,extended,43160000
+
+[Complete 1 Challenge For Max Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Complete 1 Challenge For Max Completed
+// Complete 1 Challenge For Max Completed
+patch=1,EE,D0A5FAA6,extended,00204315
+
+[Complete 1 Challenge For Max Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Complete 1 Challenge For Max Completed
+// Complete 1 Challenge For Max Completed
+patch=1,EE,20A5FAA4,extended,43150000
+
+[Max Secret Tokens Found]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Secret Tokens Found
+// Max Secret Tokens Found
+patch=1,EE,20A5E50C,extended,42960000
+
+[Find 1 Secret Token For Max Quantity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Find 1 Secret Token For Max Quantity
+// Find 1 Secret Token For Max Quantity
+patch=1,EE,D0A5E50E,extended,00204294
+
+[Find 1 Secret Token For Max Quantity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Find 1 Secret Token For Max Quantity
+// Find 1 Secret Token For Max Quantity
+patch=1,EE,20A5E50C,extended,42940000
+
+[Max Skyscraper Tokens Found]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skyscraper Tokens Found
+// Max Skyscraper Tokens Found
+patch=1,EE,20A5E510,extended,43160000
+
+[Find 1 Skycraper Token For Max Quantity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Find 1 Skycraper Token For Max Quantity
+// Find 1 Skycraper Token For Max Quantity
+patch=1,EE,D0A5E512,extended,00204315
+
+[Find 1 Skycraper Token For Max Quantity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Find 1 Skycraper Token For Max Quantity
+// Find 1 Skycraper Token For Max Quantity
+patch=1,EE,20A5E510,extended,43150000
+
+[Max Hideout Tokens Found]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Hideout Tokens Found
+// Max Hideout Tokens Found
+patch=1,EE,20A5E514,extended,42140000
+
+[Find 1 Hideout Token For Max Quantity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Find 1 Hideout Token For Max Quantity
+// Find 1 Hideout Token For Max Quantity
+patch=1,EE,D0A5E516,extended,00204210
+
+[Find 1 Hideout Token For Max Quantity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Find 1 Hideout Token For Max Quantity
+// Find 1 Hideout Token For Max Quantity
+patch=1,EE,20A5E514,extended,42100000
+
+[Max Buoy Tokens Found]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Buoy Tokens Found
+// Max Buoy Tokens Found
+patch=1,EE,20A5E518,extended,43020000
+
+[Find 1 Buoy Token For Max Quantity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Find 1 Buoy Token For Max Quantity
+// Find 1 Buoy Token For Max Quantity
+patch=1,EE,D0A5E51A,extended,00204301
+
+[Find 1 Buoy Token For Max Quantity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Find 1 Buoy Token For Max Quantity
+// Find 1 Buoy Token For Max Quantity
+patch=1,EE,20A5E518,extended,43010000
+
+[Max Mega Challenges Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mega Challenges Completed
+// Max Mega Challenges Completed
+patch=1,EE,20A5EDB0,extended,43160000
+
+[Complete 1 Mega Challenge For Max Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Complete 1 Mega Challenge For Max Completed
+// Complete 1 Mega Challenge For Max Completed
+patch=1,EE,D0A5EDB2,extended,00204315
+
+[Complete 1 Mega Challenge For Max Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Complete 1 Mega Challenge For Max Completed
+// Complete 1 Mega Challenge For Max Completed
+patch=1,EE,20A5EDB0,extended,43150000
+
+[Max Citizens In Distress Helped]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Citizens In Distress Helped
+// Max Citizens In Distress Helped
+patch=1,EE,20A5FAB8,extended,4CBEBC20
+
+[Max Petty Crimes Stopped]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Petty Crimes Stopped
+// Max Petty Crimes Stopped
+patch=1,EE,20A5FAC0,extended,4CBEBC20
+
+[Max Total Hero Points Gained]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Hero Points Gained
+// Max Total Hero Points Gained
+patch=1,EE,20A5FACC,extended,4CBEBC20
+
+[Max Enemies Defeated]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Enemies Defeated
+// Max Enemies Defeated
+patch=1,EE,20A5FFE0,extended,4CBEBC20
+
+[Max Number Of Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Number Of Jumps
+// Max Number Of Jumps
+patch=1,EE,20A5FFE4,extended,4CBEBC20
+
+[Max Weapons Yanked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Weapons Yanked
+// Max Weapons Yanked
+patch=1,EE,20A5FFEC,extended,4CBEBC20
+
+[No Times Hit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Times Hit
+// No Times Hit
+patch=1,EE,20A5FFF0,extended,00000000
+
+[No Times Fallen Hard On Ground]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Times Fallen Hard On Ground
+// No Times Fallen Hard On Ground
+patch=1,EE,20A60000,extended,00000000
+
+[Max Number Of Steps Taken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Number Of Steps Taken
+// Max Number Of Steps Taken
+patch=1,EE,20A60010,extended,4CBEBC20
+
+[No Number Of Pedestrians Jostled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Number Of Pedestrians Jostled
+// No Number Of Pedestrians Jostled
+patch=1,EE,20A60014,extended,00000000
+
+[Max Number Of Swings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Number Of Swings
+// Max Number Of Swings
+patch=1,EE,20A60018,extended,4CBEBC20
+
+[Max Unconscious Enemies Hung From Lightpoles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Unconscious Enemies Hung From Lightpoles
+// Max Unconscious Enemies Hung From Lightpoles
+patch=1,EE,20A60028,extended,4CBEBC20
+
+[Max Most Enemies Defeated Without Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Most Enemies Defeated Without Damage
+// Max Most Enemies Defeated Without Damage
+patch=1,EE,20A6002C,extended,4CBEBC20
+
+[Max Helicopters Swung From]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Helicopters Swung From
+// Max Helicopters Swung From
+patch=1,EE,20A60030,extended,4CBEBC20
+
+[Max Total Attacks Dodged]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Attacks Dodged
+// Max Total Attacks Dodged
+patch=1,EE,20A60034,extended,4CBEBC20
+
+[Max Total Bullets Dodged]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Bullets Dodged
+// Max Total Bullets Dodged
+patch=1,EE,20A60038,extended,4CBEBC20
+
+[Max Spinning Pile Driver Revolutions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Spinning Pile Driver Revolutions
+// Max Spinning Pile Driver Revolutions
+patch=1,EE,20A6003C,extended,4CBEBC20
+
+[Max Pizzas Delivered]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pizzas Delivered
+// Max Pizzas Delivered
+patch=1,EE,20A60044,extended,4CBEBC20
+
+[No Times Fallen In Water]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Times Fallen In Water
+// No Times Fallen In Water
+patch=1,EE,20A60054,extended,00000000
+
+[Max Ballons Returned]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ballons Returned
+// Max Ballons Returned
+patch=1,EE,20A60058,extended,4CBEBC20
+
+[Max Gang Wars Stopped]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Gang Wars Stopped
+// Max Gang Wars Stopped
+patch=1,EE,20A6005C,extended,4CBEBC20
+
+[Max Purse Snatches Foiled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Purse Snatches Foiled
+// Max Purse Snatches Foiled
+patch=1,EE,20A60060,extended,4CBEBC20
+
+[Max Muggings Averted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Muggings Averted
+// Max Muggings Averted
+patch=1,EE,20A60064,extended,4CBEBC20
+
+[Max Break-Ins Foiled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Break-Ins Foiled
+// Max Break-Ins Foiled
+patch=1,EE,20A60068,extended,4CBEBC20
+
+[Max Road Rages Ended]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Road Rages Ended
+// Max Road Rages Ended
+patch=1,EE,20A6006C,extended,4CBEBC20
+
+[Max Robberies Put Down]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Robberies Put Down
+// Max Robberies Put Down
+patch=1,EE,20A60070,extended,4CBEBC20
+
+[Max Battles Royal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Battles Royal
+// Max Battles Royal
+patch=1,EE,20A60074,extended,4CBEBC20
+
+[Max Hangers Rescued]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Hangers Rescued
+// Max Hangers Rescued
+patch=1,EE,20A60078,extended,4CBEBC20
+
+[Max Ambushes Avenged]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ambushes Avenged
+// Max Ambushes Avenged
+patch=1,EE,20A6007C,extended,4CBEBC20
+
+[Max Car Jackings Foiled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Car Jackings Foiled
+// Max Car Jackings Foiled
+patch=1,EE,20A60080,extended,4CBEBC20
+
+[Max Sinking Boat Rescues]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Sinking Boat Rescues
+// Max Sinking Boat Rescues
+patch=1,EE,20A60084,extended,4CBEBC20
+
+[Max Medical Emergencies Resolved]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Medical Emergencies Resolved
+// Max Medical Emergencies Resolved
+patch=1,EE,20A60088,extended,4CBEBC20
+
+[Max Officer Assists]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Officer Assists
+// Max Officer Assists
+patch=1,EE,20A6008C,extended,4CBEBC20

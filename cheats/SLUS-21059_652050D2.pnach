@@ -1,0 +1,1705 @@
+gametitle=Tekken 5 [SLUS-21059] [652050D2]
+
+[Enable All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enable All Characters
+// Enable All Characters
+patch=1,EE,9010C1D0,extended,00832021
+
+[Infinite Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1
+// Infinite Health P1
+patch=1,EE,203A916C,extended,00910000
+
+[75% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P1
+// 75% Health P1
+patch=1,EE,D03A916E,extended,00000091
+
+[75% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P1
+// 75% Health P1
+patch=1,EE,103A916E,extended,0000006C
+
+[50% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P1
+// 50% Health P1
+patch=1,EE,D03A916E,extended,00000091
+
+[50% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P1
+// 50% Health P1
+patch=1,EE,103A916E,extended,00000048
+
+[25% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P1
+// 25% Health P1
+patch=1,EE,D03A916E,extended,00000091
+
+[25% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P1
+// 25% Health P1
+patch=1,EE,103A916E,extended,00000024
+
+[1-Hit Death P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P1
+// 1-Hit Death P1
+patch=1,EE,D03A916E,extended,00000091
+
+[1-Hit Death P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P1
+// 1-Hit Death P1
+patch=1,EE,203A916C,extended,00000001
+
+[No Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P1
+// No Health P1
+patch=1,EE,203A916C,extended,00000000
+
+[P1 Needs 1 Win To Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Needs 1 Win To Win
+// P1 Needs 1 Win To Win
+patch=1,EE,D03A8B60,extended,00000000
+
+[P1 Needs 1 Win To Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Needs 1 Win To Win
+// P1 Needs 1 Win To Win
+patch=1,EE,103A8B60,extended,00000001
+
+[P1 Never Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Never Wins
+// P1 Never Wins
+patch=1,EE,103A8B60,extended,00000000
+
+[Infinite Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2
+// Infinite Health P2
+patch=1,EE,203A9A3C,extended,00910000
+
+[75% Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P2
+// 75% Health P2
+patch=1,EE,D03A9A3E,extended,00000091
+
+[75% Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P2
+// 75% Health P2
+patch=1,EE,103A9A3E,extended,0000006C
+
+[50% Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P2
+// 50% Health P2
+patch=1,EE,D03A9A3E,extended,00000091
+
+[50% Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P2
+// 50% Health P2
+patch=1,EE,103A9A3E,extended,00000048
+
+[25% Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P2
+// 25% Health P2
+patch=1,EE,D03A9A3E,extended,00000091
+
+[25% Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P2
+// 25% Health P2
+patch=1,EE,103A9A3E,extended,00000024
+
+[1-Hit Death P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P2
+// 1-Hit Death P2
+patch=1,EE,D03A9A3E,extended,00000091
+
+[1-Hit Death P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P2
+// 1-Hit Death P2
+patch=1,EE,203A9A3C,extended,00000001
+
+[No Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P2
+// No Health P2
+patch=1,EE,203A9A3C,extended,00000000
+
+[P2 Needs 1 Win To Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Needs 1 Win To Win
+// P2 Needs 1 Win To Win
+patch=1,EE,D02A9430,extended,00000000
+
+[P2 Needs 1 Win To Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Needs 1 Win To Win
+// P2 Needs 1 Win To Win
+patch=1,EE,102A9430,extended,00000001
+
+[P2 Never Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Never Wins
+// P2 Never Wins
+patch=1,EE,102A9430,extended,00000000
+
+[P1 Press {L1}+{L2} For Death Blow On P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L2} For Death Blow On P2
+// P1 Press {L1}+{L2} For Death Blow On P2
+patch=1,EE,D015D402,extended,0000FAFF
+
+[P1 Press {L1}+{L2} For Death Blow On P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L2} For Death Blow On P2
+// P1 Press {L1}+{L2} For Death Blow On P2
+patch=1,EE,203A9A3C,extended,00000000
+
+[P2 Press {L1}+{L2} For Death Blow On P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{L2} For Death Blow On P1
+// P2 Press {L1}+{L2} For Death Blow On P1
+patch=1,EE,D015D502,extended,0000FAFF
+
+[P2 Press {L1}+{L2} For Death Blow On P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{L2} For Death Blow On P1
+// P2 Press {L1}+{L2} For Death Blow On P1
+patch=1,EE,203A916C,extended,00000000
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,10151F98,extended,00001788
+
+[Always Low Total Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Time
+// Always Low Total Time
+patch=1,EE,203A8400,extended,00000000
+
+[Hit Anywhere P1 & P2 Cant Hit P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Anywhere P1 & P2 Cant Hit P1
+// Hit Anywhere P1 & P2 Cant Hit P1
+patch=1,EE,D01F55CC,extended,0000282D
+
+[Hit Anywhere P1 & P2 Cant Hit P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Anywhere P1 & P2 Cant Hit P1
+// Hit Anywhere P1 & P2 Cant Hit P1
+patch=1,EE,201F55D8,extended,12140017
+
+[Hit Anywhere P2 & P1 Cant Hit P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Anywhere P2 & P1 Cant Hit P2
+// Hit Anywhere P2 & P1 Cant Hit P2
+patch=1,EE,D01F55CC,extended,0000282D
+
+[Hit Anywhere P2 & P1 Cant Hit P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Anywhere P2 & P1 Cant Hit P2
+// Hit Anywhere P2 & P1 Cant Hit P2
+patch=1,EE,201F55D8,extended,16140017
+
+[Hit Anywhere (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Anywhere (Both Players)
+// Hit Anywhere (Both Players)
+patch=1,EE,D01F55CC,extended,0000282D
+
+[Hit Anywhere (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Anywhere (Both Players)
+// Hit Anywhere (Both Players)
+patch=1,EE,201F55D8,extended,00000000
+
+[Disable All Blocking (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable All Blocking (Both Players)
+// Disable All Blocking (Both Players)
+patch=1,EE,D01F42B8,extended,00001012
+
+[Disable All Blocking (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable All Blocking (Both Players)
+// Disable All Blocking (Both Players)
+patch=1,EE,201F42C4,extended,1000000C
+
+[Max Wins (Survival Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wins (Survival Mode)
+// Max Wins (Survival Mode)
+patch=1,EE,2015515C,extended,000003E7
+
+[Unlock Devil Jin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Devil Jin
+// Unlock Devil Jin
+patch=1,EE,201553C0,extended,00000001
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,203E4568,extended,FFFFFFFF
+
+[Unlock All Theater]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Theater
+// Unlock All Theater
+patch=1,EE,203E4570,extended,FFFFFFFF
+
+[Start On Stage 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Stage 2
+// Start On Stage 2
+patch=1,EE,D03A83F8,extended,00000000
+
+[Start On Stage 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Stage 2
+// Start On Stage 2
+patch=1,EE,103A83F8,extended,00000001
+
+[Start On Stage 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Stage 3
+// Start On Stage 3
+patch=1,EE,D03A83F8,extended,00000000
+
+[Start On Stage 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Stage 3
+// Start On Stage 3
+patch=1,EE,103A83F8,extended,00000002
+
+[Start On Stage 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Stage 4
+// Start On Stage 4
+patch=1,EE,D03A83F8,extended,00000000
+
+[Start On Stage 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Stage 4
+// Start On Stage 4
+patch=1,EE,103A83F8,extended,00000003
+
+[Start On Stage 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Stage 5
+// Start On Stage 5
+patch=1,EE,D03A83F8,extended,00000000
+
+[Start On Stage 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Stage 5
+// Start On Stage 5
+patch=1,EE,103A83F8,extended,00000004
+
+[Start On Stage 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Stage 6
+// Start On Stage 6
+patch=1,EE,D03A83F8,extended,00000000
+
+[Start On Stage 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Stage 6
+// Start On Stage 6
+patch=1,EE,103A83F8,extended,00000005
+
+[Start On Stage 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Stage 7
+// Start On Stage 7
+patch=1,EE,D03A83F8,extended,00000000
+
+[Start On Stage 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Stage 7
+// Start On Stage 7
+patch=1,EE,103A83F8,extended,00000006
+
+[Start On Stage 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Stage 8
+// Start On Stage 8
+patch=1,EE,D03A83F8,extended,00000000
+
+[Start On Stage 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Stage 8
+// Start On Stage 8
+patch=1,EE,103A83F8,extended,00000007
+
+[Start On Stage 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Stage 9
+// Start On Stage 9
+patch=1,EE,D03A83F8,extended,00000000
+
+[Start On Stage 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Stage 9
+// Start On Stage 9
+patch=1,EE,103A83F8,extended,00000008
+
+[Infinite Fight Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Fight Money
+// Infinite Fight Money
+patch=1,EE,103E4638,extended,0000FFFF
+
+[Max Fight Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fight Money
+// Max Fight Money
+patch=1,EE,203E4638,extended,05F5E0FF
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E49E6,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E49E8,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E49EA,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E49EC,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E49F2,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E49F3,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E49F4,extended,000000FF
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4A0E,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4A10,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4A12,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4A14,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4A1A,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4A1B,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4A1C,extended,000000FF
+
+[Have Extra Costume]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Extra Costume
+// Have Extra Costume
+patch=1,EE,203E4A20,extended,00000001
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4A36,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4A38,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4A3A,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4A3C,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4A42,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4A43,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4A44,extended,000000FF
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4A5E,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4A60,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4A62,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4A64,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4A6A,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4A6B,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4A6C,extended,000000FF
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4A86,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4A88,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4A8A,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4A8C,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4A92,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4A93,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4A94,extended,000000FF
+
+[Have Extra Costume]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Extra Costume
+// Have Extra Costume
+patch=1,EE,203E4A98,extended,00000001
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4AAE,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4AB0,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4AB2,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4AB4,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4ABA,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4ABB,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4ABC,extended,000000FF
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4AD6,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4AD8,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4ADA,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4ADC,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4AE2,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4AE3,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4AE4,extended,000000FF
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4AFE,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4B00,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4B02,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4B04,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4B0A,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4B0B,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4B0C,extended,000000FF
+
+[Have Extra Costume]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Extra Costume
+// Have Extra Costume
+patch=1,EE,203E4B10,extended,00000001
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4B26,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4B28,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4B2A,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4B2C,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4B32,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4B33,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4B34,extended,000000FF
+
+[Have Extra Costume]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Extra Costume
+// Have Extra Costume
+patch=1,EE,203E4B38,extended,00000001
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4B4E,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4B50,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4B52,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4B54,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4B5A,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4B5B,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4B5C,extended,000000FF
+
+[Have Extra Costume]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Extra Costume
+// Have Extra Costume
+patch=1,EE,203E4B60,extended,00000001
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4B76,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4B78,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4B7A,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4B7C,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4B82,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4B83,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4B84,extended,000000FF
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4B9E,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4BA0,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4BA2,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4BA4,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4BAA,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4BAB,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4BAC,extended,000000FF
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4BC6,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4BC8,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4BCA,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4BCC,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4BD2,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4BD3,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4BD4,extended,000000FF
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4BEE,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4BF0,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4BF2,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4BF4,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4BFA,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4BFB,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4BFC,extended,000000FF
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4C16,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4C18,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4C1A,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4C1C,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4C22,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4C23,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4C24,extended,000000FF
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4C3E,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4C40,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4C42,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4C44,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4C4A,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4C4B,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4C4C,extended,000000FF
+
+[Have Extra Costume]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Extra Costume
+// Have Extra Costume
+patch=1,EE,203E4C50,extended,00000001
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4C66,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4C68,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4C6A,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4C6C,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4C72,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4C73,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4C74,extended,000000FF
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4C8E,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4C90,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4C92,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4C94,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4C9A,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4C9B,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4C9C,extended,000000FF
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4CB6,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4CB8,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4CBA,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4CBC,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4CC2,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4CC3,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4CC4,extended,000000FF
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4CDE,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4CE0,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4CE2,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4CE4,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4CEA,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4CEB,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4CEC,extended,000000FF
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4D06,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4D08,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4D0A,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4D0C,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4D12,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4D13,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4D14,extended,000000FF
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4D2E,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4D30,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4D32,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4D34,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4D3A,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4D3B,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4D3C,extended,000000FF
+
+[Have Extra Costume]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Extra Costume
+// Have Extra Costume
+patch=1,EE,203E4D40,extended,00000001
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4D56,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4D58,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4D5A,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4D5C,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4D62,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4D63,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4D64,extended,000000FF
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4D7E,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4D80,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4D82,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4D84,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4D8A,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4D8B,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4D8C,extended,000000FF
+
+[Have Extra Costume]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Extra Costume
+// Have Extra Costume
+patch=1,EE,203E4D90,extended,00000001
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4DA6,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4DA8,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4DAA,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4DAC,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4DB2,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4DB3,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4DB4,extended,000000FF
+
+[Have Extra Costume]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Extra Costume
+// Have Extra Costume
+patch=1,EE,203E4DB8,extended,00000001
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4DCE,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4DD0,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4DD2,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4DD4,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4DDA,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4DDB,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4DDC,extended,000000FF
+
+[Have Extra Costume]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Extra Costume
+// Have Extra Costume
+patch=1,EE,203E4DE0,extended,00000001
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4DF6,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4DF8,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4DFA,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4DFC,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4E02,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4E03,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4E04,extended,000000FF
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4E1E,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4E20,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4E22,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4E24,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4E2A,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4E2B,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4E2C,extended,000000FF
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4E46,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4E48,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4E4A,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4E4C,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4E52,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4E53,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4E54,extended,000000FF
+
+[Have Extra Costume]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Extra Costume
+// Have Extra Costume
+patch=1,EE,203E4E58,extended,00000001
+
+[Have All Head Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Head Items
+// Have All Head Items
+patch=1,EE,103E4E6E,extended,0000FFFF
+
+[Have All Face Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Items
+// Have All Face Items
+patch=1,EE,103E4E70,extended,0000FFFF
+
+[Have All Upper Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Upper Body Items
+// Have All Upper Body Items
+patch=1,EE,103E4E72,extended,0000FFFF
+
+[Have All Lower Body Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Lower Body Items
+// Have All Lower Body Items
+patch=1,EE,103E4E74,extended,0000FFFF
+
+[Have All Color 1 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 1 Items
+// Have All Color 1 Items
+patch=1,EE,003E4E7A,extended,000000FF
+
+[Have All Color 2 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 2 Items
+// Have All Color 2 Items
+patch=1,EE,003E4E7B,extended,000000FF
+
+[Have All Color 3 Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Color 3 Items
+// Have All Color 3 Items
+patch=1,EE,003E4E7C,extended,000000FF

@@ -1,0 +1,79 @@
+gametitle=Ico [SCES-50760] [5C991F4E]
+
+[All Bonus Features]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Bonus Features
+// All Bonus Features
+patch=1,EE,9024E5D4,extended,0C09904A
+
+[Press {L1}+{SELECT} To Save Game]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} To Save Game
+// Press {L1}+{SELECT} To Save Game
+patch=1,EE,D02811D2,extended,0000FBFE
+
+[Press {L1}+{SELECT} To Save Game]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} To Save Game
+// Press {L1}+{SELECT} To Save Game
+patch=1,EE,1063314C,extended,0000001C
+
+[Press {R1}+{SELECT} To Walk On Air]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R1}+{SELECT} To Walk On Air
+// Press {R1}+{SELECT} To Walk On Air
+patch=1,EE,E002F7FE,extended,002811D2
+
+[Press {R1}+{SELECT} To Walk On Air]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R1}+{SELECT} To Walk On Air
+// Press {R1}+{SELECT} To Walk On Air
+patch=1,EE,201E1728,extended,03E00008
+
+[Press {R1}+{SELECT} To Walk On Air]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R1}+{SELECT} To Walk On Air
+// Press {R1}+{SELECT} To Walk On Air
+patch=1,EE,201E172C,extended,00000000
+
+[Press {R2}+{SELECT} To Walk Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R2}+{SELECT} To Walk Normal
+// Press {R2}+{SELECT} To Walk Normal
+patch=1,EE,E002FDFE,extended,002811D2
+
+[Press {R2}+{SELECT} To Walk Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R2}+{SELECT} To Walk Normal
+// Press {R2}+{SELECT} To Walk Normal
+patch=1,EE,201E1728,extended,27BDFF70
+
+[Press {R2}+{SELECT} To Walk Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R2}+{SELECT} To Walk Normal
+// Press {R2}+{SELECT} To Walk Normal
+patch=1,EE,201E172C,extended,8F83A418
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,20160720,extended,03E00008
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,20160724,extended,00000000
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,201FBB48,extended,03E00008
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,201FBB4C,extended,00000000

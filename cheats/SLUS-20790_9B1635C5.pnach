@@ -1,0 +1,847 @@
+gametitle=Wheel Of Fortune [SLUS-20790] [9B1635C5]
+
+[Have All Objects Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objects Collected
+// Have All Objects Collected
+patch=1,EE,F0200008,extended,0022CE8F
+
+[Vowels Are Free P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vowels Are Free P1
+// Vowels Are Free P1
+patch=1,EE,D04C8360,extended,00000000
+
+[Vowels Are Free P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vowels Are Free P1
+// Vowels Are Free P1
+patch=1,EE,2035CD9C,extended,00000000
+
+[Vowels Are Free P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vowels Are Free P2
+// Vowels Are Free P2
+patch=1,EE,D04C8360,extended,00000001
+
+[Vowels Are Free P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vowels Are Free P2
+// Vowels Are Free P2
+patch=1,EE,2035CD9C,extended,00000000
+
+[Vowels Are Free P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vowels Are Free P3
+// Vowels Are Free P3
+patch=1,EE,D04C8360,extended,00000002
+
+[Vowels Are Free P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vowels Are Free P3
+// Vowels Are Free P3
+patch=1,EE,2035CD9C,extended,00000000
+
+[Vowels Are Free (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vowels Are Free (All Players)
+// Vowels Are Free (All Players)
+patch=1,EE,2035CD9C,extended,00000000
+
+[Getting Bankrupt Always Bankrupts P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Getting Bankrupt Always Bankrupts P1
+// Getting Bankrupt Always Bankrupts P1
+patch=1,EE,2035D994,extended,24020000
+
+[Getting Bankrupt Always Bankrupts P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Getting Bankrupt Always Bankrupts P2
+// Getting Bankrupt Always Bankrupts P2
+patch=1,EE,2035D994,extended,24020001
+
+[Getting Bankrupt Always Bankrupts P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Getting Bankrupt Always Bankrupts P3
+// Getting Bankrupt Always Bankrupts P3
+patch=1,EE,2035D994,extended,24020002
+
+[Dont Lost Cash When Getting Bankrupt P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dont Lost Cash When Getting Bankrupt P1
+// Dont Lost Cash When Getting Bankrupt P1
+patch=1,EE,D04C8360,extended,00000000
+
+[Dont Lost Cash When Getting Bankrupt P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dont Lost Cash When Getting Bankrupt P1
+// Dont Lost Cash When Getting Bankrupt P1
+patch=1,EE,2035D9A8,extended,00000000
+
+[Dont Lost Cash When Getting Bankrupt P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dont Lost Cash When Getting Bankrupt P2
+// Dont Lost Cash When Getting Bankrupt P2
+patch=1,EE,D04C8360,extended,00000001
+
+[Dont Lost Cash When Getting Bankrupt P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dont Lost Cash When Getting Bankrupt P2
+// Dont Lost Cash When Getting Bankrupt P2
+patch=1,EE,2035D9A8,extended,00000000
+
+[Dont Lost Cash When Getting Bankrupt P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dont Lost Cash When Getting Bankrupt P3
+// Dont Lost Cash When Getting Bankrupt P3
+patch=1,EE,D04C8360,extended,00000002
+
+[Dont Lost Cash When Getting Bankrupt P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dont Lost Cash When Getting Bankrupt P3
+// Dont Lost Cash When Getting Bankrupt P3
+patch=1,EE,2035D9A8,extended,00000000
+
+[Dont Lost Cash When Getting Bankrupt (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dont Lost Cash When Getting Bankrupt (All Players)
+// Dont Lost Cash When Getting Bankrupt (All Players)
+patch=1,EE,2035D9A8,extended,00000000
+
+[Always Stop Play Select Timer P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Stop Play Select Timer P1
+// Always Stop Play Select Timer P1
+patch=1,EE,E0020000,extended,004C8360
+
+[Always Stop Play Select Timer P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Stop Play Select Timer P1
+// Always Stop Play Select Timer P1
+patch=1,EE,2036973C,extended,00000000
+
+[Always Stop Play Select Timer P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Stop Play Select Timer P1
+// Always Stop Play Select Timer P1
+patch=1,EE,20369A24,extended,00000000
+
+[Always Stop Play Select Timer P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Stop Play Select Timer P2
+// Always Stop Play Select Timer P2
+patch=1,EE,E0020001,extended,004C8360
+
+[Always Stop Play Select Timer P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Stop Play Select Timer P2
+// Always Stop Play Select Timer P2
+patch=1,EE,2036973C,extended,00000000
+
+[Always Stop Play Select Timer P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Stop Play Select Timer P2
+// Always Stop Play Select Timer P2
+patch=1,EE,20369A24,extended,00000000
+
+[Always Stop Play Select Timer P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Stop Play Select Timer P3
+// Always Stop Play Select Timer P3
+patch=1,EE,E0020002,extended,004C8360
+
+[Always Stop Play Select Timer P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Stop Play Select Timer P3
+// Always Stop Play Select Timer P3
+patch=1,EE,2036973C,extended,00000000
+
+[Always Stop Play Select Timer P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Stop Play Select Timer P3
+// Always Stop Play Select Timer P3
+patch=1,EE,20369A24,extended,00000000
+
+[Always Stop Play Select Timer (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Stop Play Select Timer (All Players)
+// Always Stop Play Select Timer (All Players)
+patch=1,EE,2036973C,extended,00000000
+
+[Always Stop Play Select Timer (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Stop Play Select Timer (All Players)
+// Always Stop Play Select Timer (All Players)
+patch=1,EE,20369A24,extended,00000000
+
+[Max Jackpot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jackpot
+// Max Jackpot
+patch=1,EE,204C83E0,extended,0001869F
+
+[No Jackpot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Jackpot
+// No Jackpot
+patch=1,EE,204C83E0,extended,00000000
+
+[Always Have Free Spin P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Have Free Spin P1
+// Always Have Free Spin P1
+patch=1,EE,204C8388,extended,00000001
+
+[Never Have Free Spin P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Have Free Spin P1
+// Never Have Free Spin P1
+patch=1,EE,204C8388,extended,00000000
+
+[Always Have Free Spin P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Have Free Spin P2
+// Always Have Free Spin P2
+patch=1,EE,204C83A8,extended,00000001
+
+[Never Have Free Spin P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Have Free Spin P2
+// Never Have Free Spin P2
+patch=1,EE,204C83A8,extended,00000000
+
+[Always Have Free Spin P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Have Free Spin P3
+// Always Have Free Spin P3
+patch=1,EE,204C83C8,extended,00000001
+
+[Never Have Free Spin P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Have Free Spin P3
+// Never Have Free Spin P3
+patch=1,EE,204C83C8,extended,00000000
+
+[Max Cash P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cash P1
+// Max Cash P1
+patch=1,EE,204C8378,extended,0001869F
+
+[No Cash P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Cash P1
+// No Cash P1
+patch=1,EE,204C8378,extended,00000000
+
+[Max Cash P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cash P2
+// Max Cash P2
+patch=1,EE,204C8398,extended,0001869F
+
+[No Cash P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Cash P2
+// No Cash P2
+patch=1,EE,204C8398,extended,00000000
+
+[Max Cash P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cash P3
+// Max Cash P3
+patch=1,EE,204C83B8,extended,0001869F
+
+[No Cash P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Cash P3
+// No Cash P3
+patch=1,EE,204C83B8,extended,00000000
+
+[All Letters Score For P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Letters Score For P1
+// All Letters Score For P1
+patch=1,EE,2035CE70,extended,24020000
+
+[All Letters Score For P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Letters Score For P2
+// All Letters Score For P2
+patch=1,EE,2035CE70,extended,24020001
+
+[All Letters Score For P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Letters Score For P3
+// All Letters Score For P3
+patch=1,EE,2035CE70,extended,24020002
+
+[All Letters Worth 5000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Letters Worth 5000
+// All Letters Worth 5000
+patch=1,EE,2035CE88,extended,24421388
+
+[All Letters Worth 2000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Letters Worth 2000
+// All Letters Worth 2000
+patch=1,EE,2035CE88,extended,244207D0
+
+[All Letters Worth 1000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Letters Worth 1000
+// All Letters Worth 1000
+patch=1,EE,2035CE88,extended,244203E8
+
+[Max Cash P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cash P1
+// Max Cash P1
+patch=1,EE,204C8384,extended,0001869F
+
+[No Cash P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Cash P1
+// No Cash P1
+patch=1,EE,204C8384,extended,00000000
+
+[Max Cash P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cash P2
+// Max Cash P2
+patch=1,EE,204C83A4,extended,0001869F
+
+[No Cash P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Cash P2
+// No Cash P2
+patch=1,EE,204C83A4,extended,00000000
+
+[Max Cash P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cash P3
+// Max Cash P3
+patch=1,EE,204C83C4,extended,0001869F
+
+[No Cash P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Cash P3
+// No Cash P3
+patch=1,EE,204C83C4,extended,00000000
+
+[All Games Score For P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Games Score For P1
+// All Games Score For P1
+patch=1,EE,2035E390,extended,24020000
+
+[All Games Score For P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Games Score For P2
+// All Games Score For P2
+patch=1,EE,2035E390,extended,24020001
+
+[All Games Score For P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Games Score For P3
+// All Games Score For P3
+patch=1,EE,2035E390,extended,24020002
+
+[All Games Worth 9999]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Games Worth 9999
+// All Games Worth 9999
+patch=1,EE,2035E3AC,extended,2442270F
+
+[All Games Worth 5000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Games Worth 5000
+// All Games Worth 5000
+patch=1,EE,2035E3AC,extended,24421388
+
+[All Games Worth 2000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Games Worth 2000
+// All Games Worth 2000
+patch=1,EE,2035E3AC,extended,244207D0
+
+[P1 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Play Select Timer
+// P1 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,E002FBFE,extended,004CC1C2
+
+[P1 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Play Select Timer
+// P1 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,2036973C,extended,00000000
+
+[P1 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Play Select Timer
+// P1 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,20369A24,extended,00000000
+
+[P1 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Start Play Select Timer
+// P1 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,E002FEFE,extended,004CC1C2
+
+[P1 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Start Play Select Timer
+// P1 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,2036973C,extended,E42083D4
+
+[P1 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Start Play Select Timer
+// P1 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,20369A24,extended,E42083DC
+
+[P2 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} To Stop Play Select Timer
+// P2 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,E002FBFE,extended,004CBFC2
+
+[P2 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} To Stop Play Select Timer
+// P2 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,2036973C,extended,00000000
+
+[P2 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} To Stop Play Select Timer
+// P2 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,20369A24,extended,00000000
+
+[P2 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} To Start Play Select Timer
+// P2 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,E002FEFE,extended,004CBFC2
+
+[P2 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} To Start Play Select Timer
+// P2 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,2036973C,extended,E42083D4
+
+[P2 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} To Start Play Select Timer
+// P2 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,20369A24,extended,E42083DC
+
+[P3 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L1}+{SELECT} To Stop Play Select Timer
+// P3 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,E002FBFE,extended,004CBDC2
+
+[P3 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L1}+{SELECT} To Stop Play Select Timer
+// P3 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,2036973C,extended,00000000
+
+[P3 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L1}+{SELECT} To Stop Play Select Timer
+// P3 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,20369A24,extended,00000000
+
+[P3 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L1}+{SELECT} To Start Play Select Timer
+// P3 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,E002FEFE,extended,004CBDC2
+
+[P3 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L1}+{SELECT} To Start Play Select Timer
+// P3 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,2036973C,extended,E42083D4
+
+[P3 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L1}+{SELECT} To Start Play Select Timer
+// P3 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,20369A24,extended,E42083DC
+
+[P4 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L1}+{SELECT} To Stop Play Select Timer
+// P4 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,E002FBFE,extended,004CBBC2
+
+[P4 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L1}+{SELECT} To Stop Play Select Timer
+// P4 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,2036973C,extended,00000000
+
+[P4 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L1}+{SELECT} To Stop Play Select Timer
+// P4 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,20369A24,extended,00000000
+
+[P4 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L1}+{SELECT} To Start Play Select Timer
+// P4 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,E002FEFE,extended,004CBBC2
+
+[P4 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L1}+{SELECT} To Start Play Select Timer
+// P4 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,2036973C,extended,E42083D4
+
+[P4 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L1}+{SELECT} To Start Play Select Timer
+// P4 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,20369A24,extended,E42083DC
+
+[P5 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L1}+{SELECT} To Stop Play Select Timer
+// P5 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,E002FBFE,extended,004CC0C2
+
+[P5 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L1}+{SELECT} To Stop Play Select Timer
+// P5 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,2036973C,extended,00000000
+
+[P5 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L1}+{SELECT} To Stop Play Select Timer
+// P5 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,20369A24,extended,00000000
+
+[P5 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L1}+{SELECT} To Start Play Select Timer
+// P5 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,E002FEFE,extended,004CC0C2
+
+[P5 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L1}+{SELECT} To Start Play Select Timer
+// P5 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,2036973C,extended,E42083D4
+
+[P5 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L1}+{SELECT} To Start Play Select Timer
+// P5 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,20369A24,extended,E42083DC
+
+[P6 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L1}+{SELECT} To Stop Play Select Timer
+// P6 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,E002FBFE,extended,004CBEC2
+
+[P6 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L1}+{SELECT} To Stop Play Select Timer
+// P6 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,2036973C,extended,00000000
+
+[P6 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L1}+{SELECT} To Stop Play Select Timer
+// P6 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,20369A24,extended,00000000
+
+[P6 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L1}+{SELECT} To Start Play Select Timer
+// P6 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,E002FEFE,extended,004CBEC2
+
+[P6 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L1}+{SELECT} To Start Play Select Timer
+// P6 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,2036973C,extended,E42083D4
+
+[P6 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L1}+{SELECT} To Start Play Select Timer
+// P6 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,20369A24,extended,E42083DC
+
+[P7 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L1}+{SELECT} To Stop Play Select Timer
+// P7 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,E002FBFE,extended,004CBCC2
+
+[P7 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L1}+{SELECT} To Stop Play Select Timer
+// P7 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,2036973C,extended,00000000
+
+[P7 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L1}+{SELECT} To Stop Play Select Timer
+// P7 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,20369A24,extended,00000000
+
+[P7 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L1}+{SELECT} To Start Play Select Timer
+// P7 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,E002FEFE,extended,004CBCC2
+
+[P7 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L1}+{SELECT} To Start Play Select Timer
+// P7 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,2036973C,extended,E42083D4
+
+[P7 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L1}+{SELECT} To Start Play Select Timer
+// P7 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,20369A24,extended,E42083DC
+
+[P8 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L1}+{SELECT} To Stop Play Select Timer
+// P8 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,E002FBFE,extended,004CBAC2
+
+[P8 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L1}+{SELECT} To Stop Play Select Timer
+// P8 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,2036973C,extended,00000000
+
+[P8 Press {L1}+{SELECT} To Stop Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L1}+{SELECT} To Stop Play Select Timer
+// P8 Press {L1}+{SELECT} To Stop Play Select Timer
+patch=1,EE,20369A24,extended,00000000
+
+[P8 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L1}+{SELECT} To Start Play Select Timer
+// P8 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,E002FEFE,extended,004CBAC2
+
+[P8 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L1}+{SELECT} To Start Play Select Timer
+// P8 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,2036973C,extended,E42083D4
+
+[P8 Press {L1}+{SELECT} To Start Play Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L1}+{SELECT} To Start Play Select Timer
+// P8 Press {L1}+{SELECT} To Start Play Select Timer
+patch=1,EE,20369A24,extended,E42083DC
+
+[P1 Press {L1}+{SELECT} To Stop Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Answer Select Timer
+// P1 Press {L1}+{SELECT} To Stop Answer Select Timer
+patch=1,EE,D04CC1C2,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Stop Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Answer Select Timer
+// P1 Press {L1}+{SELECT} To Stop Answer Select Timer
+patch=1,EE,20337344,extended,00000000
+
+[P1 Press {L2}+{SELECT} To Start Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Start Answer Select Timer
+// P1 Press {L2}+{SELECT} To Start Answer Select Timer
+patch=1,EE,D04CC1C2,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Start Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Start Answer Select Timer
+// P1 Press {L2}+{SELECT} To Start Answer Select Timer
+patch=1,EE,20337344,extended,E78089CC
+
+[P2 Press {L1}+{SELECT} To Stop Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} To Stop Answer Select Timer
+// P2 Press {L1}+{SELECT} To Stop Answer Select Timer
+patch=1,EE,D04CBFC2,extended,0000FBFE
+
+[P2 Press {L1}+{SELECT} To Stop Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} To Stop Answer Select Timer
+// P2 Press {L1}+{SELECT} To Stop Answer Select Timer
+patch=1,EE,20337344,extended,00000000
+
+[P2 Press {L2}+{SELECT} To Start Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L2}+{SELECT} To Start Answer Select Timer
+// P2 Press {L2}+{SELECT} To Start Answer Select Timer
+patch=1,EE,D04CBFC2,extended,0000FEFE
+
+[P2 Press {L2}+{SELECT} To Start Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L2}+{SELECT} To Start Answer Select Timer
+// P2 Press {L2}+{SELECT} To Start Answer Select Timer
+patch=1,EE,20337344,extended,E78089CC
+
+[P3 Press {L1}+{SELECT} To Stop Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L1}+{SELECT} To Stop Answer Select Timer
+// P3 Press {L1}+{SELECT} To Stop Answer Select Timer
+patch=1,EE,D04CBDC2,extended,0000FBFE
+
+[P3 Press {L1}+{SELECT} To Stop Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L1}+{SELECT} To Stop Answer Select Timer
+// P3 Press {L1}+{SELECT} To Stop Answer Select Timer
+patch=1,EE,20337344,extended,00000000
+
+[P3 Press {L2}+{SELECT} To Start Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L2}+{SELECT} To Start Answer Select Timer
+// P3 Press {L2}+{SELECT} To Start Answer Select Timer
+patch=1,EE,D04CBDC2,extended,0000FEFE
+
+[P3 Press {L2}+{SELECT} To Start Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L2}+{SELECT} To Start Answer Select Timer
+// P3 Press {L2}+{SELECT} To Start Answer Select Timer
+patch=1,EE,20337344,extended,E78089CC
+
+[P4 Press {L1}+{SELECT} To Stop Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L1}+{SELECT} To Stop Answer Select Timer
+// P4 Press {L1}+{SELECT} To Stop Answer Select Timer
+patch=1,EE,D04CBBC2,extended,0000FBFE
+
+[P4 Press {L1}+{SELECT} To Stop Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L1}+{SELECT} To Stop Answer Select Timer
+// P4 Press {L1}+{SELECT} To Stop Answer Select Timer
+patch=1,EE,20337344,extended,00000000
+
+[P4 Press {L2}+{SELECT} To Start Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L2}+{SELECT} To Start Answer Select Timer
+// P4 Press {L2}+{SELECT} To Start Answer Select Timer
+patch=1,EE,D04CBBC2,extended,0000FEFE
+
+[P4 Press {L2}+{SELECT} To Start Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L2}+{SELECT} To Start Answer Select Timer
+// P4 Press {L2}+{SELECT} To Start Answer Select Timer
+patch=1,EE,20337344,extended,E78089CC
+
+[P5 Press {L1}+{SELECT} To Stop Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L1}+{SELECT} To Stop Answer Select Timer
+// P5 Press {L1}+{SELECT} To Stop Answer Select Timer
+patch=1,EE,D04CC0C2,extended,0000FBFE
+
+[P5 Press {L1}+{SELECT} To Stop Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L1}+{SELECT} To Stop Answer Select Timer
+// P5 Press {L1}+{SELECT} To Stop Answer Select Timer
+patch=1,EE,20337344,extended,00000000
+
+[P5 Press {L2}+{SELECT} To Start Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L2}+{SELECT} To Start Answer Select Timer
+// P5 Press {L2}+{SELECT} To Start Answer Select Timer
+patch=1,EE,D04CC0C2,extended,0000FEFE
+
+[P5 Press {L2}+{SELECT} To Start Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L2}+{SELECT} To Start Answer Select Timer
+// P5 Press {L2}+{SELECT} To Start Answer Select Timer
+patch=1,EE,20337344,extended,E78089CC
+
+[P6 Press {L1}+{SELECT} To Stop Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L1}+{SELECT} To Stop Answer Select Timer
+// P6 Press {L1}+{SELECT} To Stop Answer Select Timer
+patch=1,EE,D04CBEC2,extended,0000FBFE
+
+[P6 Press {L1}+{SELECT} To Stop Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L1}+{SELECT} To Stop Answer Select Timer
+// P6 Press {L1}+{SELECT} To Stop Answer Select Timer
+patch=1,EE,20337344,extended,00000000
+
+[P6 Press {L2}+{SELECT} To Start Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L2}+{SELECT} To Start Answer Select Timer
+// P6 Press {L2}+{SELECT} To Start Answer Select Timer
+patch=1,EE,D04CBEC2,extended,0000FEFE
+
+[P6 Press {L2}+{SELECT} To Start Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L2}+{SELECT} To Start Answer Select Timer
+// P6 Press {L2}+{SELECT} To Start Answer Select Timer
+patch=1,EE,20337344,extended,E78089CC
+
+[P7 Press {L1}+{SELECT} To Stop Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L1}+{SELECT} To Stop Answer Select Timer
+// P7 Press {L1}+{SELECT} To Stop Answer Select Timer
+patch=1,EE,D04CBCC2,extended,0000FBFE
+
+[P7 Press {L1}+{SELECT} To Stop Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L1}+{SELECT} To Stop Answer Select Timer
+// P7 Press {L1}+{SELECT} To Stop Answer Select Timer
+patch=1,EE,20337344,extended,00000000
+
+[P7 Press {L2}+{SELECT} To Start Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L2}+{SELECT} To Start Answer Select Timer
+// P7 Press {L2}+{SELECT} To Start Answer Select Timer
+patch=1,EE,D04CBCC2,extended,0000FEFE
+
+[P7 Press {L2}+{SELECT} To Start Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L2}+{SELECT} To Start Answer Select Timer
+// P7 Press {L2}+{SELECT} To Start Answer Select Timer
+patch=1,EE,20337344,extended,E78089CC
+
+[P8 Press {L1}+{SELECT} To Stop Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L1}+{SELECT} To Stop Answer Select Timer
+// P8 Press {L1}+{SELECT} To Stop Answer Select Timer
+patch=1,EE,D04CBAC2,extended,0000FBFE
+
+[P8 Press {L1}+{SELECT} To Stop Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L1}+{SELECT} To Stop Answer Select Timer
+// P8 Press {L1}+{SELECT} To Stop Answer Select Timer
+patch=1,EE,20337344,extended,00000000
+
+[P8 Press {L2}+{SELECT} To Start Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L2}+{SELECT} To Start Answer Select Timer
+// P8 Press {L2}+{SELECT} To Start Answer Select Timer
+patch=1,EE,D04CBAC2,extended,0000FEFE
+
+[P8 Press {L2}+{SELECT} To Start Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L2}+{SELECT} To Start Answer Select Timer
+// P8 Press {L2}+{SELECT} To Start Answer Select Timer
+patch=1,EE,20337344,extended,E78089CC

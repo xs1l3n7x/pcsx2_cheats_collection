@@ -1,0 +1,79 @@
+gametitle=Castle Shikigami 2 [SLUS-20962] [3C90AEFD]
+
+[Start With Max Gems]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With Max Gems
+// Start With Max Gems
+patch=1,EE,9020CDBC,extended,0C089003
+
+[Infinite Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Credits
+// Infinite Credits
+patch=1,EE,202A3010,extended,00000063
+
+[Extra Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Credits
+// Extra Credits
+patch=1,EE,10169B50,extended,00000001
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,102C0950,extended,0000FFFF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,202C0950,extended,05F5E0FF
+
+[Infinite Bombs (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Bombs (Both Players)
+// Infinite Bombs (Both Players)
+patch=1,EE,2012C998,extended,00000000
+
+[Infinite Boss Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Boss Time
+// Infinite Boss Time
+patch=1,EE,20154478,extended,00000000
+
+[Infinite Life P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Life P1
+// Infinite Life P1
+patch=1,EE,202C0824,extended,00000003
+
+[Infinite Bombs P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Bombs P1
+// Infinite Bombs P1
+patch=1,EE,102C083A,extended,00000003
+
+[Max Action Time P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Action Time P1
+// Max Action Time P1
+patch=1,EE,202C0984,extended,0000C350
+
+[Infinite Life P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Life P2
+// Infinite Life P2
+patch=1,EE,202C08C0,extended,00000003
+
+[Infinite Bombs P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Bombs P2
+// Infinite Bombs P2
+patch=1,EE,102C08D6,extended,00000003
+
+[Max Action Time P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Action Time P2
+// Max Action Time P2
+patch=1,EE,202C0988,extended,0000C350

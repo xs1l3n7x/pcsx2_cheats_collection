@@ -1,0 +1,487 @@
+gametitle=Rayman Arena [SLUS-20272] [6028FC5B]
+
+[Press {L1}+{CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{CROSS} For Moon Jump
+// Press {L1}+{CROSS} For Moon Jump
+patch=1,EE,901160B4,extended,0C048F12
+
+[Shadow Plain-Lum Spring]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shadow Plain-Lum Spring
+// Shadow Plain-Lum Spring
+patch=1,EE,20DCDFFC,extended,00000002
+
+[Rise & Shine-Lum Spring]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rise & Shine-Lum Spring
+// Rise & Shine-Lum Spring
+patch=1,EE,20DCE000,extended,00000002
+
+[Sunset Coast-Lum Spring]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sunset Coast-Lum Spring
+// Sunset Coast-Lum Spring
+patch=1,EE,20DCE004,extended,00000002
+
+[Shadow Plain-Lum Fight]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shadow Plain-Lum Fight
+// Shadow Plain-Lum Fight
+patch=1,EE,20DCE038,extended,00000002
+
+[Rise & Shine-Lum Fight]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rise & Shine-Lum Fight
+// Rise & Shine-Lum Fight
+patch=1,EE,20DCE03C,extended,00000002
+
+[Sunset Coast-Lum Fight]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sunset Coast-Lum Fight
+// Sunset Coast-Lum Fight
+patch=1,EE,20DCE040,extended,00000002
+
+[Shadow Plain-Capture The Fly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shadow Plain-Capture The Fly
+// Shadow Plain-Capture The Fly
+patch=1,EE,20DCE074,extended,00000002
+
+[Rise & Shine-Capture The Fly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rise & Shine-Capture The Fly
+// Rise & Shine-Capture The Fly
+patch=1,EE,20DCE078,extended,00000002
+
+[Sunset Coast-Capture The Fly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sunset Coast-Capture The Fly
+// Sunset Coast-Capture The Fly
+patch=1,EE,20DCE07C,extended,00000002
+
+[First Runs-Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=First Runs-Race
+// First Runs-Race
+patch=1,EE,20DCE0B0,extended,00000002
+
+[Nebulous Tower-Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nebulous Tower-Race
+// Nebulous Tower-Race
+patch=1,EE,20DCE0B4,extended,00000002
+
+[Dark Sewer-Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Sewer-Race
+// Dark Sewer-Race
+patch=1,EE,20DCE0B8,extended,00000002
+
+[First Runs-Popolopoi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=First Runs-Popolopoi
+// First Runs-Popolopoi
+patch=1,EE,20DCE0FC,extended,00000002
+
+[Nebulous Tower-Popolopoi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nebulous Tower-Popolopoi
+// Nebulous Tower-Popolopoi
+patch=1,EE,20DCE100,extended,00000002
+
+[Dark Sewer-Popolopoi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Sewer-Popolopoi
+// Dark Sewer-Popolopoi
+patch=1,EE,20DCE104,extended,00000002
+
+[First Runs-Lums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=First Runs-Lums
+// First Runs-Lums
+patch=1,EE,20DCE144,extended,00000002
+
+[Nebulous Tower-Lums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nebulous Tower-Lums
+// Nebulous Tower-Lums
+patch=1,EE,20DCE148,extended,00000002
+
+[Dark Sewer-Lums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dark Sewer-Lums
+// Dark Sewer-Lums
+patch=1,EE,20DCE14C,extended,00000002
+
+[Timber Wood-Lum Springs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Timber Wood-Lum Springs
+// Timber Wood-Lum Springs
+patch=1,EE,20DCE008,extended,00000002
+
+[Haunted Yard-Lum Springs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Haunted Yard-Lum Springs
+// Haunted Yard-Lum Springs
+patch=1,EE,20DCE00C,extended,00000002
+
+[Palm Beach-Lum Springs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Palm Beach-Lum Springs
+// Palm Beach-Lum Springs
+patch=1,EE,20DCE010,extended,00000002
+
+[Timber Wood-Lum Fight]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Timber Wood-Lum Fight
+// Timber Wood-Lum Fight
+patch=1,EE,20DCE044,extended,00000002
+
+[Haunted Yard-Lum Fight]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Haunted Yard-Lum Fight
+// Haunted Yard-Lum Fight
+patch=1,EE,20DCE048,extended,00000002
+
+[Palm Beach-Lum Fight]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Palm Beach-Lum Fight
+// Palm Beach-Lum Fight
+patch=1,EE,20DCE04C,extended,00000002
+
+[Timber Wood-Capture The Fly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Timber Wood-Capture The Fly
+// Timber Wood-Capture The Fly
+patch=1,EE,20DCE080,extended,00000002
+
+[Haunted Yard-Capture The Fly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Haunted Yard-Capture The Fly
+// Haunted Yard-Capture The Fly
+patch=1,EE,20DCE084,extended,00000002
+
+[Palm Beach-Capture The Fly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Palm Beach-Capture The Fly
+// Palm Beach-Capture The Fly
+patch=1,EE,20DCE088,extended,00000002
+
+[Dawn Sand-Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dawn Sand-Race
+// Dawn Sand-Race
+patch=1,EE,20DCE0BC,extended,00000002
+
+[Water Canyon-Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Water Canyon-Race
+// Water Canyon-Race
+patch=1,EE,20DCE0C0,extended,00000002
+
+[Thousand Waterfalls-Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thousand Waterfalls-Race
+// Thousand Waterfalls-Race
+patch=1,EE,20DCE0C4,extended,00000002
+
+[Dawn Sand-Popolopoi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dawn Sand-Popolopoi
+// Dawn Sand-Popolopoi
+patch=1,EE,20DCE108,extended,00000002
+
+[Water Canyon-Popolopoi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Water Canyon-Popolopoi
+// Water Canyon-Popolopoi
+patch=1,EE,20DCE10C,extended,00000002
+
+[Thousand Waterfalls-Popolopoi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thousand Waterfalls-Popolopoi
+// Thousand Waterfalls-Popolopoi
+patch=1,EE,20DCE110,extended,00000002
+
+[Dawn Sand-Lums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dawn Sand-Lums
+// Dawn Sand-Lums
+patch=1,EE,20DCE150,extended,00000002
+
+[Water Canyon-Lums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Water Canyon-Lums
+// Water Canyon-Lums
+patch=1,EE,20DCE154,extended,00000002
+
+[Thousand Waterfalls-Lums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thousand Waterfalls-Lums
+// Thousand Waterfalls-Lums
+patch=1,EE,20DCE158,extended,00000002
+
+[Spellbound Forest-Lum Spring]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spellbound Forest-Lum Spring
+// Spellbound Forest-Lum Spring
+patch=1,EE,20DCE014,extended,00000002
+
+[Lys Palace-Lum Spring]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lys Palace-Lum Spring
+// Lys Palace-Lum Spring
+patch=1,EE,20DCE018,extended,00000002
+
+[Coconut Island-Lum Spring]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coconut Island-Lum Spring
+// Coconut Island-Lum Spring
+patch=1,EE,20DCE01C,extended,00000002
+
+[Spellbound Forest-Lum Fight]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spellbound Forest-Lum Fight
+// Spellbound Forest-Lum Fight
+patch=1,EE,20DCE050,extended,00000002
+
+[Lys Palace-Lum Fight]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lys Palace-Lum Fight
+// Lys Palace-Lum Fight
+patch=1,EE,20DCE054,extended,00000002
+
+[Coconut Island-Lum Fight]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coconut Island-Lum Fight
+// Coconut Island-Lum Fight
+patch=1,EE,20DCE058,extended,00000002
+
+[Spellbound Forest-Capture The Fly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spellbound Forest-Capture The Fly
+// Spellbound Forest-Capture The Fly
+patch=1,EE,20DCE08C,extended,00000002
+
+[Lys Palace-Capture The Fly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lys Palace-Capture The Fly
+// Lys Palace-Capture The Fly
+patch=1,EE,20DCE090,extended,00000002
+
+[Coconut Island-Capture The Fly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coconut Island-Capture The Fly
+// Coconut Island-Capture The Fly
+patch=1,EE,20DCE094,extended,00000002
+
+[Forest Jump-Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Forest Jump-Race
+// Forest Jump-Race
+patch=1,EE,20DCE0C8,extended,00000002
+
+[Zenith Harbour-Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zenith Harbour-Race
+// Zenith Harbour-Race
+patch=1,EE,20DCE0CC,extended,00000002
+
+[Treasure Ship-Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Treasure Ship-Race
+// Treasure Ship-Race
+patch=1,EE,20DCE0D0,extended,00000002
+
+[Forest Jump-Popolopoi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Forest Jump-Popolopoi
+// Forest Jump-Popolopoi
+patch=1,EE,20DCE114,extended,00000002
+
+[Zenith Harbour-Popolopoi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zenith Harbour-Popolopoi
+// Zenith Harbour-Popolopoi
+patch=1,EE,20DCE118,extended,00000002
+
+[Treasure Ship-Popolopoi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Treasure Ship-Popolopoi
+// Treasure Ship-Popolopoi
+patch=1,EE,20DCE11C,extended,00000002
+
+[Forest Jump-Lums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Forest Jump-Lums
+// Forest Jump-Lums
+patch=1,EE,20DCE15C,extended,00000002
+
+[Zenith Harbour-Lums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zenith Harbour-Lums
+// Zenith Harbour-Lums
+patch=1,EE,20DCE160,extended,00000002
+
+[Treasure Ship-Lums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Treasure Ship-Lums
+// Treasure Ship-Lums
+patch=1,EE,20DCE164,extended,00000002
+
+[Gemstone Temple-Lum Spring]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gemstone Temple-Lum Spring
+// Gemstone Temple-Lum Spring
+patch=1,EE,20DCE020,extended,00000002
+
+[Forgotten Dungeon-Lum Spring]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Forgotten Dungeon-Lum Spring
+// Forgotten Dungeon-Lum Spring
+patch=1,EE,20DCE024,extended,00000002
+
+[Ghastly Trees-Lum Spring]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ghastly Trees-Lum Spring
+// Ghastly Trees-Lum Spring
+patch=1,EE,20DCE028,extended,00000002
+
+[Gemstone Temple-Lum Fight]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gemstone Temple-Lum Fight
+// Gemstone Temple-Lum Fight
+patch=1,EE,20DCE05C,extended,00000002
+
+[Forgotten Dungeon-Lum Fight]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Forgotten Dungeon-Lum Fight
+// Forgotten Dungeon-Lum Fight
+patch=1,EE,20DCE060,extended,00000002
+
+[Ghastly Trees-Lum Fight]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ghastly Trees-Lum Fight
+// Ghastly Trees-Lum Fight
+patch=1,EE,20DCE064,extended,00000002
+
+[Gemstone Temple-Capture The Fly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gemstone Temple-Capture The Fly
+// Gemstone Temple-Capture The Fly
+patch=1,EE,20DCE098,extended,00000002
+
+[Forgotten Dungeon-Capture The Fly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Forgotten Dungeon-Capture The Fly
+// Forgotten Dungeon-Capture The Fly
+patch=1,EE,20DCE09C,extended,00000002
+
+[Ghastly Trees-Capture The Fly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ghastly Trees-Capture The Fly
+// Ghastly Trees-Capture The Fly
+patch=1,EE,20DCE0A0,extended,00000002
+
+[Pipe Maze-Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pipe Maze-Race
+// Pipe Maze-Race
+patch=1,EE,20DCE0D4,extended,00000002
+
+[Lava Factory-Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lava Factory-Race
+// Lava Factory-Race
+patch=1,EE,20DCE0D8,extended,00000002
+
+[Electric Final-Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Electric Final-Race
+// Electric Final-Race
+patch=1,EE,20DCE0DC,extended,00000002
+
+[Pipe Maze-Popolopoi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pipe Maze-Popolopoi
+// Pipe Maze-Popolopoi
+patch=1,EE,20DCE120,extended,00000002
+
+[Lava Factory-Popolopoi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lava Factory-Popolopoi
+// Lava Factory-Popolopoi
+patch=1,EE,20DCE124,extended,00000002
+
+[Electric Final-Popolopoi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Electric Final-Popolopoi
+// Electric Final-Popolopoi
+patch=1,EE,20DCE128,extended,00000002
+
+[Pipe Maze-Lums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pipe Maze-Lums
+// Pipe Maze-Lums
+patch=1,EE,20DCE168,extended,00000002
+
+[Lava Factory-Lums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lava Factory-Lums
+// Lava Factory-Lums
+patch=1,EE,20DCE16C,extended,00000002
+
+[Electric Final-Lums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Electric Final-Lums
+// Electric Final-Lums
+patch=1,EE,20DCE170,extended,00000002
+
+[Spooky Tower-Lum Spring]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spooky Tower-Lum Spring
+// Spooky Tower-Lum Spring
+patch=1,EE,20DCE02C,extended,00000002
+
+[Spooky Tower-Lum Fight]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spooky Tower-Lum Fight
+// Spooky Tower-Lum Fight
+patch=1,EE,20DCE068,extended,00000002
+
+[Spooky Tower-Capture The Fly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spooky Tower-Capture The Fly
+// Spooky Tower-Capture The Fly
+patch=1,EE,20DCE02C,extended,00000002
+
+[Future-Training]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Future-Training
+// Future-Training
+patch=1,EE,20DCE0E0,extended,00000002
+
+[Big Bang-Training]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Bang-Training
+// Big Bang-Training
+patch=1,EE,20DCE0E4,extended,00000002
+
+[Speed Stress-Survival]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speed Stress-Survival
+// Speed Stress-Survival
+patch=1,EE,20DCE0E8,extended,00000002
+
+[Born To Slide-Training]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Born To Slide-Training
+// Born To Slide-Training
+patch=1,EE,20DCE0EC,extended,00000002
+
+[On And On-On And On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=On And On-On And On
+// On And On-On And On
+patch=1,EE,20DCE0F0,extended,00000002

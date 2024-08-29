@@ -1,0 +1,217 @@
+gametitle=Big Mutha Truckers [SLUS-20291] [90F0D852]
+
+[Infinite Power Drencher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Power Drencher
+// Infinite Power Drencher
+patch=1,EE,90237BC4,extended,0C0D4071
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,11D55F04,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,21D55F04,extended,05F5E0FF
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,20339328,extended,00000000
+
+[Infinite Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Damage
+// Infinite Damage
+patch=1,EE,201396A0,extended,03E00008
+
+[Infinite Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Damage
+// Infinite Damage
+patch=1,EE,201396A4,extended,00000000
+
+[Infinite Fuel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Fuel
+// Infinite Fuel
+patch=1,EE,2036AED4,extended,00000000
+
+[Spoiler]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spoiler
+// Spoiler
+patch=1,EE,21D5547C,extended,00000001
+
+[MaxStore]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MaxStore
+// MaxStore
+patch=1,EE,21D5561C,extended,00000005
+
+[Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armor
+// Armor
+patch=1,EE,21D556BC,extended,00000001
+
+[TuffShocks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=TuffShocks
+// TuffShocks
+patch=1,EE,21D5575C,extended,00000001
+
+[Horn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Horn
+// Horn
+patch=1,EE,21D5587C,extended,00000005
+
+[Bull Bars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bull Bars
+// Bull Bars
+patch=1,EE,21D5591C,extended,00000005
+
+[Turbo Charger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Turbo Charger
+// Turbo Charger
+patch=1,EE,21D55A3C,extended,00000005
+
+[Speed Breaks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speed Breaks
+// Speed Breaks
+patch=1,EE,21D55BDC,extended,00000005
+
+[Fuel Saver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fuel Saver
+// Fuel Saver
+patch=1,EE,21D55CBC,extended,00000002
+
+[Unlock All Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Missions
+// Unlock All Missions
+patch=1,EE,21EC1D0C,extended,00000001
+
+[Infinite Mission Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Mission Timer
+// Infinite Mission Timer
+patch=1,EE,21EC1D14,extended,00000001
+
+[Disable Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Damage
+// Disable Damage
+patch=1,EE,21EC1D1C,extended,00000001
+
+[Pile Of Cash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pile Of Cash
+// Pile Of Cash
+patch=1,EE,21EC1D24,extended,00000001
+
+[Automatic Satnav]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Automatic Satnav
+// Automatic Satnav
+patch=1,EE,21EC1D2C,extended,00000001
+
+[Hyperfast Truck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hyperfast Truck
+// Hyperfast Truck
+patch=1,EE,21EC1D34,extended,00000001
+
+[Small People]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Small People
+// Small People
+patch=1,EE,21EC1D3C,extended,00000001
+
+[Evil Truck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Evil Truck
+// Evil Truck
+patch=1,EE,21EC1D44,extended,00000001
+
+[Diplomatic Immunity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Diplomatic Immunity
+// Diplomatic Immunity
+patch=1,EE,21EC1D4C,extended,00000001
+
+[Max Fruit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fruit
+// Max Fruit
+patch=1,EE,21EC1D54,extended,00000001
+
+[Unlock All Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Missions
+// Unlock All Missions
+patch=1,EE,01EC1CFC,extended,00000001
+
+[Infinite Mission Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Mission Timer
+// Infinite Mission Timer
+patch=1,EE,01EC1CFD,extended,00000001
+
+[Disable Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Damage
+// Disable Damage
+patch=1,EE,01EC1CFE,extended,00000001
+
+[Pile Of Cash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pile Of Cash
+// Pile Of Cash
+patch=1,EE,01EC1CFF,extended,00000001
+
+[Automatic Satnav]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Automatic Satnav
+// Automatic Satnav
+patch=1,EE,01EC1D00,extended,00000001
+
+[Hyperfast Truck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hyperfast Truck
+// Hyperfast Truck
+patch=1,EE,01EC1D01,extended,00000001
+
+[Small People]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Small People
+// Small People
+patch=1,EE,01EC1D02,extended,00000001
+
+[Evil Truck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Evil Truck
+// Evil Truck
+patch=1,EE,01EC1D03,extended,00000001
+
+[Diplomatic Immunity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Diplomatic Immunity
+// Diplomatic Immunity
+patch=1,EE,01EC1D04,extended,00000001
+
+[Max Fruit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fruit
+// Max Fruit
+patch=1,EE,01EC1D05,extended,00000001

@@ -1,0 +1,133 @@
+gametitle=Charlie And The Chocolate Factory [SLUS-21246] [157995EE]
+
+[Thanatos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thanatos
+// Thanatos
+patch=1,EE,9011FDF8,extended,00832021
+
+[Max Candy Power Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Candy Power Meter
+// Max Candy Power Meter
+patch=1,EE,200C0220,extended,3C0142C8
+
+[Max Candy Power Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Candy Power Meter
+// Max Candy Power Meter
+patch=1,EE,200C0224,extended,AC41000C
+
+[Max Candy Power Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Candy Power Meter
+// Max Candy Power Meter
+patch=1,EE,200C0228,extended,03E00008
+
+[Max Candy Power Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Candy Power Meter
+// Max Candy Power Meter
+patch=1,EE,200C022C,extended,C440000C
+
+[Max Candy Power Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Candy Power Meter
+// Max Candy Power Meter
+patch=1,EE,2022FD7C,extended,0C030088
+
+[Infinite Candy Power Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Candy Power Meter
+// Infinite Candy Power Meter
+patch=1,EE,200C0230,extended,3C0142C8
+
+[Infinite Candy Power Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Candy Power Meter
+// Infinite Candy Power Meter
+patch=1,EE,200C0234,extended,AC410018
+
+[Infinite Candy Power Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Candy Power Meter
+// Infinite Candy Power Meter
+patch=1,EE,200C0238,extended,03E00008
+
+[Infinite Candy Power Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Candy Power Meter
+// Infinite Candy Power Meter
+patch=1,EE,200C023C,extended,C4400018
+
+[Infinite Candy Power Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Candy Power Meter
+// Infinite Candy Power Meter
+patch=1,EE,2022FDA8,extended,0C03008C
+
+[Max Energy Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Energy Meter
+// Max Energy Meter
+patch=1,EE,200C0240,extended,3C0142C8
+
+[Max Energy Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Energy Meter
+// Max Energy Meter
+patch=1,EE,200C0244,extended,AC41000C
+
+[Max Energy Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Energy Meter
+// Max Energy Meter
+patch=1,EE,200C0248,extended,03E00008
+
+[Max Energy Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Energy Meter
+// Max Energy Meter
+patch=1,EE,200C024C,extended,C440000C
+
+[Max Energy Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Energy Meter
+// Max Energy Meter
+patch=1,EE,2022FDD4,extended,0C030090
+
+[Infinite Energy Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Energy Meter
+// Infinite Energy Meter
+patch=1,EE,200C0250,extended,3C0142C8
+
+[Infinite Energy Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Energy Meter
+// Infinite Energy Meter
+patch=1,EE,200C0254,extended,AC410018
+
+[Infinite Energy Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Energy Meter
+// Infinite Energy Meter
+patch=1,EE,200C0258,extended,03E00008
+
+[Infinite Energy Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Energy Meter
+// Infinite Energy Meter
+patch=1,EE,200C025C,extended,C4400018
+
+[Infinite Energy Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Energy Meter
+// Infinite Energy Meter
+patch=1,EE,2022FE00,extended,0C030094
+
+[Pickup 1 Collectable For Max Collectables]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pickup 1 Collectable For Max Collectables
+// Pickup 1 Collectable For Max Collectables
+patch=1,EE,2022CED8,extended,ACA7224C

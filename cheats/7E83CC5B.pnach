@@ -1,0 +1,133 @@
+gametitle=Devil May cry 3 [UNKNOWN] [7E83CC5B]
+
+[Unlock all cars]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock all cars
+// Unlock all cars
+patch=1,EE,41F65584,extended,000E0001
+
+[Unlock all cars]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock all cars
+// Unlock all cars
+patch=1,EE,03030303,extended,00000000
+
+[Dominator Rank]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Dominator Rank
+// Dominator Rank
+patch=1,EE,21F65188,extended,000003E7
+
+[Dominator Rank]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Dominator Rank
+// Dominator Rank
+patch=1,EE,21F6518C,extended,0000000A
+
+[Disable IA (R3+left desactivate, R3+right activate)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Disable IA (R3+left desactivate, R3+right activate)
+// Disable IA (R3+left desactivate, R3+right activate)
+patch=1,EE,D04F369C,extended,0001007B
+
+[Disable IA (R3+left desactivate, R3+right activate)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Disable IA (R3+left desactivate, R3+right activate)
+// Disable IA (R3+left desactivate, R3+right activate)
+patch=1,EE,20296B80,extended,24030001
+
+[Disable IA (R3+left desactivate, R3+right activate)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Disable IA (R3+left desactivate, R3+right activate)
+// Disable IA (R3+left desactivate, R3+right activate)
+patch=1,EE,D04F369C,extended,000100DB
+
+[Disable IA (R3+left desactivate, R3+right activate)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Disable IA (R3+left desactivate, R3+right activate)
+// Disable IA (R3+left desactivate, R3+right activate)
+patch=1,EE,20296B80,extended,38630001
+
+[Freeze time]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Freeze time
+// Freeze time
+patch=1,EE,D04F369C,extended,000100EE
+
+[Freeze time]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Freeze time
+// Freeze time
+patch=1,EE,20304518,extended,00000000
+
+[Freeze time]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Freeze time
+// Freeze time
+patch=1,EE,D04F369C,extended,000100BE
+
+[Freeze time]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Freeze time
+// Freeze time
+patch=1,EE,20304518,extended,AE02000C
+
+[Max / Infinite Nitrous]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max / Infinite Nitrous
+// Max / Infinite Nitrous
+patch=1,EE,21EDA758,extended,00000003
+
+[Max / Infinite Nitrous]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max / Infinite Nitrous
+// Max / Infinite Nitrous
+patch=1,EE,21EDA75C,extended,44340000
+
+[Max / Infinite Nitrous]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max / Infinite Nitrous
+// Max / Infinite Nitrous
+patch=1,EE,21EDA760,extended,44340000
+
+[Max / Infinite Nitrous]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max / Infinite Nitrous
+// Max / Infinite Nitrous
+patch=1,EE,21EDA770,extended,40000000
+
+[Speed - slow motion]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Speed - slow motion
+// Speed - slow motion
+patch=1,EE,D04F369C,extended,000100BB
+
+[Speed - slow motion]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Speed - slow motion
+// Speed - slow motion
+patch=1,EE,21D618CC,extended,3B800000
+
+[Speed - normal]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Speed - normal
+// Speed - normal
+patch=1,EE,D04F369C,extended,0001007B
+
+[Speed - normal]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Speed - normal
+// Speed - normal
+patch=1,EE,21D618CC,extended,3CA3D70A
+
+[Speed - super]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Speed - super
+// Speed - super
+patch=1,EE,D04F369C,extended,000100EB
+
+[Speed - super]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Speed - super
+// Speed - super
+patch=1,EE,21D618CC,extended,3D33D70A

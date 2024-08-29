@@ -1,0 +1,265 @@
+gametitle=Summoner 2 [SLES-51141] [1C891FB7]
+
+[Slot 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 30
+// Slot 30
+patch=1,EE,901C7FB4,extended,0C0933E2
+
+[Infinite Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Gold
+// Infinite Gold
+patch=1,EE,102D4340,extended,0000FFFF
+
+[Max Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Gold
+// Max Gold
+patch=1,EE,202D4340,extended,05F5E0FF
+
+[Infinite Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Skill Points
+// Infinite Skill Points
+patch=1,EE,202D4D9C,extended,0000270F
+
+[Infinite HP (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP (In-Battle)
+// Infinite HP (In-Battle)
+patch=1,EE,200C0220,extended,2410270F
+
+[Infinite HP (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP (In-Battle)
+// Infinite HP (In-Battle)
+patch=1,EE,200C0224,extended,AE300444
+
+[Infinite HP (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP (In-Battle)
+// Infinite HP (In-Battle)
+patch=1,EE,200C0228,extended,03E00008
+
+[Infinite HP (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP (In-Battle)
+// Infinite HP (In-Battle)
+patch=1,EE,200C022C,extended,AE30044C
+
+[Infinite HP (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP (In-Battle)
+// Infinite HP (In-Battle)
+patch=1,EE,202087E4,extended,0C030088
+
+[Infinite AP (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite AP (In-Battle)
+// Infinite AP (In-Battle)
+patch=1,EE,200C0230,extended,2403270F
+
+[Infinite AP (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite AP (In-Battle)
+// Infinite AP (In-Battle)
+patch=1,EE,200C0234,extended,A6430454
+
+[Infinite AP (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite AP (In-Battle)
+// Infinite AP (In-Battle)
+patch=1,EE,200C0238,extended,03E00008
+
+[Infinite AP (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite AP (In-Battle)
+// Infinite AP (In-Battle)
+patch=1,EE,200C023C,extended,AE430450
+
+[Infinite AP (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite AP (In-Battle)
+// Infinite AP (In-Battle)
+patch=1,EE,20209730,extended,0C03008C
+
+[Slot 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1
+// Slot 1
+patch=1,EE,202EB910,extended,00000063
+
+[Slot 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2
+// Slot 2
+patch=1,EE,202EB918,extended,00000063
+
+[Slot 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3
+// Slot 3
+patch=1,EE,202EB920,extended,00000063
+
+[Slot 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4
+// Slot 4
+patch=1,EE,202EB928,extended,00000063
+
+[Slot 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 5
+// Slot 5
+patch=1,EE,202EB930,extended,00000063
+
+[Slot 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 6
+// Slot 6
+patch=1,EE,202EB938,extended,00000063
+
+[Slot 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 7
+// Slot 7
+patch=1,EE,202EB940,extended,00000063
+
+[Slot 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 8
+// Slot 8
+patch=1,EE,202EB948,extended,00000063
+
+[Slot 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 9
+// Slot 9
+patch=1,EE,202EB950,extended,00000063
+
+[Slot 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 10
+// Slot 10
+patch=1,EE,202EB958,extended,00000063
+
+[Slot 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 11
+// Slot 11
+patch=1,EE,202EB960,extended,00000063
+
+[Slot 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 12
+// Slot 12
+patch=1,EE,202EB968,extended,00000063
+
+[Slot 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 13
+// Slot 13
+patch=1,EE,202EB970,extended,00000063
+
+[Slot 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 14
+// Slot 14
+patch=1,EE,202EB978,extended,00000063
+
+[Slot 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 15
+// Slot 15
+patch=1,EE,202EB980,extended,00000063
+
+[Slot 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 16
+// Slot 16
+patch=1,EE,202EB988,extended,00000063
+
+[Slot 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 17
+// Slot 17
+patch=1,EE,202EB990,extended,00000063
+
+[Slot 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 18
+// Slot 18
+patch=1,EE,202EB998,extended,00000063
+
+[Slot 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 19
+// Slot 19
+patch=1,EE,202EB9A0,extended,00000063
+
+[Slot 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 20
+// Slot 20
+patch=1,EE,202EB9A8,extended,00000063
+
+[Slot 21]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 21
+// Slot 21
+patch=1,EE,202EB9B0,extended,00000063
+
+[Slot 22]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 22
+// Slot 22
+patch=1,EE,202EB9B8,extended,00000063
+
+[Slot 23]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 23
+// Slot 23
+patch=1,EE,202EB9C0,extended,00000063
+
+[Slot 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 24
+// Slot 24
+patch=1,EE,202EB9C8,extended,00000063
+
+[Slot 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 25
+// Slot 25
+patch=1,EE,202EB9D0,extended,00000063
+
+[Slot 26]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 26
+// Slot 26
+patch=1,EE,202EB9D8,extended,00000063
+
+[Slot 27]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 27
+// Slot 27
+patch=1,EE,202EB9E0,extended,00000063
+
+[Slot 28]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 28
+// Slot 28
+patch=1,EE,202EB9E8,extended,00000063
+
+[Slot 29]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 29
+// Slot 29
+patch=1,EE,202EB9F0,extended,00000063
+
+[Slot 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 30
+// Slot 30
+patch=1,EE,202EB9F8,extended,00000063

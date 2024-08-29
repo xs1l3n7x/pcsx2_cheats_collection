@@ -1,0 +1,391 @@
+gametitle=Downhill Domination [SCUS-97177] [7E709DB4]
+
+[Geneva]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Geneva
+// Geneva
+patch=1,EE,9024520C,extended,0C095014
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,202B58DC,extended,497423F0
+
+[Infinite Energy (Turbo-R3)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Energy (Turbo-R3)
+// Infinite Energy (Turbo-R3)
+patch=1,EE,202B2158,extended,42C80000
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,2043EEC8,extended,00000000
+
+[Max Bank Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bank Money
+// Max Bank Money
+patch=1,EE,204347A8,extended,0BEBC1EC
+
+[Intro]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Intro
+// Intro
+patch=1,EE,104C6FAE,extended,00000001
+
+[Technical DH]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Technical DH
+// Technical DH
+patch=1,EE,104C6FBE,extended,00000001
+
+[Mountain Cross]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mountain Cross
+// Mountain Cross
+patch=1,EE,104C6FCE,extended,00000001
+
+[Freeride]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Freeride
+// Freeride
+patch=1,EE,104C6FDE,extended,00000001
+
+[Crashes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crashes
+// Crashes
+patch=1,EE,104C6FEE,extended,00000001
+
+[Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tricks
+// Tricks
+patch=1,EE,104C6FFE,extended,00000001
+
+[Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Credits
+// Credits
+patch=1,EE,104C700E,extended,00000001
+
+[Rider Profile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rider Profile
+// Rider Profile
+patch=1,EE,104C701E,extended,00000001
+
+[Rider Profile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rider Profile
+// Rider Profile
+patch=1,EE,2018E7FC,extended,00000000
+
+[Rakel-Sweden]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rakel-Sweden
+// Rakel-Sweden
+patch=1,EE,004B25E3,extended,00000001
+
+[Crud-Germany]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crud-Germany
+// Crud-Germany
+patch=1,EE,004B25E4,extended,00000001
+
+[Eric Carter-USA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Eric Carter-USA
+// Eric Carter-USA
+patch=1,EE,004B25E5,extended,00000001
+
+[Tara Llanes-USA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tara Llanes-USA
+// Tara Llanes-USA
+patch=1,EE,004B25E6,extended,00000001
+
+[Richie Schley-Canada]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Richie Schley-Canada
+// Richie Schley-Canada
+patch=1,EE,004B25E7,extended,00000001
+
+[Brian Lopes-USA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Brian Lopes-USA
+// Brian Lopes-USA
+patch=1,EE,004B25E8,extended,00000001
+
+[Missy Glove-USA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Missy Glove-USA
+// Missy Glove-USA
+patch=1,EE,004B25E9,extended,00000001
+
+[Gamelbak Bonus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gamelbak Bonus
+// Gamelbak Bonus
+patch=1,EE,D036A8D0,extended,00300001
+
+[Gamelbak Bonus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gamelbak Bonus
+// Gamelbak Bonus
+patch=1,EE,2036A8D0,extended,00000001
+
+[Sparky Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sparky Tricks
+// Sparky Tricks
+patch=1,EE,D036A8D4,extended,00300001
+
+[Sparky Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sparky Tricks
+// Sparky Tricks
+patch=1,EE,2036A8D4,extended,00000001
+
+[Stretchy Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stretchy Mode
+// Stretchy Mode
+patch=1,EE,D036A8D8,extended,00300001
+
+[Stretchy Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stretchy Mode
+// Stretchy Mode
+patch=1,EE,2036A8D8,extended,00000001
+
+[Bonus Rider: ?????]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bonus Rider: ?????
+// Bonus Rider: ?????
+patch=1,EE,D036A8DC,extended,00300001
+
+[Bonus Rider: ?????]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bonus Rider: ?????
+// Bonus Rider: ?????
+patch=1,EE,2036A8DC,extended,00000001
+
+[Music 1: 5-Song Variety Pack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Music 1: 5-Song Variety Pack
+// Music 1: 5-Song Variety Pack
+patch=1,EE,D036A8E0,extended,00300001
+
+[Music 1: 5-Song Variety Pack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Music 1: 5-Song Variety Pack
+// Music 1: 5-Song Variety Pack
+patch=1,EE,2036A8E0,extended,00000001
+
+[Music 2: 5-Song Variety Pack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Music 2: 5-Song Variety Pack
+// Music 2: 5-Song Variety Pack
+patch=1,EE,D036A8E4,extended,00300001
+
+[Music 2: 5-Song Variety Pack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Music 2: 5-Song Variety Pack
+// Music 2: 5-Song Variety Pack
+patch=1,EE,2036A8E4,extended,00000001
+
+[Music 3: 5-Song Variety Pack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Music 3: 5-Song Variety Pack
+// Music 3: 5-Song Variety Pack
+patch=1,EE,D036A8E8,extended,00300001
+
+[Music 3: 5-Song Variety Pack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Music 3: 5-Song Variety Pack
+// Music 3: 5-Song Variety Pack
+patch=1,EE,2036A8E8,extended,00000001
+
+[Bonus Level 1: Moshbowl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bonus Level 1: Moshbowl
+// Bonus Level 1: Moshbowl
+patch=1,EE,D036A8EC,extended,00300001
+
+[Bonus Level 1: Moshbowl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bonus Level 1: Moshbowl
+// Bonus Level 1: Moshbowl
+patch=1,EE,2036A8EC,extended,00000001
+
+[Bonus Level 2: Moshbowl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bonus Level 2: Moshbowl
+// Bonus Level 2: Moshbowl
+patch=1,EE,D036A8F0,extended,00300001
+
+[Bonus Level 2: Moshbowl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bonus Level 2: Moshbowl
+// Bonus Level 2: Moshbowl
+patch=1,EE,2036A8F0,extended,00000001
+
+[Bonus Level 3: Moshbowl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bonus Level 3: Moshbowl
+// Bonus Level 3: Moshbowl
+patch=1,EE,D036A8F4,extended,00300001
+
+[Bonus Level 3: Moshbowl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bonus Level 3: Moshbowl
+// Bonus Level 3: Moshbowl
+patch=1,EE,2036A8F4,extended,00000001
+
+[Video 1: Mountain Cross Clip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Video 1: Mountain Cross Clip
+// Video 1: Mountain Cross Clip
+patch=1,EE,D036A8F8,extended,00300001
+
+[Video 1: Mountain Cross Clip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Video 1: Mountain Cross Clip
+// Video 1: Mountain Cross Clip
+patch=1,EE,2036A8F8,extended,00000001
+
+[Video 2: Freeride Clip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Video 2: Freeride Clip
+// Video 2: Freeride Clip
+patch=1,EE,D036A8FC,extended,00300001
+
+[Video 2: Freeride Clip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Video 2: Freeride Clip
+// Video 2: Freeride Clip
+patch=1,EE,2036A8FC,extended,00000001
+
+[Video 3: Technical Downhill Clip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Video 3: Technical Downhill Clip
+// Video 3: Technical Downhill Clip
+patch=1,EE,D036A900,extended,00300001
+
+[Video 3: Technical Downhill Clip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Video 3: Technical Downhill Clip
+// Video 3: Technical Downhill Clip
+patch=1,EE,2036A900,extended,00000001
+
+[Video 4: Crash Clip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Video 4: Crash Clip
+// Video 4: Crash Clip
+patch=1,EE,D036A904,extended,00300001
+
+[Video 4: Crash Clip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Video 4: Crash Clip
+// Video 4: Crash Clip
+patch=1,EE,2036A904,extended,00000001
+
+[Video 5: Trick Clip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Video 5: Trick Clip
+// Video 5: Trick Clip
+patch=1,EE,D036A908,extended,00300001
+
+[Video 5: Trick Clip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Video 5: Trick Clip
+// Video 5: Trick Clip
+patch=1,EE,2036A908,extended,00000001
+
+[Poster Maker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poster Maker
+// Poster Maker
+patch=1,EE,D036A90C,extended,00300001
+
+[Poster Maker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poster Maker
+// Poster Maker
+patch=1,EE,2036A90C,extended,00000001
+
+[Pickup Editor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pickup Editor
+// Pickup Editor
+patch=1,EE,D036A910,extended,00300001
+
+[Pickup Editor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pickup Editor
+// Pickup Editor
+patch=1,EE,2036A910,extended,00000001
+
+[Fog Editor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fog Editor
+// Fog Editor
+patch=1,EE,D036A914,extended,00300001
+
+[Fog Editor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fog Editor
+// Fog Editor
+patch=1,EE,2036A914,extended,00000001
+
+[Bonus Bike 1: Sheep]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bonus Bike 1: Sheep
+// Bonus Bike 1: Sheep
+patch=1,EE,D036A918,extended,00300001
+
+[Bonus Bike 1: Sheep]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bonus Bike 1: Sheep
+// Bonus Bike 1: Sheep
+patch=1,EE,2036A918,extended,00000001
+
+[Bonus Bike 2: Deer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bonus Bike 2: Deer
+// Bonus Bike 2: Deer
+patch=1,EE,D036A91C,extended,00300001
+
+[Bonus Bike 2: Deer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bonus Bike 2: Deer
+// Bonus Bike 2: Deer
+patch=1,EE,2036A91C,extended,00000001
+
+[Bonus Bike 3: Llama]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bonus Bike 3: Llama
+// Bonus Bike 3: Llama
+patch=1,EE,D036A920,extended,00300001
+
+[Bonus Bike 3: Llama]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bonus Bike 3: Llama
+// Bonus Bike 3: Llama
+patch=1,EE,2036A920,extended,00000001
+
+[Prototype Bike]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Prototype Bike
+// Prototype Bike
+patch=1,EE,D036A924,extended,00300001
+
+[Prototype Bike]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Prototype Bike
+// Prototype Bike
+patch=1,EE,2036A924,extended,00000001

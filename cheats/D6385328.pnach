@@ -1,0 +1,67 @@
+gametitle=Killzone [UNKNOWN] [D6385328]
+
+[Enable All Magic]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Enable All Magic
+// Enable All Magic
+patch=1,EE,10302D42,extended,0000FFFF
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20795978,extended,42C80000
+
+[Infinite Magic Energy]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Magic Energy
+// Infinite Magic Energy
+patch=1,EE,20302D1C,extended,42C80000
+
+[Infinite Rage of the Gods]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Rage of the Gods
+// Infinite Rage of the Gods
+patch=1,EE,20302D20,extended,42C80000
+
+[Max Level]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max Level
+// Max Level
+patch=1,EE,20302D28,extended,00007530
+
+[Quick Level Up - Blades of Chaos]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Quick Level Up - Blades of Chaos
+// Quick Level Up - Blades of Chaos
+patch=1,EE,2076D7D8,extended,00001194
+
+[Quick Level Up - Poseidon's Rage]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Quick Level Up - Poseidon's Rage
+// Quick Level Up - Poseidon's Rage
+patch=1,EE,2076D7DC,extended,00001194
+
+[Quick Level Up - Medusa's Gaze]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Quick Level Up - Medusa's Gaze
+// Quick Level Up - Medusa's Gaze
+patch=1,EE,2076D7E0,extended,00001D4C
+
+[Quick Level Up - Zeus' Fury]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Quick Level Up - Zeus' Fury
+// Quick Level Up - Zeus' Fury
+patch=1,EE,2076D7E4,extended,00001D4C
+
+[Quick Level Up - Army of Hades]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Quick Level Up - Army of Hades
+// Quick Level Up - Army of Hades
+patch=1,EE,2076D7E8,extended,00002710
+
+[Quick Level Up - Blades of Artemis]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Quick Level Up - Blades of Artemis
+// Quick Level Up - Blades of Artemis
+patch=1,EE,2076D7EC,extended,00002710

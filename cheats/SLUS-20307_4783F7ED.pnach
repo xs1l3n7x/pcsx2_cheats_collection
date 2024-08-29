@@ -1,0 +1,133 @@
+gametitle=Burnout [SLUS-20307] [4783F7ED]
+
+[No Fortunes Read]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Fortunes Read
+// No Fortunes Read
+patch=1,EE,90126FAC,extended,0C0473AA
+
+[Infinite Turbo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Turbo
+// Infinite Turbo
+patch=1,EE,203A76DC,extended,42C80000
+
+[Infinite Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Credits
+// Infinite Credits
+patch=1,EE,1037ED50,extended,000003E7
+
+[Have Survival]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Survival
+// Have Survival
+patch=1,EE,0037929C,extended,00000000
+
+[Press {R1}+{CROSS} For Nitrous Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R1}+{CROSS} For Nitrous Boost
+// Press {R1}+{CROSS} For Nitrous Boost
+patch=1,EE,D04EA542,extended,0000B7FF
+
+[Press {R1}+{CROSS} For Nitrous Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R1}+{CROSS} For Nitrous Boost
+// Press {R1}+{CROSS} For Nitrous Boost
+patch=1,EE,203A9134,extended,453B8000
+
+[Have All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Cars
+// Have All Cars
+patch=1,EE,403791F4,extended,000A0001
+
+[Have All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Cars
+// Have All Cars
+patch=1,EE,00000000,extended,00000000
+
+[Have All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tracks
+// Have All Tracks
+patch=1,EE,4037921C,extended,00100001
+
+[Have All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tracks
+// Have All Tracks
+patch=1,EE,00000000,extended,00000000
+
+[Have All Championship Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Championship Tracks
+// Have All Championship Tracks
+patch=1,EE,4037925C,extended,00060001
+
+[Have All Championship Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Championship Tracks
+// Have All Championship Tracks
+patch=1,EE,00000000,extended,00000000
+
+[Have All Face Offs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Offs
+// Have All Face Offs
+patch=1,EE,4037928C,extended,00040001
+
+[Have All Face Offs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Face Offs
+// Have All Face Offs
+patch=1,EE,00000000,extended,00000000
+
+[Always Low Total Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Time
+// Always Low Total Time
+patch=1,EE,202D2610,extended,00000000
+
+[Always Low Total Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Time
+// Always Low Total Time
+patch=1,EE,202D2614,extended,00000000
+
+[Always Low Fastest Lap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Fastest Lap
+// Always Low Fastest Lap
+patch=1,EE,202D26F0,extended,00000000
+
+[Always Low Fastest Lap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Fastest Lap
+// Always Low Fastest Lap
+patch=1,EE,202D26F4,extended,00000000
+
+[Always Low Total Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Time
+// Always Low Total Time
+patch=1,EE,202D0EB0,extended,00000000
+
+[Always Low Total Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Time
+// Always Low Total Time
+patch=1,EE,202D0EB4,extended,00000000
+
+[Always Low Fastest Lap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Fastest Lap
+// Always Low Fastest Lap
+patch=1,EE,202D0F90,extended,00000000
+
+[Always Low Fastest Lap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Fastest Lap
+// Always Low Fastest Lap
+patch=1,EE,202D0F94,extended,00000000

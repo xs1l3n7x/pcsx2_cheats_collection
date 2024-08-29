@@ -1,0 +1,97 @@
+gametitle=Sky Odyssey [SLUS-20134] [CD213E68]
+
+[All Slots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Slots
+// All Slots
+patch=1,EE,901FF1EC,extended,0C087C5B
+
+[Max Acrobatic Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Acrobatic Points
+// Max Acrobatic Points
+patch=1,EE,20283830,extended,0001869F
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,20283F00,extended,00000000
+
+[Max Rings Passed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rings Passed
+// Max Rings Passed
+patch=1,EE,10284124,extended,00000064
+
+[Infinite Fuel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Fuel
+// Infinite Fuel
+patch=1,EE,103765BA,extended,000042C8
+
+[Have All Aircraft]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Aircraft
+// Have All Aircraft
+patch=1,EE,203840F8,extended,81818181
+
+[Have All Aircraft]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Aircraft
+// Have All Aircraft
+patch=1,EE,103840FC,extended,00008181
+
+[Have All Graphics]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Graphics
+// Have All Graphics
+patch=1,EE,20386690,extended,FFFFFFFF
+
+[Have All Graphics]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Graphics
+// Have All Graphics
+patch=1,EE,20386694,extended,FFFFFFFF
+
+[Have All Graphics]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Graphics
+// Have All Graphics
+patch=1,EE,10386698,extended,0000FFFF
+
+[Have All Map Pieces]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Map Pieces
+// Have All Map Pieces
+patch=1,EE,0038415D,extended,00000085
+
+[Have All Map Pieces]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Map Pieces
+// Have All Map Pieces
+patch=1,EE,1038415E,extended,00008986
+
+[Have All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Levels
+// Have All Levels
+patch=1,EE,40383C78,extended,00050001
+
+[Have All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Levels
+// Have All Levels
+patch=1,EE,00010001,extended,00000000
+
+[Max Scores]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Scores
+// Max Scores
+patch=1,EE,40383C98,extended,000A0001
+
+[Max Scores]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Scores
+// Max Scores
+patch=1,EE,42C80000,extended,00000000

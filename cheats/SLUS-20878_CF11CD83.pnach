@@ -1,0 +1,4189 @@
+gametitle=Samurai Warriors [SLUS-20878] [CF11CD83]
+
+[Penetrate Aku's Fortress]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Penetrate Aku's Fortress
+// Penetrate Aku's Fortress
+patch=1,EE,9012B630,extended,0C040E04
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,20126AF0,extended,24020001
+
+[Infinite Health (All Human Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (All Human Players)
+// Infinite Health (All Human Players)
+patch=1,EE,200C0220,extended,94860270
+
+[Infinite Health (All Human Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (All Human Players)
+// Infinite Health (All Human Players)
+patch=1,EE,200C0224,extended,00063100
+
+[Infinite Health (All Human Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (All Human Players)
+// Infinite Health (All Human Players)
+patch=1,EE,200C0228,extended,08088F5E
+
+[Infinite Health (All Human Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (All Human Players)
+// Infinite Health (All Human Players)
+patch=1,EE,200C022C,extended,A4860272
+
+[Infinite Health (All Human Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (All Human Players)
+// Infinite Health (All Human Players)
+patch=1,EE,20223D74,extended,08030088
+
+[Infinite Power Ups (Upon Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Power Ups (Upon Pickup)
+// Infinite Power Ups (Upon Pickup)
+patch=1,EE,20143B30,extended,00000000
+
+[Can Always Do Musou Move (Press {CIRCLE})]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Can Always Do Musou Move (Press {CIRCLE})
+// Can Always Do Musou Move (Press {CIRCLE})
+patch=1,EE,201511A8,extended,00000000
+
+[Have All Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Movies
+// Have All Movies
+patch=1,EE,404EBFCC,extended,00040001
+
+[Have All Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Movies
+// Have All Movies
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Have All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Weapons
+// Have All Weapons
+patch=1,EE,404EBFDC,extended,00030001
+
+[Have All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Weapons
+// Have All Weapons
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,204EBFE8,extended,FFFFFFFF
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,204EBFEC,extended,FFFFFFFF
+
+[Have All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Characters
+// Have All Characters
+patch=1,EE,204EC000,extended,0201000F
+
+[Have All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Characters
+// Have All Characters
+patch=1,EE,204EC004,extended,06050403
+
+[Have All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Characters
+// Have All Characters
+patch=1,EE,204EC008,extended,0A090807
+
+[Have All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Characters
+// Have All Characters
+patch=1,EE,204EC00C,extended,0E0D0C0B
+
+[Have All Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Missions
+// Have All Missions
+patch=1,EE,404EC010,extended,00040001
+
+[Have All Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Missions
+// Have All Missions
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Max KO's P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max KO's P1
+// Max KO's P1
+patch=1,EE,20517DDC,extended,0000270F
+
+[No KO's P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No KO's P1
+// No KO's P1
+patch=1,EE,20517DDC,extended,00000000
+
+[Walk Through Prop Walls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Walk Through Prop Walls
+// Walk Through Prop Walls
+patch=1,EE,101B276C,extended,00004200
+
+[All Enemies/Allies Have No Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Enemies/Allies Have No Defense
+// All Enemies/Allies Have No Defense
+patch=1,EE,2032F100,extended,3D000000
+
+[All Enemies/Allies Have No Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Enemies/Allies Have No Defense
+// All Enemies/Allies Have No Defense
+patch=1,EE,2032F104,extended,3D000000
+
+[All Enemies/Allies Have No Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Enemies/Allies Have No Defense
+// All Enemies/Allies Have No Defense
+patch=1,EE,2032F108,extended,3D000000
+
+[All Enemies/Allies Have No Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Enemies/Allies Have No Defense
+// All Enemies/Allies Have No Defense
+patch=1,EE,2032F10C,extended,3D000000
+
+[Play In 'Ending 2' Sequences]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Play In 'Ending 2' Sequences
+// Play In 'Ending 2' Sequences
+patch=1,EE,4033CBD0,extended,000C0001
+
+[Play In 'Ending 2' Sequences]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Play In 'Ending 2' Sequences
+// Play In 'Ending 2' Sequences
+patch=1,EE,00000000,extended,00000000
+
+[Play In 'Ending 2' Sequences]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Play In 'Ending 2' Sequences
+// Play In 'Ending 2' Sequences
+patch=1,EE,2050BAF4,extended,00000000
+
+[Play In 'Ending 2' Sequences]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Play In 'Ending 2' Sequences
+// Play In 'Ending 2' Sequences
+patch=1,EE,2050BAF8,extended,00FFFFFF
+
+[Always Clear Sky]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Clear Sky
+// Always Clear Sky
+patch=1,EE,2050BB2C,extended,00000000
+
+[Always Cloudy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Cloudy
+// Always Cloudy
+patch=1,EE,2050BB2C,extended,00000001
+
+[Always Raining]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Raining
+// Always Raining
+patch=1,EE,2050BB2C,extended,00000002
+
+[Always Storming]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Storming
+// Always Storming
+patch=1,EE,2050BB2C,extended,00000003
+
+[Always Snowing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Snowing
+// Always Snowing
+patch=1,EE,2050BB2C,extended,00000004
+
+[Solar Gem]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Solar Gem
+// Solar Gem
+patch=1,EE,004EBF10,extended,00000063
+
+[Moon Stone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Moon Stone
+// Moon Stone
+patch=1,EE,004EBF11,extended,00000063
+
+[Power Bracer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power Bracer
+// Power Bracer
+patch=1,EE,004EBF12,extended,00000063
+
+[Himiko's Rune]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Himiko's Rune
+// Himiko's Rune
+patch=1,EE,004EBF13,extended,00000063
+
+[Vixen Tail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vixen Tail
+// Vixen Tail
+patch=1,EE,004EBF14,extended,00000063
+
+[Tengu Sandals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tengu Sandals
+// Tengu Sandals
+patch=1,EE,004EBF15,extended,00000063
+
+[Hare Greaves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hare Greaves
+// Hare Greaves
+patch=1,EE,004EBF16,extended,00000063
+
+[Kappa Amulet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kappa Amulet
+// Kappa Amulet
+patch=1,EE,004EBF17,extended,00000063
+
+[Wind Gloves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wind Gloves
+// Wind Gloves
+patch=1,EE,004EBF18,extended,00000063
+
+[Cloak Of Might]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cloak Of Might
+// Cloak Of Might
+patch=1,EE,004EBF19,extended,00000063
+
+[Demon Staff]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Demon Staff
+// Demon Staff
+patch=1,EE,004EBF1A,extended,00000063
+
+[Seprent Bracer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Seprent Bracer
+// Seprent Bracer
+patch=1,EE,004EBF1B,extended,00000063
+
+[Saddle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Saddle
+// Saddle
+patch=1,EE,004EBF1C,extended,00000063
+
+[All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Items
+// All Items
+patch=1,EE,404EBF10,extended,00030001
+
+[All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Items
+// All Items
+patch=1,EE,63636363,extended,00000000
+
+[All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Items
+// All Items
+patch=1,EE,004EBF1C,extended,00000063
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB1B0,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB1B1,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB1B2,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB1B3,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB1B4,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB1B5,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB1B6,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB1B7,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB1B8,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB1B9,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB1BA,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB1B0,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB1B2,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB1B4,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB1B8,extended,0000C8C8
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB1C6,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB1EC,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB1EC,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB1ED,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB1F4,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB1F8,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB1F9,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB1FA,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB1FB,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB1FC,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB1FD,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB1FE,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB1FF,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB200,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB201,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB202,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB1F8,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB1FA,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB1FC,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB200,extended,0000C8C8
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB20E,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB234,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB234,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB235,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB23C,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB240,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB241,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB242,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB243,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB244,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB245,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB246,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB247,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB248,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB249,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB24A,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB240,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB242,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB244,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB248,extended,0000C8C8
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB256,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB27C,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB27C,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB27D,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB284,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB288,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB289,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB28A,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB28B,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB28C,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB28D,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB28E,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB28F,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB290,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB291,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB292,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB288,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB28A,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB28C,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB290,extended,0000C8C8
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB29E,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB2C4,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB2C4,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB2C5,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB2CC,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB2D0,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB2D1,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB2D2,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB2D3,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB2D4,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB2D5,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB2D6,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB2D7,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB2D8,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB2D9,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB2DA,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB2D0,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB2D2,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB2D4,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB2D8,extended,0000C8C8
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB2E6,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB30C,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB30C,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB30D,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB314,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB318,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB319,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB31A,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB31B,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB31C,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB31D,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB31E,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB31F,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB320,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB321,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB322,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB318,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB31A,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB31C,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB320,extended,0000C8C8
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB32E,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB354,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB354,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB355,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB35C,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB360,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB361,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB362,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB363,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB364,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB365,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB366,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB367,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB368,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB369,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB36A,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB360,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB362,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB364,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB368,extended,0000C8C8
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB376,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB39C,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB39C,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB39D,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB3A4,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB3A8,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB3A9,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB3AA,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB3AB,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB3AC,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB3AD,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB3AE,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB3AF,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB3B0,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB3B1,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB3B2,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB3A8,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB3AA,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB3AC,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB3B0,extended,0000C8C8
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB3BE,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB3E4,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB3E4,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB3E5,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB3EC,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB3F0,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB3F1,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB3F2,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB3F3,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB3F4,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB3F5,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB3F6,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB3F7,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB3F8,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB3F9,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB3FA,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB3F0,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB3F2,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB3F4,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB3F8,extended,0000C8C8
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB406,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB42C,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB42C,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB42D,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB434,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB438,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB439,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB43A,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB43B,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB43C,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB43D,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB43E,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB43F,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB440,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB441,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB442,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB438,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB43A,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB43C,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB440,extended,0000C8C8
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB44E,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB474,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB474,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB475,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB47C,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB480,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB481,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB482,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB483,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB484,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB485,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB486,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB487,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB488,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB489,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB48A,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB480,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB482,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB484,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB488,extended,0000C8C8
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB496,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB4BC,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB4BC,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB4BD,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB4C4,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB4C8,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB4C9,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB4CA,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB4CB,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB4CC,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB4CD,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB4CE,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB4CF,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB4D0,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB4D1,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB4D2,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB4C8,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB4CA,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB4CC,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB4D0,extended,0000C8C8
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB4DE,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB504,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB504,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB505,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB50C,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB510,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB511,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB512,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB513,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB514,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB515,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB516,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB517,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB518,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB519,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB51A,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB510,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB512,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB514,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB518,extended,0000C8C8
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB526,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB54C,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB54C,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB54D,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB554,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB558,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB559,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB55A,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB55B,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB55C,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB55D,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB55E,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB55F,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB560,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB561,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB562,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB558,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB55A,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB55C,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB560,extended,0000C8C8
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB56E,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB594,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB594,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB595,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB59C,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB5A0,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB5A1,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB5A2,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB5A3,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB5A4,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB5A5,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB5A6,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB5A7,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB5A8,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB5A9,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB5AA,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB5A0,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB5A2,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB5A4,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB5A8,extended,0000C8C8
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB5B6,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB5DC,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB5DC,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB5DD,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB5E4,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB5E8,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB5E9,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB5EA,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB5EB,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB5EC,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB5ED,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB5EE,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB5EF,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB5F0,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB5F1,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB5F2,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB5E8,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB5EA,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB5EC,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB5F0,extended,0000C8C8
+
+[Have Musket For Projectile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Musket For Projectile
+// Have Musket For Projectile
+patch=1,EE,004EB5F8,extended,00000001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB5FE,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB624,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB624,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB625,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB62C,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB630,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB631,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB632,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB633,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB634,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB635,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB636,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB637,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB638,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB639,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB63A,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB630,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB632,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB634,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB638,extended,0000C8C8
+
+[Have Musket For Projectile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Musket For Projectile
+// Have Musket For Projectile
+patch=1,EE,004EB640,extended,00000001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB646,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB66C,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB66C,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB66D,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB674,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB678,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB679,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB67A,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB67B,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB67C,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB67D,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB67E,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB67F,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB680,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB681,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB682,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB678,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB67A,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB67C,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB680,extended,0000C8C8
+
+[Have Musket For Projectile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Musket For Projectile
+// Have Musket For Projectile
+patch=1,EE,004EB688,extended,00000001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB68E,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB6B4,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB6B4,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB6B5,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB6BC,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB6C0,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB6C1,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB6C2,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB6C3,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB6C4,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB6C5,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB6C6,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB6C7,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB6C8,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB6C9,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB6CA,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB6C0,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB6C2,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB6C4,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB6C8,extended,0000C8C8
+
+[Have Musket For Projectile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Musket For Projectile
+// Have Musket For Projectile
+patch=1,EE,004EB6D0,extended,00000001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB6D6,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB6FC,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB6FC,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB6FD,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB704,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB708,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB709,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB70A,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB70B,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB70C,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB70D,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB70E,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB70F,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB710,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB711,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB712,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB708,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB70A,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB70C,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB710,extended,0000C8C8
+
+[Have Musket For Projectile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Musket For Projectile
+// Have Musket For Projectile
+patch=1,EE,004EB718,extended,00000001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB71E,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB744,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB744,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB745,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB74C,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB750,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB751,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB752,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB753,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB754,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB755,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB756,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB757,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB758,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB759,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB75A,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB750,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB752,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB754,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB758,extended,0000C8C8
+
+[Have Musket For Projectile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Musket For Projectile
+// Have Musket For Projectile
+patch=1,EE,004EB760,extended,00000001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB766,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB78C,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB78C,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB78D,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB794,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB798,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB799,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB79A,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB79B,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB79C,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB79D,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB79E,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB79F,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB7A0,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB7A1,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB7A2,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB798,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB79A,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB79C,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB7A0,extended,0000C8C8
+
+[Have Musket For Projectile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Musket For Projectile
+// Have Musket For Projectile
+patch=1,EE,004EB7A8,extended,00000001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB7AE,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB7D4,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB7D4,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB7D5,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB7DC,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB7E0,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB7E1,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB7E2,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB7E3,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB7E4,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB7E5,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB7E6,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB7E7,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB7E8,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB7E9,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB7EA,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB7E0,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB7E2,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB7E4,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB7E8,extended,0000C8C8
+
+[Have Musket For Projectile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Musket For Projectile
+// Have Musket For Projectile
+patch=1,EE,004EB7F0,extended,00000001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB7F6,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB81C,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB81C,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB81D,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB824,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB828,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB829,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB82A,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB82B,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB82C,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB82D,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB82E,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB82F,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB830,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB831,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB832,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB828,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB82A,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB82C,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB830,extended,0000C8C8
+
+[Have Musket For Projectile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Musket For Projectile
+// Have Musket For Projectile
+patch=1,EE,004EB838,extended,00000001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB83E,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB864,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB864,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB865,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB86C,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB870,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB871,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB872,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB873,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB874,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB875,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB876,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB877,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB878,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB879,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB87A,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB870,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB872,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB874,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB878,extended,0000C8C8
+
+[Have Musket For Projectile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Musket For Projectile
+// Have Musket For Projectile
+patch=1,EE,004EB880,extended,00000001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB886,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB8AC,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB8AC,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB8AD,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB8B4,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB8B8,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB8B9,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB8BA,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB8BB,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB8BC,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB8BD,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB8BE,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB8BF,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB8C0,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB8C1,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB8C2,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB8B8,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB8BA,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB8BC,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB8C0,extended,0000C8C8
+
+[Have Musket For Projectile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Musket For Projectile
+// Have Musket For Projectile
+patch=1,EE,004EB8C8,extended,00000001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB8CE,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB8F4,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB8F4,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB8F5,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB8FC,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB900,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB901,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB902,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB903,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB904,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB905,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB906,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB907,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB908,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB909,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB90A,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB900,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB902,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB904,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB908,extended,0000C8C8
+
+[Have Musket For Projectile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Musket For Projectile
+// Have Musket For Projectile
+patch=1,EE,004EB910,extended,00000001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB916,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB93C,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB93C,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB93D,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB944,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB948,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB949,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB94A,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB94B,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB94C,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB94D,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB94E,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB94F,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB950,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB951,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB952,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB948,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB94A,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB94C,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB950,extended,0000C8C8
+
+[Have Musket For Projectile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Musket For Projectile
+// Have Musket For Projectile
+patch=1,EE,004EB958,extended,00000001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB95E,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB984,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB984,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB985,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB98C,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB990,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB991,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB992,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB993,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB994,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB995,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB996,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB997,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB998,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB999,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB99A,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB990,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB992,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB994,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB998,extended,0000C8C8
+
+[Have Musket For Projectile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Musket For Projectile
+// Have Musket For Projectile
+patch=1,EE,004EB9A0,extended,00000001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB9A6,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EB9CC,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EB9CC,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EB9CD,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EB9D4,extended,0098967F
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,004EB9D8,extended,000000FF
+
+[Max Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou
+// Max Musou
+patch=1,EE,004EB9D9,extended,000000FF
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,004EB9DA,extended,000000C8
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,004EB9DB,extended,000000C8
+
+[Max Ranged Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Atk
+// Max Ranged Atk
+patch=1,EE,004EB9DC,extended,000000C8
+
+[Max Ranged Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ranged Def
+// Max Ranged Def
+patch=1,EE,004EB9DD,extended,000000C8
+
+[Max Horse Atk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Atk
+// Max Horse Atk
+patch=1,EE,004EB9DE,extended,000000C8
+
+[Max Horse Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Def
+// Max Horse Def
+patch=1,EE,004EB9DF,extended,000000C8
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,004EB9E0,extended,000000C8
+
+[Max Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jump
+// Max Jump
+patch=1,EE,004EB9E1,extended,000000C8
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,004EB9E2,extended,000000C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB9D8,extended,0000FFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB9DA,extended,0000C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,204EB9DC,extended,C8C8C8C8
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,104EB9E0,extended,0000C8C8
+
+[Have Musket For Projectile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Musket For Projectile
+// Have Musket For Projectile
+patch=1,EE,004EB9E8,extended,00000001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,104EB9EE,extended,00000909
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,404EBA14,extended,00090001
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,09090909,extended,00000000
+
+[Max All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Skills
+// Max All Skills
+patch=1,EE,004EBA14,extended,00000009
+
+[Rank 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rank 100
+// Rank 100
+patch=1,EE,004EBA15,extended,00000063
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,204EBA1C,extended,0098967F

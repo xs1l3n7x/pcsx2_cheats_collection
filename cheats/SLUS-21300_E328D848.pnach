@@ -1,0 +1,889 @@
+gametitle=Over The Hedge [SLUS-21300] [E328D848]
+
+[All Flagman Stages]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Flagman Stages
+// All Flagman Stages
+patch=1,EE,903D22E8,extended,00832021
+
+[P1 Press {L1}+{SELECT} To Enable Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Enable Infinite Health
+// P1 Press {L1}+{SELECT} To Enable Infinite Health
+patch=1,EE,D04DF642,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Enable Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Enable Infinite Health
+// P1 Press {L1}+{SELECT} To Enable Infinite Health
+patch=1,EE,202B276C,extended,C4EC0004
+
+[P1 Press {L2}+{SELECT} To Disable Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Disable Infinite Health
+// P1 Press {L2}+{SELECT} To Disable Infinite Health
+patch=1,EE,D04DF642,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Disable Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Disable Infinite Health
+// P1 Press {L2}+{SELECT} To Disable Infinite Health
+patch=1,EE,202B276C,extended,46000307
+
+[Unlock All Extras]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Extras
+// Unlock All Extras
+patch=1,EE,409B79C0,extended,00860003
+
+[Unlock All Extras]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Extras
+// Unlock All Extras
+patch=1,EE,00000001,extended,00000000
+
+[R.C. Rally-Track 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R.C. Rally-Track 4
+// R.C. Rally-Track 4
+patch=1,EE,209B7628,extended,00000001
+
+[BumperCarts-Arena 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=BumperCarts-Arena 2
+// BumperCarts-Arena 2
+patch=1,EE,209B7658,extended,00000001
+
+[BumperCarts-Arena 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=BumperCarts-Arena 3
+// BumperCarts-Arena 3
+patch=1,EE,209B76A8,extended,00000001
+
+[Range Driver-Course 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Range Driver-Course 1
+// Range Driver-Course 1
+patch=1,EE,209B76B8,extended,00000001
+
+[R.C. Rally-Track 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R.C. Rally-Track 1
+// R.C. Rally-Track 1
+patch=1,EE,209B76C8,extended,00000001
+
+[R.C. Rally-Track 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R.C. Rally-Track 3
+// R.C. Rally-Track 3
+patch=1,EE,209B7708,extended,00000001
+
+[BumperCarts-Arena 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=BumperCarts-Arena 1
+// BumperCarts-Arena 1
+patch=1,EE,209B7748,extended,00000001
+
+[BumperCarts-Arena 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=BumperCarts-Arena 4
+// BumperCarts-Arena 4
+patch=1,EE,209B7788,extended,00000001
+
+[R.C. Rally-Track 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R.C. Rally-Track 2
+// R.C. Rally-Track 2
+patch=1,EE,209B77D8,extended,00000001
+
+[Range Driver-Course 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Range Driver-Course 1
+// Range Driver-Course 1
+patch=1,EE,209B7828,extended,00000001
+
+[Stella Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stella Spin
+// Stella Spin
+patch=1,EE,209B79C0,extended,00000001
+
+[Mole Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mole Spin
+// Mole Spin
+patch=1,EE,209B79CC,extended,00000001
+
+[Protect The Woods!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Protect The Woods!
+// Protect The Woods!
+patch=1,EE,209B79E4,extended,00000001
+
+[RJ Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=RJ Spin
+// RJ Spin
+patch=1,EE,209B79FC,extended,00000001
+
+[Badger Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Badger Spin
+// Badger Spin
+patch=1,EE,209B7A08,extended,00000001
+
+[Vincent's Den]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vincent's Den
+// Vincent's Den
+patch=1,EE,209B7A14,extended,00000001
+
+[Conner Escape Finale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Conner Escape Finale
+// Conner Escape Finale
+patch=1,EE,209B7A20,extended,00000001
+
+[Exterminator Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exterminator Spin
+// Exterminator Spin
+patch=1,EE,209B7A2C,extended,00000001
+
+[Gladys Heist, Pt. 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gladys Heist, Pt. 1
+// Gladys Heist, Pt. 1
+patch=1,EE,209B7A44,extended,00000001
+
+[Heather Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Heather Spin
+// Heather Spin
+patch=1,EE,209B7A5C,extended,00000001
+
+[The Woods]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Woods
+// The Woods
+patch=1,EE,209B7A68,extended,00000001
+
+[Vincent's Den Storyboard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vincent's Den Storyboard
+// Vincent's Den Storyboard
+patch=1,EE,209B7A74,extended,00000001
+
+[Tin Toys Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tin Toys Spin
+// Tin Toys Spin
+patch=1,EE,209B7A8C,extended,00000001
+
+[Escape! Storyboard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Escape! Storyboard
+// Escape! Storyboard
+patch=1,EE,209B7AA4,extended,00000001
+
+[The Depelter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Depelter
+// The Depelter
+patch=1,EE,209B7AB0,extended,00000001
+
+[Martin Heist, Pt. 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Martin Heist, Pt. 1
+// Martin Heist, Pt. 1
+patch=1,EE,209B7AE0,extended,00000001
+
+[Cave Interiors]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cave Interiors
+// Cave Interiors
+patch=1,EE,209B7AF8,extended,00000001
+
+[Martin Escape Finale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Martin Escape Finale
+// Martin Escape Finale
+patch=1,EE,209B7B04,extended,00000001
+
+[Caught In The Hedge!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Caught In The Hedge!
+// Caught In The Hedge!
+patch=1,EE,209B7B1C,extended,00000001
+
+[Maintenance Room Finale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Maintenance Room Finale
+// Maintenance Room Finale
+patch=1,EE,209B7B34,extended,00000001
+
+[Smith Escape Finale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Smith Escape Finale
+// Smith Escape Finale
+patch=1,EE,209B7B40,extended,00000001
+
+[Martin House]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Martin House
+// Martin House
+patch=1,EE,209B7B64,extended,00000001
+
+[Maintenance Room]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Maintenance Room
+// Maintenance Room
+patch=1,EE,209B7B70,extended,00000001
+
+[Gladys' Back Yard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gladys' Back Yard
+// Gladys' Back Yard
+patch=1,EE,209B7B7C,extended,00000001
+
+[Caught! Finale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Caught! Finale
+// Caught! Finale
+patch=1,EE,209B7BA0,extended,00000001
+
+[Martin Escape]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Martin Escape
+// Martin Escape
+patch=1,EE,209B7BAC,extended,00000001
+
+[Archer Trap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Archer Trap
+// Archer Trap
+patch=1,EE,209B7BB8,extended,00000001
+
+[Caught! Storyboard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Caught! Storyboard
+// Caught! Storyboard
+patch=1,EE,209B7BC4,extended,00000001
+
+[Vincent Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vincent Spin
+// Vincent Spin
+patch=1,EE,209B7BDC,extended,00000001
+
+[Tiger Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiger Spin
+// Tiger Spin
+patch=1,EE,209B7BE8,extended,00000001
+
+[Vincent's Den Storyboard 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vincent's Den Storyboard 2
+// Vincent's Den Storyboard 2
+patch=1,EE,209B7C00,extended,00000001
+
+[The Dog Chase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dog Chase
+// The Dog Chase
+patch=1,EE,209B7C0C,extended,00000001
+
+[Depelter Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Depelter Spin
+// Depelter Spin
+patch=1,EE,209B7C30,extended,00000001
+
+[Conner Escape]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Conner Escape
+// Conner Escape
+patch=1,EE,209B7C3C,extended,00000001
+
+[Below Vincent's Den]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Below Vincent's Den
+// Below Vincent's Den
+patch=1,EE,209B7C48,extended,00000001
+
+[Armadillo Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armadillo Spin
+// Armadillo Spin
+patch=1,EE,209B7C54,extended,00000001
+
+[Hammy Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hammy Spin
+// Hammy Spin
+patch=1,EE,209B7C6C,extended,00000001
+
+[Roller Coaster Escape]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Roller Coaster Escape
+// Roller Coaster Escape
+patch=1,EE,209B7C78,extended,00000001
+
+[Smith Girl Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Smith Girl Spin
+// Smith Girl Spin
+patch=1,EE,209B7C90,extended,00000001
+
+[Ratso Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ratso Spin
+// Ratso Spin
+patch=1,EE,209B7C9C,extended,00000001
+
+[Rescue Heather!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rescue Heather!
+// Rescue Heather!
+patch=1,EE,209B7CB4,extended,00000001
+
+[Gladys Escape]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gladys Escape
+// Gladys Escape
+patch=1,EE,209B7CC0,extended,00000001
+
+[Lou Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lou Spin
+// Lou Spin
+patch=1,EE,209B7CD8,extended,00000001
+
+[Chihuahuas Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chihuahuas Spin
+// Chihuahuas Spin
+patch=1,EE,209B7CFC,extended,00000001
+
+[Vincent's Den Finale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vincent's Den Finale
+// Vincent's Den Finale
+patch=1,EE,209B7D08,extended,00000001
+
+[Mini-Golf Course]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mini-Golf Course
+// Mini-Golf Course
+patch=1,EE,209B7D14,extended,00000001
+
+[Gladys Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gladys Spin
+// Gladys Spin
+patch=1,EE,209B7D2C,extended,00000001
+
+[Ozzie Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ozzie Spin
+// Ozzie Spin
+patch=1,EE,209B7D50,extended,00000001
+
+[Protect The Woods! Finale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Protect The Woods! Finale
+// Protect The Woods! Finale
+patch=1,EE,209B7D5C,extended,00000001
+
+[Rottweiler Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rottweiler Spin
+// Rottweiler Spin
+patch=1,EE,209B7D68,extended,00000001
+
+[Steam Train Intro]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Steam Train Intro
+// Steam Train Intro
+patch=1,EE,209B7D8C,extended,00000001
+
+[Projector Heist]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Projector Heist
+// Projector Heist
+patch=1,EE,209B7DA4,extended,00000001
+
+[Escape! Intro]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Escape! Intro
+// Escape! Intro
+patch=1,EE,209B7DBC,extended,00000001
+
+[Birthday Party Intro]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Birthday Party Intro
+// Birthday Party Intro
+patch=1,EE,209B7DD4,extended,00000001
+
+[RJ And Verne]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=RJ And Verne
+// RJ And Verne
+patch=1,EE,209B7DE0,extended,00000001
+
+[The Vermtech Van]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Vermtech Van
+// The Vermtech Van
+patch=1,EE,209B7E28,extended,00000001
+
+[VermTech 2000 Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=VermTech 2000 Spin
+// VermTech 2000 Spin
+patch=1,EE,209B7E34,extended,00000001
+
+[Gladys' House]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gladys' House
+// Gladys' House
+patch=1,EE,209B7E58,extended,00000001
+
+[Martin Escape Storyboard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Martin Escape Storyboard
+// Martin Escape Storyboard
+patch=1,EE,209B7E64,extended,00000001
+
+[Martin House Storyboard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Martin House Storyboard
+// Martin House Storyboard
+patch=1,EE,209B7E94,extended,00000001
+
+[The Storage Log]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Storage Log
+// The Storage Log
+patch=1,EE,209B7EA0,extended,00000001
+
+[Verne Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Verne Spin
+// Verne Spin
+patch=1,EE,209B7EC4,extended,00000001
+
+[Verne]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Verne
+// Verne
+patch=1,EE,209B7ED0,extended,00000001
+
+[Smith Escape]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Smith Escape
+// Smith Escape
+patch=1,EE,209B7EE8,extended,00000001
+
+[Shooting Gallery Intro]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shooting Gallery Intro
+// Shooting Gallery Intro
+patch=1,EE,209B7F30,extended,00000001
+
+[Smith Boy Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Smith Boy Spin
+// Smith Boy Spin
+patch=1,EE,209B7F6C,extended,00000001
+
+[Vermtech Heist]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vermtech Heist
+// Vermtech Heist
+patch=1,EE,209B7F78,extended,00000001
+
+[Rabbit Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rabbit Spin
+// Rabbit Spin
+patch=1,EE,209B7F84,extended,00000001
+
+[Gopher Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gopher Spin
+// Gopher Spin
+patch=1,EE,209B7FCC,extended,00000001
+
+[Roller Coaster Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Roller Coaster Tracks
+// Roller Coaster Tracks
+patch=1,EE,209B7FE4,extended,00000001
+
+[Conner Heist, Pt. 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Conner Heist, Pt. 1
+// Conner Heist, Pt. 1
+patch=1,EE,209B7FF0,extended,00000001
+
+[Chipmunk Spin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chipmunk Spin
+// Chipmunk Spin
+patch=1,EE,209B7FFC,extended,00000001
+
+[Trash Turret]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trash Turret
+// Trash Turret
+patch=1,EE,209B79D8,extended,00000001
+
+[Roller Coaster]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Roller Coaster
+// Roller Coaster
+patch=1,EE,209B79F0,extended,00000001
+
+[Group Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Group Shot
+// Group Shot
+patch=1,EE,209B7A80,extended,00000001
+
+[Verne In The Yard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Verne In The Yard
+// Verne In The Yard
+patch=1,EE,209B7A98,extended,00000001
+
+[Verne]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Verne
+// Verne
+patch=1,EE,209B7ABC,extended,00000001
+
+[RJ Observes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=RJ Observes
+// RJ Observes
+patch=1,EE,209B7B10,extended,00000001
+
+[Hammy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hammy
+// Hammy
+patch=1,EE,209B7B28,extended,00000001
+
+[Porcupine Family]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Porcupine Family
+// Porcupine Family
+patch=1,EE,209B7B88,extended,00000001
+
+[Heist]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Heist
+// Heist
+patch=1,EE,209B7B94,extended,00000001
+
+[Ozzie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ozzie
+// Ozzie
+patch=1,EE,209B7BD0,extended,00000001
+
+[Entrance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Entrance
+// Entrance
+patch=1,EE,209B7BF4,extended,00000001
+
+[Nugent And Verne]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nugent And Verne
+// Nugent And Verne
+patch=1,EE,209B7C24,extended,00000001
+
+[Ringmaster]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ringmaster
+// Ringmaster
+patch=1,EE,209B7CA8,extended,00000001
+
+[Tiki Hot Tub]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiki Hot Tub
+// Tiki Hot Tub
+patch=1,EE,209B7CCC,extended,00000001
+
+[Verne]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Verne
+// Verne
+patch=1,EE,209B7D20,extended,00000001
+
+[Weapon Stand]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weapon Stand
+// Weapon Stand
+patch=1,EE,209B7D44,extended,00000001
+
+[Mole]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mole
+// Mole
+patch=1,EE,209B7D74,extended,00000001
+
+[Weasel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weasel
+// Weasel
+patch=1,EE,209B7D80,extended,00000001
+
+[Gladys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gladys
+// Gladys
+patch=1,EE,209B7D98,extended,00000001
+
+[Barry Kitchet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Barry Kitchet
+// Barry Kitchet
+patch=1,EE,209B7DC8,extended,00000001
+
+[Mad Cow Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mad Cow Car
+// Mad Cow Car
+patch=1,EE,209B7E04,extended,00000001
+
+[Hammy 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hammy 2
+// Hammy 2
+patch=1,EE,209B7E1C,extended,00000001
+
+[Vincent]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vincent
+// Vincent
+patch=1,EE,209B7E40,extended,00000001
+
+[Meeting Steve]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Meeting Steve
+// Meeting Steve
+patch=1,EE,209B7E4C,extended,00000001
+
+[Minigolf Detail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Minigolf Detail
+// Minigolf Detail
+patch=1,EE,209B7E7C,extended,00000001
+
+[Suburbia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Suburbia
+// Suburbia
+patch=1,EE,209B7EAC,extended,00000001
+
+[RJ]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=RJ
+// RJ
+patch=1,EE,209B7EB8,extended,00000001
+
+[Verne And RJ]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Verne And RJ
+// Verne And RJ
+patch=1,EE,209B7EDC,extended,00000001
+
+[Cave Exterior]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cave Exterior
+// Cave Exterior
+patch=1,EE,209B7F00,extended,00000001
+
+[Hammy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hammy
+// Hammy
+patch=1,EE,209B7F0C,extended,00000001
+
+[RJ And Vincent]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=RJ And Vincent
+// RJ And Vincent
+patch=1,EE,209B7F48,extended,00000001
+
+[Rat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rat
+// Rat
+patch=1,EE,209B7F60,extended,00000001
+
+[Vacuum Enemy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vacuum Enemy
+// Vacuum Enemy
+patch=1,EE,209B7F90,extended,00000001
+
+[Windup Lizard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Windup Lizard
+// Windup Lizard
+patch=1,EE,209B7F9C,extended,00000001
+
+[The Woods]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Woods
+// The Woods
+patch=1,EE,209B7A38,extended,00000001
+
+[Laser Grid]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Laser Grid
+// Laser Grid
+patch=1,EE,209B7A50,extended,00000001
+
+[Escape The Hedge!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Escape The Hedge!
+// Escape The Hedge!
+patch=1,EE,209B7C60,extended,00000001
+
+[Race Tracke 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Tracke 3
+// Race Tracke 3
+patch=1,EE,209B7C84,extended,00000001
+
+[Wild Wild Life (Instrumental)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wild Wild Life (Instrumental)
+// Wild Wild Life (Instrumental)
+patch=1,EE,209B7CE4,extended,00000001
+
+[The Roller Coaster]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Roller Coaster
+// The Roller Coaster
+patch=1,EE,209B7CF0,extended,00000001
+
+[Mountain Climbing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mountain Climbing
+// Mountain Climbing
+patch=1,EE,209B7D38,extended,00000001
+
+[Rescue Heather!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rescue Heather!
+// Rescue Heather!
+patch=1,EE,209B7FB4,extended,00000001
+
+[Rockin' The Suburbs (Instrumental)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rockin' The Suburbs (Instrumental)
+// Rockin' The Suburbs (Instrumental)
+patch=1,EE,209B7FC0,extended,00000001
+
+[Chip-Man (Conner Heist)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chip-Man (Conner Heist)
+// Chip-Man (Conner Heist)
+patch=1,EE,209B7FD8,extended,00000001
+
+[Original Comic 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Original Comic 13
+// Original Comic 13
+patch=1,EE,209B7AC8,extended,00000001
+
+[Original Comic 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Original Comic 7
+// Original Comic 7
+patch=1,EE,209B7AD4,extended,00000001
+
+[Original Comic 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Original Comic 3
+// Original Comic 3
+patch=1,EE,209B7AEC,extended,00000001
+
+[Original Comic 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Original Comic 4
+// Original Comic 4
+patch=1,EE,209B7B4C,extended,00000001
+
+[Original Comic 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Original Comic 8
+// Original Comic 8
+patch=1,EE,209B7B58,extended,00000001
+
+[Original Comic 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Original Comic 14
+// Original Comic 14
+patch=1,EE,209B7C18,extended,00000001
+
+[Original Comic 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Original Comic 10
+// Original Comic 10
+patch=1,EE,209B7DB0,extended,00000001
+
+[Original Comic 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Original Comic 6
+// Original Comic 6
+patch=1,EE,209B7DEC,extended,00000001
+
+[Original Comic 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Original Comic 2
+// Original Comic 2
+patch=1,EE,209B7DF8,extended,00000001
+
+[Original Comic 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Original Comic 12
+// Original Comic 12
+patch=1,EE,209B7E10,extended,00000001
+
+[Original Comic 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Original Comic 11
+// Original Comic 11
+patch=1,EE,209B7E70,extended,00000001
+
+[Original Comic 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Original Comic 15
+// Original Comic 15
+patch=1,EE,209B7E88,extended,00000001
+
+[Original Comic 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Original Comic 9
+// Original Comic 9
+patch=1,EE,209B7F24,extended,00000001
+
+[Original Comic 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Original Comic 1
+// Original Comic 1
+patch=1,EE,209B7F3C,extended,00000001
+
+[Original Comic 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Original Comic 5
+// Original Comic 5
+patch=1,EE,209B7F54,extended,00000001

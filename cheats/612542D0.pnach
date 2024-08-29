@@ -1,0 +1,7 @@
+gametitle=Suikoden III [UNKNOWN] [612542D0]
+
+[60 FPS]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=60 FPS
+// 60 FPS
+patch=1,EE,202E495C,extended,28420001

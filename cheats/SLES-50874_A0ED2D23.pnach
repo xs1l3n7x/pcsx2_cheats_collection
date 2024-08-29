@@ -1,0 +1,553 @@
+gametitle=F1 2002 [SLES-50874] [A0ED2D23]
+
+[Have Track Challenge Complete]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Track Challenge Complete
+// Have Track Challenge Complete
+patch=1,EE,903269BC,extended,0C041535
+
+[Start Driving Before Race Starts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start Driving Before Race Starts
+// Start Driving Before Race Starts
+patch=1,EE,104A15B0,extended,00000001
+
+[Start Driving Before Race Starts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start Driving Before Race Starts
+// Start Driving Before Race Starts
+patch=1,EE,104CA430,extended,00000001
+
+[Have All Tracks (Quick Race)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tracks (Quick Race)
+// Have All Tracks (Quick Race)
+patch=1,EE,203BA154,extended,000000FF
+
+[Ferrari]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ferrari
+// Ferrari
+patch=1,EE,203BB4DC,extended,00000002
+
+[McLaren]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=McLaren
+// McLaren
+patch=1,EE,203BB4E0,extended,00000002
+
+[Williams]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Williams
+// Williams
+patch=1,EE,203BB4E4,extended,00000002
+
+[Sauber]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sauber
+// Sauber
+patch=1,EE,203BB4E8,extended,00000002
+
+[Jordan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jordan
+// Jordan
+patch=1,EE,203BB4EC,extended,00000002
+
+[BAR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=BAR
+// BAR
+patch=1,EE,203BB4F0,extended,00000002
+
+[Jaguar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jaguar
+// Jaguar
+patch=1,EE,203BB4F4,extended,00000002
+
+[Renault]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Renault
+// Renault
+patch=1,EE,203BB4F8,extended,00000002
+
+[Arrows]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arrows
+// Arrows
+patch=1,EE,203BB4FC,extended,00000002
+
+[Minardi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Minardi
+// Minardi
+patch=1,EE,203BB500,extended,00000002
+
+[Toyota]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Toyota
+// Toyota
+patch=1,EE,203BB504,extended,00000002
+
+[Ferrari]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ferrari
+// Ferrari
+patch=1,EE,203BB510,extended,00000002
+
+[McLaren]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=McLaren
+// McLaren
+patch=1,EE,203BB514,extended,00000002
+
+[Williams]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Williams
+// Williams
+patch=1,EE,203BB518,extended,00000002
+
+[Sauber]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sauber
+// Sauber
+patch=1,EE,203BB51C,extended,00000002
+
+[Jordan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jordan
+// Jordan
+patch=1,EE,203BB520,extended,00000002
+
+[BAR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=BAR
+// BAR
+patch=1,EE,203BB524,extended,00000002
+
+[Jaguar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jaguar
+// Jaguar
+patch=1,EE,203BB528,extended,00000002
+
+[Renault]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Renault
+// Renault
+patch=1,EE,203BB52C,extended,00000002
+
+[Arrows]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arrows
+// Arrows
+patch=1,EE,203BB530,extended,00000002
+
+[Minardi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Minardi
+// Minardi
+patch=1,EE,203BB534,extended,00000002
+
+[Toyota]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Toyota
+// Toyota
+patch=1,EE,203BB538,extended,00000002
+
+[Duration]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Duration
+// Duration
+patch=1,EE,203BB634,extended,00000001
+
+[Racing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Racing
+// Racing
+patch=1,EE,203BB638,extended,00000001
+
+[Milestone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Milestone
+// Milestone
+patch=1,EE,203BB63C,extended,00000001
+
+[Team Dual]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team Dual
+// Team Dual
+patch=1,EE,203BB640,extended,00000001
+
+[Basic Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Basic Challenge
+// Basic Challenge
+patch=1,EE,203BB644,extended,00000001
+
+[Advanced Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Advanced Challenge
+// Advanced Challenge
+patch=1,EE,203BB648,extended,00000001
+
+[Duration]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Duration
+// Duration
+patch=1,EE,203BB664,extended,00000001
+
+[Racing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Racing
+// Racing
+patch=1,EE,203BB668,extended,00000001
+
+[Milestone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Milestone
+// Milestone
+patch=1,EE,203BB66C,extended,00000001
+
+[Team Dual]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team Dual
+// Team Dual
+patch=1,EE,203BB670,extended,00000001
+
+[Basic Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Basic Challenge
+// Basic Challenge
+patch=1,EE,203BB674,extended,00000001
+
+[Advanced Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Advanced Challenge
+// Advanced Challenge
+patch=1,EE,203BB678,extended,00000001
+
+[Duration]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Duration
+// Duration
+patch=1,EE,203BB67C,extended,00000001
+
+[Racing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Racing
+// Racing
+patch=1,EE,203BB680,extended,00000001
+
+[Milestone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Milestone
+// Milestone
+patch=1,EE,203BB684,extended,00000001
+
+[Team Dual]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team Dual
+// Team Dual
+patch=1,EE,203BB688,extended,00000001
+
+[Basic Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Basic Challenge
+// Basic Challenge
+patch=1,EE,203BB68C,extended,00000001
+
+[Advanced Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Advanced Challenge
+// Advanced Challenge
+patch=1,EE,203BB690,extended,00000001
+
+[Duration]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Duration
+// Duration
+patch=1,EE,203BB694,extended,00000001
+
+[Racing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Racing
+// Racing
+patch=1,EE,203BB698,extended,00000001
+
+[Milestone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Milestone
+// Milestone
+patch=1,EE,203BB69C,extended,00000001
+
+[Team Dual]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team Dual
+// Team Dual
+patch=1,EE,203BB6A0,extended,00000001
+
+[Basic Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Basic Challenge
+// Basic Challenge
+patch=1,EE,203BB6A4,extended,00000001
+
+[Advanced Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Advanced Challenge
+// Advanced Challenge
+patch=1,EE,203BB6A8,extended,00000001
+
+[Duration]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Duration
+// Duration
+patch=1,EE,203BB6AC,extended,00000001
+
+[Racing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Racing
+// Racing
+patch=1,EE,203BB6B0,extended,00000001
+
+[Milestone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Milestone
+// Milestone
+patch=1,EE,203BB6B4,extended,00000001
+
+[Team Dual]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team Dual
+// Team Dual
+patch=1,EE,203BB6B8,extended,00000001
+
+[Basic Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Basic Challenge
+// Basic Challenge
+patch=1,EE,203BB6BC,extended,00000001
+
+[Advanced Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Advanced Challenge
+// Advanced Challenge
+patch=1,EE,203BB6C0,extended,00000001
+
+[Duration]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Duration
+// Duration
+patch=1,EE,203BB6C4,extended,00000001
+
+[Racing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Racing
+// Racing
+patch=1,EE,203BB6C8,extended,00000001
+
+[Milestone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Milestone
+// Milestone
+patch=1,EE,203BB6CC,extended,00000001
+
+[Team Dual]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team Dual
+// Team Dual
+patch=1,EE,203BB6D0,extended,00000001
+
+[Basic Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Basic Challenge
+// Basic Challenge
+patch=1,EE,203BB6D4,extended,00000001
+
+[Advanced Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Advanced Challenge
+// Advanced Challenge
+patch=1,EE,203BB6D8,extended,00000001
+
+[Duration]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Duration
+// Duration
+patch=1,EE,203BB6DC,extended,00000001
+
+[Racing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Racing
+// Racing
+patch=1,EE,203BB6E0,extended,00000001
+
+[Milestone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Milestone
+// Milestone
+patch=1,EE,203BB6E4,extended,00000001
+
+[Team Dual]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team Dual
+// Team Dual
+patch=1,EE,203BB6E8,extended,00000001
+
+[Basic Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Basic Challenge
+// Basic Challenge
+patch=1,EE,203BB6EC,extended,00000001
+
+[Advanced Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Advanced Challenge
+// Advanced Challenge
+patch=1,EE,203BB6F0,extended,00000001
+
+[Duration]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Duration
+// Duration
+patch=1,EE,203BB6F4,extended,00000001
+
+[Racing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Racing
+// Racing
+patch=1,EE,203BB6F8,extended,00000001
+
+[Milestone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Milestone
+// Milestone
+patch=1,EE,203BB6FC,extended,00000001
+
+[Team Dual]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team Dual
+// Team Dual
+patch=1,EE,203BB700,extended,00000001
+
+[Basic Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Basic Challenge
+// Basic Challenge
+patch=1,EE,203BB704,extended,00000001
+
+[Advanced Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Advanced Challenge
+// Advanced Challenge
+patch=1,EE,203BB708,extended,00000001
+
+[Duration]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Duration
+// Duration
+patch=1,EE,203BB70C,extended,00000001
+
+[Racing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Racing
+// Racing
+patch=1,EE,203BB710,extended,00000001
+
+[Milestone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Milestone
+// Milestone
+patch=1,EE,203BB714,extended,00000001
+
+[Team Dual]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team Dual
+// Team Dual
+patch=1,EE,203BB718,extended,00000001
+
+[Basic Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Basic Challenge
+// Basic Challenge
+patch=1,EE,203BB71C,extended,00000001
+
+[Advanced Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Advanced Challenge
+// Advanced Challenge
+patch=1,EE,203BB720,extended,00000001
+
+[Duration]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Duration
+// Duration
+patch=1,EE,203BB724,extended,00000001
+
+[Racing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Racing
+// Racing
+patch=1,EE,203BB728,extended,00000001
+
+[Milestone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Milestone
+// Milestone
+patch=1,EE,203BB72C,extended,00000001
+
+[Team Dual]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team Dual
+// Team Dual
+patch=1,EE,203BB730,extended,00000001
+
+[Basic Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Basic Challenge
+// Basic Challenge
+patch=1,EE,203BB734,extended,00000001
+
+[Advanced Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Advanced Challenge
+// Advanced Challenge
+patch=1,EE,203BB738,extended,00000001
+
+[Duration]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Duration
+// Duration
+patch=1,EE,203BB73C,extended,00000001
+
+[Racing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Racing
+// Racing
+patch=1,EE,203BB740,extended,00000001
+
+[Milestone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Milestone
+// Milestone
+patch=1,EE,203BB744,extended,00000001
+
+[Team Dual]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team Dual
+// Team Dual
+patch=1,EE,203BB748,extended,00000001
+
+[Basic Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Basic Challenge
+// Basic Challenge
+patch=1,EE,203BB74C,extended,00000001
+
+[Advanced Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Advanced Challenge
+// Advanced Challenge
+patch=1,EE,203BB750,extended,00000001

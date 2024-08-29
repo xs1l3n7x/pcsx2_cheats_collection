@@ -1,0 +1,247 @@
+gametitle=24 [UNKNOWN] [F321BC38]
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,20AF2188,extended,000003E7
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,10AF2184,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level 99
+// Level 99
+patch=1,EE,20AF2178,extended,000003E7
+
+[Max all resist]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max all resist
+// Max all resist
+patch=1,EE,40AF2190,extended,000B0002
+
+[Max all resist]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max all resist
+// Max all resist
+patch=1,EE,00000003,extended,00000000
+
+[Max atk]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max atk
+// Max atk
+patch=1,EE,20AF220C,extended,000003E7
+
+[Max con]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max con
+// Max con
+patch=1,EE,20AF21FC,extended,000003E7
+
+[Max con]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max con
+// Max con
+patch=1,EE,20AF2200,extended,000003E7
+
+[Max def]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max def
+// Max def
+patch=1,EE,20AF2210,extended,000003E7
+
+[Max gold]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max gold
+// Max gold
+patch=1,EE,20AFA6B4,extended,05F5E0FF
+
+[Infinite health (devil 1) fay]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health (devil 1) fay
+// Infinite health (devil 1) fay
+patch=1,EE,20AF23C0,extended,000003E7
+
+[Infinite health (devil 1) fay]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health (devil 1) fay
+// Infinite health (devil 1) fay
+patch=1,EE,10AF23BC,extended,000003E7
+
+[Infinite health (devil 2) magmar]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health (devil 2) magmar
+// Infinite health (devil 2) magmar
+patch=1,EE,20AF25F8,extended,000003E7
+
+[Infinite health (devil 2) magmar]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health (devil 2) magmar
+// Infinite health (devil 2) magmar
+patch=1,EE,10AF25F4,extended,000003E7
+
+[Max luck]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max luck
+// Max luck
+patch=1,EE,20AF2204,extended,000003E7
+
+[Max luck]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max luck
+// Max luck
+patch=1,EE,20AF2208,extended,000003E7
+
+[Max strn]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max strn
+// Max strn
+patch=1,EE,20AF21F4,extended,000003E7
+
+[Max strn]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max strn
+// Max strn
+patch=1,EE,20AF21F8,extended,000003E7
+
+[All weapons]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All weapons
+// All weapons
+patch=1,EE,40AEF800,extended,004F0001
+
+[All weapons]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All weapons
+// All weapons
+patch=1,EE,00630001,extended,00000001
+
+[All heads]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All heads
+// All heads
+patch=1,EE,40AEF9E4,extended,00140001
+
+[All heads]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All heads
+// All heads
+patch=1,EE,0063007A,extended,00000001
+
+[All bodies]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All bodies
+// All bodies
+patch=1,EE,40AEF95C,extended,00170001
+
+[All bodies]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All bodies
+// All bodies
+patch=1,EE,00630058,extended,00000001
+
+[All accessories]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All accessories
+// All accessories
+patch=1,EE,40AEFA58,extended,00110001
+
+[All accessories]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All accessories
+// All accessories
+patch=1,EE,00630097,extended,00000001
+
+[All usables]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All usables
+// All usables
+patch=1,EE,40AEFAC4,extended,001B0001
+
+[All usables]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All usables
+// All usables
+patch=1,EE,006300B2,extended,00000001
+
+[All rares]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All rares
+// All rares
+patch=1,EE,40AEFC84,extended,00190001
+
+[All rares]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All rares
+// All rares
+patch=1,EE,0063013E,extended,00000001
+
+[All tips]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All tips
+// All tips
+patch=1,EE,20AE5624,extended,FFFFFFFF
+
+[All skills]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All skills
+// All skills
+patch=1,EE,40AEFC30,extended,000D0001
+
+[All skills]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All skills
+// All skills
+patch=1,EE,0001010D,extended,00000001
+
+[Infinite health (devil 3) crow]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health (devil 3) crow
+// Infinite health (devil 3) crow
+patch=1,EE,20AF2830,extended,000003E7
+
+[Infinite health (devil 3) crow]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health (devil 3) crow
+// Infinite health (devil 3) crow
+patch=1,EE,10AF282C,extended,000003E7
+
+[Infinite health (devil 4) wood rod]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health (devil 4) wood rod
+// Infinite health (devil 4) wood rod
+patch=1,EE,20AF2A68,extended,000003E7
+
+[Infinite health (devil 4) wood rod]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health (devil 4) wood rod
+// Infinite health (devil 4) wood rod
+patch=1,EE,10AF2A64,extended,000003E7
+
+[Infinite health (devil 5) gale]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health (devil 5) gale
+// Infinite health (devil 5) gale
+patch=1,EE,20AF2CA0,extended,000003E7
+
+[Infinite health (devil 5) gale]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health (devil 5) gale
+// Infinite health (devil 5) gale
+patch=1,EE,10AF2C9C,extended,000003E7
+
+[All materials (for real)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All materials (for real)
+// All materials (for real)
+patch=1,EE,40AEFB70,extended,00280001
+
+[All materials (for real)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All materials (for real)
+// All materials (for real)
+patch=1,EE,006300DD,extended,00000001

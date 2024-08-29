@@ -1,0 +1,703 @@
+gametitle=Incredibles, The [SLES-52812] [EBDB6E4B]
+
+[All Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Moves
+// All Moves
+patch=1,EE,90111620,extended,0C047328
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,202424AC,extended,24030064
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,202424B0,extended,A443001C
+
+[Infinite Incredi-Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Incredi-Meter
+// Infinite Incredi-Meter
+patch=1,EE,2024103C,extended,24020064
+
+[Infinite Incredi-Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Incredi-Meter
+// Infinite Incredi-Meter
+patch=1,EE,20241040,extended,A4820798
+
+[Invincibility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincibility
+// Invincibility
+patch=1,EE,206482E0,extended,00000001
+
+[Disable HUD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable HUD
+// Disable HUD
+patch=1,EE,2062FC90,extended,00000000
+
+[Very Tiny Head Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Very Tiny Head Mode
+// Very Tiny Head Mode
+patch=1,EE,206301A4,extended,3F000000
+
+[Tiny Head Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiny Head Mode
+// Tiny Head Mode
+patch=1,EE,206301A4,extended,3F400000
+
+[Big Head Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Head Mode
+// Big Head Mode
+patch=1,EE,206301A4,extended,40000000
+
+[Huge Head Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Head Mode
+// Huge Head Mode
+patch=1,EE,206301A4,extended,40800000
+
+[Always Disco Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Disco Mode
+// Always Disco Mode
+patch=1,EE,706315F1,extended,00000001
+
+[Always Have Fire Trail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Have Fire Trail
+// Always Have Fire Trail
+patch=1,EE,706315F1,extended,00000002
+
+[Slow Motion Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slow Motion Mode
+// Slow Motion Mode
+patch=1,EE,206482D8,extended,3F000000
+
+[Hyper Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hyper Mode
+// Hyper Mode
+patch=1,EE,206482D8,extended,40000000
+
+[Ultra Hyper Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultra Hyper Mode
+// Ultra Hyper Mode
+patch=1,EE,206482D8,extended,40800000
+
+[Jumper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jumper
+// Jumper
+patch=1,EE,006CFE68,extended,00000001
+
+[Incrediboy!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Incrediboy!
+// Incrediboy!
+patch=1,EE,006CFE69,extended,00000001
+
+[Switch Targets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Switch Targets
+// Switch Targets
+patch=1,EE,006CFE6A,extended,00000001
+
+[Omnidroid 08]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Omnidroid 08
+// Omnidroid 08
+patch=1,EE,006CFE6B,extended,00000001
+
+[Surprising]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Surprising
+// Surprising
+patch=1,EE,006CFE6C,extended,00000001
+
+[Duty Calls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Duty Calls
+// Duty Calls
+patch=1,EE,006CFE6D,extended,00000001
+
+[Omnidroid 09]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Omnidroid 09
+// Omnidroid 09
+patch=1,EE,006CFE6E,extended,00000001
+
+[Snug]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snug
+// Snug
+patch=1,EE,006CFE6F,extended,00000001
+
+[Island Approach]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Island Approach
+// Island Approach
+patch=1,EE,006CFE70,extended,00000001
+
+[Put These On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Put These On
+// Put These On
+patch=1,EE,006CFE71,extended,00000001
+
+[Minions At Work]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Minions At Work
+// Minions At Work
+patch=1,EE,006CFE72,extended,00000001
+
+[Identification Please]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Identification Please
+// Identification Please
+patch=1,EE,006CFE73,extended,00000001
+
+[Dash On The Run]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dash On The Run
+// Dash On The Run
+patch=1,EE,006CFE74,extended,00000001
+
+[Begin The Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Begin The Attack
+// Begin The Attack
+patch=1,EE,006CFE75,extended,00000001
+
+[Incredi-Ball]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Incredi-Ball
+// Incredi-Ball
+patch=1,EE,006CFE76,extended,00000001
+
+[Reunited!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reunited!
+// Reunited!
+patch=1,EE,006CFE77,extended,00000001
+
+[Supers Return]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Supers Return
+// Supers Return
+patch=1,EE,006CFE78,extended,00000001
+
+[Robot Manners]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Robot Manners
+// Robot Manners
+patch=1,EE,006CFE79,extended,00000001
+
+[Say Please]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Say Please
+// Say Please
+patch=1,EE,006CFE7A,extended,00000001
+
+[Just Like Old Times]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Just Like Old Times
+// Just Like Old Times
+patch=1,EE,006CFE7B,extended,00000001
+
+[Victory]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Victory
+// Victory
+patch=1,EE,006CFE7C,extended,00000001
+
+[Welcome Back]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Welcome Back
+// Welcome Back
+patch=1,EE,006CFE7D,extended,00000001
+
+[Great]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Great
+// Great
+patch=1,EE,006CFE7E,extended,00000001
+
+[Are We There Yet?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Are We There Yet?
+// Are We There Yet?
+patch=1,EE,006CFE7F,extended,00000001
+
+[Super Moonlighting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Moonlighting
+// Super Moonlighting
+patch=1,EE,006CFE82,extended,00000001
+
+[First Assignment]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=First Assignment
+// First Assignment
+patch=1,EE,006CFE87,extended,00000001
+
+[All Video]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Video
+// All Video
+patch=1,EE,406CFE68,extended,00060001
+
+[All Video]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Video
+// All Video
+patch=1,EE,01010101,extended,00000000
+
+[All Video]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Video
+// All Video
+patch=1,EE,006CFE82,extended,00000001
+
+[All Video]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Video
+// All Video
+patch=1,EE,006CFE87,extended,00000001
+
+[Artwork 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 2
+// Artwork 2
+patch=1,EE,006CFE90,extended,00000001
+
+[Artwork 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 3
+// Artwork 3
+patch=1,EE,006CFE91,extended,00000001
+
+[Artwork 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 4
+// Artwork 4
+patch=1,EE,006CFE92,extended,00000001
+
+[Artwork 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 5
+// Artwork 5
+patch=1,EE,006CFE93,extended,00000001
+
+[Artwork 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 6
+// Artwork 6
+patch=1,EE,006CFE94,extended,00000001
+
+[Artwork 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 7
+// Artwork 7
+patch=1,EE,006CFE95,extended,00000001
+
+[Artwork 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 8
+// Artwork 8
+patch=1,EE,006CFE96,extended,00000001
+
+[Artwork 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 9
+// Artwork 9
+patch=1,EE,006CFE97,extended,00000001
+
+[Artwork 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 10
+// Artwork 10
+patch=1,EE,006CFE98,extended,00000001
+
+[Artwork 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 11
+// Artwork 11
+patch=1,EE,006CFE99,extended,00000001
+
+[Artwork 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 12
+// Artwork 12
+patch=1,EE,006CFE9A,extended,00000001
+
+[Artwork 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 13
+// Artwork 13
+patch=1,EE,006CFE9B,extended,00000001
+
+[Artwork 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 14
+// Artwork 14
+patch=1,EE,006CFE9C,extended,00000001
+
+[Artwork 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 15
+// Artwork 15
+patch=1,EE,006CFE9D,extended,00000001
+
+[Artwork 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 16
+// Artwork 16
+patch=1,EE,006CFE9E,extended,00000001
+
+[Artwork 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 17
+// Artwork 17
+patch=1,EE,006CFE9F,extended,00000001
+
+[Artwork 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 18
+// Artwork 18
+patch=1,EE,006CFEA0,extended,00000001
+
+[Artwork 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 19
+// Artwork 19
+patch=1,EE,006CFEA1,extended,00000001
+
+[Artwork 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 20
+// Artwork 20
+patch=1,EE,006CFEA2,extended,00000001
+
+[Artwork 21]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 21
+// Artwork 21
+patch=1,EE,006CFEA3,extended,00000001
+
+[Artwork 22]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 22
+// Artwork 22
+patch=1,EE,006CFEA4,extended,00000001
+
+[Artwork 23]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 23
+// Artwork 23
+patch=1,EE,006CFEA5,extended,00000001
+
+[Artwork 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 24
+// Artwork 24
+patch=1,EE,006CFEA6,extended,00000001
+
+[Artwork 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 25
+// Artwork 25
+patch=1,EE,006CFEA7,extended,00000001
+
+[Artwork 26]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 26
+// Artwork 26
+patch=1,EE,006CFEA8,extended,00000001
+
+[Artwork 27]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 27
+// Artwork 27
+patch=1,EE,006CFEA9,extended,00000001
+
+[Artwork 28]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 28
+// Artwork 28
+patch=1,EE,006CFEAA,extended,00000001
+
+[Artwork 29]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 29
+// Artwork 29
+patch=1,EE,006CFEAB,extended,00000001
+
+[Artwork 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 30
+// Artwork 30
+patch=1,EE,006CFEAC,extended,00000001
+
+[Artwork 31]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 31
+// Artwork 31
+patch=1,EE,006CFEAD,extended,00000001
+
+[Artwork 32]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 32
+// Artwork 32
+patch=1,EE,006CFEAE,extended,00000001
+
+[Artwork 33]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 33
+// Artwork 33
+patch=1,EE,006CFEAF,extended,00000001
+
+[Artwork 34]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 34
+// Artwork 34
+patch=1,EE,006CFEB0,extended,00000001
+
+[Artwork 35]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 35
+// Artwork 35
+patch=1,EE,006CFEB1,extended,00000001
+
+[Artwork 36]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 36
+// Artwork 36
+patch=1,EE,006CFEB2,extended,00000001
+
+[Artwork 37]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 37
+// Artwork 37
+patch=1,EE,006CFEB3,extended,00000001
+
+[Artwork 38]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 38
+// Artwork 38
+patch=1,EE,006CFEB4,extended,00000001
+
+[Artwork 39]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 39
+// Artwork 39
+patch=1,EE,006CFEB5,extended,00000001
+
+[Artwork 40]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 40
+// Artwork 40
+patch=1,EE,006CFEB6,extended,00000001
+
+[Artwork 41]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 41
+// Artwork 41
+patch=1,EE,006CFEB7,extended,00000001
+
+[Artwork 42]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 42
+// Artwork 42
+patch=1,EE,006CFEB8,extended,00000001
+
+[Artwork 43]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 43
+// Artwork 43
+patch=1,EE,006CFEB9,extended,00000001
+
+[Artwork 44]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 44
+// Artwork 44
+patch=1,EE,006CFEBA,extended,00000001
+
+[Artwork 45]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 45
+// Artwork 45
+patch=1,EE,006CFEBB,extended,00000001
+
+[Artwork 46]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 46
+// Artwork 46
+patch=1,EE,006CFEBC,extended,00000001
+
+[Artwork 47]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 47
+// Artwork 47
+patch=1,EE,006CFEBD,extended,00000001
+
+[Artwork 48]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 48
+// Artwork 48
+patch=1,EE,006CFEBE,extended,00000001
+
+[Artwork 49]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 49
+// Artwork 49
+patch=1,EE,006CFEBF,extended,00000001
+
+[Artwork 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 50
+// Artwork 50
+patch=1,EE,006CFEC0,extended,00000001
+
+[Artwork 51]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 51
+// Artwork 51
+patch=1,EE,006CFEC1,extended,00000001
+
+[Artwork 52]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 52
+// Artwork 52
+patch=1,EE,006CFEC2,extended,00000001
+
+[Artwork 53]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 53
+// Artwork 53
+patch=1,EE,006CFEC3,extended,00000001
+
+[Artwork 54]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 54
+// Artwork 54
+patch=1,EE,006CFEC4,extended,00000001
+
+[Artwork 55]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 55
+// Artwork 55
+patch=1,EE,006CFEC5,extended,00000001
+
+[Artwork 56]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 56
+// Artwork 56
+patch=1,EE,006CFEC6,extended,00000001
+
+[Artwork 57]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 57
+// Artwork 57
+patch=1,EE,006CFEC7,extended,00000001
+
+[Artwork 58]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 58
+// Artwork 58
+patch=1,EE,006CFEC8,extended,00000001
+
+[Artwork 59]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 59
+// Artwork 59
+patch=1,EE,006CFEC9,extended,00000001
+
+[Artwork 60]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 60
+// Artwork 60
+patch=1,EE,006CFECA,extended,00000001
+
+[Artwork 61]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 61
+// Artwork 61
+patch=1,EE,006CFECB,extended,00000001
+
+[Artwork 62]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 62
+// Artwork 62
+patch=1,EE,006CFECC,extended,00000001
+
+[Artwork 63]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 63
+// Artwork 63
+patch=1,EE,006CFECD,extended,00000001
+
+[Artwork 64]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 64
+// Artwork 64
+patch=1,EE,006CFECE,extended,00000001
+
+[Artwork 65]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 65
+// Artwork 65
+patch=1,EE,006CFECF,extended,00000001
+
+[Artwork 66]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 66
+// Artwork 66
+patch=1,EE,006CFED0,extended,00000001
+
+[Artwork 67]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 67
+// Artwork 67
+patch=1,EE,006CFED1,extended,00000001
+
+[Artwork 68]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Artwork 68
+// Artwork 68
+patch=1,EE,006CFED2,extended,00000001
+
+[All Artwork]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Artwork
+// All Artwork
+patch=1,EE,406CFE90,extended,00100001
+
+[All Artwork]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Artwork
+// All Artwork
+patch=1,EE,01010101,extended,00000000
+
+[All Artwork]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Artwork
+// All Artwork
+patch=1,EE,106CFED0,extended,00000101
+
+[All Artwork]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Artwork
+// All Artwork
+patch=1,EE,006CFED2,extended,00000001

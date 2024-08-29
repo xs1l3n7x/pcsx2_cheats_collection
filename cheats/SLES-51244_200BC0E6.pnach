@@ -1,0 +1,97 @@
+gametitle=XIII [SLES-51244] [200BC0E6]
+
+[Culver's Reach-Arabian Ridge Circuit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Culver's Reach-Arabian Ridge Circuit
+// Culver's Reach-Arabian Ridge Circuit
+patch=1,EE,90125154,extended,0C04B906
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0220,extended,24010096
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0224,extended,AC6102B4
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0228,extended,03E00008
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C022C,extended,E68002BC
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20260DD8,extended,0C030088
+
+[Max Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo
+// Max Infinite Ammo
+patch=1,EE,20363B60,extended,24030063
+
+[Max Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo
+// Max Infinite Ammo
+patch=1,EE,20363B64,extended,AC830278
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,20153AB0,extended,00000000
+
+[P1 Press {L1} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1} For Moon Jump
+// P1 Press {L1} For Moon Jump
+patch=1,EE,200C0230,extended,3C01437A
+
+[P1 Press {L1} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1} For Moon Jump
+// P1 Press {L1} For Moon Jump
+patch=1,EE,200C0234,extended,03E00008
+
+[P1 Press {L1} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1} For Moon Jump
+// P1 Press {L1} For Moon Jump
+patch=1,EE,200C0238,extended,AEA100EC
+
+[P1 Press {L1} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1} For Moon Jump
+// P1 Press {L1} For Moon Jump
+patch=1,EE,D0444082,extended,0000FBFF
+
+[P1 Press {L1} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1} For Moon Jump
+// P1 Press {L1} For Moon Jump
+patch=1,EE,20240398,extended,0C03008C
+
+[P1 Press {L1} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1} For Moon Jump
+// P1 Press {L1} For Moon Jump
+patch=1,EE,D0444082,extended,0010FBFF
+
+[P1 Press {L1} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1} For Moon Jump
+// P1 Press {L1} For Moon Jump
+patch=1,EE,20240398,extended,E6A400EC

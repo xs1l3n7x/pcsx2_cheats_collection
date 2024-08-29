@@ -1,0 +1,325 @@
+gametitle=Technic Beat [SLUS-21019] [34DC8778]
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,90117FDC,extended,0C08ECE8
+
+[Max Marker King P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Marker King P1
+// Max Marker King P1
+patch=1,EE,2058F554,extended,00000009
+
+[No Marker King P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Marker King P1
+// No Marker King P1
+patch=1,EE,2058F554,extended,00000000
+
+[Max Marker King P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Marker King P2
+// Max Marker King P2
+patch=1,EE,20574C14,extended,00000009
+
+[No Marker King P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Marker King P2
+// No Marker King P2
+patch=1,EE,20574C14,extended,00000000
+
+[Unlock Game Ending/Sudden Death Ending]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Game Ending/Sudden Death Ending
+// Unlock Game Ending/Sudden Death Ending
+patch=1,EE,003D7B02,extended,00000001
+
+[Knitty-Sixth Level Color]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knitty-Sixth Level Color
+// Knitty-Sixth Level Color
+patch=1,EE,003D7A3C,extended,00000001
+
+[Knitty-Death Master's Level Color]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knitty-Death Master's Level Color
+// Knitty-Death Master's Level Color
+patch=1,EE,003D7A3D,extended,00000001
+
+[Rain-Sixth Level Color]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rain-Sixth Level Color
+// Rain-Sixth Level Color
+patch=1,EE,003D7A5A,extended,00000001
+
+[Rain-Death Master's Level Color]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rain-Death Master's Level Color
+// Rain-Death Master's Level Color
+patch=1,EE,003D7A5B,extended,00000001
+
+[Hassy-Sixth Level Color]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hassy-Sixth Level Color
+// Hassy-Sixth Level Color
+patch=1,EE,003D7A78,extended,00000001
+
+[Hassy-Death Master's Level Color]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hassy-Death Master's Level Color
+// Hassy-Death Master's Level Color
+patch=1,EE,003D7A79,extended,00000001
+
+[Bot-Sixth Level Color]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bot-Sixth Level Color
+// Bot-Sixth Level Color
+patch=1,EE,003D7A96,extended,00000001
+
+[Bot-Death Master's Level Color]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bot-Death Master's Level Color
+// Bot-Death Master's Level Color
+patch=1,EE,003D7A97,extended,00000001
+
+[Cart-Sixth Level Color]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cart-Sixth Level Color
+// Cart-Sixth Level Color
+patch=1,EE,003D7AB4,extended,00000001
+
+[Cart-Death Master's Level Color]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cart-Death Master's Level Color
+// Cart-Death Master's Level Color
+patch=1,EE,003D7AB5,extended,00000001
+
+[Willie-Sixth Level Color]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Willie-Sixth Level Color
+// Willie-Sixth Level Color
+patch=1,EE,003D7AD2,extended,00000001
+
+[Willie-Death Master's Level Color]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Willie-Death Master's Level Color
+// Willie-Death Master's Level Color
+patch=1,EE,003D7AD3,extended,00000001
+
+[Knitty 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knitty 1
+// Knitty 1
+patch=1,EE,003D7AE2,extended,00000001
+
+[Knitty 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knitty 2
+// Knitty 2
+patch=1,EE,003D7AE3,extended,00000001
+
+[Knitty 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knitty 3
+// Knitty 3
+patch=1,EE,003D7AE4,extended,00000001
+
+[Knitty 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knitty 4
+// Knitty 4
+patch=1,EE,003D7AE5,extended,00000001
+
+[Knitty 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knitty 5
+// Knitty 5
+patch=1,EE,003D7AE6,extended,00000001
+
+[Knitty 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knitty 6
+// Knitty 6
+patch=1,EE,003D7AE7,extended,00000001
+
+[Knitty 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knitty 7
+// Knitty 7
+patch=1,EE,003D7AE8,extended,00000001
+
+[Knitty 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knitty 8
+// Knitty 8
+patch=1,EE,003D7AE9,extended,00000001
+
+[Knitty 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Knitty 9
+// Knitty 9
+patch=1,EE,003D7AEA,extended,00000001
+
+[Rain 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rain 1
+// Rain 1
+patch=1,EE,003D7AEB,extended,00000001
+
+[Rain 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rain 2
+// Rain 2
+patch=1,EE,003D7AEC,extended,00000001
+
+[Rain 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rain 3
+// Rain 3
+patch=1,EE,003D7AED,extended,00000001
+
+[Rain 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rain 4
+// Rain 4
+patch=1,EE,003D7AEE,extended,00000001
+
+[Rain 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rain 5
+// Rain 5
+patch=1,EE,003D7AEF,extended,00000001
+
+[Rain 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rain 6
+// Rain 6
+patch=1,EE,003D7AF0,extended,00000001
+
+[Rain 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rain 7
+// Rain 7
+patch=1,EE,003D7AF1,extended,00000001
+
+[Rain 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rain 8
+// Rain 8
+patch=1,EE,003D7AF2,extended,00000001
+
+[Rain 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rain 9
+// Rain 9
+patch=1,EE,003D7AF3,extended,00000001
+
+[Hassy 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hassy 1
+// Hassy 1
+patch=1,EE,003D7AF4,extended,00000001
+
+[Hassy 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hassy 2
+// Hassy 2
+patch=1,EE,003D7AF5,extended,00000001
+
+[Hassy 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hassy 3
+// Hassy 3
+patch=1,EE,003D7AF6,extended,00000001
+
+[Bot 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bot 1
+// Bot 1
+patch=1,EE,003D7AF7,extended,00000001
+
+[Bot 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bot 2
+// Bot 2
+patch=1,EE,003D7AF8,extended,00000001
+
+[Bot 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bot 3
+// Bot 3
+patch=1,EE,003D7AF9,extended,00000001
+
+[Cart 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cart 1
+// Cart 1
+patch=1,EE,003D7AFA,extended,00000001
+
+[Cart 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cart 2
+// Cart 2
+patch=1,EE,003D7AFB,extended,00000001
+
+[Cart 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cart 3
+// Cart 3
+patch=1,EE,003D7AFC,extended,00000001
+
+[Willie 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Willie 1
+// Willie 1
+patch=1,EE,003D7AFD,extended,00000001
+
+[Willie 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Willie 2
+// Willie 2
+patch=1,EE,003D7AFE,extended,00000001
+
+[Willie 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Willie 3
+// Willie 3
+patch=1,EE,003D7AFF,extended,00000001
+
+[Poster Illustration 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poster Illustration 1
+// Poster Illustration 1
+patch=1,EE,003D7B00,extended,00000001
+
+[Poster Illustration 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poster Illustration 2
+// Poster Illustration 2
+patch=1,EE,003D7B01,extended,00000001
+
+[All Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Gallery
+// All Gallery
+patch=1,EE,103D7AE2,extended,00000101
+
+[All Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Gallery
+// All Gallery
+patch=1,EE,403D7AE4,extended,00070001
+
+[All Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Gallery
+// All Gallery
+patch=1,EE,01010101,extended,00000000
+
+[All Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Gallery
+// All Gallery
+patch=1,EE,103D7B00,extended,00000101

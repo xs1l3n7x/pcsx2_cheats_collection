@@ -1,0 +1,49 @@
+gametitle=Silent Scope [SLES-50037] [13DDC49B]
+
+[Slot 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 10
+// Slot 10
+patch=1,EE,90108DE8,extended,0C0442A6
+
+[Infinite Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Credits
+// Infinite Credits
+patch=1,EE,102A1984,extended,00000009
+
+[Extra Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Credits
+// Extra Credits
+patch=1,EE,20158EBC,extended,24830001
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,102D6852,extended,000003E7
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,102D68D4,extended,0000FFFF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,202D68D4,extended,05F5E0FF
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,102D68F8,extended,000003E7
+
+[Infinite Bullets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Bullets
+// Infinite Bullets
+patch=1,EE,102D6922,extended,00000005

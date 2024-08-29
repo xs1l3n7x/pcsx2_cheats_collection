@@ -1,0 +1,145 @@
+gametitle=Monsters, Inc. [SCUS-97123] [E157ACB8]
+
+[All Illegal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Illegal
+// All Illegal
+patch=1,EE,F0100008,extended,00159457
+
+[Start With 999 Screams]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With 999 Screams
+// Start With 999 Screams
+patch=1,EE,D0B00620,extended,00000000
+
+[Start With 999 Screams]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With 999 Screams
+// Start With 999 Screams
+patch=1,EE,10B00620,extended,000003E7
+
+[Get 1 Scream For 999 Screams]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Get 1 Scream For 999 Screams
+// Get 1 Scream For 999 Screams
+patch=1,EE,D0B00620,extended,00000001
+
+[Get 1 Scream For 999 Screams]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Get 1 Scream For 999 Screams
+// Get 1 Scream For 999 Screams
+patch=1,EE,10B00620,extended,000003E7
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,10B00622,extended,00000005
+
+[Start With 4 Canisters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With 4 Canisters
+// Start With 4 Canisters
+patch=1,EE,D0B00628,extended,00000000
+
+[Start With 4 Canisters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With 4 Canisters
+// Start With 4 Canisters
+patch=1,EE,10B00628,extended,00000004
+
+[Start With 4 Mice]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With 4 Mice
+// Start With 4 Mice
+patch=1,EE,D0B0062A,extended,00000000
+
+[Start With 4 Mice]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With 4 Mice
+// Start With 4 Mice
+patch=1,EE,10B0062A,extended,00000004
+
+[Always Have 999 Screams]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Have 999 Screams
+// Always Have 999 Screams
+patch=1,EE,201BB090,extended,240303E7
+
+[Always Have 999 Screams]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Have 999 Screams
+// Always Have 999 Screams
+patch=1,EE,201BB09C,extended,A6630010
+
+[Mailroom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mailroom
+// Mailroom
+patch=1,EE,20AFD928,extended,00000001
+
+[Main Street]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Main Street
+// Main Street
+patch=1,EE,20AFD950,extended,00000001
+
+[Sulley's Apartment]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sulley's Apartment
+// Sulley's Apartment
+patch=1,EE,20AFD978,extended,00000001
+
+[Garbage Disposal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Garbage Disposal
+// Garbage Disposal
+patch=1,EE,20AFD9B4,extended,00000001
+
+[Himalayas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Himalayas
+// Himalayas
+patch=1,EE,20AFD9F0,extended,00000001
+
+[Door Vault]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Door Vault
+// Door Vault
+patch=1,EE,20AFDA04,extended,00000001
+
+[Showdown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Showdown
+// Showdown
+patch=1,EE,20AFDA18,extended,00000001
+
+[Tot Bot Scare Fair]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tot Bot Scare Fair
+// Tot Bot Scare Fair
+patch=1,EE,20AFD944,extended,00000032
+
+[Canister Catastrophe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Canister Catastrophe
+// Canister Catastrophe
+patch=1,EE,20AFD96C,extended,0000003C
+
+[Closet Chaos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Closet Chaos
+// Closet Chaos
+patch=1,EE,20AFD9A8,extended,00000046
+
+[Furry Scurry]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Furry Scurry
+// Furry Scurry
+patch=1,EE,20AFD9E4,extended,00000050
+
+[Yeti Says]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yeti Says
+// Yeti Says
+patch=1,EE,20AFD9F8,extended,0000005A

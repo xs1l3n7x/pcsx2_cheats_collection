@@ -1,0 +1,379 @@
+gametitle=Flatout [SLUS-20901] [E0127F2D]
+
+[Have All Reels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Reels
+// Have All Reels
+patch=1,EE,901F7BE8,extended,0C0AF7DA
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,108CA4FC,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,208CA4FC,extended,05F5E0FF
+
+[Buying Items Doesnt Decrease Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Items Doesnt Decrease Money
+// Buying Items Doesnt Decrease Money
+patch=1,EE,2016923C,extended,00000000
+
+[Buying Items Increases Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Items Increases Money
+// Buying Items Increases Money
+patch=1,EE,20169228,extended,00C53021
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,408CA590,extended,00040001
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,00000001,extended,00000000
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,408CA550,extended,00100001
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,00000000,extended,00000000
+
+[Bronze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bronze
+// Bronze
+patch=1,EE,208CA590,extended,00000001
+
+[Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver
+// Silver
+patch=1,EE,208CA594,extended,00000001
+
+[Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold
+// Gold
+patch=1,EE,208CA598,extended,00000001
+
+[Bonus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bonus
+// Bonus
+patch=1,EE,208CA59C,extended,00000001
+
+[All Classes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Classes
+// All Classes
+patch=1,EE,408CA590,extended,00040001
+
+[All Classes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Classes
+// All Classes
+patch=1,EE,00000001,extended,00000000
+
+[Woodland Havoc]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Woodland Havoc
+// Woodland Havoc
+patch=1,EE,008CA551,extended,00000000
+
+[Finchley Trial Run]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Finchley Trial Run
+// Finchley Trial Run
+patch=1,EE,008CA552,extended,00000000
+
+[Bunker Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bunker Challenge
+// Bunker Challenge
+patch=1,EE,008CA554,extended,00000000
+
+[Brad's Pit Crash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Brad's Pit Crash
+// Brad's Pit Crash
+patch=1,EE,008CA555,extended,00000000
+
+[Bay Amateur Run]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bay Amateur Run
+// Bay Amateur Run
+patch=1,EE,008CA557,extended,00000000
+
+[Woodland Mayhem]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Woodland Mayhem
+// Woodland Mayhem
+patch=1,EE,008CA56C,extended,00000000
+
+[Bunker Hill Havoc]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bunker Hill Havoc
+// Bunker Hill Havoc
+patch=1,EE,008CA56F,extended,00000000
+
+[Fairgrass Run]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fairgrass Run
+// Fairgrass Run
+patch=1,EE,008CA573,extended,00000000
+
+[Brad's Super Dustup]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Brad's Super Dustup
+// Brad's Super Dustup
+patch=1,EE,008CA57C,extended,00000000
+
+[Pinewood Crashcup]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pinewood Crashcup
+// Pinewood Crashcup
+patch=1,EE,008CA553,extended,00000000
+
+[Fairgrass Cup]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fairgrass Cup
+// Fairgrass Cup
+patch=1,EE,008CA558,extended,00000000
+
+[Whitefish Rally]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Whitefish Rally
+// Whitefish Rally
+patch=1,EE,008CA55E,extended,00000000
+
+[Whattahoo Roadrun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Whattahoo Roadrun
+// Whattahoo Roadrun
+patch=1,EE,008CA55F,extended,00000000
+
+[Whitefish Ice Run]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Whitefish Ice Run
+// Whitefish Ice Run
+patch=1,EE,008CA562,extended,00000000
+
+[Pinewood Qualifier]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pinewood Qualifier
+// Pinewood Qualifier
+patch=1,EE,008CA56E,extended,00000000
+
+[Bay Cup Run]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bay Cup Run
+// Bay Cup Run
+patch=1,EE,008CA572,extended,00000000
+
+[Whattahoo Rush Hour]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Whattahoo Rush Hour
+// Whattahoo Rush Hour
+patch=1,EE,008CA574,extended,00000000
+
+[Whitefish Run]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Whitefish Run
+// Whitefish Run
+patch=1,EE,008CA577,extended,00000000
+
+[Pinewood Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pinewood Challenge
+// Pinewood Challenge
+patch=1,EE,008CA57A,extended,00000000
+
+[Bunker Bigbang Run]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bunker Bigbang Run
+// Bunker Bigbang Run
+patch=1,EE,008CA57B,extended,00000000
+
+[Gravel Rock Run]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gravel Rock Run
+// Gravel Rock Run
+patch=1,EE,008CA57D,extended,00000000
+
+[Mound Mayhem]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mound Mayhem
+// Mound Mayhem
+patch=1,EE,008CA556,extended,00000000
+
+[Bay Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bay Challenge
+// Bay Challenge
+patch=1,EE,008CA559,extended,00000000
+
+[Fairgrass Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fairgrass Challenge
+// Fairgrass Challenge
+patch=1,EE,008CA55A,extended,00000000
+
+[Whattahoo Wham]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Whattahoo Wham
+// Whattahoo Wham
+patch=1,EE,008CA55B,extended,00000000
+
+[Hayville Havoc]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hayville Havoc
+// Hayville Havoc
+patch=1,EE,008CA55C,extended,00000000
+
+[Redpine Race Dash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Redpine Race Dash
+// Redpine Race Dash
+patch=1,EE,008CA55D,extended,00000000
+
+[Hayville Haystakker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hayville Haystakker
+// Hayville Haystakker
+patch=1,EE,008CA560,extended,00000000
+
+[Redpine Zero Course]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Redpine Zero Course
+// Redpine Zero Course
+patch=1,EE,008CA561,extended,00000000
+
+[Finchley Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Finchley Challenge
+// Finchley Challenge
+patch=1,EE,008CA56D,extended,00000000
+
+[Brad's Sandrun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Brad's Sandrun
+// Brad's Sandrun
+patch=1,EE,008CA570,extended,00000000
+
+[Gravel Supersmash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gravel Supersmash
+// Gravel Supersmash
+patch=1,EE,008CA571,extended,00000000
+
+[Hayville Farmdash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hayville Farmdash
+// Hayville Farmdash
+patch=1,EE,008CA575,extended,00000000
+
+[Redpine Run]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Redpine Run
+// Redpine Run
+patch=1,EE,008CA576,extended,00000000
+
+[Woodland Challenge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Woodland Challenge
+// Woodland Challenge
+patch=1,EE,008CA578,extended,00000000
+
+[Finchley Timberdash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Finchley Timberdash
+// Finchley Timberdash
+patch=1,EE,008CA579,extended,00000000
+
+[Longjump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Longjump
+// Longjump
+patch=1,EE,008CA563,extended,00000000
+
+[Highjump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Highjump
+// Highjump
+patch=1,EE,008CA564,extended,00000000
+
+[Demolition Dash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Demolition Dash
+// Demolition Dash
+patch=1,EE,008CA566,extended,00000000
+
+[Super Mud Mayhem]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Mud Mayhem
+// Super Mud Mayhem
+patch=1,EE,008CA567,extended,00000000
+
+[Demoltion Sandpit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Demoltion Sandpit
+// Demoltion Sandpit
+patch=1,EE,008CA568,extended,00000000
+
+[Circle Of Eight]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Circle Of Eight
+// Circle Of Eight
+patch=1,EE,008CA569,extended,00000000
+
+[Super Roundabout]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Roundabout
+// Super Roundabout
+patch=1,EE,008CA56A,extended,00000000
+
+[Crashalley Run]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crashalley Run
+// Crashalley Run
+patch=1,EE,008CA56B,extended,00000000
+
+[Bullseye]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bullseye
+// Bullseye
+patch=1,EE,008CA57E,extended,00000000
+
+[Bowling]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bowling
+// Bowling
+patch=1,EE,008CA57F,extended,00000000
+
+[Darts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Darts
+// Darts
+patch=1,EE,008CA580,extended,00000000
+
+[Clown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Clown
+// Clown
+patch=1,EE,008CA581,extended,00000000

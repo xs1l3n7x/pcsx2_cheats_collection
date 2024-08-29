@@ -1,0 +1,73 @@
+gametitle=Dino Stalker [SLUS-20485] [3FBF0EA6]
+
+[Extra Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Items
+// Extra Items
+patch=1,EE,9027087C,extended,0C0A16DD
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,20219B98,extended,00000000
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,20219BA0,extended,00000000
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,20133954,extended,00000000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,202F1F14,extended,40A00000
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,102F1FC4,extended,0000FFFF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,202F1FC4,extended,0098967F
+
+[Max Recovery Aid]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Recovery Aid
+// Max Recovery Aid
+patch=1,EE,202F2078,extended,00000063
+
+[Max Resuscitation]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Resuscitation
+// Max Resuscitation
+patch=1,EE,202F207C,extended,00000063
+
+[Max Antidote]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Antidote
+// Max Antidote
+patch=1,EE,202F2080,extended,00000063
+
+[Have Ample]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Ample
+// Have Ample
+patch=1,EE,202F2088,extended,00000001
+
+[Max Tachyon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tachyon
+// Max Tachyon
+patch=1,EE,202F208C,extended,0000270F

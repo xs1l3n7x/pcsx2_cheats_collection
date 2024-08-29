@@ -1,0 +1,265 @@
+gametitle=Conflict-Vietnam [SLUS-21045] [CC6CBF20]
+
+[Super Slow Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Slow Speed
+// Super Slow Speed
+patch=1,EE,9034A6C8,extended,00832021
+
+[Enable Lighting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enable Lighting
+// Enable Lighting
+patch=1,EE,20432BEC,extended,00000001
+
+[Enable Debug Mappings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enable Debug Mappings
+// Enable Debug Mappings
+patch=1,EE,204150FC,extended,00000001
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,20222EF8,extended,00000000
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,10222EF0,extended,00000001
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,20222EFC,extended,00000000
+
+[Infinite Medi-Kits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Medi-Kits
+// Infinite Medi-Kits
+patch=1,EE,2022AA98,extended,00000000
+
+[Extra Medi-Kits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Medi-Kits
+// Extra Medi-Kits
+patch=1,EE,2022AA94,extended,00451021
+
+[Infinite Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Grenades
+// Infinite Grenades
+patch=1,EE,20222750,extended,00000000
+
+[Extra Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Grenades
+// Extra Grenades
+patch=1,EE,10222748,extended,00000001
+
+[Infinite Health (Entire Team)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Entire Team)
+// Infinite Health (Entire Team)
+patch=1,EE,200C0220,extended,3C024376
+
+[Infinite Health (Entire Team)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Entire Team)
+// Infinite Health (Entire Team)
+patch=1,EE,200C0224,extended,03E00008
+
+[Infinite Health (Entire Team)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Entire Team)
+// Infinite Health (Entire Team)
+patch=1,EE,200C0228,extended,AE020074
+
+[Infinite Health (Entire Team)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Entire Team)
+// Infinite Health (Entire Team)
+patch=1,EE,201CE040,extended,0C030088
+
+[Infinite Health (Entire Team)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Entire Team)
+// Infinite Health (Entire Team)
+patch=1,EE,201CE044,extended,46010034
+
+[Infinite Health (Only Current Character)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Only Current Character)
+// Infinite Health (Only Current Character)
+patch=1,EE,200C0230,extended,3C014348
+
+[Infinite Health (Only Current Character)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Only Current Character)
+// Infinite Health (Only Current Character)
+patch=1,EE,200C0234,extended,AC810074
+
+[Infinite Health (Only Current Character)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Only Current Character)
+// Infinite Health (Only Current Character)
+patch=1,EE,200C0238,extended,08087798
+
+[Infinite Health (Only Current Character)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Only Current Character)
+// Infinite Health (Only Current Character)
+patch=1,EE,200C023C,extended,C4800074
+
+[Infinite Health (Only Current Character)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Only Current Character)
+// Infinite Health (Only Current Character)
+patch=1,EE,2021DE5C,extended,08030088
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,2042CD9C,extended,00000001
+
+[Max Infinite Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Skill Points
+// Max Infinite Skill Points
+patch=1,EE,200C0230,extended,2402270F
+
+[Max Infinite Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Skill Points
+// Max Infinite Skill Points
+patch=1,EE,200C0234,extended,03E00008
+
+[Max Infinite Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Skill Points
+// Max Infinite Skill Points
+patch=1,EE,200C0238,extended,A4821AA8
+
+[Max Infinite Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Skill Points
+// Max Infinite Skill Points
+patch=1,EE,201B4C6C,extended,0C03008C
+
+[Infinite Skill Points Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Skill Points Usage
+// Infinite Skill Points Usage
+patch=1,EE,20217874,extended,00000000
+
+[Unlock Cheats Menu (Inside Options)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Cheats Menu (Inside Options)
+// Unlock Cheats Menu (Inside Options)
+patch=1,EE,2042BF10,extended,00000001
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,2042BEF8,extended,00000001
+
+[Infinite Saves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Saves
+// Infinite Saves
+patch=1,EE,2042BF08,extended,00000001
+
+[P1 Press {L1}+{SELECT} For Hyper Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For Hyper Speed
+// P1 Press {L1}+{SELECT} For Hyper Speed
+patch=1,EE,D069AB02,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} For Hyper Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For Hyper Speed
+// P1 Press {L1}+{SELECT} For Hyper Speed
+patch=1,EE,20432130,extended,40000000
+
+[P1 Press {L2}+{SELECT} For Super Hyper Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For Super Hyper Speed
+// P1 Press {L2}+{SELECT} For Super Hyper Speed
+patch=1,EE,D069AB02,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} For Super Hyper Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For Super Hyper Speed
+// P1 Press {L2}+{SELECT} For Super Hyper Speed
+patch=1,EE,20432130,extended,40800000
+
+[P1 Press {R1}+{SELECT} For Slow Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} For Slow Speed
+// P1 Press {R1}+{SELECT} For Slow Speed
+patch=1,EE,D069AB02,extended,0000F7FE
+
+[P1 Press {R1}+{SELECT} For Slow Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} For Slow Speed
+// P1 Press {R1}+{SELECT} For Slow Speed
+patch=1,EE,20432130,extended,3F400000
+
+[P1 Press {R2}+{SELECT} For Super Slow Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+{SELECT} For Super Slow Speed
+// P1 Press {R2}+{SELECT} For Super Slow Speed
+patch=1,EE,D069AB02,extended,0000FDFE
+
+[P1 Press {R2}+{SELECT} For Super Slow Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+{SELECT} For Super Slow Speed
+// P1 Press {R2}+{SELECT} For Super Slow Speed
+patch=1,EE,20432130,extended,3F000000
+
+[P1 Press {L3}+{SELECT} For Normal Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3}+{SELECT} For Normal Speed
+// P1 Press {L3}+{SELECT} For Normal Speed
+patch=1,EE,D069AB02,extended,0000FFFC
+
+[P1 Press {L3}+{SELECT} For Normal Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3}+{SELECT} For Normal Speed
+// P1 Press {L3}+{SELECT} For Normal Speed
+patch=1,EE,20432130,extended,3F800000
+
+[Super Hyper Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Hyper Speed
+// Super Hyper Speed
+patch=1,EE,20432130,extended,40800000
+
+[Hyper Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hyper Speed
+// Hyper Speed
+patch=1,EE,20432130,extended,40000000
+
+[Normal Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Normal Speed
+// Normal Speed
+patch=1,EE,20432130,extended,3F800000
+
+[Slow Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slow Speed
+// Slow Speed
+patch=1,EE,20432130,extended,3F400000
+
+[Super Slow Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Slow Speed
+// Super Slow Speed
+patch=1,EE,20432130,extended,3F000000

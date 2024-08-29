@@ -1,0 +1,79 @@
+gametitle=Nascar 2001 [SLUS-20101] [3D563C06]
+
+[Max All Equip Attack Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Equip Attack Items
+// Max All Equip Attack Items
+patch=1,EE,F0100008,extended,0020F44B
+
+[Infinite Fuel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Fuel
+// Infinite Fuel
+patch=1,EE,200C0220,extended,AC80079C
+
+[Infinite Fuel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Fuel
+// Infinite Fuel
+patch=1,EE,200C0224,extended,03E00008
+
+[Infinite Fuel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Fuel
+// Infinite Fuel
+patch=1,EE,200C0228,extended,C480079C
+
+[Infinite Fuel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Fuel
+// Infinite Fuel
+patch=1,EE,20165948,extended,0C030088
+
+[Tires Never Worn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tires Never Worn
+// Tires Never Worn
+patch=1,EE,201659C4,extended,E4550000
+
+[Infinite Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Damage
+// Infinite Damage
+patch=1,EE,2012CBE8,extended,00000000
+
+[Infinite Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Damage
+// Infinite Damage
+patch=1,EE,2012CC1C,extended,00000000
+
+[Infinite Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Damage
+// Infinite Damage
+patch=1,EE,2012CF7C,extended,00000000
+
+[Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} To Stop Timer
+// Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,D03AAA02,extended,0000FBFE
+
+[Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} To Stop Timer
+// Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,201A0E64,extended,00000000
+
+[Press {L2}+{START} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L2}+{START} To Stop Timer
+// Press {L2}+{START} To Stop Timer
+patch=1,EE,D03AAA02,extended,0000FEFE
+
+[Press {L2}+{START} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L2}+{START} To Stop Timer
+// Press {L2}+{START} To Stop Timer
+patch=1,EE,201A0E64,extended,E463000C

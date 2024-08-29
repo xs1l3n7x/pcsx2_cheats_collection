@@ -1,0 +1,187 @@
+gametitle=Knockout Kings 2002 [SLUS-20369] [36FEEE3A]
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,9021A68C,extended,0C08B591
+
+[Infinite Stamina P1 & P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Stamina P1 & P2
+// Infinite Stamina P1 & P2
+patch=1,EE,20165E28,extended,03E00008
+
+[Infinite Stamina P1 & P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Stamina P1 & P2
+// Infinite Stamina P1 & P2
+patch=1,EE,20165E2C,extended,00000000
+
+[Infinite Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1
+// Infinite Health P1
+patch=1,EE,20166C08,extended,00000000
+
+[Infinite Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2
+// Infinite Health P2
+patch=1,EE,20166B98,extended,00000000
+
+[Infinite Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2
+// Infinite Health P2
+patch=1,EE,20166BD4,extended,00000000
+
+[Infinite Health P1 & P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1 & P2
+// Infinite Health P1 & P2
+patch=1,EE,20165EB0,extended,03E00008
+
+[Infinite Health P1 & P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1 & P2
+// Infinite Health P1 & P2
+patch=1,EE,20165EB4,extended,00000000
+
+[Screen Distortion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Screen Distortion
+// Screen Distortion
+patch=1,EE,002ADDDC,extended,00000001
+
+[KO Punch P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=KO Punch P1
+// KO Punch P1
+patch=1,EE,00409001,extended,00000002
+
+[KO Punch P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=KO Punch P2
+// KO Punch P2
+patch=1,EE,00409001,extended,00000003
+
+[KO Punch P1 & P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=KO Punch P1 & P2
+// KO Punch P1 & P2
+patch=1,EE,00409001,extended,00000004
+
+[Invincible P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincible P1
+// Invincible P1
+patch=1,EE,00409003,extended,00000002
+
+[Invincible P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincible P2
+// Invincible P2
+patch=1,EE,00409003,extended,00000003
+
+[Invincible P1 & P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincible P1 & P2
+// Invincible P1 & P2
+patch=1,EE,00409003,extended,00000004
+
+[Stop Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stop Time
+// Stop Time
+patch=1,EE,00409007,extended,00000001
+
+[Last Round]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Last Round
+// Last Round
+patch=1,EE,00409008,extended,00000001
+
+[Big Head Mode (When Hit)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Head Mode (When Hit)
+// Big Head Mode (When Hit)
+patch=1,EE,20272208,extended,00000001
+
+[Big Hands Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Hands Mode
+// Big Hands Mode
+patch=1,EE,2027220C,extended,00000001
+
+[Stretch Head Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stretch Head Mode
+// Stretch Head Mode
+patch=1,EE,20272210,extended,00000001
+
+[Stretch Hands Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stretch Hands Mode
+// Stretch Hands Mode
+patch=1,EE,20272214,extended,00000001
+
+[Turbo Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Turbo Mode
+// Turbo Mode
+patch=1,EE,20272218,extended,00000001
+
+[Invisible Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisible Mode
+// Invisible Mode
+patch=1,EE,2027221C,extended,00000001
+
+[Giant Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Giant Mode
+// Giant Mode
+patch=1,EE,20272220,extended,00000001
+
+[Little Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Little Mode
+// Little Mode
+patch=1,EE,20272224,extended,00000001
+
+[Teleport(R1) Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Teleport(R1) Mode
+// Teleport(R1) Mode
+patch=1,EE,20272228,extended,00000001
+
+[Rumble Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rumble Mode
+// Rumble Mode
+patch=1,EE,2027222C,extended,00000001
+
+[Tag Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tag Mode
+// Tag Mode
+patch=1,EE,20272230,extended,00000001
+
+[Infinite Creation Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Creation Points
+// Infinite Creation Points
+patch=1,EE,00409A50,extended,00000096
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,20409A78,extended,FFFFFFFF
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,10409A7C,extended,0000FFFF

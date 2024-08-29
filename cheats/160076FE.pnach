@@ -1,0 +1,25 @@
+gametitle=Persona 4 [UNKNOWN] [160076FE]
+
+[Max gold]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max gold
+// Max gold
+patch=1,EE,11352BE4,extended,0000FFFF
+
+[Infinite Special Coins]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Special Coins
+// Infinite Special Coins
+patch=1,EE,11352BE8,extended,0000FFFF
+
+[Infinite Magic Coins]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Magic Coins
+// Infinite Magic Coins
+patch=1,EE,11352BEC,extended,0000FFFF
+
+[Ryudo Quick Level Up]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Ryudo Quick Level Up
+// Ryudo Quick Level Up
+patch=1,EE,11353276,extended,00000063

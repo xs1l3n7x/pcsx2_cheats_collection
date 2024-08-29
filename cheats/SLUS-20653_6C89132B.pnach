@@ -1,0 +1,2167 @@
+gametitle=Dynasty Warriors 4 [SLUS-20653] [6C89132B]
+
+[Draon Rapier]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Draon Rapier
+// Draon Rapier
+patch=1,EE,902062D0,extended,0C049280
+
+[Have All Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Movies
+// Have All Movies
+patch=1,EE,20432220,extended,FFFFFFFF
+
+[Can Always Do Musou Move (Press {CIRCLE})]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Can Always Do Musou Move (Press {CIRCLE})
+// Can Always Do Musou Move (Press {CIRCLE})
+patch=1,EE,201B6B1C,extended,00000000
+
+[Max K.O. Count P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max K.O. Count P1
+// Max K.O. Count P1
+patch=1,EE,1043BFA8,extended,0000270F
+
+[Infinite Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1
+// Infinite Health P1
+patch=1,EE,1050414E,extended,00001C00
+
+[Max Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health P1
+// Max Health P1
+patch=1,EE,1050414C,extended,000001C0
+
+[Max Infinite Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health P1
+// Max Infinite Health P1
+patch=1,EE,2050414C,extended,01C01C00
+
+[Infinite Musou P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Musou P1
+// Infinite Musou P1
+patch=1,EE,10504154,extended,00000C00
+
+[Max Musou P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou P1
+// Max Musou P1
+patch=1,EE,10504152,extended,000000C0
+
+[Max Infinite Musou P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Musou P1
+// Max Infinite Musou P1
+patch=1,EE,10504152,extended,000000C0
+
+[Max Infinite Musou P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Musou P1
+// Max Infinite Musou P1
+patch=1,EE,10504154,extended,00000C00
+
+[Infinite Attack X2 P1 (On Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Attack X2 P1 (On Pickup)
+// Infinite Attack X2 P1 (On Pickup)
+patch=1,EE,10504120,extended,00000708
+
+[Infinite Defense X2 P1 (On Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Defense X2 P1 (On Pickup)
+// Infinite Defense X2 P1 (On Pickup)
+patch=1,EE,10504124,extended,00000708
+
+[Infinite Speed Up P1 (On Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Speed Up P1 (On Pickup)
+// Infinite Speed Up P1 (On Pickup)
+patch=1,EE,10504128,extended,00000708
+
+[Infinite Arrows P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Arrows P1
+// Infinite Arrows P1
+patch=1,EE,0052512C,extended,00000063
+
+[Infinite Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2
+// Infinite Health P2
+patch=1,EE,1050436E,extended,00001C00
+
+[Max Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health P2
+// Max Health P2
+patch=1,EE,1050436C,extended,000001C0
+
+[Max Infinite Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health P2
+// Max Infinite Health P2
+patch=1,EE,2050436C,extended,01C01C00
+
+[Infinite Musou P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Musou P2
+// Infinite Musou P2
+patch=1,EE,10504374,extended,00000C00
+
+[Max Musou P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Musou P2
+// Max Musou P2
+patch=1,EE,10504372,extended,000000C0
+
+[Max Infinite Musou P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Musou P2
+// Max Infinite Musou P2
+patch=1,EE,10504372,extended,000000C0
+
+[Max Infinite Musou P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Musou P2
+// Max Infinite Musou P2
+patch=1,EE,10504374,extended,00000C00
+
+[Infinite Attack X2 P2 (On Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Attack X2 P2 (On Pickup)
+// Infinite Attack X2 P2 (On Pickup)
+patch=1,EE,10504340,extended,00000708
+
+[Infinite Defense X2 P2 (On Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Defense X2 P2 (On Pickup)
+// Infinite Defense X2 P2 (On Pickup)
+patch=1,EE,10504344,extended,00000708
+
+[Infinite Speed Up P2 (On Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Speed Up P2 (On Pickup)
+// Infinite Speed Up P2 (On Pickup)
+patch=1,EE,10504348,extended,00000708
+
+[Infinite Arrows P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Arrows P2
+// Infinite Arrows P2
+patch=1,EE,0052535C,extended,00000063
+
+[Bodyguard 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bodyguard 1
+// Bodyguard 1
+patch=1,EE,104326F6,extended,0000270F
+
+[Bodyguard 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bodyguard 2
+// Bodyguard 2
+patch=1,EE,10432756,extended,0000270F
+
+[Bodyguard 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bodyguard 3
+// Bodyguard 3
+patch=1,EE,104327B6,extended,0000270F
+
+[Bodyguard 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bodyguard 4
+// Bodyguard 4
+patch=1,EE,10432816,extended,0000270F
+
+[Zhao Yun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhao Yun
+// Zhao Yun
+patch=1,EE,00432248,extended,00000001
+
+[Guan Yu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guan Yu
+// Guan Yu
+patch=1,EE,00432260,extended,00000001
+
+[Zhang Fei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang Fei
+// Zhang Fei
+patch=1,EE,00432278,extended,00000001
+
+[Xiahou Dun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xiahou Dun
+// Xiahou Dun
+patch=1,EE,00432290,extended,00000001
+
+[Dian Wei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dian Wei
+// Dian Wei
+patch=1,EE,004322A8,extended,00000001
+
+[Xu Zhu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xu Zhu
+// Xu Zhu
+patch=1,EE,004322C0,extended,00000001
+
+[Zhou Yu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhou Yu
+// Zhou Yu
+patch=1,EE,004322D8,extended,00000001
+
+[Lu Xun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lu Xun
+// Lu Xun
+patch=1,EE,004322F0,extended,00000001
+
+[Taishi Ci]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Taishi Ci
+// Taishi Ci
+patch=1,EE,00432308,extended,00000001
+
+[Diao Chan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Diao Chan
+// Diao Chan
+patch=1,EE,00432320,extended,00000001
+
+[Zhuge Liang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhuge Liang
+// Zhuge Liang
+patch=1,EE,00432338,extended,00000001
+
+[Cao Cao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cao Cao
+// Cao Cao
+patch=1,EE,00432350,extended,00000001
+
+[Lu Bu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lu Bu
+// Lu Bu
+patch=1,EE,00432368,extended,00000001
+
+[Sun Shang Xiang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Shang Xiang
+// Sun Shang Xiang
+patch=1,EE,00432380,extended,00000001
+
+[Liu Bei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Liu Bei
+// Liu Bei
+patch=1,EE,00432398,extended,00000001
+
+[Sun Jian]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Jian
+// Sun Jian
+patch=1,EE,004323B0,extended,00000001
+
+[Sun Quan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Quan
+// Sun Quan
+patch=1,EE,004323C8,extended,00000001
+
+[Dong Zhuo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dong Zhuo
+// Dong Zhuo
+patch=1,EE,004323E0,extended,00000001
+
+[Yuan Shao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yuan Shao
+// Yuan Shao
+patch=1,EE,004323F8,extended,00000001
+
+[Ma Chao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ma Chao
+// Ma Chao
+patch=1,EE,00432410,extended,00000001
+
+[Huang Zhong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huang Zhong
+// Huang Zhong
+patch=1,EE,00432428,extended,00000001
+
+[Xiahou Yuan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xiahou Yuan
+// Xiahou Yuan
+patch=1,EE,00432440,extended,00000001
+
+[Zhang Liao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang Liao
+// Zhang Liao
+patch=1,EE,00432458,extended,00000001
+
+[Sim Yi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sim Yi
+// Sim Yi
+patch=1,EE,00432470,extended,00000001
+
+[Lu Meng]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lu Meng
+// Lu Meng
+patch=1,EE,00432488,extended,00000001
+
+[Gan Ning]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gan Ning
+// Gan Ning
+patch=1,EE,004324A0,extended,00000001
+
+[Jiang Wei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jiang Wei
+// Jiang Wei
+patch=1,EE,004324B8,extended,00000001
+
+[Zhang Jiao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang Jiao
+// Zhang Jiao
+patch=1,EE,004324D0,extended,00000001
+
+[Xu Huang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xu Huang
+// Xu Huang
+patch=1,EE,004324E8,extended,00000001
+
+[Zhang He]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang He
+// Zhang He
+patch=1,EE,00432500,extended,00000001
+
+[Zhen Ji-Wei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhen Ji-Wei
+// Zhen Ji-Wei
+patch=1,EE,00432518,extended,00000001
+
+[Huang Gai]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huang Gai
+// Huang Gai
+patch=1,EE,00432530,extended,00000001
+
+[Sun Ce]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Ce
+// Sun Ce
+patch=1,EE,00432548,extended,00000001
+
+[Wei Yan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wei Yan
+// Wei Yan
+patch=1,EE,00432560,extended,00000001
+
+[Pang Tong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pang Tong
+// Pang Tong
+patch=1,EE,00432578,extended,00000001
+
+[Meng Huo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Meng Huo
+// Meng Huo
+patch=1,EE,00432590,extended,00000001
+
+[Zhu Rong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhu Rong
+// Zhu Rong
+patch=1,EE,004325A8,extended,00000001
+
+[Da Qiao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Da Qiao
+// Da Qiao
+patch=1,EE,004325C0,extended,00000001
+
+[Xiao Qiao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xiao Qiao
+// Xiao Qiao
+patch=1,EE,004325D8,extended,00000001
+
+[Cao Ren]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cao Ren
+// Cao Ren
+patch=1,EE,004325F0,extended,00000001
+
+[Zhou Tai]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhou Tai
+// Zhou Tai
+patch=1,EE,00432608,extended,00000001
+
+[Yue Ying]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yue Ying
+// Yue Ying
+patch=1,EE,00432620,extended,00000001
+
+[Zhao Yun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhao Yun
+// Zhao Yun
+patch=1,EE,00432249,extended,000000FF
+
+[Guan Yu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guan Yu
+// Guan Yu
+patch=1,EE,00432261,extended,000000FF
+
+[Zhang Fei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang Fei
+// Zhang Fei
+patch=1,EE,00432279,extended,000000FF
+
+[Xiahou Dun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xiahou Dun
+// Xiahou Dun
+patch=1,EE,00432291,extended,000000FF
+
+[Dian Wei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dian Wei
+// Dian Wei
+patch=1,EE,004322A9,extended,000000FF
+
+[Xu Zhu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xu Zhu
+// Xu Zhu
+patch=1,EE,004322C1,extended,000000FF
+
+[Zhou Yu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhou Yu
+// Zhou Yu
+patch=1,EE,004322D9,extended,000000FF
+
+[Lu Xun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lu Xun
+// Lu Xun
+patch=1,EE,004322F1,extended,000000FF
+
+[Taishi Ci]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Taishi Ci
+// Taishi Ci
+patch=1,EE,00432309,extended,000000FF
+
+[Diao Chan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Diao Chan
+// Diao Chan
+patch=1,EE,00432321,extended,000000FF
+
+[Zhuge Liang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhuge Liang
+// Zhuge Liang
+patch=1,EE,00432339,extended,000000FF
+
+[Cao Cao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cao Cao
+// Cao Cao
+patch=1,EE,00432351,extended,000000FF
+
+[Lu Bu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lu Bu
+// Lu Bu
+patch=1,EE,00432369,extended,000000FF
+
+[Sun Shang Xiang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Shang Xiang
+// Sun Shang Xiang
+patch=1,EE,00432381,extended,000000FF
+
+[Liu Bei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Liu Bei
+// Liu Bei
+patch=1,EE,00432399,extended,000000FF
+
+[Sun Jian]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Jian
+// Sun Jian
+patch=1,EE,004323B1,extended,000000FF
+
+[Sun Quan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Quan
+// Sun Quan
+patch=1,EE,004323C9,extended,000000FF
+
+[Dong Zhuo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dong Zhuo
+// Dong Zhuo
+patch=1,EE,004323E1,extended,000000FF
+
+[Yuan Shao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yuan Shao
+// Yuan Shao
+patch=1,EE,004323F9,extended,000000FF
+
+[Ma Chao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ma Chao
+// Ma Chao
+patch=1,EE,00432411,extended,000000FF
+
+[Huang Zhong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huang Zhong
+// Huang Zhong
+patch=1,EE,00432429,extended,000000FF
+
+[Xiahou Yuan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xiahou Yuan
+// Xiahou Yuan
+patch=1,EE,00432441,extended,000000FF
+
+[Zhang Liao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang Liao
+// Zhang Liao
+patch=1,EE,00432459,extended,000000FF
+
+[Sim Yi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sim Yi
+// Sim Yi
+patch=1,EE,00432471,extended,000000FF
+
+[Lu Meng]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lu Meng
+// Lu Meng
+patch=1,EE,00432489,extended,000000FF
+
+[Gan Ning]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gan Ning
+// Gan Ning
+patch=1,EE,004324A1,extended,000000FF
+
+[Jiang Wei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jiang Wei
+// Jiang Wei
+patch=1,EE,004324B9,extended,000000FF
+
+[Zhang Jiao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang Jiao
+// Zhang Jiao
+patch=1,EE,004324D1,extended,000000FF
+
+[Xu Huang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xu Huang
+// Xu Huang
+patch=1,EE,004324E9,extended,000000FF
+
+[Zhang He]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang He
+// Zhang He
+patch=1,EE,00432501,extended,000000FF
+
+[Zhen Ji-Wei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhen Ji-Wei
+// Zhen Ji-Wei
+patch=1,EE,00432519,extended,000000FF
+
+[Huang Gai]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huang Gai
+// Huang Gai
+patch=1,EE,00432531,extended,000000FF
+
+[Sun Ce]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Ce
+// Sun Ce
+patch=1,EE,00432549,extended,000000FF
+
+[Wei Yan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wei Yan
+// Wei Yan
+patch=1,EE,00432561,extended,000000FF
+
+[Pang Tong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pang Tong
+// Pang Tong
+patch=1,EE,00432579,extended,000000FF
+
+[Meng Huo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Meng Huo
+// Meng Huo
+patch=1,EE,00432591,extended,000000FF
+
+[Zhu Rong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhu Rong
+// Zhu Rong
+patch=1,EE,004325A9,extended,000000FF
+
+[Da Qiao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Da Qiao
+// Da Qiao
+patch=1,EE,004325C1,extended,000000FF
+
+[Xiao Qiao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xiao Qiao
+// Xiao Qiao
+patch=1,EE,004325D9,extended,000000FF
+
+[Cao Ren]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cao Ren
+// Cao Ren
+patch=1,EE,004325F1,extended,000000FF
+
+[Zhou Tai]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhou Tai
+// Zhou Tai
+patch=1,EE,00432609,extended,000000FF
+
+[Yue Ying]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yue Ying
+// Yue Ying
+patch=1,EE,00432621,extended,000000FF
+
+[Zhao Yun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhao Yun
+// Zhao Yun
+patch=1,EE,0043224A,extended,000000FF
+
+[Guan Yu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guan Yu
+// Guan Yu
+patch=1,EE,00432262,extended,000000FF
+
+[Zhang Fei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang Fei
+// Zhang Fei
+patch=1,EE,0043227A,extended,000000FF
+
+[Xiahou Dun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xiahou Dun
+// Xiahou Dun
+patch=1,EE,00432292,extended,000000FF
+
+[Dian Wei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dian Wei
+// Dian Wei
+patch=1,EE,004322AA,extended,000000FF
+
+[Xu Zhu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xu Zhu
+// Xu Zhu
+patch=1,EE,004322C2,extended,000000FF
+
+[Zhou Yu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhou Yu
+// Zhou Yu
+patch=1,EE,004322DA,extended,000000FF
+
+[Lu Xun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lu Xun
+// Lu Xun
+patch=1,EE,004322F2,extended,000000FF
+
+[Taishi Ci]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Taishi Ci
+// Taishi Ci
+patch=1,EE,0043230A,extended,000000FF
+
+[Diao Chan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Diao Chan
+// Diao Chan
+patch=1,EE,00432322,extended,000000FF
+
+[Zhuge Liang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhuge Liang
+// Zhuge Liang
+patch=1,EE,0043233A,extended,000000FF
+
+[Cao Cao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cao Cao
+// Cao Cao
+patch=1,EE,00432352,extended,000000FF
+
+[Lu Bu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lu Bu
+// Lu Bu
+patch=1,EE,0043236A,extended,000000FF
+
+[Sun Shang Xiang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Shang Xiang
+// Sun Shang Xiang
+patch=1,EE,00432382,extended,000000FF
+
+[Liu Bei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Liu Bei
+// Liu Bei
+patch=1,EE,0043239A,extended,000000FF
+
+[Sun Jian]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Jian
+// Sun Jian
+patch=1,EE,004323B2,extended,000000FF
+
+[Sun Quan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Quan
+// Sun Quan
+patch=1,EE,004323CA,extended,000000FF
+
+[Dong Zhuo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dong Zhuo
+// Dong Zhuo
+patch=1,EE,004323E2,extended,000000FF
+
+[Yuan Shao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yuan Shao
+// Yuan Shao
+patch=1,EE,004323FA,extended,000000FF
+
+[Ma Chao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ma Chao
+// Ma Chao
+patch=1,EE,00432412,extended,000000FF
+
+[Huang Zhong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huang Zhong
+// Huang Zhong
+patch=1,EE,0043242A,extended,000000FF
+
+[Xiahou Yuan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xiahou Yuan
+// Xiahou Yuan
+patch=1,EE,00432442,extended,000000FF
+
+[Zhang Liao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang Liao
+// Zhang Liao
+patch=1,EE,0043245A,extended,000000FF
+
+[Sim Yi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sim Yi
+// Sim Yi
+patch=1,EE,00432472,extended,000000FF
+
+[Lu Meng]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lu Meng
+// Lu Meng
+patch=1,EE,0043248A,extended,000000FF
+
+[Gan Ning]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gan Ning
+// Gan Ning
+patch=1,EE,004324A2,extended,000000FF
+
+[Jiang Wei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jiang Wei
+// Jiang Wei
+patch=1,EE,004324BA,extended,000000FF
+
+[Zhang Jiao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang Jiao
+// Zhang Jiao
+patch=1,EE,004324D2,extended,000000FF
+
+[Xu Huang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xu Huang
+// Xu Huang
+patch=1,EE,004324EA,extended,000000FF
+
+[Zhang He]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang He
+// Zhang He
+patch=1,EE,00432502,extended,000000FF
+
+[Zhen Ji-Wei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhen Ji-Wei
+// Zhen Ji-Wei
+patch=1,EE,0043251A,extended,000000FF
+
+[Huang Gai]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huang Gai
+// Huang Gai
+patch=1,EE,00432532,extended,000000FF
+
+[Sun Ce]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Ce
+// Sun Ce
+patch=1,EE,0043254A,extended,000000FF
+
+[Wei Yan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wei Yan
+// Wei Yan
+patch=1,EE,00432562,extended,000000FF
+
+[Pang Tong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pang Tong
+// Pang Tong
+patch=1,EE,0043257A,extended,000000FF
+
+[Meng Huo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Meng Huo
+// Meng Huo
+patch=1,EE,00432592,extended,000000FF
+
+[Zhu Rong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhu Rong
+// Zhu Rong
+patch=1,EE,004325AA,extended,000000FF
+
+[Da Qiao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Da Qiao
+// Da Qiao
+patch=1,EE,004325C2,extended,000000FF
+
+[Xiao Qiao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xiao Qiao
+// Xiao Qiao
+patch=1,EE,004325DA,extended,000000FF
+
+[Cao Ren]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cao Ren
+// Cao Ren
+patch=1,EE,004325F2,extended,000000FF
+
+[Zhou Tai]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhou Tai
+// Zhou Tai
+patch=1,EE,0043260A,extended,000000FF
+
+[Yue Ying]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yue Ying
+// Yue Ying
+patch=1,EE,00432622,extended,000000FF
+
+[Zhao Yun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhao Yun
+// Zhao Yun
+patch=1,EE,0043224B,extended,000000FF
+
+[Guan Yu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guan Yu
+// Guan Yu
+patch=1,EE,00432263,extended,000000FF
+
+[Zhang Fei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang Fei
+// Zhang Fei
+patch=1,EE,0043227B,extended,000000FF
+
+[Xiahou Dun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xiahou Dun
+// Xiahou Dun
+patch=1,EE,00432293,extended,000000FF
+
+[Dian Wei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dian Wei
+// Dian Wei
+patch=1,EE,004322AB,extended,000000FF
+
+[Xu Zhu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xu Zhu
+// Xu Zhu
+patch=1,EE,004322C3,extended,000000FF
+
+[Zhou Yu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhou Yu
+// Zhou Yu
+patch=1,EE,004322DB,extended,000000FF
+
+[Lu Xun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lu Xun
+// Lu Xun
+patch=1,EE,004322F3,extended,000000FF
+
+[Taishi Ci]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Taishi Ci
+// Taishi Ci
+patch=1,EE,0043230B,extended,000000FF
+
+[Diao Chan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Diao Chan
+// Diao Chan
+patch=1,EE,00432323,extended,000000FF
+
+[Zhuge Liang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhuge Liang
+// Zhuge Liang
+patch=1,EE,0043233B,extended,000000FF
+
+[Cao Cao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cao Cao
+// Cao Cao
+patch=1,EE,00432353,extended,000000FF
+
+[Lu Bu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lu Bu
+// Lu Bu
+patch=1,EE,0043236B,extended,000000FF
+
+[Sun Shang Xiang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Shang Xiang
+// Sun Shang Xiang
+patch=1,EE,00432383,extended,000000FF
+
+[Liu Bei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Liu Bei
+// Liu Bei
+patch=1,EE,0043239B,extended,000000FF
+
+[Sun Jian]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Jian
+// Sun Jian
+patch=1,EE,004323B3,extended,000000FF
+
+[Sun Quan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Quan
+// Sun Quan
+patch=1,EE,004323CB,extended,000000FF
+
+[Dong Zhuo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dong Zhuo
+// Dong Zhuo
+patch=1,EE,004323E3,extended,000000FF
+
+[Yuan Shao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yuan Shao
+// Yuan Shao
+patch=1,EE,004323FB,extended,000000FF
+
+[Ma Chao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ma Chao
+// Ma Chao
+patch=1,EE,00432413,extended,000000FF
+
+[Huang Zhong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huang Zhong
+// Huang Zhong
+patch=1,EE,0043242B,extended,000000FF
+
+[Xiahou Yuan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xiahou Yuan
+// Xiahou Yuan
+patch=1,EE,00432443,extended,000000FF
+
+[Zhang Liao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang Liao
+// Zhang Liao
+patch=1,EE,0043245B,extended,000000FF
+
+[Sim Yi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sim Yi
+// Sim Yi
+patch=1,EE,00432473,extended,000000FF
+
+[Lu Meng]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lu Meng
+// Lu Meng
+patch=1,EE,0043248B,extended,000000FF
+
+[Gan Ning]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gan Ning
+// Gan Ning
+patch=1,EE,004324A3,extended,000000FF
+
+[Jiang Wei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jiang Wei
+// Jiang Wei
+patch=1,EE,004324BB,extended,000000FF
+
+[Zhang Jiao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang Jiao
+// Zhang Jiao
+patch=1,EE,004324D3,extended,000000FF
+
+[Xu Huang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xu Huang
+// Xu Huang
+patch=1,EE,004324EB,extended,000000FF
+
+[Zhang He]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang He
+// Zhang He
+patch=1,EE,00432503,extended,000000FF
+
+[Zhen Ji-Wei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhen Ji-Wei
+// Zhen Ji-Wei
+patch=1,EE,0043251B,extended,000000FF
+
+[Huang Gai]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huang Gai
+// Huang Gai
+patch=1,EE,00432533,extended,000000FF
+
+[Sun Ce]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Ce
+// Sun Ce
+patch=1,EE,0043254B,extended,000000FF
+
+[Wei Yan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wei Yan
+// Wei Yan
+patch=1,EE,00432563,extended,000000FF
+
+[Pang Tong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pang Tong
+// Pang Tong
+patch=1,EE,0043257B,extended,000000FF
+
+[Meng Huo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Meng Huo
+// Meng Huo
+patch=1,EE,00432593,extended,000000FF
+
+[Zhu Rong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhu Rong
+// Zhu Rong
+patch=1,EE,004325AB,extended,000000FF
+
+[Da Qiao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Da Qiao
+// Da Qiao
+patch=1,EE,004325C3,extended,000000FF
+
+[Xiao Qiao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xiao Qiao
+// Xiao Qiao
+patch=1,EE,004325DB,extended,000000FF
+
+[Cao Ren]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cao Ren
+// Cao Ren
+patch=1,EE,004325F3,extended,000000FF
+
+[Zhou Tai]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhou Tai
+// Zhou Tai
+patch=1,EE,0043260B,extended,000000FF
+
+[Yue Ying]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yue Ying
+// Yue Ying
+patch=1,EE,00432623,extended,000000FF
+
+[Zhao Yun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhao Yun
+// Zhao Yun
+patch=1,EE,0043224C,extended,000000FF
+
+[Guan Yu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guan Yu
+// Guan Yu
+patch=1,EE,00432264,extended,000000FF
+
+[Zhang Fei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang Fei
+// Zhang Fei
+patch=1,EE,0043227C,extended,000000FF
+
+[Xiahou Dun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xiahou Dun
+// Xiahou Dun
+patch=1,EE,00432294,extended,000000FF
+
+[Dian Wei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dian Wei
+// Dian Wei
+patch=1,EE,004322AC,extended,000000FF
+
+[Xu Zhu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xu Zhu
+// Xu Zhu
+patch=1,EE,004322C4,extended,000000FF
+
+[Zhou Yu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhou Yu
+// Zhou Yu
+patch=1,EE,004322DC,extended,000000FF
+
+[Lu Xun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lu Xun
+// Lu Xun
+patch=1,EE,004322F4,extended,000000FF
+
+[Taishi Ci]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Taishi Ci
+// Taishi Ci
+patch=1,EE,0043230C,extended,000000FF
+
+[Diao Chan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Diao Chan
+// Diao Chan
+patch=1,EE,00432324,extended,000000FF
+
+[Zhuge Liang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhuge Liang
+// Zhuge Liang
+patch=1,EE,0043233C,extended,000000FF
+
+[Cao Cao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cao Cao
+// Cao Cao
+patch=1,EE,00432354,extended,000000FF
+
+[Lu Bu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lu Bu
+// Lu Bu
+patch=1,EE,0043236C,extended,000000FF
+
+[Sun Shang Xiang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Shang Xiang
+// Sun Shang Xiang
+patch=1,EE,00432384,extended,000000FF
+
+[Liu Bei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Liu Bei
+// Liu Bei
+patch=1,EE,0043239C,extended,000000FF
+
+[Sun Jian]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Jian
+// Sun Jian
+patch=1,EE,004323B4,extended,000000FF
+
+[Sun Quan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Quan
+// Sun Quan
+patch=1,EE,004323CC,extended,000000FF
+
+[Dong Zhuo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dong Zhuo
+// Dong Zhuo
+patch=1,EE,004323E4,extended,000000FF
+
+[Yuan Shao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yuan Shao
+// Yuan Shao
+patch=1,EE,004323FC,extended,000000FF
+
+[Ma Chao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ma Chao
+// Ma Chao
+patch=1,EE,00432414,extended,000000FF
+
+[Huang Zhong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huang Zhong
+// Huang Zhong
+patch=1,EE,0043242C,extended,000000FF
+
+[Xiahou Yuan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xiahou Yuan
+// Xiahou Yuan
+patch=1,EE,00432444,extended,000000FF
+
+[Zhang Liao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang Liao
+// Zhang Liao
+patch=1,EE,0043245C,extended,000000FF
+
+[Sim Yi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sim Yi
+// Sim Yi
+patch=1,EE,00432474,extended,000000FF
+
+[Lu Meng]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lu Meng
+// Lu Meng
+patch=1,EE,0043248C,extended,000000FF
+
+[Gan Ning]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gan Ning
+// Gan Ning
+patch=1,EE,004324A4,extended,000000FF
+
+[Jiang Wei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jiang Wei
+// Jiang Wei
+patch=1,EE,004324BC,extended,000000FF
+
+[Zhang Jiao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang Jiao
+// Zhang Jiao
+patch=1,EE,004324D4,extended,000000FF
+
+[Xu Huang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xu Huang
+// Xu Huang
+patch=1,EE,004324EC,extended,000000FF
+
+[Zhang He]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang He
+// Zhang He
+patch=1,EE,00432504,extended,000000FF
+
+[Zhen Ji-Wei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhen Ji-Wei
+// Zhen Ji-Wei
+patch=1,EE,0043251C,extended,000000FF
+
+[Huang Gai]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huang Gai
+// Huang Gai
+patch=1,EE,00432534,extended,000000FF
+
+[Sun Ce]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Ce
+// Sun Ce
+patch=1,EE,0043254C,extended,000000FF
+
+[Wei Yan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wei Yan
+// Wei Yan
+patch=1,EE,00432564,extended,000000FF
+
+[Pang Tong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pang Tong
+// Pang Tong
+patch=1,EE,0043257C,extended,000000FF
+
+[Meng Huo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Meng Huo
+// Meng Huo
+patch=1,EE,00432594,extended,000000FF
+
+[Zhu Rong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhu Rong
+// Zhu Rong
+patch=1,EE,004325AC,extended,000000FF
+
+[Da Qiao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Da Qiao
+// Da Qiao
+patch=1,EE,004325C4,extended,000000FF
+
+[Xiao Qiao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xiao Qiao
+// Xiao Qiao
+patch=1,EE,004325DC,extended,000000FF
+
+[Cao Ren]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cao Ren
+// Cao Ren
+patch=1,EE,004325F4,extended,000000FF
+
+[Zhou Tai]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhou Tai
+// Zhou Tai
+patch=1,EE,0043260C,extended,000000FF
+
+[Yue Ying]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yue Ying
+// Yue Ying
+patch=1,EE,00432624,extended,000000FF
+
+[Zhao Yun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhao Yun
+// Zhao Yun
+patch=1,EE,20432258,extended,0001869F
+
+[Guan Yu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guan Yu
+// Guan Yu
+patch=1,EE,20432270,extended,0001869F
+
+[Zhang Fei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang Fei
+// Zhang Fei
+patch=1,EE,20432288,extended,0001869F
+
+[Xiahou Dun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xiahou Dun
+// Xiahou Dun
+patch=1,EE,204322A0,extended,0001869F
+
+[Dian Wei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dian Wei
+// Dian Wei
+patch=1,EE,204322B8,extended,0001869F
+
+[Xu Zhu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xu Zhu
+// Xu Zhu
+patch=1,EE,204322D0,extended,0001869F
+
+[Zhou Yu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhou Yu
+// Zhou Yu
+patch=1,EE,204322E8,extended,0001869F
+
+[Lu Xun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lu Xun
+// Lu Xun
+patch=1,EE,20432300,extended,0001869F
+
+[Taishi Ci]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Taishi Ci
+// Taishi Ci
+patch=1,EE,20432318,extended,0001869F
+
+[Diao Chan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Diao Chan
+// Diao Chan
+patch=1,EE,20432330,extended,0001869F
+
+[Zhuge Liang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhuge Liang
+// Zhuge Liang
+patch=1,EE,20432348,extended,0001869F
+
+[Cao Cao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cao Cao
+// Cao Cao
+patch=1,EE,20432360,extended,0001869F
+
+[Lu Bu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lu Bu
+// Lu Bu
+patch=1,EE,20432378,extended,0001869F
+
+[Sun Shang Xiang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Shang Xiang
+// Sun Shang Xiang
+patch=1,EE,20432390,extended,0001869F
+
+[Liu Bei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Liu Bei
+// Liu Bei
+patch=1,EE,204323A8,extended,0001869F
+
+[Sun Jian]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Jian
+// Sun Jian
+patch=1,EE,204323C0,extended,0001869F
+
+[Sun Quan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Quan
+// Sun Quan
+patch=1,EE,204323D8,extended,0001869F
+
+[Dong Zhuo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dong Zhuo
+// Dong Zhuo
+patch=1,EE,204323F0,extended,0001869F
+
+[Yuan Shao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yuan Shao
+// Yuan Shao
+patch=1,EE,20432408,extended,0001869F
+
+[Ma Chao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ma Chao
+// Ma Chao
+patch=1,EE,20432420,extended,0001869F
+
+[Huang Zhong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huang Zhong
+// Huang Zhong
+patch=1,EE,20432438,extended,0001869F
+
+[Xiahou Yuan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xiahou Yuan
+// Xiahou Yuan
+patch=1,EE,20432450,extended,0001869F
+
+[Zhang Liao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang Liao
+// Zhang Liao
+patch=1,EE,20432468,extended,0001869F
+
+[Sim Yi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sim Yi
+// Sim Yi
+patch=1,EE,20432480,extended,0001869F
+
+[Lu Meng]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lu Meng
+// Lu Meng
+patch=1,EE,20432498,extended,0001869F
+
+[Gan Ning]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gan Ning
+// Gan Ning
+patch=1,EE,204324B0,extended,0001869F
+
+[Jiang Wei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jiang Wei
+// Jiang Wei
+patch=1,EE,204324C8,extended,0001869F
+
+[Zhang Jiao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang Jiao
+// Zhang Jiao
+patch=1,EE,204324E0,extended,0001869F
+
+[Xu Huang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xu Huang
+// Xu Huang
+patch=1,EE,204324F8,extended,0001869F
+
+[Zhang He]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang He
+// Zhang He
+patch=1,EE,20432510,extended,0001869F
+
+[Zhen Ji-Wei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhen Ji-Wei
+// Zhen Ji-Wei
+patch=1,EE,20432528,extended,0001869F
+
+[Huang Gai]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huang Gai
+// Huang Gai
+patch=1,EE,20432540,extended,0001869F
+
+[Sun Ce]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Ce
+// Sun Ce
+patch=1,EE,20432558,extended,0001869F
+
+[Wei Yan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wei Yan
+// Wei Yan
+patch=1,EE,20432570,extended,0001869F
+
+[Pang Tong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pang Tong
+// Pang Tong
+patch=1,EE,20432588,extended,0001869F
+
+[Meng Huo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Meng Huo
+// Meng Huo
+patch=1,EE,204325A0,extended,0001869F
+
+[Zhu Rong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhu Rong
+// Zhu Rong
+patch=1,EE,204325B8,extended,0001869F
+
+[Da Qiao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Da Qiao
+// Da Qiao
+patch=1,EE,204325D0,extended,0001869F
+
+[Xiao Qiao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xiao Qiao
+// Xiao Qiao
+patch=1,EE,204325E8,extended,0001869F
+
+[Cao Ren]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cao Ren
+// Cao Ren
+patch=1,EE,20432600,extended,0001869F
+
+[Zhou Tai]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhou Tai
+// Zhou Tai
+patch=1,EE,20432618,extended,0001869F
+
+[Yue Ying]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yue Ying
+// Yue Ying
+patch=1,EE,20432630,extended,0001869F
+
+[Zhao Yun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhao Yun
+// Zhao Yun
+patch=1,EE,10432928,extended,0000FFFF
+
+[Guan Yu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guan Yu
+// Guan Yu
+patch=1,EE,1043292A,extended,0000FFFF
+
+[Zhang Fei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang Fei
+// Zhang Fei
+patch=1,EE,1043292C,extended,0000FFFF
+
+[Xiahou Dun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xiahou Dun
+// Xiahou Dun
+patch=1,EE,1043292E,extended,0000FFFF
+
+[Dian Wei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dian Wei
+// Dian Wei
+patch=1,EE,10432930,extended,0000FFFF
+
+[Xu Zhu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xu Zhu
+// Xu Zhu
+patch=1,EE,10432932,extended,0000FFFF
+
+[Zhou Yu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhou Yu
+// Zhou Yu
+patch=1,EE,10432934,extended,0000FFFF
+
+[Lu Xun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lu Xun
+// Lu Xun
+patch=1,EE,10432936,extended,0000FFFF
+
+[Taishi Ci]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Taishi Ci
+// Taishi Ci
+patch=1,EE,10432938,extended,0000FFFF
+
+[Diao Chan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Diao Chan
+// Diao Chan
+patch=1,EE,1043293A,extended,0000FFFF
+
+[Zhuge Liang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhuge Liang
+// Zhuge Liang
+patch=1,EE,1043293C,extended,0000FFFF
+
+[Cao Cao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cao Cao
+// Cao Cao
+patch=1,EE,1043293E,extended,0000FFFF
+
+[Lu Bu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lu Bu
+// Lu Bu
+patch=1,EE,10432940,extended,0000FFFF
+
+[Sun Shang Xiang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Shang Xiang
+// Sun Shang Xiang
+patch=1,EE,10432942,extended,0000FFFF
+
+[Liu Bei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Liu Bei
+// Liu Bei
+patch=1,EE,10432944,extended,0000FFFF
+
+[Sun Jian]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Jian
+// Sun Jian
+patch=1,EE,10432946,extended,0000FFFF
+
+[Sun Quan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Quan
+// Sun Quan
+patch=1,EE,10432948,extended,0000FFFF
+
+[Dong Zhuo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dong Zhuo
+// Dong Zhuo
+patch=1,EE,1043294A,extended,0000FFFF
+
+[Yuan Shao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yuan Shao
+// Yuan Shao
+patch=1,EE,1043294C,extended,0000FFFF
+
+[Ma Chao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ma Chao
+// Ma Chao
+patch=1,EE,1043294E,extended,0000FFFF
+
+[Huang Zhong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huang Zhong
+// Huang Zhong
+patch=1,EE,10432950,extended,0000FFFF
+
+[Xiahou Yuan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xiahou Yuan
+// Xiahou Yuan
+patch=1,EE,10432952,extended,0000FFFF
+
+[Zhang Liao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang Liao
+// Zhang Liao
+patch=1,EE,10432954,extended,0000FFFF
+
+[Sim Yi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sim Yi
+// Sim Yi
+patch=1,EE,10432956,extended,0000FFFF
+
+[Lu Meng]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lu Meng
+// Lu Meng
+patch=1,EE,10432958,extended,0000FFFF
+
+[Gan Ning]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gan Ning
+// Gan Ning
+patch=1,EE,1043295A,extended,0000FFFF
+
+[Jiang Wei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jiang Wei
+// Jiang Wei
+patch=1,EE,1043295C,extended,0000FFFF
+
+[Zhang Jiao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang Jiao
+// Zhang Jiao
+patch=1,EE,1043295E,extended,0000FFFF
+
+[Xu Huang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xu Huang
+// Xu Huang
+patch=1,EE,10432960,extended,0000FFFF
+
+[Zhang He]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhang He
+// Zhang He
+patch=1,EE,10432962,extended,0000FFFF
+
+[Zhen Ji-Wei]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhen Ji-Wei
+// Zhen Ji-Wei
+patch=1,EE,10432964,extended,0000FFFF
+
+[Huang Gai]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huang Gai
+// Huang Gai
+patch=1,EE,10432966,extended,0000FFFF
+
+[Sun Ce]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sun Ce
+// Sun Ce
+patch=1,EE,10432968,extended,0000FFFF
+
+[Wei Yan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wei Yan
+// Wei Yan
+patch=1,EE,1043296A,extended,0000FFFF
+
+[Pang Tong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pang Tong
+// Pang Tong
+patch=1,EE,1043296C,extended,0000FFFF
+
+[Meng Huo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Meng Huo
+// Meng Huo
+patch=1,EE,1043296E,extended,0000FFFF
+
+[Zhu Rong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhu Rong
+// Zhu Rong
+patch=1,EE,10432970,extended,0000FFFF
+
+[Da Qiao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Da Qiao
+// Da Qiao
+patch=1,EE,10432972,extended,0000FFFF
+
+[Xiao Qiao]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xiao Qiao
+// Xiao Qiao
+patch=1,EE,10432974,extended,0000FFFF
+
+[Cao Ren]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cao Ren
+// Cao Ren
+patch=1,EE,10432976,extended,0000FFFF
+
+[Zhou Tai]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zhou Tai
+// Zhou Tai
+patch=1,EE,10432978,extended,0000FFFF
+
+[Yue Ying]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yue Ying
+// Yue Ying
+patch=1,EE,1043297A,extended,0000FFFF
+
+[Edit 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Edit 1
+// Edit 1
+patch=1,EE,1043297C,extended,0000FFFF
+
+[Edit 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Edit 2
+// Edit 2
+patch=1,EE,1043297E,extended,0000FFFF
+
+[Edit 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Edit 3
+// Edit 3
+patch=1,EE,10432980,extended,0000FFFF
+
+[Edit 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Edit 4
+// Edit 4
+patch=1,EE,10432982,extended,0000FFFF
+
+[Edit 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Edit 5
+// Edit 5
+patch=1,EE,10432984,extended,0000FFFF
+
+[Peacock Urn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peacock Urn
+// Peacock Urn
+patch=1,EE,00432986,extended,00000062
+
+[Dragon Amulet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dragon Amulet
+// Dragon Amulet
+patch=1,EE,00432987,extended,00000062
+
+[Tiger Amulet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiger Amulet
+// Tiger Amulet
+patch=1,EE,00432988,extended,00000062
+
+[Tortoise Amulet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tortoise Amulet
+// Tortoise Amulet
+patch=1,EE,00432989,extended,00000062
+
+[Speed Scroll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speed Scroll
+// Speed Scroll
+patch=1,EE,0043298A,extended,00000062
+
+[Wing Boots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wing Boots
+// Wing Boots
+patch=1,EE,0043298B,extended,00000062
+
+[Huang's Bow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huang's Bow
+// Huang's Bow
+patch=1,EE,0043298C,extended,00000062
+
+[Nanman Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nanman Armor
+// Nanman Armor
+patch=1,EE,0043298D,extended,00000062
+
+[Horned Helm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Horned Helm
+// Horned Helm
+patch=1,EE,0043298E,extended,00000062
+
+[Cavalry Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cavalry Armor
+// Cavalry Armor
+patch=1,EE,0043298F,extended,00000062
+
+[Seven Star Sash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Seven Star Sash
+// Seven Star Sash
+patch=1,EE,00432990,extended,00000062
+
+[Elixir]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elixir
+// Elixir
+patch=1,EE,00432991,extended,00000062
+
+[Herbal Remedy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Herbal Remedy
+// Herbal Remedy
+patch=1,EE,00432992,extended,00000062
+
+[Fire Orb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fire Orb
+// Fire Orb
+patch=1,EE,00432993,extended,00000062
+
+[Lightning Orb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lightning Orb
+// Lightning Orb
+patch=1,EE,00432994,extended,00000062
+
+[Vorpal Orb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vorpal Orb
+// Vorpal Orb
+patch=1,EE,00432995,extended,00000062
+
+[Ice Orb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Orb
+// Ice Orb
+patch=1,EE,00432996,extended,00000062
+
+[Blast Orb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blast Orb
+// Blast Orb
+patch=1,EE,00432997,extended,00000062
+
+[Poison Orb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Orb
+// Poison Orb
+patch=1,EE,00432998,extended,00000062
+
+[Red Hare Harness]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Hare Harness
+// Red Hare Harness
+patch=1,EE,00432999,extended,00000000
+
+[Hex Mark Harness]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hex Mark Harness
+// Hex Mark Harness
+patch=1,EE,0043299A,extended,00000000
+
+[Storm Harness]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Storm Harness
+// Storm Harness
+patch=1,EE,0043299B,extended,00000000
+
+[Shadow Harness]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shadow Harness
+// Shadow Harness
+patch=1,EE,0043299C,extended,00000000
+
+[Elephant Harness]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elephant Harness
+// Elephant Harness
+patch=1,EE,0043299D,extended,00000000
+
+[Art Of War]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Art Of War
+// Art Of War
+patch=1,EE,0043299E,extended,00000000
+
+[Survival Guide]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Survival Guide
+// Survival Guide
+patch=1,EE,0043299F,extended,00000000
+
+[Bodyguard Manual]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bodyguard Manual
+// Bodyguard Manual
+patch=1,EE,004329A0,extended,00000000
+
+[Way Of Musou]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Way Of Musou
+// Way Of Musou
+patch=1,EE,004329A1,extended,00000000
+
+[Power Scroll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power Scroll
+// Power Scroll
+patch=1,EE,004329A2,extended,00000000
+
+[Wind Scroll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wind Scroll
+// Wind Scroll
+patch=1,EE,004329A3,extended,00000000
+
+[Fire Arrows]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fire Arrows
+// Fire Arrows
+patch=1,EE,004329A4,extended,00000000
+
+[Charge Bracer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Charge Bracer
+// Charge Bracer
+patch=1,EE,004329A5,extended,00000000

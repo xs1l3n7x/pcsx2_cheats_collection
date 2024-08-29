@@ -1,0 +1,43 @@
+gametitle=Drome Racers [SLUS-20577] [037181FF]
+
+[Unlock All Divisions-All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Divisions-All Levels
+// Unlock All Divisions-All Levels
+patch=1,EE,90134474,extended,0C048E68
+
+[Stop Total Lap Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stop Total Lap Timer
+// Stop Total Lap Timer
+patch=1,EE,202AF7DC,extended,00000000
+
+[Stop Lap Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stop Lap Timer
+// Stop Lap Timer
+patch=1,EE,20270F2C,extended,00000000
+
+[Quick Credits Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Credits Gain
+// Quick Credits Gain
+patch=1,EE,104F3F00,extended,0000FFFF
+
+[Max Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Credits
+// Max Credits
+patch=1,EE,204F3F00,extended,05F5E0FF
+
+[Quick Build Token Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Build Token Gain
+// Quick Build Token Gain
+patch=1,EE,104F3F04,extended,0000FFFF
+
+[Max Build Tokens]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Build Tokens
+// Max Build Tokens
+patch=1,EE,204F3F04,extended,05F5E0FF

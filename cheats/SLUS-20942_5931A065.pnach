@@ -1,0 +1,157 @@
+gametitle=Robots [SLUS-20942] [5931A065]
+
+[Rock's Multiplayer Skin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rock's Multiplayer Skin
+// Rock's Multiplayer Skin
+patch=1,EE,902E1C40,extended,0C0BC822
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,202E81E8,extended,24020001
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0230,extended,C44003D4
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0234,extended,03E00008
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0238,extended,E44003D0
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201B496C,extended,0C03008C
+
+[Health Never Decreases]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health Never Decreases
+// Health Never Decreases
+patch=1,EE,201CAEF0,extended,00000000
+
+[Quick Max Scrap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Max Scrap
+// Quick Max Scrap
+patch=1,EE,20114068,extended,2402270F
+
+[Quick Max Scrap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Max Scrap
+// Quick Max Scrap
+patch=1,EE,201140C4,extended,2402270F
+
+[Scrap Worth x2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scrap Worth x2
+// Scrap Worth x2
+patch=1,EE,20114064,extended,24030002
+
+[Scrap Worth x3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scrap Worth x3
+// Scrap Worth x3
+patch=1,EE,20114064,extended,24030003
+
+[Scrap Worth x4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scrap Worth x4
+// Scrap Worth x4
+patch=1,EE,20114064,extended,24030004
+
+[Scrap Worth x5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scrap Worth x5
+// Scrap Worth x5
+patch=1,EE,20114064,extended,24030005
+
+[Scrap Worth x10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scrap Worth x10
+// Scrap Worth x10
+patch=1,EE,20114064,extended,2403000A
+
+[Scrap Worth x25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scrap Worth x25
+// Scrap Worth x25
+patch=1,EE,20114064,extended,24030019
+
+[Scrap Worth x50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scrap Worth x50
+// Scrap Worth x50
+patch=1,EE,20114064,extended,24030032
+
+[Scrap Worth x100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scrap Worth x100
+// Scrap Worth x100
+patch=1,EE,20114064,extended,24030064
+
+[Infinite Scrap Launcher Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Scrap Launcher Usage
+// Infinite Scrap Launcher Usage
+patch=1,EE,2011DF30,extended,00000000
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,200C0220,extended,3C0140A0
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,200C0224,extended,AE010148
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,200C0228,extended,03E00008
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,200C022C,extended,C6010148
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,D03A4F82,extended,0000BFFF
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,2011F27C,extended,0C030088
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,D03A4F82,extended,0000FFFF
+
+[P1 Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Moon Jump
+// P1 Press {CROSS} For Moon Jump
+patch=1,EE,2011F27C,extended,C6010148

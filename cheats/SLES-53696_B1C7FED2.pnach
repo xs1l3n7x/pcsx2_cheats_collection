@@ -1,0 +1,271 @@
+gametitle=Zathura [SLES-53696] [B1C7FED2]
+
+[P1 Press {L2}+{SELECT} For 0 Mamado Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For 0 Mamado Points
+// P1 Press {L2}+{SELECT} For 0 Mamado Points
+patch=1,EE,9011FDF8,extended,00832021
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0220,extended,080A4819
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0224,extended,E4540014
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20292058,extended,08030088
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,200C0230,extended,C440000C
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,200C0234,extended,080A47E2
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,200C0238,extended,E4400014
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,20291F84,extended,0803008C
+
+[Z Counter Worth 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Z Counter Worth 10
+// Z Counter Worth 10
+patch=1,EE,10230C10,extended,0000000A
+
+[Z Counter Worth 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Z Counter Worth 5
+// Z Counter Worth 5
+patch=1,EE,10230C10,extended,00000005
+
+[Z Counter Worth 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Z Counter Worth 2
+// Z Counter Worth 2
+patch=1,EE,10230C10,extended,00000002
+
+[Every Z Counter Increases Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Every Z Counter Increases Energy
+// Every Z Counter Increases Energy
+patch=1,EE,20230C10,extended,24020032
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,200C0240,extended,AC410000
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,200C0244,extended,0808CCAF
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,200C024C,extended,8C420000
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,202332B0,extended,08030090
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,202332B4,extended,24010001
+
+[The Adventure Begins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Adventure Begins
+// The Adventure Begins
+patch=1,EE,208A875C,extended,00000001
+
+[Hello Robot Planet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hello Robot Planet
+// Hello Robot Planet
+patch=1,EE,208A876C,extended,00000001
+
+[The Escape]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Escape
+// The Escape
+patch=1,EE,208A877C,extended,00000001
+
+[Reprogrammed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reprogrammed
+// Reprogrammed
+patch=1,EE,208A878C,extended,00000001
+
+[The Gauntlet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Gauntlet
+// The Gauntlet
+patch=1,EE,208A879C,extended,00000001
+
+[A Master Betrayed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=A Master Betrayed
+// A Master Betrayed
+patch=1,EE,208A87AC,extended,00000001
+
+[A Dangerous Game]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=A Dangerous Game
+// A Dangerous Game
+patch=1,EE,208A87BC,extended,00000001
+
+[Fall To Tsouris-3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fall To Tsouris-3
+// Fall To Tsouris-3
+patch=1,EE,208A87CC,extended,00000001
+
+[Into The Fire]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Into The Fire
+// Into The Fire
+patch=1,EE,208A87DC,extended,00000001
+
+[Mr. Meltdown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mr. Meltdown
+// Mr. Meltdown
+patch=1,EE,208A87EC,extended,00000001
+
+[Visitors]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Visitors
+// Visitors
+patch=1,EE,208A87FC,extended,00000001
+
+[Mysterious Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mysterious Station
+// Mysterious Station
+patch=1,EE,208A881C,extended,00000001
+
+[Finding A Way]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Finding A Way
+// Finding A Way
+patch=1,EE,208A882C,extended,00000001
+
+[Breaking Through]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Breaking Through
+// Breaking Through
+patch=1,EE,208A883C,extended,00000001
+
+[Surviving The Swarm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Surviving The Swarm
+// Surviving The Swarm
+patch=1,EE,208A884C,extended,00000001
+
+[Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lost
+// Lost
+patch=1,EE,208A886C,extended,00000001
+
+[The Dead Planet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Dead Planet
+// The Dead Planet
+patch=1,EE,208A888C,extended,00000001
+
+[Search And Rescue]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Search And Rescue
+// Search And Rescue
+patch=1,EE,208A889C,extended,00000001
+
+[The Stone Goddess]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Stone Goddess
+// The Stone Goddess
+patch=1,EE,208A88AC,extended,00000001
+
+[Game Over]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Game Over
+// Game Over
+patch=1,EE,208A88BC,extended,00000001
+
+[Battle In The Stars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle In The Stars
+// Battle In The Stars
+patch=1,EE,208A887C,extended,00000001
+
+[The Zorgon Mothership]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Zorgon Mothership
+// The Zorgon Mothership
+patch=1,EE,208A88EC,extended,00000001
+
+[The Lure]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Lure
+// The Lure
+patch=1,EE,208A88FC,extended,00000001
+
+[One Last Chance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=One Last Chance
+// One Last Chance
+patch=1,EE,208A890C,extended,00000001
+
+[Enter The Overlord]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enter The Overlord
+// Enter The Overlord
+patch=1,EE,208A891C,extended,00000001
+
+[Zathura]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zathura
+// Zathura
+patch=1,EE,208A892C,extended,00000001
+
+[All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Levels
+// All Levels
+patch=1,EE,408A875C,extended,001E0004
+
+[All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Levels
+// All Levels
+patch=1,EE,00000001,extended,00000000

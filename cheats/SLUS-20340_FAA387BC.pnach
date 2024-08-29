@@ -1,0 +1,265 @@
+gametitle=RPG Maker 2 [SLUS-20340] [FAA387BC]
+
+[Have All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Cars
+// Have All Cars
+patch=1,EE,F0100008,extended,002CED97
+
+[Buying Items Doesnt Decrease Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Items Doesnt Decrease Gold
+// Buying Items Doesnt Decrease Gold
+patch=1,EE,2018D7B8,extended,00000000
+
+[Buying Items Increases Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Items Increases Gold
+// Buying Items Increases Gold
+patch=1,EE,2018D7B0,extended,00441021
+
+[Buy An Item For Max Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buy An Item For Max Gold
+// Buy An Item For Max Gold
+patch=1,EE,2018D7D0,extended,00000000
+
+[Stop Play Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stop Play Timer
+// Stop Play Timer
+patch=1,EE,2018B070,extended,00000000
+
+[Stop Play Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stop Play Timer
+// Stop Play Timer
+patch=1,EE,2018B084,extended,00000000
+
+[Stop Play Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stop Play Timer
+// Stop Play Timer
+patch=1,EE,2018B09C,extended,00000000
+
+[Monsters Have No MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monsters Have No MP
+// Monsters Have No MP
+patch=1,EE,201A2D20,extended,A4600090
+
+[Infinite HP (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP (In-Battle)
+// Infinite HP (In-Battle)
+patch=1,EE,201A2B7C,extended,AC670108
+
+[Infinite MP Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP Usage
+// Infinite MP Usage
+patch=1,EE,201A2CCC,extended,AC670104
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,200C0220,extended,241003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,200C0224,extended,03E00008
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,200C0228,extended,A4700120
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,201A6F38,extended,0C030088
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,200C0230,extended,241003E7
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,200C0234,extended,03E00008
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,200C0238,extended,A4700122
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,201A7050,extended,0C03008C
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,201A73E4,extended,240303E7
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,201A73E8,extended,AC830108
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,101A73EE,extended,00001000
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,201A7444,extended,240303E7
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,201A7448,extended,AC830104
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,101A744E,extended,00001000
+
+[Max STR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max STR
+// Max STR
+patch=1,EE,200C0240,extended,241003E7
+
+[Max STR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max STR
+// Max STR
+patch=1,EE,200C0244,extended,03E00008
+
+[Max STR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max STR
+// Max STR
+patch=1,EE,200C0248,extended,A4700124
+
+[Max STR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max STR
+// Max STR
+patch=1,EE,201A69E0,extended,0C030090
+
+[Max INT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max INT
+// Max INT
+patch=1,EE,200C0250,extended,241003E7
+
+[Max INT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max INT
+// Max INT
+patch=1,EE,200C0254,extended,03E00008
+
+[Max INT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max INT
+// Max INT
+patch=1,EE,200C0258,extended,A4700126
+
+[Max INT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max INT
+// Max INT
+patch=1,EE,201A6D10,extended,0C030094
+
+[Max LUCk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LUCk
+// Max LUCk
+patch=1,EE,200C0260,extended,241003E7
+
+[Max LUCk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LUCk
+// Max LUCk
+patch=1,EE,200C0264,extended,03E00008
+
+[Max LUCk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LUCk
+// Max LUCk
+patch=1,EE,200C0268,extended,A4700128
+
+[Max LUCk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LUCk
+// Max LUCk
+patch=1,EE,201A6E20,extended,0C030098
+
+[Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DEF
+// Max DEF
+patch=1,EE,200C0270,extended,241003E7
+
+[Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DEF
+// Max DEF
+patch=1,EE,200C0274,extended,03E00008
+
+[Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DEF
+// Max DEF
+patch=1,EE,200C0278,extended,A470012A
+
+[Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DEF
+// Max DEF
+patch=1,EE,201A6C00,extended,0C03009C
+
+[Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DEF
+// Max DEF
+patch=1,EE,200C0280,extended,241003E7
+
+[Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DEF
+// Max DEF
+patch=1,EE,200C0284,extended,03E00008
+
+[Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DEF
+// Max DEF
+patch=1,EE,200C0288,extended,A470012C
+
+[Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DEF
+// Max DEF
+patch=1,EE,201A6AF0,extended,0C0300A0

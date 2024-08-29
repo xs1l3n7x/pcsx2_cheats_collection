@@ -1,0 +1,385 @@
+gametitle=Disney's Chicken Little [SLES-53738] [9A69BC35]
+
+[Hole 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hole 18
+// Hole 18
+patch=1,EE,9041D370,extended,00832021
+
+[Hole 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hole 18
+// Hole 18
+patch=1,EE,200C0220,extended,0809BEBA
+
+[Hole 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hole 18
+// Hole 18
+patch=1,EE,200C0224,extended,240603E7
+
+[Hole 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hole 18
+// Hole 18
+patch=1,EE,200C0228,extended,0809BEBA
+
+[Hole 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hole 18
+// Hole 18
+patch=1,EE,200C022C,extended,24060001
+
+[Infinite Cluck Luck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Cluck Luck
+// Infinite Cluck Luck
+patch=1,EE,201447B8,extended,24A50000
+
+[Max Infinite Cluck Luck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Cluck Luck
+// Max Infinite Cluck Luck
+patch=1,EE,201447B8,extended,24050006
+
+[Max Acorns]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Acorns
+// Max Acorns
+patch=1,EE,205187C4,extended,00000009
+
+[Max Coins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Coins
+// Max Coins
+patch=1,EE,2051880C,extended,00000063
+
+[Max Card Sets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Card Sets
+// Max Card Sets
+patch=1,EE,20253958,extended,0C030088
+
+[Drone Dash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Drone Dash
+// Drone Dash
+patch=1,EE,20253E38,extended,0C03008A
+
+[Drone Dash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Drone Dash
+// Drone Dash
+patch=1,EE,20253E40,extended,24020000
+
+[Pig Paddle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pig Paddle
+// Pig Paddle
+patch=1,EE,20253E60,extended,0C03008A
+
+[Pig Paddle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pig Paddle
+// Pig Paddle
+patch=1,EE,20253E68,extended,24020000
+
+[Super Speedway]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Speedway
+// Super Speedway
+patch=1,EE,20253E88,extended,0C03008A
+
+[Super Speedway]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Speedway
+// Super Speedway
+patch=1,EE,20253E90,extended,24020000
+
+[Saucer Smash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Saucer Smash
+// Saucer Smash
+patch=1,EE,20253EB0,extended,0C03008A
+
+[Saucer Smash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Saucer Smash
+// Saucer Smash
+patch=1,EE,20253EB8,extended,24020000
+
+[Space Shooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Space Shooter
+// Space Shooter
+patch=1,EE,20253ED8,extended,0C03008A
+
+[Space Shooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Space Shooter
+// Space Shooter
+patch=1,EE,20253EE0,extended,24020000
+
+[Walker War]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Walker War
+// Walker War
+patch=1,EE,20253EF8,extended,0C03008A
+
+[Walker War]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Walker War
+// Walker War
+patch=1,EE,20253F00,extended,24020000
+
+[God Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=God Mode
+// God Mode
+patch=1,EE,20144710,extended,0C03008A
+
+[God Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=God Mode
+// God Mode
+patch=1,EE,1014471A,extended,00001000
+
+[Big Head]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Head
+// Big Head
+patch=1,EE,20140870,extended,0C03008A
+
+[Big Head]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Head
+// Big Head
+patch=1,EE,20140878,extended,24020001
+
+[Big Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Feet
+// Big Feet
+patch=1,EE,201408B0,extended,0C03008A
+
+[Big Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Feet
+// Big Feet
+patch=1,EE,201408B8,extended,24020001
+
+[Big Comb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Comb
+// Big Comb
+patch=1,EE,20140974,extended,0C03008A
+
+[Big Comb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Comb
+// Big Comb
+patch=1,EE,2014097C,extended,24020001
+
+[Sunglasses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sunglasses
+// Sunglasses
+patch=1,EE,201409D8,extended,0C03008A
+
+[Sunglasses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sunglasses
+// Sunglasses
+patch=1,EE,201409E0,extended,24020001
+
+[Underwear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Underwear
+// Underwear
+patch=1,EE,20140A6C,extended,0C03008A
+
+[Underwear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Underwear
+// Underwear
+patch=1,EE,20140A74,extended,24020001
+
+[Paper Pants]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Paper Pants
+// Paper Pants
+patch=1,EE,20140AA8,extended,0C03008A
+
+[Paper Pants]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Paper Pants
+// Paper Pants
+patch=1,EE,20140AB0,extended,24020001
+
+[Feather Cloud]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Feather Cloud
+// Feather Cloud
+patch=1,EE,20140B94,extended,0C03008A
+
+[Feather Cloud]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Feather Cloud
+// Feather Cloud
+patch=1,EE,20140B9C,extended,24020001
+
+[Late For School]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Late For School
+// Late For School
+patch=1,EE,20518848,extended,00000004
+
+[Dodgeball Hall-Pail Ride]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dodgeball Hall-Pail Ride
+// Dodgeball Hall-Pail Ride
+patch=1,EE,20518854,extended,00000004
+
+[Dodgeball Hall-Dodgeball]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dodgeball Hall-Dodgeball
+// Dodgeball Hall-Dodgeball
+patch=1,EE,20518860,extended,00000004
+
+[Goosey Chase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goosey Chase
+// Goosey Chase
+patch=1,EE,2051886C,extended,00000004
+
+[Uniform Hunt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Uniform Hunt
+// Uniform Hunt
+patch=1,EE,20518878,extended,00000004
+
+[Baseball Practice-The Big Game]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Baseball Practice-The Big Game
+// Baseball Practice-The Big Game
+patch=1,EE,20518884,extended,00000004
+
+[Carpool Craze]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Carpool Craze
+// Carpool Craze
+patch=1,EE,20518890,extended,00000004
+
+[Backyard Pursuit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Backyard Pursuit
+// Backyard Pursuit
+patch=1,EE,2051889C,extended,00000004
+
+[Space Simulator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Space Simulator
+// Space Simulator
+patch=1,EE,205188A8,extended,00000004
+
+[Alien Abby]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Alien Abby
+// Alien Abby
+patch=1,EE,205188B4,extended,00000004
+
+[Runaway Hunt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Runaway Hunt
+// Runaway Hunt
+patch=1,EE,205188C0,extended,00000004
+
+[Space Alarm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Space Alarm
+// Space Alarm
+patch=1,EE,205188CC,extended,00000004
+
+[Space Simulator II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Space Simulator II
+// Space Simulator II
+patch=1,EE,205188D8,extended,00000004
+
+[Tube Surf]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tube Surf
+// Tube Surf
+patch=1,EE,205188E4,extended,00000004
+
+[Cornfield Escape]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cornfield Escape
+// Cornfield Escape
+patch=1,EE,205188F0,extended,00000004
+
+[Cannon Chaos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cannon Chaos
+// Cannon Chaos
+patch=1,EE,205188FC,extended,00000004
+
+[Firetruck Frenzy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Firetruck Frenzy
+// Firetruck Frenzy
+patch=1,EE,20518908,extended,00000004
+
+[Tube Tumble]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tube Tumble
+// Tube Tumble
+patch=1,EE,20518914,extended,00000004
+
+[Alien Little]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Alien Little
+// Alien Little
+patch=1,EE,20518920,extended,00000004
+
+[Gravity Grab]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gravity Grab
+// Gravity Grab
+patch=1,EE,2051892C,extended,00000004
+
+[Space Simulator III]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Space Simulator III
+// Space Simulator III
+patch=1,EE,20518938,extended,00000004
+
+[Final Boss]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Final Boss
+// Final Boss
+patch=1,EE,20518944,extended,00000004
+
+[Runt's Escape]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Runt's Escape
+// Runt's Escape
+patch=1,EE,20518950,extended,00000004
+
+[Space Armada]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Space Armada
+// Space Armada
+patch=1,EE,2051895C,extended,00000004
+
+[All Buck Cluck Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Buck Cluck Trading Cards
+// All Buck Cluck Trading Cards
+patch=1,EE,40518848,extended,00180003
+
+[All Buck Cluck Trading Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Buck Cluck Trading Cards
+// All Buck Cluck Trading Cards
+patch=1,EE,00000005,extended,00000000

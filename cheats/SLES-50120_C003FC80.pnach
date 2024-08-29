@@ -1,0 +1,151 @@
+gametitle=Rumble Racing [SLES-50120] [C003FC80]
+
+[Slot 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 12
+// Slot 12
+patch=1,EE,F0100008,extended,0010EC4F
+
+[Unlock All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cars
+// Unlock All Cars
+patch=1,EE,40228740,extended,001B0001
+
+[Unlock All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cars
+// Unlock All Cars
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Tracks
+// Unlock All Tracks
+patch=1,EE,102287AE,extended,00000101
+
+[Unlock All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Tracks
+// Unlock All Tracks
+patch=1,EE,402287B0,extended,00030001
+
+[Unlock All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Tracks
+// Unlock All Tracks
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Tracks
+// Unlock All Tracks
+patch=1,EE,002287BC,extended,00000001
+
+[Rookie Cup 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rookie Cup 1
+// Rookie Cup 1
+patch=1,EE,102287BE,extended,00000001
+
+[Rookie Cup 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rookie Cup 2
+// Rookie Cup 2
+patch=1,EE,102287CC,extended,00000001
+
+[EA Rookie Cup]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=EA Rookie Cup
+// EA Rookie Cup
+patch=1,EE,102287DA,extended,00000001
+
+[Pro Cup 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pro Cup 1
+// Pro Cup 1
+patch=1,EE,102287E8,extended,00000001
+
+[Pro Cup 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pro Cup 2
+// Pro Cup 2
+patch=1,EE,102287F6,extended,00000001
+
+[Pro Cup 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pro Cup 3
+// Pro Cup 3
+patch=1,EE,10228804,extended,00000001
+
+[EA Pro Cup]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=EA Pro Cup
+// EA Pro Cup
+patch=1,EE,10228812,extended,00000001
+
+[Elite Cup 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elite Cup 1
+// Elite Cup 1
+patch=1,EE,10228820,extended,00000001
+
+[Elite Cup 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elite Cup 2
+// Elite Cup 2
+patch=1,EE,1022882E,extended,00000001
+
+[Elite Cup 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elite Cup 3
+// Elite Cup 3
+patch=1,EE,1022883C,extended,00000001
+
+[Elite Cup 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elite Cup 4
+// Elite Cup 4
+patch=1,EE,1022884A,extended,00000001
+
+[EA Elite Cup]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=EA Elite Cup
+// EA Elite Cup
+patch=1,EE,10228858,extended,00000001
+
+[EA Stunt Cup]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=EA Stunt Cup
+// EA Stunt Cup
+patch=1,EE,10228866,extended,00000001
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,201F231C,extended,05F5E0FF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,2024A140,extended,05F5E0FF
+
+[Max Stunts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stunts
+// Max Stunts
+patch=1,EE,201F2318,extended,05F5E0FF
+
+[Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{L2} For More Time
+// Press {L1}+{L2} For More Time
+patch=1,EE,D01EF602,extended,00000005
+
+[Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{L2} For More Time
+// Press {L1}+{L2} For More Time
+patch=1,EE,20C1B1A8,extended,0002BF20

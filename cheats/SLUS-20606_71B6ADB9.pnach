@@ -1,0 +1,2023 @@
+gametitle=Seek And Destroy [SLUS-20606] [71B6ADB9]
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,901B9004,extended,0C074009
+
+[Always 1st Time Saving]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always 1st Time Saving
+// Always 1st Time Saving
+patch=1,EE,201EE1F0,extended,00000000
+
+[Max Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Gold
+// Max Gold
+patch=1,EE,2025D1DC,extended,0001869F
+
+[Infinite Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Damage
+// Infinite Damage
+patch=1,EE,200C0220,extended,240300C8
+
+[Infinite Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Damage
+// Infinite Damage
+patch=1,EE,200C0224,extended,AC430000
+
+[Infinite Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Damage
+// Infinite Damage
+patch=1,EE,200C0228,extended,03E00008
+
+[Infinite Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Damage
+// Infinite Damage
+patch=1,EE,200C022C,extended,8C450010
+
+[Infinite Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Damage
+// Infinite Damage
+patch=1,EE,20160D44,extended,0C030088
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,20153544,extended,00000000
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,10153538,extended,00000001
+
+[PzKpfw I Ausf.A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw I Ausf.A
+// PzKpfw I Ausf.A
+patch=1,EE,201ED374,extended,00000001
+
+[PzKpfw II Ausf.C]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw II Ausf.C
+// PzKpfw II Ausf.C
+patch=1,EE,201ED378,extended,00000001
+
+[PzKpfw II Ausf.F]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw II Ausf.F
+// PzKpfw II Ausf.F
+patch=1,EE,201ED37C,extended,00000001
+
+[Auf.Pz.II 'Bison II']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Auf.Pz.II 'Bison II'
+// Auf.Pz.II 'Bison II'
+patch=1,EE,201ED380,extended,00000001
+
+[Wespe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wespe
+// Wespe
+patch=1,EE,201ED384,extended,00000001
+
+[Marder II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Marder II
+// Marder II
+patch=1,EE,201ED388,extended,00000001
+
+[PzKpfw III Ausf.E]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw III Ausf.E
+// PzKpfw III Ausf.E
+patch=1,EE,201ED38C,extended,00000001
+
+[PzKpfw III Ausf.G]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw III Ausf.G
+// PzKpfw III Ausf.G
+patch=1,EE,201ED390,extended,00000001
+
+[PzKpfw III Ausf.J]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw III Ausf.J
+// PzKpfw III Ausf.J
+patch=1,EE,201ED394,extended,00000001
+
+[PzKpfw III Ausf.K]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw III Ausf.K
+// PzKpfw III Ausf.K
+patch=1,EE,201ED398,extended,00000001
+
+[Stug III Ausf.C]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stug III Ausf.C
+// Stug III Ausf.C
+patch=1,EE,201ED39C,extended,00000001
+
+[Stug III Ausf.E]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stug III Ausf.E
+// Stug III Ausf.E
+patch=1,EE,201ED3A0,extended,00000001
+
+[Stug III Ausf.F]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stug III Ausf.F
+// Stug III Ausf.F
+patch=1,EE,201ED3A4,extended,00000001
+
+[Stug III Ausf.G]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stug III Ausf.G
+// Stug III Ausf.G
+patch=1,EE,201ED3A8,extended,00000001
+
+[Grille]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grille
+// Grille
+patch=1,EE,201ED3AC,extended,00000001
+
+[Marder III]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Marder III
+// Marder III
+patch=1,EE,201ED3B0,extended,00000001
+
+[Hetzer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hetzer
+// Hetzer
+patch=1,EE,201ED3B4,extended,00000001
+
+[PzKpfw IV Ausf.D]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw IV Ausf.D
+// PzKpfw IV Ausf.D
+patch=1,EE,201ED3B8,extended,00000001
+
+[PzKpfw IV Ausf.E]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw IV Ausf.E
+// PzKpfw IV Ausf.E
+patch=1,EE,201ED3BC,extended,00000001
+
+[PzKpfw IV Ausf.F]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw IV Ausf.F
+// PzKpfw IV Ausf.F
+patch=1,EE,201ED3C0,extended,00000001
+
+[PzKpfw IV Ausf.G]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw IV Ausf.G
+// PzKpfw IV Ausf.G
+patch=1,EE,201ED3C4,extended,00000001
+
+[PzKpfw IV Ausf.J]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw IV Ausf.J
+// PzKpfw IV Ausf.J
+patch=1,EE,201ED3C8,extended,00000001
+
+[Jagdpanzer IV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jagdpanzer IV
+// Jagdpanzer IV
+patch=1,EE,201ED3CC,extended,00000001
+
+[Brummbar Mid Model]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Brummbar Mid Model
+// Brummbar Mid Model
+patch=1,EE,201ED3D0,extended,00000001
+
+[Brummbar Late Model]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Brummbar Late Model
+// Brummbar Late Model
+patch=1,EE,201ED3D4,extended,00000001
+
+[Panther Model D]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Panther Model D
+// Panther Model D
+patch=1,EE,201ED3D8,extended,00000001
+
+[Panther Model A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Panther Model A
+// Panther Model A
+patch=1,EE,201ED3DC,extended,00000001
+
+[Panther Model G]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Panther Model G
+// Panther Model G
+patch=1,EE,201ED3E0,extended,00000001
+
+[Panther Model F]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Panther Model F
+// Panther Model F
+patch=1,EE,201ED3E4,extended,00000001
+
+[Panther Model 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Panther Model 2
+// Panther Model 2
+patch=1,EE,201ED3E8,extended,00000001
+
+[Jagdpanther]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jagdpanther
+// Jagdpanther
+patch=1,EE,201ED3EC,extended,00000001
+
+[Panther Krupp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Panther Krupp
+// Panther Krupp
+patch=1,EE,201ED3F0,extended,00000001
+
+[Porsche Tiger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Porsche Tiger
+// Porsche Tiger
+patch=1,EE,201ED3F4,extended,00000001
+
+[Maus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Maus
+// Maus
+patch=1,EE,201ED3F8,extended,00000001
+
+[Tiger I Early Model]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiger I Early Model
+// Tiger I Early Model
+patch=1,EE,201ED3FC,extended,00000001
+
+[Tiger I Late Model]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiger I Late Model
+// Tiger I Late Model
+patch=1,EE,201ED400,extended,00000001
+
+[Sturmtiger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sturmtiger
+// Sturmtiger
+patch=1,EE,201ED404,extended,00000001
+
+[Elefant]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elefant
+// Elefant
+patch=1,EE,201ED408,extended,00000001
+
+[Tiger II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiger II
+// Tiger II
+patch=1,EE,201ED40C,extended,00000001
+
+[Tiger II (P)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiger II (P)
+// Tiger II (P)
+patch=1,EE,201ED410,extended,00000001
+
+[Jagdtiger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jagdtiger
+// Jagdtiger
+patch=1,EE,201ED414,extended,00000001
+
+[Leopard 1A4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Leopard 1A4
+// Leopard 1A4
+patch=1,EE,201ED418,extended,00000001
+
+[Leopard 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Leopard 2
+// Leopard 2
+patch=1,EE,201ED41C,extended,00000001
+
+[Leopard 2 (Improved)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Leopard 2 (Improved)
+// Leopard 2 (Improved)
+patch=1,EE,201ED420,extended,00000001
+
+[Pzh2000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pzh2000
+// Pzh2000
+patch=1,EE,201ED424,extended,00000001
+
+[Stuart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stuart
+// Stuart
+patch=1,EE,201ED428,extended,00000001
+
+[M5 Stuart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M5 Stuart
+// M5 Stuart
+patch=1,EE,201ED42C,extended,00000001
+
+[M18 Hellcat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M18 Hellcat
+// M18 Hellcat
+patch=1,EE,201ED430,extended,00000001
+
+[M4A1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M4A1
+// M4A1
+patch=1,EE,201ED434,extended,00000001
+
+[Sherman]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sherman
+// Sherman
+patch=1,EE,201ED438,extended,00000001
+
+[Sherman Jumbo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sherman Jumbo
+// Sherman Jumbo
+patch=1,EE,201ED43C,extended,00000001
+
+[M4A 3E8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M4A 3E8
+// M4A 3E8
+patch=1,EE,201ED440,extended,00000001
+
+[M7 Priest]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M7 Priest
+// M7 Priest
+patch=1,EE,201ED444,extended,00000001
+
+[M8 Greyhound]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M8 Greyhound
+// M8 Greyhound
+patch=1,EE,201ED448,extended,00000001
+
+[M24 Chaffee]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M24 Chaffee
+// M24 Chaffee
+patch=1,EE,201ED44C,extended,00000001
+
+[LVTH6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=LVTH6
+// LVTH6
+patch=1,EE,201ED450,extended,00000001
+
+[LVTP7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=LVTP7
+// LVTP7
+patch=1,EE,201ED454,extended,00000001
+
+[M551 Sheridan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M551 Sheridan
+// M551 Sheridan
+patch=1,EE,201ED458,extended,00000001
+
+[M60A1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M60A1
+// M60A1
+patch=1,EE,201ED45C,extended,00000001
+
+[M60A2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M60A2
+// M60A2
+patch=1,EE,201ED460,extended,00000001
+
+[Bradley]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bradley
+// Bradley
+patch=1,EE,201ED464,extended,00000001
+
+[M1A1 Abrams]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M1A1 Abrams
+// M1A1 Abrams
+patch=1,EE,201ED468,extended,00000001
+
+[KV-1C Heavy Tank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=KV-1C Heavy Tank
+// KV-1C Heavy Tank
+patch=1,EE,201ED46C,extended,00000001
+
+[KV-1B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=KV-1B
+// KV-1B
+patch=1,EE,201ED470,extended,00000001
+
+[KV-2A Heavy Tank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=KV-2A Heavy Tank
+// KV-2A Heavy Tank
+patch=1,EE,201ED474,extended,00000001
+
+[JS-1 Heavy Tank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=JS-1 Heavy Tank
+// JS-1 Heavy Tank
+patch=1,EE,201ED478,extended,00000001
+
+[JS-2 Heavy Tank M]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=JS-2 Heavy Tank M
+// JS-2 Heavy Tank M
+patch=1,EE,201ED47C,extended,00000001
+
+[JS-3 Heavy Tank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=JS-3 Heavy Tank
+// JS-3 Heavy Tank
+patch=1,EE,201ED480,extended,00000001
+
+[JSU-152 Heavy Assault Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=JSU-152 Heavy Assault Gun
+// JSU-152 Heavy Assault Gun
+patch=1,EE,201ED484,extended,00000001
+
+[SU-85]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SU-85
+// SU-85
+patch=1,EE,201ED488,extended,00000001
+
+[T-34/A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T-34/A
+// T-34/A
+patch=1,EE,201ED48C,extended,00000001
+
+[T-34/E]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T-34/E
+// T-34/E
+patch=1,EE,201ED490,extended,00000001
+
+[T-34/76]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T-34/76
+// T-34/76
+patch=1,EE,201ED494,extended,00000001
+
+[T-34/85]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T-34/85
+// T-34/85
+patch=1,EE,201ED498,extended,00000001
+
+[T-55A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T-55A
+// T-55A
+patch=1,EE,201ED49C,extended,00000001
+
+[T-72M1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T-72M1
+// T-72M1
+patch=1,EE,201ED4A0,extended,00000001
+
+[T-80U]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T-80U
+// T-80U
+patch=1,EE,201ED4A4,extended,00000001
+
+[Obiekt279]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Obiekt279
+// Obiekt279
+patch=1,EE,201ED4A8,extended,00000001
+
+[Matilda II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Matilda II
+// Matilda II
+patch=1,EE,201ED4AC,extended,00000001
+
+[Churchill Mk2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Churchill Mk2
+// Churchill Mk2
+patch=1,EE,201ED4B0,extended,00000001
+
+[Churchill Mk4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Churchill Mk4
+// Churchill Mk4
+patch=1,EE,201ED4B4,extended,00000001
+
+[Churchill AVRE]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Churchill AVRE
+// Churchill AVRE
+patch=1,EE,201ED4B8,extended,00000001
+
+[Cromwell]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cromwell
+// Cromwell
+patch=1,EE,201ED4BC,extended,00000001
+
+[Comet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Comet
+// Comet
+patch=1,EE,201ED4C0,extended,00000001
+
+[Centaur]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Centaur
+// Centaur
+patch=1,EE,201ED4C4,extended,00000001
+
+[Crusader Mk1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crusader Mk1
+// Crusader Mk1
+patch=1,EE,201ED4C8,extended,00000001
+
+[Crusader Mk3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crusader Mk3
+// Crusader Mk3
+patch=1,EE,201ED4CC,extended,00000001
+
+[Centurion Mk3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Centurion Mk3
+// Centurion Mk3
+patch=1,EE,201ED4D0,extended,00000001
+
+[Chieftain Mk5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chieftain Mk5
+// Chieftain Mk5
+patch=1,EE,201ED4D4,extended,00000001
+
+[Challenger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Challenger
+// Challenger
+patch=1,EE,201ED4D8,extended,00000001
+
+[Firefly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Firefly
+// Firefly
+patch=1,EE,201ED4DC,extended,00000001
+
+[Somua S35]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Somua S35
+// Somua S35
+patch=1,EE,201ED4E0,extended,00000001
+
+[AMX-30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AMX-30
+// AMX-30
+patch=1,EE,201ED4E4,extended,00000001
+
+[AUF-1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AUF-1
+// AUF-1
+patch=1,EE,201ED4E8,extended,00000001
+
+[Leclerc]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Leclerc
+// Leclerc
+patch=1,EE,201ED4EC,extended,00000001
+
+[M15/42 Medium Tank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M15/42 Medium Tank
+// M15/42 Medium Tank
+patch=1,EE,201ED4F0,extended,00000001
+
+[Semobente M42L]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Semobente M42L
+// Semobente M42L
+patch=1,EE,201ED4F4,extended,00000001
+
+[Type 97 Chi-Ha (Improved)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Type 97 Chi-Ha (Improved)
+// Type 97 Chi-Ha (Improved)
+patch=1,EE,201ED4F8,extended,00000001
+
+[Type 2 Ka-Mi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Type 2 Ka-Mi
+// Type 2 Ka-Mi
+patch=1,EE,201ED4FC,extended,00000001
+
+[Type 2 Ka-Mi Amphibian Tank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Type 2 Ka-Mi Amphibian Tank
+// Type 2 Ka-Mi Amphibian Tank
+patch=1,EE,201ED500,extended,00000001
+
+[Type 61]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Type 61
+// Type 61
+patch=1,EE,201ED504,extended,00000001
+
+[Type 74]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Type 74
+// Type 74
+patch=1,EE,201ED508,extended,00000001
+
+[Type 90]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Type 90
+// Type 90
+patch=1,EE,201ED50C,extended,00000001
+
+[Bengurion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bengurion
+// Bengurion
+patch=1,EE,201ED510,extended,00000001
+
+[Merkava I]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Merkava I
+// Merkava I
+patch=1,EE,201ED514,extended,00000001
+
+[Merkava II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Merkava II
+// Merkava II
+patch=1,EE,201ED518,extended,00000001
+
+[S103]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=S103
+// S103
+patch=1,EE,201ED51C,extended,00000001
+
+[Skoda 35(T)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skoda 35(T)
+// Skoda 35(T)
+patch=1,EE,201ED520,extended,00000001
+
+[BHE Tank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=BHE Tank
+// BHE Tank
+patch=1,EE,201ED524,extended,00000001
+
+[Shell]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shell
+// Shell
+patch=1,EE,201ED194,extended,00000001
+
+[SuperShell]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SuperShell
+// SuperShell
+patch=1,EE,201ED198,extended,00000001
+
+[Torpedo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Torpedo
+// Torpedo
+patch=1,EE,201ED19C,extended,00000001
+
+[Crump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crump
+// Crump
+patch=1,EE,201ED1A0,extended,00000001
+
+[AP Shell]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AP Shell
+// AP Shell
+patch=1,EE,201ED1A4,extended,00000001
+
+[Drill Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Drill Shot
+// Drill Shot
+patch=1,EE,201ED1A8,extended,00000001
+
+[Scatter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scatter
+// Scatter
+patch=1,EE,201ED1AC,extended,00000001
+
+[Long Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Shot
+// Long Shot
+patch=1,EE,201ED1B0,extended,00000001
+
+[Retro Bomb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Retro Bomb
+// Retro Bomb
+patch=1,EE,201ED1B4,extended,00000001
+
+[Sharp Bomb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sharp Bomb
+// Sharp Bomb
+patch=1,EE,201ED1B8,extended,00000001
+
+[Burst Bomb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Burst Bomb
+// Burst Bomb
+patch=1,EE,201ED1BC,extended,00000001
+
+[Beam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Beam
+// Beam
+patch=1,EE,201ED1C0,extended,00000001
+
+[Hi-Laser]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hi-Laser
+// Hi-Laser
+patch=1,EE,201ED1C4,extended,00000001
+
+[Flame Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flame Shot
+// Flame Shot
+patch=1,EE,201ED1C8,extended,00000001
+
+[Satellite]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Satellite
+// Satellite
+patch=1,EE,201ED1CC,extended,00000001
+
+[BOTSU]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=BOTSU
+// BOTSU
+patch=1,EE,201ED1D0,extended,00000001
+
+[Graviton]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Graviton
+// Graviton
+patch=1,EE,201ED1D4,extended,00000001
+
+[Positoron]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Positoron
+// Positoron
+patch=1,EE,201ED1D8,extended,00000001
+
+[Grand Bomb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grand Bomb
+// Grand Bomb
+patch=1,EE,201ED1E0,extended,00000001
+
+[Air Shell]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Air Shell
+// Air Shell
+patch=1,EE,201ED1E4,extended,00000001
+
+[Drum Bomb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Drum Bomb
+// Drum Bomb
+patch=1,EE,201ED1E8,extended,00000001
+
+[Protector]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Protector
+// Protector
+patch=1,EE,201ED1EC,extended,00000001
+
+[Side Saw]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Side Saw
+// Side Saw
+patch=1,EE,201ED1F0,extended,00000001
+
+[Machinegun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Machinegun
+// Machinegun
+patch=1,EE,201ED1F4,extended,00000001
+
+[Flame Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flame Gun
+// Flame Gun
+patch=1,EE,201ED1F8,extended,00000001
+
+[Blaze Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blaze Gun
+// Blaze Gun
+patch=1,EE,201ED1FC,extended,00000001
+
+[Goliath]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goliath
+// Goliath
+patch=1,EE,201ED200,extended,00000001
+
+[Blaster]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blaster
+// Blaster
+patch=1,EE,201ED204,extended,00000001
+
+[Grand Flag]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grand Flag
+// Grand Flag
+patch=1,EE,201ED208,extended,00000001
+
+[Chaff]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaff
+// Chaff
+patch=1,EE,201ED210,extended,00000001
+
+[Smoke]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Smoke
+// Smoke
+patch=1,EE,201ED214,extended,00000001
+
+[Srch Light]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Srch Light
+// Srch Light
+patch=1,EE,201ED218,extended,00000001
+
+[Flare Bomb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flare Bomb
+// Flare Bomb
+patch=1,EE,201ED21C,extended,00000001
+
+[Machinegun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Machinegun
+// Machinegun
+patch=1,EE,201ED220,extended,00000001
+
+[Gatling]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gatling
+// Gatling
+patch=1,EE,201ED224,extended,00000001
+
+[Chain Saw]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chain Saw
+// Chain Saw
+patch=1,EE,201ED228,extended,00000001
+
+[Missile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Missile
+// Missile
+patch=1,EE,201ED22C,extended,00000001
+
+[Bound Bomb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bound Bomb
+// Bound Bomb
+patch=1,EE,201ED230,extended,00000001
+
+[Launcher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launcher
+// Launcher
+patch=1,EE,201ED234,extended,00000001
+
+[16-Missile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=16-Missile
+// 16-Missile
+patch=1,EE,201ED238,extended,00000001
+
+[AirGatling]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AirGatling
+// AirGatling
+patch=1,EE,201ED23C,extended,00000001
+
+[Roll Drum]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Roll Drum
+// Roll Drum
+patch=1,EE,201ED240,extended,00000001
+
+[Stun Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Gun
+// Stun Gun
+patch=1,EE,201ED244,extended,00000001
+
+[Speaker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speaker
+// Speaker
+patch=1,EE,201ED248,extended,00000001
+
+[OldSpeaker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=OldSpeaker
+// OldSpeaker
+patch=1,EE,201ED24C,extended,00000001
+
+[Engine 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Engine 1
+// Engine 1
+patch=1,EE,201ED254,extended,00000001
+
+[Engine 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Engine 2
+// Engine 2
+patch=1,EE,201ED258,extended,00000001
+
+[Engine 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Engine 3
+// Engine 3
+patch=1,EE,201ED25C,extended,00000001
+
+[SP Engine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SP Engine
+// SP Engine
+patch=1,EE,201ED260,extended,00000001
+
+[Q Charge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Q Charge
+// Q Charge
+patch=1,EE,201ED264,extended,00000001
+
+[P Charge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P Charge
+// P Charge
+patch=1,EE,201ED268,extended,00000001
+
+[Speeder]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speeder
+// Speeder
+patch=1,EE,201ED26C,extended,00000001
+
+[MachEngine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MachEngine
+// MachEngine
+patch=1,EE,201ED270,extended,00000001
+
+[MachCharge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MachCharge
+// MachCharge
+patch=1,EE,201ED274,extended,00000001
+
+[Cat 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cat 1
+// Cat 1
+patch=1,EE,201ED27C,extended,00000001
+
+[Cat 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cat 2
+// Cat 2
+patch=1,EE,201ED280,extended,00000001
+
+[Cat 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cat 3
+// Cat 3
+patch=1,EE,201ED284,extended,00000001
+
+[H Cat 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=H Cat 1
+// H Cat 1
+patch=1,EE,201ED288,extended,00000001
+
+[H Cat 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=H Cat 2
+// H Cat 2
+patch=1,EE,201ED28C,extended,00000001
+
+[H Cat 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=H Cat 3
+// H Cat 3
+patch=1,EE,201ED290,extended,00000001
+
+[Super Cat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Cat
+// Super Cat
+patch=1,EE,201ED294,extended,00000001
+
+[Anti Noise]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anti Noise
+// Anti Noise
+patch=1,EE,201ED298,extended,00000001
+
+[Spiky Cat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spiky Cat
+// Spiky Cat
+patch=1,EE,201ED29C,extended,00000001
+
+[Snow Cat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snow Cat
+// Snow Cat
+patch=1,EE,201ED2A0,extended,00000001
+
+[Hook Cat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hook Cat
+// Hook Cat
+patch=1,EE,201ED2A4,extended,00000001
+
+[Armor Cat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armor Cat
+// Armor Cat
+patch=1,EE,201ED2A8,extended,00000001
+
+[Hoverplane]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hoverplane
+// Hoverplane
+patch=1,EE,201ED2B0,extended,00000001
+
+[Booster]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Booster
+// Booster
+patch=1,EE,201ED2B4,extended,00000001
+
+[Propeller]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Propeller
+// Propeller
+patch=1,EE,201ED2B8,extended,00000001
+
+[Jet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jet
+// Jet
+patch=1,EE,201ED2BC,extended,00000001
+
+[Devil Wing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Devil Wing
+// Devil Wing
+patch=1,EE,201ED2C0,extended,00000001
+
+[Angel Wing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Angel Wing
+// Angel Wing
+patch=1,EE,201ED2C4,extended,00000001
+
+[SD Crafter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SD Crafter
+// SD Crafter
+patch=1,EE,201ED2C8,extended,00000001
+
+[Float]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Float
+// Float
+patch=1,EE,201ED2CC,extended,00000001
+
+[Boat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boat
+// Boat
+patch=1,EE,201ED2D0,extended,00000001
+
+[WaterScrew]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=WaterScrew
+// WaterScrew
+patch=1,EE,201ED2D4,extended,00000001
+
+[Sea Motor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sea Motor
+// Sea Motor
+patch=1,EE,201ED2D8,extended,00000001
+
+[Speed Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speed Shot
+// Speed Shot
+patch=1,EE,201ED2E0,extended,00000001
+
+[Hi-Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hi-Reload
+// Hi-Reload
+patch=1,EE,201ED2E4,extended,00000001
+
+[NVG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=NVG
+// NVG
+patch=1,EE,201ED2E8,extended,00000001
+
+[Slow Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slow Gear
+// Slow Gear
+patch=1,EE,201ED2F0,extended,00000001
+
+[Low Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Gear
+// Low Gear
+patch=1,EE,201ED2F4,extended,00000001
+
+[Mid Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mid Gear
+// Mid Gear
+patch=1,EE,201ED2F8,extended,00000001
+
+[Lt. Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lt. Gear
+// Lt. Gear
+patch=1,EE,201ED2FC,extended,00000001
+
+[High Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=High Gear
+// High Gear
+patch=1,EE,201ED300,extended,00000001
+
+[Top Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top Gear
+// Top Gear
+patch=1,EE,201ED304,extended,00000001
+
+[Quick Gear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Gear
+// Quick Gear
+patch=1,EE,201ED308,extended,00000001
+
+[Q Hyper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Q Hyper
+// Q Hyper
+patch=1,EE,201ED30C,extended,00000001
+
+[CPU 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CPU 1
+// CPU 1
+patch=1,EE,201ED314,extended,00000001
+
+[CPU 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CPU 2
+// CPU 2
+patch=1,EE,201ED318,extended,00000001
+
+[CPU 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CPU 3
+// CPU 3
+patch=1,EE,201ED31C,extended,00000001
+
+[CPU 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=CPU 4
+// CPU 4
+patch=1,EE,201ED320,extended,00000001
+
+[Hyper CPU]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hyper CPU
+// Hyper CPU
+patch=1,EE,201ED324,extended,00000001
+
+[Q-Nect CPU]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Q-Nect CPU
+// Q-Nect CPU
+patch=1,EE,201ED328,extended,00000001
+
+[Ultra CPU]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultra CPU
+// Ultra CPU
+patch=1,EE,201ED32C,extended,00000001
+
+[Sm Radar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sm Radar
+// Sm Radar
+patch=1,EE,201ED334,extended,00000001
+
+[Mid Radar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mid Radar
+// Mid Radar
+patch=1,EE,201ED338,extended,00000001
+
+[Big Radar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Radar
+// Big Radar
+patch=1,EE,201ED33C,extended,00000001
+
+[Sea Radar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sea Radar
+// Sea Radar
+patch=1,EE,201ED340,extended,00000001
+
+[Sky Radar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sky Radar
+// Sky Radar
+patch=1,EE,201ED344,extended,00000001
+
+[MultiRadar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MultiRadar
+// MultiRadar
+patch=1,EE,201ED348,extended,00000001
+
+[Multi High]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Multi High
+// Multi High
+patch=1,EE,201ED34C,extended,00000001
+
+[Armor-Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armor-Off
+// Armor-Off
+patch=1,EE,201ED354,extended,00000001
+
+[Lg. Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lg. Armor
+// Lg. Armor
+patch=1,EE,201ED358,extended,00000001
+
+[Hvy. Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hvy. Armor
+// Hvy. Armor
+patch=1,EE,201ED35C,extended,00000001
+
+[Strg. Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Strg. Armor
+// Strg. Armor
+patch=1,EE,201ED360,extended,00000001
+
+[SP Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SP Armor
+// SP Armor
+patch=1,EE,201ED364,extended,00000001
+
+[SP Armor S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SP Armor S
+// SP Armor S
+patch=1,EE,201ED368,extended,00000001
+
+[Heavy Wt.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Heavy Wt.
+// Heavy Wt.
+patch=1,EE,201ED36C,extended,00000001
+
+[PzKpfw I Ausf.A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw I Ausf.A
+// PzKpfw I Ausf.A
+patch=1,EE,201EC198,extended,00000001
+
+[PzKpfw II Ausf.C]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw II Ausf.C
+// PzKpfw II Ausf.C
+patch=1,EE,201EC19C,extended,00000001
+
+[PzKpfw II Ausf.F]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw II Ausf.F
+// PzKpfw II Ausf.F
+patch=1,EE,201EC1A0,extended,00000001
+
+[Auf.Pz.II 'Bison II']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Auf.Pz.II 'Bison II'
+// Auf.Pz.II 'Bison II'
+patch=1,EE,201EC1A4,extended,00000001
+
+[Wespe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wespe
+// Wespe
+patch=1,EE,201EC1A8,extended,00000001
+
+[Marder II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Marder II
+// Marder II
+patch=1,EE,201EC1AC,extended,00000001
+
+[PzKpfw III Ausf.E]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw III Ausf.E
+// PzKpfw III Ausf.E
+patch=1,EE,201EC1B0,extended,00000001
+
+[PzKpfw III Ausf.G]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw III Ausf.G
+// PzKpfw III Ausf.G
+patch=1,EE,201EC1B4,extended,00000001
+
+[PzKpfw III Ausf.J]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw III Ausf.J
+// PzKpfw III Ausf.J
+patch=1,EE,201EC1B8,extended,00000001
+
+[PzKpfw III Ausf.K]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw III Ausf.K
+// PzKpfw III Ausf.K
+patch=1,EE,201EC1BC,extended,00000001
+
+[Stug III Ausf.C]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stug III Ausf.C
+// Stug III Ausf.C
+patch=1,EE,201EC1C0,extended,00000001
+
+[Stug III Ausf.E]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stug III Ausf.E
+// Stug III Ausf.E
+patch=1,EE,201EC1C4,extended,00000001
+
+[Stug III Ausf.F]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stug III Ausf.F
+// Stug III Ausf.F
+patch=1,EE,201EC1C8,extended,00000001
+
+[Stug III Ausf.G]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stug III Ausf.G
+// Stug III Ausf.G
+patch=1,EE,201EC1CC,extended,00000001
+
+[Grille]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grille
+// Grille
+patch=1,EE,201EC1D0,extended,00000001
+
+[Marder III]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Marder III
+// Marder III
+patch=1,EE,201EC1D4,extended,00000001
+
+[Hetzer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hetzer
+// Hetzer
+patch=1,EE,201EC1D8,extended,00000001
+
+[PzKpfw IV Ausf.D]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw IV Ausf.D
+// PzKpfw IV Ausf.D
+patch=1,EE,201EC1DC,extended,00000001
+
+[PzKpfw IV Ausf.E]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw IV Ausf.E
+// PzKpfw IV Ausf.E
+patch=1,EE,201EC1E0,extended,00000001
+
+[PzKpfw IV Ausf.F]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw IV Ausf.F
+// PzKpfw IV Ausf.F
+patch=1,EE,201EC1E4,extended,00000001
+
+[PzKpfw IV Ausf.G]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw IV Ausf.G
+// PzKpfw IV Ausf.G
+patch=1,EE,201EC1E8,extended,00000001
+
+[PzKpfw IV Ausf.J]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PzKpfw IV Ausf.J
+// PzKpfw IV Ausf.J
+patch=1,EE,201EC1EC,extended,00000001
+
+[Jagdpanzer IV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jagdpanzer IV
+// Jagdpanzer IV
+patch=1,EE,201EC1F0,extended,00000001
+
+[Brummbar Mid Model]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Brummbar Mid Model
+// Brummbar Mid Model
+patch=1,EE,201EC1F4,extended,00000001
+
+[Brummbar Late Model]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Brummbar Late Model
+// Brummbar Late Model
+patch=1,EE,201EC1F8,extended,00000001
+
+[Panther Model D]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Panther Model D
+// Panther Model D
+patch=1,EE,201EC1FC,extended,00000001
+
+[Panther Model A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Panther Model A
+// Panther Model A
+patch=1,EE,201EC200,extended,00000001
+
+[Panther Model G]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Panther Model G
+// Panther Model G
+patch=1,EE,201EC204,extended,00000001
+
+[Panther Model F]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Panther Model F
+// Panther Model F
+patch=1,EE,201EC208,extended,00000001
+
+[Panther Model 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Panther Model 2
+// Panther Model 2
+patch=1,EE,201EC20C,extended,00000001
+
+[Jagdpanther]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jagdpanther
+// Jagdpanther
+patch=1,EE,201EC210,extended,00000001
+
+[Panther Krupp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Panther Krupp
+// Panther Krupp
+patch=1,EE,201EC214,extended,00000001
+
+[Porsche Tiger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Porsche Tiger
+// Porsche Tiger
+patch=1,EE,201EC218,extended,00000001
+
+[Maus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Maus
+// Maus
+patch=1,EE,201EC21C,extended,00000001
+
+[Tiger I Early Model]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiger I Early Model
+// Tiger I Early Model
+patch=1,EE,201EC220,extended,00000001
+
+[Tiger I Late Model]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiger I Late Model
+// Tiger I Late Model
+patch=1,EE,201EC224,extended,00000001
+
+[Sturmtiger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sturmtiger
+// Sturmtiger
+patch=1,EE,201EC228,extended,00000001
+
+[Elefant]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Elefant
+// Elefant
+patch=1,EE,201EC22C,extended,00000001
+
+[Tiger II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiger II
+// Tiger II
+patch=1,EE,201EC230,extended,00000001
+
+[Tiger II (P)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiger II (P)
+// Tiger II (P)
+patch=1,EE,201EC234,extended,00000001
+
+[Jagdtiger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jagdtiger
+// Jagdtiger
+patch=1,EE,201EC238,extended,00000001
+
+[Leopard 1A4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Leopard 1A4
+// Leopard 1A4
+patch=1,EE,201EC23C,extended,00000001
+
+[Leopard 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Leopard 2
+// Leopard 2
+patch=1,EE,201EC240,extended,00000001
+
+[Leopard 2 (Improved)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Leopard 2 (Improved)
+// Leopard 2 (Improved)
+patch=1,EE,201EC244,extended,00000001
+
+[Pzh2000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pzh2000
+// Pzh2000
+patch=1,EE,201EC248,extended,00000001
+
+[Stuart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stuart
+// Stuart
+patch=1,EE,201EC24C,extended,00000001
+
+[M5 Stuart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M5 Stuart
+// M5 Stuart
+patch=1,EE,201EC250,extended,00000001
+
+[M18 Hellcat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M18 Hellcat
+// M18 Hellcat
+patch=1,EE,201EC254,extended,00000001
+
+[M4A1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M4A1
+// M4A1
+patch=1,EE,201EC258,extended,00000001
+
+[Sherman]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sherman
+// Sherman
+patch=1,EE,201EC25C,extended,00000001
+
+[Sherman Jumbo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sherman Jumbo
+// Sherman Jumbo
+patch=1,EE,201EC260,extended,00000001
+
+[M4A 3E8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M4A 3E8
+// M4A 3E8
+patch=1,EE,201EC264,extended,00000001
+
+[M7 Priest]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M7 Priest
+// M7 Priest
+patch=1,EE,201EC268,extended,00000001
+
+[M8 Greyhound]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M8 Greyhound
+// M8 Greyhound
+patch=1,EE,201EC26C,extended,00000001
+
+[M24 Chaffee]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M24 Chaffee
+// M24 Chaffee
+patch=1,EE,201EC270,extended,00000001
+
+[LVTH6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=LVTH6
+// LVTH6
+patch=1,EE,201EC274,extended,00000001
+
+[LVTP7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=LVTP7
+// LVTP7
+patch=1,EE,201EC278,extended,00000001
+
+[M551 Sheridan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M551 Sheridan
+// M551 Sheridan
+patch=1,EE,201EC27C,extended,00000001
+
+[M60A1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M60A1
+// M60A1
+patch=1,EE,201EC280,extended,00000001
+
+[M60A2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M60A2
+// M60A2
+patch=1,EE,201EC284,extended,00000001
+
+[Bradley]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bradley
+// Bradley
+patch=1,EE,201EC288,extended,00000001
+
+[M1A1 Abrams]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M1A1 Abrams
+// M1A1 Abrams
+patch=1,EE,201EC28C,extended,00000001
+
+[KV-1C Heavy Tank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=KV-1C Heavy Tank
+// KV-1C Heavy Tank
+patch=1,EE,201EC290,extended,00000001
+
+[KV-1B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=KV-1B
+// KV-1B
+patch=1,EE,201EC294,extended,00000001
+
+[KV-2A Heavy Tank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=KV-2A Heavy Tank
+// KV-2A Heavy Tank
+patch=1,EE,201EC298,extended,00000001
+
+[JS-1 Heavy Tank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=JS-1 Heavy Tank
+// JS-1 Heavy Tank
+patch=1,EE,201EC29C,extended,00000001
+
+[JS-2 Heavy Tank M]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=JS-2 Heavy Tank M
+// JS-2 Heavy Tank M
+patch=1,EE,201EC2A0,extended,00000001
+
+[JS-3 Heavy Tank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=JS-3 Heavy Tank
+// JS-3 Heavy Tank
+patch=1,EE,201EC2A4,extended,00000001
+
+[JSU-152 Heavy Assault Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=JSU-152 Heavy Assault Gun
+// JSU-152 Heavy Assault Gun
+patch=1,EE,201EC2A8,extended,00000001
+
+[SU-85]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SU-85
+// SU-85
+patch=1,EE,201EC2AC,extended,00000001
+
+[T-34/A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T-34/A
+// T-34/A
+patch=1,EE,201EC2B0,extended,00000001
+
+[T-34/E]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T-34/E
+// T-34/E
+patch=1,EE,201EC2B4,extended,00000001
+
+[T-34/76]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T-34/76
+// T-34/76
+patch=1,EE,201EC2B8,extended,00000001
+
+[T-34/85]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T-34/85
+// T-34/85
+patch=1,EE,201EC2BC,extended,00000001
+
+[T-55A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T-55A
+// T-55A
+patch=1,EE,201EC2C0,extended,00000001
+
+[T-72M1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T-72M1
+// T-72M1
+patch=1,EE,201EC2C4,extended,00000001
+
+[T-80U]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T-80U
+// T-80U
+patch=1,EE,201EC2C8,extended,00000001
+
+[Obiekt279]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Obiekt279
+// Obiekt279
+patch=1,EE,201EC2CC,extended,00000001
+
+[Matilda II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Matilda II
+// Matilda II
+patch=1,EE,201EC2D0,extended,00000001
+
+[Churchill Mk2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Churchill Mk2
+// Churchill Mk2
+patch=1,EE,201EC2D4,extended,00000001
+
+[Churchill Mk4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Churchill Mk4
+// Churchill Mk4
+patch=1,EE,201EC2D8,extended,00000001
+
+[Churchill AVRE]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Churchill AVRE
+// Churchill AVRE
+patch=1,EE,201EC2DC,extended,00000001
+
+[Cromwell]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cromwell
+// Cromwell
+patch=1,EE,201EC2E0,extended,00000001
+
+[Comet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Comet
+// Comet
+patch=1,EE,201EC2E4,extended,00000001
+
+[Centaur]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Centaur
+// Centaur
+patch=1,EE,201EC2E8,extended,00000001
+
+[Crusader Mk1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crusader Mk1
+// Crusader Mk1
+patch=1,EE,201EC2EC,extended,00000001
+
+[Crusader Mk3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crusader Mk3
+// Crusader Mk3
+patch=1,EE,201EC2F0,extended,00000001
+
+[Centurion Mk3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Centurion Mk3
+// Centurion Mk3
+patch=1,EE,201EC2F4,extended,00000001
+
+[Chieftain Mk5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chieftain Mk5
+// Chieftain Mk5
+patch=1,EE,201EC2F8,extended,00000001
+
+[Challenger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Challenger
+// Challenger
+patch=1,EE,201EC2FC,extended,00000001
+
+[Firefly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Firefly
+// Firefly
+patch=1,EE,201EC300,extended,00000001
+
+[Somua S35]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Somua S35
+// Somua S35
+patch=1,EE,201EC304,extended,00000001
+
+[AMX-30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AMX-30
+// AMX-30
+patch=1,EE,201EC308,extended,00000001
+
+[AUF-1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AUF-1
+// AUF-1
+patch=1,EE,201EC30C,extended,00000001
+
+[Leclerc]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Leclerc
+// Leclerc
+patch=1,EE,201EC310,extended,00000001
+
+[M15/42 Medium Tank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M15/42 Medium Tank
+// M15/42 Medium Tank
+patch=1,EE,201EC314,extended,00000001
+
+[Semobente M42L]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Semobente M42L
+// Semobente M42L
+patch=1,EE,201EC318,extended,00000001
+
+[Type 97 Chi-Ha (Improved)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Type 97 Chi-Ha (Improved)
+// Type 97 Chi-Ha (Improved)
+patch=1,EE,201EC31C,extended,00000001
+
+[Type 2 Ka-Mi]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Type 2 Ka-Mi
+// Type 2 Ka-Mi
+patch=1,EE,201EC320,extended,00000001
+
+[Type 2 Ka-Mi Amphibian Tank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Type 2 Ka-Mi Amphibian Tank
+// Type 2 Ka-Mi Amphibian Tank
+patch=1,EE,201EC324,extended,00000001
+
+[Type 61]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Type 61
+// Type 61
+patch=1,EE,201EC328,extended,00000001
+
+[Type 74]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Type 74
+// Type 74
+patch=1,EE,201EC32C,extended,00000001
+
+[Type 90]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Type 90
+// Type 90
+patch=1,EE,201EC330,extended,00000001
+
+[Bengurion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bengurion
+// Bengurion
+patch=1,EE,201EC334,extended,00000001
+
+[Merkava I]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Merkava I
+// Merkava I
+patch=1,EE,201EC338,extended,00000001
+
+[Merkava II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Merkava II
+// Merkava II
+patch=1,EE,201EC33C,extended,00000001
+
+[S103]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=S103
+// S103
+patch=1,EE,201EC340,extended,00000001
+
+[Skoda 35(T)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skoda 35(T)
+// Skoda 35(T)
+patch=1,EE,201EC344,extended,00000001
+
+[BHE Tank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=BHE Tank
+// BHE Tank
+patch=1,EE,201EC348,extended,00000001

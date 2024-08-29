@@ -1,0 +1,19 @@
+gametitle=Nascar Heat 2002 [SLUS-20176] [D813AF38]
+
+[Have Top-10 All Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Top-10 All Completed
+// Have Top-10 All Completed
+patch=1,EE,F0100008,extended,0025DC37
+
+[Max Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Points
+// Max Points
+patch=1,EE,102C8414,extended,0000270F
+
+[Max Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Points
+// Max Points
+patch=1,EE,102F1C34,extended,0000270F

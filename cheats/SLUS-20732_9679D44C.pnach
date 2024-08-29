@@ -1,0 +1,925 @@
+gametitle=Drakengard [SLUS-20732] [9679D44C]
+
+[Max Unspent Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Unspent Skill Points
+// Max Unspent Skill Points
+patch=1,EE,902FA874,extended,0C0C45F5
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,202FE9E8,extended,24020001
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,203AC860,extended,00000190
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,203AC864,extended,00000190
+
+[Infinite Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Special
+// Infinite Special
+patch=1,EE,203ACD10,extended,00000028
+
+[Max Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special
+// Max Special
+patch=1,EE,203ACD14,extended,00000028
+
+[Infinite Special Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Special Usage
+// Infinite Special Usage
+patch=1,EE,20178880,extended,00000000
+
+[Max Kills (Mission)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Kills (Mission)
+// Max Kills (Mission)
+patch=1,EE,203ABB44,extended,000003E7
+
+[Kills Worth 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kills Worth 50
+// Kills Worth 50
+patch=1,EE,2013985C,extended,24420032
+
+[Kills Worth 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kills Worth 20
+// Kills Worth 20
+patch=1,EE,2013985C,extended,24420014
+
+[Kills Worth 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kills Worth 10
+// Kills Worth 10
+patch=1,EE,2013985C,extended,2442000A
+
+[Kills Worth 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kills Worth 5
+// Kills Worth 5
+patch=1,EE,2013985C,extended,24420005
+
+[Kills Worth 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kills Worth 2
+// Kills Worth 2
+patch=1,EE,2013985C,extended,24420001
+
+[1-Hit Deaths (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Deaths (Enemies)
+// 1-Hit Deaths (Enemies)
+patch=1,EE,20186448,extended,00000000
+
+[Invincible]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincible
+// Invincible
+patch=1,EE,003ACCD6,extended,00000004
+
+[Invincible Upon Being Hit Once]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincible Upon Being Hit Once
+// Invincible Upon Being Hit Once
+patch=1,EE,203ACD8C,extended,00000C80
+
+[Quick Weapon Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Weapon Level Up
+// Quick Weapon Level Up
+patch=1,EE,201394BC,extended,2405270F
+
+[Always Low Time (Total)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time (Total)
+// Always Low Time (Total)
+patch=1,EE,203AB290,extended,00000000
+
+[Max Kills (Total)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Kills (Total)
+// Max Kills (Total)
+patch=1,EE,203AB294,extended,0098967F
+
+[Max Number Of Attacks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Number Of Attacks
+// Max Number Of Attacks
+patch=1,EE,203AB29C,extended,0098967F
+
+[Quick Points Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Points Gain
+// Quick Points Gain
+patch=1,EE,103ABBE0,extended,0000FFFF
+
+[Max Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Points
+// Max Points
+patch=1,EE,203ABBE0,extended,0098967F
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,203ABBE4,extended,00000063
+
+[Quick Dragon EXP Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Dragon EXP Gain
+// Quick Dragon EXP Gain
+patch=1,EE,103ABBE8,extended,0000FFFF
+
+[Max Dragon EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Dragon EXP
+// Max Dragon EXP
+patch=1,EE,203ABBE8,extended,0098967F
+
+[Max Chain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Chain
+// Max Chain
+patch=1,EE,203ACD2C,extended,000003E7
+
+[Sword-Glory's Bane-Damocles' Strike]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword-Glory's Bane-Damocles' Strike
+// Sword-Glory's Bane-Damocles' Strike
+patch=1,EE,703AB80C,extended,00000001
+
+[Sword-Kingsblood-Thor's Flame]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword-Kingsblood-Thor's Flame
+// Sword-Kingsblood-Thor's Flame
+patch=1,EE,703AB810,extended,00000001
+
+[Long Sword-Moonfire-Fang Of The Ifrit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Moonfire-Fang Of The Ifrit
+// Long Sword-Moonfire-Fang Of The Ifrit
+patch=1,EE,703AB814,extended,00000001
+
+[Long Sword-Slaughterism-Thunderclaw]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Slaughterism-Thunderclaw
+// Long Sword-Slaughterism-Thunderclaw
+patch=1,EE,703AB818,extended,00000001
+
+[Long Sword-Soldier's Sword-Breath Of Sleipnir]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Soldier's Sword-Breath Of Sleipnir
+// Long Sword-Soldier's Sword-Breath Of Sleipnir
+patch=1,EE,703AB81C,extended,00000001
+
+[Long Sword-Skald's Song-Crimson Sentinel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Skald's Song-Crimson Sentinel
+// Long Sword-Skald's Song-Crimson Sentinel
+patch=1,EE,703AB820,extended,00000001
+
+[Long Sword-Guardians' Sorrow-Cherub's Breath]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Guardians' Sorrow-Cherub's Breath
+// Long Sword-Guardians' Sorrow-Cherub's Breath
+patch=1,EE,703AB824,extended,00000001
+
+[Long Sword-Injustice-Voice Of Gungnir]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Injustice-Voice Of Gungnir
+// Long Sword-Injustice-Voice Of Gungnir
+patch=1,EE,703AB828,extended,00000001
+
+[Long Sword-Hymir's Finger-Mizzle Of Tears]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Hymir's Finger-Mizzle Of Tears
+// Long Sword-Hymir's Finger-Mizzle Of Tears
+patch=1,EE,703AB82C,extended,00000001
+
+[Sword-Hunter's Joy-Gyllir's Hoof]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword-Hunter's Joy-Gyllir's Hoof
+// Sword-Hunter's Joy-Gyllir's Hoof
+patch=1,EE,703AB830,extended,00000001
+
+[Long Sword-Flamberge-Dragonspeak]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Flamberge-Dragonspeak
+// Long Sword-Flamberge-Dragonspeak
+patch=1,EE,703AB834,extended,00000001
+
+[Sword-Deathdance-Queen Hel's Comfort]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword-Deathdance-Queen Hel's Comfort
+// Sword-Deathdance-Queen Hel's Comfort
+patch=1,EE,703AB838,extended,00000001
+
+[Sword-Scream-Faierie Horn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword-Scream-Faierie Horn
+// Sword-Scream-Faierie Horn
+patch=1,EE,703AB83C,extended,00000001
+
+[Axe-Lovekeeper-Spirit Horn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe-Lovekeeper-Spirit Horn
+// Axe-Lovekeeper-Spirit Horn
+patch=1,EE,703AB840,extended,00000001
+
+[Axe-Crimson Hood-Jotun Storm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe-Crimson Hood-Jotun Storm
+// Axe-Crimson Hood-Jotun Storm
+patch=1,EE,703AB844,extended,00000001
+
+[Axe-Foul Blade-Eye Of The Salamander]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe-Foul Blade-Eye Of The Salamander
+// Axe-Foul Blade-Eye Of The Salamander
+patch=1,EE,703AB848,extended,00000001
+
+[Axe-Bonebreaker-Ymer's Fang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe-Bonebreaker-Ymer's Fang
+// Axe-Bonebreaker-Ymer's Fang
+patch=1,EE,703AB84C,extended,00000001
+
+[Axe-Poisontongue-Phantom Eye]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe-Poisontongue-Phantom Eye
+// Axe-Poisontongue-Phantom Eye
+patch=1,EE,703AB850,extended,00000001
+
+[Axe-Executioner's Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe-Executioner's Song
+// Axe-Executioner's Song
+patch=1,EE,703AB854,extended,00000001
+
+[Mace-Mage's Promise-Hellsplague]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mace-Mage's Promise-Hellsplague
+// Mace-Mage's Promise-Hellsplague
+patch=1,EE,703AB858,extended,00000001
+
+[Mace-Carrion-Maker-Ares' Breath]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mace-Carrion-Maker-Ares' Breath
+// Mace-Carrion-Maker-Ares' Breath
+patch=1,EE,703AB85C,extended,00000001
+
+[Mace-Holy Mace-Gabriel's Claw]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mace-Holy Mace-Gabriel's Claw
+// Mace-Holy Mace-Gabriel's Claw
+patch=1,EE,703AB860,extended,00000001
+
+[Mace-Dragonstroke-Pixie Wings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mace-Dragonstroke-Pixie Wings
+// Mace-Dragonstroke-Pixie Wings
+patch=1,EE,703AB864,extended,00000001
+
+[Mace-Pupil's Club-Ishtar's Volcano]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mace-Pupil's Club-Ishtar's Volcano
+// Mace-Pupil's Club-Ishtar's Volcano
+patch=1,EE,703AB868,extended,00000001
+
+[Staff-Magi's Sorrow-Sirensong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Staff-Magi's Sorrow-Sirensong
+// Staff-Magi's Sorrow-Sirensong
+patch=1,EE,703AB86C,extended,00000001
+
+[Staff-Wisdom-THus SPake The Aesir]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Staff-Wisdom-THus SPake The Aesir
+// Staff-Wisdom-THus SPake The Aesir
+patch=1,EE,703AB870,extended,00000001
+
+[Staff-Edacious-Silver Solace]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Staff-Edacious-Silver Solace
+// Staff-Edacious-Silver Solace
+patch=1,EE,703AB874,extended,00000001
+
+[Staff-Philosopher's Staff-Wing At Moondown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Staff-Philosopher's Staff-Wing At Moondown
+// Staff-Philosopher's Staff-Wing At Moondown
+patch=1,EE,703AB878,extended,00000001
+
+[Long Sword-Nobuyoshi Susano's Veil]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Nobuyoshi Susano's Veil
+// Long Sword-Nobuyoshi Susano's Veil
+patch=1,EE,703AB87C,extended,00000001
+
+[Long Sword-Takamasa-Breath Of Amaterasu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Takamasa-Breath Of Amaterasu
+// Long Sword-Takamasa-Breath Of Amaterasu
+patch=1,EE,703AB880,extended,00000001
+
+[Mace-Spiked Wisdom-Xaphan's Horn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mace-Spiked Wisdom-Xaphan's Horn
+// Mace-Spiked Wisdom-Xaphan's Horn
+patch=1,EE,703AB884,extended,00000001
+
+[Mace-Iron Scraps-Broken Earth]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mace-Iron Scraps-Broken Earth
+// Mace-Iron Scraps-Broken Earth
+patch=1,EE,703AB888,extended,00000001
+
+[Mace-Sorrow's Companion-Jormungard's Tears]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mace-Sorrow's Companion-Jormungard's Tears
+// Mace-Sorrow's Companion-Jormungard's Tears
+patch=1,EE,703AB88C,extended,00000001
+
+[Pole Axe-Twins' Fang-Loki's Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pole Axe-Twins' Fang-Loki's Song
+// Pole Axe-Twins' Fang-Loki's Song
+patch=1,EE,703AB890,extended,00000001
+
+[Sword-Ravenfeeder-Breath Of The Aesir]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword-Ravenfeeder-Breath Of The Aesir
+// Sword-Ravenfeeder-Breath Of The Aesir
+patch=1,EE,703AB894,extended,00000001
+
+[Sword-Dragonhook-Ironfall]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword-Dragonhook-Ironfall
+// Sword-Dragonhook-Ironfall
+patch=1,EE,703AB898,extended,00000001
+
+[Sword-Butcher's Joy-Sacrificial Breath]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword-Butcher's Joy-Sacrificial Breath
+// Sword-Butcher's Joy-Sacrificial Breath
+patch=1,EE,703AB89C,extended,00000001
+
+[Spear-Stormgiver-Surt's Touch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear-Stormgiver-Surt's Touch
+// Spear-Stormgiver-Surt's Touch
+patch=1,EE,703AB8A0,extended,00000001
+
+[Spear-Rober King-Orion's Dart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear-Rober King-Orion's Dart
+// Spear-Rober King-Orion's Dart
+patch=1,EE,703AB8A4,extended,00000001
+
+[Pole Axe-Sorrowborn-Coldkill]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pole Axe-Sorrowborn-Coldkill
+// Pole Axe-Sorrowborn-Coldkill
+patch=1,EE,703AB8A8,extended,00000001
+
+[Pole Axe-Widow's Death-Plasmalogical Phantorium]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pole Axe-Widow's Death-Plasmalogical Phantorium
+// Pole Axe-Widow's Death-Plasmalogical Phantorium
+patch=1,EE,703AB8AC,extended,00000001
+
+[Pole Axe-Fheng's Glaive-Greed's Venom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pole Axe-Fheng's Glaive-Greed's Venom
+// Pole Axe-Fheng's Glaive-Greed's Venom
+patch=1,EE,703AB8B0,extended,00000001
+
+[Spear-Knight's Vow-Ullr's Bolt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear-Knight's Vow-Ullr's Bolt
+// Spear-Knight's Vow-Ullr's Bolt
+patch=1,EE,703AB8B4,extended,00000001
+
+[Spear-Balberith's Tears-Eye Of The Jinn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear-Balberith's Tears-Eye Of The Jinn
+// Spear-Balberith's Tears-Eye Of The Jinn
+patch=1,EE,703AB8B8,extended,00000001
+
+[Pole Axe-Windsinger-Storm's Eye]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pole Axe-Windsinger-Storm's Eye
+// Pole Axe-Windsinger-Storm's Eye
+patch=1,EE,703AB8BC,extended,00000001
+
+[Pole Axe-Devilscale-Belial's Embrace]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pole Axe-Devilscale-Belial's Embrace
+// Pole Axe-Devilscale-Belial's Embrace
+patch=1,EE,703AB8C0,extended,00000001
+
+[Spear-Broken Dogma-Undead Sign]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear-Broken Dogma-Undead Sign
+// Spear-Broken Dogma-Undead Sign
+patch=1,EE,703AB8C4,extended,00000001
+
+[Spear-Battlelust-Sin's Weight]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear-Battlelust-Sin's Weight
+// Spear-Battlelust-Sin's Weight
+patch=1,EE,703AB8C8,extended,00000001
+
+[Hammer-Souldouser-Blaze Of Brisingamen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hammer-Souldouser-Blaze Of Brisingamen
+// Hammer-Souldouser-Blaze Of Brisingamen
+patch=1,EE,703AB8CC,extended,00000001
+
+[Hammer-Dragonstorm-Bardiel's Blow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hammer-Dragonstorm-Bardiel's Blow
+// Hammer-Dragonstorm-Bardiel's Blow
+patch=1,EE,703AB8D0,extended,00000001
+
+[Hammer-Treasure Builder-Talos Fist]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hammer-Treasure Builder-Talos Fist
+// Hammer-Treasure Builder-Talos Fist
+patch=1,EE,703AB8D4,extended,00000001
+
+[Hammer-Tyrant's Hammer-A Handful Of Lightning]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hammer-Tyrant's Hammer-A Handful Of Lightning
+// Hammer-Tyrant's Hammer-A Handful Of Lightning
+patch=1,EE,703AB8D8,extended,00000001
+
+[Pole Axe-Reaper's Scythe-Demon's Lust]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pole Axe-Reaper's Scythe-Demon's Lust
+// Pole Axe-Reaper's Scythe-Demon's Lust
+patch=1,EE,703AB8DC,extended,00000001
+
+[Spear-Victor's Spoils-Seraph's Touch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear-Victor's Spoils-Seraph's Touch
+// Spear-Victor's Spoils-Seraph's Touch
+patch=1,EE,703AB8E0,extended,00000001
+
+[Spear-Wolf's Plague-Fenrir's Fang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear-Wolf's Plague-Fenrir's Fang
+// Spear-Wolf's Plague-Fenrir's Fang
+patch=1,EE,703AB8E4,extended,00000001
+
+[Mace-Skull Banquet-Demon's Whisper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mace-Skull Banquet-Demon's Whisper
+// Mace-Skull Banquet-Demon's Whisper
+patch=1,EE,703AB8E8,extended,00000001
+
+[Pole Axe-Apostate's Misery-Sylph Soughs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pole Axe-Apostate's Misery-Sylph Soughs
+// Pole Axe-Apostate's Misery-Sylph Soughs
+patch=1,EE,703AB8EC,extended,00000001
+
+[Long Sword-Greed's Reward-Voice Of Balam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Greed's Reward-Voice Of Balam
+// Long Sword-Greed's Reward-Voice Of Balam
+patch=1,EE,703AB8F0,extended,00000001
+
+[Sword-Maiden's Kris-Crescentsong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword-Maiden's Kris-Crescentsong
+// Sword-Maiden's Kris-Crescentsong
+patch=1,EE,703AB8F4,extended,00000001
+
+[Long Sword-Writheheart-Stricken Soul]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Writheheart-Stricken Soul
+// Long Sword-Writheheart-Stricken Soul
+patch=1,EE,703AB8F8,extended,00000001
+
+[Long Sword-Demonbane-Skoll's Feast]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Demonbane-Skoll's Feast
+// Long Sword-Demonbane-Skoll's Feast
+patch=1,EE,703AB8FC,extended,00000001
+
+[Sword-Swordsmasher-Pale Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword-Swordsmasher-Pale Death
+// Sword-Swordsmasher-Pale Death
+patch=1,EE,703AB900,extended,00000001
+
+[Spear-Ozymandias's Might-Lightning Strife]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear-Ozymandias's Might-Lightning Strife
+// Spear-Ozymandias's Might-Lightning Strife
+patch=1,EE,703AB904,extended,00000001
+
+[Spear-Mermaid's Feast-Undine's Sigh]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear-Mermaid's Feast-Undine's Sigh
+// Spear-Mermaid's Feast-Undine's Sigh
+patch=1,EE,703AB908,extended,00000001
+
+[Sword-Glory's Bane-Damocles' Strike]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword-Glory's Bane-Damocles' Strike
+// Sword-Glory's Bane-Damocles' Strike
+patch=1,EE,103AB80E,extended,00000101
+
+[Sword-Kingsblood-Thor's Flame]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword-Kingsblood-Thor's Flame
+// Sword-Kingsblood-Thor's Flame
+patch=1,EE,103AB812,extended,00000101
+
+[Long Sword-Moonfire-Fang Of The Ifrit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Moonfire-Fang Of The Ifrit
+// Long Sword-Moonfire-Fang Of The Ifrit
+patch=1,EE,103AB816,extended,00000101
+
+[Long Sword-Slaughterism-Thunderclaw]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Slaughterism-Thunderclaw
+// Long Sword-Slaughterism-Thunderclaw
+patch=1,EE,103AB81A,extended,00000101
+
+[Long Sword-Soldier's Sword-Breath Of Sleipnir]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Soldier's Sword-Breath Of Sleipnir
+// Long Sword-Soldier's Sword-Breath Of Sleipnir
+patch=1,EE,103AB81E,extended,00000101
+
+[Long Sword-Skald's Song-Crimson Sentinel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Skald's Song-Crimson Sentinel
+// Long Sword-Skald's Song-Crimson Sentinel
+patch=1,EE,103AB822,extended,00000101
+
+[Long Sword-Guardians' Sorrow-Cherub's Breath]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Guardians' Sorrow-Cherub's Breath
+// Long Sword-Guardians' Sorrow-Cherub's Breath
+patch=1,EE,103AB826,extended,00000101
+
+[Long Sword-Injustice-Voice Of Gungnir]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Injustice-Voice Of Gungnir
+// Long Sword-Injustice-Voice Of Gungnir
+patch=1,EE,103AB82A,extended,00000101
+
+[Long Sword-Hymir's Finger-Mizzle Of Tears]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Hymir's Finger-Mizzle Of Tears
+// Long Sword-Hymir's Finger-Mizzle Of Tears
+patch=1,EE,103AB82E,extended,00000101
+
+[Sword-Hunter's Joy-Gyllir's Hoof]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword-Hunter's Joy-Gyllir's Hoof
+// Sword-Hunter's Joy-Gyllir's Hoof
+patch=1,EE,103AB832,extended,00000101
+
+[Long Sword-Flamberge-Dragonspeak]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Flamberge-Dragonspeak
+// Long Sword-Flamberge-Dragonspeak
+patch=1,EE,103AB836,extended,00000101
+
+[Sword-Deathdance-Queen Hel's Comfort]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword-Deathdance-Queen Hel's Comfort
+// Sword-Deathdance-Queen Hel's Comfort
+patch=1,EE,103AB83A,extended,00000101
+
+[Sword-Scream-Faierie Horn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword-Scream-Faierie Horn
+// Sword-Scream-Faierie Horn
+patch=1,EE,103AB83E,extended,00000101
+
+[Axe-Lovekeeper-Spirit Horn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe-Lovekeeper-Spirit Horn
+// Axe-Lovekeeper-Spirit Horn
+patch=1,EE,103AB842,extended,00000101
+
+[Axe-Crimson Hood-Jotun Storm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe-Crimson Hood-Jotun Storm
+// Axe-Crimson Hood-Jotun Storm
+patch=1,EE,103AB846,extended,00000101
+
+[Axe-Foul Blade-Eye Of The Salamander]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe-Foul Blade-Eye Of The Salamander
+// Axe-Foul Blade-Eye Of The Salamander
+patch=1,EE,103AB84A,extended,00000101
+
+[Axe-Bonebreaker-Ymer's Fang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe-Bonebreaker-Ymer's Fang
+// Axe-Bonebreaker-Ymer's Fang
+patch=1,EE,103AB84E,extended,00000101
+
+[Axe-Poisontongue-Phantom Eye]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe-Poisontongue-Phantom Eye
+// Axe-Poisontongue-Phantom Eye
+patch=1,EE,103AB852,extended,00000101
+
+[Axe-Executioner's Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axe-Executioner's Song
+// Axe-Executioner's Song
+patch=1,EE,103AB856,extended,00000101
+
+[Mace-Mage's Promise-Hellsplague]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mace-Mage's Promise-Hellsplague
+// Mace-Mage's Promise-Hellsplague
+patch=1,EE,103AB85A,extended,00000101
+
+[Mace-Carrion-Maker-Ares' Breath]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mace-Carrion-Maker-Ares' Breath
+// Mace-Carrion-Maker-Ares' Breath
+patch=1,EE,103AB85E,extended,00000101
+
+[Mace-Holy Mace-Gabriel's Claw]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mace-Holy Mace-Gabriel's Claw
+// Mace-Holy Mace-Gabriel's Claw
+patch=1,EE,103AB862,extended,00000101
+
+[Mace-Dragonstroke-Pixie Wings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mace-Dragonstroke-Pixie Wings
+// Mace-Dragonstroke-Pixie Wings
+patch=1,EE,103AB866,extended,00000101
+
+[Mace-Pupil's Club-Ishtar's Volcano]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mace-Pupil's Club-Ishtar's Volcano
+// Mace-Pupil's Club-Ishtar's Volcano
+patch=1,EE,103AB86A,extended,00000101
+
+[Staff-Magi's Sorrow-Sirensong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Staff-Magi's Sorrow-Sirensong
+// Staff-Magi's Sorrow-Sirensong
+patch=1,EE,103AB86E,extended,00000101
+
+[Staff-Wisdom-THus SPake The Aesir]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Staff-Wisdom-THus SPake The Aesir
+// Staff-Wisdom-THus SPake The Aesir
+patch=1,EE,103AB872,extended,00000101
+
+[Staff-Edacious-Silver Solace]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Staff-Edacious-Silver Solace
+// Staff-Edacious-Silver Solace
+patch=1,EE,103AB876,extended,00000101
+
+[Staff-Philosopher's Staff-Wing At Moondown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Staff-Philosopher's Staff-Wing At Moondown
+// Staff-Philosopher's Staff-Wing At Moondown
+patch=1,EE,103AB87A,extended,00000101
+
+[Long Sword-Nobuyoshi Susano's Veil]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Nobuyoshi Susano's Veil
+// Long Sword-Nobuyoshi Susano's Veil
+patch=1,EE,103AB87E,extended,00000101
+
+[Long Sword-Takamasa-Breath Of Amaterasu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Takamasa-Breath Of Amaterasu
+// Long Sword-Takamasa-Breath Of Amaterasu
+patch=1,EE,103AB882,extended,00000101
+
+[Mace-Spiked Wisdom-Xaphan's Horn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mace-Spiked Wisdom-Xaphan's Horn
+// Mace-Spiked Wisdom-Xaphan's Horn
+patch=1,EE,103AB886,extended,00000101
+
+[Mace-Iron Scraps-Broken Earth]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mace-Iron Scraps-Broken Earth
+// Mace-Iron Scraps-Broken Earth
+patch=1,EE,103AB88A,extended,00000101
+
+[Mace-Sorrow's Companion-Jormungard's Tears]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mace-Sorrow's Companion-Jormungard's Tears
+// Mace-Sorrow's Companion-Jormungard's Tears
+patch=1,EE,103AB88E,extended,00000101
+
+[Pole Axe-Twins' Fang-Loki's Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pole Axe-Twins' Fang-Loki's Song
+// Pole Axe-Twins' Fang-Loki's Song
+patch=1,EE,103AB892,extended,00000101
+
+[Sword-Ravenfeeder-Breath Of The Aesir]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword-Ravenfeeder-Breath Of The Aesir
+// Sword-Ravenfeeder-Breath Of The Aesir
+patch=1,EE,103AB896,extended,00000101
+
+[Sword-Dragonhook-Ironfall]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword-Dragonhook-Ironfall
+// Sword-Dragonhook-Ironfall
+patch=1,EE,103AB89A,extended,00000101
+
+[Sword-Butcher's Joy-Sacrificial Breath]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword-Butcher's Joy-Sacrificial Breath
+// Sword-Butcher's Joy-Sacrificial Breath
+patch=1,EE,103AB89E,extended,00000101
+
+[Spear-Stormgiver-Surt's Touch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear-Stormgiver-Surt's Touch
+// Spear-Stormgiver-Surt's Touch
+patch=1,EE,103AB8A2,extended,00000101
+
+[Spear-Rober King-Orion's Dart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear-Rober King-Orion's Dart
+// Spear-Rober King-Orion's Dart
+patch=1,EE,103AB8A6,extended,00000101
+
+[Pole Axe-Sorrowborn-Coldkill]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pole Axe-Sorrowborn-Coldkill
+// Pole Axe-Sorrowborn-Coldkill
+patch=1,EE,103AB8AA,extended,00000101
+
+[Pole Axe-Widow's Death-Plasmalogical Phantorium]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pole Axe-Widow's Death-Plasmalogical Phantorium
+// Pole Axe-Widow's Death-Plasmalogical Phantorium
+patch=1,EE,103AB8AE,extended,00000101
+
+[Pole Axe-Fheng's Glaive-Greed's Venom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pole Axe-Fheng's Glaive-Greed's Venom
+// Pole Axe-Fheng's Glaive-Greed's Venom
+patch=1,EE,103AB8B2,extended,00000101
+
+[Spear-Knight's Vow-Ullr's Bolt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear-Knight's Vow-Ullr's Bolt
+// Spear-Knight's Vow-Ullr's Bolt
+patch=1,EE,103AB8B6,extended,00000101
+
+[Spear-Balberith's Tears-Eye Of The Jinn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear-Balberith's Tears-Eye Of The Jinn
+// Spear-Balberith's Tears-Eye Of The Jinn
+patch=1,EE,103AB8BA,extended,00000101
+
+[Pole Axe-Windsinger-Storm's Eye]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pole Axe-Windsinger-Storm's Eye
+// Pole Axe-Windsinger-Storm's Eye
+patch=1,EE,103AB8BE,extended,00000101
+
+[Pole Axe-Devilscale-Belial's Embrace]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pole Axe-Devilscale-Belial's Embrace
+// Pole Axe-Devilscale-Belial's Embrace
+patch=1,EE,103AB8C2,extended,00000101
+
+[Spear-Broken Dogma-Undead Sign]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear-Broken Dogma-Undead Sign
+// Spear-Broken Dogma-Undead Sign
+patch=1,EE,103AB8C6,extended,00000101
+
+[Spear-Battlelust-Sin's Weight]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear-Battlelust-Sin's Weight
+// Spear-Battlelust-Sin's Weight
+patch=1,EE,103AB8CA,extended,00000101
+
+[Hammer-Souldouser-Blaze Of Brisingamen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hammer-Souldouser-Blaze Of Brisingamen
+// Hammer-Souldouser-Blaze Of Brisingamen
+patch=1,EE,103AB8CE,extended,00000101
+
+[Hammer-Dragonstorm-Bardiel's Blow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hammer-Dragonstorm-Bardiel's Blow
+// Hammer-Dragonstorm-Bardiel's Blow
+patch=1,EE,103AB8D2,extended,00000101
+
+[Hammer-Treasure Builder-Talos Fist]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hammer-Treasure Builder-Talos Fist
+// Hammer-Treasure Builder-Talos Fist
+patch=1,EE,103AB8D6,extended,00000101
+
+[Hammer-Tyrant's Hammer-A Handful Of Lightning]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hammer-Tyrant's Hammer-A Handful Of Lightning
+// Hammer-Tyrant's Hammer-A Handful Of Lightning
+patch=1,EE,103AB8DA,extended,00000101
+
+[Pole Axe-Reaper's Scythe-Demon's Lust]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pole Axe-Reaper's Scythe-Demon's Lust
+// Pole Axe-Reaper's Scythe-Demon's Lust
+patch=1,EE,103AB8DE,extended,00000101
+
+[Spear-Victor's Spoils-Seraph's Touch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear-Victor's Spoils-Seraph's Touch
+// Spear-Victor's Spoils-Seraph's Touch
+patch=1,EE,103AB8E2,extended,00000101
+
+[Spear-Wolf's Plague-Fenrir's Fang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear-Wolf's Plague-Fenrir's Fang
+// Spear-Wolf's Plague-Fenrir's Fang
+patch=1,EE,103AB8E6,extended,00000101
+
+[Mace-Skull Banquet-Demon's Whisper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mace-Skull Banquet-Demon's Whisper
+// Mace-Skull Banquet-Demon's Whisper
+patch=1,EE,103AB8EA,extended,00000101
+
+[Pole Axe-Apostate's Misery-Sylph Soughs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pole Axe-Apostate's Misery-Sylph Soughs
+// Pole Axe-Apostate's Misery-Sylph Soughs
+patch=1,EE,103AB8EE,extended,00000101
+
+[Long Sword-Greed's Reward-Voice Of Balam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Greed's Reward-Voice Of Balam
+// Long Sword-Greed's Reward-Voice Of Balam
+patch=1,EE,103AB8F2,extended,00000101
+
+[Sword-Maiden's Kris-Crescentsong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword-Maiden's Kris-Crescentsong
+// Sword-Maiden's Kris-Crescentsong
+patch=1,EE,103AB8F6,extended,00000101
+
+[Long Sword-Writheheart-Stricken Soul]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Writheheart-Stricken Soul
+// Long Sword-Writheheart-Stricken Soul
+patch=1,EE,103AB8FA,extended,00000101
+
+[Long Sword-Demonbane-Skoll's Feast]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Sword-Demonbane-Skoll's Feast
+// Long Sword-Demonbane-Skoll's Feast
+patch=1,EE,103AB8FE,extended,00000101
+
+[Sword-Swordsmasher-Pale Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword-Swordsmasher-Pale Death
+// Sword-Swordsmasher-Pale Death
+patch=1,EE,103AB902,extended,00000101
+
+[Spear-Ozymandias's Might-Lightning Strife]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear-Ozymandias's Might-Lightning Strife
+// Spear-Ozymandias's Might-Lightning Strife
+patch=1,EE,103AB906,extended,00000101
+
+[Spear-Mermaid's Feast-Undine's Sigh]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spear-Mermaid's Feast-Undine's Sigh
+// Spear-Mermaid's Feast-Undine's Sigh
+patch=1,EE,103AB90A,extended,00000101

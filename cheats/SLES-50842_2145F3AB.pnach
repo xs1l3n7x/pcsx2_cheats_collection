@@ -1,0 +1,265 @@
+gametitle=Downforce [SLES-50842] [2145F3AB]
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,F0100008,extended,0023B987
+
+[Max Points (Championship Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Points (Championship Mode)
+// Max Points (Championship Mode)
+patch=1,EE,103090A6,extended,000003E7
+
+[Unlock All Difficulties]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Difficulties
+// Unlock All Difficulties
+patch=1,EE,0030912D,extended,00000002
+
+[Pilot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pilot
+// Pilot
+patch=1,EE,00309218,extended,00000001
+
+[Kim]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kim
+// Kim
+patch=1,EE,0030921C,extended,00000001
+
+[Kim 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kim 2
+// Kim 2
+patch=1,EE,00309220,extended,00000001
+
+[Kim 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kim 3
+// Kim 3
+patch=1,EE,00309224,extended,00000001
+
+[Florida]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Florida
+// Florida
+patch=1,EE,003092B4,extended,00000002
+
+[Tokyo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tokyo
+// Tokyo
+patch=1,EE,003092BC,extended,00000002
+
+[Sydney]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sydney
+// Sydney
+patch=1,EE,003092C8,extended,00000002
+
+[Toronto]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Toronto
+// Toronto
+patch=1,EE,00309298,extended,00000002
+
+[Tokyo 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tokyo 2
+// Tokyo 2
+patch=1,EE,003092A0,extended,00000002
+
+[Las Vegas 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas 2
+// Las Vegas 2
+patch=1,EE,003092A4,extended,00000002
+
+[Singapore 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Singapore 2
+// Singapore 2
+patch=1,EE,003092A8,extended,00000002
+
+[Sydney 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sydney 2
+// Sydney 2
+patch=1,EE,003092AC,extended,00000002
+
+[Hong Kong 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hong Kong 2
+// Hong Kong 2
+patch=1,EE,003092B0,extended,00000002
+
+[Florida 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Florida 2
+// Florida 2
+patch=1,EE,003092D0,extended,00000002
+
+[Tokyo 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tokyo 3
+// Tokyo 3
+patch=1,EE,00309280,extended,00000002
+
+[Las Vegas 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas 3
+// Las Vegas 3
+patch=1,EE,00309284,extended,00000002
+
+[Singapore 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Singapore 3
+// Singapore 3
+patch=1,EE,00309288,extended,00000002
+
+[Sydney 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sydney 3
+// Sydney 3
+patch=1,EE,0030928C,extended,00000002
+
+[Hong Kong 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hong Kong 3
+// Hong Kong 3
+patch=1,EE,00309290,extended,00000002
+
+[Florida 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Florida 3
+// Florida 3
+patch=1,EE,00309294,extended,00000002
+
+[Geneva]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Geneva
+// Geneva
+patch=1,EE,0030929C,extended,00000002
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,103090F0,extended,00000000
+
+[Singapore]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Singapore
+// Singapore
+patch=1,EE,103090F2,extended,00000000
+
+[Hong Kong]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hong Kong
+// Hong Kong
+patch=1,EE,103090F4,extended,00000000
+
+[Tokyo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tokyo
+// Tokyo
+patch=1,EE,103090F6,extended,00000000
+
+[Florida]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Florida
+// Florida
+patch=1,EE,103090F8,extended,00000000
+
+[Sydney]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sydney
+// Sydney
+patch=1,EE,103090FA,extended,00000000
+
+[Las Vegas 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas 2
+// Las Vegas 2
+patch=1,EE,10309100,extended,00000000
+
+[Singapore 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Singapore 2
+// Singapore 2
+patch=1,EE,10309102,extended,00000000
+
+[Hong Kong 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hong Kong 2
+// Hong Kong 2
+patch=1,EE,10309104,extended,00000000
+
+[Tokyo 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tokyo 2
+// Tokyo 2
+patch=1,EE,10309106,extended,00000000
+
+[Florida 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Florida 2
+// Florida 2
+patch=1,EE,10309108,extended,00000000
+
+[Sydney 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sydney 2
+// Sydney 2
+patch=1,EE,1030910A,extended,00000000
+
+[Toronto]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Toronto
+// Toronto
+patch=1,EE,1030910C,extended,00000000
+
+[Las Vegas 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas 3
+// Las Vegas 3
+patch=1,EE,10309110,extended,00000000
+
+[Singapore 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Singapore 3
+// Singapore 3
+patch=1,EE,10309112,extended,00000000
+
+[Hong Kong 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hong Kong 3
+// Hong Kong 3
+patch=1,EE,10309114,extended,00000000
+
+[Tokyo 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tokyo 3
+// Tokyo 3
+patch=1,EE,10309116,extended,00000000
+
+[Florida 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Florida 3
+// Florida 3
+patch=1,EE,10309118,extended,00000000
+
+[Sydney 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sydney 3
+// Sydney 3
+patch=1,EE,1030911A,extended,00000000
+
+[Geneva]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Geneva
+// Geneva
+patch=1,EE,1030911C,extended,00000000

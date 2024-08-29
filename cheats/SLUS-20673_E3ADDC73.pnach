@@ -1,0 +1,121 @@
+gametitle=Alias [SLUS-20673] [E3ADDC73]
+
+[Always Best Driver Condition]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Best Driver Condition
+// Always Best Driver Condition
+patch=1,EE,90283754,extended,0C09DBAA
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,20286C78,extended,24020001
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2013FAC8,extended,00000000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,1013FAF2,extended,00001000
+
+[Save Anywhere]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save Anywhere
+// Save Anywhere
+patch=1,EE,2023C104,extended,24030001
+
+[Save Anywhere]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save Anywhere
+// Save Anywhere
+patch=1,EE,2023C108,extended,AC431E5C
+
+[Partially Transparent Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Partially Transparent Characters
+// Partially Transparent Characters
+patch=1,EE,20385AC4,extended,3F800000
+
+[See Thru Some Objects]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=See Thru Some Objects
+// See Thru Some Objects
+patch=1,EE,20385AC4,extended,40800000
+
+[P1 Press {L1}+{SELECT} For Thermal Vision]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For Thermal Vision
+// P1 Press {L1}+{SELECT} For Thermal Vision
+patch=1,EE,D0381EC2,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} For Thermal Vision]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For Thermal Vision
+// P1 Press {L1}+{SELECT} For Thermal Vision
+patch=1,EE,20385B20,extended,00000001
+
+[P1 Press {L2}+{SELECT} For Foggy Vision]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For Foggy Vision
+// P1 Press {L2}+{SELECT} For Foggy Vision
+patch=1,EE,D0381EC2,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} For Foggy Vision]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For Foggy Vision
+// P1 Press {L2}+{SELECT} For Foggy Vision
+patch=1,EE,20385B20,extended,00000002
+
+[P1 Press {R1}+{SELECT} For Security Camera Vision]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} For Security Camera Vision
+// P1 Press {R1}+{SELECT} For Security Camera Vision
+patch=1,EE,D0381EC2,extended,0000F7FE
+
+[P1 Press {R1}+{SELECT} For Security Camera Vision]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} For Security Camera Vision
+// P1 Press {R1}+{SELECT} For Security Camera Vision
+patch=1,EE,20385B20,extended,00000003
+
+[P1 Press {R2}+{SELECT} For Inverted Vision]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+{SELECT} For Inverted Vision
+// P1 Press {R2}+{SELECT} For Inverted Vision
+patch=1,EE,D0381EC2,extended,0000FDFE
+
+[P1 Press {R2}+{SELECT} For Inverted Vision]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+{SELECT} For Inverted Vision
+// P1 Press {R2}+{SELECT} For Inverted Vision
+patch=1,EE,20385B20,extended,00000004
+
+[P1 Press {L3}+{SELECT} For Blurry Vision]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3}+{SELECT} For Blurry Vision
+// P1 Press {L3}+{SELECT} For Blurry Vision
+patch=1,EE,D0381EC2,extended,0000FFFC
+
+[P1 Press {L3}+{SELECT} For Blurry Vision]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3}+{SELECT} For Blurry Vision
+// P1 Press {L3}+{SELECT} For Blurry Vision
+patch=1,EE,20385B20,extended,00000005
+
+[P1 Press {R3}+{SELECT} For Normal Vision]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+{SELECT} For Normal Vision
+// P1 Press {R3}+{SELECT} For Normal Vision
+patch=1,EE,D0381EC2,extended,0000FFFA
+
+[P1 Press {R3}+{SELECT} For Normal Vision]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+{SELECT} For Normal Vision
+// P1 Press {R3}+{SELECT} For Normal Vision
+patch=1,EE,20385B20,extended,00000000

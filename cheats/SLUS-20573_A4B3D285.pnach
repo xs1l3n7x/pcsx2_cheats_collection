@@ -1,0 +1,103 @@
+gametitle=Sims, The [SLUS-20573] [A4B3D285]
+
+[Enable COde (Must Be On)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enable COde (Must Be On)
+// Enable COde (Must Be On)
+patch=1,EE,901F44DC,extended,0C0B1CBE
+
+[Disable Censor Bars (Parental Advisory-17+)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Censor Bars (Parental Advisory-17+)
+// Disable Censor Bars (Parental Advisory-17+)
+patch=1,EE,201C6650,extended,03E00008
+
+[Disable Censor Bars (Parental Advisory-17+)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Censor Bars (Parental Advisory-17+)
+// Disable Censor Bars (Parental Advisory-17+)
+patch=1,EE,201C6654,extended,00000000
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,201E2100,extended,AC820068
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,201E2104,extended,00401821
+
+[Ui Sounds Always Disabled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ui Sounds Always Disabled
+// Ui Sounds Always Disabled
+patch=1,EE,2035F3B8,extended,00000000
+
+[Ui Sounds Always Enabled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ui Sounds Always Enabled
+// Ui Sounds Always Enabled
+patch=1,EE,2035F3B8,extended,00000001
+
+[All Items Are Free]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Items Are Free
+// All Items Are Free
+patch=1,EE,2035F3BC,extended,00000001
+
+[Display Debug Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Display Debug Info
+// Display Debug Info
+patch=1,EE,2035F3C0,extended,00000001
+
+[Unlock All Locked Items/Skins/2-Player Games]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Locked Items/Skins/2-Player Games
+// Unlock All Locked Items/Skins/2-Player Games
+patch=1,EE,2035F3C4,extended,00000001
+
+[Unlock Party Motel 2-Player Game]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Party Motel 2-Player Game
+// Unlock Party Motel 2-Player Game
+patch=1,EE,2035F3C8,extended,00000001
+
+[Unlock Play The Sims]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Play The Sims
+// Unlock Play The Sims
+patch=1,EE,2035F3CC,extended,00000001
+
+[Various Info Displayed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Various Info Displayed
+// Various Info Displayed
+patch=1,EE,2035F3D4,extended,00000001
+
+[Fish Eye Cheat Activated]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fish Eye Cheat Activated
+// Fish Eye Cheat Activated
+patch=1,EE,2035F3E4,extended,00000001
+
+[Big Head Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Head Mode
+// Big Head Mode
+patch=1,EE,2035F3EC,extended,00000001
+
+[Smurf Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Smurf Mode
+// Smurf Mode
+patch=1,EE,2035F3F4,extended,00000001
+
+[Max Money For New Family]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money For New Family
+// Max Money For New Family
+patch=1,EE,203D02E0,extended,05F5E0FF

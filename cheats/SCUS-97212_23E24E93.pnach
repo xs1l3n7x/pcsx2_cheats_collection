@@ -1,0 +1,517 @@
+gametitle=My Street [SCUS-97212] [23E24E93]
+
+[Magic Alloy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Magic Alloy
+// Magic Alloy
+patch=1,EE,F0100008,extended,00194D57
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,20287070,extended,461C3FF6
+
+[Hella Marbles (Red Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hella Marbles (Red Player)
+// Hella Marbles (Red Player)
+patch=1,EE,D18CA202,extended,0000018C
+
+[Hella Marbles (Red Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hella Marbles (Red Player)
+// Hella Marbles (Red Player)
+patch=1,EE,218CA054,extended,000003E7
+
+[No Marbles (Red Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Marbles (Red Player)
+// No Marbles (Red Player)
+patch=1,EE,D18CA202,extended,0000018C
+
+[No Marbles (Red Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Marbles (Red Player)
+// No Marbles (Red Player)
+patch=1,EE,218CA054,extended,00000000
+
+[Hella Marbles (Blue Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hella Marbles (Blue Player)
+// Hella Marbles (Blue Player)
+patch=1,EE,D18CA202,extended,0000018C
+
+[Hella Marbles (Blue Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hella Marbles (Blue Player)
+// Hella Marbles (Blue Player)
+patch=1,EE,218CA058,extended,000003E7
+
+[No Marbles (Blue Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Marbles (Blue Player)
+// No Marbles (Blue Player)
+patch=1,EE,D18CA202,extended,0000018C
+
+[No Marbles (Blue Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Marbles (Blue Player)
+// No Marbles (Blue Player)
+patch=1,EE,218CA058,extended,00000000
+
+[Hella Marbles (Green Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hella Marbles (Green Player)
+// Hella Marbles (Green Player)
+patch=1,EE,D18CA202,extended,0000018C
+
+[Hella Marbles (Green Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hella Marbles (Green Player)
+// Hella Marbles (Green Player)
+patch=1,EE,218CA05C,extended,000003E7
+
+[No Marbles (Green Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Marbles (Green Player)
+// No Marbles (Green Player)
+patch=1,EE,D18CA202,extended,0000018C
+
+[No Marbles (Green Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Marbles (Green Player)
+// No Marbles (Green Player)
+patch=1,EE,218CA05C,extended,00000000
+
+[Hella Marbles (Yellow Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hella Marbles (Yellow Player)
+// Hella Marbles (Yellow Player)
+patch=1,EE,D18CA202,extended,0000018C
+
+[Hella Marbles (Yellow Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hella Marbles (Yellow Player)
+// Hella Marbles (Yellow Player)
+patch=1,EE,218CA060,extended,000003E7
+
+[No Marbles (Yellow Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Marbles (Yellow Player)
+// No Marbles (Yellow Player)
+patch=1,EE,D18CA202,extended,0000018C
+
+[No Marbles (Yellow Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Marbles (Yellow Player)
+// No Marbles (Yellow Player)
+patch=1,EE,218CA060,extended,00000000
+
+[Team 1 Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team 1 Max Score
+// Team 1 Max Score
+patch=1,EE,D18C5D52,extended,0000018C
+
+[Team 1 Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team 1 Max Score
+// Team 1 Max Score
+patch=1,EE,218C5D40,extended,00000063
+
+[Team 1 No Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team 1 No Score
+// Team 1 No Score
+patch=1,EE,D18C5D52,extended,0000018C
+
+[Team 1 No Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team 1 No Score
+// Team 1 No Score
+patch=1,EE,218C5D40,extended,00000000
+
+[Team 2 Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team 2 Max Score
+// Team 2 Max Score
+patch=1,EE,D18C5D52,extended,0000018C
+
+[Team 2 Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team 2 Max Score
+// Team 2 Max Score
+patch=1,EE,218C5D44,extended,00000063
+
+[Team 2 No Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team 2 No Score
+// Team 2 No Score
+patch=1,EE,D18C5D52,extended,0000018C
+
+[Team 2 No Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Team 2 No Score
+// Team 2 No Score
+patch=1,EE,218C5D44,extended,00000000
+
+[Max Score (Red Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score (Red Player)
+// Max Score (Red Player)
+patch=1,EE,D190A6DE,extended,00000190
+
+[Max Score (Red Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score (Red Player)
+// Max Score (Red Player)
+patch=1,EE,2190A5F4,extended,0000270F
+
+[No Score (Red Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Score (Red Player)
+// No Score (Red Player)
+patch=1,EE,D190A6DE,extended,00000190
+
+[No Score (Red Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Score (Red Player)
+// No Score (Red Player)
+patch=1,EE,2190A5F4,extended,00000000
+
+[Max Score (Blue Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score (Blue Player)
+// Max Score (Blue Player)
+patch=1,EE,D190A6DE,extended,00000190
+
+[Max Score (Blue Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score (Blue Player)
+// Max Score (Blue Player)
+patch=1,EE,2190A604,extended,0000270F
+
+[No Score (Blue Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Score (Blue Player)
+// No Score (Blue Player)
+patch=1,EE,D190A6DE,extended,00000190
+
+[No Score (Blue Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Score (Blue Player)
+// No Score (Blue Player)
+patch=1,EE,2190A604,extended,00000000
+
+[Max Score (Green Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score (Green Player)
+// Max Score (Green Player)
+patch=1,EE,D190A6DE,extended,00000190
+
+[Max Score (Green Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score (Green Player)
+// Max Score (Green Player)
+patch=1,EE,2190A614,extended,0000270F
+
+[No Score (Green Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Score (Green Player)
+// No Score (Green Player)
+patch=1,EE,D190A6DE,extended,00000190
+
+[No Score (Green Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Score (Green Player)
+// No Score (Green Player)
+patch=1,EE,2190A614,extended,00000000
+
+[Max Score (Yellow Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score (Yellow Player)
+// Max Score (Yellow Player)
+patch=1,EE,D190A6DE,extended,00000190
+
+[Max Score (Yellow Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score (Yellow Player)
+// Max Score (Yellow Player)
+patch=1,EE,2190A624,extended,0000270F
+
+[No Score (Yellow Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Score (Yellow Player)
+// No Score (Yellow Player)
+patch=1,EE,D190A6DE,extended,00000190
+
+[No Score (Yellow Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Score (Yellow Player)
+// No Score (Yellow Player)
+patch=1,EE,2190A624,extended,00000000
+
+[Always Lap 1 (Red Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Lap 1 (Red Player)
+// Always Lap 1 (Red Player)
+patch=1,EE,D18C6F36,extended,0000018C
+
+[Always Lap 1 (Red Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Lap 1 (Red Player)
+// Always Lap 1 (Red Player)
+patch=1,EE,218C6ECC,extended,00000000
+
+[Start On Lap 4 (Red Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 4 (Red Player)
+// Start On Lap 4 (Red Player)
+patch=1,EE,E002018C,extended,018C6F36
+
+[Start On Lap 4 (Red Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 4 (Red Player)
+// Start On Lap 4 (Red Player)
+patch=1,EE,D18C6ECC,extended,00000000
+
+[Start On Lap 4 (Red Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 4 (Red Player)
+// Start On Lap 4 (Red Player)
+patch=1,EE,218C6ECC,extended,00000004
+
+[Start On Lap 7 (Red Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 7 (Red Player)
+// Start On Lap 7 (Red Player)
+patch=1,EE,E002018C,extended,018C6F36
+
+[Start On Lap 7 (Red Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 7 (Red Player)
+// Start On Lap 7 (Red Player)
+patch=1,EE,D18C6ECC,extended,00000000
+
+[Start On Lap 7 (Red Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 7 (Red Player)
+// Start On Lap 7 (Red Player)
+patch=1,EE,218C6ECC,extended,00000007
+
+[Start On Lap 14 (Red Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 14 (Red Player)
+// Start On Lap 14 (Red Player)
+patch=1,EE,E002018C,extended,018C6F36
+
+[Start On Lap 14 (Red Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 14 (Red Player)
+// Start On Lap 14 (Red Player)
+patch=1,EE,D18C6ECC,extended,00000000
+
+[Start On Lap 14 (Red Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 14 (Red Player)
+// Start On Lap 14 (Red Player)
+patch=1,EE,218C6ECC,extended,0000000E
+
+[Always Lap 1 (Blue Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Lap 1 (Blue Player)
+// Always Lap 1 (Blue Player)
+patch=1,EE,D18C6F36,extended,0000018C
+
+[Always Lap 1 (Blue Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Lap 1 (Blue Player)
+// Always Lap 1 (Blue Player)
+patch=1,EE,218C6F9C,extended,00000000
+
+[Start On Lap 4 (Blue Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 4 (Blue Player)
+// Start On Lap 4 (Blue Player)
+patch=1,EE,E002018C,extended,018C6F36
+
+[Start On Lap 4 (Blue Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 4 (Blue Player)
+// Start On Lap 4 (Blue Player)
+patch=1,EE,D18C6F9C,extended,00000000
+
+[Start On Lap 4 (Blue Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 4 (Blue Player)
+// Start On Lap 4 (Blue Player)
+patch=1,EE,218C6F9C,extended,00000004
+
+[Start On Lap 7 (Blue Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 7 (Blue Player)
+// Start On Lap 7 (Blue Player)
+patch=1,EE,E002018C,extended,018C6F36
+
+[Start On Lap 7 (Blue Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 7 (Blue Player)
+// Start On Lap 7 (Blue Player)
+patch=1,EE,D18C6F9C,extended,00000000
+
+[Start On Lap 7 (Blue Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 7 (Blue Player)
+// Start On Lap 7 (Blue Player)
+patch=1,EE,218C6F9C,extended,00000007
+
+[Start On Lap 14 (Blue Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 14 (Blue Player)
+// Start On Lap 14 (Blue Player)
+patch=1,EE,E002018C,extended,018C6F36
+
+[Start On Lap 14 (Blue Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 14 (Blue Player)
+// Start On Lap 14 (Blue Player)
+patch=1,EE,D18C6F9C,extended,00000000
+
+[Start On Lap 14 (Blue Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 14 (Blue Player)
+// Start On Lap 14 (Blue Player)
+patch=1,EE,218C6F9C,extended,0000000E
+
+[Always Lap 1 (Green Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Lap 1 (Green Player)
+// Always Lap 1 (Green Player)
+patch=1,EE,D18C6F36,extended,0000018C
+
+[Always Lap 1 (Green Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Lap 1 (Green Player)
+// Always Lap 1 (Green Player)
+patch=1,EE,218C706C,extended,00000000
+
+[Start On Lap 4 (Green Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 4 (Green Player)
+// Start On Lap 4 (Green Player)
+patch=1,EE,E002018C,extended,018C6F36
+
+[Start On Lap 4 (Green Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 4 (Green Player)
+// Start On Lap 4 (Green Player)
+patch=1,EE,D18C706C,extended,00000000
+
+[Start On Lap 4 (Green Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 4 (Green Player)
+// Start On Lap 4 (Green Player)
+patch=1,EE,218C706C,extended,00000004
+
+[Start On Lap 7 (Green Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 7 (Green Player)
+// Start On Lap 7 (Green Player)
+patch=1,EE,E002018C,extended,018C6F36
+
+[Start On Lap 7 (Green Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 7 (Green Player)
+// Start On Lap 7 (Green Player)
+patch=1,EE,D18C706C,extended,00000000
+
+[Start On Lap 7 (Green Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 7 (Green Player)
+// Start On Lap 7 (Green Player)
+patch=1,EE,218C706C,extended,00000007
+
+[Start On Lap 14 (Green Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 14 (Green Player)
+// Start On Lap 14 (Green Player)
+patch=1,EE,E002018C,extended,018C6F36
+
+[Start On Lap 14 (Green Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 14 (Green Player)
+// Start On Lap 14 (Green Player)
+patch=1,EE,D18C706C,extended,00000000
+
+[Start On Lap 14 (Green Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 14 (Green Player)
+// Start On Lap 14 (Green Player)
+patch=1,EE,218C706C,extended,0000000E
+
+[Always Lap 1 (Yellow Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Lap 1 (Yellow Player)
+// Always Lap 1 (Yellow Player)
+patch=1,EE,D18C6F36,extended,0000018C
+
+[Always Lap 1 (Yellow Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Lap 1 (Yellow Player)
+// Always Lap 1 (Yellow Player)
+patch=1,EE,218C713C,extended,00000000
+
+[Start On Lap 4 (Yellow Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 4 (Yellow Player)
+// Start On Lap 4 (Yellow Player)
+patch=1,EE,E002018C,extended,018C6F36
+
+[Start On Lap 4 (Yellow Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 4 (Yellow Player)
+// Start On Lap 4 (Yellow Player)
+patch=1,EE,D18C713C,extended,00000000
+
+[Start On Lap 4 (Yellow Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 4 (Yellow Player)
+// Start On Lap 4 (Yellow Player)
+patch=1,EE,218C713C,extended,00000004
+
+[Start On Lap 7 (Yellow Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 7 (Yellow Player)
+// Start On Lap 7 (Yellow Player)
+patch=1,EE,E002018C,extended,018C6F36
+
+[Start On Lap 7 (Yellow Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 7 (Yellow Player)
+// Start On Lap 7 (Yellow Player)
+patch=1,EE,D18C713C,extended,00000000
+
+[Start On Lap 7 (Yellow Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 7 (Yellow Player)
+// Start On Lap 7 (Yellow Player)
+patch=1,EE,218C713C,extended,00000007
+
+[Start On Lap 14 (Yellow Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 14 (Yellow Player)
+// Start On Lap 14 (Yellow Player)
+patch=1,EE,E002018C,extended,018C6F36
+
+[Start On Lap 14 (Yellow Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 14 (Yellow Player)
+// Start On Lap 14 (Yellow Player)
+patch=1,EE,D18C713C,extended,00000000
+
+[Start On Lap 14 (Yellow Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 14 (Yellow Player)
+// Start On Lap 14 (Yellow Player)
+patch=1,EE,218C713C,extended,0000000E

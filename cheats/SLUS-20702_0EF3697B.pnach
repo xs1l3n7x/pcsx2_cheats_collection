@@ -1,0 +1,1069 @@
+gametitle=Monster Rancher 4 [SLUS-20702] [0EF3697B]
+
+[No Gauge P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Gauge P2
+// No Gauge P2
+patch=1,EE,F0100008,extended,002EE1AF
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,20303130,extended,24020001
+
+[Infinite Money-27A260]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money-27A260
+// Infinite Money-27A260
+patch=1,EE,10659584,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,20659584,extended,0098967F
+
+[P1 Press {L1}+{SELECT} For Infinite Food Usage On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For Infinite Food Usage On
+// P1 Press {L1}+{SELECT} For Infinite Food Usage On
+patch=1,EE,D04ED3CE,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} For Infinite Food Usage On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For Infinite Food Usage On
+// P1 Press {L1}+{SELECT} For Infinite Food Usage On
+patch=1,EE,2027A3E0,extended,00000000
+
+[P1 Press {L2}+{SELECT} For Infinite Food Usage Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For Infinite Food Usage Off
+// P1 Press {L2}+{SELECT} For Infinite Food Usage Off
+patch=1,EE,D04ED3CE,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} For Infinite Food Usage Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For Infinite Food Usage Off
+// P1 Press {L2}+{SELECT} For Infinite Food Usage Off
+patch=1,EE,2027A3E0,extended,A2620000
+
+[Infinite HP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP P1
+// Infinite HP P1
+patch=1,EE,105EE94C,extended,000003E7
+
+[Infinite HP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP P1
+// Infinite HP P1
+patch=1,EE,205F65C0,extended,03E703E7
+
+[Max HP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP P1
+// Max HP P1
+patch=1,EE,105F65C8,extended,000003E7
+
+[No HP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No HP P1
+// No HP P1
+patch=1,EE,105EE94C,extended,00000000
+
+[No HP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No HP P1
+// No HP P1
+patch=1,EE,205F65C0,extended,00000000
+
+[Low Max HP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Max HP P1
+// Low Max HP P1
+patch=1,EE,105F65C8,extended,0000000A
+
+[Max Guts P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Guts P1
+// Max Guts P1
+patch=1,EE,105EE95C,extended,00000063
+
+[No Guts P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Guts P1
+// No Guts P1
+patch=1,EE,105EE95C,extended,00000000
+
+[P1 Press {L1}+{SELECT} For No HP P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For No HP P2
+// P1 Press {L1}+{SELECT} For No HP P2
+patch=1,EE,E002FBFE,extended,004ED402
+
+[P1 Press {L1}+{SELECT} For No HP P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For No HP P2
+// P1 Press {L1}+{SELECT} For No HP P2
+patch=1,EE,105EF44C,extended,00000000
+
+[P1 Press {L1}+{SELECT} For No HP P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For No HP P2
+// P1 Press {L1}+{SELECT} For No HP P2
+patch=1,EE,205F6674,extended,00000000
+
+[P1 Press {R1}+{SELECT} For Full HP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} For Full HP P1
+// P1 Press {R1}+{SELECT} For Full HP P1
+patch=1,EE,E003F7FE,extended,004ED402
+
+[P1 Press {R1}+{SELECT} For Full HP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} For Full HP P1
+// P1 Press {R1}+{SELECT} For Full HP P1
+patch=1,EE,105EE94C,extended,000003E7
+
+[P1 Press {R1}+{SELECT} For Full HP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} For Full HP P1
+// P1 Press {R1}+{SELECT} For Full HP P1
+patch=1,EE,205F65C0,extended,03E703E7
+
+[P1 Press {R1}+{SELECT} For Full HP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} For Full HP P1
+// P1 Press {R1}+{SELECT} For Full HP P1
+patch=1,EE,105F65C8,extended,000003E7
+
+[Infinite HP P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP P2
+// Infinite HP P2
+patch=1,EE,105EF44C,extended,000003E7
+
+[Infinite HP P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP P2
+// Infinite HP P2
+patch=1,EE,205F6674,extended,03E703E7
+
+[Max HP P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP P2
+// Max HP P2
+patch=1,EE,105F667C,extended,000003E7
+
+[No HP P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No HP P2
+// No HP P2
+patch=1,EE,105EF44C,extended,00000000
+
+[No HP P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No HP P2
+// No HP P2
+patch=1,EE,205F6674,extended,00000000
+
+[Low Max HP P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Max HP P2
+// Low Max HP P2
+patch=1,EE,105F667C,extended,0000000A
+
+[Max Guts P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Guts P2
+// Max Guts P2
+patch=1,EE,105EF45C,extended,00000063
+
+[No Guts P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Guts P2
+// No Guts P2
+patch=1,EE,105EF45C,extended,00000000
+
+[P2 Press {L1}+{SELECT} For No HP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} For No HP P1
+// P2 Press {L1}+{SELECT} For No HP P1
+patch=1,EE,E002FBFE,extended,004ED602
+
+[P2 Press {L1}+{SELECT} For No HP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} For No HP P1
+// P2 Press {L1}+{SELECT} For No HP P1
+patch=1,EE,105EE94C,extended,00000000
+
+[P2 Press {L1}+{SELECT} For No HP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} For No HP P1
+// P2 Press {L1}+{SELECT} For No HP P1
+patch=1,EE,205F65C0,extended,00000000
+
+[P2 Press {R1}+{SELECT} For Full HP P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {R1}+{SELECT} For Full HP P2
+// P2 Press {R1}+{SELECT} For Full HP P2
+patch=1,EE,E003F7FE,extended,004ED602
+
+[P2 Press {R1}+{SELECT} For Full HP P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {R1}+{SELECT} For Full HP P2
+// P2 Press {R1}+{SELECT} For Full HP P2
+patch=1,EE,105EF44C,extended,000003E7
+
+[P2 Press {R1}+{SELECT} For Full HP P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {R1}+{SELECT} For Full HP P2
+// P2 Press {R1}+{SELECT} For Full HP P2
+patch=1,EE,205F6674,extended,03E703E7
+
+[P2 Press {R1}+{SELECT} For Full HP P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {R1}+{SELECT} For Full HP P2
+// P2 Press {R1}+{SELECT} For Full HP P2
+patch=1,EE,105F667C,extended,000003E7
+
+[Mushroom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mushroom
+// Mushroom
+patch=1,EE,0065B3FC,extended,00000063
+
+[Potato]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Potato
+// Potato
+patch=1,EE,0065B3FD,extended,00000063
+
+[Carrot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Carrot
+// Carrot
+patch=1,EE,0065B3FE,extended,00000063
+
+[Watermelon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Watermelon
+// Watermelon
+patch=1,EE,0065B3FF,extended,00000063
+
+[Mango]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mango
+// Mango
+patch=1,EE,0065B400,extended,00000063
+
+[Banana]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Banana
+// Banana
+patch=1,EE,0065B401,extended,00000063
+
+[Peach]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peach
+// Peach
+patch=1,EE,0065B402,extended,00000063
+
+[Melon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Melon
+// Melon
+patch=1,EE,0065B403,extended,00000063
+
+[Squid]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Squid
+// Squid
+patch=1,EE,0065B404,extended,00000063
+
+[Salmon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Salmon
+// Salmon
+patch=1,EE,0065B405,extended,00000063
+
+[Fish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fish
+// Fish
+patch=1,EE,0065B406,extended,00000063
+
+[Shrimp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shrimp
+// Shrimp
+patch=1,EE,0065B407,extended,00000063
+
+[Beef]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Beef
+// Beef
+patch=1,EE,0065B408,extended,00000063
+
+[Pork]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pork
+// Pork
+patch=1,EE,0065B409,extended,00000063
+
+[Energy 9ar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Energy 9ar
+// Energy 9ar
+patch=1,EE,0065B40A,extended,00000063
+
+[Vitamin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vitamin
+// Vitamin
+patch=1,EE,0065B40B,extended,00000063
+
+[Honey Drops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Honey Drops
+// Honey Drops
+patch=1,EE,0065B40C,extended,00000063
+
+[Chocolate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chocolate
+// Chocolate
+patch=1,EE,0065B40D,extended,00000063
+
+[Honey Toast]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Honey Toast
+// Honey Toast
+patch=1,EE,0065B40E,extended,00000063
+
+[Cake]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cake
+// Cake
+patch=1,EE,0065B40F,extended,00000063
+
+[Screws]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Screws
+// Screws
+patch=1,EE,0065B410,extended,00000063
+
+[Canned Fuel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Canned Fuel
+// Canned Fuel
+patch=1,EE,0065B411,extended,00000063
+
+[Oily Oil]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Oily Oil
+// Oily Oil
+patch=1,EE,0065B412,extended,00000063
+
+[Troron]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Troron
+// Troron
+patch=1,EE,0065B413,extended,00000063
+
+[Trokatin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trokatin
+// Trokatin
+patch=1,EE,0065B414,extended,00000063
+
+[Nageel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nageel
+// Nageel
+patch=1,EE,0065B415,extended,00000063
+
+[Teromean]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Teromean
+// Teromean
+patch=1,EE,0065B416,extended,00000063
+
+[Baisin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Baisin
+// Baisin
+patch=1,EE,0065B417,extended,00000063
+
+[Tapaurin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tapaurin
+// Tapaurin
+patch=1,EE,0065B418,extended,00000063
+
+[Larox]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Larox
+// Larox
+patch=1,EE,0065B419,extended,00000063
+
+[Goldoll Sword]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goldoll Sword
+// Goldoll Sword
+patch=1,EE,0065B41A,extended,00000063
+
+[White Pot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=White Pot
+// White Pot
+patch=1,EE,0065B41B,extended,00000063
+
+[Nunchaku]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nunchaku
+// Nunchaku
+patch=1,EE,0065B41C,extended,00000063
+
+[Fossil]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fossil
+// Fossil
+patch=1,EE,0065B41D,extended,00000063
+
+[Mocchi Scream]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mocchi Scream
+// Mocchi Scream
+patch=1,EE,0065B41E,extended,00000063
+
+[Rose Perfume]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Perfume
+// Rose Perfume
+patch=1,EE,0065B41F,extended,00000063
+
+[Silver Coin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver Coin
+// Silver Coin
+patch=1,EE,0065B420,extended,00000063
+
+[Gold Coin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Coin
+// Gold Coin
+patch=1,EE,0065B421,extended,00000063
+
+[Silver Nugget]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver Nugget
+// Silver Nugget
+patch=1,EE,0065B422,extended,00000063
+
+[Gold Nugget]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Nugget
+// Gold Nugget
+patch=1,EE,0065B423,extended,00000063
+
+[Amethyst]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Amethyst
+// Amethyst
+patch=1,EE,0065B424,extended,00000063
+
+[Ruby]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ruby
+// Ruby
+patch=1,EE,0065B425,extended,00000063
+
+[Emerald]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Emerald
+// Emerald
+patch=1,EE,0065B426,extended,00000063
+
+[Crystal Skull]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crystal Skull
+// Crystal Skull
+patch=1,EE,0065B427,extended,00000063
+
+[Rose]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose
+// Rose
+patch=1,EE,0065B428,extended,00000063
+
+[Teddy Bear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Teddy Bear
+// Teddy Bear
+patch=1,EE,0065B429,extended,00000063
+
+[Yarn Ball]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yarn Ball
+// Yarn Ball
+patch=1,EE,0065B42A,extended,00000063
+
+[Junk Toy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Junk Toy
+// Junk Toy
+patch=1,EE,0065B42B,extended,00000063
+
+[Toy Glasses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Toy Glasses
+// Toy Glasses
+patch=1,EE,0065B42C,extended,00000063
+
+[Battle Cards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Battle Cards
+// Battle Cards
+patch=1,EE,0065B42D,extended,00000063
+
+[Reference]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reference
+// Reference
+patch=1,EE,0065B42E,extended,00000063
+
+[Bone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bone
+// Bone
+patch=1,EE,0065B42F,extended,00000063
+
+[Fishbone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fishbone
+// Fishbone
+patch=1,EE,0065B430,extended,00000063
+
+[Lucky Medal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lucky Medal
+// Lucky Medal
+patch=1,EE,0065B431,extended,00000063
+
+[Magic Medal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Magic Medal
+// Magic Medal
+patch=1,EE,0065B432,extended,00000063
+
+[Intense Medal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Intense Medal
+// Intense Medal
+patch=1,EE,0065B433,extended,00000063
+
+[Healing Medal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Healing Medal
+// Healing Medal
+patch=1,EE,0065B434,extended,00000063
+
+[(NONE)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=(NONE)
+// (NONE)
+patch=1,EE,0065B435,extended,00000063
+
+[STR Stone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=STR Stone
+// STR Stone
+patch=1,EE,0065B436,extended,00000063
+
+[INT Stone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=INT Stone
+// INT Stone
+patch=1,EE,0065B437,extended,00000063
+
+[ACC Stone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=ACC Stone
+// ACC Stone
+patch=1,EE,0065B438,extended,00000063
+
+[SPD Stone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SPD Stone
+// SPD Stone
+patch=1,EE,0065B439,extended,00000063
+
+[TGH Stone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=TGH Stone
+// TGH Stone
+patch=1,EE,0065B43A,extended,00000063
+
+[LIF Stone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=LIF Stone
+// LIF Stone
+patch=1,EE,0065B43B,extended,00000063
+
+[Sight Scroll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sight Scroll
+// Sight Scroll
+patch=1,EE,0065B43C,extended,00000063
+
+[Dumbbells]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dumbbells
+// Dumbbells
+patch=1,EE,0065B43D,extended,00000063
+
+[Eagle Eyes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Eagle Eyes
+// Eagle Eyes
+patch=1,EE,0065B43E,extended,00000063
+
+[Tough Heart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tough Heart
+// Tough Heart
+patch=1,EE,0065B43F,extended,00000063
+
+[Lucky Star]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lucky Star
+// Lucky Star
+patch=1,EE,0065B440,extended,00000063
+
+[Smart Glasses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Smart Glasses
+// Smart Glasses
+patch=1,EE,0065B441,extended,00000063
+
+[Mimiccho]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mimiccho
+// Mimiccho
+patch=1,EE,0065B442,extended,00000001
+
+[Mimiccho 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mimiccho 2
+// Mimiccho 2
+patch=1,EE,0065B443,extended,00000001
+
+[Mimiccho 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mimiccho 3
+// Mimiccho 3
+patch=1,EE,0065B444,extended,00000001
+
+[Document 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 1
+// Document 1
+patch=1,EE,0065B445,extended,00000001
+
+[Document 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 2
+// Document 2
+patch=1,EE,0065B446,extended,00000001
+
+[Document 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 3
+// Document 3
+patch=1,EE,0065B447,extended,00000001
+
+[Document 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 4
+// Document 4
+patch=1,EE,0065B448,extended,00000001
+
+[Document 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 5
+// Document 5
+patch=1,EE,0065B449,extended,00000001
+
+[Document 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 6
+// Document 6
+patch=1,EE,0065B44A,extended,00000001
+
+[Document 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 7
+// Document 7
+patch=1,EE,0065B44B,extended,00000001
+
+[Document 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 8
+// Document 8
+patch=1,EE,0065B44C,extended,00000001
+
+[Document 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 9
+// Document 9
+patch=1,EE,0065B44D,extended,00000001
+
+[Document 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 10
+// Document 10
+patch=1,EE,0065B44E,extended,00000001
+
+[Document 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 11
+// Document 11
+patch=1,EE,0065B44F,extended,00000001
+
+[Document 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 12
+// Document 12
+patch=1,EE,0065B450,extended,00000001
+
+[Document 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 13
+// Document 13
+patch=1,EE,0065B451,extended,00000001
+
+[Document 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 14
+// Document 14
+patch=1,EE,0065B452,extended,00000001
+
+[Document 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 15
+// Document 15
+patch=1,EE,0065B453,extended,00000001
+
+[Document 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 16
+// Document 16
+patch=1,EE,0065B454,extended,00000001
+
+[Document 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 17
+// Document 17
+patch=1,EE,0065B455,extended,00000001
+
+[Document 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 18
+// Document 18
+patch=1,EE,0065B456,extended,00000001
+
+[Document 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 19
+// Document 19
+patch=1,EE,0065B457,extended,00000001
+
+[Document 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 20
+// Document 20
+patch=1,EE,0065B458,extended,00000001
+
+[Document 21]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 21
+// Document 21
+patch=1,EE,0065B459,extended,00000001
+
+[Document 22]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 22
+// Document 22
+patch=1,EE,0065B45A,extended,00000001
+
+[Document 23]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 23
+// Document 23
+patch=1,EE,0065B45B,extended,00000001
+
+[Document 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 24
+// Document 24
+patch=1,EE,0065B45C,extended,00000001
+
+[Document 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 25
+// Document 25
+patch=1,EE,0065B45D,extended,00000001
+
+[Document 26]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 26
+// Document 26
+patch=1,EE,0065B45E,extended,00000001
+
+[Document 27]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 27
+// Document 27
+patch=1,EE,0065B45F,extended,00000001
+
+[Document 28]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 28
+// Document 28
+patch=1,EE,0065B460,extended,00000001
+
+[Document 29]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 29
+// Document 29
+patch=1,EE,0065B461,extended,00000001
+
+[Document 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 30
+// Document 30
+patch=1,EE,0065B462,extended,00000001
+
+[Document 31]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 31
+// Document 31
+patch=1,EE,0065B463,extended,00000001
+
+[Document 32]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 32
+// Document 32
+patch=1,EE,0065B464,extended,00000001
+
+[Document 33]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 33
+// Document 33
+patch=1,EE,0065B465,extended,00000001
+
+[Document 34]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 34
+// Document 34
+patch=1,EE,0065B466,extended,00000001
+
+[Document 35]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 35
+// Document 35
+patch=1,EE,0065B467,extended,00000001
+
+[Document 36]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 36
+// Document 36
+patch=1,EE,0065B468,extended,00000001
+
+[Document 37]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 37
+// Document 37
+patch=1,EE,0065B469,extended,00000001
+
+[Document 38]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 38
+// Document 38
+patch=1,EE,0065B46A,extended,00000001
+
+[Document 39]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 39
+// Document 39
+patch=1,EE,0065B46B,extended,00000001
+
+[Document 40]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 40
+// Document 40
+patch=1,EE,0065B46C,extended,00000001
+
+[Document 41]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 41
+// Document 41
+patch=1,EE,0065B46D,extended,00000001
+
+[Document 42]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 42
+// Document 42
+patch=1,EE,0065B46E,extended,00000001
+
+[Document 43]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 43
+// Document 43
+patch=1,EE,0065B46F,extended,00000001
+
+[Document 44]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 44
+// Document 44
+patch=1,EE,0065B470,extended,00000001
+
+[Document 45]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 45
+// Document 45
+patch=1,EE,0065B471,extended,00000001
+
+[Document 46]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 46
+// Document 46
+patch=1,EE,0065B472,extended,00000001
+
+[Document 47]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 47
+// Document 47
+patch=1,EE,0065B473,extended,00000001
+
+[Document 48]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 48
+// Document 48
+patch=1,EE,0065B474,extended,00000001
+
+[Document 49]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 49
+// Document 49
+patch=1,EE,0065B475,extended,00000001
+
+[Document 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Document 50
+// Document 50
+patch=1,EE,0065B476,extended,00000001
+
+[Blue Gaia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Gaia
+// Blue Gaia
+patch=1,EE,0065B477,extended,00000001
+
+[Red Gaia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Gaia
+// Red Gaia
+patch=1,EE,0065B478,extended,00000001
+
+[Green Gaia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Green Gaia
+// Green Gaia
+patch=1,EE,0065B479,extended,00000001
+
+[White Gaia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=White Gaia
+// White Gaia
+patch=1,EE,0065B47A,extended,00000001
+
+[Heal Mushroom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Heal Mushroom
+// Heal Mushroom
+patch=1,EE,0065B47B,extended,00000001
+
+[Black Object]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Object
+// Black Object
+patch=1,EE,0065B47C,extended,00000001
+
+[Envelope 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Envelope 1
+// Envelope 1
+patch=1,EE,0065B47D,extended,00000001
+
+[Envelope 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Envelope 2
+// Envelope 2
+patch=1,EE,0065B47E,extended,00000001
+
+[Certificate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Certificate
+// Certificate
+patch=1,EE,0065B47F,extended,00000001
+
+[Letter 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Letter 1
+// Letter 1
+patch=1,EE,0065B480,extended,00000001
+
+[Letter 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Letter 2
+// Letter 2
+patch=1,EE,0065B481,extended,00000001
+
+[Trophy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trophy
+// Trophy
+patch=1,EE,0065B482,extended,00000001
+
+[Black Egg]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Egg
+// Black Egg
+patch=1,EE,0065B483,extended,00000001
+
+[King Feather]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=King Feather
+// King Feather
+patch=1,EE,0065B484,extended,00000001
+
+[Mocchi Doll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mocchi Doll
+// Mocchi Doll
+patch=1,EE,0065B485,extended,00000001
+
+[Bird Feather]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bird Feather
+// Bird Feather
+patch=1,EE,0065B486,extended,00000001
+
+[Pamphlet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pamphlet
+// Pamphlet
+patch=1,EE,0065B487,extended,00000001

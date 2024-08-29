@@ -1,0 +1,211 @@
+gametitle=In The Groove [SLUS-21177] [FD8A9A89]
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,903D97C0,extended,00832021
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,200C0250,extended,08089374
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,200C0254,extended,00000000
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,20224A9C,extended,0C030088
+
+[Always Score Fantastics]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Score Fantastics
+// Always Score Fantastics
+patch=1,EE,202ED908,extended,24160008
+
+[Quick Max Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Max Combo
+// Quick Max Combo
+patch=1,EE,20224AF8,extended,2408270F
+
+[Combo's Worth 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Combo's Worth 100
+// Combo's Worth 100
+patch=1,EE,20224AEC,extended,240C0064
+
+[Combo's Worth 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Combo's Worth 50
+// Combo's Worth 50
+patch=1,EE,20224AEC,extended,240C0032
+
+[Combo's Worth 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Combo's Worth 10
+// Combo's Worth 10
+patch=1,EE,20224AEC,extended,240C000A
+
+[Combo's Worth 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Combo's Worth 5
+// Combo's Worth 5
+patch=1,EE,20224AEC,extended,240C0005
+
+[Combo's Worth 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Combo's Worth 2
+// Combo's Worth 2
+patch=1,EE,20224AEC,extended,240C0002
+
+[Max Misses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Misses
+// Max Misses
+patch=1,EE,200C0220,extended,2401270F
+
+[Max Misses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Misses
+// Max Misses
+patch=1,EE,200C0224,extended,AE01002C
+
+[No Misses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Misses
+// No Misses
+patch=1,EE,200C0220,extended,24010000
+
+[No Misses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Misses
+// No Misses
+patch=1,EE,200C0224,extended,AE01002C
+
+[Max Way Offs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Way Offs
+// Max Way Offs
+patch=1,EE,200C0228,extended,2401270F
+
+[Max Way Offs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Way Offs
+// Max Way Offs
+patch=1,EE,200C022C,extended,AE010030
+
+[No Way Offs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Way Offs
+// No Way Offs
+patch=1,EE,200C0228,extended,24010000
+
+[No Way Offs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Way Offs
+// No Way Offs
+patch=1,EE,200C022C,extended,AE010030
+
+[Max Decents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Decents
+// Max Decents
+patch=1,EE,200C0230,extended,2401270F
+
+[Max Decents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Decents
+// Max Decents
+patch=1,EE,200C0234,extended,AE010034
+
+[No Decents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Decents
+// No Decents
+patch=1,EE,200C0230,extended,24010000
+
+[No Decents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Decents
+// No Decents
+patch=1,EE,200C0234,extended,AE010034
+
+[Max Greats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Greats
+// Max Greats
+patch=1,EE,200C0238,extended,2401270F
+
+[Max Greats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Greats
+// Max Greats
+patch=1,EE,200C023C,extended,AE010038
+
+[No Greats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Greats
+// No Greats
+patch=1,EE,200C0238,extended,24010000
+
+[No Greats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Greats
+// No Greats
+patch=1,EE,200C023C,extended,AE010038
+
+[Max Excellents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Excellents
+// Max Excellents
+patch=1,EE,200C0240,extended,2401270F
+
+[Max Excellents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Excellents
+// Max Excellents
+patch=1,EE,200C0244,extended,AE01003C
+
+[No Excellents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Excellents
+// No Excellents
+patch=1,EE,200C0240,extended,24010000
+
+[No Excellents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Excellents
+// No Excellents
+patch=1,EE,200C0244,extended,AE01003C
+
+[Max Fantastics]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fantastics
+// Max Fantastics
+patch=1,EE,200C0248,extended,2401270F
+
+[Max Fantastics]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fantastics
+// Max Fantastics
+patch=1,EE,200C024C,extended,AE010040
+
+[No Fantastics]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Fantastics
+// No Fantastics
+patch=1,EE,200C0248,extended,24010000
+
+[No Fantastics]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Fantastics
+// No Fantastics
+patch=1,EE,200C024C,extended,AE010040

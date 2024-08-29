@@ -1,0 +1,979 @@
+gametitle=FIFA Soccer 2005 [SLUS-21051] [972611BB]
+
+[P8 Press {R1}+{R2} To End Half]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {R1}+{R2} To End Half
+// P8 Press {R1}+{R2} To End Half
+patch=1,EE,904F7F14,extended,0C0E3D6F
+
+[Home Team Scores 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 50
+// Home Team Scores 50
+patch=1,EE,20652D38,extended,00000032
+
+[Home Team Scores 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 20
+// Home Team Scores 20
+patch=1,EE,20652D38,extended,00000014
+
+[Home Team Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 0
+// Home Team Scores 0
+patch=1,EE,20652D38,extended,00000000
+
+[Home Team Start With 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With 50
+// Home Team Start With 50
+patch=1,EE,D0652D38,extended,00000000
+
+[Home Team Start With 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With 50
+// Home Team Start With 50
+patch=1,EE,20652D38,extended,00000032
+
+[Home Team Start With 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With 20
+// Home Team Start With 20
+patch=1,EE,D0652D38,extended,00000000
+
+[Home Team Start With 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With 20
+// Home Team Start With 20
+patch=1,EE,20652D38,extended,00000014
+
+[Home Team Start With 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With 10
+// Home Team Start With 10
+patch=1,EE,D0652D38,extended,00000000
+
+[Home Team Start With 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With 10
+// Home Team Start With 10
+patch=1,EE,20652D38,extended,0000000A
+
+[Home Team Start With 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With 5
+// Home Team Start With 5
+patch=1,EE,D0652D38,extended,00000000
+
+[Home Team Start With 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With 5
+// Home Team Start With 5
+patch=1,EE,20652D38,extended,00000005
+
+[Away Team Scores 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 50
+// Away Team Scores 50
+patch=1,EE,20652D3C,extended,00000032
+
+[Away Team Scores 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 20
+// Away Team Scores 20
+patch=1,EE,20652D3C,extended,00000014
+
+[Away Team Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 0
+// Away Team Scores 0
+patch=1,EE,20652D3C,extended,00000000
+
+[Away Team Start With 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With 50
+// Away Team Start With 50
+patch=1,EE,D0652D3C,extended,00000000
+
+[Away Team Start With 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With 50
+// Away Team Start With 50
+patch=1,EE,20652D3C,extended,00000032
+
+[Away Team Start With 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With 20
+// Away Team Start With 20
+patch=1,EE,D0652D3C,extended,00000000
+
+[Away Team Start With 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With 20
+// Away Team Start With 20
+patch=1,EE,20652D3C,extended,00000014
+
+[Away Team Start With 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With 10
+// Away Team Start With 10
+patch=1,EE,D0652D3C,extended,00000000
+
+[Away Team Start With 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With 10
+// Away Team Start With 10
+patch=1,EE,20652D3C,extended,0000000A
+
+[Away Team Start With 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With 5
+// Away Team Start With 5
+patch=1,EE,D0652D3C,extended,00000000
+
+[Away Team Start With 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With 5
+// Away Team Start With 5
+patch=1,EE,20652D3C,extended,00000005
+
+[All Goal's Score For Home Team]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Goal's Score For Home Team
+// All Goal's Score For Home Team
+patch=1,EE,202087F4,extended,24030000
+
+[All Goal's Score For Away Team]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Goal's Score For Away Team
+// All Goal's Score For Away Team
+patch=1,EE,202087F4,extended,24030004
+
+[Goal's Score 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goal's Score 10
+// Goal's Score 10
+patch=1,EE,10208800,extended,0000000A
+
+[Goal's Score 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goal's Score 5
+// Goal's Score 5
+patch=1,EE,10208800,extended,00000005
+
+[Goal's Score 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goal's Score 2
+// Goal's Score 2
+patch=1,EE,10208800,extended,00000002
+
+[Display Debug Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Display Debug Info
+// Display Debug Info
+patch=1,EE,201308C4,extended,24020001
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,201B0290,extended,03E00008
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,201B0294,extended,00000000
+
+[Infinite FIFA 2005 Store Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite FIFA 2005 Store Points
+// Infinite FIFA 2005 Store Points
+patch=1,EE,1061ED60,extended,0000FFFF
+
+[Max FIFA 2005 Store Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max FIFA 2005 Store Points
+// Max FIFA 2005 Store Points
+patch=1,EE,2061ED60,extended,05F5E0FF
+
+[Max Staff Upgrade Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Staff Upgrade Points
+// Max Staff Upgrade Points
+patch=1,EE,200C0220,extended,3C014CBE
+
+[Max Staff Upgrade Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Staff Upgrade Points
+// Max Staff Upgrade Points
+patch=1,EE,200C0224,extended,3421BC20
+
+[Max Staff Upgrade Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Staff Upgrade Points
+// Max Staff Upgrade Points
+patch=1,EE,200C0228,extended,03E00008
+
+[Max Staff Upgrade Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Staff Upgrade Points
+// Max Staff Upgrade Points
+patch=1,EE,200C022C,extended,AC610000
+
+[Max Staff Upgrade Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Staff Upgrade Points
+// Max Staff Upgrade Points
+patch=1,EE,20183D54,extended,08030088
+
+[P1 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L2} For More Time
+// P1 Press {L1}+{L2} For More Time
+patch=1,EE,D0708B42,extended,0000FAFF
+
+[P1 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L2} For More Time
+// P1 Press {L1}+{L2} For More Time
+patch=1,EE,106559C0,extended,00000000
+
+[P1 Press {R1}+{R2} To End Half]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{R2} To End Half
+// P1 Press {R1}+{R2} To End Half
+patch=1,EE,D0708B42,extended,0000F5FF
+
+[P1 Press {R1}+{R2} To End Half]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{R2} To End Half
+// P1 Press {R1}+{R2} To End Half
+patch=1,EE,106559C0,extended,00000170
+
+[P2 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{L2} For More Time
+// P2 Press {L1}+{L2} For More Time
+patch=1,EE,D0708C42,extended,0000FAFF
+
+[P2 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{L2} For More Time
+// P2 Press {L1}+{L2} For More Time
+patch=1,EE,106559C0,extended,00000000
+
+[P2 Press {R1}+{R2} To End Half]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {R1}+{R2} To End Half
+// P2 Press {R1}+{R2} To End Half
+patch=1,EE,D0708C42,extended,0000F5FF
+
+[P2 Press {R1}+{R2} To End Half]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {R1}+{R2} To End Half
+// P2 Press {R1}+{R2} To End Half
+patch=1,EE,106559C0,extended,00000170
+
+[P3 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L1}+{L2} For More Time
+// P3 Press {L1}+{L2} For More Time
+patch=1,EE,D0708D42,extended,0000FAFF
+
+[P3 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L1}+{L2} For More Time
+// P3 Press {L1}+{L2} For More Time
+patch=1,EE,106559C0,extended,00000000
+
+[P3 Press {R1}+{R2} To End Half]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {R1}+{R2} To End Half
+// P3 Press {R1}+{R2} To End Half
+patch=1,EE,D0708D42,extended,0000F5FF
+
+[P3 Press {R1}+{R2} To End Half]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {R1}+{R2} To End Half
+// P3 Press {R1}+{R2} To End Half
+patch=1,EE,106559C0,extended,00000170
+
+[P4 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L1}+{L2} For More Time
+// P4 Press {L1}+{L2} For More Time
+patch=1,EE,D0708E42,extended,0000FAFF
+
+[P4 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L1}+{L2} For More Time
+// P4 Press {L1}+{L2} For More Time
+patch=1,EE,106559C0,extended,00000000
+
+[P4 Press {R1}+{R2} To End Half]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {R1}+{R2} To End Half
+// P4 Press {R1}+{R2} To End Half
+patch=1,EE,D0708E42,extended,0000F5FF
+
+[P4 Press {R1}+{R2} To End Half]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {R1}+{R2} To End Half
+// P4 Press {R1}+{R2} To End Half
+patch=1,EE,106559C0,extended,00000170
+
+[P5 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L1}+{L2} For More Time
+// P5 Press {L1}+{L2} For More Time
+patch=1,EE,D0708F42,extended,0000FAFF
+
+[P5 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L1}+{L2} For More Time
+// P5 Press {L1}+{L2} For More Time
+patch=1,EE,106559C0,extended,00000000
+
+[P5 Press {R1}+{R2} To End Half]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {R1}+{R2} To End Half
+// P5 Press {R1}+{R2} To End Half
+patch=1,EE,D0708F42,extended,0000F5FF
+
+[P5 Press {R1}+{R2} To End Half]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {R1}+{R2} To End Half
+// P5 Press {R1}+{R2} To End Half
+patch=1,EE,106559C0,extended,00000170
+
+[P6 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L1}+{L2} For More Time
+// P6 Press {L1}+{L2} For More Time
+patch=1,EE,D0709042,extended,0000FAFF
+
+[P6 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L1}+{L2} For More Time
+// P6 Press {L1}+{L2} For More Time
+patch=1,EE,106559C0,extended,00000000
+
+[P6 Press {R1}+{R2} To End Half]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {R1}+{R2} To End Half
+// P6 Press {R1}+{R2} To End Half
+patch=1,EE,D0709042,extended,0000F5FF
+
+[P6 Press {R1}+{R2} To End Half]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {R1}+{R2} To End Half
+// P6 Press {R1}+{R2} To End Half
+patch=1,EE,106559C0,extended,00000170
+
+[P7 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L1}+{L2} For More Time
+// P7 Press {L1}+{L2} For More Time
+patch=1,EE,D0709142,extended,0000FAFF
+
+[P7 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L1}+{L2} For More Time
+// P7 Press {L1}+{L2} For More Time
+patch=1,EE,106559C0,extended,00000000
+
+[P7 Press {R1}+{R2} To End Half]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {R1}+{R2} To End Half
+// P7 Press {R1}+{R2} To End Half
+patch=1,EE,D0709142,extended,0000F5FF
+
+[P7 Press {R1}+{R2} To End Half]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {R1}+{R2} To End Half
+// P7 Press {R1}+{R2} To End Half
+patch=1,EE,106559C0,extended,00000170
+
+[P8 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L1}+{L2} For More Time
+// P8 Press {L1}+{L2} For More Time
+patch=1,EE,D0709242,extended,0000FAFF
+
+[P8 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L1}+{L2} For More Time
+// P8 Press {L1}+{L2} For More Time
+patch=1,EE,106559C0,extended,00000000
+
+[P8 Press {R1}+{R2} To End Half]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {R1}+{R2} To End Half
+// P8 Press {R1}+{R2} To End Half
+patch=1,EE,D0709242,extended,0000F5FF
+
+[P8 Press {R1}+{R2} To End Half]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {R1}+{R2} To End Half
+// P8 Press {R1}+{R2} To End Half
+patch=1,EE,106559C0,extended,00000170
+
+[Infinite FIFA 2005 Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite FIFA 2005 Points
+// Infinite FIFA 2005 Points
+patch=1,EE,1061ED60,extended,0000FFFF
+
+[Max FIFA 2005 Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max FIFA 2005 Points
+// Max FIFA 2005 Points
+patch=1,EE,2061ED60,extended,05F5E0FF
+
+[Max Total Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Shots
+// Max Total Shots
+patch=1,EE,20654EEC,extended,00000063
+
+[No Total Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Total Shots
+// No Total Shots
+patch=1,EE,20654EEC,extended,00000000
+
+[Max Shots On Target]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shots On Target
+// Max Shots On Target
+patch=1,EE,20654EF4,extended,00000063
+
+[No Shots On Target]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Shots On Target
+// No Shots On Target
+patch=1,EE,20654EF4,extended,00000000
+
+[Max Corners]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Corners
+// Max Corners
+patch=1,EE,20654EF8,extended,00000063
+
+[No Corners]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Corners
+// No Corners
+patch=1,EE,20654EF8,extended,00000000
+
+[Max Bookings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bookings
+// Max Bookings
+patch=1,EE,20654F04,extended,00000063
+
+[No Bookings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Bookings
+// No Bookings
+patch=1,EE,20654F04,extended,00000000
+
+[Max Fouls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fouls
+// Max Fouls
+patch=1,EE,20654F0C,extended,00000063
+
+[No Fouls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Fouls
+// No Fouls
+patch=1,EE,20654F0C,extended,00000000
+
+[Max Offsides]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Offsides
+// Max Offsides
+patch=1,EE,20654F10,extended,00000063
+
+[No Offsides]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Offsides
+// No Offsides
+patch=1,EE,20654F10,extended,00000000
+
+[Max Tackles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tackles
+// Max Tackles
+patch=1,EE,10654F26,extended,00000063
+
+[No Tackles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Tackles
+// No Tackles
+patch=1,EE,10654F26,extended,00000000
+
+[Max Total Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Shots
+// Max Total Shots
+patch=1,EE,206552AC,extended,00000063
+
+[No Total Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Total Shots
+// No Total Shots
+patch=1,EE,206552AC,extended,00000000
+
+[Max Shots On Target]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shots On Target
+// Max Shots On Target
+patch=1,EE,206552B4,extended,00000063
+
+[No Shots On Target]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Shots On Target
+// No Shots On Target
+patch=1,EE,206552B4,extended,00000000
+
+[Max Corners]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Corners
+// Max Corners
+patch=1,EE,206552B8,extended,00000063
+
+[No Corners]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Corners
+// No Corners
+patch=1,EE,206552B8,extended,00000000
+
+[Max Bookings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bookings
+// Max Bookings
+patch=1,EE,206552C4,extended,00000063
+
+[No Bookings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Bookings
+// No Bookings
+patch=1,EE,206552C4,extended,00000000
+
+[Max Fouls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fouls
+// Max Fouls
+patch=1,EE,206552CC,extended,00000063
+
+[No Fouls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Fouls
+// No Fouls
+patch=1,EE,206552CC,extended,00000000
+
+[Max Offsides]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Offsides
+// Max Offsides
+patch=1,EE,206552D0,extended,00000063
+
+[No Offsides]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Offsides
+// No Offsides
+patch=1,EE,206552D0,extended,00000000
+
+[Max Tackles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tackles
+// Max Tackles
+patch=1,EE,106552E6,extended,00000063
+
+[No Tackles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Tackles
+// No Tackles
+patch=1,EE,106552E6,extended,00000000
+
+[AC Milan Alternate Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AC Milan Alternate Kit
+// AC Milan Alternate Kit
+patch=1,EE,2061ED8C,extended,00000001
+
+[AS Monaco Alternate Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AS Monaco Alternate Kit
+// AS Monaco Alternate Kit
+patch=1,EE,2061EDB4,extended,00000001
+
+[Bolton Wanderers Alternate Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bolton Wanderers Alternate Kit
+// Bolton Wanderers Alternate Kit
+patch=1,EE,2061EE28,extended,00000001
+
+[Bordeaux Alternate Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bordeaux Alternate Kit
+// Bordeaux Alternate Kit
+patch=1,EE,2061EE4C,extended,00000001
+
+[Chelsea Alternate Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chelsea Alternate Kit
+// Chelsea Alternate Kit
+patch=1,EE,2061EE9C,extended,00000001
+
+[Empoli Alternate Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Empoli Alternate Kit
+// Empoli Alternate Kit
+patch=1,EE,2061EEE8,extended,00000001
+
+[Everton Alternate Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Everton Alternate Kit
+// Everton Alternate Kit
+patch=1,EE,2061EF10,extended,00000001
+
+[FC Barcelona Alternate Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FC Barcelona Alternate Kit
+// FC Barcelona Alternate Kit
+patch=1,EE,2061EF34,extended,00000001
+
+[FC Hansa Rostock ALternate Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FC Hansa Rostock ALternate Kit
+// FC Hansa Rostock ALternate Kit
+patch=1,EE,2061EF5C,extended,00000001
+
+[FC Schalke 04 Alternate Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=FC Schalke 04 Alternate Kit
+// FC Schalke 04 Alternate Kit
+patch=1,EE,2061EFAC,extended,00000001
+
+[Inter Milan Alternate Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Inter Milan Alternate Kit
+// Inter Milan Alternate Kit
+patch=1,EE,2061EFFC,extended,00000001
+
+[Lazio Alternate Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lazio Alternate Kit
+// Lazio Alternate Kit
+patch=1,EE,2061F024,extended,00000001
+
+[Modena Alternate Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Modena Alternate Kit
+// Modena Alternate Kit
+patch=1,EE,2061F0BC,extended,00000001
+
+[Olympique Lyonnais Alternate Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Olympique Lyonnais Alternate Kit
+// Olympique Lyonnais Alternate Kit
+patch=1,EE,2061F0E4,extended,00000001
+
+[Paris Saint-Germain Alternate Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Paris Saint-Germain Alternate Kit
+// Paris Saint-Germain Alternate Kit
+patch=1,EE,2061F10C,extended,00000001
+
+[Portsmouth Alternate Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Portsmouth Alternate Kit
+// Portsmouth Alternate Kit
+patch=1,EE,2061F134,extended,00000001
+
+[RC Deportivo La Coruna Alternate Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=RC Deportivo La Coruna Alternate Kit
+// RC Deportivo La Coruna Alternate Kit
+patch=1,EE,2061F184,extended,00000001
+
+[Real Betis Alternate Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Real Betis Alternate Kit
+// Real Betis Alternate Kit
+patch=1,EE,2061F1D4,extended,00000001
+
+[Reggina Calcie Alternate Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reggina Calcie Alternate Kit
+// Reggina Calcie Alternate Kit
+patch=1,EE,2061F224,extended,00000001
+
+[SV Werder Bremen Alternate Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SV Werder Bremen Alternate Kit
+// SV Werder Bremen Alternate Kit
+patch=1,EE,2061F274,extended,00000001
+
+[Toctenham Hotspur Alternate Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Toctenham Hotspur Alternate Kit
+// Toctenham Hotspur Alternate Kit
+patch=1,EE,2061F29C,extended,00000001
+
+[VIB Stutlgart Alternate Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=VIB Stutlgart Alternate Kit
+// VIB Stutlgart Alternate Kit
+patch=1,EE,2061F2EC,extended,00000001
+
+[INXS-What You Need]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=INXS-What You Need
+// INXS-What You Need
+patch=1,EE,2061F314,extended,00000001
+
+[New Order-Blue Monday]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=New Order-Blue Monday
+// New Order-Blue Monday
+patch=1,EE,2061F33C,extended,00000001
+
+[Mitre Ball-ISO England Ultimax]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mitre Ball-ISO England Ultimax
+// Mitre Ball-ISO England Ultimax
+patch=1,EE,2061F3B4,extended,00000001
+
+[Mitre Ball (Scottish Premier League)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mitre Ball (Scottish Premier League)
+// Mitre Ball (Scottish Premier League)
+patch=1,EE,2061F3DC,extended,00000001
+
+[Umbro Ball-Digital X (Umbro Teams)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Umbro Ball-Digital X (Umbro Teams)
+// Umbro Ball-Digital X (Umbro Teams)
+patch=1,EE,2061F404,extended,00000001
+
+[PUMA Ball-Veneno (Italy)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PUMA Ball-Veneno (Italy)
+// PUMA Ball-Veneno (Italy)
+patch=1,EE,2061F42C,extended,00000001
+
+[Blue Ball (Mexican Premiera Division)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Ball (Mexican Premiera Division)
+// Blue Ball (Mexican Premiera Division)
+patch=1,EE,2061F454,extended,00000001
+
+[Americas Club Championship Ball]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Americas Club Championship Ball
+// Americas Club Championship Ball
+patch=1,EE,2061F47C,extended,00000001
+
+[Pierlulgi Collina (International Friendlies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pierlulgi Collina (International Friendlies)
+// Pierlulgi Collina (International Friendlies)
+patch=1,EE,2061F4A4,extended,00000001
+
+[Urban Training Pitch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Urban Training Pitch
+// Urban Training Pitch
+patch=1,EE,2061F4C8,extended,00000001
+
+[Rural Training Pitch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rural Training Pitch
+// Rural Training Pitch
+patch=1,EE,2061F4F0,extended,00000001
+
+[Amsterdam Arena-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Amsterdam Arena-Night
+// Amsterdam Arena-Night
+patch=1,EE,2061F518,extended,00000001
+
+[Anfield-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anfield-Night
+// Anfield-Night
+patch=1,EE,2061F540,extended,00000001
+
+[Hamburg Arena-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hamburg Arena-Night
+// Hamburg Arena-Night
+patch=1,EE,2061F568,extended,00000001
+
+[BayArena-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=BayArena-Night
+// BayArena-Night
+patch=1,EE,2061F590,extended,00000001
+
+[Felix Bollaert-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Felix Bollaert-Night
+// Felix Bollaert-Night
+patch=1,EE,2061F5B8,extended,00000001
+
+[Calderon-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Calderon-Night
+// Calderon-Night
+patch=1,EE,2061F5E0,extended,00000001
+
+[Delle Alpi-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Delle Alpi-Night
+// Delle Alpi-Night
+patch=1,EE,2061F608,extended,00000001
+
+[Highbury-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Highbury-Night
+// Highbury-Night
+patch=1,EE,2061F630,extended,00000001
+
+[Mestalla-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mestalla-Night
+// Mestalla-Night
+patch=1,EE,2061F658,extended,00000001
+
+[Municipal De Gerland-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Municipal De Gerland-Night
+// Municipal De Gerland-Night
+patch=1,EE,2061F680,extended,00000001
+
+[Camp Nou-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Camp Nou-Night
+// Camp Nou-Night
+patch=1,EE,2061F6A8,extended,00000001
+
+[Old Trafford-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Old Trafford-Night
+// Old Trafford-Night
+patch=1,EE,2061F6D0,extended,00000001
+
+[Parc Des Princes-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Parc Des Princes-Night
+// Parc Des Princes-Night
+patch=1,EE,2061F6F8,extended,00000001
+
+[San Siroc-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=San Siroc-Night
+// San Siroc-Night
+patch=1,EE,2061F720,extended,00000001
+
+[Santiago Bernabeu-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santiago Bernabeu-Night
+// Santiago Bernabeu-Night
+patch=1,EE,2061F748,extended,00000001
+
+[St. James Park-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=St. James Park-Night
+// St. James Park-Night
+patch=1,EE,2061F770,extended,00000001
+
+[Stamford Bridge-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stamford Bridge-Night
+// Stamford Bridge-Night
+patch=1,EE,2061F798,extended,00000001
+
+[Constant Vanden Stock-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Constant Vanden Stock-Night
+// Constant Vanden Stock-Night
+patch=1,EE,2061F7C0,extended,00000001
+
+[Stade- Veledrome-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stade- Veledrome-Night
+// Stade- Veledrome-Night
+patch=1,EE,2061F7E8,extended,00000001
+
+[Westfalenstadion-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Westfalenstadion-Night
+// Westfalenstadion-Night
+patch=1,EE,2061F810,extended,00000001
+
+[Olympic Style-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Olympic Style-Night
+// Olympic Style-Night
+patch=1,EE,2061F838,extended,00000001
+
+[Closed Square Style-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Closed Square Style-Night
+// Closed Square Style-Night
+patch=1,EE,2061F860,extended,00000001
+
+[Open Square Style-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Open Square Style-Night
+// Open Square Style-Night
+patch=1,EE,2061F888,extended,00000001
+
+[Oval Style-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Oval Style-Night
+// Oval Style-Night
+patch=1,EE,2061F8B0,extended,00000001
+
+[Div1 UK Style-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Div1 UK Style-Night
+// Div1 UK Style-Night
+patch=1,EE,2061F8D8,extended,00000001
+
+[Div1 Euro Style-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Div1 Euro Style-Night
+// Div1 Euro Style-Night
+patch=1,EE,2061F900,extended,00000001
+
+[Div2 UK Style-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Div2 UK Style-Night
+// Div2 UK Style-Night
+patch=1,EE,2061F928,extended,00000001
+
+[Div2 Euro Style-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Div2 Euro Style-Night
+// Div2 Euro Style-Night
+patch=1,EE,2061F950,extended,00000001
+
+[Div3 UK Style-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Div3 UK Style-Night
+// Div3 UK Style-Night
+patch=1,EE,2061F978,extended,00000001
+
+[Div3 Euro Style-Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Div3 Euro Style-Night
+// Div3 Euro Style-Night
+patch=1,EE,2061F9A0,extended,00000001

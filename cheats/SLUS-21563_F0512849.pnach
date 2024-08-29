@@ -1,0 +1,157 @@
+gametitle=Horsez [SLUS-21563] [F0512849]
+
+[Rennar's Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rennar's Key
+// Rennar's Key
+patch=1,EE,9010506C,extended,0C043870
+
+[Max Horse Condition]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Condition
+// Max Horse Condition
+patch=1,EE,200C0220,extended,3C013F80
+
+[Max Horse Condition]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Condition
+// Max Horse Condition
+patch=1,EE,200C0224,extended,AE210008
+
+[Max Horse Condition]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Condition
+// Max Horse Condition
+patch=1,EE,200C0228,extended,03E00008
+
+[Max Horse Condition]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Condition
+// Max Horse Condition
+patch=1,EE,200C022C,extended,C6280008
+
+[Max Horse Condition]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Condition
+// Max Horse Condition
+patch=1,EE,20262084,extended,0C030088
+
+[P1 Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Timer
+// P1 Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,D064BA42,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Timer
+// P1 Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,202DDE18,extended,00000000
+
+[P1 Press {L2}+{SELECT} To Restart Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Timer
+// P1 Press {L2}+{SELECT} To Restart Timer
+patch=1,EE,D064BA42,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Restart Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Timer
+// P1 Press {L2}+{SELECT} To Restart Timer
+patch=1,EE,202DDE18,extended,E6000020
+
+[Max Tokens]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tokens
+// Max Tokens
+patch=1,EE,200C0220,extended,3C02000F
+
+[Max Tokens]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tokens
+// Max Tokens
+patch=1,EE,200C0224,extended,3442423F
+
+[Max Tokens]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tokens
+// Max Tokens
+patch=1,EE,200C0228,extended,080BB05C
+
+[Max Tokens]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tokens
+// Max Tokens
+patch=1,EE,200C022C,extended,AC220000
+
+[Max Tokens]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tokens
+// Max Tokens
+patch=1,EE,202EC164,extended,08030088
+
+[Max Tokens]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tokens
+// Max Tokens
+patch=1,EE,202EC168,extended,00400821
+
+[Max Horse Moral]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Moral
+// Max Horse Moral
+patch=1,EE,200C0230,extended,24020064
+
+[Max Horse Moral]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Moral
+// Max Horse Moral
+patch=1,EE,200C0234,extended,080BAFFC
+
+[Max Horse Moral]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Moral
+// Max Horse Moral
+patch=1,EE,200C0238,extended,AC220000
+
+[Max Horse Moral]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Moral
+// Max Horse Moral
+patch=1,EE,202EBFE4,extended,0803008C
+
+[Max Horse Moral]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Moral
+// Max Horse Moral
+patch=1,EE,202EBFE8,extended,00400821
+
+[Max Horse Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Health
+// Max Horse Health
+patch=1,EE,200C0240,extended,24020064
+
+[Max Horse Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Health
+// Max Horse Health
+patch=1,EE,200C0244,extended,080BB00C
+
+[Max Horse Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Health
+// Max Horse Health
+patch=1,EE,200C0248,extended,AC220000
+
+[Max Horse Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Health
+// Max Horse Health
+patch=1,EE,202EC024,extended,08030090
+
+[Max Horse Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Health
+// Max Horse Health
+patch=1,EE,202EC028,extended,00400821

@@ -1,0 +1,517 @@
+gametitle=Driv3r [SLES-50876] [E94FBF35]
+
+[Nice-Guy Orb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nice-Guy Orb
+// Nice-Guy Orb
+patch=1,EE,902E4DC8,extended,0C0B31AE
+
+[Infinite Health (On Foot)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (On Foot)
+// Infinite Health (On Foot)
+patch=1,EE,200C0200,extended,8C430000
+
+[Infinite Health (On Foot)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (On Foot)
+// Infinite Health (On Foot)
+patch=1,EE,200C0204,extended,3C014000
+
+[Infinite Health (On Foot)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (On Foot)
+// Infinite Health (On Foot)
+patch=1,EE,200C0208,extended,54600001
+
+[Infinite Health (On Foot)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (On Foot)
+// Infinite Health (On Foot)
+patch=1,EE,200C020C,extended,AC610024
+
+[Infinite Health (On Foot)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (On Foot)
+// Infinite Health (On Foot)
+patch=1,EE,200C0210,extended,03E00008
+
+[Infinite Health (On Foot)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (On Foot)
+// Infinite Health (On Foot)
+patch=1,EE,200C0214,extended,00000000
+
+[Infinite Health (On Foot)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (On Foot)
+// Infinite Health (On Foot)
+patch=1,EE,201CAB74,extended,08030080
+
+[Transparent Character]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Transparent Character
+// Transparent Character
+patch=1,EE,201BEBFC,extended,3C01BF00
+
+[Transparent Character]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Transparent Character
+// Transparent Character
+patch=1,EE,201BEC00,extended,AE210014
+
+[Immune To Bullets (On Foot)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immune To Bullets (On Foot)
+// Immune To Bullets (On Foot)
+patch=1,EE,200C0220,extended,3C01003E
+
+[Immune To Bullets (On Foot)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immune To Bullets (On Foot)
+// Immune To Bullets (On Foot)
+patch=1,EE,200C0224,extended,8C218810
+
+[Immune To Bullets (On Foot)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immune To Bullets (On Foot)
+// Immune To Bullets (On Foot)
+patch=1,EE,200C0228,extended,3C023F80
+
+[Immune To Bullets (On Foot)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immune To Bullets (On Foot)
+// Immune To Bullets (On Foot)
+patch=1,EE,200C022C,extended,50310001
+
+[Immune To Bullets (On Foot)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immune To Bullets (On Foot)
+// Immune To Bullets (On Foot)
+patch=1,EE,200C0230,extended,44820800
+
+[Immune To Bullets (On Foot)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immune To Bullets (On Foot)
+// Immune To Bullets (On Foot)
+patch=1,EE,200C0234,extended,03E00008
+
+[Immune To Bullets (On Foot)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immune To Bullets (On Foot)
+// Immune To Bullets (On Foot)
+patch=1,EE,200C0238,extended,46020836
+
+[Immune To Bullets (On Foot)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immune To Bullets (On Foot)
+// Immune To Bullets (On Foot)
+patch=1,EE,201C29C8,extended,0C030088
+
+[Immune To Explosions (On Foot)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immune To Explosions (On Foot)
+// Immune To Explosions (On Foot)
+patch=1,EE,200C0240,extended,3C01003E
+
+[Immune To Explosions (On Foot)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immune To Explosions (On Foot)
+// Immune To Explosions (On Foot)
+patch=1,EE,200C0244,extended,8C218810
+
+[Immune To Explosions (On Foot)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immune To Explosions (On Foot)
+// Immune To Explosions (On Foot)
+patch=1,EE,200C0248,extended,54300001
+
+[Immune To Explosions (On Foot)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immune To Explosions (On Foot)
+// Immune To Explosions (On Foot)
+patch=1,EE,200C024C,extended,E6010024
+
+[Immune To Explosions (On Foot)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immune To Explosions (On Foot)
+// Immune To Explosions (On Foot)
+patch=1,EE,200C0250,extended,03E00008
+
+[Immune To Explosions (On Foot)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immune To Explosions (On Foot)
+// Immune To Explosions (On Foot)
+patch=1,EE,200C0254,extended,00000000
+
+[Immune To Explosions (On Foot)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immune To Explosions (On Foot)
+// Immune To Explosions (On Foot)
+patch=1,EE,201C2DDC,extended,0C030090
+
+[Immune To Body Damage Caused By Car Crashes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immune To Body Damage Caused By Car Crashes
+// Immune To Body Damage Caused By Car Crashes
+patch=1,EE,201C1DA0,extended,00000000
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,201D8184,extended,00000000
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,201D8168,extended,00621021
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,201D80DC,extended,00000000
+
+[P1 Press {L1}+{SELECT} For Infinite Car Damage On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For Infinite Car Damage On
+// P1 Press {L1}+{SELECT} For Infinite Car Damage On
+patch=1,EE,E002FBFE,extended,006FD49C
+
+[P1 Press {L1}+{SELECT} For Infinite Car Damage On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For Infinite Car Damage On
+// P1 Press {L1}+{SELECT} For Infinite Car Damage On
+patch=1,EE,201F2D20,extended,00000000
+
+[P1 Press {L1}+{SELECT} For Infinite Car Damage On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For Infinite Car Damage On
+// P1 Press {L1}+{SELECT} For Infinite Car Damage On
+patch=1,EE,20201AA8,extended,00000000
+
+[P1 Press {L1}+{SELECT} For Infinite Car Damage Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For Infinite Car Damage Off
+// P1 Press {L1}+{SELECT} For Infinite Car Damage Off
+patch=1,EE,E002FEFE,extended,006FD49C
+
+[P1 Press {L1}+{SELECT} For Infinite Car Damage Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For Infinite Car Damage Off
+// P1 Press {L1}+{SELECT} For Infinite Car Damage Off
+patch=1,EE,201F2D20,extended,E6C0218C
+
+[P1 Press {L1}+{SELECT} For Infinite Car Damage Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For Infinite Car Damage Off
+// P1 Press {L1}+{SELECT} For Infinite Car Damage Off
+patch=1,EE,20201AA8,extended,E6400000
+
+[P1 Press {R1}+{SELECT} For Cars Take No Damage On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} For Cars Take No Damage On
+// P1 Press {R1}+{SELECT} For Cars Take No Damage On
+patch=1,EE,E002F7FE,extended,006FD49C
+
+[P1 Press {R1}+{SELECT} For Cars Take No Damage On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} For Cars Take No Damage On
+// P1 Press {R1}+{SELECT} For Cars Take No Damage On
+patch=1,EE,201F2210,extended,03E00008
+
+[P1 Press {R1}+{SELECT} For Cars Take No Damage On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} For Cars Take No Damage On
+// P1 Press {R1}+{SELECT} For Cars Take No Damage On
+patch=1,EE,20201930,extended,03E00008
+
+[P1 Press {R2}+{SELECT} For Cars Take No Damage Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+{SELECT} For Cars Take No Damage Off
+// P1 Press {R2}+{SELECT} For Cars Take No Damage Off
+patch=1,EE,E002FDFE,extended,006FD49C
+
+[P1 Press {R2}+{SELECT} For Cars Take No Damage Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+{SELECT} For Cars Take No Damage Off
+// P1 Press {R2}+{SELECT} For Cars Take No Damage Off
+patch=1,EE,201F2210,extended,27BDFC90
+
+[P1 Press {R2}+{SELECT} For Cars Take No Damage Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+{SELECT} For Cars Take No Damage Off
+// P1 Press {R2}+{SELECT} For Cars Take No Damage Off
+patch=1,EE,20201930,extended,3C013BA3
+
+[Cheats Below Work In All Modes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cheats Below Work In All Modes
+// Cheats Below Work In All Modes
+patch=1,EE,201C6800,extended,00000000
+
+[Hidden Car 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hidden Car 1
+// Hidden Car 1
+patch=1,EE,2070F860,extended,00000001
+
+[Hidden Car 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hidden Car 2
+// Hidden Car 2
+patch=1,EE,2070F864,extended,00000001
+
+[Hidden Car 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hidden Car 3
+// Hidden Car 3
+patch=1,EE,2070F868,extended,00000001
+
+[Hidden Car 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hidden Car 4
+// Hidden Car 4
+patch=1,EE,2070F86C,extended,00000001
+
+[Hidden Car 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hidden Car 5
+// Hidden Car 5
+patch=1,EE,2070F870,extended,00000001
+
+[Hidden Car 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hidden Car 6
+// Hidden Car 6
+patch=1,EE,2070F874,extended,00000001
+
+[All Hidden Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Hidden Cars
+// All Hidden Cars
+patch=1,EE,4070F860,extended,00060001
+
+[All Hidden Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Hidden Cars
+// All Hidden Cars
+patch=1,EE,00000001,extended,00000000
+
+[All Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Missions
+// All Missions
+patch=1,EE,2070F810,extended,00000001
+
+[All Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Missions
+// All Missions
+patch=1,EE,2070FA74,extended,00000001
+
+[All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Weapons
+// All Weapons
+patch=1,EE,2070F818,extended,00000001
+
+[All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Weapons
+// All Weapons
+patch=1,EE,2070FA7C,extended,00000001
+
+[Unlimited Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Ammo
+// Unlimited Ammo
+patch=1,EE,2070F820,extended,00000001
+
+[Unlimited Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Ammo
+// Unlimited Ammo
+patch=1,EE,2070FA84,extended,00000001
+
+[Invincibility (Take A Ride)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincibility (Take A Ride)
+// Invincibility (Take A Ride)
+patch=1,EE,2070F828,extended,00000001
+
+[Invincibility (Take A Ride)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincibility (Take A Ride)
+// Invincibility (Take A Ride)
+patch=1,EE,2070FA8C,extended,00000001
+
+[Immunity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immunity
+// Immunity
+patch=1,EE,2070F830,extended,00000001
+
+[Immunity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immunity
+// Immunity
+patch=1,EE,2070FA94,extended,00000001
+
+[All Vehicles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Vehicles
+// All Vehicles
+patch=1,EE,2070F840,extended,00000001
+
+[All Vehicles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Vehicles
+// All Vehicles
+patch=1,EE,2070FAA4,extended,00000001
+
+[All Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Missions
+// All Missions
+patch=1,EE,2070F814,extended,00000001
+
+[All Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Missions
+// All Missions
+patch=1,EE,2070FA78,extended,00000001
+
+[All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Weapons
+// All Weapons
+patch=1,EE,2070F81C,extended,00000001
+
+[All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Weapons
+// All Weapons
+patch=1,EE,2070FA80,extended,00000001
+
+[Unlimited Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Ammo
+// Unlimited Ammo
+patch=1,EE,2070F824,extended,00000001
+
+[Unlimited Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Ammo
+// Unlimited Ammo
+patch=1,EE,2070FA88,extended,00000001
+
+[Invincibility (Take A Ride)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincibility (Take A Ride)
+// Invincibility (Take A Ride)
+patch=1,EE,2070F82C,extended,00000001
+
+[Invincibility (Take A Ride)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincibility (Take A Ride)
+// Invincibility (Take A Ride)
+patch=1,EE,2070FA90,extended,00000001
+
+[Immunity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immunity
+// Immunity
+patch=1,EE,2070F834,extended,00000001
+
+[Immunity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immunity
+// Immunity
+patch=1,EE,2070FA98,extended,00000001
+
+[All Vehicles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Vehicles
+// All Vehicles
+patch=1,EE,2070F844,extended,00000001
+
+[All Vehicles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Vehicles
+// All Vehicles
+patch=1,EE,2070FAA8,extended,00000001
+
+[All Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Missions
+// All Missions
+patch=1,EE,2070F814,extended,00000000
+
+[All Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Missions
+// All Missions
+patch=1,EE,2070FA78,extended,00000000
+
+[All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Weapons
+// All Weapons
+patch=1,EE,2070F81C,extended,00000000
+
+[All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Weapons
+// All Weapons
+patch=1,EE,2070FA80,extended,00000000
+
+[Unlimited Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Ammo
+// Unlimited Ammo
+patch=1,EE,2070F824,extended,00000000
+
+[Unlimited Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Ammo
+// Unlimited Ammo
+patch=1,EE,2070FA88,extended,00000000
+
+[Invincibility (Take A Ride)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincibility (Take A Ride)
+// Invincibility (Take A Ride)
+patch=1,EE,2070F82C,extended,00000000
+
+[Invincibility (Take A Ride)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincibility (Take A Ride)
+// Invincibility (Take A Ride)
+patch=1,EE,2070FA90,extended,00000000
+
+[Immunity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immunity
+// Immunity
+patch=1,EE,2070F834,extended,00000000
+
+[Immunity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immunity
+// Immunity
+patch=1,EE,2070FA98,extended,00000000
+
+[All Vehicles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Vehicles
+// All Vehicles
+patch=1,EE,2070F844,extended,00000000
+
+[All Vehicles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Vehicles
+// All Vehicles
+patch=1,EE,2070FAA8,extended,00000000

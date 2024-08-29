@@ -1,0 +1,103 @@
+gametitle=Fast And The Furious, The [SLUS-21449] [2C728173]
+
+[P2 Press {L2}+{SELECT} For P2 Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L2}+{SELECT} For P2 Scores 0
+// P2 Press {L2}+{SELECT} For P2 Scores 0
+patch=1,EE,903C9AC8,extended,0C111171
+
+[Infinite NOS Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite NOS Usage
+// Infinite NOS Usage
+patch=1,EE,202887F4,extended,00000000
+
+[Infinite Cash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Cash
+// Infinite Cash
+patch=1,EE,105CAC30,extended,0000FFFF
+
+[Max Cash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cash
+// Max Cash
+patch=1,EE,205CAC30,extended,05F5E0FF
+
+[Buying Cars Doesnt Decrease Cash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Cars Doesnt Decrease Cash
+// Buying Cars Doesnt Decrease Cash
+patch=1,EE,201D0070,extended,00000000
+
+[Buying Cars Increases Cash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Cars Increases Cash
+// Buying Cars Increases Cash
+patch=1,EE,201D0064,extended,00821821
+
+[Buying Upgrades Doesnt Decrease Cash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Upgrades Doesnt Decrease Cash
+// Buying Upgrades Doesnt Decrease Cash
+patch=1,EE,20153D04,extended,00000000
+
+[Buying Upgrades Increases Cash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Upgrades Increases Cash
+// Buying Upgrades Increases Cash
+patch=1,EE,20153CF4,extended,00831021
+
+[Have All Boss Cars Unlocked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Boss Cars Unlocked
+// Have All Boss Cars Unlocked
+patch=1,EE,005CACF8,extended,00000010
+
+[Have All Crew Members Defeated]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Crew Members Defeated
+// Have All Crew Members Defeated
+patch=1,EE,005CACF9,extended,00000050
+
+[Max Total Races Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Races Won
+// Max Total Races Won
+patch=1,EE,205CACFC,extended,05F5E0FF
+
+[No Total Races Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Total Races Won
+// No Total Races Won
+patch=1,EE,205CACFC,extended,00000000
+
+[Max Total Races Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Races Lost
+// Max Total Races Lost
+patch=1,EE,205CAD00,extended,05F5E0FF
+
+[No Total Races Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Total Races Lost
+// No Total Races Lost
+patch=1,EE,205CAD00,extended,00000000
+
+[Have All Racers Defeated/Tutorials Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Racers Defeated/Tutorials Completed
+// Have All Racers Defeated/Tutorials Completed
+patch=1,EE,201AAE04,extended,AC430018
+
+[Have All Racers Defeated/Tutorials Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Racers Defeated/Tutorials Completed
+// Have All Racers Defeated/Tutorials Completed
+patch=1,EE,101AAE0A,extended,00001000
+
+[Have All Film Cars Unlocked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Film Cars Unlocked
+// Have All Film Cars Unlocked
+patch=1,EE,20143A44,extended,AC42000C

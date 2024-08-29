@@ -1,0 +1,367 @@
+gametitle=Capcom Vs. SNK 2 [SLPM-65047] [D79F697A]
+
+[P2 Never Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Never Wins
+// P2 Never Wins
+patch=1,EE,F0100008,extended,0010DE8F
+
+[Max Groove Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Groove Points
+// Max Groove Points
+patch=1,EE,20481CB0,extended,0098967F
+
+[Have S. Akuma & U. Rugal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have S. Akuma & U. Rugal
+// Have S. Akuma & U. Rugal
+patch=1,EE,103F2514,extended,0000FFFF
+
+[P1 Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Infinite Health
+// P1 Infinite Health
+patch=1,EE,204818C4,extended,36003600
+
+[P1 Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Infinite Health
+// P1 Infinite Health
+patch=1,EE,104818C8,extended,00003600
+
+[P1 Super Jumping Ability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Super Jumping Ability
+// P1 Super Jumping Ability
+patch=1,EE,D04817C2,extended,00300030
+
+[P1 Super Jumping Ability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Super Jumping Ability
+// P1 Super Jumping Ability
+patch=1,EE,104817C2,extended,000000C0
+
+[P1 Large Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Large Jumps
+// P1 Large Jumps
+patch=1,EE,1048181C,extended,00001000
+
+[P1 Very Large Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Very Large Jumps
+// P1 Very Large Jumps
+patch=1,EE,1048181C,extended,0000F000
+
+[P1 Infinite Groove Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Infinite Groove Time
+// P1 Infinite Groove Time
+patch=1,EE,20481988,extended,000003E8
+
+[P1 No Groove Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 No Groove Time
+// P1 No Groove Time
+patch=1,EE,20481988,extended,00000000
+
+[P1 Infinite Guard Crash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Infinite Guard Crash
+// P1 Infinite Guard Crash
+patch=1,EE,10481928,extended,00003030
+
+[P1 No Guard Crash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 No Guard Crash
+// P1 No Guard Crash
+patch=1,EE,10481928,extended,00000000
+
+[P1 No Groove]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 No Groove
+// P1 No Groove
+patch=1,EE,20481960,extended,00000000
+
+[P1 Press {L2}+{SELECT} To Warp Left]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Warp Left
+// P1 Press {L2}+{SELECT} To Warp Left
+patch=1,EE,D045F852,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Warp Left]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Warp Left
+// P1 Press {L2}+{SELECT} To Warp Left
+patch=1,EE,104817BE,extended,0000FE00
+
+[P1 Press {L1}+{SELECT} To Warp Right]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Warp Right
+// P1 Press {L1}+{SELECT} To Warp Right
+patch=1,EE,D045F852,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Warp Right]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Warp Right
+// P1 Press {L1}+{SELECT} To Warp Right
+patch=1,EE,104817BE,extended,00000200
+
+[P1 Press {L1}+{L1}+{SELECT} To Warp Middle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L1}+{SELECT} To Warp Middle
+// P1 Press {L1}+{L1}+{SELECT} To Warp Middle
+patch=1,EE,D045F852,extended,0000FAFE
+
+[P1 Press {L1}+{L1}+{SELECT} To Warp Middle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L1}+{SELECT} To Warp Middle
+// P1 Press {L1}+{L1}+{SELECT} To Warp Middle
+patch=1,EE,104817BE,extended,00000000
+
+[P2 Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Infinite Health
+// P2 Infinite Health
+patch=1,EE,20481E94,extended,36003600
+
+[P2 Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Infinite Health
+// P2 Infinite Health
+patch=1,EE,10481E98,extended,00003600
+
+[P2 Super Jumping Ability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Super Jumping Ability
+// P2 Super Jumping Ability
+patch=1,EE,D0481D92,extended,00300030
+
+[P2 Super Jumping Ability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Super Jumping Ability
+// P2 Super Jumping Ability
+patch=1,EE,10481D92,extended,000000C0
+
+[P2 Large Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Large Jumps
+// P2 Large Jumps
+patch=1,EE,10481DEC,extended,00001000
+
+[P2 Very Large Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Very Large Jumps
+// P2 Very Large Jumps
+patch=1,EE,10481DEC,extended,0000F000
+
+[P2 Infinite Groove Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Infinite Groove Time
+// P2 Infinite Groove Time
+patch=1,EE,20481F58,extended,000003E8
+
+[P2 No Groove Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 No Groove Time
+// P2 No Groove Time
+patch=1,EE,20481F58,extended,00000000
+
+[P2 Infinite Guard Crash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Infinite Guard Crash
+// P2 Infinite Guard Crash
+patch=1,EE,10481EF8,extended,00003030
+
+[P2 No Guard Crash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 No Guard Crash
+// P2 No Guard Crash
+patch=1,EE,10481EF8,extended,00000000
+
+[P2 No Groove]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 No Groove
+// P2 No Groove
+patch=1,EE,20481F30,extended,00000000
+
+[P2 Press {L2}+{SELECT} To Warp Left]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L2}+{SELECT} To Warp Left
+// P2 Press {L2}+{SELECT} To Warp Left
+patch=1,EE,D045F7F2,extended,0000FEFE
+
+[P2 Press {L2}+{SELECT} To Warp Left]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L2}+{SELECT} To Warp Left
+// P2 Press {L2}+{SELECT} To Warp Left
+patch=1,EE,10481D8E,extended,0000FE00
+
+[P2 Press {L1}+{SELECT} To Warp Right]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} To Warp Right
+// P2 Press {L1}+{SELECT} To Warp Right
+patch=1,EE,D045F7F2,extended,0000FBFE
+
+[P2 Press {L1}+{SELECT} To Warp Right]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} To Warp Right
+// P2 Press {L1}+{SELECT} To Warp Right
+patch=1,EE,10481D9E,extended,00000200
+
+[P2 Press {L1}+{L1}+{SELECT} To Warp Middle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{L1}+{SELECT} To Warp Middle
+// P2 Press {L1}+{L1}+{SELECT} To Warp Middle
+patch=1,EE,D045F7F2,extended,0000FAFE
+
+[P2 Press {L1}+{L1}+{SELECT} To Warp Middle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{L1}+{SELECT} To Warp Middle
+// P2 Press {L1}+{L1}+{SELECT} To Warp Middle
+patch=1,EE,10481D8E,extended,00000000
+
+[P1 Can Throw Anywhere, P2 Cant Throw At All]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Can Throw Anywhere, P2 Cant Throw At All
+// P1 Can Throw Anywhere, P2 Cant Throw At All
+patch=1,EE,202965F0,extended,03E00008
+
+[P1 Can Throw Anywhere, P2 Cant Throw At All]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Can Throw Anywhere, P2 Cant Throw At All
+// P1 Can Throw Anywhere, P2 Cant Throw At All
+patch=1,EE,202965F4,extended,0085102B
+
+[P2 Can Throw Anywhere, P1 Cant Throw At All]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Can Throw Anywhere, P1 Cant Throw At All
+// P2 Can Throw Anywhere, P1 Cant Throw At All
+patch=1,EE,202965F0,extended,03E00008
+
+[P2 Can Throw Anywhere, P1 Cant Throw At All]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Can Throw Anywhere, P1 Cant Throw At All
+// P2 Can Throw Anywhere, P1 Cant Throw At All
+patch=1,EE,202965F4,extended,00A4102B
+
+[P1 Can Hit Anywhere, P2 Cant Hit At All]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Can Hit Anywhere, P2 Cant Hit At All
+// P1 Can Hit Anywhere, P2 Cant Hit At All
+patch=1,EE,2014D510,extended,03E00008
+
+[P1 Can Hit Anywhere, P2 Cant Hit At All]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Can Hit Anywhere, P2 Cant Hit At All
+// P1 Can Hit Anywhere, P2 Cant Hit At All
+patch=1,EE,2014D514,extended,0085102B
+
+[P1 Can Hit Anywhere, P2 Cant Hit At All]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Can Hit Anywhere, P2 Cant Hit At All
+// P1 Can Hit Anywhere, P2 Cant Hit At All
+patch=1,EE,2014D630,extended,03E00008
+
+[P1 Can Hit Anywhere, P2 Cant Hit At All]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Can Hit Anywhere, P2 Cant Hit At All
+// P1 Can Hit Anywhere, P2 Cant Hit At All
+patch=1,EE,2014D634,extended,0085102B
+
+[P2 Can Hit Anywhere, P1 Cant Hit At All]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Can Hit Anywhere, P1 Cant Hit At All
+// P2 Can Hit Anywhere, P1 Cant Hit At All
+patch=1,EE,2014D510,extended,03E00008
+
+[P2 Can Hit Anywhere, P1 Cant Hit At All]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Can Hit Anywhere, P1 Cant Hit At All
+// P2 Can Hit Anywhere, P1 Cant Hit At All
+patch=1,EE,2014D514,extended,00A4102B
+
+[P2 Can Hit Anywhere, P1 Cant Hit At All]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Can Hit Anywhere, P1 Cant Hit At All
+// P2 Can Hit Anywhere, P1 Cant Hit At All
+patch=1,EE,2014D630,extended,03E00008
+
+[P2 Can Hit Anywhere, P1 Cant Hit At All]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Can Hit Anywhere, P1 Cant Hit At All
+// P2 Can Hit Anywhere, P1 Cant Hit At All
+patch=1,EE,2014D634,extended,00A4102B
+
+[Throw Anywhere (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Throw Anywhere (Both Players)
+// Throw Anywhere (Both Players)
+patch=1,EE,20296694,extended,24020001
+
+[Hit Anywhere (P1 Only)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Anywhere (P1 Only)
+// Hit Anywhere (P1 Only)
+patch=1,EE,201464C8,extended,0232102B
+
+[Hit Anywhere (P1 Only)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Anywhere (P1 Only)
+// Hit Anywhere (P1 Only)
+patch=1,EE,201464CC,extended,14400024
+
+[Hit Anywhere (P2 Only)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Anywhere (P2 Only)
+// Hit Anywhere (P2 Only)
+patch=1,EE,201464C8,extended,0232102B
+
+[Hit Anywhere (P2 Only)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Anywhere (P2 Only)
+// Hit Anywhere (P2 Only)
+patch=1,EE,201464CC,extended,10400024
+
+[Hit Anywhere (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Anywhere (Both Players)
+// Hit Anywhere (Both Players)
+patch=1,EE,201464CC,extended,00000000
+
+[All Attacks Hurt P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Attacks Hurt P1
+// All Attacks Hurt P1
+patch=1,EE,2014BB08,extended,3C010048
+
+[All Attacks Hurt P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Attacks Hurt P1
+// All Attacks Hurt P1
+patch=1,EE,2014BB14,extended,842418C4
+
+[All Attacks Hurt P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Attacks Hurt P1
+// All Attacks Hurt P1
+patch=1,EE,2014BB20,extended,A42318C4
+
+[All Attacks Hurt P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Attacks Hurt P2
+// All Attacks Hurt P2
+patch=1,EE,2014BB08,extended,3C010048
+
+[All Attacks Hurt P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Attacks Hurt P2
+// All Attacks Hurt P2
+patch=1,EE,2014BB14,extended,84241E94
+
+[All Attacks Hurt P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Attacks Hurt P2
+// All Attacks Hurt P2
+patch=1,EE,2014BB20,extended,A4231E94

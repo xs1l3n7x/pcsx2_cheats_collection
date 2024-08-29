@@ -1,0 +1,289 @@
+gametitle=State Of Emergency [SLUS-20214] [158EF23A]
+
+[Unlock All Locker Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Locker Items
+// Unlock All Locker Items
+patch=1,EE,901B31CC,extended,0C073053
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,101DB6CC,extended,0000FFFF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,201DB6CC,extended,05F5E0FF
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201DBC78,extended,00000001
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,201DBC7C,extended,00000001
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,201DBC80,extended,00000001
+
+[Punches Decapitate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Punches Decapitate
+// Punches Decapitate
+patch=1,EE,201DBC88,extended,00000001
+
+[Looting On The Rise]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Looting On The Rise
+// Looting On The Rise
+patch=1,EE,201DBC8C,extended,00000001
+
+[Press {L1}+{L2} For Huge Player]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{L2} For Huge Player
+// Press {L1}+{L2} For Huge Player
+patch=1,EE,D01DFA42,extended,0000FAFF
+
+[Press {L1}+{L2} For Huge Player]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{L2} For Huge Player
+// Press {L1}+{L2} For Huge Player
+patch=1,EE,201DBC90,extended,00000002
+
+[Press {R1}+{R2} For Tiny Player]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R1}+{R2} For Tiny Player
+// Press {R1}+{R2} For Tiny Player
+patch=1,EE,D01DFA42,extended,0000F5FF
+
+[Press {R1}+{R2} For Tiny Player]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R1}+{R2} For Tiny Player
+// Press {R1}+{R2} For Tiny Player
+patch=1,EE,201DBC90,extended,00000001
+
+[Press {L1}+{R1} For Normal Player]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{R1} For Normal Player
+// Press {L1}+{R1} For Normal Player
+patch=1,EE,D01DFA42,extended,0000F3FF
+
+[Press {L1}+{R1} For Normal Player]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{R1} For Normal Player
+// Press {L1}+{R1} For Normal Player
+patch=1,EE,201DBC90,extended,00000000
+
+[Have All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Characters
+// Have All Characters
+patch=1,EE,201DCFF8,extended,FFFFFFFF
+
+[Max Corporation Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Corporation Kills
+// Max Corporation Kills
+patch=1,EE,201DD038,extended,0098967F
+
+[Max Gang Member Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Gang Member Kills
+// Max Gang Member Kills
+patch=1,EE,201DD040,extended,0098967F
+
+[Always Low Overall Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Overall Time
+// Always Low Overall Time
+patch=1,EE,201DB6EC,extended,00000000
+
+[Save Slot 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save Slot 1
+// Save Slot 1
+patch=1,EE,101DC000,extended,0000FFFF
+
+[Save Slot 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save Slot 2
+// Save Slot 2
+patch=1,EE,101DC018,extended,0000FFFF
+
+[Save Slot 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save Slot 3
+// Save Slot 3
+patch=1,EE,101DC030,extended,0000FFFF
+
+[Save Slot 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save Slot 4
+// Save Slot 4
+patch=1,EE,101DC048,extended,0000FFFF
+
+[Save Slot 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save Slot 5
+// Save Slot 5
+patch=1,EE,101DC060,extended,0000FFFF
+
+[Save Slot 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save Slot 1
+// Save Slot 1
+patch=1,EE,101DBF88,extended,00000009
+
+[Save Slot 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save Slot 2
+// Save Slot 2
+patch=1,EE,101DBFA0,extended,00000009
+
+[Save Slot 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save Slot 3
+// Save Slot 3
+patch=1,EE,101DBFB8,extended,00000009
+
+[Save Slot 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save Slot 4
+// Save Slot 4
+patch=1,EE,101DBFD0,extended,00000009
+
+[Save Slot 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save Slot 5
+// Save Slot 5
+patch=1,EE,101DBFE8,extended,00000009
+
+[Stage 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 0
+// Stage 0
+patch=1,EE,201DB87C,extended,00000001
+
+[Stage 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 1
+// Stage 1
+patch=1,EE,201DB880,extended,00000001
+
+[Stage 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 2
+// Stage 2
+patch=1,EE,201DB884,extended,00000001
+
+[Stage 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 3
+// Stage 3
+patch=1,EE,201DB888,extended,00000001
+
+[Stage 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 4
+// Stage 4
+patch=1,EE,201DB88C,extended,00000001
+
+[Stage 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 5
+// Stage 5
+patch=1,EE,201DB890,extended,00000001
+
+[Stage 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 6
+// Stage 6
+patch=1,EE,201DB894,extended,00000001
+
+[Stage 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 7
+// Stage 7
+patch=1,EE,201DB898,extended,00000001
+
+[Stage 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 8
+// Stage 8
+patch=1,EE,201DB89C,extended,00000001
+
+[Stage 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 9
+// Stage 9
+patch=1,EE,201DB8A0,extended,00000001
+
+[Stage 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 10
+// Stage 10
+patch=1,EE,201DB8A4,extended,00000001
+
+[Stage 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 11
+// Stage 11
+patch=1,EE,201DB8A8,extended,00000001
+
+[Stage 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 12
+// Stage 12
+patch=1,EE,201DB8AC,extended,00000001
+
+[Stage 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 13
+// Stage 13
+patch=1,EE,201DB8A0,extended,00000001
+
+[Stage 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 14
+// Stage 14
+patch=1,EE,201DB8B4,extended,00000001
+
+[Stage 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 15
+// Stage 15
+patch=1,EE,201DB8B8,extended,00000001
+
+[Stage 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 16
+// Stage 16
+patch=1,EE,201DB8BC,extended,00000001
+
+[Stage 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 17
+// Stage 17
+patch=1,EE,201DB8C0,extended,00000001
+
+[Stage 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 18
+// Stage 18
+patch=1,EE,201DB8C4,extended,00000001
+
+[Stage 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 19
+// Stage 19
+patch=1,EE,201DB8C8,extended,00000001

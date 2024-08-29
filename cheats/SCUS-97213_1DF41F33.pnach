@@ -1,0 +1,799 @@
+gametitle=Dark Cloud 2 [SCUS-97213] [1DF41F33]
+
+[Max Defense Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense Power
+// Max Defense Power
+patch=1,EE,90121734,extended,0C049C18
+
+[Infinite Gilda]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Gilda
+// Infinite Gilda
+patch=1,EE,11E6384C,extended,0000FFFF
+
+[Max Gilda]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Gilda
+// Max Gilda
+patch=1,EE,21E6384C,extended,0098967F
+
+[Infinite Item Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Item Usage
+// Infinite Item Usage
+patch=1,EE,201973D4,extended,00000000
+
+[Use Item For Max]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Use Item For Max
+// Use Item For Max
+patch=1,EE,201973D0,extended,24030014
+
+[Max Ridepod Fuel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Ridepod Fuel
+// Max Ridepod Fuel
+patch=1,EE,21E23130,extended,4479C000
+
+[Infinite Ridepod Fuel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ridepod Fuel
+// Infinite Ridepod Fuel
+patch=1,EE,21E23134,extended,4479C000
+
+[Infinite Fishing Points (Ginkan)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Fishing Points (Ginkan)
+// Infinite Fishing Points (Ginkan)
+patch=1,EE,11E22BA4,extended,000003E8
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,21E229F8,extended,4479C000
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,21E229FC,extended,4479C000
+
+[Always Good Status]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Good Status
+// Always Good Status
+patch=1,EE,11E22A00,extended,00000000
+
+[Max Defense Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense Power
+// Max Defense Power
+patch=1,EE,11E22A02,extended,00000063
+
+[Max WHP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max WHP
+// Max WHP
+patch=1,EE,21E22B78,extended,42C60000
+
+[Infinite WHP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite WHP
+// Infinite WHP
+patch=1,EE,21E22B7C,extended,42C60000
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,11E22B8A,extended,00000063
+
+[Max Durable]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Durable
+// Max Durable
+patch=1,EE,11E22B8C,extended,00000063
+
+[Max Flame]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Flame
+// Max Flame
+patch=1,EE,11E22B8E,extended,00000063
+
+[Max Chill]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Chill
+// Max Chill
+patch=1,EE,11E22B90,extended,00000063
+
+[Max Lightning]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Lightning
+// Max Lightning
+patch=1,EE,11E22B92,extended,00000063
+
+[Max Cyclone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cyclone
+// Max Cyclone
+patch=1,EE,11E22B94,extended,00000063
+
+[Max Smash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Smash
+// Max Smash
+patch=1,EE,11E22B96,extended,00000063
+
+[Max Exorcism]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exorcism
+// Max Exorcism
+patch=1,EE,11E22B98,extended,00000063
+
+[Max Beast]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Beast
+// Max Beast
+patch=1,EE,11E22B9A,extended,00000063
+
+[Max Scale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Scale
+// Max Scale
+patch=1,EE,11E22B9C,extended,00000063
+
+[Max Synthesis Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Synthesis Points
+// Max Synthesis Points
+patch=1,EE,11E22BA4,extended,000003E7
+
+[Max WHP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max WHP
+// Max WHP
+patch=1,EE,21E22BE4,extended,42C60000
+
+[Infinite WHP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite WHP
+// Infinite WHP
+patch=1,EE,21E22BE8,extended,42C60000
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,11E22BF6,extended,00000063
+
+[Max Durable]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Durable
+// Max Durable
+patch=1,EE,11E22BF8,extended,00000063
+
+[Max Flame]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Flame
+// Max Flame
+patch=1,EE,11E22BFA,extended,00000063
+
+[Max Chill]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Chill
+// Max Chill
+patch=1,EE,11E22BFC,extended,00000063
+
+[Max Lightning]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Lightning
+// Max Lightning
+patch=1,EE,11E22BFE,extended,00000063
+
+[Max Cyclone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cyclone
+// Max Cyclone
+patch=1,EE,11E22C00,extended,00000063
+
+[Max Smash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Smash
+// Max Smash
+patch=1,EE,11E22C02,extended,00000063
+
+[Max Exorcism]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exorcism
+// Max Exorcism
+patch=1,EE,11E22C04,extended,00000063
+
+[Max Beast]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Beast
+// Max Beast
+patch=1,EE,11E22C06,extended,00000063
+
+[Max Scale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Scale
+// Max Scale
+patch=1,EE,11E22C08,extended,00000063
+
+[Max Synthesis Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Synthesis Points
+// Max Synthesis Points
+patch=1,EE,11E22C10,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,21E22D84,extended,4479C000
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,21E22D88,extended,4479C000
+
+[Always Good Status]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Good Status
+// Always Good Status
+patch=1,EE,11E22D8C,extended,00000000
+
+[Max Defense Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense Power
+// Max Defense Power
+patch=1,EE,11E22D8E,extended,00000063
+
+[Max WHP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max WHP
+// Max WHP
+patch=1,EE,21E22F04,extended,42C60000
+
+[Infinite WHP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite WHP
+// Infinite WHP
+patch=1,EE,21E22F08,extended,42C60000
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,11E22F16,extended,00000063
+
+[Max Durable]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Durable
+// Max Durable
+patch=1,EE,11E22F18,extended,00000063
+
+[Max Flame]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Flame
+// Max Flame
+patch=1,EE,11E22F1A,extended,00000063
+
+[Max Chill]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Chill
+// Max Chill
+patch=1,EE,11E22F1C,extended,00000063
+
+[Max Lightning]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Lightning
+// Max Lightning
+patch=1,EE,11E22F1E,extended,00000063
+
+[Max Cyclone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cyclone
+// Max Cyclone
+patch=1,EE,11E22F20,extended,00000063
+
+[Max Smash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Smash
+// Max Smash
+patch=1,EE,11E22F22,extended,00000063
+
+[Max Exorcism]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exorcism
+// Max Exorcism
+patch=1,EE,11E22F24,extended,00000063
+
+[Max Beast]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Beast
+// Max Beast
+patch=1,EE,11E22F26,extended,00000063
+
+[Max Scale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Scale
+// Max Scale
+patch=1,EE,11E22F28,extended,00000063
+
+[Max Synthesis Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Synthesis Points
+// Max Synthesis Points
+patch=1,EE,11E22F30,extended,000003E7
+
+[Max WHP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max WHP
+// Max WHP
+patch=1,EE,21E22F70,extended,42C60000
+
+[Infinite WHP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite WHP
+// Infinite WHP
+patch=1,EE,21E22F74,extended,42C60000
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,11E22F82,extended,00000063
+
+[Max Durable]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Durable
+// Max Durable
+patch=1,EE,11E22F84,extended,00000063
+
+[Max Flame]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Flame
+// Max Flame
+patch=1,EE,11E22F86,extended,00000063
+
+[Max Chill]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Chill
+// Max Chill
+patch=1,EE,11E22F88,extended,00000063
+
+[Max Lightning]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Lightning
+// Max Lightning
+patch=1,EE,11E22F8A,extended,00000063
+
+[Max Cyclone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cyclone
+// Max Cyclone
+patch=1,EE,11E22F8C,extended,00000063
+
+[Max Smash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Smash
+// Max Smash
+patch=1,EE,11E22F8E,extended,00000063
+
+[Max Exorcism]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exorcism
+// Max Exorcism
+patch=1,EE,11E22F90,extended,00000063
+
+[Max Beast]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Beast
+// Max Beast
+patch=1,EE,11E22F92,extended,00000063
+
+[Max Scale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Scale
+// Max Scale
+patch=1,EE,11E22F94,extended,00000063
+
+[Max Synthesis Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Synthesis Points
+// Max Synthesis Points
+patch=1,EE,11E22F9C,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,21E23130,extended,4479C000
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,21E23134,extended,4479C000
+
+[Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp
+// Max Exp
+patch=1,EE,21E2313C,extended,47C34F80
+
+[Max WHP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max WHP
+// Max WHP
+patch=1,EE,21E23158,extended,42C60000
+
+[Infinite WHP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite WHP
+// Infinite WHP
+patch=1,EE,21E2315C,extended,42C60000
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,11E23160,extended,00000063
+
+[Max Durable]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Durable
+// Max Durable
+patch=1,EE,11E23162,extended,00000063
+
+[Max Flame]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Flame
+// Max Flame
+patch=1,EE,11E23164,extended,00000063
+
+[Max Chill]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Chill
+// Max Chill
+patch=1,EE,11E23166,extended,00000063
+
+[Max Lightning]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Lightning
+// Max Lightning
+patch=1,EE,11E23168,extended,00000063
+
+[Max Cyclone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cyclone
+// Max Cyclone
+patch=1,EE,11E2316A,extended,00000063
+
+[Max Smash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Smash
+// Max Smash
+patch=1,EE,11E2316C,extended,00000063
+
+[Max Exorcism]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exorcism
+// Max Exorcism
+patch=1,EE,11E2316E,extended,00000063
+
+[Max Beast]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Beast
+// Max Beast
+patch=1,EE,11E23170,extended,00000063
+
+[Max Scale]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Scale
+// Max Scale
+patch=1,EE,11E23172,extended,00000063
+
+[Cedric]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cedric
+// Cedric
+patch=1,EE,D1E26862,extended,00100001
+
+[Cedric]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cedric
+// Cedric
+patch=1,EE,11E26862,extended,00000002
+
+[Borneo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Borneo
+// Borneo
+patch=1,EE,D1E2686E,extended,00100001
+
+[Borneo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Borneo
+// Borneo
+patch=1,EE,11E2686E,extended,00000002
+
+[Gordon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gordon
+// Gordon
+patch=1,EE,D1E2687A,extended,00100001
+
+[Gordon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gordon
+// Gordon
+patch=1,EE,11E2687A,extended,00000002
+
+[Donny]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Donny
+// Donny
+patch=1,EE,D1E26886,extended,00100001
+
+[Donny]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Donny
+// Donny
+patch=1,EE,11E26886,extended,00000002
+
+[Parn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Parn
+// Parn
+patch=1,EE,D1E26892,extended,00100001
+
+[Parn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Parn
+// Parn
+patch=1,EE,11E26892,extended,00000002
+
+[Dr. Dell]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dr. Dell
+// Dr. Dell
+patch=1,EE,D1E2689E,extended,00100001
+
+[Dr. Dell]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dr. Dell
+// Dr. Dell
+patch=1,EE,11E2689E,extended,00000002
+
+[Ferdinand]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ferdinand
+// Ferdinand
+patch=1,EE,D1E268AA,extended,00100001
+
+[Ferdinand]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ferdinand
+// Ferdinand
+patch=1,EE,11E268AA,extended,00000002
+
+[Claire]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Claire
+// Claire
+patch=1,EE,D1E268B6,extended,00100001
+
+[Claire]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Claire
+// Claire
+patch=1,EE,11E268B6,extended,00000002
+
+[Pau]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pau
+// Pau
+patch=1,EE,D1E268C2,extended,00100001
+
+[Pau]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pau
+// Pau
+patch=1,EE,11E268C2,extended,00000002
+
+[Stewart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stewart
+// Stewart
+patch=1,EE,D1E268CE,extended,00100001
+
+[Stewart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stewart
+// Stewart
+patch=1,EE,11E268CE,extended,00000002
+
+[Adel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Adel
+// Adel
+patch=1,EE,D1E268DA,extended,00100001
+
+[Adel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Adel
+// Adel
+patch=1,EE,11E268DA,extended,00000002
+
+[Aunt Polly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aunt Polly
+// Aunt Polly
+patch=1,EE,D1E268E6,extended,00100001
+
+[Aunt Polly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aunt Polly
+// Aunt Polly
+patch=1,EE,11E268E6,extended,00000002
+
+[Erik]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Erik
+// Erik
+patch=1,EE,D1E268F2,extended,00100001
+
+[Erik]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Erik
+// Erik
+patch=1,EE,11E268F2,extended,00000002
+
+[Sheriff Blinkhorn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheriff Blinkhorn
+// Sheriff Blinkhorn
+patch=1,EE,D1E268FE,extended,00100001
+
+[Sheriff Blinkhorn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sheriff Blinkhorn
+// Sheriff Blinkhorn
+patch=1,EE,11E268FE,extended,00000002
+
+[Milane]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Milane
+// Milane
+patch=1,EE,D1E2690A,extended,00100001
+
+[Milane]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Milane
+// Milane
+patch=1,EE,11E2690A,extended,00000002
+
+[Gerald]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gerald
+// Gerald
+patch=1,EE,D1E26916,extended,00100001
+
+[Gerald]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gerald
+// Gerald
+patch=1,EE,11E26916,extended,00000002
+
+[Mayor Need]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mayor Need
+// Mayor Need
+patch=1,EE,D1E26922,extended,00100001
+
+[Mayor Need]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mayor Need
+// Mayor Need
+patch=1,EE,11E26922,extended,00000002
+
+[Priest Bruno]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Priest Bruno
+// Priest Bruno
+patch=1,EE,D1E2692E,extended,00100001
+
+[Priest Bruno]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Priest Bruno
+// Priest Bruno
+patch=1,EE,11E2692E,extended,00000002
+
+[Rufio]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rufio
+// Rufio
+patch=1,EE,D1E2693A,extended,00100001
+
+[Rufio]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rufio
+// Rufio
+patch=1,EE,11E2693A,extended,00000002
+
+[Fabio]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fabio
+// Fabio
+patch=1,EE,D1E26946,extended,00100001
+
+[Fabio]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fabio
+// Fabio
+patch=1,EE,11E26946,extended,00000002
+
+[Olivie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Olivie
+// Olivie
+patch=1,EE,D1E26952,extended,00100001
+
+[Olivie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Olivie
+// Olivie
+patch=1,EE,11E26952,extended,00000002
+
+[Julia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Julia
+// Julia
+patch=1,EE,D1E2695E,extended,00100001
+
+[Julia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Julia
+// Julia
+patch=1,EE,11E2695E,extended,00000002
+
+[Mina]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mina
+// Mina
+patch=1,EE,D1E2696A,extended,00100001
+
+[Mina]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mina
+// Mina
+patch=1,EE,11E2696A,extended,00000002
+
+[Corinne]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Corinne
+// Corinne
+patch=1,EE,D1E26976,extended,00100001
+
+[Corinne]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Corinne
+// Corinne
+patch=1,EE,11E26976,extended,00000002
+
+[Granny Rosa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Granny Rosa
+// Granny Rosa
+patch=1,EE,D1E26982,extended,00100001
+
+[Granny Rosa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Granny Rosa
+// Granny Rosa
+patch=1,EE,11E26982,extended,00000002

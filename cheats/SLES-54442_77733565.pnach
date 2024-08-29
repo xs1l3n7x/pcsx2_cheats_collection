@@ -1,0 +1,5407 @@
+gametitle=Guitar Hero II [SLES-54442] [77733565]
+
+[Guitar Hero Song Changes To Trippolette]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guitar Hero Song Changes To Trippolette
+// Guitar Hero Song Changes To Trippolette
+patch=1,EE,902F2C70,extended,00832021
+
+[Quick Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Max Score
+// Quick Max Score
+patch=1,EE,2010FA18,extended,3C014974
+
+[Quick Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Max Score
+// Quick Max Score
+patch=1,EE,2010FA20,extended,342123F0
+
+[Quick Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Max Score
+// Quick Max Score
+patch=1,EE,2010FA2C,extended,44810000
+
+[Score Gained x50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Score Gained x50
+// Score Gained x50
+patch=1,EE,2010FA14,extended,24020032
+
+[Score Gained x25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Score Gained x25
+// Score Gained x25
+patch=1,EE,2010FA14,extended,24020019
+
+[Score Gained x10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Score Gained x10
+// Score Gained x10
+patch=1,EE,2010FA14,extended,2402000A
+
+[Score Gained x5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Score Gained x5
+// Score Gained x5
+patch=1,EE,2010FA14,extended,24020004
+
+[Score Gained x4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Score Gained x4
+// Score Gained x4
+patch=1,EE,2010FA14,extended,24020004
+
+[Score Gained x3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Score Gained x3
+// Score Gained x3
+patch=1,EE,2010FA14,extended,24020003
+
+[Score Gained x2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Score Gained x2
+// Score Gained x2
+patch=1,EE,2010FA14,extended,24020002
+
+[Quick Max Bonus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Max Bonus
+// Quick Max Bonus
+patch=1,EE,2011F200,extended,2403001E
+
+[Miss One For Always Max Bonus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Miss One For Always Max Bonus
+// Miss One For Always Max Bonus
+patch=1,EE,200C0220,extended,2401001E
+
+[Miss One For Always Max Bonus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Miss One For Always Max Bonus
+// Miss One For Always Max Bonus
+patch=1,EE,200C0224,extended,03E00008
+
+[Miss One For Always Max Bonus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Miss One For Always Max Bonus
+// Miss One For Always Max Bonus
+patch=1,EE,200C0228,extended,AC810004
+
+[Miss One For Always Max Bonus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Miss One For Always Max Bonus
+// Miss One For Always Max Bonus
+patch=1,EE,2011F288,extended,08030088
+
+[Always Max Star Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Star Power
+// Always Max Star Power
+patch=1,EE,200C0230,extended,3C013F80
+
+[Always Max Star Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Star Power
+// Always Max Star Power
+patch=1,EE,200C0234,extended,03E00008
+
+[Always Max Star Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Star Power
+// Always Max Star Power
+patch=1,EE,200C0238,extended,AC610000
+
+[Always Max Star Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Star Power
+// Always Max Star Power
+patch=1,EE,20112AD8,extended,0803008C
+
+[Always Rock Great]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Rock Great
+// Always Rock Great
+patch=1,EE,20124D0C,extended,AC810008
+
+[Always Rock Great]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Rock Great
+// Always Rock Great
+patch=1,EE,20124DE4,extended,00000000
+
+[Infinite Cash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Cash
+// Infinite Cash
+patch=1,EE,10AAB4C4,extended,0000FFFF
+
+[Max Cash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cash
+// Max Cash
+patch=1,EE,20AAB4C4,extended,05F5E0FF
+
+[Buying Items Doesnt Decrease Cash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Items Doesnt Decrease Cash
+// Buying Items Doesnt Decrease Cash
+patch=1,EE,2013B9DC,extended,00000000
+
+[Buying Items Increases Cash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Items Increases Cash
+// Buying Items Increases Cash
+patch=1,EE,2013B9D8,extended,00531021
+
+[Performance Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Performance Mode
+// Performance Mode
+patch=1,EE,2059A024,extended,00000001
+
+[Flaming Head]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flaming Head
+// Flaming Head
+patch=1,EE,205F5714,extended,00000001
+
+[Eyeball Crowd Heads]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Eyeball Crowd Heads
+// Eyeball Crowd Heads
+patch=1,EE,205F87F4,extended,0054FEB6
+
+[Eyeball Crowd Heads]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Eyeball Crowd Heads
+// Eyeball Crowd Heads
+patch=1,EE,205F87F8,extended,00000001
+
+[Monkey Crowd Heads]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monkey Crowd Heads
+// Monkey Crowd Heads
+patch=1,EE,205F87F4,extended,0054FEE7
+
+[Monkey Crowd Heads]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monkey Crowd Heads
+// Monkey Crowd Heads
+patch=1,EE,205F87F8,extended,00000001
+
+[Hyper Speed Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hyper Speed Mode
+// Hyper Speed Mode
+patch=1,EE,2062D094,extended,00000001
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,2062C474,extended,00000001
+
+[Horse Head Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Horse Head Mode
+// Horse Head Mode
+patch=1,EE,2062D1B4,extended,00000001
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADC88,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADC8C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADC8E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADC98,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADC9C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADC9E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADCA8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADCAC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADCAE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADCB8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADCBC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADCBE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADCC8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADCCC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADCCE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADCD8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADCDC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADCDE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADCE8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADCEC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADCEE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADCF8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADCFC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADCFE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADD08,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADD0C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADD0E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADD18,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADD1C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADD1E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADD28,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADD2C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADD2E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADD38,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADD3C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADD3E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADD48,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADD4C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADD4E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADD58,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADD5C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADD5E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADD68,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADD6C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADD6E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADD78,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADD7C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADD7E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADD88,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADD8C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADD8E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADD98,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADD9C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADD9E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADDA8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADDAC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADDAE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADDB8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADDBC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADDBE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADDC8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADDCC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADDCE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADDD8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADDDC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADDDE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADDE8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADDEC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADDEE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADDF8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADDFC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADDFE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADE08,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADE0C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADE0E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADE18,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADE1C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADE1E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADE28,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADE2C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADE2E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADE38,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADE3C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADE3E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADE48,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADE4C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADE4E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADE58,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADE5C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADE5E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADE68,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADE6C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADE6E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADE78,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADE7C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADE7E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADE88,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADE8C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADE8E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADE98,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADE9C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADE9E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADEA8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADEAC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADEAE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADEB8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADEBC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADEBE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADEC8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADECC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADECE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADED8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADEDC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADEDE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADEE8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADEEC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADEEE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADEF8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADEFC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADEFE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADF08,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADF0C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADF0E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADF18,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADF1C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADF1E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADF28,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADF2C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADF2E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADF38,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADF3C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADF3E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADF48,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADF4C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADF4E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADF58,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADF5C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADF5E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADF68,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADF6C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADF6E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADF78,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADF7C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADF7E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADF88,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADF8C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADF8E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADF98,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADF9C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADF9E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADFA8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADFAC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADFAE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADFB8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADFBC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADFBE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADFC8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADFCC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADFCE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADFD8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADFDC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADFDE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADFE8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADFEC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADFEE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AADFF8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AADFFC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AADFFE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE008,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE00C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE00E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE018,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE01C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE01E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE028,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE02C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE02E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE038,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE03C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE03E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE048,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE04C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE04E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE058,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE05C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE05E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE068,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE06C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE06E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE078,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE07C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE07E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE088,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE08C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE08E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE128,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE12C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE12E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE138,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE13C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE13E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE148,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE14C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE14E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE158,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE15C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE15E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE168,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE16C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE16E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE178,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE17C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE17E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE188,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE18C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE18E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE198,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE19C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE19E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE1A8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE1AC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE1AE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE1B8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE1BC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE1BE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE1C8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE1CC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE1CE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE1D8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE1DC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE1DE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE1E8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE1EC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE1EE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE1F8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE1FC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE1FE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE208,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE20C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE20E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE218,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE21C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE21E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE228,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE22C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE22E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE238,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE23C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE23E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE248,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE24C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE24E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE258,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE25C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE25E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE268,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE26C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE26E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE278,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE27C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE27E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE288,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE28C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE28E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE298,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE29C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE29E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE2A8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE2AC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE2AE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE2B8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE2BC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE2BE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE2C8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE2CC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE2CE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE2D8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE2DC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE2DE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE2E8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE2EC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE2EE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE2F8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE2FC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE2FE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE308,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE30C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE30E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE318,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE31C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE31E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE328,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE32C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE32E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE338,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE33C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE33E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE348,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE34C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE34E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE358,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE35C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE35E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE368,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE36C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE36E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE378,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE37C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE37E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE388,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE38C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE38E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE398,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE39C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE39E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE3A8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE3AC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE3AE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE3B8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE3BC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE3BE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE3C8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE3CC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE3CE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE3D8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE3DC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE3DE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE3E8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE3EC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE3EE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE3F8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE3FC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE3FE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE408,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE40C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE40E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE418,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE41C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE41E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE428,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE42C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE42E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE438,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE43C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE43E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE448,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE44C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE44E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE458,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE45C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE45E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE468,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE46C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE46E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE478,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE47C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE47E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE488,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE48C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE48E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE498,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE49C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE49E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE4A8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE4AC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE4AE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE4B8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE4BC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE4BE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE4C8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE4CC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE4CE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE4D8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE4DC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE4DE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE4E8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE4EC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE4EE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE4F8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE4FC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE4FE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE508,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE50C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE50E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE518,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE51C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE51E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE528,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE52C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE52E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE5C8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE5CC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE5CE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE5D8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE5DC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE5DE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE5E8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE5EC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE5EE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE5F8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE5FC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE5FE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE608,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE60C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE60E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE618,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE61C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE61E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE628,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE62C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE62E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE638,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE63C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE63E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE648,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE64C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE64E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE658,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE65C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE65E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE668,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE66C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE66E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE678,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE67C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE67E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE688,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE68C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE68E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE698,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE69C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE69E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE6A8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE6AC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE6AE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE6B8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE6BC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE6BE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE6C8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE6CC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE6CE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE6D8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE6DC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE6DE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE6E8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE6EC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE6EE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE6F8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE6FC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE6FE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE708,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE70C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE70E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE718,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE71C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE71E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE728,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE72C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE72E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE738,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE73C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE73E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE748,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE74C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE74E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE758,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE75C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE75E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE768,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE76C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE76E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE778,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE77C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE77E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE788,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE78C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE78E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE798,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE79C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE79E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE7A8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE7AC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE7AE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE7B8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE7BC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE7BE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE7C8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE7CC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE7CE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE7D8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE7DC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE7DE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE7E8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE7EC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE7EE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE7F8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE7FC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE7FE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE808,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE80C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE80E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE818,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE81C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE81E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE828,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE82C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE82E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE838,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE83C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE83E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE848,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE84C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE84E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE858,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE85C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE85E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE868,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE86C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE86E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE878,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE87C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE87E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE888,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE88C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE88E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE898,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE89C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE89E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE8A8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE8AC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE8AE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE8B8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE8BC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE8BE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE8C8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE8CC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE8CE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE8D8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE8DC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE8DE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE8E8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE8EC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE8EE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE8F8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE8FC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE8FE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE908,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE90C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE90E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE918,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE91C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE91E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE928,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE92C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE92E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE938,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE93C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE93E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE948,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE94C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE94E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE958,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE95C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE95E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE968,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE96C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE96E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE978,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE97C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE97E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE988,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE98C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE98E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE998,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE99C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE99E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE9A8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE9AC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE9AE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE9B8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE9BC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE9BE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAE9C8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAE9CC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAE9CE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB618,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB61C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB61E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB628,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB62C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB62E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB638,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB63C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB63E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB648,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB64C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB64E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB658,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB65C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB65E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB668,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB66C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB66E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB678,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB67C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB67E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB688,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB68C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB68E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB698,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB69C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB69E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB6A8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB6AC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB6AE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB6B8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB6BC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB6BE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB6C8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB6CC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB6CE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB6D8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB6DC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB6DE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB6E8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB6EC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB6EE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB6F8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB6FC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB6FE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB708,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB70C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB70E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB718,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB71C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB71E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB728,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB72C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB72E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB738,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB73C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB73E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB748,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB74C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB74E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB758,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB75C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB75E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB768,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB76C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB76E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB778,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB77C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB77E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB788,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB78C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB78E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB798,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB79C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB79E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB7A8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB7AC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB7AE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB7B8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB7BC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB7BE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB7C8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB7CC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB7CE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB7D8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB7DC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB7DE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB7E8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB7EC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB7EE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB7F8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB7FC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB7FE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB808,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB80C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB80E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB818,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB81C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB81E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB828,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB82C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB82E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB838,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB83C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB83E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB848,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB84C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB84E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB858,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB85C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB85E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB868,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB86C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB86E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB878,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB87C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB87E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB888,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB88C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB88E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB898,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB89C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB89E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB8A8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB8AC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB8AE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB8B8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB8BC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB8BE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB8C8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB8CC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB8CE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB8D8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB8DC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB8DE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB8E8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB8EC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB8EE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB8F8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB8FC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB8FE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB908,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB90C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB90E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB918,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB91C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB91E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB928,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB92C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB92E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB938,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB93C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB93E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB948,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB94C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB94E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB958,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB95C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB95E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB968,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB96C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB96E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB978,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB97C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB97E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB988,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB98C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB98E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB998,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB99C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB99E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB9A8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB9AC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB9AE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB9B8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB9BC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB9BE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB9C8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB9CC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB9CE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB9D8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB9DC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB9DE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB9E8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB9EC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB9EE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AAB9F8,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AAB9FC,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AAB9FE,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AABA08,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AABA0C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AABA0E,extended,00000002
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20AABA18,extended,000F423F
+
+[Max Rating]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rating
+// Max Rating
+patch=1,EE,10AABA1C,extended,00000505
+
+[Unlock Song]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Song
+// Unlock Song
+patch=1,EE,70AABA1E,extended,00000002
+
+[Gibson Les Paul]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gibson Les Paul
+// Gibson Les Paul
+patch=1,EE,70AAE9EE,extended,00000002
+
+[Gibson SG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gibson SG
+// Gibson SG
+patch=1,EE,70AAE9FE,extended,00000002
+
+[Gibson Flying V]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gibson Flying V
+// Gibson Flying V
+patch=1,EE,70AAEA0E,extended,00000002
+
+[Gibson X-Plorer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gibson X-Plorer
+// Gibson X-Plorer
+patch=1,EE,70AAEA1E,extended,00000002
+
+[Gibson Les Paul Double Cutaway]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gibson Les Paul Double Cutaway
+// Gibson Les Paul Double Cutaway
+patch=1,EE,70AAEA2E,extended,00000002
+
+[Gibson Firebird]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gibson Firebird
+// Gibson Firebird
+patch=1,EE,70AAEA3E,extended,00000002
+
+[Epiphone Coronet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Epiphone Coronet
+// Epiphone Coronet
+patch=1,EE,70AAEA4E,extended,00000002
+
+[Kramer Vanguard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kramer Vanguard
+// Kramer Vanguard
+patch=1,EE,70AAEA5E,extended,00000002
+
+[Gibson Moderne]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gibson Moderne
+// Gibson Moderne
+patch=1,EE,70AAEA6E,extended,00000002
+
+[Gibson Corvus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gibson Corvus
+// Gibson Corvus
+patch=1,EE,70AAEA7E,extended,00000002
+
+[Gibson ES-335]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gibson ES-335
+// Gibson ES-335
+patch=1,EE,70AAEA8E,extended,00000002
+
+[Kramer 650]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kramer 650
+// Kramer 650
+patch=1,EE,70AAEA9E,extended,00000002
+
+[Gibson EDS-1275]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gibson EDS-1275
+// Gibson EDS-1275
+patch=1,EE,70AAEAAE,extended,00000002
+
+[Gibson Melody Maker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gibson Melody Maker
+// Gibson Melody Maker
+patch=1,EE,70AAEABE,extended,00000002
+
+[Gibson Sonex 180]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gibson Sonex 180
+// Gibson Sonex 180
+patch=1,EE,70AAEACE,extended,00000002
+
+[Gibson Marauder]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gibson Marauder
+// Gibson Marauder
+patch=1,EE,70AAEADE,extended,00000002
+
+[Epiphone Casino]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Epiphone Casino
+// Epiphone Casino
+patch=1,EE,70AAEAEE,extended,00000002
+
+[Epiphone Sheraton]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Epiphone Sheraton
+// Epiphone Sheraton
+patch=1,EE,70AAEAFE,extended,00000002
+
+[Gibson Chet Atkins Country Gentleman]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gibson Chet Atkins Country Gentleman
+// Gibson Chet Atkins Country Gentleman
+patch=1,EE,70AAEB0E,extended,00000002
+
+[The Fish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Fish
+// The Fish
+patch=1,EE,70AAEB1E,extended,00000002
+
+[The USA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The USA
+// The USA
+patch=1,EE,70AAEB2E,extended,00000002
+
+[The Coffin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Coffin
+// The Coffin
+patch=1,EE,70AAEB3E,extended,00000002
+
+[The Viking]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Viking
+// The Viking
+patch=1,EE,70AAEB4E,extended,00000002
+
+[The Snaketapus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Snaketapus
+// The Snaketapus
+patch=1,EE,70AAEB5E,extended,00000002
+
+[The Eyeball]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Eyeball
+// The Eyeball
+patch=1,EE,70AAEB6E,extended,00000002
+
+[The Battle Axe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Battle Axe
+// The Battle Axe
+patch=1,EE,70AAEB7E,extended,00000002
+
+[The Log]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Log
+// The Log
+patch=1,EE,70AAEB8E,extended,00000002
+
+[Cayenne Standard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cayenne Standard
+// Cayenne Standard
+patch=1,EE,70AAEC5E,extended,00000002
+
+[Rose Burst Goddess]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rose Burst Goddess
+// Rose Burst Goddess
+patch=1,EE,70AAEC6E,extended,00000002
+
+[Zakk Wylde Custom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zakk Wylde Custom
+// Zakk Wylde Custom
+patch=1,EE,70AAEC7E,extended,00000002
+
+[Worn White Special]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Worn White Special
+// Worn White Special
+patch=1,EE,70AAEC9E,extended,00000002
+
+[Candy Apple GT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Candy Apple GT
+// Candy Apple GT
+patch=1,EE,70AAECAE,extended,00000002
+
+[Custom Flame Finish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Custom Flame Finish
+// Custom Flame Finish
+patch=1,EE,70AAECBE,extended,00000002
+
+[Natural V2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Natural V2
+// Natural V2
+patch=1,EE,70AAECDE,extended,00000002
+
+[New Century Finish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=New Century Finish
+// New Century Finish
+patch=1,EE,70AAECEE,extended,00000002
+
+[Worn Cherry Finish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Worn Cherry Finish
+// Worn Cherry Finish
+patch=1,EE,70AAECFE,extended,00000002
+
+[Natural Finish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Natural Finish
+// Natural Finish
+patch=1,EE,70AAED1E,extended,00000002
+
+[Custom Rising Sun Finish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Custom Rising Sun Finish
+// Custom Rising Sun Finish
+patch=1,EE,70AAED2E,extended,00000002
+
+[Classic White Finish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Classic White Finish
+// Classic White Finish
+patch=1,EE,70AAED3E,extended,00000002
+
+[Custom Cherry Swirl Finish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Custom Cherry Swirl Finish
+// Custom Cherry Swirl Finish
+patch=1,EE,70AAED4E,extended,00000002
+
+[TV Yellow Finish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=TV Yellow Finish
+// TV Yellow Finish
+patch=1,EE,70AAED6E,extended,00000002
+
+[Custom Resin Finish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Custom Resin Finish
+// Custom Resin Finish
+patch=1,EE,70AAED7E,extended,00000002
+
+[Ice Blue Finish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Blue Finish
+// Ice Blue Finish
+patch=1,EE,70AAED9E,extended,00000002
+
+[Ebony Finish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ebony Finish
+// Ebony Finish
+patch=1,EE,70AAEDAE,extended,00000002
+
+[Custom Leopard Skin Finish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Custom Leopard Skin Finish
+// Custom Leopard Skin Finish
+patch=1,EE,70AAEDBE,extended,00000002
+
+[Cherry Finish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cherry Finish
+// Cherry Finish
+patch=1,EE,70AAEDDE,extended,00000002
+
+[Tobacco Burst Finish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tobacco Burst Finish
+// Tobacco Burst Finish
+patch=1,EE,70AAEDEE,extended,00000002
+
+[Green Finish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Green Finish
+// Green Finish
+patch=1,EE,70AAEDFE,extended,00000002
+
+[Yellow Finish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yellow Finish
+// Yellow Finish
+patch=1,EE,70AAEE1E,extended,00000002
+
+[Red Finish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Finish
+// Red Finish
+patch=1,EE,70AAEE3E,extended,00000002
+
+[Natural Finish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Natural Finish
+// Natural Finish
+patch=1,EE,70AAEE5E,extended,00000002
+
+[Custom Cherry Finish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Custom Cherry Finish
+// Custom Cherry Finish
+patch=1,EE,70AAEE7E,extended,00000002
+
+[White Finish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=White Finish
+// White Finish
+patch=1,EE,70AAEE9E,extended,00000002
+
+[Alpine White Finish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Alpine White Finish
+// Alpine White Finish
+patch=1,EE,70AAEEBE,extended,00000002
+
+[Johnny Napalm-Outfit 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Johnny Napalm-Outfit 1
+// Johnny Napalm-Outfit 1
+patch=1,EE,70AAF05E,extended,00000002
+
+[Johnny Napalm-Outfit 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Johnny Napalm-Outfit 2
+// Johnny Napalm-Outfit 2
+patch=1,EE,70AAF06E,extended,00000002
+
+[Johnny Napalm-Outfit 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Johnny Napalm-Outfit 3
+// Johnny Napalm-Outfit 3
+patch=1,EE,70AAF07E,extended,00000002
+
+[Judy Nails-Outfit 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Judy Nails-Outfit 1
+// Judy Nails-Outfit 1
+patch=1,EE,70AAF08E,extended,00000002
+
+[Judy Nails-Outfit 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Judy Nails-Outfit 2
+// Judy Nails-Outfit 2
+patch=1,EE,70AAF09E,extended,00000002
+
+[Judy Nails-Outfit 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Judy Nails-Outfit 3
+// Judy Nails-Outfit 3
+patch=1,EE,70AAF0AE,extended,00000002
+
+[Izzy Sparks-Outfit 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Izzy Sparks-Outfit 1
+// Izzy Sparks-Outfit 1
+patch=1,EE,70AAF0BE,extended,00000002
+
+[Izzy Sparks-Outfit 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Izzy Sparks-Outfit 2
+// Izzy Sparks-Outfit 2
+patch=1,EE,70AAF0CE,extended,00000002
+
+[Izzy Sparks-Outfit 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Izzy Sparks-Outfit 3
+// Izzy Sparks-Outfit 3
+patch=1,EE,70AAF0DE,extended,00000002
+
+[Pandora-Outfit 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pandora-Outfit 1
+// Pandora-Outfit 1
+patch=1,EE,70AAF0EE,extended,00000002
+
+[Pandora-Outfit 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pandora-Outfit 2
+// Pandora-Outfit 2
+patch=1,EE,70AAF0FE,extended,00000002
+
+[Pandora-Outfit 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pandora-Outfit 3
+// Pandora-Outfit 3
+patch=1,EE,70AAF10E,extended,00000002
+
+[Axel Steel-Outfit 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axel Steel-Outfit 1
+// Axel Steel-Outfit 1
+patch=1,EE,70AAF11E,extended,00000002
+
+[Axel Steel-Outfit 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axel Steel-Outfit 2
+// Axel Steel-Outfit 2
+patch=1,EE,70AAF12E,extended,00000002
+
+[Axel Steel-Outfit 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axel Steel-Outfit 3
+// Axel Steel-Outfit 3
+patch=1,EE,70AAF13E,extended,00000002
+
+[Eddie Knox-Outfit 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Eddie Knox-Outfit 1
+// Eddie Knox-Outfit 1
+patch=1,EE,70AAF14E,extended,00000002
+
+[Eddie Knox-Outfit 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Eddie Knox-Outfit 2
+// Eddie Knox-Outfit 2
+patch=1,EE,70AAF15E,extended,00000002
+
+[Eddie Knox-Outfit 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Eddie Knox-Outfit 3
+// Eddie Knox-Outfit 3
+patch=1,EE,70AAF16E,extended,00000002
+
+[Casey Lynch-Outfit 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Casey Lynch-Outfit 1
+// Casey Lynch-Outfit 1
+patch=1,EE,70AAF17E,extended,00000002
+
+[Casey Lynch-Outfit 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Casey Lynch-Outfit 2
+// Casey Lynch-Outfit 2
+patch=1,EE,70AAF18E,extended,00000002
+
+[Casey Lynch-Outfit 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Casey Lynch-Outfit 3
+// Casey Lynch-Outfit 3
+patch=1,EE,70AAF19E,extended,00000002
+
+[Lars Umlaut-Outfit 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lars Umlaut-Outfit 1
+// Lars Umlaut-Outfit 1
+patch=1,EE,70AAF1AE,extended,00000002
+
+[Lars Umlaut-Outfit 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lars Umlaut-Outfit 2
+// Lars Umlaut-Outfit 2
+patch=1,EE,70AAF1BE,extended,00000002
+
+[Lars Umlaut-Outfit 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lars Umlaut-Outfit 3
+// Lars Umlaut-Outfit 3
+patch=1,EE,70AAF1CE,extended,00000002
+
+[Clive Winston-Outfit 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Clive Winston-Outfit 1
+// Clive Winston-Outfit 1
+patch=1,EE,70AAF1DE,extended,00000002
+
+[Clive Winston-Outfit 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Clive Winston-Outfit 2
+// Clive Winston-Outfit 2
+patch=1,EE,70AAF1EE,extended,00000002
+
+[Xavier Stone-Outfit 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xavier Stone-Outfit 1
+// Xavier Stone-Outfit 1
+patch=1,EE,70AAF1FE,extended,00000002
+
+[Xavier Stone-Outfit 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Xavier Stone-Outfit 2
+// Xavier Stone-Outfit 2
+patch=1,EE,70AAF20E,extended,00000002
+
+[Grim Reaper-Outfit 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grim Reaper-Outfit 1
+// Grim Reaper-Outfit 1
+patch=1,EE,70AAF21E,extended,00000002
+
+[Grim Reaper-Outfit 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grim Reaper-Outfit 2
+// Grim Reaper-Outfit 2
+patch=1,EE,70AAF22E,extended,00000002
+
+[Guitar Hero II-Behind The Scenes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guitar Hero II-Behind The Scenes
+// Guitar Hero II-Behind The Scenes
+patch=1,EE,70AAF23E,extended,00000002
+
+[Guitar Hero II-Making Of Songs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guitar Hero II-Making Of Songs
+// Guitar Hero II-Making Of Songs
+patch=1,EE,70AAF24E,extended,00000002

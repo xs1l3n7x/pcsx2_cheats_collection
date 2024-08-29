@@ -1,0 +1,175 @@
+gametitle=Guilty Gear X [SLUS-20287] [861BFB2F]
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,901997F4,extended,0C068AE6
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,1056D034,extended,00001770
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,10539BFC,extended,0000FFFF
+
+[Max Score P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P1
+// Max Score P1
+patch=1,EE,20539BFC,extended,05F5E0FF
+
+[Quick Score Gain P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain P2
+// Quick Score Gain P2
+patch=1,EE,10539CBC,extended,0000FFFF
+
+[Max Score P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P2
+// Max Score P2
+patch=1,EE,20539CBC,extended,05F5E0FF
+
+[Always Full Tension Gauge P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Tension Gauge P1
+// Always Full Tension Gauge P1
+patch=1,EE,10539C90,extended,0000270F
+
+[Always Full Tension Gauge P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Tension Gauge P1
+// Always Full Tension Gauge P1
+patch=1,EE,10539D44,extended,0000270F
+
+[Always Empty Tension Gauge P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Empty Tension Gauge P1
+// Always Empty Tension Gauge P1
+patch=1,EE,10539C90,extended,00000000
+
+[Always Empty Tension Gauge P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Empty Tension Gauge P1
+// Always Empty Tension Gauge P1
+patch=1,EE,10539D44,extended,00000000
+
+[Always Full Tension Gauge P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Tension Gauge P2
+// Always Full Tension Gauge P2
+patch=1,EE,10539D50,extended,0000270F
+
+[Always Full Tension Gauge P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Tension Gauge P2
+// Always Full Tension Gauge P2
+patch=1,EE,10539E04,extended,0000270F
+
+[Always Empty Tension Gauge P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Empty Tension Gauge P2
+// Always Empty Tension Gauge P2
+patch=1,EE,10539D50,extended,00000000
+
+[Always Empty Tension Gauge P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Empty Tension Gauge P2
+// Always Empty Tension Gauge P2
+patch=1,EE,10539E04,extended,00000000
+
+[P1 Infinite Upward Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Infinite Upward Jumps
+// P1 Infinite Upward Jumps
+patch=1,EE,10539CE8,extended,00000101
+
+[P1 Cant Jump Very High]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Cant Jump Very High
+// P1 Cant Jump Very High
+patch=1,EE,10539CE8,extended,00000000
+
+[P2 Infinite Upward Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Infinite Upward Jumps
+// P2 Infinite Upward Jumps
+patch=1,EE,10539DA8,extended,00000101
+
+[P2 Cant Jump Very High]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Cant Jump Very High
+// P2 Cant Jump Very High
+patch=1,EE,10539DA8,extended,00000000
+
+[P1 Never Dizzy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Never Dizzy
+// P1 Never Dizzy
+patch=1,EE,10539CF6,extended,00000000
+
+[P1 Always Dizzy (Upon 1st Dizzy)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Always Dizzy (Upon 1st Dizzy)
+// P1 Always Dizzy (Upon 1st Dizzy)
+patch=1,EE,10539CF6,extended,000000E8
+
+[P2 Never Dizzy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Never Dizzy
+// P2 Never Dizzy
+patch=1,EE,10539DB6,extended,00000000
+
+[P2 Always Dizzy (Upon 1st Dizzy)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Always Dizzy (Upon 1st Dizzy)
+// P2 Always Dizzy (Upon 1st Dizzy)
+patch=1,EE,10539DB6,extended,000000E8
+
+[Always On Full Guard Break P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always On Full Guard Break P1
+// Always On Full Guard Break P1
+patch=1,EE,10539CAA,extended,00000000
+
+[Always On Weak Guard Break P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always On Weak Guard Break P1
+// Always On Weak Guard Break P1
+patch=1,EE,10539CAA,extended,00000080
+
+[Always On Full Guard Break P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always On Full Guard Break P2
+// Always On Full Guard Break P2
+patch=1,EE,10539D6A,extended,00000000
+
+[Always On Weak Guard Break P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always On Weak Guard Break P2
+// Always On Weak Guard Break P2
+patch=1,EE,10539D6A,extended,00000080
+
+[P1 Always Has Blue Trails]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Always Has Blue Trails
+// P1 Always Has Blue Trails
+patch=1,EE,10539C9A,extended,00000001
+
+[P2 Always Has Blue Trails]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Always Has Blue Trails
+// P2 Always Has Blue Trails
+patch=1,EE,10539D5A,extended,00000001
+
+[Max Level (Survivor Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Level (Survivor Mode)
+// Max Level (Survivor Mode)
+patch=1,EE,11DF3D00,extended,0000270F

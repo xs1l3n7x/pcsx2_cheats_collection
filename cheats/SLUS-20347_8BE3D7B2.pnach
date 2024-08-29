@@ -1,0 +1,775 @@
+gametitle=Shadow Hearts [SLUS-20347] [8BE3D7B2]
+
+[Always Low Clear Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Clear Time
+// Always Low Clear Time
+patch=1,EE,F0200008,extended,00213D3F
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,10100008,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,20100008,extended,0098967F
+
+[Hella Pedometer Steps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hella Pedometer Steps
+// Hella Pedometer Steps
+patch=1,EE,101015F8,extended,0000FFFF
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,101000CE,extended,00006363
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,401000D0,extended,001F0001
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,63636363,extended,00000000
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,0010014D,extended,00000063
+
+[Have All Valueables]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Valueables
+// Have All Valueables
+patch=1,EE,0010018F,extended,00000001
+
+[Have All Valueables]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Valueables
+// Have All Valueables
+patch=1,EE,40100190,extended,000E0001
+
+[Have All Valueables]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Valueables
+// Have All Valueables
+patch=1,EE,01010101,extended,00000000
+
+[Have All Souls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Souls
+// Have All Souls
+patch=1,EE,101001CE,extended,00000101
+
+[Have All Souls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Souls
+// Have All Souls
+patch=1,EE,401001D0,extended,00040001
+
+[Have All Souls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Souls
+// Have All Souls
+patch=1,EE,01010101,extended,00000000
+
+[Have All Souls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Souls
+// Have All Souls
+patch=1,EE,101001E0,extended,00000101
+
+[Have All Armors]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Armors
+// Have All Armors
+patch=1,EE,101000B2,extended,00000101
+
+[Have All Armors]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Armors
+// Have All Armors
+patch=1,EE,401000B4,extended,00050001
+
+[Have All Armors]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Armors
+// Have All Armors
+patch=1,EE,01010101,extended,00000000
+
+[Have All Armors]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Armors
+// Have All Armors
+patch=1,EE,101000C8,extended,00000101
+
+[Have All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Weapons
+// Have All Weapons
+patch=1,EE,40100080,extended,000C0001
+
+[Have All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Weapons
+// Have All Weapons
+patch=1,EE,01010101,extended,00000000
+
+[Have All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Weapons
+// Have All Weapons
+patch=1,EE,001000B0,extended,00000001
+
+[All Weapons Upgraded]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Weapons Upgraded
+// All Weapons Upgraded
+patch=1,EE,40101574,extended,00180001
+
+[All Weapons Upgraded]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Weapons Upgraded
+// All Weapons Upgraded
+patch=1,EE,03030303,extended,00000000
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,00100283,extended,00000063
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,10100286,extended,000003E7
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,10100288,extended,000003E7
+
+[Infinite SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite SP
+// Infinite SP
+patch=1,EE,1010028A,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,101002A0,extended,000003E7
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,101002A2,extended,000003E7
+
+[Max SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max SP
+// Max SP
+patch=1,EE,101002A4,extended,000003E7
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,1010028C,extended,0000FFFF
+
+[Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp
+// Max Exp
+patch=1,EE,2010028C,extended,05F5E0FF
+
+[Max Str]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Str
+// Max Str
+patch=1,EE,00100290,extended,000000FF
+
+[Max Vit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vit
+// Max Vit
+patch=1,EE,00100291,extended,000000FF
+
+[Max Agl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agl
+// Max Agl
+patch=1,EE,00100292,extended,000000FF
+
+[Max Int]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Int
+// Max Int
+patch=1,EE,00100293,extended,000000FF
+
+[Max Pow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pow
+// Max Pow
+patch=1,EE,00100294,extended,000000FF
+
+[Max Lck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Lck
+// Max Lck
+patch=1,EE,00100295,extended,000000FF
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,001002D3,extended,00000063
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,101002D6,extended,000003E7
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,101002D8,extended,000003E7
+
+[Infinite SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite SP
+// Infinite SP
+patch=1,EE,101002DA,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,101002F0,extended,000003E7
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,101002F2,extended,000003E7
+
+[Max SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max SP
+// Max SP
+patch=1,EE,101002F4,extended,000003E7
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,101002DC,extended,0000FFFF
+
+[Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp
+// Max Exp
+patch=1,EE,201002DC,extended,05F5E0FF
+
+[Max Str]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Str
+// Max Str
+patch=1,EE,001002E0,extended,000000FF
+
+[Max Vit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vit
+// Max Vit
+patch=1,EE,001002E1,extended,000000FF
+
+[Max Agl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agl
+// Max Agl
+patch=1,EE,001002E2,extended,000000FF
+
+[Max Int]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Int
+// Max Int
+patch=1,EE,001002E3,extended,000000FF
+
+[Max Pow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pow
+// Max Pow
+patch=1,EE,001002E4,extended,000000FF
+
+[Max Lck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Lck
+// Max Lck
+patch=1,EE,001002E5,extended,000000FF
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,00100323,extended,00000063
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,10100326,extended,000003E7
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,10100328,extended,000003E7
+
+[Infinite SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite SP
+// Infinite SP
+patch=1,EE,1010032A,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,10100340,extended,000003E7
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,10100342,extended,000003E7
+
+[Max SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max SP
+// Max SP
+patch=1,EE,10100344,extended,000003E7
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,1010032C,extended,0000FFFF
+
+[Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp
+// Max Exp
+patch=1,EE,2010032C,extended,05F5E0FF
+
+[Max Str]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Str
+// Max Str
+patch=1,EE,00100330,extended,000000FF
+
+[Max Vit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vit
+// Max Vit
+patch=1,EE,00100331,extended,000000FF
+
+[Max Agl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agl
+// Max Agl
+patch=1,EE,00100332,extended,000000FF
+
+[Max Int]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Int
+// Max Int
+patch=1,EE,00100333,extended,000000FF
+
+[Max Pow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pow
+// Max Pow
+patch=1,EE,00100334,extended,000000FF
+
+[Max Lck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Lck
+// Max Lck
+patch=1,EE,00100335,extended,000000FF
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,00100373,extended,00000063
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,10100376,extended,000003E7
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,10100378,extended,000003E7
+
+[Infinite SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite SP
+// Infinite SP
+patch=1,EE,1010037A,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,10100390,extended,000003E7
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,10100392,extended,000003E7
+
+[Max SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max SP
+// Max SP
+patch=1,EE,10100394,extended,000003E7
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,1010037C,extended,0000FFFF
+
+[Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp
+// Max Exp
+patch=1,EE,2010037C,extended,05F5E0FF
+
+[Max Str]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Str
+// Max Str
+patch=1,EE,00100380,extended,000000FF
+
+[Max Vit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vit
+// Max Vit
+patch=1,EE,00100381,extended,000000FF
+
+[Max Agl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agl
+// Max Agl
+patch=1,EE,00100382,extended,000000FF
+
+[Max Int]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Int
+// Max Int
+patch=1,EE,00100383,extended,000000FF
+
+[Max Pow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pow
+// Max Pow
+patch=1,EE,00100384,extended,000000FF
+
+[Max Lck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Lck
+// Max Lck
+patch=1,EE,00100385,extended,000000FF
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,001003C3,extended,00000063
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,101003C6,extended,000003E7
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,101003C8,extended,000003E7
+
+[Infinite SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite SP
+// Infinite SP
+patch=1,EE,101003CA,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,101003E0,extended,000003E7
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,101003E2,extended,000003E7
+
+[Max SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max SP
+// Max SP
+patch=1,EE,101003E4,extended,000003E7
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,101003CC,extended,0000FFFF
+
+[Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp
+// Max Exp
+patch=1,EE,201003CC,extended,05F5E0FF
+
+[Max Str]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Str
+// Max Str
+patch=1,EE,001003D0,extended,000000FF
+
+[Max Vit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vit
+// Max Vit
+patch=1,EE,001003D1,extended,000000FF
+
+[Max Agl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agl
+// Max Agl
+patch=1,EE,001003D2,extended,000000FF
+
+[Max Int]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Int
+// Max Int
+patch=1,EE,001003D3,extended,000000FF
+
+[Max Pow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pow
+// Max Pow
+patch=1,EE,001003D4,extended,000000FF
+
+[Max Lck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Lck
+// Max Lck
+patch=1,EE,001003D5,extended,000000FF
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,00100413,extended,00000063
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,10100416,extended,000003E7
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,10100418,extended,000003E7
+
+[Infinite SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite SP
+// Infinite SP
+patch=1,EE,1010041A,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,10100430,extended,000003E7
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,10100432,extended,000003E7
+
+[Max SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max SP
+// Max SP
+patch=1,EE,10100434,extended,000003E7
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,1010041C,extended,0000FFFF
+
+[Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp
+// Max Exp
+patch=1,EE,2010041C,extended,05F5E0FF
+
+[Max Str]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Str
+// Max Str
+patch=1,EE,00100420,extended,000000FF
+
+[Max Vit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vit
+// Max Vit
+patch=1,EE,00100421,extended,000000FF
+
+[Max Agl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agl
+// Max Agl
+patch=1,EE,00100422,extended,000000FF
+
+[Max Int]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Int
+// Max Int
+patch=1,EE,00100423,extended,000000FF
+
+[Max Pow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pow
+// Max Pow
+patch=1,EE,00100424,extended,000000FF
+
+[Max Lck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Lck
+// Max Lck
+patch=1,EE,00100425,extended,000000FF
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,00100463,extended,00000063
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,10100466,extended,000003E7
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,10100468,extended,000003E7
+
+[Infinite SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite SP
+// Infinite SP
+patch=1,EE,1010046A,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,10100480,extended,000003E7
+
+[Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MP
+// Max MP
+patch=1,EE,10100482,extended,000003E7
+
+[Max SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max SP
+// Max SP
+patch=1,EE,10100484,extended,000003E7
+
+[Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain
+// Quick Exp Gain
+patch=1,EE,1010046C,extended,0000FFFF
+
+[Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Exp
+// Max Exp
+patch=1,EE,2010046C,extended,05F5E0FF
+
+[Max Str]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Str
+// Max Str
+patch=1,EE,00100470,extended,000000FF
+
+[Max Vit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vit
+// Max Vit
+patch=1,EE,00100471,extended,000000FF
+
+[Max Agl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agl
+// Max Agl
+patch=1,EE,00100472,extended,000000FF
+
+[Max Int]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Int
+// Max Int
+patch=1,EE,00100473,extended,000000FF
+
+[Max Pow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pow
+// Max Pow
+patch=1,EE,00100474,extended,000000FF
+
+[Max Lck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Lck
+// Max Lck
+patch=1,EE,00100475,extended,000000FF

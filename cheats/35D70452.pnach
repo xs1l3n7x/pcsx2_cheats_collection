@@ -1,0 +1,73 @@
+gametitle=Castlevania [UNKNOWN] [35D70452]
+
+[Infinite Lives]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Lives
+// Infinite Lives
+patch=1,EE,00648D30,extended,00000063
+
+[All Levels]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Levels
+// All Levels
+patch=1,EE,105A6D8C,extended,000000FF
+
+[All Levels]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Levels
+// All Levels
+patch=1,EE,105A6D90,extended,000000FF
+
+[All Levels]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Levels
+// All Levels
+patch=1,EE,105A6D94,extended,000000FF
+
+[All Levels]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Levels
+// All Levels
+patch=1,EE,105A6D98,extended,000000FF
+
+[All Secret Levels]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Secret Levels
+// All Secret Levels
+patch=1,EE,005A6D9C,extended,000000FF
+
+[Unlock All The Powers]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock All The Powers
+// Unlock All The Powers
+patch=1,EE,005A717E,extended,000000FF
+
+[All Secret Items]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Secret Items
+// All Secret Items
+patch=1,EE,005A6E9C,extended,0000003A
+
+[All Secret Items]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Secret Items
+// All Secret Items
+patch=1,EE,005A7094,extended,0000003A
+
+[All Secret Items]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Secret Items
+// All Secret Items
+patch=1,EE,005A70B0,extended,0000003A
+
+[All Secret Items]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Secret Items
+// All Secret Items
+patch=1,EE,005A70CC,extended,0000003A
+
+[All Secret Items]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Secret Items
+// All Secret Items
+patch=1,EE,005A7120,extended,0000003A

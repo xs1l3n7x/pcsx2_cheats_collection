@@ -1,0 +1,325 @@
+gametitle=Gungriffon Blaze [SLUS-20080] [D1E24531]
+
+[Max Jackpot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Jackpot
+// Max Jackpot
+patch=1,EE,9026F408,extended,0C09D483
+
+[Have All Weapons Systems]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Weapons Systems
+// Have All Weapons Systems
+patch=1,EE,203D9A40,extended,FFFFFFFF
+
+[Have All Weapons Systems]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Weapons Systems
+// Have All Weapons Systems
+patch=1,EE,103D9A44,extended,0000FFFF
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0220,extended,3C014596
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0224,extended,AE210440
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0228,extended,03E00008
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C022C,extended,C6210440
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,D042D826,extended,00004481
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2042D828,extended,0C030088
+
+[Infinite Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Jumps
+// Infinite Jumps
+patch=1,EE,200C0230,extended,3C014396
+
+[Infinite Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Jumps
+// Infinite Jumps
+patch=1,EE,200C0234,extended,AE410418
+
+[Infinite Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Jumps
+// Infinite Jumps
+patch=1,EE,200C0238,extended,08081E8E
+
+[Infinite Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Jumps
+// Infinite Jumps
+patch=1,EE,200C023C,extended,C64C0418
+
+[Infinite Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Jumps
+// Infinite Jumps
+patch=1,EE,D042E986,extended,0000A222
+
+[Infinite Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Jumps
+// Infinite Jumps
+patch=1,EE,2042E988,extended,0C03008C
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,D041B9F4,extended,0000202D
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,2041BA00,extended,00000000
+
+[Max Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo
+// Max Infinite Ammo
+patch=1,EE,D041B9F4,extended,0000202D
+
+[Max Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo
+// Max Infinite Ammo
+patch=1,EE,2041B9FC,extended,240303E7
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,204886C8,extended,05F5E0FF
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,204886F8,extended,00000000
+
+[Infinite CH Missile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite CH Missile
+// Infinite CH Missile
+patch=1,EE,104464C4,extended,00000009
+
+[Infinite MS Bomb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MS Bomb
+// Infinite MS Bomb
+patch=1,EE,104464C6,extended,00000009
+
+[Infinite NP Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite NP Gun
+// Infinite NP Gun
+patch=1,EE,104464C8,extended,00000009
+
+[Infinite Rocket Pod]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Rocket Pod
+// Infinite Rocket Pod
+patch=1,EE,104464CA,extended,00000009
+
+[Infinite AT Missile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite AT Missile
+// Infinite AT Missile
+patch=1,EE,104464CC,extended,00000009
+
+[Infinite Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Gun
+// Infinite Gun
+patch=1,EE,104464CE,extended,00000009
+
+[Infinite MG Version 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MG Version 1
+// Infinite MG Version 1
+patch=1,EE,104464D0,extended,00000009
+
+[Infinite S Shotgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite S Shotgun
+// Infinite S Shotgun
+patch=1,EE,104464D2,extended,00000009
+
+[Infinite Grenade Version 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Grenade Version 1
+// Infinite Grenade Version 1
+patch=1,EE,104464D4,extended,00000009
+
+[Infinite Grenade Version 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Grenade Version 2
+// Infinite Grenade Version 2
+patch=1,EE,104464D6,extended,00000009
+
+[Infinite Hyper Grenade]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Hyper Grenade
+// Infinite Hyper Grenade
+patch=1,EE,104464D8,extended,00000009
+
+[Infinite Shotgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Shotgun
+// Infinite Shotgun
+patch=1,EE,104464DA,extended,00000009
+
+[Infinite Power MG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Power MG
+// Infinite Power MG
+patch=1,EE,104464DC,extended,00000009
+
+[Infinite SS Rocket Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite SS Rocket Gun
+// Infinite SS Rocket Gun
+patch=1,EE,104464DE,extended,00000009
+
+[Infinite MG Version 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MG Version 2
+// Infinite MG Version 2
+patch=1,EE,104464E0,extended,00000009
+
+[Infinite MG Version 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MG Version 3
+// Infinite MG Version 3
+patch=1,EE,104464E2,extended,00000009
+
+[Infinite HH Missile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HH Missile
+// Infinite HH Missile
+patch=1,EE,104464E4,extended,00000009
+
+[Infinite Fuel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Fuel
+// Infinite Fuel
+patch=1,EE,104464E6,extended,00000009
+
+[Infinite Firepower 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Firepower 1
+// Infinite Firepower 1
+patch=1,EE,104466C4,extended,00000009
+
+[Infinite Super Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Super Reload
+// Infinite Super Reload
+patch=1,EE,104466C6,extended,00000009
+
+[Infinite Flash Roll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Flash Roll
+// Infinite Flash Roll
+patch=1,EE,104466C8,extended,00000009
+
+[Infinite Advance Armor 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Advance Armor 2
+// Infinite Advance Armor 2
+patch=1,EE,104466CA,extended,00000009
+
+[Infinite Wheel Adaptor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Wheel Adaptor
+// Infinite Wheel Adaptor
+patch=1,EE,104466CC,extended,00000009
+
+[Infinite Super Zoom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Super Zoom
+// Infinite Super Zoom
+patch=1,EE,104466CE,extended,00000009
+
+[Infinite Hyper Zoom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Hyper Zoom
+// Infinite Hyper Zoom
+patch=1,EE,104466D0,extended,00000009
+
+[Infinite IG System]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite IG System
+// Infinite IG System
+patch=1,EE,104466D2,extended,00000009
+
+[Infinite Jump Regulator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Jump Regulator
+// Infinite Jump Regulator
+patch=1,EE,104466D4,extended,00000009
+
+[Infinite Firepower M]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Firepower M
+// Infinite Firepower M
+patch=1,EE,104466D6,extended,00000009
+
+[Infinite Advance Armor M]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Advance Armor M
+// Infinite Advance Armor M
+patch=1,EE,104466D8,extended,00000009
+
+[Infinite Firepower 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Firepower 2
+// Infinite Firepower 2
+patch=1,EE,104466DA,extended,00000009
+
+[Infinite Advance Armor 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Advance Armor 1
+// Infinite Advance Armor 1
+patch=1,EE,104466DC,extended,00000009
+
+[Infinite Quick Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Quick Reload
+// Infinite Quick Reload
+patch=1,EE,104466DE,extended,00000009
+
+[Infinite Hyper Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Hyper Reload
+// Infinite Hyper Reload
+patch=1,EE,104466E0,extended,00000009

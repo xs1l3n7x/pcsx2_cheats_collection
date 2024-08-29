@@ -1,0 +1,1039 @@
+gametitle=Flatout 2 [SLES-54002] [3F0452DE]
+
+[Clown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Clown
+// Clown
+patch=1,EE,902C0228,extended,0C0F9C30
+
+[Infinite Nitro Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Nitro Usage
+// Infinite Nitro Usage
+patch=1,EE,2010E34C,extended,00000000
+
+[Max Infinite Nitro]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Nitro
+// Max Infinite Nitro
+patch=1,EE,20110F3C,extended,3C0140A0
+
+[Max Infinite Nitro]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Nitro
+// Max Infinite Nitro
+patch=1,EE,20110F44,extended,AD810284
+
+[Always Low Lap Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Lap Time
+// Always Low Lap Time
+patch=1,EE,201A6DA4,extended,AC80106C
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,D0DB8EE8,extended,00000000
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,20DB8EE8,extended,00000001
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,D0DB8EE8,extended,00000000
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,20DB8EE8,extended,00000003
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,00CA8781,extended,000000FF
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,00CA8782,extended,000000FF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,00CA8781,extended,000000FF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,10CA8782,extended,0000F5E0
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,00CA8784,extended,00000005
+
+[Buying Cars Doesnt Decrease Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Cars Doesnt Decrease Money
+// Buying Cars Doesnt Decrease Money
+patch=1,EE,201ACAA0,extended,00000000
+
+[Buying Cars Doesnt Decrease Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Cars Doesnt Decrease Money
+// Buying Cars Doesnt Decrease Money
+patch=1,EE,201ACAA4,extended,00000000
+
+[Buying Cars Increases Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Cars Increases Money
+// Buying Cars Increases Money
+patch=1,EE,201ACA9C,extended,00471021
+
+[Buying Upgrades Doesnt Decrease Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Upgrades Doesnt Decrease Money
+// Buying Upgrades Doesnt Decrease Money
+patch=1,EE,201ACB20,extended,00000000
+
+[Buying Upgrades Doesnt Decrease Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Upgrades Doesnt Decrease Money
+// Buying Upgrades Doesnt Decrease Money
+patch=1,EE,201ACB24,extended,00000000
+
+[Buying Upgrades Increases Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Upgrades Increases Money
+// Buying Upgrades Increases Money
+patch=1,EE,201ACB1C,extended,00471021
+
+[Unlock All Races]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Races
+// Unlock All Races
+patch=1,EE,20184928,extended,AC850510
+
+[Unlock All Races]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Races
+// Unlock All Races
+patch=1,EE,2018492C,extended,24010001
+
+[Unlock All Races]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Races
+// Unlock All Races
+patch=1,EE,20184950,extended,AC410068
+
+[Have All Races Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Races Completed
+// Have All Races Completed
+patch=1,EE,20184978,extended,AC850510
+
+[Have All Races Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Races Completed
+// Have All Races Completed
+patch=1,EE,2018497C,extended,24010001
+
+[Have All Races Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Races Completed
+// Have All Races Completed
+patch=1,EE,201849A0,extended,AC41006C
+
+[Have All Cups/Events Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Cups/Events Completed
+// Have All Cups/Events Completed
+patch=1,EE,40CAC3C0,extended,000D0001
+
+[Have All Cups/Events Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Cups/Events Completed
+// Have All Cups/Events Completed
+patch=1,EE,01010101,extended,00000000
+
+[Have All Cups/Events Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Cups/Events Completed
+// Have All Cups/Events Completed
+patch=1,EE,10CAC3F4,extended,00000101
+
+[Derby Class-Chili]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Derby Class-Chili
+// Derby Class-Chili
+patch=1,EE,00CABE60,extended,00000000
+
+[Derby Class-Malice]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Derby Class-Malice
+// Derby Class-Malice
+patch=1,EE,00CABE7D,extended,00000000
+
+[Derby Class-Roamer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Derby Class-Roamer
+// Derby Class-Roamer
+patch=1,EE,00CABE9A,extended,00000000
+
+[Derby Class-Shaker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Derby Class-Shaker
+// Derby Class-Shaker
+patch=1,EE,00CABEB7,extended,00000000
+
+[Derby Class-Blaster XL]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Derby Class-Blaster XL
+// Derby Class-Blaster XL
+patch=1,EE,00CABED4,extended,00000000
+
+[Derby Class-Banger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Derby Class-Banger
+// Derby Class-Banger
+patch=1,EE,00CABEF1,extended,00000000
+
+[Derby Class-Splitter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Derby Class-Splitter
+// Derby Class-Splitter
+patch=1,EE,00CABF0E,extended,00000000
+
+[Derby Class-Switchblade]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Derby Class-Switchblade
+// Derby Class-Switchblade
+patch=1,EE,00CABF2B,extended,00000000
+
+[Derby Class-Venom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Derby Class-Venom
+// Derby Class-Venom
+patch=1,EE,00CABF48,extended,00000000
+
+[Race Class-CTR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Class-CTR
+// Race Class-CTR
+patch=1,EE,00CABF65,extended,00000000
+
+[Race Class-Boxer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Class-Boxer
+// Race Class-Boxer
+patch=1,EE,00CABF82,extended,00000000
+
+[Race Class-Mad Rash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Class-Mad Rash
+// Race Class-Mad Rash
+patch=1,EE,00CABF9F,extended,00000000
+
+[Race Class-Nevada]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Class-Nevada
+// Race Class-Nevada
+patch=1,EE,00CABFBC,extended,00000000
+
+[Race Class-Lancea]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Class-Lancea
+// Race Class-Lancea
+patch=1,EE,00CABFD9,extended,00000000
+
+[Race Class-Fortune]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Class-Fortune
+// Race Class-Fortune
+patch=1,EE,00CABFF6,extended,00000000
+
+[Race Class-Daytana]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Class-Daytana
+// Race Class-Daytana
+patch=1,EE,00CAC013,extended,00000000
+
+[Race Class-Bullet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Class-Bullet
+// Race Class-Bullet
+patch=1,EE,00CAC030,extended,00000000
+
+[Race Class-Lentus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Class-Lentus
+// Race Class-Lentus
+patch=1,EE,00CAC04D,extended,00000000
+
+[Race Class-Ventura]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Class-Ventura
+// Race Class-Ventura
+patch=1,EE,00CAC06A,extended,00000000
+
+[Race Class-Insetta]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Class-Insetta
+// Race Class-Insetta
+patch=1,EE,00CAC087,extended,00000000
+
+[Street Class-Chili Pepper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Chili Pepper
+// Street Class-Chili Pepper
+patch=1,EE,00CAC0A4,extended,00000000
+
+[Street Class-Scorpion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Scorpion
+// Street Class-Scorpion
+patch=1,EE,00CAC0C1,extended,00000000
+
+[Street Class-Insetta Sport]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Insetta Sport
+// Street Class-Insetta Sport
+patch=1,EE,00CAC0DE,extended,00000000
+
+[Street Class-Sparrowhawk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Sparrowhawk
+// Street Class-Sparrowhawk
+patch=1,EE,00CAC0FB,extended,00000000
+
+[Street Class-Crusader]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Crusader
+// Street Class-Crusader
+patch=1,EE,00CAC118,extended,00000000
+
+[Street Class-CTR Sport]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-CTR Sport
+// Street Class-CTR Sport
+patch=1,EE,00CAC135,extended,00000000
+
+[Street Class-Vexter XS]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Vexter XS
+// Street Class-Vexter XS
+patch=1,EE,00CAC152,extended,00000000
+
+[Street Class-Speedshifter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Speedshifter
+// Street Class-Speedshifter
+patch=1,EE,00CAC16F,extended,00000000
+
+[Street Class-Canyon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Canyon
+// Street Class-Canyon
+patch=1,EE,00CAC18C,extended,00000000
+
+[Street Class-Terrator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Terrator
+// Street Class-Terrator
+patch=1,EE,00CAC1A9,extended,00000000
+
+[Street Class-Sunray]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Sunray
+// Street Class-Sunray
+patch=1,EE,00CAC1C6,extended,00000000
+
+[Street Class-Speedevil]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Speedevil
+// Street Class-Speedevil
+patch=1,EE,00CAC1E3,extended,00000000
+
+[Street Class-Road King]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Road King
+// Street Class-Road King
+patch=1,EE,00CAC200,extended,00000000
+
+[Street Class-Bullet GT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Bullet GT
+// Street Class-Bullet GT
+patch=1,EE,00CAC21D,extended,00000000
+
+[Starflight]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Starflight
+// Starflight
+patch=1,EE,00CAC23A,extended,00000000
+
+[Trailblazer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trailblazer
+// Trailblazer
+patch=1,EE,00CAC257,extended,00000000
+
+[Afterburner]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Afterburner
+// Afterburner
+patch=1,EE,00CAC274,extended,00000000
+
+[Rocket]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rocket
+// Rocket
+patch=1,EE,00CAC291,extended,00000000
+
+[Nucleon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nucleon
+// Nucleon
+patch=1,EE,00CAC2AE,extended,00000000
+
+[Pimpster]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pimpster
+// Pimpster
+patch=1,EE,00CAC2CB,extended,00000000
+
+[Flatmobile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flatmobile
+// Flatmobile
+patch=1,EE,00CAC2E8,extended,00000000
+
+[Mob Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mob Car
+// Mob Car
+patch=1,EE,00CAC305,extended,00000000
+
+[School Bus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=School Bus
+// School Bus
+patch=1,EE,00CAC322,extended,00000000
+
+[Rocket]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rocket
+// Rocket
+patch=1,EE,00CAC33F,extended,00000000
+
+[Truck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Truck
+// Truck
+patch=1,EE,00CAC35C,extended,00000000
+
+[Derby Class-Chili]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Derby Class-Chili
+// Derby Class-Chili
+patch=1,EE,00CABE64,extended,00000001
+
+[Derby Class-Malice]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Derby Class-Malice
+// Derby Class-Malice
+patch=1,EE,00CABE81,extended,00000001
+
+[Derby Class-Roamer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Derby Class-Roamer
+// Derby Class-Roamer
+patch=1,EE,00CABE9E,extended,00000001
+
+[Derby Class-Shaker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Derby Class-Shaker
+// Derby Class-Shaker
+patch=1,EE,00CABEBB,extended,00000001
+
+[Derby Class-Blaster XL]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Derby Class-Blaster XL
+// Derby Class-Blaster XL
+patch=1,EE,00CABED8,extended,00000001
+
+[Derby Class-Banger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Derby Class-Banger
+// Derby Class-Banger
+patch=1,EE,00CABEF5,extended,00000001
+
+[Derby Class-Splitter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Derby Class-Splitter
+// Derby Class-Splitter
+patch=1,EE,00CABF12,extended,00000001
+
+[Derby Class-Switchblade]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Derby Class-Switchblade
+// Derby Class-Switchblade
+patch=1,EE,00CABF2F,extended,00000001
+
+[Derby Class-Venom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Derby Class-Venom
+// Derby Class-Venom
+patch=1,EE,00CABF4C,extended,00000001
+
+[Race Class-CTR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Class-CTR
+// Race Class-CTR
+patch=1,EE,00CABF69,extended,00000001
+
+[Race Class-Boxer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Class-Boxer
+// Race Class-Boxer
+patch=1,EE,00CABF86,extended,00000001
+
+[Race Class-Mad Rash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Class-Mad Rash
+// Race Class-Mad Rash
+patch=1,EE,00CABFA3,extended,00000001
+
+[Race Class-Nevada]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Class-Nevada
+// Race Class-Nevada
+patch=1,EE,00CABFC0,extended,00000001
+
+[Race Class-Lancea]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Class-Lancea
+// Race Class-Lancea
+patch=1,EE,00CABFDD,extended,00000001
+
+[Race Class-Fortune]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Class-Fortune
+// Race Class-Fortune
+patch=1,EE,00CABFFA,extended,00000001
+
+[Race Class-Daytana]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Class-Daytana
+// Race Class-Daytana
+patch=1,EE,00CAC017,extended,00000001
+
+[Race Class-Bullet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Class-Bullet
+// Race Class-Bullet
+patch=1,EE,00CAC034,extended,00000001
+
+[Race Class-Lentus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Class-Lentus
+// Race Class-Lentus
+patch=1,EE,00CAC051,extended,00000001
+
+[Race Class-Ventura]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Class-Ventura
+// Race Class-Ventura
+patch=1,EE,00CAC06E,extended,00000001
+
+[Race Class-Insetta]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Race Class-Insetta
+// Race Class-Insetta
+patch=1,EE,00CAC08B,extended,00000001
+
+[Street Class-Chili Pepper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Chili Pepper
+// Street Class-Chili Pepper
+patch=1,EE,00CAC0A8,extended,00000001
+
+[Street Class-Scorpion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Scorpion
+// Street Class-Scorpion
+patch=1,EE,00CAC0C5,extended,00000001
+
+[Street Class-Insetta Sport]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Insetta Sport
+// Street Class-Insetta Sport
+patch=1,EE,00CAC0E2,extended,00000001
+
+[Street Class-Sparrowhawk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Sparrowhawk
+// Street Class-Sparrowhawk
+patch=1,EE,00CAC0FF,extended,00000001
+
+[Street Class-Crusader]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Crusader
+// Street Class-Crusader
+patch=1,EE,00CAC11C,extended,00000001
+
+[Street Class-CTR Sport]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-CTR Sport
+// Street Class-CTR Sport
+patch=1,EE,00CAC139,extended,00000001
+
+[Street Class-Vexter XS]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Vexter XS
+// Street Class-Vexter XS
+patch=1,EE,00CAC156,extended,00000001
+
+[Street Class-Speedshifter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Speedshifter
+// Street Class-Speedshifter
+patch=1,EE,00CAC173,extended,00000001
+
+[Street Class-Canyon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Canyon
+// Street Class-Canyon
+patch=1,EE,00CAC190,extended,00000001
+
+[Street Class-Terrator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Terrator
+// Street Class-Terrator
+patch=1,EE,00CAC1AD,extended,00000001
+
+[Street Class-Sunray]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Sunray
+// Street Class-Sunray
+patch=1,EE,00CAC1CA,extended,00000001
+
+[Street Class-Speedevil]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Speedevil
+// Street Class-Speedevil
+patch=1,EE,00CAC1E7,extended,00000001
+
+[Street Class-Road King]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Road King
+// Street Class-Road King
+patch=1,EE,00CAC204,extended,00000001
+
+[Street Class-Bullet GT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Street Class-Bullet GT
+// Street Class-Bullet GT
+patch=1,EE,00CAC221,extended,00000001
+
+[Starflight]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Starflight
+// Starflight
+patch=1,EE,00CAC23E,extended,00000001
+
+[Trailblazer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trailblazer
+// Trailblazer
+patch=1,EE,00CAC25B,extended,00000001
+
+[Afterburner]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Afterburner
+// Afterburner
+patch=1,EE,00CAC278,extended,00000001
+
+[Rocket]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rocket
+// Rocket
+patch=1,EE,00CAC295,extended,00000001
+
+[Nucleon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nucleon
+// Nucleon
+patch=1,EE,00CAC2B2,extended,00000001
+
+[Pimpster]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pimpster
+// Pimpster
+patch=1,EE,00CAC2CF,extended,00000001
+
+[Flatmobile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flatmobile
+// Flatmobile
+patch=1,EE,00CAC2EC,extended,00000001
+
+[Mob Car]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mob Car
+// Mob Car
+patch=1,EE,00CAC309,extended,00000001
+
+[School Bus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=School Bus
+// School Bus
+patch=1,EE,00CAC326,extended,00000001
+
+[Rocket]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rocket
+// Rocket
+patch=1,EE,00CAC343,extended,00000001
+
+[Truck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Truck
+// Truck
+patch=1,EE,00CAC360,extended,00000001
+
+[Cup 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 1
+// Cup 1
+patch=1,EE,00CAC3C0,extended,00000001
+
+[Cup 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 2
+// Cup 2
+patch=1,EE,00CAC3C1,extended,00000001
+
+[Cup 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 3
+// Cup 3
+patch=1,EE,00CAC3C2,extended,00000001
+
+[Cup 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 4
+// Cup 4
+patch=1,EE,00CAC3C3,extended,00000001
+
+[Cup 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 5
+// Cup 5
+patch=1,EE,00CAC3C4,extended,00000001
+
+[Cup 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 6
+// Cup 6
+patch=1,EE,00CAC3C5,extended,00000001
+
+[Cup 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 7
+// Cup 7
+patch=1,EE,00CAC3C6,extended,00000001
+
+[Cup 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 8
+// Cup 8
+patch=1,EE,00CAC3C7,extended,00000001
+
+[Event 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 1
+// Event 1
+patch=1,EE,00CAC3C8,extended,00000001
+
+[Event 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 2
+// Event 2
+patch=1,EE,00CAC3C9,extended,00000001
+
+[Event 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 3
+// Event 3
+patch=1,EE,00CAC3CA,extended,00000001
+
+[Event 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 4
+// Event 4
+patch=1,EE,00CAC3CB,extended,00000001
+
+[Event 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 5
+// Event 5
+patch=1,EE,00CAC3CC,extended,00000001
+
+[Event 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 6
+// Event 6
+patch=1,EE,00CAC3CD,extended,00000001
+
+[Event 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 7
+// Event 7
+patch=1,EE,00CAC3CE,extended,00000001
+
+[Event 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 8
+// Event 8
+patch=1,EE,00CAC3CF,extended,00000001
+
+[Cup 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 1
+// Cup 1
+patch=1,EE,00CAC3D0,extended,00000001
+
+[Cup 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 2
+// Cup 2
+patch=1,EE,00CAC3D1,extended,00000001
+
+[Cup 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 3
+// Cup 3
+patch=1,EE,00CAC3D2,extended,00000001
+
+[Cup 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 4
+// Cup 4
+patch=1,EE,00CAC3D3,extended,00000001
+
+[Cup 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 5
+// Cup 5
+patch=1,EE,00CAC3D4,extended,00000001
+
+[Cup 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 6
+// Cup 6
+patch=1,EE,00CAC3D5,extended,00000001
+
+[Cup 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 7
+// Cup 7
+patch=1,EE,00CAC3D6,extended,00000001
+
+[Cup 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 8
+// Cup 8
+patch=1,EE,00CAC3D7,extended,00000001
+
+[Cup 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 9
+// Cup 9
+patch=1,EE,00CAC3D8,extended,00000001
+
+[Event 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 1
+// Event 1
+patch=1,EE,00CAC3D9,extended,00000001
+
+[Event 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 2
+// Event 2
+patch=1,EE,00CAC3DA,extended,00000001
+
+[Event 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 3
+// Event 3
+patch=1,EE,00CAC3DB,extended,00000001
+
+[Event 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 4
+// Event 4
+patch=1,EE,00CAC3DC,extended,00000001
+
+[Event 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 5
+// Event 5
+patch=1,EE,00CAC3DD,extended,00000001
+
+[Event 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 6
+// Event 6
+patch=1,EE,00CAC3DE,extended,00000001
+
+[Event 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 7
+// Event 7
+patch=1,EE,00CAC3DF,extended,00000001
+
+[Event 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 8
+// Event 8
+patch=1,EE,00CAC3E0,extended,00000001
+
+[Event 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 9
+// Event 9
+patch=1,EE,00CAC3E1,extended,00000001
+
+[Cup 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 1
+// Cup 1
+patch=1,EE,00CAC3E2,extended,00000001
+
+[Cup 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 2
+// Cup 2
+patch=1,EE,00CAC3E3,extended,00000001
+
+[Cup 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 3
+// Cup 3
+patch=1,EE,00CAC3E4,extended,00000001
+
+[Cup 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 4
+// Cup 4
+patch=1,EE,00CAC3E5,extended,00000001
+
+[Cup 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 5
+// Cup 5
+patch=1,EE,00CAC3E6,extended,00000001
+
+[Cup 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 6
+// Cup 6
+patch=1,EE,00CAC3E7,extended,00000001
+
+[Cup 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 7
+// Cup 7
+patch=1,EE,00CAC3E8,extended,00000001
+
+[Cup 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 8
+// Cup 8
+patch=1,EE,00CAC3E9,extended,00000001
+
+[Cup 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 9
+// Cup 9
+patch=1,EE,00CAC3EA,extended,00000001
+
+[Cup 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cup 10
+// Cup 10
+patch=1,EE,00CAC3EB,extended,00000001
+
+[Event 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 1
+// Event 1
+patch=1,EE,00CAC3EC,extended,00000001
+
+[Event 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 2
+// Event 2
+patch=1,EE,00CAC3ED,extended,00000001
+
+[Event 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 3
+// Event 3
+patch=1,EE,00CAC3EE,extended,00000001
+
+[Event 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 4
+// Event 4
+patch=1,EE,00CAC3EF,extended,00000001
+
+[Event 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 5
+// Event 5
+patch=1,EE,00CAC3F0,extended,00000001
+
+[Event 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 6
+// Event 6
+patch=1,EE,00CAC3F1,extended,00000001
+
+[Event 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 7
+// Event 7
+patch=1,EE,00CAC3F2,extended,00000001
+
+[Event 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 8
+// Event 8
+patch=1,EE,00CAC3F3,extended,00000001
+
+[Event 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 9
+// Event 9
+patch=1,EE,00CAC3F4,extended,00000001
+
+[Event 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Event 10
+// Event 10
+patch=1,EE,00CAC3F5,extended,00000001

@@ -1,0 +1,325 @@
+gametitle=Cy Girls [SLUS-20697] [302797DF]
+
+[All Movie Replays]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Movie Replays
+// All Movie Replays
+patch=1,EE,F0100008,extended,001164EF
+
+[Infinite Vital]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Vital
+// Infinite Vital
+patch=1,EE,103C3F8C,extended,000003E7
+
+[Max Vital]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vital
+// Max Vital
+patch=1,EE,103C3F8E,extended,000003E7
+
+[Max Infinite Vital]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Vital
+// Max Infinite Vital
+patch=1,EE,203C3F8C,extended,03E703E7
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,20169E80,extended,00000000
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,20169E7C,extended,00441021
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,2041D790,extended,00630063
+
+[Max Night Vision (On Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Night Vision (On Pickup)
+// Max Night Vision (On Pickup)
+patch=1,EE,1041D798,extended,00000063
+
+[Max Bio-Charge (On Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bio-Charge (On Pickup)
+// Max Bio-Charge (On Pickup)
+patch=1,EE,1041D8FC,extended,00000063
+
+[Max HF Energy Pack (On Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HF Energy Pack (On Pickup)
+// Max HF Energy Pack (On Pickup)
+patch=1,EE,1041D90A,extended,00000063
+
+[Max Data Chip (On Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Data Chip (On Pickup)
+// Max Data Chip (On Pickup)
+patch=1,EE,1041DA34,extended,00000063
+
+[Can Equip RAM-630B/Overdose/HM6400]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Can Equip RAM-630B/Overdose/HM6400
+// Can Equip RAM-630B/Overdose/HM6400
+patch=1,EE,1025A156,extended,00001000
+
+[P1 Hold X For Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Hold X For Infinite Double Jumps
+// P1 Hold X For Infinite Double Jumps
+patch=1,EE,D0396902,extended,0000BFFF
+
+[P1 Hold X For Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Hold X For Infinite Double Jumps
+// P1 Hold X For Infinite Double Jumps
+patch=1,EE,10396F54,extended,000000C9
+
+[HG15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=HG15
+// HG15
+patch=1,EE,0041D751,extended,00000001
+
+[Dual HG15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dual HG15
+// Dual HG15
+patch=1,EE,0041D751,extended,00000002
+
+[Maggy Hammer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Maggy Hammer
+// Maggy Hammer
+patch=1,EE,0041D752,extended,00000001
+
+[Dual Maggy Hammer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dual Maggy Hammer
+// Dual Maggy Hammer
+patch=1,EE,0041D752,extended,00000002
+
+[Flip-Lip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flip-Lip
+// Flip-Lip
+patch=1,EE,0041D753,extended,00000001
+
+[A699]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=A699
+// A699
+patch=1,EE,0041D754,extended,00000001
+
+[Dual A699]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dual A699
+// Dual A699
+patch=1,EE,0041D754,extended,00000002
+
+[Space Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Space Gun
+// Space Gun
+patch=1,EE,0041D755,extended,00000001
+
+[Dual Space Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dual Space Gun
+// Dual Space Gun
+patch=1,EE,0041D755,extended,00000002
+
+[MP2100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MP2100
+// MP2100
+patch=1,EE,0041D756,extended,00000001
+
+[Shockgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shockgun
+// Shockgun
+patch=1,EE,0041D757,extended,00000001
+
+[Pegasus 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pegasus 8
+// Pegasus 8
+patch=1,EE,0041D758,extended,00000001
+
+[MML229]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MML229
+// MML229
+patch=1,EE,0041D759,extended,00000001
+
+[AR100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AR100
+// AR100
+patch=1,EE,0041D75A,extended,00000001
+
+[R33V]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=R33V
+// R33V
+patch=1,EE,0041D75B,extended,00000001
+
+[SP700]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SP700
+// SP700
+patch=1,EE,0041D75C,extended,00000001
+
+[GR2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=GR2
+// GR2
+patch=1,EE,0041D75D,extended,00000001
+
+[RAM-630B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=RAM-630B
+// RAM-630B
+patch=1,EE,0041D75E,extended,00000001
+
+[Overdose]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Overdose
+// Overdose
+patch=1,EE,0041D75F,extended,00000001
+
+[HM6400]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=HM6400
+// HM6400
+patch=1,EE,0041D760,extended,00000001
+
+[DBS1010]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=DBS1010
+// DBS1010
+patch=1,EE,0041D761,extended,00000001
+
+[Shockgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shockgun
+// Shockgun
+patch=1,EE,1041D776,extended,000003E7
+
+[HG15/MP2100/A699]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=HG15/MP2100/A699
+// HG15/MP2100/A699
+patch=1,EE,1041D778,extended,000003E7
+
+[Maggy Hammer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Maggy Hammer
+// Maggy Hammer
+patch=1,EE,1041D77A,extended,000003E7
+
+[Flip-Lip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flip-Lip
+// Flip-Lip
+patch=1,EE,1041D77C,extended,000003E7
+
+[Space Gun/Pegasus 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Space Gun/Pegasus 8
+// Space Gun/Pegasus 8
+patch=1,EE,1041D77E,extended,000003E7
+
+[DBS1010]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=DBS1010
+// DBS1010
+patch=1,EE,1041D780,extended,000003E7
+
+[MML229]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MML229
+// MML229
+patch=1,EE,1041D782,extended,000003E7
+
+[AR100/R33V]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AR100/R33V
+// AR100/R33V
+patch=1,EE,1041D784,extended,000003E7
+
+[SP700]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SP700
+// SP700
+patch=1,EE,1041D786,extended,000003E7
+
+[GR2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=GR2
+// GR2
+patch=1,EE,1041D788,extended,000003E7
+
+[Overdose]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Overdose
+// Overdose
+patch=1,EE,1041D78A,extended,000003E7
+
+[HM6400]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=HM6400
+// HM6400
+patch=1,EE,1041D78C,extended,000003E7
+
+[RAM-630B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=RAM-630B
+// RAM-630B
+patch=1,EE,1041D78E,extended,000003E7
+
+[Infinite Vital]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Vital
+// Infinite Vital
+patch=1,EE,104A6F9C,extended,000003E7
+
+[Max Vital]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vital
+// Max Vital
+patch=1,EE,104A6F9E,extended,000003E7
+
+[Max Infinite Vital]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Vital
+// Max Infinite Vital
+patch=1,EE,204A6F9C,extended,03E703E7
+
+[Max Shuriken (On Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shuriken (On Pickup)
+// Max Shuriken (On Pickup)
+patch=1,EE,005008D8,extended,00000063
+
+[Max Kunai (On Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Kunai (On Pickup)
+// Max Kunai (On Pickup)
+patch=1,EE,005008DC,extended,00000063
+
+[Max Bio-Charge (On Pickup)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bio-Charge (On Pickup)
+// Max Bio-Charge (On Pickup)
+patch=1,EE,0050090C,extended,00000063

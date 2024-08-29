@@ -1,0 +1,187 @@
+gametitle=Dual Hearts [SLUS-20475] [62C92B67]
+
+[Unlock All Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Missions
+// Unlock All Missions
+patch=1,EE,F0200008,extended,0038799F
+
+[Baku Infinite Kigen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Baku Infinite Kigen
+// Baku Infinite Kigen
+patch=1,EE,206B5410,extended,000003E7
+
+[Baku Infinite Esamon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Baku Infinite Esamon
+// Baku Infinite Esamon
+patch=1,EE,206B5414,extended,000003E7
+
+[Baku Max Esamon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Baku Max Esamon
+// Baku Max Esamon
+patch=1,EE,206B5418,extended,000003E7
+
+[Have Green Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Green Key
+// Have Green Key
+patch=1,EE,006BB5E0,extended,00000001
+
+[Have Red Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Red Key
+// Have Red Key
+patch=1,EE,006BB5E1,extended,00000001
+
+[Have Orange Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Orange Key
+// Have Orange Key
+patch=1,EE,006BB5E2,extended,00000001
+
+[Have Indigo Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Indigo Key
+// Have Indigo Key
+patch=1,EE,006BB5E3,extended,00000001
+
+[Have Yellow Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Yellow Key
+// Have Yellow Key
+patch=1,EE,006BB5E4,extended,00000001
+
+[Have Purple Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Purple Key
+// Have Purple Key
+patch=1,EE,006BB5E5,extended,00000001
+
+[Have Blue Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Blue Key
+// Have Blue Key
+patch=1,EE,006BB5E6,extended,00000001
+
+[Have Black Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Black Key
+// Have Black Key
+patch=1,EE,006BB5E7,extended,00000001
+
+[Have White Key]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have White Key
+// Have White Key
+patch=1,EE,006BB5E8,extended,00000001
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,006FD679,extended,00000050
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,006FD678,extended,00000050
+
+[Max Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health
+// Max Infinite Health
+patch=1,EE,106FD678,extended,00005050
+
+[Have All Weapon Data]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Weapon Data
+// Have All Weapon Data
+patch=1,EE,206FD698,extended,FFFFFFFF
+
+[Max Weapon 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Weapon 1
+// Max Weapon 1
+patch=1,EE,106FD6B0,extended,000003E7
+
+[Max Weapon 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Weapon 2
+// Max Weapon 2
+patch=1,EE,106FD6B2,extended,000003E7
+
+[Max Weapon 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Weapon 3
+// Max Weapon 3
+patch=1,EE,106FD6B4,extended,000003E7
+
+[Max Weapon 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Weapon 4
+// Max Weapon 4
+patch=1,EE,106FD6B6,extended,000003E7
+
+[Weapon 1 Next Always 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weapon 1 Next Always 1
+// Weapon 1 Next Always 1
+patch=1,EE,106FD6B8,extended,00000001
+
+[Weapon 2 Next Always 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weapon 2 Next Always 1
+// Weapon 2 Next Always 1
+patch=1,EE,106FD6BA,extended,00000001
+
+[Weapon 3 Next Always 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weapon 3 Next Always 1
+// Weapon 3 Next Always 1
+patch=1,EE,106FD6BC,extended,00000001
+
+[Weapon 4 Next Always 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weapon 4 Next Always 1
+// Weapon 4 Next Always 1
+patch=1,EE,106FD6BE,extended,00000001
+
+[Have All Baku Abilities]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Baku Abilities
+// Have All Baku Abilities
+patch=1,EE,206FD6CC,extended,FFFFFFFF
+
+[Have Baku Diary]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Baku Diary
+// Have Baku Diary
+patch=1,EE,006FD6D0,extended,00000001
+
+[Max Dream Crystals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Dream Crystals
+// Max Dream Crystals
+patch=1,EE,106FD6DA,extended,000003E7
+
+[Max Dream Energy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Dream Energy
+// Max Dream Energy
+patch=1,EE,006FD6DC,extended,00000064
+
+[Max Gold Esamon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Gold Esamon
+// Max Gold Esamon
+patch=1,EE,006FD6DD,extended,00000064
+
+[Max Dc Gold Esamon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Dc Gold Esamon
+// Max Dc Gold Esamon
+patch=1,EE,006FD6DE,extended,00000064

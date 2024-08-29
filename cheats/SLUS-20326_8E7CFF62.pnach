@@ -1,0 +1,619 @@
+gametitle=SSX Tricky [SLUS-20326] [8E7CFF62]
+
+[All Boasts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Boasts
+// All Boasts
+patch=1,EE,F0100008,extended,002E7687
+
+[Unlock All Tracks (Single & Practice Modes)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Tracks (Single & Practice Modes)
+// Unlock All Tracks (Single & Practice Modes)
+patch=1,EE,2032B398,extended,FFFFFFFF
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,2032B39C,extended,FFFFFFFF
+
+[Infinite Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Boost
+// Infinite Boost
+patch=1,EE,2011B2B8,extended,3C013F80
+
+[Infinite Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Boost
+// Infinite Boost
+patch=1,EE,2011B2C0,extended,AE01001C
+
+[Infinite Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Boost
+// Infinite Boost
+patch=1,EE,2011D228,extended,00000000
+
+[Infinite Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Boost
+// Infinite Boost
+patch=1,EE,2011B330,extended,00000000
+
+[Have Master Status]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Master Status
+// Have Master Status
+patch=1,EE,2032B494,extended,000000FF
+
+[Max Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stats
+// Max Stats
+patch=1,EE,2032B4A0,extended,31313231
+
+[Have All Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks
+// Have All Tricks
+patch=1,EE,2032B4AC,extended,3FFFFFFF
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,2032B4E0,extended,01010000
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,4032B4B4,extended,00090001
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,01010000,extended,00000000
+
+[Have All Boards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Boards
+// Have All Boards
+patch=1,EE,2032B4E8,extended,0000FFFF
+
+[Have All Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Outfits
+// Have All Outfits
+patch=1,EE,2032B4EC,extended,000000FF
+
+[Master Status]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Master Status
+// Master Status
+patch=1,EE,2032B658,extended,000000FF
+
+[Max Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stats
+// Max Stats
+patch=1,EE,2032B664,extended,31313231
+
+[Have All Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks
+// Have All Tricks
+patch=1,EE,2032B670,extended,3FFFFFFF
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,2032B6A4,extended,01010000
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,4032B678,extended,00090001
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,01010000,extended,00000000
+
+[Have All Boards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Boards
+// Have All Boards
+patch=1,EE,2032B6AC,extended,0000FFFF
+
+[Have All Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Outfits
+// Have All Outfits
+patch=1,EE,2032B6B0,extended,000000FF
+
+[Master Status]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Master Status
+// Master Status
+patch=1,EE,2032B81C,extended,000000FF
+
+[Max Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stats
+// Max Stats
+patch=1,EE,2032B828,extended,31323131
+
+[Have All Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks
+// Have All Tricks
+patch=1,EE,2032B834,extended,3FFFFFFF
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,2032B868,extended,01010000
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,4032B83C,extended,00090001
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,01010000,extended,00000000
+
+[Have All Boards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Boards
+// Have All Boards
+patch=1,EE,2032B870,extended,0000FFFF
+
+[Have All Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Outfits
+// Have All Outfits
+patch=1,EE,2032B874,extended,000000FF
+
+[Master Status]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Master Status
+// Master Status
+patch=1,EE,2032B9E0,extended,000000FF
+
+[Max Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stats
+// Max Stats
+patch=1,EE,2032B9EC,extended,31313231
+
+[Have All Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks
+// Have All Tricks
+patch=1,EE,2032B9F8,extended,3FFFFFFF
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,2032BA2C,extended,01010000
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,4032BA00,extended,00090001
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,01010000,extended,00000000
+
+[Have All Boards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Boards
+// Have All Boards
+patch=1,EE,2032BA34,extended,0000FFFF
+
+[Have All Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Outfits
+// Have All Outfits
+patch=1,EE,2032BA38,extended,000000FF
+
+[Master Status]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Master Status
+// Master Status
+patch=1,EE,2032BBA4,extended,000000FF
+
+[Max Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stats
+// Max Stats
+patch=1,EE,2032BBB0,extended,31323131
+
+[Have All Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks
+// Have All Tricks
+patch=1,EE,2032BBBC,extended,3FFFFFFF
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,2032BBF0,extended,01010000
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,4032BBC4,extended,00090001
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,01010000,extended,00000000
+
+[Have All Boards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Boards
+// Have All Boards
+patch=1,EE,2032BBF8,extended,0000FFFF
+
+[Have All Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Outfits
+// Have All Outfits
+patch=1,EE,2032BBFC,extended,000000FF
+
+[Master Status]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Master Status
+// Master Status
+patch=1,EE,2032BD68,extended,000000FF
+
+[Max Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stats
+// Max Stats
+patch=1,EE,2032BD74,extended,31323131
+
+[Have All Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks
+// Have All Tricks
+patch=1,EE,2032BD80,extended,3FFFFFFF
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,2032BDB4,extended,01010000
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,4032BD88,extended,00090001
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,01010000,extended,00000000
+
+[Have All Boards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Boards
+// Have All Boards
+patch=1,EE,2032BDBC,extended,0000FFFF
+
+[Have All Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Outfits
+// Have All Outfits
+patch=1,EE,2032BDC0,extended,000000FF
+
+[Master Status]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Master Status
+// Master Status
+patch=1,EE,2032BF2C,extended,000000FF
+
+[Max Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stats
+// Max Stats
+patch=1,EE,2032BF38,extended,31313231
+
+[Have All Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks
+// Have All Tricks
+patch=1,EE,2032BF44,extended,3FFFFFFF
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,2032BF78,extended,01010000
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,4032BF4C,extended,00090001
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,01010000,extended,00000000
+
+[Have All Boards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Boards
+// Have All Boards
+patch=1,EE,2032BF80,extended,0000FFFF
+
+[Have All Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Outfits
+// Have All Outfits
+patch=1,EE,2032BF84,extended,000000FF
+
+[Master Status]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Master Status
+// Master Status
+patch=1,EE,2032C0F0,extended,000000FF
+
+[Max Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stats
+// Max Stats
+patch=1,EE,2032C0FC,extended,31323131
+
+[All Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Tricks
+// All Tricks
+patch=1,EE,2032C108,extended,3FFFFFFF
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,2032C13C,extended,01010000
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,4032C110,extended,00090001
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,01010000,extended,00000000
+
+[Have All Boards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Boards
+// Have All Boards
+patch=1,EE,2032C144,extended,0000FFFF
+
+[Have All Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Outfits
+// Have All Outfits
+patch=1,EE,2032C148,extended,000000FF
+
+[Master Status]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Master Status
+// Master Status
+patch=1,EE,2032C2B4,extended,000000FF
+
+[Max Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stats
+// Max Stats
+patch=1,EE,2032C2C0,extended,31323131
+
+[Have All Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks
+// Have All Tricks
+patch=1,EE,2032C2CC,extended,3FFFFFFF
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,2032C200,extended,01010000
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,4032C2D4,extended,00090001
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,01010000,extended,00000000
+
+[Have All Boards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Boards
+// Have All Boards
+patch=1,EE,2032C308,extended,0000FFFF
+
+[Have All Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Outfits
+// Have All Outfits
+patch=1,EE,2032C30C,extended,000000FF
+
+[Master Status]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Master Status
+// Master Status
+patch=1,EE,2032C478,extended,000000FF
+
+[Max Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stats
+// Max Stats
+patch=1,EE,2032C484,extended,31313231
+
+[Have All Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks
+// Have All Tricks
+patch=1,EE,2032C490,extended,3FFFFFFF
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,2032C4C4,extended,01010000
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,4032C498,extended,00090001
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,01010000,extended,00000000
+
+[Have All Boards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Boards
+// Have All Boards
+patch=1,EE,2032C4CC,extended,0000FFFF
+
+[Have All Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Outfits
+// Have All Outfits
+patch=1,EE,2032C4D0,extended,000000FF
+
+[Master Status]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Master Status
+// Master Status
+patch=1,EE,2032C63C,extended,000000FF
+
+[Max Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stats
+// Max Stats
+patch=1,EE,2032C648,extended,31323131
+
+[Have All Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks
+// Have All Tricks
+patch=1,EE,2032C654,extended,3FFFFFFF
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,2032C688,extended,01010000
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,4032C65C,extended,00090001
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,01010000,extended,00000000
+
+[Have All Boards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Boards
+// Have All Boards
+patch=1,EE,2032C690,extended,0000FFFF
+
+[Have All Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Outfits
+// Have All Outfits
+patch=1,EE,2032C694,extended,000000FF
+
+[Master Status]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Master Status
+// Master Status
+patch=1,EE,2032C800,extended,000000FF
+
+[Max Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stats
+// Max Stats
+patch=1,EE,2032C80C,extended,31323131
+
+[Have All Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Tricks
+// Have All Tricks
+patch=1,EE,2032C818,extended,3FFFFFFF
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,2032C84C,extended,01010000
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,4032C820,extended,00090001
+
+[Have All Golds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golds
+// Have All Golds
+patch=1,EE,01010000,extended,00000000
+
+[Have All Boards]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Boards
+// Have All Boards
+patch=1,EE,2032C854,extended,0000FFFF
+
+[Have All Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Outfits
+// Have All Outfits
+patch=1,EE,2032C858,extended,000000FF

@@ -1,0 +1,499 @@
+gametitle=Warriors, The [SLUS-21215] [B99A75DE]
+
+[Have All Spells]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Spells
+// Have All Spells
+patch=1,EE,9044D2A8,extended,0C10C190
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,106FE490,extended,0000FFFF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,206FE490,extended,0098967F
+
+[Infinite Rage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Rage
+// Infinite Rage
+patch=1,EE,20256628,extended,00000000
+
+[Infinite Item Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Item Usage
+// Infinite Item Usage
+patch=1,EE,2041E620,extended,00000000
+
+[Max Items (Upon Usage)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Items (Upon Usage)
+// Max Items (Upon Usage)
+patch=1,EE,2041E618,extended,24020009
+
+[Infinite Time (Timed Missions)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time (Timed Missions)
+// Infinite Time (Timed Missions)
+patch=1,EE,204234A4,extended,00000000
+
+[Flash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flash
+// Flash
+patch=1,EE,21FD88D0,extended,00000009
+
+[Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Money
+// Money
+patch=1,EE,21FD88FC,extended,000003E7
+
+[Spray Paint]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spray Paint
+// Spray Paint
+patch=1,EE,21FD8928,extended,00000009
+
+[Powercuffs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Powercuffs
+// Powercuffs
+patch=1,EE,21FD8980,extended,00000009
+
+[Hancuff Keys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hancuff Keys
+// Hancuff Keys
+patch=1,EE,21FD89AC,extended,00000009
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,1065A684,extended,000009C4
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,1065A686,extended,000009C4
+
+[Max Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health
+// Max Infinite Health
+patch=1,EE,2065A684,extended,09C409C4
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,1065A804,extended,000009C4
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,1065A806,extended,000009C4
+
+[Max Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health
+// Max Infinite Health
+patch=1,EE,2065A804,extended,09C409C4
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,1065A984,extended,000009C4
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,1065A986,extended,000009C4
+
+[Max Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health
+// Max Infinite Health
+patch=1,EE,2065A984,extended,09C409C4
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,1065AB04,extended,000009C4
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,1065AB06,extended,000009C4
+
+[Max Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health
+// Max Infinite Health
+patch=1,EE,2065AB04,extended,09C409C4
+
+[Coney-1-New Blood]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coney-1-New Blood
+// Coney-1-New Blood
+patch=1,EE,706FE8F8,extended,002000FD
+
+[Coney-2-Real Live Bunch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coney-2-Real Live Bunch
+// Coney-2-Real Live Bunch
+patch=1,EE,706FE8F8,extended,002000FB
+
+[East Coney-3-Payback]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=East Coney-3-Payback
+// East Coney-3-Payback
+patch=1,EE,706FE8F8,extended,002000F7
+
+[Riverside-4-Blackout]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Riverside-4-Blackout
+// Riverside-4-Blackout
+patch=1,EE,706FE8F8,extended,002000EF
+
+[Tremont-5-Real Heavy Rep]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tremont-5-Real Heavy Rep
+// Tremont-5-Real Heavy Rep
+patch=1,EE,706FE8F8,extended,002000BF
+
+[Soho-6-Writer's Block]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Soho-6-Writer's Block
+// Soho-6-Writer's Block
+patch=1,EE,706FE8F9,extended,002000FE
+
+[East Harlem-7-Adios Amigo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=East Harlem-7-Adios Amigo
+// East Harlem-7-Adios Amigo
+patch=1,EE,706FE8F9,extended,002000FD
+
+[Coney-8-Encore]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coney-8-Encore
+// Coney-8-Encore
+patch=1,EE,706FE8F9,extended,002000F7
+
+[Coney-9-Payin' The Cost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coney-9-Payin' The Cost
+// Coney-9-Payin' The Cost
+patch=1,EE,706FE8F9,extended,002000DF
+
+[East Coney-10-Destroyed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=East Coney-10-Destroyed
+// East Coney-10-Destroyed
+patch=1,EE,706FE8F9,extended,002000BF
+
+[Pelham-11-Boys In Blue]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pelham-11-Boys In Blue
+// Pelham-11-Boys In Blue
+patch=1,EE,706FE8F9,extended,0020007F
+
+[Bensonhurst-12-Set Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bensonhurst-12-Set Up
+// Bensonhurst-12-Set Up
+patch=1,EE,706FE8FA,extended,002000FD
+
+[Trainyard-13-All-City]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trainyard-13-All-City
+// Trainyard-13-All-City
+patch=1,EE,706FE8FA,extended,002000FB
+
+[Gunhill-14-Desperate Dudes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gunhill-14-Desperate Dudes
+// Gunhill-14-Desperate Dudes
+patch=1,EE,706FE8FA,extended,002000F7
+
+[Tremont-15-No Permits, No Parley]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tremont-15-No Permits, No Parley
+// Tremont-15-No Permits, No Parley
+patch=1,EE,706FE8FA,extended,002000EF
+
+[Riverside-16-Home Run]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Riverside-16-Home Run
+// Riverside-16-Home Run
+patch=1,EE,706FE8FA,extended,002000DF
+
+[Bowery-17-Friendly Faces]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bowery-17-Friendly Faces
+// Bowery-17-Friendly Faces
+patch=1,EE,706FE8FA,extended,002000BF
+
+[Coney-18-Come Out To Play]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coney-18-Come Out To Play
+// Coney-18-Come Out To Play
+patch=1,EE,706FE8FA,extended,0020007F
+
+[Coney-B-The Best]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coney-B-The Best
+// Coney-B-The Best
+patch=1,EE,706FE90D,extended,002000FD
+
+[Harlem-E-Sharp Dressed Man]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Harlem-E-Sharp Dressed Man
+// Harlem-E-Sharp Dressed Man
+patch=1,EE,706FE90D,extended,002000F7
+
+[East Cony-A-Roots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=East Cony-A-Roots
+// East Cony-A-Roots
+patch=1,EE,706FE90F,extended,002000FB
+
+[Chinatown-D-Scout's Honor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chinatown-D-Scout's Honor
+// Chinatown-D-Scout's Honor
+patch=1,EE,706FE90F,extended,002000F7
+
+[East Coney-C-Heavy Muscle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=East Coney-C-Heavy Muscle
+// East Coney-C-Heavy Muscle
+patch=1,EE,706FE910,extended,002000BF
+
+[All Replay Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Replay Levels
+// All Replay Levels
+patch=1,EE,406FE8F8,extended,00140001
+
+[All Replay Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Replay Levels
+// All Replay Levels
+patch=1,EE,00000000,extended,00000000
+
+[Coney-1-New Blood]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coney-1-New Blood
+// Coney-1-New Blood
+patch=1,EE,206FE79C,extended,0098967F
+
+[Coney-2-Real Live Bunch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coney-2-Real Live Bunch
+// Coney-2-Real Live Bunch
+patch=1,EE,206FE7A8,extended,0098967F
+
+[East Coney-3-Payback]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=East Coney-3-Payback
+// East Coney-3-Payback
+patch=1,EE,206FE7B4,extended,0098967F
+
+[Riverside-4-Blackout]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Riverside-4-Blackout
+// Riverside-4-Blackout
+patch=1,EE,206FE7C0,extended,0098967F
+
+[Tremont-5-Real Heavy Rep]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tremont-5-Real Heavy Rep
+// Tremont-5-Real Heavy Rep
+patch=1,EE,206FE7CC,extended,0098967F
+
+[Soho-6-Writer's Block]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Soho-6-Writer's Block
+// Soho-6-Writer's Block
+patch=1,EE,206FE7D8,extended,0098967F
+
+[East Harlem-7-Adios Amigo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=East Harlem-7-Adios Amigo
+// East Harlem-7-Adios Amigo
+patch=1,EE,206FE7E4,extended,0098967F
+
+[Coney-8-Encore]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coney-8-Encore
+// Coney-8-Encore
+patch=1,EE,206FE7F0,extended,0098967F
+
+[Coney-9-Payin' The Cost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coney-9-Payin' The Cost
+// Coney-9-Payin' The Cost
+patch=1,EE,206FE7FC,extended,0098967F
+
+[East Coney-10-Destroyed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=East Coney-10-Destroyed
+// East Coney-10-Destroyed
+patch=1,EE,206FE808,extended,0098967F
+
+[Pelham-11-Boys In Blue]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pelham-11-Boys In Blue
+// Pelham-11-Boys In Blue
+patch=1,EE,206FE814,extended,0098967F
+
+[Bensonhurst-12-Set Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bensonhurst-12-Set Up
+// Bensonhurst-12-Set Up
+patch=1,EE,206FE820,extended,0098967F
+
+[Trainyard-13-All-City]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trainyard-13-All-City
+// Trainyard-13-All-City
+patch=1,EE,206FE82C,extended,0098967F
+
+[Gunhill-14-Desperate Dudes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gunhill-14-Desperate Dudes
+// Gunhill-14-Desperate Dudes
+patch=1,EE,206FE838,extended,0098967F
+
+[Tremont-15-No Permits, No Parley]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tremont-15-No Permits, No Parley
+// Tremont-15-No Permits, No Parley
+patch=1,EE,206FE844,extended,0098967F
+
+[Riverside-16-Home Run]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Riverside-16-Home Run
+// Riverside-16-Home Run
+patch=1,EE,206FE850,extended,0098967F
+
+[Bowery-17-Friendly Faces]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bowery-17-Friendly Faces
+// Bowery-17-Friendly Faces
+patch=1,EE,206FE85C,extended,0098967F
+
+[Coney-18-Come Out To Play]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coney-18-Come Out To Play
+// Coney-18-Come Out To Play
+patch=1,EE,206FE868,extended,0098967F
+
+[East Cony-A-Roots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=East Cony-A-Roots
+// East Cony-A-Roots
+patch=1,EE,206FE874,extended,0098967F
+
+[Coney-B-The Best]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coney-B-The Best
+// Coney-B-The Best
+patch=1,EE,206FE880,extended,0098967F
+
+[East Coney-C-Heavy Muscle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=East Coney-C-Heavy Muscle
+// East Coney-C-Heavy Muscle
+patch=1,EE,206FE88C,extended,0098967F
+
+[Chinatown-D-Scout's Honor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chinatown-D-Scout's Honor
+// Chinatown-D-Scout's Honor
+patch=1,EE,206FE898,extended,0098967F
+
+[Harlem-E-Sharp Dressed Man]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Harlem-E-Sharp Dressed Man
+// Harlem-E-Sharp Dressed Man
+patch=1,EE,206FE8A4,extended,0098967F
+
+[Armies Of The Night]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Armies Of The Night
+// Armies Of The Night
+patch=1,EE,206FE8BC,extended,0098967E
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,1065BA04,extended,000009C4
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,1065BA06,extended,000009C4
+
+[Max Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health
+// Max Infinite Health
+patch=1,EE,2065BA04,extended,09C409C4
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,1065A684,extended,000009C4
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,1065A686,extended,000009C4
+
+[Max Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health
+// Max Infinite Health
+patch=1,EE,2065A684,extended,09C409C4
+
+[Quick Points Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Points Gain
+// Quick Points Gain
+patch=1,EE,106FE494,extended,0000FFFF
+
+[Max Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Points
+// Max Points
+patch=1,EE,206FE494,extended,0098967F
+
+[Infinite Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Credits
+// Infinite Credits
+patch=1,EE,20619910,extended,00000063
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,204234A4,extended,00000000

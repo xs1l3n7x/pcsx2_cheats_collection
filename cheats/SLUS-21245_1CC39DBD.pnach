@@ -1,0 +1,385 @@
+gametitle=Suikoden Tactics [SLUS-21245] [1CC39DBD]
+
+[Infinite Rune LVL 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Rune LVL 4
+// Infinite Rune LVL 4
+patch=1,EE,90381D68,extended,00832021
+
+[Infinite Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Skill Points
+// Infinite Skill Points
+patch=1,EE,206794F0,extended,0000FFFF
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,206794F0,extended,05F5E0FF
+
+[Upgrading Skills Doesnt Decrease Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Upgrading Skills Doesnt Decrease Points
+// Upgrading Skills Doesnt Decrease Points
+patch=1,EE,202A03D8,extended,00000000
+
+[Upgrading Skills Increases Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Upgrading Skills Increases Points
+// Upgrading Skills Increases Points
+patch=1,EE,202A03D0,extended,0070182F
+
+[Only Need 1 Skill Point To Level Up Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only Need 1 Skill Point To Level Up Skills
+// Only Need 1 Skill Point To Level Up Skills
+patch=1,EE,202EFE18,extended,24020001
+
+[Level Up Skill Once For Rank S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level Up Skill Once For Rank S
+// Level Up Skill Once For Rank S
+patch=1,EE,202E90C4,extended,24110006
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,106794F8,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,206794F8,extended,05F5E0FF
+
+[Buying Items Doesnt Decrease Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Items Doesnt Decrease Money
+// Buying Items Doesnt Decrease Money
+patch=1,EE,202A02C8,extended,00000000
+
+[Buying Items Increases Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Items Increases Money
+// Buying Items Increases Money
+patch=1,EE,202A02C0,extended,0070182F
+
+[Gain 2048x Exp As Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 2048x Exp As Normal
+// Gain 2048x Exp As Normal
+patch=1,EE,202D3DC0,extended,00028AC0
+
+[Gain 1024x Exp As Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 1024x Exp As Normal
+// Gain 1024x Exp As Normal
+patch=1,EE,202D3DC0,extended,00028A80
+
+[Gain 512x Exp As Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 512x Exp As Normal
+// Gain 512x Exp As Normal
+patch=1,EE,202D3DC0,extended,00028A40
+
+[Gain 256x Exp As Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 256x Exp As Normal
+// Gain 256x Exp As Normal
+patch=1,EE,202D3DC0,extended,00028A00
+
+[Gain 128x Exp As Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 128x Exp As Normal
+// Gain 128x Exp As Normal
+patch=1,EE,202D3DC0,extended,000289C0
+
+[Gain 64x Exp As Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 64x Exp As Normal
+// Gain 64x Exp As Normal
+patch=1,EE,202D3DC0,extended,00028980
+
+[Gain 32x Exp As Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 32x Exp As Normal
+// Gain 32x Exp As Normal
+patch=1,EE,202D3DC0,extended,00028940
+
+[Gain 16x Exp As Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 16x Exp As Normal
+// Gain 16x Exp As Normal
+patch=1,EE,202D3DC0,extended,00028900
+
+[Gain 8x Exp As Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 8x Exp As Normal
+// Gain 8x Exp As Normal
+patch=1,EE,202D3DC0,extended,000288C0
+
+[Gain 4x Exp As Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 4x Exp As Normal
+// Gain 4x Exp As Normal
+patch=1,EE,202D3DC0,extended,00028880
+
+[Gain 2x Exp As Normal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 2x Exp As Normal
+// Gain 2x Exp As Normal
+patch=1,EE,202D3DC0,extended,00028840
+
+[Max Stats (All Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Stats (All Characters)
+// Max Stats (All Characters)
+patch=1,EE,202EA3C8,extended,00000000
+
+[Infinite HP (All Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP (All Characters)
+// Infinite HP (All Characters)
+patch=1,EE,202EA5B4,extended,8462001C
+
+[Infinite HP (All Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP (All Characters)
+// Infinite HP (All Characters)
+patch=1,EE,202EA5B8,extended,A4620008
+
+[Infinite Magic Usage (All Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Magic Usage (All Characters)
+// Infinite Magic Usage (All Characters)
+patch=1,EE,202EA818,extended,00000000
+
+[Max Infinite Magic Usage (All Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Magic Usage (All Characters)
+// Max Infinite Magic Usage (All Characters)
+patch=1,EE,202EA810,extended,80620045
+
+[Max Infinite Magic Usage (All Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Magic Usage (All Characters)
+// Max Infinite Magic Usage (All Characters)
+patch=1,EE,202EA818,extended,A0620049
+
+[Quick Death-Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Death-Enemies
+// Quick Death-Enemies
+patch=1,EE,202EC338,extended,24020000
+
+[Quick Death-Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Death-Enemies
+// Quick Death-Enemies
+patch=1,EE,202EC33C,extended,A4620006
+
+[Instant Battle Victory]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Battle Victory
+// Instant Battle Victory
+patch=1,EE,202EC384,extended,24120000
+
+[Infinite Item Usage (Out Of Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Item Usage (Out Of Battle)
+// Infinite Item Usage (Out Of Battle)
+patch=1,EE,202F07C0,extended,00000000
+
+[All Characters Can Use All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Characters Can Use All Skills
+// All Characters Can Use All Skills
+patch=1,EE,2033F2F0,extended,00000000
+
+[Have Character]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Character
+// Have Character
+patch=1,EE,00670CF8,extended,000000E1
+
+[Max EXP/Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP/Level 99
+// Max EXP/Level 99
+patch=1,EE,20670CA8,extended,000182B7
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,10670CB0,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,10670CB2,extended,000003E7
+
+[Max STR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max STR
+// Max STR
+patch=1,EE,10670CB4,extended,000003E7
+
+[Max SKL]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max SKL
+// Max SKL
+patch=1,EE,10670CB6,extended,000003E7
+
+[Max MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MAG
+// Max MAG
+patch=1,EE,10670CB8,extended,000003E7
+
+[Max EVA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EVA
+// Max EVA
+patch=1,EE,10670CBA,extended,000003E7
+
+[Max PDF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max PDF
+// Max PDF
+patch=1,EE,10670CBC,extended,000003E7
+
+[Max MDF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MDF
+// Max MDF
+patch=1,EE,10670CBE,extended,000003E7
+
+[Max SPD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max SPD
+// Max SPD
+patch=1,EE,10670CC0,extended,000003E7
+
+[Max LUC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max LUC
+// Max LUC
+patch=1,EE,10670CC2,extended,000003E7
+
+[Max Plus HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Plus HP
+// Max Plus HP
+patch=1,EE,10670CC4,extended,000003E7
+
+[Max Plus STR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Plus STR
+// Max Plus STR
+patch=1,EE,10670CC6,extended,000003E7
+
+[Max Plus SKL]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Plus SKL
+// Max Plus SKL
+patch=1,EE,10670CC8,extended,000003E7
+
+[Max Plus MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Plus MAG
+// Max Plus MAG
+patch=1,EE,10670CCA,extended,000003E7
+
+[Max Plus EVA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Plus EVA
+// Max Plus EVA
+patch=1,EE,10670CCC,extended,000003E7
+
+[Max Plus PDF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Plus PDF
+// Max Plus PDF
+patch=1,EE,10670CCE,extended,000003E7
+
+[Max Plus MDF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Plus MDF
+// Max Plus MDF
+patch=1,EE,10670CD0,extended,000003E7
+
+[Max Plus SPD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Plus SPD
+// Max Plus SPD
+patch=1,EE,10670CD2,extended,000003E7
+
+[Max Plus LUC]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Plus LUC
+// Max Plus LUC
+patch=1,EE,10670CD4,extended,000003E7
+
+[Level S-All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level S-All Skills
+// Level S-All Skills
+patch=1,EE,40670D30,extended,00090001
+
+[Level S-All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level S-All Skills
+// Level S-All Skills
+patch=1,EE,06060606,extended,00000000
+
+[Slot 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1
+// Slot 1
+patch=1,EE,00670CED,extended,00000009
+
+[Slot 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2
+// Slot 2
+patch=1,EE,00670CEE,extended,00000009
+
+[Slot 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3
+// Slot 3
+patch=1,EE,00670CEF,extended,00000009
+
+[Slot 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4
+// Slot 4
+patch=1,EE,00670CF0,extended,00000009
+
+[Slot 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1
+// Slot 1
+patch=1,EE,00670CF1,extended,00000009
+
+[Slot 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2
+// Slot 2
+patch=1,EE,00670CF2,extended,00000009
+
+[Slot 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3
+// Slot 3
+patch=1,EE,00670CF3,extended,00000009
+
+[Slot 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4
+// Slot 4
+patch=1,EE,00670CF4,extended,00000009

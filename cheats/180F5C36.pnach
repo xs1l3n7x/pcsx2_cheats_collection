@@ -1,0 +1,73 @@
+gametitle=Grandia 2 [UNKNOWN] [180F5C36]
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2026ADC8,extended,00000000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2026ADD8,extended,00000000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2026ADE0,extended,00000000
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,201569D4,extended,00000000
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,20156A94,extended,00000000
+
+[Infinite Grenades]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Grenades
+// Infinite Grenades
+patch=1,EE,20207AC8,extended,00000000
+
+[Infinite Mutagen]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Mutagen
+// Infinite Mutagen
+patch=1,EE,20222AEC,extended,00000000
+
+[All Secret Files Unlocked]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Secret Files Unlocked
+// All Secret Files Unlocked
+patch=1,EE,204F9828,extended,00000015
+
+[All Databanks Found]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Databanks Found
+// All Databanks Found
+patch=1,EE,404F980C,extended,00040001
+
+[All Databanks Found]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Databanks Found
+// All Databanks Found
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[All Databanks Found]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Databanks Found
+// All Databanks Found
+patch=1,EE,104F981C,extended,0000FFFF
+
+[Steady Aiming]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Steady Aiming
+// Steady Aiming
+patch=1,EE,20227D14,extended,00000000

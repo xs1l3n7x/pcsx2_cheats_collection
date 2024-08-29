@@ -1,0 +1,223 @@
+gametitle=K1 World Grand Prix [SLUS-20682] [E520CABA]
+
+[Recovery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Recovery
+// Recovery
+patch=1,EE,F0100008,extended,002D7587
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,202DD450,extended,24020001
+
+[Infinite Health P1 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1 ONLY
+// Infinite Health P1 ONLY
+patch=1,EE,200C0220,extended,C44001F8
+
+[Infinite Health P1 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1 ONLY
+// Infinite Health P1 ONLY
+patch=1,EE,200C0224,extended,50200001
+
+[Infinite Health P1 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1 ONLY
+// Infinite Health P1 ONLY
+patch=1,EE,200C0228,extended,46010001
+
+[Infinite Health P1 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1 ONLY
+// Infinite Health P1 ONLY
+patch=1,EE,200C022C,extended,03E00008
+
+[Infinite Health P1 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1 ONLY
+// Infinite Health P1 ONLY
+patch=1,EE,200C0230,extended,00000000
+
+[Infinite Health P1 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1 ONLY
+// Infinite Health P1 ONLY
+patch=1,EE,2014C134,extended,0C030088
+
+[Infinite Health P1 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1 ONLY
+// Infinite Health P1 ONLY
+patch=1,EE,2014C138,extended,0232082B
+
+[Infinite Health P2 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2 ONLY
+// Infinite Health P2 ONLY
+patch=1,EE,200C0220,extended,C44001F8
+
+[Infinite Health P2 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2 ONLY
+// Infinite Health P2 ONLY
+patch=1,EE,200C0224,extended,54200001
+
+[Infinite Health P2 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2 ONLY
+// Infinite Health P2 ONLY
+patch=1,EE,200C0228,extended,46010001
+
+[Infinite Health P2 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2 ONLY
+// Infinite Health P2 ONLY
+patch=1,EE,200C022C,extended,03E00008
+
+[Infinite Health P2 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2 ONLY
+// Infinite Health P2 ONLY
+patch=1,EE,200C0230,extended,00000000
+
+[Infinite Health P2 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2 ONLY
+// Infinite Health P2 ONLY
+patch=1,EE,2014C134,extended,0C030088
+
+[Infinite Health P2 ONLY]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2 ONLY
+// Infinite Health P2 ONLY
+patch=1,EE,2014C138,extended,0232082B
+
+[Infinite Health P1 & P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1 & P2
+// Infinite Health P1 & P2
+patch=1,EE,2014C13C,extended,00000000
+
+[Health Doesnt Regenerate Over Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health Doesnt Regenerate Over Time
+// Health Doesnt Regenerate Over Time
+patch=1,EE,202472E0,extended,00000000
+
+[Unlock Extra Games]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Extra Games
+// Unlock Extra Games
+patch=1,EE,203B66A0,extended,00000001
+
+[Unlock All Fighters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Fighters
+// Unlock All Fighters
+patch=1,EE,1040904A,extended,0000FFFF
+
+[Max Wins (Ironman Trial)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wins (Ironman Trial)
+// Max Wins (Ironman Trial)
+patch=1,EE,104090FE,extended,00000063
+
+[Infinite Training/Rest Number Of Actions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Training/Rest Number Of Actions
+// Infinite Training/Rest Number Of Actions
+patch=1,EE,2040A404,extended,00000005
+
+[Max Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Points
+// Max Points
+patch=1,EE,2040A408,extended,0000270F
+
+[Unlock All Entrance Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Entrance Movies
+// Unlock All Entrance Movies
+patch=1,EE,0040953F,extended,00000001
+
+[Unlock All Entrance Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Entrance Movies
+// Unlock All Entrance Movies
+patch=1,EE,40409540,extended,00050001
+
+[Unlock All Entrance Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Entrance Movies
+// Unlock All Entrance Movies
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Entrance Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Entrance Movies
+// Unlock All Entrance Movies
+patch=1,EE,10409554,extended,00000101
+
+[Unlock All Revival Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Revival Movies
+// Unlock All Revival Movies
+patch=1,EE,0040956D,extended,00000001
+
+[Unlock All Revival Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Revival Movies
+// Unlock All Revival Movies
+patch=1,EE,1040956E,extended,00000101
+
+[Unlock All Revival Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Revival Movies
+// Unlock All Revival Movies
+patch=1,EE,40409570,extended,00050001
+
+[Unlock All Revival Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Revival Movies
+// Unlock All Revival Movies
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Ending Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Ending Movies
+// Unlock All Ending Movies
+patch=1,EE,40409584,extended,00050001
+
+[Unlock All Ending Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Ending Movies
+// Unlock All Ending Movies
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Ending Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Ending Movies
+// Unlock All Ending Movies
+patch=1,EE,10409598,extended,00000101
+
+[Unlock All Ending Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Ending Movies
+// Unlock All Ending Movies
+patch=1,EE,0040959A,extended,00000001
+
+[Unlock All RoboK-1 Fighters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All RoboK-1 Fighters
+// Unlock All RoboK-1 Fighters
+patch=1,EE,404094C4,extended,00160001
+
+[Unlock All RoboK-1 Fighters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All RoboK-1 Fighters
+// Unlock All RoboK-1 Fighters
+patch=1,EE,00000001,extended,00000000

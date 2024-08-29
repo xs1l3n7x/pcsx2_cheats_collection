@@ -1,0 +1,109 @@
+gametitle=Super Trucks Racing [SLUS-20748] [C9A2E854]
+
+[Ultimate Playable]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultimate Playable
+// Ultimate Playable
+patch=1,EE,90188D64,extended,0C067927
+
+[Stop Lap Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stop Lap Timer
+// Stop Lap Timer
+patch=1,EE,20117654,extended,00000000
+
+[Stop Race Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stop Race Timer
+// Stop Race Timer
+patch=1,EE,2011768C,extended,00000000
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,D01F8870,extended,00000001
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,201F8870,extended,00000002
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,D01F8874,extended,00000001
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,201F8874,extended,00000002
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,D01F8870,extended,00000001
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,201F8870,extended,00000003
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,D01F8874,extended,00000001
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,201F8874,extended,00000003
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,20128078,extended,00000000
+
+[Max All Trophies/Races]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Trophies/Races
+// Max All Trophies/Races
+patch=1,EE,401D7ABC,extended,00200001
+
+[Max All Trophies/Races]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Trophies/Races
+// Max All Trophies/Races
+patch=1,EE,00000063,extended,00000000
+
+[Unlock All Trucks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trucks
+// Unlock All Trucks
+patch=1,EE,401D7B40,extended,00100001
+
+[Unlock All Trucks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Trucks
+// Unlock All Trucks
+patch=1,EE,00000001,extended,00000000
+
+[Unlock All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Tracks
+// Unlock All Tracks
+patch=1,EE,401D7B80,extended,000F0001
+
+[Unlock All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Tracks
+// Unlock All Tracks
+patch=1,EE,00000001,extended,00000000

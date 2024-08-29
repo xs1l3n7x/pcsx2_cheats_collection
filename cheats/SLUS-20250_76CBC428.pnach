@@ -1,0 +1,97 @@
+gametitle=Stuntman [SLUS-20250] [76CBC428]
+
+[Unlock All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Tracks
+// Unlock All Tracks
+patch=1,EE,90243D24,extended,0C093BD7
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,21F0EDE4,extended,0000FFFF
+
+[Invisible Walls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisible Walls
+// Invisible Walls
+patch=1,EE,2026640C,extended,00000001
+
+[Invisible Walls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisible Walls
+// Invisible Walls
+patch=1,EE,20266410,extended,00000001
+
+[Have All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Cars
+// Have All Cars
+patch=1,EE,40311784,extended,00330001
+
+[Have All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Cars
+// Have All Cars
+patch=1,EE,00000001,extended,00000000
+
+[Nitrous Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nitrous Boost
+// Nitrous Boost
+patch=1,EE,200C0220,extended,3C01437A
+
+[Nitrous Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nitrous Boost
+// Nitrous Boost
+patch=1,EE,200C0224,extended,AC41000C
+
+[Nitrous Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nitrous Boost
+// Nitrous Boost
+patch=1,EE,200C0228,extended,AC410010
+
+[Nitrous Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nitrous Boost
+// Nitrous Boost
+patch=1,EE,200C022C,extended,03E00008
+
+[Nitrous Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nitrous Boost
+// Nitrous Boost
+patch=1,EE,200C0230,extended,C441000C
+
+[Nitrous Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nitrous Boost
+// Nitrous Boost
+patch=1,EE,201C6468,extended,0C030088
+
+[Have All Toys-All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Toys-All Levels
+// Have All Toys-All Levels
+patch=1,EE,4031171C,extended,00180001
+
+[Have All Toys-All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Toys-All Levels
+// Have All Toys-All Levels
+patch=1,EE,00000001,extended,00000000
+
+[Max % Complete-All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max % Complete-All Levels
+// Max % Complete-All Levels
+patch=1,EE,40311444,extended,001D0001
+
+[Max % Complete-All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max % Complete-All Levels
+// Max % Complete-All Levels
+patch=1,EE,00000064,extended,00000000

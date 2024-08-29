@@ -1,0 +1,217 @@
+gametitle=Fantavision [SCUS-97105] [00E9B795]
+
+[All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Levels
+// All Levels
+patch=1,EE,F0100008,extended,001B2C7B
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,2048AC38,extended,00002710
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2048AC40,extended,00002710
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,10664EF8,extended,0000FFFF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20664EF8,extended,3B9AC9FF
+
+[E3 Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=E3 Mode
+// E3 Mode
+patch=1,EE,2048A5B0,extended,00000001
+
+[Hold {L1} To Open Extra/Extra 2 Menus (Main Menu)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hold {L1} To Open Extra/Extra 2 Menus (Main Menu)
+// Hold {L1} To Open Extra/Extra 2 Menus (Main Menu)
+patch=1,EE,2048A5DC,extended,00000001
+
+[Enable Debug Mode (Pause To Change Stuff)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enable Debug Mode (Pause To Change Stuff)
+// Enable Debug Mode (Pause To Change Stuff)
+patch=1,EE,2048A5E0,extended,00000001
+
+[P1 Starts With Score 500]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Starts With Score 500
+// P1 Starts With Score 500
+patch=1,EE,D048A340,extended,00000000
+
+[P1 Starts With Score 500]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Starts With Score 500
+// P1 Starts With Score 500
+patch=1,EE,2048A340,extended,000001F4
+
+[P1 Starts With Score 400]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Starts With Score 400
+// P1 Starts With Score 400
+patch=1,EE,D048A340,extended,00000000
+
+[P1 Starts With Score 400]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Starts With Score 400
+// P1 Starts With Score 400
+patch=1,EE,2048A340,extended,00000190
+
+[P1 Starts With Score 300]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Starts With Score 300
+// P1 Starts With Score 300
+patch=1,EE,D048A340,extended,00000000
+
+[P1 Starts With Score 300]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Starts With Score 300
+// P1 Starts With Score 300
+patch=1,EE,2048A340,extended,0000012C
+
+[P1 Starts With Score 200]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Starts With Score 200
+// P1 Starts With Score 200
+patch=1,EE,D048A340,extended,00000000
+
+[P1 Starts With Score 200]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Starts With Score 200
+// P1 Starts With Score 200
+patch=1,EE,2048A340,extended,000000C8
+
+[P1 Starts With Score 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Starts With Score 100
+// P1 Starts With Score 100
+patch=1,EE,D048A340,extended,00000000
+
+[P1 Starts With Score 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Starts With Score 100
+// P1 Starts With Score 100
+patch=1,EE,2048A340,extended,00000064
+
+[P2 Starts With Score 500]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Starts With Score 500
+// P2 Starts With Score 500
+patch=1,EE,D048A344,extended,00000000
+
+[P2 Starts With Score 500]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Starts With Score 500
+// P2 Starts With Score 500
+patch=1,EE,2048A344,extended,000001F4
+
+[P2 Starts With Score 400]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Starts With Score 400
+// P2 Starts With Score 400
+patch=1,EE,D048A344,extended,00000000
+
+[P2 Starts With Score 400]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Starts With Score 400
+// P2 Starts With Score 400
+patch=1,EE,2048A344,extended,00000190
+
+[P2 Starts With Score 300]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Starts With Score 300
+// P2 Starts With Score 300
+patch=1,EE,D048A344,extended,00000000
+
+[P2 Starts With Score 300]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Starts With Score 300
+// P2 Starts With Score 300
+patch=1,EE,2048A344,extended,0000012C
+
+[P2 Starts With Score 200]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Starts With Score 200
+// P2 Starts With Score 200
+patch=1,EE,D048A344,extended,00000000
+
+[P2 Starts With Score 200]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Starts With Score 200
+// P2 Starts With Score 200
+patch=1,EE,2048A344,extended,000000C8
+
+[P2 Starts With Score 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Starts With Score 100
+// P2 Starts With Score 100
+patch=1,EE,D048A344,extended,00000000
+
+[P2 Starts With Score 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Starts With Score 100
+// P2 Starts With Score 100
+patch=1,EE,2048A344,extended,00000064
+
+[P1 Press {L1}+{SELECT} For Instant Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For Instant Win
+// P1 Press {L1}+{SELECT} For Instant Win
+patch=1,EE,D0855882,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} For Instant Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For Instant Win
+// P1 Press {L1}+{SELECT} For Instant Win
+patch=1,EE,2048A340,extended,00000258
+
+[P1 Press {L2}+{SELECT} For P2 Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For P2 Scores 0
+// P1 Press {L2}+{SELECT} For P2 Scores 0
+patch=1,EE,D0855882,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} For P2 Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For P2 Scores 0
+// P1 Press {L2}+{SELECT} For P2 Scores 0
+patch=1,EE,2048A344,extended,00000000
+
+[P2 Press {L1}+{SELECT} For Instant Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} For Instant Win
+// P2 Press {L1}+{SELECT} For Instant Win
+patch=1,EE,D0855982,extended,0000FBFE
+
+[P2 Press {L1}+{SELECT} For Instant Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} For Instant Win
+// P2 Press {L1}+{SELECT} For Instant Win
+patch=1,EE,2048A344,extended,00000258
+
+[P2 Press {L2}+{SELECT} For P2 Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L2}+{SELECT} For P2 Scores 0
+// P2 Press {L2}+{SELECT} For P2 Scores 0
+patch=1,EE,D0855982,extended,0000FEFE
+
+[P2 Press {L2}+{SELECT} For P2 Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L2}+{SELECT} For P2 Scores 0
+// P2 Press {L2}+{SELECT} For P2 Scores 0
+patch=1,EE,2048A340,extended,00000000

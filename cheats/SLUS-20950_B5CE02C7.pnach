@@ -1,0 +1,313 @@
+gametitle=Capcom Fighting Evolution [SLUS-20950] [B5CE02C7]
+
+[Max High Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max High Score
+// Max High Score
+patch=1,EE,901282D8,extended,0C0484B4
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,2033BA10,extended,FFFFFFFF
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,2033BA14,extended,FFFFFFFF
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,1035C28C,extended,00000063
+
+[Infinite Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1
+// Infinite Health P1
+patch=1,EE,20340D98,extended,00003C00
+
+[Infinite Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1
+// Infinite Health P1
+patch=1,EE,20340D94,extended,3C003C00
+
+[75% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P1
+// 75% Health P1
+patch=1,EE,20340D98,extended,00003C00
+
+[75% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P1
+// 75% Health P1
+patch=1,EE,D0320D94,extended,00302D00
+
+[75% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P1
+// 75% Health P1
+patch=1,EE,20340D94,extended,2D002D00
+
+[50% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P1
+// 50% Health P1
+patch=1,EE,20340D98,extended,00003C00
+
+[50% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P1
+// 50% Health P1
+patch=1,EE,D0320D94,extended,00301E00
+
+[50% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P1
+// 50% Health P1
+patch=1,EE,20340D94,extended,1E001E00
+
+[25% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P1
+// 25% Health P1
+patch=1,EE,20340D98,extended,00003C00
+
+[25% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P1
+// 25% Health P1
+patch=1,EE,D0320D94,extended,00300F00
+
+[25% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P1
+// 25% Health P1
+patch=1,EE,20340D94,extended,0F000F00
+
+[1-Hit Death P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P1
+// 1-Hit Death P1
+patch=1,EE,20340D98,extended,00003C00
+
+[1-Hit Death P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P1
+// 1-Hit Death P1
+patch=1,EE,D0320D94,extended,00300001
+
+[1-Hit Death P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P1
+// 1-Hit Death P1
+patch=1,EE,20340D94,extended,00010001
+
+[No Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P1
+// No Health P1
+patch=1,EE,20340D98,extended,00003C00
+
+[No Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P1
+// No Health P1
+patch=1,EE,20340D94,extended,00000000
+
+[Max Special P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special P1
+// Max Special P1
+patch=1,EE,20340EA0,extended,0000270F
+
+[No Special P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Special P1
+// No Special P1
+patch=1,EE,20340EA0,extended,00000000
+
+[Quick Score Gain P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain P1
+// Quick Score Gain P1
+patch=1,EE,10341118,extended,0000FFFF
+
+[Max Score P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P1
+// Max Score P1
+patch=1,EE,20341118,extended,05F5E0FF
+
+[No Score P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Score P1
+// No Score P1
+patch=1,EE,20341118,extended,00000000
+
+[P1 Needs 1 Win To Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Needs 1 Win To Win
+// P1 Needs 1 Win To Win
+patch=1,EE,D0341726,extended,00010000
+
+[P1 Needs 1 Win To Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Needs 1 Win To Win
+// P1 Needs 1 Win To Win
+patch=1,EE,00341726,extended,00000001
+
+[P1 Never Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Never Wins
+// P1 Never Wins
+patch=1,EE,00341726,extended,00000000
+
+[Infinite Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1
+// Infinite Health P1
+patch=1,EE,20341358,extended,00003C00
+
+[Infinite Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1
+// Infinite Health P1
+patch=1,EE,20341354,extended,3C003C00
+
+[75% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P1
+// 75% Health P1
+patch=1,EE,20341358,extended,00003C00
+
+[75% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P1
+// 75% Health P1
+patch=1,EE,D0341354,extended,00302D00
+
+[75% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=75% Health P1
+// 75% Health P1
+patch=1,EE,20341354,extended,2D002D00
+
+[50% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P1
+// 50% Health P1
+patch=1,EE,20341358,extended,00003C00
+
+[50% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P1
+// 50% Health P1
+patch=1,EE,D0341354,extended,00301E00
+
+[50% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50% Health P1
+// 50% Health P1
+patch=1,EE,20341354,extended,1E001E00
+
+[25% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P1
+// 25% Health P1
+patch=1,EE,20341358,extended,00003C00
+
+[25% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P1
+// 25% Health P1
+patch=1,EE,D0341354,extended,00300F00
+
+[25% Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=25% Health P1
+// 25% Health P1
+patch=1,EE,20341354,extended,0F000F00
+
+[1-Hit Death P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P1
+// 1-Hit Death P1
+patch=1,EE,20341358,extended,00003C00
+
+[1-Hit Death P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P1
+// 1-Hit Death P1
+patch=1,EE,D0341354,extended,00300001
+
+[1-Hit Death P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death P1
+// 1-Hit Death P1
+patch=1,EE,20341354,extended,00010001
+
+[No Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P1
+// No Health P1
+patch=1,EE,20341358,extended,00003C00
+
+[No Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P1
+// No Health P1
+patch=1,EE,20341354,extended,00000000
+
+[Max Special P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Special P2
+// Max Special P2
+patch=1,EE,20341460,extended,0000270F
+
+[No Special P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Special P2
+// No Special P2
+patch=1,EE,20341460,extended,00000000
+
+[Quick Score Gain P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain P2
+// Quick Score Gain P2
+patch=1,EE,103416D8,extended,0000FFFF
+
+[Max Score P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P2
+// Max Score P2
+patch=1,EE,203416D8,extended,05F5E0FF
+
+[No Score P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Score P2
+// No Score P2
+patch=1,EE,203416D8,extended,00000000
+
+[P2 Needs 1 Win To Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Needs 1 Win To Win
+// P2 Needs 1 Win To Win
+patch=1,EE,D0341164,extended,00010000
+
+[P2 Needs 1 Win To Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Needs 1 Win To Win
+// P2 Needs 1 Win To Win
+patch=1,EE,00341164,extended,00000001
+
+[P2 Never Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Never Wins
+// P2 Never Wins
+patch=1,EE,00341164,extended,00000000

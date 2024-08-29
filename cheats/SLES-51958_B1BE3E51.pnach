@@ -1,0 +1,265 @@
+gametitle=Whiplash [SLES-51958] [B1BE3E51]
+
+[P8 Press {L2}+{SELECT} To Start Answer Select Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L2}+{SELECT} To Start Answer Select Timer
+// P8 Press {L2}+{SELECT} To Start Answer Select Timer
+patch=1,EE,903548BC,extended,0C0D6F55
+
+[Max Power (Redmond)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power (Redmond)
+// Max Power (Redmond)
+patch=1,EE,20868C04,extended,41F00000
+
+[Infinite Hypersnacks Reserve Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Hypersnacks Reserve Points
+// Infinite Hypersnacks Reserve Points
+patch=1,EE,20868C7C,extended,461C3C00
+
+[Spanx-Level 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spanx-Level 20
+// Spanx-Level 20
+patch=1,EE,20868C80,extended,45898000
+
+[Spanx-Level 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spanx-Level 20
+// Spanx-Level 20
+patch=1,EE,20868C84,extended,00000014
+
+[Redmond-Level 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Redmond-Level 20
+// Redmond-Level 20
+patch=1,EE,20868C88,extended,45898000
+
+[Redmond-Level 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Redmond-Level 20
+// Redmond-Level 20
+patch=1,EE,20868C8C,extended,00000014
+
+[Max Health (Spanx)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health (Spanx)
+// Max Health (Spanx)
+patch=1,EE,20868DE4,extended,42DC0000
+
+[Infinite Health (Spanx)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Spanx)
+// Infinite Health (Spanx)
+patch=1,EE,20868DE8,extended,42DC0000
+
+[Infinite Running]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Running
+// Infinite Running
+patch=1,EE,20868E70,extended,40C00000
+
+[Max Mice Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mice Collected
+// Max Mice Collected
+patch=1,EE,20868E78,extended,00000035
+
+[Max Robo Mice]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Robo Mice
+// Max Robo Mice
+patch=1,EE,20868E7C,extended,00000063
+
+[P1 Press {CROSS} For Huge Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Huge Jump
+// P1 Press {CROSS} For Huge Jump
+patch=1,EE,200C0220,extended,3C010057
+
+[P1 Press {CROSS} For Huge Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Huge Jump
+// P1 Press {CROSS} For Huge Jump
+patch=1,EE,200C0224,extended,94215902
+
+[P1 Press {CROSS} For Huge Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Huge Jump
+// P1 Press {CROSS} For Huge Jump
+patch=1,EE,200C0228,extended,30214000
+
+[P1 Press {CROSS} For Huge Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Huge Jump
+// P1 Press {CROSS} For Huge Jump
+patch=1,EE,200C022C,extended,14200002
+
+[P1 Press {CROSS} For Huge Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Huge Jump
+// P1 Press {CROSS} For Huge Jump
+patch=1,EE,200C0230,extended,3C014400
+
+[P1 Press {CROSS} For Huge Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Huge Jump
+// P1 Press {CROSS} For Huge Jump
+patch=1,EE,200C0234,extended,AC410018
+
+[P1 Press {CROSS} For Huge Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Huge Jump
+// P1 Press {CROSS} For Huge Jump
+patch=1,EE,200C0238,extended,C4400018
+
+[P1 Press {CROSS} For Huge Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Huge Jump
+// P1 Press {CROSS} For Huge Jump
+patch=1,EE,200C023C,extended,03E00008
+
+[P1 Press {CROSS} For Huge Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Huge Jump
+// P1 Press {CROSS} For Huge Jump
+patch=1,EE,200C0240,extended,46000834
+
+[P1 Press {CROSS} For Huge Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Huge Jump
+// P1 Press {CROSS} For Huge Jump
+patch=1,EE,20171E9C,extended,0C030088
+
+[P1 Press {CROSS} For Super Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Super Jump
+// P1 Press {CROSS} For Super Jump
+patch=1,EE,200C0220,extended,3C010057
+
+[P1 Press {CROSS} For Super Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Super Jump
+// P1 Press {CROSS} For Super Jump
+patch=1,EE,200C0224,extended,94215902
+
+[P1 Press {CROSS} For Super Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Super Jump
+// P1 Press {CROSS} For Super Jump
+patch=1,EE,200C0228,extended,30214000
+
+[P1 Press {CROSS} For Super Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Super Jump
+// P1 Press {CROSS} For Super Jump
+patch=1,EE,200C022C,extended,14200002
+
+[P1 Press {CROSS} For Super Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Super Jump
+// P1 Press {CROSS} For Super Jump
+patch=1,EE,200C0230,extended,3C014440
+
+[P1 Press {CROSS} For Super Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Super Jump
+// P1 Press {CROSS} For Super Jump
+patch=1,EE,200C0234,extended,AC410018
+
+[P1 Press {CROSS} For Super Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Super Jump
+// P1 Press {CROSS} For Super Jump
+patch=1,EE,200C0238,extended,C4400018
+
+[P1 Press {CROSS} For Super Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Super Jump
+// P1 Press {CROSS} For Super Jump
+patch=1,EE,200C023C,extended,03E00008
+
+[P1 Press {CROSS} For Super Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Super Jump
+// P1 Press {CROSS} For Super Jump
+patch=1,EE,200C0240,extended,46000834
+
+[P1 Press {CROSS} For Super Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Super Jump
+// P1 Press {CROSS} For Super Jump
+patch=1,EE,20171E9C,extended,0C030088
+
+[P1 Press {CROSS} For Ultra Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Ultra Jump
+// P1 Press {CROSS} For Ultra Jump
+patch=1,EE,200C0220,extended,3C010057
+
+[P1 Press {CROSS} For Ultra Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Ultra Jump
+// P1 Press {CROSS} For Ultra Jump
+patch=1,EE,200C0224,extended,94215902
+
+[P1 Press {CROSS} For Ultra Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Ultra Jump
+// P1 Press {CROSS} For Ultra Jump
+patch=1,EE,200C0228,extended,30214000
+
+[P1 Press {CROSS} For Ultra Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Ultra Jump
+// P1 Press {CROSS} For Ultra Jump
+patch=1,EE,200C022C,extended,14200002
+
+[P1 Press {CROSS} For Ultra Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Ultra Jump
+// P1 Press {CROSS} For Ultra Jump
+patch=1,EE,200C0230,extended,3C014480
+
+[P1 Press {CROSS} For Ultra Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Ultra Jump
+// P1 Press {CROSS} For Ultra Jump
+patch=1,EE,200C0234,extended,AC410018
+
+[P1 Press {CROSS} For Ultra Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Ultra Jump
+// P1 Press {CROSS} For Ultra Jump
+patch=1,EE,200C0238,extended,C4400018
+
+[P1 Press {CROSS} For Ultra Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Ultra Jump
+// P1 Press {CROSS} For Ultra Jump
+patch=1,EE,200C023C,extended,03E00008
+
+[P1 Press {CROSS} For Ultra Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Ultra Jump
+// P1 Press {CROSS} For Ultra Jump
+patch=1,EE,200C0240,extended,46000834
+
+[P1 Press {CROSS} For Ultra Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Ultra Jump
+// P1 Press {CROSS} For Ultra Jump
+patch=1,EE,20171E9C,extended,0C030088
+
+[Have All Abilities & Powerups]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Abilities & Powerups
+// Have All Abilities & Powerups
+patch=1,EE,40868C44,extended,00090001
+
+[Have All Abilities & Powerups]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Abilities & Powerups
+// Have All Abilities & Powerups
+patch=1,EE,00000002,extended,00000000

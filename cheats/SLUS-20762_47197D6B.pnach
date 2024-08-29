@@ -1,0 +1,91 @@
+gametitle=Secret Weapons Over Normandy [SLUS-20762] [47197D6B]
+
+[No Mucky Feet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mucky Feet
+// No Mucky Feet
+patch=1,EE,90164958,extended,0C04B438
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2043AC20,extended,3C01457A
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2043AC2C,extended,AC410160
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,20235DF0,extended,00000000
+
+[Enter Campaign Hangar To Unlock All Aircraft]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enter Campaign Hangar To Unlock All Aircraft
+// Enter Campaign Hangar To Unlock All Aircraft
+patch=1,EE,2047B454,extended,34630010
+
+[Enter Campaign Hangar To Unlock All Aircraft]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enter Campaign Hangar To Unlock All Aircraft
+// Enter Campaign Hangar To Unlock All Aircraft
+patch=1,EE,2047B458,extended,A2430045
+
+[Enter Campaign Hangar For All Aircraft Upgrades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enter Campaign Hangar For All Aircraft Upgrades
+// Enter Campaign Hangar For All Aircraft Upgrades
+patch=1,EE,2047B45C,extended,2401FFFF
+
+[Enter Campaign Hangar For All Aircraft Upgrades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enter Campaign Hangar For All Aircraft Upgrades
+// Enter Campaign Hangar For All Aircraft Upgrades
+patch=1,EE,2047B460,extended,AE410040
+
+[Unlock All Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Missions
+// Unlock All Missions
+patch=1,EE,205BF8A0,extended,0000000E
+
+[Unlock All Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Gallery
+// Unlock All Gallery
+patch=1,EE,105BF932,extended,00000010
+
+[Max Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Points
+// Max Points
+patch=1,EE,205BF928,extended,000003E7
+
+[Infinite Points Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Points Usage
+// Infinite Points Usage
+patch=1,EE,2047A460,extended,00000000
+
+[Extra Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Points
+// Extra Points
+patch=1,EE,1047A458,extended,00000001
+
+[Invulnerability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invulnerability
+// Invulnerability
+patch=1,EE,205A2B6C,extended,00000001
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,205A2B70,extended,00000001

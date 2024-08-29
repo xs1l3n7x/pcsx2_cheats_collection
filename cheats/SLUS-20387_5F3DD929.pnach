@@ -1,0 +1,4015 @@
+gametitle=Suikoden III [SLUS-20387] [5F3DD929]
+
+[Press {R3}, {L3} For Invincibility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R3}, {L3} For Invincibility
+// Press {R3}, {L3} For Invincibility
+patch=1,EE,91901C74,extended,0C643A72
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,1196E5F0,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,2196E5F0,extended,000F423F
+
+[Infinite Item Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Item Usage
+// Infinite Item Usage
+patch=1,EE,116DD7DE,extended,00001000
+
+[Infinite Item Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Item Usage
+// Infinite Item Usage
+patch=1,EE,216DD7F4,extended,00000000
+
+[Infinite Rune Usage (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Rune Usage (In-Battle)
+// Infinite Rune Usage (In-Battle)
+patch=1,EE,2181B8B0,extended,00000000
+
+[Quick Exp Gain (After Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Exp Gain (After Battle)
+// Quick Exp Gain (After Battle)
+patch=1,EE,216C905C,extended,24420063
+
+[Super Quick Exp Gain (After Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Quick Exp Gain (After Battle)
+// Super Quick Exp Gain (After Battle)
+patch=1,EE,216C905C,extended,244203E7
+
+[Insanely Quick Exp Gain (After Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Insanely Quick Exp Gain (After Battle)
+// Insanely Quick Exp Gain (After Battle)
+patch=1,EE,216C905C,extended,2442270F
+
+[Quick Skill Point Gain (After Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Skill Point Gain (After Battle)
+// Quick Skill Point Gain (After Battle)
+patch=1,EE,216C9124,extended,24420063
+
+[Super Quick Skill Point Gain (After Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Quick Skill Point Gain (After Battle)
+// Super Quick Skill Point Gain (After Battle)
+patch=1,EE,216C9124,extended,244203E7
+
+[Insanely Quick Skill Point Gain (After Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Insanely Quick Skill Point Gain (After Battle)
+// Insanely Quick Skill Point Gain (After Battle)
+patch=1,EE,216C9124,extended,2442270F
+
+[Have All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Characters
+// Have All Characters
+patch=1,EE,1196B612,extended,00000004
+
+[Have All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Characters
+// Have All Characters
+patch=1,EE,4196B614,extended,00380001
+
+[Have All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Characters
+// Have All Characters
+patch=1,EE,00040004,extended,00000000
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196E78C,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196E78C,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196E790,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196E7BC,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196E7BE,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196E7CC,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196E818,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196E818,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196E81C,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196E848,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196E84A,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196E858,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196E8A4,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196E8A4,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196E8A8,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196E8D4,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196E8D6,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196E8E4,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196E930,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196E930,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196E934,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196E960,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196E962,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196E970,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196E9BC,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196E9BC,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196E9C0,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196E9EC,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196E9EE,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196E9FC,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196EA48,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196EA48,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196EA4C,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196EA78,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196EA7A,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196EA88,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196EAD4,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196EAD4,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196EAD8,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196EB04,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196EB06,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196EB14,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196EB60,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196EB60,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196EB64,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196EB90,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196EB92,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196EBA0,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196EBEC,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196EBEC,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196EBF0,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196EC1C,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196EC1E,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196EC2C,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196EC78,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196EC78,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196EC7C,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196ECA8,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196ECAA,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196ECB8,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196ED04,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196ED04,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196ED08,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196ED34,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196ED36,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196ED44,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196ED90,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196ED90,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196ED94,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196EDC0,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196EDC2,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196EDD0,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196EE1C,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196EE1C,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196EE20,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196EE4C,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196EE4E,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196EE5C,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196EEA8,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196EEA8,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196EEAC,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196EED8,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196EEDA,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196EEE8,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196EF34,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196EF34,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196EF38,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196EF64,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196EF66,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196EF74,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196EFC0,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196EFC0,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196EFC4,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196EFF0,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196EFF2,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196F000,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196F04C,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196F04C,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196F050,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196F07C,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196F07E,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196F08C,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196F0D8,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196F0D8,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196F0DC,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196F108,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196F10A,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196F118,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196F164,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196F164,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196F168,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196F194,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196F196,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196F1A4,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196F1F0,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196F1F0,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196F1F4,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196F220,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196F222,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196F230,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196F27C,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196F27C,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196F280,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196F2AC,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196F2AE,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196F2BC,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196F308,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196F308,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196F30C,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196F338,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196F33A,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196F348,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196F394,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196F394,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196F398,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196F3C4,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196F3C6,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196F3D4,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196F420,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196F420,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196F424,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196F450,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196F452,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196F460,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196F4AC,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196F4AC,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196F4B0,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196F4DC,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196F4DE,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196F4EC,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196F538,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196F538,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196F53C,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196F568,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196F56A,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196F578,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196F5C4,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196F5C4,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196F5C8,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196F5F4,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196F5F6,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196F604,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196F650,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196F650,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196F654,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196F680,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196F682,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196F690,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196F6DC,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196F6DC,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196F6E0,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196F70C,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196F70E,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196F71C,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196F768,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196F768,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196F76C,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196F798,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196F79A,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196F7A8,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196F7F4,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196F7F4,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196F7F8,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196F824,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196F826,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196F834,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196F880,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196F880,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196F884,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196F8B0,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196F8B2,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196F8C0,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196F90C,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196F90C,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196F910,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196F93C,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196F93E,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196F94C,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196F998,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196F998,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196F99C,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196F9C8,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196F9CA,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196F9D8,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196FA24,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196FA24,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196FA28,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196FA54,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196FA56,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196FA64,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196FAB0,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196FAB0,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196FAB4,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196FAE0,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196FAE2,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196FAF0,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196FB3C,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196FB3C,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196FB40,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196FB6C,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196FB6E,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196FB7C,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196FBC8,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196FBC8,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196FBCC,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196FBF8,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196FBFA,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196FC08,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196FC54,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196FC54,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196FC58,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196FC84,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196FC86,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196FC94,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196FCE0,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196FCE0,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196FCE4,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196FD10,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196FD12,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196FD20,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196FD6C,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196FD6C,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196FD70,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196FD9C,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196FD9E,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196FDAC,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196FDF8,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196FDF8,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196FDFC,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196FE28,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196FE2A,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196FE38,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196FE84,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196FE84,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196FE88,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196FEB4,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196FEB6,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196FEC4,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196FF10,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196FF10,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196FF14,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196FF40,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196FF42,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196FF50,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D196FF9C,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1196FF9C,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2196FFA0,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1196FFCC,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1196FFCE,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0196FFDC,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1970028,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11970028,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2197002C,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11970058,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1197005A,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01970068,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D19700B4,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,119700B4,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,219700B8,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,119700E4,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,119700E6,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,019700F4,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1970140,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11970140,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21970144,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11970170,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11970172,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01970180,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D19701CC,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,119701CC,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,219701D0,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,119701FC,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,119701FE,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0197020C,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1970258,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11970258,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2197025C,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11970288,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1197028A,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01970298,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D19702E4,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,119702E4,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,219702E8,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11970314,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11970316,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01970324,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1970370,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11970370,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21970374,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,119703A0,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,119703A2,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,019703B0,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D19703FC,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,119703FC,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21970400,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1197042C,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1197042E,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0197043C,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1970488,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11970488,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2197048C,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,119704B8,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,119704BA,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,019704C8,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1970514,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11970514,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21970518,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11970544,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11970546,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01970554,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D19705A0,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,119705A0,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,219705A4,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,119705D0,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,119705D2,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,019705E0,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D197062C,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1197062C,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21970630,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1197065C,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1197065E,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0197066C,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D19706B8,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,119706B8,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,219706BC,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,119706E8,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,119706EA,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,019706F8,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1970744,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11970744,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21970748,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11970774,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11970776,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01970784,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D19707D0,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,119707D0,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,219707D4,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11970800,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11970802,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01970810,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D197085C,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1197085C,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21970860,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1197088C,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1197088E,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0197089C,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D19708E8,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,119708E8,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,219708EC,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11970918,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1197091A,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01970928,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1970974,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11970974,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21970978,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,119709A4,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,119709A6,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,019709B4,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1970A00,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11970A00,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21970A04,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11970A30,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11970A32,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01970A40,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1970A8C,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11970A8C,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21970A90,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11970ABC,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11970ABE,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01970ACC,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1970B18,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11970B18,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21970B1C,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11970B48,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11970B4A,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01970B58,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1970BA4,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11970BA4,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21970BA8,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11970BD4,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11970BD6,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01970BE4,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1970C30,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11970C30,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21970C34,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11970C60,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11970C62,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01970C70,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1970CBC,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11970CBC,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21970CC0,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11970CEC,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11970CEE,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01970CFC,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1970D48,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11970D48,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21970D4C,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11970D78,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11970D7A,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01970D88,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1970DD4,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11970DD4,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21970DD8,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11970E04,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11970E06,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01970E14,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1970E60,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11970E60,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21970E64,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11970E90,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11970E92,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01970EA0,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1970EEC,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11970EEC,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21970EF0,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11970F1C,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11970F1E,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01970F2C,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1970F78,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11970F78,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21970F7C,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11970FA8,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11970FAA,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01970FB8,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1971004,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11971004,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21971008,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11971034,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11971036,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01971044,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1971090,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11971090,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21971094,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,119710C0,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,119710C2,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,019710D0,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D197111C,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1197111C,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21971120,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1197114C,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1197114E,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0197115C,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D19711A8,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,119711A8,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,219711AC,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,119711D8,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,119711DA,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,019711E8,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1971234,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11971234,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21971238,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11971264,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11971266,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01971274,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D19712C0,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,119712C0,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,219712C4,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,119712F0,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,119712F2,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01971300,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D197134C,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1197134C,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21971350,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1197137C,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1197137E,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,0197138C,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D19713D8,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,119713D8,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,219713DC,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11971408,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1197140A,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01971418,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1971464,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11971464,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21971468,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11971494,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11971496,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,019714A4,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D19714F0,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,119714F0,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,219714F4,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11971520,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11971522,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01971530,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D197157C,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1197157C,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21971580,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,119715AC,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,119715AE,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,019715BC,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1971608,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11971608,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2197160C,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11971638,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1197163A,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01971648,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1971694,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11971694,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21971698,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,119716C4,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,119716C6,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,019716D4,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1971720,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11971720,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21971724,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11971750,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11971752,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01971760,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D19717AC,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,119717AC,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,219717B0,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,119717DC,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,119717DE,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,019717EC,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1971838,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11971838,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2197183C,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11971868,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1197186A,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01971878,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D19718C4,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,119718C4,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,219718C8,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,119718F4,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,119718F6,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01971904,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1971950,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11971950,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21971954,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11971980,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11971982,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01971990,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D19719DC,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,119719DC,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,219719E0,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11971A0C,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11971A0E,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01971A1C,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1971A68,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11971A68,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21971A6C,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11971A98,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11971A9A,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01971AA8,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1971AF4,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11971AF4,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21971AF8,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11971B24,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11971B26,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01971B34,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1971B80,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11971B80,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21971B84,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11971BB0,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11971BB2,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01971BC0,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1971C0C,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11971C0C,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21971C10,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11971C3C,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11971C3E,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01971C4C,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1971C98,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11971C98,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21971C9C,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11971CC8,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11971CCA,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01971CD8,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1971D24,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11971D24,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21971D28,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11971D54,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11971D56,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01971D64,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1971DB0,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11971DB0,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21971DB4,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11971DE0,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11971DE2,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01971DF0,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1971E3C,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11971E3C,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21971E40,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11971E6C,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11971E6E,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01971E7C,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1971EC8,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11971EC8,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21971ECC,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11971EF8,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11971EFA,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01971F08,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1971F54,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11971F54,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21971F58,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11971F84,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11971F86,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01971F94,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1971FE0,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11971FE0,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21971FE4,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11972010,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11972012,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01972020,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D197206C,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1197206C,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21972070,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,1197209C,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1197209E,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,019720AC,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D19720F8,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,119720F8,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,219720FC,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11972128,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,1197212A,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01972138,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1972184,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11972184,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21972188,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,119721B4,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,119721B6,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,019721C4,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D1972210,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,11972210,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,21972214,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,11972240,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,11972242,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,01972250,extended,00000063
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,D197229C,extended,002003E7
+
+[Quick Level Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up
+// Quick Level Up
+patch=1,EE,1197229C,extended,000003E7
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,219722A0,extended,000F423F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,119722CC,extended,000003E7
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,119722CE,extended,000003E7
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,019722DC,extended,00000063

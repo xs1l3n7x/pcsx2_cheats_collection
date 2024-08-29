@@ -1,0 +1,151 @@
+gametitle=Defender [SLUS-20191] [10BB2872]
+
+[Max Dev Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Dev Points
+// Max Dev Points
+patch=1,EE,902398D4,extended,0C098105
+
+[Infinite Lives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives
+// Infinite Lives
+patch=1,EE,105653C4,extended,00000009
+
+[Infinite Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Credits
+// Infinite Credits
+patch=1,EE,105653C8,extended,0000FFFF
+
+[Max Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Credits
+// Max Credits
+patch=1,EE,205653C8,extended,05F5E0FF
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,201DFB54,extended,00000000
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,201E02BC,extended,00000000
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,201E02C8,extended,00000000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20186DB4,extended,8E01020C
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20186DB8,extended,AE010208
+
+[Unlock All Ships]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Ships
+// Unlock All Ships
+patch=1,EE,20565360,extended,000000FF
+
+[Max TOTAL]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max TOTAL
+// Max TOTAL
+patch=1,EE,215E8BE0,extended,3B9AC9FF
+
+[Max Kill Bonus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Kill Bonus
+// Max Kill Bonus
+patch=1,EE,215E8BE4,extended,3B9AC9FF
+
+[Max Colonists Rescued]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Colonists Rescued
+// Max Colonists Rescued
+patch=1,EE,215E8BF8,extended,000003E7
+
+[No Colonists Mutated]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Colonists Mutated
+// No Colonists Mutated
+patch=1,EE,215E8C04,extended,00000000
+
+[No Colonists Killed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Colonists Killed
+// No Colonists Killed
+patch=1,EE,215E8C10,extended,00000000
+
+[Triton-Stage 1 & 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Triton-Stage 1 & 2
+// Triton-Stage 1 & 2
+patch=1,EE,20565364,extended,00000003
+
+[Prometheus-Stage 1 & 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Prometheus-Stage 1 & 2
+// Prometheus-Stage 1 & 2
+patch=1,EE,20565368,extended,00000003
+
+[Rhea-Stage 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rhea-Stage 1
+// Rhea-Stage 1
+patch=1,EE,2056536C,extended,00000001
+
+[Titan-Stage 1 & 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Titan-Stage 1 & 2
+// Titan-Stage 1 & 2
+patch=1,EE,20565370,extended,00000003
+
+[Europa-Stage 1 & 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Europa-Stage 1 & 2
+// Europa-Stage 1 & 2
+patch=1,EE,20565374,extended,00000003
+
+[Phobos-Stage 1 & 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Phobos-Stage 1 & 2
+// Phobos-Stage 1 & 2
+patch=1,EE,20565378,extended,00000003
+
+[Mars-Stage 1-4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mars-Stage 1-4
+// Mars-Stage 1-4
+patch=1,EE,2056537C,extended,0000000F
+
+[Asteroid Belt-Stage 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Asteroid Belt-Stage 1
+// Asteroid Belt-Stage 1
+patch=1,EE,20565380,extended,00000001
+
+[Moon-Stage 1-3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Moon-Stage 1-3
+// Moon-Stage 1-3
+patch=1,EE,20565384,extended,00000007
+
+[Earth-Stage 1 & 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Earth-Stage 1 & 2
+// Earth-Stage 1 & 2
+patch=1,EE,20565388,extended,00000003

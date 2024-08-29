@@ -1,0 +1,577 @@
+gametitle=Rise Of The Kasai [SCUS-97416] [EDE17E1B]
+
+[No Enemy Troops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Enemy Troops
+// No Enemy Troops
+patch=1,EE,90355AC0,extended,00832021
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20241F20,extended,C600044C
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20241F28,extended,E6000448
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20241F64,extended,C460044C
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20241F6C,extended,E4600448
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,20359048,extended,24020001
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,2020D808,extended,03E00008
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,2020D80C,extended,00000000
+
+[Infinite Arrows]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Arrows
+// Infinite Arrows
+patch=1,EE,20190638,extended,00000000
+
+[Max Infinite Arrows]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Arrows
+// Max Infinite Arrows
+patch=1,EE,20190634,extended,24020063
+
+[Extra Arrows]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Arrows
+// Extra Arrows
+patch=1,EE,10190634,extended,00000001
+
+[P1 Press {L1}+{SELECT} To Enable Walk Thru Walls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Enable Walk Thru Walls
+// P1 Press {L1}+{SELECT} To Enable Walk Thru Walls
+patch=1,EE,E002FBFE,extended,01D34542
+
+[P1 Press {L1}+{SELECT} To Enable Walk Thru Walls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Enable Walk Thru Walls
+// P1 Press {L1}+{SELECT} To Enable Walk Thru Walls
+patch=1,EE,2014F7A8,extended,03E00008
+
+[P1 Press {L1}+{SELECT} To Enable Walk Thru Walls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Enable Walk Thru Walls
+// P1 Press {L1}+{SELECT} To Enable Walk Thru Walls
+patch=1,EE,2014F7AC,extended,00000000
+
+[P1 Press {L1}+{SELECT} To Disable Walk Thru Walls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Disable Walk Thru Walls
+// P1 Press {L1}+{SELECT} To Disable Walk Thru Walls
+patch=1,EE,E002FEFE,extended,01D34542
+
+[P1 Press {L1}+{SELECT} To Disable Walk Thru Walls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Disable Walk Thru Walls
+// P1 Press {L1}+{SELECT} To Disable Walk Thru Walls
+patch=1,EE,2014F7A8,extended,27BDFFC0
+
+[P1 Press {L1}+{SELECT} To Disable Walk Thru Walls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Disable Walk Thru Walls
+// P1 Press {L1}+{SELECT} To Disable Walk Thru Walls
+patch=1,EE,2014F7AC,extended,7FB00030
+
+[Disable Weapon Wall Collisions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Weapon Wall Collisions
+// Disable Weapon Wall Collisions
+patch=1,EE,20150D38,extended,03E00008
+
+[Disable Weapon Wall Collisions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Weapon Wall Collisions
+// Disable Weapon Wall Collisions
+patch=1,EE,20150D3C,extended,00000000
+
+[Disable Wall Collisions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Wall Collisions
+// Disable Wall Collisions
+patch=1,EE,20151820,extended,03E00008
+
+[Disable Wall Collisions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Wall Collisions
+// Disable Wall Collisions
+patch=1,EE,20151824,extended,00000000
+
+[AI Can�t See/Sense/Hear You]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AI Can�t See/Sense/Hear You
+// AI Can�t See/Sense/Hear You
+patch=1,EE,2023A0A8,extended,03E00008
+
+[AI Can�t See/Sense/Hear You]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AI Can�t See/Sense/Hear You
+// AI Can�t See/Sense/Hear You
+patch=1,EE,2023A0AC,extended,00000000
+
+[AI Can't See You]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AI Can't See You
+// AI Can't See You
+patch=1,EE,201EA428,extended,00000000
+
+[AI Can�t Sense You]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AI Can�t Sense You
+// AI Can�t Sense You
+patch=1,EE,2023A148,extended,03E00008
+
+[AI Can�t Sense You]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AI Can�t Sense You
+// AI Can�t Sense You
+patch=1,EE,2023A14C,extended,00000000
+
+[AI Can�t Hear You]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AI Can�t Hear You
+// AI Can�t Hear You
+patch=1,EE,2023A168,extended,03E00008
+
+[AI Can�t Hear You]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AI Can�t Hear You
+// AI Can�t Hear You
+patch=1,EE,2023A16C,extended,00000000
+
+[Birds Don�t Runaway]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Birds Don�t Runaway
+// Birds Don�t Runaway
+patch=1,EE,2010EBF0,extended,03E00008
+
+[Birds Don�t Runaway]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Birds Don�t Runaway
+// Birds Don�t Runaway
+patch=1,EE,2010EBF4,extended,00000000
+
+[P1 Press {L1}+Up To Enable Lighting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up To Enable Lighting
+// P1 Press {L1}+Up To Enable Lighting
+patch=1,EE,D1D34542,extended,0000FBEF
+
+[P1 Press {L1}+Up To Enable Lighting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up To Enable Lighting
+// P1 Press {L1}+Up To Enable Lighting
+patch=1,EE,003FDC60,extended,00000001
+
+[P1 Press {L1}+Down To Disable Lighting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Disable Lighting
+// P1 Press {L1}+Down To Disable Lighting
+patch=1,EE,D1D34542,extended,0000FBBF
+
+[P1 Press {L1}+Down To Disable Lighting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Disable Lighting
+// P1 Press {L1}+Down To Disable Lighting
+patch=1,EE,003FDC60,extended,00000000
+
+[P1 Press {L1}+Right To Display Prev Anim Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right To Display Prev Anim Info
+// P1 Press {L1}+Right To Display Prev Anim Info
+patch=1,EE,D1D34542,extended,0000FBDF
+
+[P1 Press {L1}+Right To Display Prev Anim Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right To Display Prev Anim Info
+// P1 Press {L1}+Right To Display Prev Anim Info
+patch=1,EE,003FDDC0,extended,00000001
+
+[P1 Press {L1}+Left To Hide Prev Anim Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Left To Hide Prev Anim Info
+// P1 Press {L1}+Left To Hide Prev Anim Info
+patch=1,EE,D1D34542,extended,0000FB7F
+
+[P1 Press {L1}+Left To Hide Prev Anim Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Left To Hide Prev Anim Info
+// P1 Press {L1}+Left To Hide Prev Anim Info
+patch=1,EE,003FDDC0,extended,00000000
+
+[P1 Press {L2}+Up To Display Debug Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Up To Display Debug Info
+// P1 Press {L2}+Up To Display Debug Info
+patch=1,EE,D1D34542,extended,0000FEEF
+
+[P1 Press {L2}+Up To Display Debug Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Up To Display Debug Info
+// P1 Press {L2}+Up To Display Debug Info
+patch=1,EE,003FDDCC,extended,00000001
+
+[P1 Press {L2}+Down To Hide Debug Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Down To Hide Debug Info
+// P1 Press {L2}+Down To Hide Debug Info
+patch=1,EE,D1D34542,extended,0000FEBF
+
+[P1 Press {L2}+Down To Hide Debug Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Down To Hide Debug Info
+// P1 Press {L2}+Down To Hide Debug Info
+patch=1,EE,003FDDCC,extended,00000000
+
+[P1 Press {L2}+Right To Display Player Debug Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Right To Display Player Debug Info
+// P1 Press {L2}+Right To Display Player Debug Info
+patch=1,EE,D1D34542,extended,0000FEDF
+
+[P1 Press {L2}+Right To Display Player Debug Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Right To Display Player Debug Info
+// P1 Press {L2}+Right To Display Player Debug Info
+patch=1,EE,003FDDCE,extended,00000001
+
+[P1 Press {L2}+Right To Hide Player Debug Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Right To Hide Player Debug Info
+// P1 Press {L2}+Right To Hide Player Debug Info
+patch=1,EE,D1D34542,extended,0000FE7F
+
+[P1 Press {L2}+Right To Hide Player Debug Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Right To Hide Player Debug Info
+// P1 Press {L2}+Right To Hide Player Debug Info
+patch=1,EE,003FDDCE,extended,00000000
+
+[P1 Press {R1}+Up To Display NPC Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Up To Display NPC Info
+// P1 Press {R1}+Up To Display NPC Info
+patch=1,EE,D1D34542,extended,0000F7EF
+
+[P1 Press {R1}+Up To Display NPC Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Up To Display NPC Info
+// P1 Press {R1}+Up To Display NPC Info
+patch=1,EE,003FDDD3,extended,00000001
+
+[P1 Press {R1}+Down To Hide NPC Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Down To Hide NPC Info
+// P1 Press {R1}+Down To Hide NPC Info
+patch=1,EE,D1D34542,extended,0000F7BF
+
+[P1 Press {R1}+Down To Hide NPC Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Down To Hide NPC Info
+// P1 Press {R1}+Down To Hide NPC Info
+patch=1,EE,003FDDD3,extended,00000000
+
+[P1 Press {R1}+Right To Display Pad Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Right To Display Pad Info
+// P1 Press {R1}+Right To Display Pad Info
+patch=1,EE,D1D34542,extended,0000F7DF
+
+[P1 Press {R1}+Right To Display Pad Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Right To Display Pad Info
+// P1 Press {R1}+Right To Display Pad Info
+patch=1,EE,003FDDD4,extended,00000001
+
+[P1 Press {R1}+Left To Hide Pad Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Left To Hide Pad Info
+// P1 Press {R1}+Left To Hide Pad Info
+patch=1,EE,D1D34542,extended,0000F77F
+
+[P1 Press {R1}+Left To Hide Pad Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Left To Hide Pad Info
+// P1 Press {R1}+Left To Hide Pad Info
+patch=1,EE,003FDDD4,extended,00000000
+
+[P1 Press {R2}+Up To Display Death Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+Up To Display Death Info
+// P1 Press {R2}+Up To Display Death Info
+patch=1,EE,D1D34542,extended,0000FDEF
+
+[P1 Press {R2}+Up To Display Death Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+Up To Display Death Info
+// P1 Press {R2}+Up To Display Death Info
+patch=1,EE,003FDDD8,extended,00000001
+
+[P1 Press {R2}+Down To Hide Death Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+Down To Hide Death Info
+// P1 Press {R2}+Down To Hide Death Info
+patch=1,EE,D1D34542,extended,0000FDBF
+
+[P1 Press {R2}+Down To Hide Death Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+Down To Hide Death Info
+// P1 Press {R2}+Down To Hide Death Info
+patch=1,EE,003FDDD8,extended,00000000
+
+[P1 Press {R2}+Right To Display Death Info 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+Right To Display Death Info 2
+// P1 Press {R2}+Right To Display Death Info 2
+patch=1,EE,D1D34542,extended,0000FDDF
+
+[P1 Press {R2}+Right To Display Death Info 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+Right To Display Death Info 2
+// P1 Press {R2}+Right To Display Death Info 2
+patch=1,EE,003FDDD9,extended,00000001
+
+[P1 Press {R2}+Left To Hide Death Info 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+Left To Hide Death Info 2
+// P1 Press {R2}+Left To Hide Death Info 2
+patch=1,EE,D1D34542,extended,0000FD7F
+
+[P1 Press {R2}+Left To Hide Death Info 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+Left To Hide Death Info 2
+// P1 Press {R2}+Left To Hide Death Info 2
+patch=1,EE,003FDDD9,extended,00000000
+
+[Disable AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable AI
+// Disable AI
+patch=1,EE,003FDDDE,extended,00000000
+
+[Disable AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable AI
+// Disable AI
+patch=1,EE,003FDDE0,extended,00000000
+
+[P1 Press {L1}+{SELECT} To Enable Flying Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Enable Flying Mode
+// P1 Press {L1}+{SELECT} To Enable Flying Mode
+patch=1,EE,D1D34542,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Enable Flying Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Enable Flying Mode
+// P1 Press {L1}+{SELECT} To Enable Flying Mode
+patch=1,EE,003FDDE5,extended,00000001
+
+[P1 Press {L2}+{SELECT} To Disable Flying Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Disable Flying Mode
+// P1 Press {L2}+{SELECT} To Disable Flying Mode
+patch=1,EE,D1D34542,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Disable Flying Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Disable Flying Mode
+// P1 Press {L2}+{SELECT} To Disable Flying Mode
+patch=1,EE,003FDDE5,extended,00000000
+
+[Invincibility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincibility
+// Invincibility
+patch=1,EE,003FDE0C,extended,00000001
+
+[P1 Press {L3}+Up To Show Memory Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3}+Up To Show Memory Info
+// P1 Press {L3}+Up To Show Memory Info
+patch=1,EE,D1D34542,extended,0000FFED
+
+[P1 Press {L3}+Up To Show Memory Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3}+Up To Show Memory Info
+// P1 Press {L3}+Up To Show Memory Info
+patch=1,EE,003FDE10,extended,00000001
+
+[P1 Press {L3}+Down To Hide Memory Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3}+Down To Hide Memory Info
+// P1 Press {L3}+Down To Hide Memory Info
+patch=1,EE,D1D34542,extended,0000FFBD
+
+[P1 Press {L3}+Down To Hide Memory Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3}+Down To Hide Memory Info
+// P1 Press {L3}+Down To Hide Memory Info
+patch=1,EE,003FDE10,extended,00000000
+
+[P1 Press {L3}+Right To Show Texture Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3}+Right To Show Texture Info
+// P1 Press {L3}+Right To Show Texture Info
+patch=1,EE,D1D34542,extended,0000FFDD
+
+[P1 Press {L3}+Right To Show Texture Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3}+Right To Show Texture Info
+// P1 Press {L3}+Right To Show Texture Info
+patch=1,EE,003FDE14,extended,00000001
+
+[P1 Press {L3}+Right To Hide Texture Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3}+Right To Hide Texture Info
+// P1 Press {L3}+Right To Hide Texture Info
+patch=1,EE,D1D34542,extended,0000FF7D
+
+[P1 Press {L3}+Right To Hide Texture Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3}+Right To Hide Texture Info
+// P1 Press {L3}+Right To Hide Texture Info
+patch=1,EE,003FDE14,extended,00000000
+
+[P1 Press {R3}+Up To Show Excite Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+Up To Show Excite Info
+// P1 Press {R3}+Up To Show Excite Info
+patch=1,EE,D1D34542,extended,0000FFEB
+
+[P1 Press {R3}+Up To Show Excite Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+Up To Show Excite Info
+// P1 Press {R3}+Up To Show Excite Info
+patch=1,EE,003FDE20,extended,00000001
+
+[P1 Press {R3}+Down To Hide Excite Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+Down To Hide Excite Info
+// P1 Press {R3}+Down To Hide Excite Info
+patch=1,EE,D1D34542,extended,0000FFBB
+
+[P1 Press {R3}+Down To Hide Excite Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+Down To Hide Excite Info
+// P1 Press {R3}+Down To Hide Excite Info
+patch=1,EE,003FDE20,extended,00000000
+
+[P1 Press {R3}+Right To Enable Env Particles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+Right To Enable Env Particles
+// P1 Press {R3}+Right To Enable Env Particles
+patch=1,EE,D1D34542,extended,0000FFDB
+
+[P1 Press {R3}+Right To Enable Env Particles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+Right To Enable Env Particles
+// P1 Press {R3}+Right To Enable Env Particles
+patch=1,EE,003FDE2C,extended,00000001
+
+[P1 Press {R3}+Left To Disable Env Particles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+Left To Disable Env Particles
+// P1 Press {R3}+Left To Disable Env Particles
+patch=1,EE,D1D34542,extended,0000FF7B
+
+[P1 Press {R3}+Left To Disable Env Particles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+Left To Disable Env Particles
+// P1 Press {R3}+Left To Disable Env Particles
+patch=1,EE,003FDE2C,extended,00000000
+
+[Unlock All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Levels
+// Unlock All Levels
+patch=1,EE,203F5570,extended,FFFFFFFF
+
+[Unlock All Arenas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Arenas
+// Unlock All Arenas
+patch=1,EE,203F5574,extended,FFFFFFFF
+
+[Unlock All Outfits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Outfits
+// Unlock All Outfits
+patch=1,EE,203F5578,extended,FFFFFFFF
+
+[Unlock All Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Movies
+// Unlock All Movies
+patch=1,EE,203F557C,extended,FFFFFFFF
+
+[Unlock All Cheats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cheats
+// Unlock All Cheats
+patch=1,EE,203F5580,extended,FFFFFFFF
+
+[Tough Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tough Enemies
+// Tough Enemies
+patch=1,EE,703F5584,extended,00000001
+
+[Arena AI Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arena AI Off
+// Arena AI Off
+patch=1,EE,703F5584,extended,00000002
+
+[Invincibility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincibility
+// Invincibility
+patch=1,EE,703F5584,extended,00000004
+
+[Wimpy Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wimpy Enemies
+// Wimpy Enemies
+patch=1,EE,703F5584,extended,00000008
+
+[Unlimited Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Ammo
+// Unlimited Ammo
+patch=1,EE,703F5584,extended,00000010
+
+[Super Player]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Player
+// Super Player
+patch=1,EE,703F5584,extended,00000020

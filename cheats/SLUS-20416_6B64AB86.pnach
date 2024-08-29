@@ -1,0 +1,457 @@
+gametitle=Headhunter [SLUS-20416] [6B64AB86]
+
+[Invisible]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisible
+// Invisible
+patch=1,EE,F0100008,extended,002200DF
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2055CA6C,extended,42C80000
+
+[Infinite Adrenaline]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Adrenaline
+// Infinite Adrenaline
+patch=1,EE,2055CA70,extended,42480000
+
+[Access All VR Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All VR Missions
+// Access All VR Missions
+patch=1,EE,1056E170,extended,0000FFFF
+
+[Have All VR Missions Completed (OK)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All VR Missions Completed (OK)
+// Have All VR Missions Completed (OK)
+patch=1,EE,2056E170,extended,FFFFFFFF
+
+[Have All VR Missions Completed (OK)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All VR Missions Completed (OK)
+// Have All VR Missions Completed (OK)
+patch=1,EE,1056E174,extended,00000000
+
+[Have All VR Missions Completed (Record)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All VR Missions Completed (Record)
+// Have All VR Missions Completed (Record)
+patch=1,EE,2056E170,extended,FFFFFFFF
+
+[Have All VR Missions Completed (Record)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All VR Missions Completed (Record)
+// Have All VR Missions Completed (Record)
+patch=1,EE,1056E174,extended,0000FFFF
+
+[Max Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Points
+// Max Skill Points
+patch=1,EE,2058991C,extended,437A0000
+
+[Always Low Time (VR Missions)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time (VR Missions)
+// Always Low Time (VR Missions)
+patch=1,EE,201DFD1C,extended,AE000000
+
+[Stimulator Automatic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stimulator Automatic
+// Stimulator Automatic
+patch=1,EE,1055CE40,extended,00000063
+
+[Stimulator Automatic +]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stimulator Automatic +
+// Stimulator Automatic +
+patch=1,EE,1055CE88,extended,00000063
+
+[Scorpion Neurostunner]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scorpion Neurostunner
+// Scorpion Neurostunner
+patch=1,EE,1055CED0,extended,00000063
+
+[Sub Maching Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sub Maching Gun
+// Sub Maching Gun
+patch=1,EE,1055CF18,extended,00000063
+
+[Regulator Shotgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Regulator Shotgun
+// Regulator Shotgun
+patch=1,EE,1055CF60,extended,00000063
+
+[Missile Launcher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Missile Launcher
+// Missile Launcher
+patch=1,EE,1055CFA8,extended,00000063
+
+[Stimulator MkII]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stimulator MkII
+// Stimulator MkII
+patch=1,EE,1055D0C8,extended,00000063
+
+[All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Weapons
+// All Weapons
+patch=1,EE,20203140,extended,00000000
+
+[Render Hero Collision]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render Hero Collision
+// Render Hero Collision
+patch=1,EE,20589AC0,extended,00000001
+
+[Render Hero Targets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render Hero Targets
+// Render Hero Targets
+patch=1,EE,20589AC4,extended,00000001
+
+[Render Collision Intersections]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render Collision Intersections
+// Render Collision Intersections
+patch=1,EE,20589AC8,extended,00000001
+
+[Render Important Positions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render Important Positions
+// Render Important Positions
+patch=1,EE,20589ACC,extended,00000001
+
+[Render View Circle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render View Circle
+// Render View Circle
+patch=1,EE,20589AD0,extended,00000001
+
+[Render Hero Visible Line]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render Hero Visible Line
+// Render Hero Visible Line
+patch=1,EE,20589AD4,extended,00000001
+
+[Render Actionpoints]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render Actionpoints
+// Render Actionpoints
+patch=1,EE,20589AD8,extended,00000001
+
+[Hero Immortal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hero Immortal
+// Hero Immortal
+patch=1,EE,20589ADC,extended,00000001
+
+[Enemies Immortal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enemies Immortal
+// Enemies Immortal
+patch=1,EE,20589AE0,extended,00000001
+
+[Show Stream Debug]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Stream Debug
+// Show Stream Debug
+patch=1,EE,20589AEC,extended,00000001
+
+[Show AI Debug]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show AI Debug
+// Show AI Debug
+patch=1,EE,20589AF0,extended,00000001
+
+[Show Bike Turbo Debug]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Bike Turbo Debug
+// Show Bike Turbo Debug
+patch=1,EE,20589AF4,extended,00000001
+
+[Antialiasing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Antialiasing
+// Antialiasing
+patch=1,EE,20589B00,extended,00000001
+
+[Hero Invisible]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hero Invisible
+// Hero Invisible
+patch=1,EE,20589B04,extended,00000001
+
+[Render Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render Accuracy
+// Render Accuracy
+patch=1,EE,20589B08,extended,00000001
+
+[Render Broken Paths]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render Broken Paths
+// Render Broken Paths
+patch=1,EE,20589B0C,extended,00000001
+
+[Render Enemy Index]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render Enemy Index
+// Render Enemy Index
+patch=1,EE,20589B10,extended,00000001
+
+[Unlimited Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlimited Ammo
+// Unlimited Ammo
+patch=1,EE,20589B14,extended,00000001
+
+[Render Searchpoints]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render Searchpoints
+// Render Searchpoints
+patch=1,EE,20589B18,extended,00000001
+
+[Disable Action Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Action Points
+// Disable Action Points
+patch=1,EE,20589B70,extended,00000001
+
+[Render Display Area]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render Display Area
+// Render Display Area
+patch=1,EE,20589B78,extended,00000001
+
+[Press {L1}+{SELECT} To Turn Collisions On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} To Turn Collisions On
+// Press {L1}+{SELECT} To Turn Collisions On
+patch=1,EE,D047B3BA,extended,0000FBFE
+
+[Press {L1}+{SELECT} To Turn Collisions On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} To Turn Collisions On
+// Press {L1}+{SELECT} To Turn Collisions On
+patch=1,EE,20589CF0,extended,00000001
+
+[Press {L2}+{SELECT} To Turn Collisions Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L2}+{SELECT} To Turn Collisions Off
+// Press {L2}+{SELECT} To Turn Collisions Off
+patch=1,EE,D047B3BA,extended,0000FEFE
+
+[Press {L2}+{SELECT} To Turn Collisions Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L2}+{SELECT} To Turn Collisions Off
+// Press {L2}+{SELECT} To Turn Collisions Off
+patch=1,EE,20589CF0,extended,00000000
+
+[Show Debug Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Debug Info
+// Show Debug Info
+patch=1,EE,20589CFC,extended,00000001
+
+[Disable All Enemies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable All Enemies
+// Disable All Enemies
+patch=1,EE,20589E94,extended,00000001
+
+[Render Vistree]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Render Vistree
+// Render Vistree
+patch=1,EE,2058C0AC,extended,00000001
+
+[Slot 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1
+// Slot 1
+patch=1,EE,203FFC8C,extended,00000063
+
+[Slot 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2
+// Slot 2
+patch=1,EE,203FFC94,extended,00000063
+
+[Slot 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3
+// Slot 3
+patch=1,EE,203FFC9C,extended,00000063
+
+[Slot 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4
+// Slot 4
+patch=1,EE,203FFCA4,extended,00000063
+
+[Slot 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 5
+// Slot 5
+patch=1,EE,203FFCAC,extended,00000063
+
+[Slot 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 6
+// Slot 6
+patch=1,EE,203FFCB4,extended,00000063
+
+[Slot 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 7
+// Slot 7
+patch=1,EE,203FFCBC,extended,00000063
+
+[Slot 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 8
+// Slot 8
+patch=1,EE,203FFCC4,extended,00000063
+
+[Slot 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 9
+// Slot 9
+patch=1,EE,203FFCCC,extended,00000063
+
+[Slot 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 10
+// Slot 10
+patch=1,EE,203FFCD4,extended,00000063
+
+[Slot 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 11
+// Slot 11
+patch=1,EE,203FFCDC,extended,00000063
+
+[Slot 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 12
+// Slot 12
+patch=1,EE,203FFCE4,extended,00000063
+
+[Slot 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 13
+// Slot 13
+patch=1,EE,203FFCEC,extended,00000063
+
+[Slot 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 14
+// Slot 14
+patch=1,EE,203FFCF4,extended,00000063
+
+[Slot 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 15
+// Slot 15
+patch=1,EE,203FFCFC,extended,00000063
+
+[Slot 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 16
+// Slot 16
+patch=1,EE,203FFD04,extended,00000063
+
+[Slot 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 17
+// Slot 17
+patch=1,EE,203FFD0C,extended,00000063
+
+[Slot 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 18
+// Slot 18
+patch=1,EE,203FFD14,extended,00000063
+
+[Slot 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 19
+// Slot 19
+patch=1,EE,203FFD1C,extended,00000063
+
+[Slot 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 20
+// Slot 20
+patch=1,EE,203FFD24,extended,00000063
+
+[Slot 21]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 21
+// Slot 21
+patch=1,EE,203FFD2C,extended,00000063
+
+[Slot 22]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 22
+// Slot 22
+patch=1,EE,203FFD34,extended,00000063
+
+[Slot 23]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 23
+// Slot 23
+patch=1,EE,203FFD3C,extended,00000063
+
+[Slot 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 24
+// Slot 24
+patch=1,EE,203FFD44,extended,00000063
+
+[Slot 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 25
+// Slot 25
+patch=1,EE,203FFD4C,extended,00000063
+
+[Slot 26]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 26
+// Slot 26
+patch=1,EE,203FFD54,extended,00000063
+
+[Slot 27]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 27
+// Slot 27
+patch=1,EE,203FFD5C,extended,00000063
+
+[Slot 28]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 28
+// Slot 28
+patch=1,EE,203FFD64,extended,00000063
+
+[Slot 29]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 29
+// Slot 29
+patch=1,EE,203FFD6C,extended,00000063
+
+[Slot 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 30
+// Slot 30
+patch=1,EE,203FFD74,extended,00000063

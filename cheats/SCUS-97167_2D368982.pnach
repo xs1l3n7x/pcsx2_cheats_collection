@@ -1,0 +1,127 @@
+gametitle=Parappa The Rapper 2 [SCUS-97167] [2D368982]
+
+[No Circuit Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Circuit Points
+// No Circuit Points
+patch=1,EE,F0100008,extended,0015B8FF
+
+[Max Score P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P1
+// Max Score P1
+patch=1,EE,20189338,extended,0001869F
+
+[Always Rap Cool]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Rap Cool
+// Always Rap Cool
+patch=1,EE,1018931C,extended,00000000
+
+[Always Rap Good]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Rap Good
+// Always Rap Good
+patch=1,EE,1AC3BCE1,extended,00000003
+
+[Unlock All Stages (After Finishing Stage 1)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Stages (After Finishing Stage 1)
+// Unlock All Stages (After Finishing Stage 1)
+patch=1,EE,11C658C8,extended,0000FFFF
+
+[Stage 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 1
+// Stage 1
+patch=1,EE,11C65900,extended,0000FFFF
+
+[Stage 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 2
+// Stage 2
+patch=1,EE,11C65904,extended,0000FFFF
+
+[Stage 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 3
+// Stage 3
+patch=1,EE,11C65908,extended,0000FFFF
+
+[Stage 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 4
+// Stage 4
+patch=1,EE,11C6590C,extended,0000FFFF
+
+[Stage 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 5
+// Stage 5
+patch=1,EE,11C65910,extended,0000FFFF
+
+[Stage 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 6
+// Stage 6
+patch=1,EE,11C65914,extended,0000FFFF
+
+[Stage 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 7
+// Stage 7
+patch=1,EE,11C65918,extended,0000FFFF
+
+[Stage 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 8
+// Stage 8
+patch=1,EE,11C6591C,extended,0000FFFF
+
+[Stage 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 1
+// Stage 1
+patch=1,EE,11C65960,extended,0000FFFF
+
+[Stage 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 2
+// Stage 2
+patch=1,EE,11C65964,extended,0000FFFF
+
+[Stage 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 3
+// Stage 3
+patch=1,EE,11C65968,extended,0000FFFF
+
+[Stage 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 4
+// Stage 4
+patch=1,EE,11C6596C,extended,0000FFFF
+
+[Stage 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 5
+// Stage 5
+patch=1,EE,11C65970,extended,0000FFFF
+
+[Stage 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 6
+// Stage 6
+patch=1,EE,11C65974,extended,0000FFFF
+
+[Stage 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 7
+// Stage 7
+patch=1,EE,11C65978,extended,0000FFFF
+
+[Stage 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 8
+// Stage 8
+patch=1,EE,11C6597C,extended,0000FFFF

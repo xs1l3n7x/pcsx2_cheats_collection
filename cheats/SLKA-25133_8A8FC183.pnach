@@ -1,0 +1,2023 @@
+gametitle=Airforce Delta Strike [SLKA-25133] [8A8FC183]
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,90145714,extended,0C04A048
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,202FE3CC,extended,24040640
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,202FE3D0,extended,A44401A4
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,202FE3D4,extended,10000011
+
+[Infinite Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Missiles
+// Infinite Missiles
+patch=1,EE,201CC174,extended,00000000
+
+[Extra Missiles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Missiles
+// Extra Missiles
+patch=1,EE,101CC170,extended,00000001
+
+[Infinite Special Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Special Weapons
+// Infinite Special Weapons
+patch=1,EE,201D06E0,extended,00000000
+
+[Infinite Special Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Special Weapons
+// Infinite Special Weapons
+patch=1,EE,201D0748,extended,00000000
+
+[Extra Special Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Special Weapons
+// Extra Special Weapons
+patch=1,EE,101D06DC,extended,00000001
+
+[Extra Special Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Special Weapons
+// Extra Special Weapons
+patch=1,EE,101D0744,extended,00000001
+
+[Infinite Mission Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Mission Time
+// Infinite Mission Time
+patch=1,EE,202C20F8,extended,00000000
+
+[Ken Thomas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ken Thomas
+// Ken Thomas
+patch=1,EE,004D1607,extended,00000000
+
+[Ruth Valentine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ruth Valentine
+// Ruth Valentine
+patch=1,EE,004D1607,extended,00000001
+
+[John Rundal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=John Rundal
+// John Rundal
+patch=1,EE,004D1607,extended,00000002
+
+[Jamie Jones]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jamie Jones
+// Jamie Jones
+patch=1,EE,004D1607,extended,00000003
+
+[Rick Campbell]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rick Campbell
+// Rick Campbell
+patch=1,EE,004D1607,extended,00000004
+
+[Alex Levine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Alex Levine
+// Alex Levine
+patch=1,EE,004D1607,extended,00000005
+
+[Holst Prendre]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Holst Prendre
+// Holst Prendre
+patch=1,EE,004D1607,extended,00000006
+
+[Brian Douglas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Brian Douglas
+// Brian Douglas
+patch=1,EE,004D1607,extended,00000007
+
+[Ellen McNichol]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ellen McNichol
+// Ellen McNichol
+patch=1,EE,004D1607,extended,00000008
+
+[Unlock All Movie Viewer Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Movie Viewer Movies
+// Unlock All Movie Viewer Movies
+patch=1,EE,104D15E2,extended,00000101
+
+[Unlock All Movie Viewer Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Movie Viewer Movies
+// Unlock All Movie Viewer Movies
+patch=1,EE,204D15E4,extended,01010101
+
+[Unlock All Movie Viewer Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Movie Viewer Movies
+// Unlock All Movie Viewer Movies
+patch=1,EE,204D15E8,extended,01010101
+
+[Unlock All Movie Viewer Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Movie Viewer Movies
+// Unlock All Movie Viewer Movies
+patch=1,EE,104D15EC,extended,00000101
+
+[Unlock All Movie Viewer Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Movie Viewer Movies
+// Unlock All Movie Viewer Movies
+patch=1,EE,004D15EE,extended,00000001
+
+[F-5E Tiger II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-5E Tiger II
+// F-5E Tiger II
+patch=1,EE,004D150C,extended,00000001
+
+[MiG-21 Bis 'Fishbed N']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MiG-21 Bis 'Fishbed N'
+// MiG-21 Bis 'Fishbed N'
+patch=1,EE,004D150D,extended,00000001
+
+[Su-20 'Fitter C']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-20 'Fitter C'
+// Su-20 'Fitter C'
+patch=1,EE,004D150E,extended,00000001
+
+[X-29A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=X-29A
+// X-29A
+patch=1,EE,004D150F,extended,00000001
+
+[MiG-29SMT 'Fulcrum C']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MiG-29SMT 'Fulcrum C'
+// MiG-29SMT 'Fulcrum C'
+patch=1,EE,004D1510,extended,00000001
+
+[Su-27LL-UV(PS)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-27LL-UV(PS)
+// Su-27LL-UV(PS)
+patch=1,EE,004D1511,extended,00000001
+
+[YF-17 Cobra]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=YF-17 Cobra
+// YF-17 Cobra
+patch=1,EE,004D1512,extended,00000001
+
+[F-2A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-2A
+// F-2A
+patch=1,EE,004D1513,extended,00000001
+
+[MiG-1.44 MFI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MiG-1.44 MFI
+// MiG-1.44 MFI
+patch=1,EE,004D1514,extended,00000001
+
+[X-32A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=X-32A
+// X-32A
+patch=1,EE,004D1515,extended,00000001
+
+[S-55 LFS]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=S-55 LFS
+// S-55 LFS
+patch=1,EE,004D1516,extended,00000001
+
+[F/A-22 Raptor(tm)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F/A-22 Raptor(tm)
+// F/A-22 Raptor(tm)
+patch=1,EE,004D1517,extended,00000001
+
+[Hunter FGA9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunter FGA9
+// Hunter FGA9
+patch=1,EE,004D1518,extended,00000001
+
+[Su-17M 'Fitter D']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-17M 'Fitter D'
+// Su-17M 'Fitter D'
+patch=1,EE,004D1519,extended,00000001
+
+[Su-24M 'Fencer D']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-24M 'Fencer D'
+// Su-24M 'Fencer D'
+patch=1,EE,004D151D,extended,00000001
+
+[F5D-1 Skylancer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F5D-1 Skylancer
+// F5D-1 Skylancer
+patch=1,EE,004D151E,extended,00000001
+
+[8IIM(jian-Ji 8IIM) 'Finback B']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=8IIM(jian-Ji 8IIM) 'Finback B'
+// 8IIM(jian-Ji 8IIM) 'Finback B'
+patch=1,EE,004D151F,extended,00000001
+
+[F-20 Tigershark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-20 Tigershark
+// F-20 Tigershark
+patch=1,EE,004D1520,extended,00000001
+
+[HiMat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=HiMat
+// HiMat
+patch=1,EE,004D1521,extended,00000001
+
+[F-14D Tomcat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-14D Tomcat
+// F-14D Tomcat
+patch=1,EE,004D1522,extended,00000001
+
+[F/A-18C Hornet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F/A-18C Hornet
+// F/A-18C Hornet
+patch=1,EE,004D1523,extended,00000001
+
+[Su-30MKI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-30MKI
+// Su-30MKI
+patch=1,EE,004D1524,extended,00000001
+
+[12 (Jian-Ji 12)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12 (Jian-Ji 12)
+// 12 (Jian-Ji 12)
+patch=1,EE,004D1525,extended,00000001
+
+[F-15E Strike Eagle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-15E Strike Eagle
+// F-15E Strike Eagle
+patch=1,EE,004D1526,extended,00000001
+
+[Su-35 'Flanker E']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-35 'Flanker E'
+// Su-35 'Flanker E'
+patch=1,EE,004D1527,extended,00000001
+
+[YF-23A Black Widow II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=YF-23A Black Widow II
+// YF-23A Black Widow II
+patch=1,EE,004D1528,extended,00000001
+
+[11 (Jian-Ji 11)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=11 (Jian-Ji 11)
+// 11 (Jian-Ji 11)
+patch=1,EE,004D1529,extended,00000001
+
+[F-102A Delta Dagger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-102A Delta Dagger
+// F-102A Delta Dagger
+patch=1,EE,004D152A,extended,00000001
+
+[Su-7BM Bis 'Fitter A']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-7BM Bis 'Fitter A'
+// Su-7BM Bis 'Fitter A'
+patch=1,EE,004D152E,extended,00000001
+
+[F-106A Delta Dark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-106A Delta Dark
+// F-106A Delta Dark
+patch=1,EE,004D152F,extended,00000001
+
+[F-4E Phantom II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-4E Phantom II
+// F-4E Phantom II
+patch=1,EE,004D1530,extended,00000001
+
+[(FC-1 Fighter China)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=(FC-1 Fighter China)
+// (FC-1 Fighter China)
+patch=1,EE,004D1531,extended,00000001
+
+[MiG-23ML 'Flogger G']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MiG-23ML 'Flogger G'
+// MiG-23ML 'Flogger G'
+patch=1,EE,004D1532,extended,00000001
+
+[MiG-33 'Fulcrum']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MiG-33 'Fulcrum'
+// MiG-33 'Fulcrum'
+patch=1,EE,004D1533,extended,00000001
+
+[X-31A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=X-31A
+// X-31A
+patch=1,EE,004D1534,extended,00000001
+
+[F-16C Block 50 Fighting Falcon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-16C Block 50 Fighting Falcon
+// F-16C Block 50 Fighting Falcon
+patch=1,EE,004D1535,extended,00000001
+
+[F-15C Eagle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-15C Eagle
+// F-15C Eagle
+patch=1,EE,004D1536,extended,00000001
+
+[Su-27SMK 'Flanker B']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-27SMK 'Flanker B'
+// Su-27SMK 'Flanker B'
+patch=1,EE,004D1537,extended,00000001
+
+[Eurofighter Typhoon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Eurofighter Typhoon
+// Eurofighter Typhoon
+patch=1,EE,004D1538,extended,00000001
+
+[S-37 Berkut]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=S-37 Berkut
+// S-37 Berkut
+patch=1,EE,004D1539,extended,00000001
+
+[F-100D Super Sabre]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-100D Super Sabre
+// F-100D Super Sabre
+patch=1,EE,004D153A,extended,00000001
+
+[T6-1 (Modified Prototype)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T6-1 (Modified Prototype)
+// T6-1 (Modified Prototype)
+patch=1,EE,004D153B,extended,00000001
+
+[P-38L Lightning]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P-38L Lightning
+// P-38L Lightning
+patch=1,EE,004D153F,extended,00000001
+
+[P-51D Mustang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P-51D Mustang
+// P-51D Mustang
+patch=1,EE,004D1540,extended,00000001
+
+[II-2M3 Shturmovik]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=II-2M3 Shturmovik
+// II-2M3 Shturmovik
+patch=1,EE,004D1541,extended,00000001
+
+[Spitfire Mk24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spitfire Mk24
+// Spitfire Mk24
+patch=1,EE,004D1542,extended,00000001
+
+[F-86L Sabre Jet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-86L Sabre Jet
+// F-86L Sabre Jet
+patch=1,EE,004D1543,extended,00000001
+
+[Lightning F6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lightning F6
+// Lightning F6
+patch=1,EE,004D1550,extended,00000001
+
+[6 (Jian-Ji 6Jin)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=6 (Jian-Ji 6Jin)
+// 6 (Jian-Ji 6Jin)
+patch=1,EE,004D1551,extended,00000001
+
+[YF-12A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=YF-12A
+// YF-12A
+patch=1,EE,004D1552,extended,00000001
+
+[F-104G Starfighter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-104G Starfighter
+// F-104G Starfighter
+patch=1,EE,004D1553,extended,00000001
+
+[F-108 Rapier (Early Plan)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-108 Rapier (Early Plan)
+// F-108 Rapier (Early Plan)
+patch=1,EE,004D1554,extended,00000001
+
+[TSR2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=TSR2
+// TSR2
+patch=1,EE,004D1555,extended,00000001
+
+[Mig-27k 'Flogger J']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mig-27k 'Flogger J'
+// Mig-27k 'Flogger J'
+patch=1,EE,004D1556,extended,00000001
+
+[F-111F]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-111F
+// F-111F
+patch=1,EE,004D1557,extended,00000001
+
+[MiG-25PDS 'Foxbat E']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MiG-25PDS 'Foxbat E'
+// MiG-25PDS 'Foxbat E'
+patch=1,EE,004D1558,extended,00000001
+
+[Mig-31BM 'Foxhound']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mig-31BM 'Foxhound'
+// Mig-31BM 'Foxhound'
+patch=1,EE,004D1559,extended,00000001
+
+[Su-37]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-37
+// Su-37
+patch=1,EE,004D155A,extended,00000001
+
+[F-155/MTD Active]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-155/MTD Active
+// F-155/MTD Active
+patch=1,EE,004D155B,extended,00000001
+
+[Su-15TM 'Flagon F']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-15TM 'Flagon F'
+// Su-15TM 'Flagon F'
+patch=1,EE,004D155C,extended,00000001
+
+[7 (Jian-Ji/Honyzhaji-7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=7 (Jian-Ji/Honyzhaji-7)
+// 7 (Jian-Ji/Honyzhaji-7)
+patch=1,EE,004D155D,extended,00000001
+
+[T-58VD 'Flagon B']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T-58VD 'Flagon B'
+// T-58VD 'Flagon B'
+patch=1,EE,004D1561,extended,00000001
+
+[Yak-38 'Forger A']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yak-38 'Forger A'
+// Yak-38 'Forger A'
+patch=1,EE,004D1562,extended,00000001
+
+[Mig-19PFM 'Farmer']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mig-19PFM 'Farmer'
+// Mig-19PFM 'Farmer'
+patch=1,EE,004D1563,extended,00000001
+
+[7 MG (Jian-Ji 7 MG)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=7 MG (Jian-Ji 7 MG)
+// 7 MG (Jian-Ji 7 MG)
+patch=1,EE,004D1564,extended,00000001
+
+[F-5A Freedom Fighter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-5A Freedom Fighter
+// F-5A Freedom Fighter
+patch=1,EE,004D1565,extended,00000001
+
+[A-5A Vigilante]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=A-5A Vigilante
+// A-5A Vigilante
+patch=1,EE,004D1566,extended,00000001
+
+[8 (Jian-Ji 8) 'Finback A']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=8 (Jian-Ji 8) 'Finback A'
+// 8 (Jian-Ji 8) 'Finback A'
+patch=1,EE,004D1567,extended,00000001
+
+[AV-8B Harrier II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AV-8B Harrier II
+// AV-8B Harrier II
+patch=1,EE,004D1568,extended,00000001
+
+[SeaHarrier F/A2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SeaHarrier F/A2
+// SeaHarrier F/A2
+patch=1,EE,004D1569,extended,00000001
+
+[Yak-141 'Freestyle']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yak-141 'Freestyle'
+// Yak-141 'Freestyle'
+patch=1,EE,004D156A,extended,00000001
+
+[X-32B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=X-32B
+// X-32B
+patch=1,EE,004D156B,extended,00000001
+
+[F/A-35B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F/A-35B
+// F/A-35B
+patch=1,EE,004D156C,extended,00000001
+
+[MiG-17F 'Fresco C']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MiG-17F 'Fresco C'
+// MiG-17F 'Fresco C'
+patch=1,EE,004D156D,extended,00000001
+
+[Su-22M-4 'Fitter K']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-22M-4 'Fitter K'
+// Su-22M-4 'Fitter K'
+patch=1,EE,004D156E,extended,00000001
+
+[F-105D Thunderchief]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-105D Thunderchief
+// F-105D Thunderchief
+patch=1,EE,004D1572,extended,00000001
+
+[Su-25A 'Frogfoot']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-25A 'Frogfoot'
+// Su-25A 'Frogfoot'
+patch=1,EE,004D1573,extended,00000001
+
+[Yak-28L 'Brewer B']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yak-28L 'Brewer B'
+// Yak-28L 'Brewer B'
+patch=1,EE,004D1574,extended,00000001
+
+[A-10A Thunderbolt II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=A-10A Thunderbolt II
+// A-10A Thunderbolt II
+patch=1,EE,004D1575,extended,00000001
+
+[F-117A Nighthawk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-117A Nighthawk
+// F-117A Nighthawk
+patch=1,EE,004D1576,extended,00000001
+
+[Jaguar GR1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jaguar GR1
+// Jaguar GR1
+patch=1,EE,004D1577,extended,00000001
+
+[F-16XL]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-16XL
+// F-16XL
+patch=1,EE,004D1578,extended,00000001
+
+[Tornado GR1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tornado GR1
+// Tornado GR1
+patch=1,EE,004D1579,extended,00000001
+
+[F-15U Plus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-15U Plus
+// F-15U Plus
+patch=1,EE,004D157A,extended,00000001
+
+[X-44]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=X-44
+// X-44
+patch=1,EE,004D157B,extended,00000001
+
+[F-101B Voodoo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-101B Voodoo
+// F-101B Voodoo
+patch=1,EE,004D157C,extended,00000001
+
+[A-7E Corsair II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=A-7E Corsair II
+// A-7E Corsair II
+patch=1,EE,004D1583,extended,00000001
+
+[A-4M Skyhawk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=A-4M Skyhawk
+// A-4M Skyhawk
+patch=1,EE,004D1584,extended,00000001
+
+[Buccaneer S2D]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buccaneer S2D
+// Buccaneer S2D
+patch=1,EE,004D1585,extended,00000001
+
+[A-6E Intruder]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=A-6E Intruder
+// A-6E Intruder
+patch=1,EE,004D1586,extended,00000001
+
+[SeaVixen FAW2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SeaVixen FAW2
+// SeaVixen FAW2
+patch=1,EE,004D1587,extended,00000001
+
+[F4D-1 Skyray]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F4D-1 Skyray
+// F4D-1 Skyray
+patch=1,EE,004D1588,extended,00000001
+
+[F-1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-1
+// F-1
+patch=1,EE,004D1589,extended,00000001
+
+[Su-39 'Frogfoot']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-39 'Frogfoot'
+// Su-39 'Frogfoot'
+patch=1,EE,004D158A,extended,00000001
+
+[Su-34]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-34
+// Su-34
+patch=1,EE,004D158B,extended,00000001
+
+[F/A-18E Super Hornet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F/A-18E Super Hornet
+// F/A-18E Super Hornet
+patch=1,EE,004D158C,extended,00000001
+
+[Su-32FN]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-32FN
+// Su-32FN
+patch=1,EE,004D158D,extended,00000001
+
+[VIC Viper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=VIC Viper
+// VIC Viper
+patch=1,EE,004D15A5,extended,00000001
+
+[TwinBee]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=TwinBee
+// TwinBee
+patch=1,EE,004D15A6,extended,00000001
+
+[MX5000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MX5000
+// MX5000
+patch=1,EE,004D15A7,extended,00000001
+
+[Jerry Mouse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jerry Mouse
+// Jerry Mouse
+patch=1,EE,004D15A8,extended,00000001
+
+[Falsion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Falsion
+// Falsion
+patch=1,EE,004D15A9,extended,00000001
+
+[Blue Thunder M-45]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Thunder M-45
+// Blue Thunder M-45
+patch=1,EE,004D15AA,extended,00000001
+
+[Manbou-J]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manbou-J
+// Manbou-J
+patch=1,EE,004D15AB,extended,00000001
+
+[Block Shooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Block Shooter
+// Block Shooter
+patch=1,EE,004D15AC,extended,00000001
+
+[Super Fighter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Fighter
+// Super Fighter
+patch=1,EE,004D15AD,extended,00000001
+
+[Flint-Rock]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flint-Rock
+// Flint-Rock
+patch=1,EE,004D15AE,extended,00000001
+
+[Penta]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Penta
+// Penta
+patch=1,EE,004D15AF,extended,00000001
+
+[Aura-Wing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aura-Wing
+// Aura-Wing
+patch=1,EE,004D15B0,extended,00000001
+
+[Axelay]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axelay
+// Axelay
+patch=1,EE,004D15B1,extended,00000001
+
+[Poly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poly
+// Poly
+patch=1,EE,004D15B2,extended,00000001
+
+[Always Low Total Time Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Time Played
+// Always Low Total Time Played
+patch=1,EE,204D1684,extended,00000000
+
+[Max Total Reward Acquired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Reward Acquired
+// Max Total Reward Acquired
+patch=1,EE,204D1688,extended,000F423F
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,204D168C,extended,000F423F
+
+[Max Total # Of Take Offs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total # Of Take Offs
+// Max Total # Of Take Offs
+patch=1,EE,204D1690,extended,0000270F
+
+[Always Low Total # Of Times Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total # Of Times Downed
+// Always Low Total # Of Times Downed
+patch=1,EE,204D1694,extended,00000000
+
+[Max Total # Of Enemy Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total # Of Enemy Downed
+// Max Total # Of Enemy Downed
+patch=1,EE,204D1698,extended,0000270F
+
+[Max # Of Aircrafts Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Aircrafts Downed
+// Max # Of Aircrafts Downed
+patch=1,EE,204D169C,extended,0000270F
+
+[Max # Of Planes Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Planes Downed
+// Max # Of Planes Downed
+patch=1,EE,204D16A0,extended,0000270F
+
+[Max # Of Grounds Objects Destroyed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Grounds Objects Destroyed
+// Max # Of Grounds Objects Destroyed
+patch=1,EE,204D16A4,extended,0000270F
+
+[Max # Of Aces Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Aces Downed
+// Max # Of Aces Downed
+patch=1,EE,204D16A8,extended,0000270F
+
+[F-5E Tiger II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-5E Tiger II
+// F-5E Tiger II
+patch=1,EE,104D16AC,extended,00000101
+
+[MiG-21 Bis 'Fishbed N']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MiG-21 Bis 'Fishbed N'
+// MiG-21 Bis 'Fishbed N'
+patch=1,EE,104D16B8,extended,00000101
+
+[Su-20 'Fitter C']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-20 'Fitter C'
+// Su-20 'Fitter C'
+patch=1,EE,104D16C4,extended,00000101
+
+[X-29A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=X-29A
+// X-29A
+patch=1,EE,104D16D0,extended,00000101
+
+[MiG-29SMT 'Fulcrum C']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MiG-29SMT 'Fulcrum C'
+// MiG-29SMT 'Fulcrum C'
+patch=1,EE,104D16DC,extended,00000101
+
+[Su-27LL-UV(PS)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-27LL-UV(PS)
+// Su-27LL-UV(PS)
+patch=1,EE,104D16E8,extended,00000101
+
+[YF-17 Cobra]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=YF-17 Cobra
+// YF-17 Cobra
+patch=1,EE,104D16F4,extended,00000101
+
+[F-2A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-2A
+// F-2A
+patch=1,EE,104D1700,extended,00000101
+
+[MiG-1.44 MFI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MiG-1.44 MFI
+// MiG-1.44 MFI
+patch=1,EE,104D170C,extended,00000101
+
+[X-32A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=X-32A
+// X-32A
+patch=1,EE,104D1718,extended,00000101
+
+[S-55 LFS]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=S-55 LFS
+// S-55 LFS
+patch=1,EE,104D1724,extended,00000101
+
+[F/A-22 Raptor(tm)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F/A-22 Raptor(tm)
+// F/A-22 Raptor(tm)
+patch=1,EE,104D1730,extended,00000101
+
+[Hunter FGA9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunter FGA9
+// Hunter FGA9
+patch=1,EE,104D173C,extended,00000101
+
+[Su-17M 'Fitter D']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-17M 'Fitter D'
+// Su-17M 'Fitter D'
+patch=1,EE,104D1748,extended,00000101
+
+[Always Low Total Time Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Time Played
+// Always Low Total Time Played
+patch=1,EE,204D1798,extended,00000000
+
+[Max Total Reward Acquired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Reward Acquired
+// Max Total Reward Acquired
+patch=1,EE,204D179C,extended,000F423F
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,204D17A0,extended,000F423F
+
+[Max Total # Of Take Offs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total # Of Take Offs
+// Max Total # Of Take Offs
+patch=1,EE,204D17A4,extended,0000270F
+
+[Always Low Total # Of Times Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total # Of Times Downed
+// Always Low Total # Of Times Downed
+patch=1,EE,204D17A8,extended,00000000
+
+[Max Total # Of Enemy Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total # Of Enemy Downed
+// Max Total # Of Enemy Downed
+patch=1,EE,204D17AC,extended,0000270F
+
+[Max # Of Aircrafts Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Aircrafts Downed
+// Max # Of Aircrafts Downed
+patch=1,EE,204D17B0,extended,0000270F
+
+[Max # Of Planes Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Planes Downed
+// Max # Of Planes Downed
+patch=1,EE,204D17B4,extended,0000270F
+
+[Max # Of Grounds Objects Destroyed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Grounds Objects Destroyed
+// Max # Of Grounds Objects Destroyed
+patch=1,EE,204D17B8,extended,0000270F
+
+[Max # Of Aces Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Aces Downed
+// Max # Of Aces Downed
+patch=1,EE,204D17BC,extended,0000270F
+
+[Su-24M 'Fencer D']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-24M 'Fencer D'
+// Su-24M 'Fencer D'
+patch=1,EE,104D17C0,extended,00000101
+
+[F5D-1 Skylancer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F5D-1 Skylancer
+// F5D-1 Skylancer
+patch=1,EE,104D17CC,extended,00000101
+
+[8IIM(jian-Ji 8IIM) 'Finback B']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=8IIM(jian-Ji 8IIM) 'Finback B'
+// 8IIM(jian-Ji 8IIM) 'Finback B'
+patch=1,EE,104D17D8,extended,00000101
+
+[F-20 Tigershark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-20 Tigershark
+// F-20 Tigershark
+patch=1,EE,104D17E4,extended,00000101
+
+[HiMat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=HiMat
+// HiMat
+patch=1,EE,104D17F0,extended,00000101
+
+[F-14D Tomcat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-14D Tomcat
+// F-14D Tomcat
+patch=1,EE,104D17FC,extended,00000101
+
+[F/A-18C Hornet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F/A-18C Hornet
+// F/A-18C Hornet
+patch=1,EE,104D1808,extended,00000101
+
+[Su-30MKI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-30MKI
+// Su-30MKI
+patch=1,EE,104D1814,extended,00000101
+
+[12 (Jian-Ji 12)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12 (Jian-Ji 12)
+// 12 (Jian-Ji 12)
+patch=1,EE,104D1820,extended,00000101
+
+[F-15E Strike Eagle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-15E Strike Eagle
+// F-15E Strike Eagle
+patch=1,EE,104D182C,extended,00000101
+
+[Su-35 'Flanker E']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-35 'Flanker E'
+// Su-35 'Flanker E'
+patch=1,EE,104D1838,extended,00000101
+
+[YF-23A Black Widow II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=YF-23A Black Widow II
+// YF-23A Black Widow II
+patch=1,EE,104D1844,extended,00000101
+
+[11 (Jian-Ji 11)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=11 (Jian-Ji 11)
+// 11 (Jian-Ji 11)
+patch=1,EE,104D1850,extended,00000101
+
+[F-102A Delta Dagger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-102A Delta Dagger
+// F-102A Delta Dagger
+patch=1,EE,104D185C,extended,00000101
+
+[Always Low Total Time Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Time Played
+// Always Low Total Time Played
+patch=1,EE,204D18AC,extended,00000000
+
+[Max Total Reward Acquired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Reward Acquired
+// Max Total Reward Acquired
+patch=1,EE,204D18B0,extended,000F423F
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,204D18B4,extended,000F423F
+
+[Max Total # Of Take Offs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total # Of Take Offs
+// Max Total # Of Take Offs
+patch=1,EE,204D18B8,extended,0000270F
+
+[Always Low Total # Of Times Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total # Of Times Downed
+// Always Low Total # Of Times Downed
+patch=1,EE,204D18BC,extended,00000000
+
+[Max Total # Of Enemy Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total # Of Enemy Downed
+// Max Total # Of Enemy Downed
+patch=1,EE,204D18C0,extended,0000270F
+
+[Max # Of Aircrafts Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Aircrafts Downed
+// Max # Of Aircrafts Downed
+patch=1,EE,204D18C4,extended,0000270F
+
+[Max # Of Planes Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Planes Downed
+// Max # Of Planes Downed
+patch=1,EE,204D18C8,extended,0000270F
+
+[Max # Of Grounds Objects Destroyed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Grounds Objects Destroyed
+// Max # Of Grounds Objects Destroyed
+patch=1,EE,204D18CC,extended,0000270F
+
+[Max # Of Aces Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Aces Downed
+// Max # Of Aces Downed
+patch=1,EE,204D18D0,extended,0000270F
+
+[Su-7BM Bis 'Fitter A']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-7BM Bis 'Fitter A'
+// Su-7BM Bis 'Fitter A'
+patch=1,EE,104D18D4,extended,00000101
+
+[F-106A Delta Dark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-106A Delta Dark
+// F-106A Delta Dark
+patch=1,EE,104D18E0,extended,00000101
+
+[F-4E Phantom II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-4E Phantom II
+// F-4E Phantom II
+patch=1,EE,104D18EC,extended,00000101
+
+[(FC-1 Fighter China)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=(FC-1 Fighter China)
+// (FC-1 Fighter China)
+patch=1,EE,104D18F8,extended,00000101
+
+[MiG-23ML 'Flogger G']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MiG-23ML 'Flogger G'
+// MiG-23ML 'Flogger G'
+patch=1,EE,104D1904,extended,00000101
+
+[MiG-33 'Fulcrum']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MiG-33 'Fulcrum'
+// MiG-33 'Fulcrum'
+patch=1,EE,104D1910,extended,00000101
+
+[X-31A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=X-31A
+// X-31A
+patch=1,EE,104D191C,extended,00000101
+
+[F-16C Block 50 Fighting Falcon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-16C Block 50 Fighting Falcon
+// F-16C Block 50 Fighting Falcon
+patch=1,EE,104D1928,extended,00000101
+
+[F-15C Eagle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-15C Eagle
+// F-15C Eagle
+patch=1,EE,104D1934,extended,00000101
+
+[Su-27SMK 'Flanker B']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-27SMK 'Flanker B'
+// Su-27SMK 'Flanker B'
+patch=1,EE,104D1940,extended,00000101
+
+[Eurofighter Typhoon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Eurofighter Typhoon
+// Eurofighter Typhoon
+patch=1,EE,104D194C,extended,00000101
+
+[S-37 Berkut]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=S-37 Berkut
+// S-37 Berkut
+patch=1,EE,104D1958,extended,00000101
+
+[F-100D Super Sabre]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-100D Super Sabre
+// F-100D Super Sabre
+patch=1,EE,104D1964,extended,00000101
+
+[T6-1 (Modified Prototype)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T6-1 (Modified Prototype)
+// T6-1 (Modified Prototype)
+patch=1,EE,104D1970,extended,00000101
+
+[Always Low Total Time Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Time Played
+// Always Low Total Time Played
+patch=1,EE,204D19C0,extended,00000000
+
+[Max Total Reward Acquired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Reward Acquired
+// Max Total Reward Acquired
+patch=1,EE,204D19C4,extended,000F423F
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,204D19C8,extended,000F423F
+
+[Max Total # Of Take Offs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total # Of Take Offs
+// Max Total # Of Take Offs
+patch=1,EE,204D19CC,extended,0000270F
+
+[Always Low Total # Of Times Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total # Of Times Downed
+// Always Low Total # Of Times Downed
+patch=1,EE,204D19D0,extended,00000000
+
+[Max Total # Of Enemy Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total # Of Enemy Downed
+// Max Total # Of Enemy Downed
+patch=1,EE,204D19D4,extended,0000270F
+
+[Max # Of Aircrafts Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Aircrafts Downed
+// Max # Of Aircrafts Downed
+patch=1,EE,204D19D8,extended,0000270F
+
+[Max # Of Planes Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Planes Downed
+// Max # Of Planes Downed
+patch=1,EE,204D19DC,extended,0000270F
+
+[Max # Of Grounds Objects Destroyed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Grounds Objects Destroyed
+// Max # Of Grounds Objects Destroyed
+patch=1,EE,204D19E0,extended,0000270F
+
+[Max # Of Aces Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Aces Downed
+// Max # Of Aces Downed
+patch=1,EE,204D19E4,extended,0000270F
+
+[P-38L Lightning]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P-38L Lightning
+// P-38L Lightning
+patch=1,EE,104D19E8,extended,00000101
+
+[P-51D Mustang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P-51D Mustang
+// P-51D Mustang
+patch=1,EE,104D19F4,extended,00000101
+
+[II-2M3 Shturmovik]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=II-2M3 Shturmovik
+// II-2M3 Shturmovik
+patch=1,EE,104D1A00,extended,00000101
+
+[Spitfire Mk24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spitfire Mk24
+// Spitfire Mk24
+patch=1,EE,104D1A0C,extended,00000101
+
+[F-86L Sabre Jet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-86L Sabre Jet
+// F-86L Sabre Jet
+patch=1,EE,104D1A18,extended,00000101
+
+[Always Low Total Time Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Time Played
+// Always Low Total Time Played
+patch=1,EE,204D1AD4,extended,00000000
+
+[Max Total Reward Acquired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Reward Acquired
+// Max Total Reward Acquired
+patch=1,EE,204D1AD8,extended,000F423F
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,204D1ADC,extended,000F423F
+
+[Max Total # Of Take Offs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total # Of Take Offs
+// Max Total # Of Take Offs
+patch=1,EE,204D1AE0,extended,0000270F
+
+[Always Low Total # Of Times Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total # Of Times Downed
+// Always Low Total # Of Times Downed
+patch=1,EE,204D1AE4,extended,00000000
+
+[Max Total # Of Enemy Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total # Of Enemy Downed
+// Max Total # Of Enemy Downed
+patch=1,EE,204D1AE8,extended,0000270F
+
+[Max # Of Aircrafts Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Aircrafts Downed
+// Max # Of Aircrafts Downed
+patch=1,EE,204D1AEC,extended,0000270F
+
+[Max # Of Planes Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Planes Downed
+// Max # Of Planes Downed
+patch=1,EE,204D1AF0,extended,0000270F
+
+[Max # Of Grounds Objects Destroyed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Grounds Objects Destroyed
+// Max # Of Grounds Objects Destroyed
+patch=1,EE,204D1AF4,extended,0000270F
+
+[Max # Of Aces Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Aces Downed
+// Max # Of Aces Downed
+patch=1,EE,204D1AF8,extended,0000270F
+
+[Lightning F6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lightning F6
+// Lightning F6
+patch=1,EE,104D1AFC,extended,00000101
+
+[6 (Jian-Ji 6Jin)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=6 (Jian-Ji 6Jin)
+// 6 (Jian-Ji 6Jin)
+patch=1,EE,104D1B08,extended,00000101
+
+[YF-12A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=YF-12A
+// YF-12A
+patch=1,EE,104D1B14,extended,00000101
+
+[F-104G Starfighter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-104G Starfighter
+// F-104G Starfighter
+patch=1,EE,104D1B20,extended,00000101
+
+[F-108 Rapier (Early Plan)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-108 Rapier (Early Plan)
+// F-108 Rapier (Early Plan)
+patch=1,EE,104D1B2C,extended,00000101
+
+[TSR2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=TSR2
+// TSR2
+patch=1,EE,104D1B38,extended,00000101
+
+[Mig-27k 'Flogger J']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mig-27k 'Flogger J'
+// Mig-27k 'Flogger J'
+patch=1,EE,104D1B44,extended,00000101
+
+[F-111F]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-111F
+// F-111F
+patch=1,EE,104D1B50,extended,00000101
+
+[MiG-25PDS 'Foxbat E']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MiG-25PDS 'Foxbat E'
+// MiG-25PDS 'Foxbat E'
+patch=1,EE,104D1B5C,extended,00000101
+
+[Mig-31BM 'Foxhound']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mig-31BM 'Foxhound'
+// Mig-31BM 'Foxhound'
+patch=1,EE,104D1B68,extended,00000101
+
+[Su-37]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-37
+// Su-37
+patch=1,EE,104D1B74,extended,00000101
+
+[F-155/MTD Active]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-155/MTD Active
+// F-155/MTD Active
+patch=1,EE,104D1B80,extended,00000101
+
+[Su-15TM 'Flagon F']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-15TM 'Flagon F'
+// Su-15TM 'Flagon F'
+patch=1,EE,104D1B8C,extended,00000101
+
+[7 (Jian-Ji/Honyzhaji-7)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=7 (Jian-Ji/Honyzhaji-7)
+// 7 (Jian-Ji/Honyzhaji-7)
+patch=1,EE,104D1B98,extended,00000101
+
+[Always Low Total Time Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Time Played
+// Always Low Total Time Played
+patch=1,EE,204D1BE8,extended,00000000
+
+[Max Total Reward Acquired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Reward Acquired
+// Max Total Reward Acquired
+patch=1,EE,204D1BEC,extended,000F423F
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,204D1BF0,extended,000F423F
+
+[Max Total # Of Take Offs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total # Of Take Offs
+// Max Total # Of Take Offs
+patch=1,EE,204D1BF4,extended,0000270F
+
+[Always Low Total # Of Times Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total # Of Times Downed
+// Always Low Total # Of Times Downed
+patch=1,EE,204D1BF8,extended,00000000
+
+[Max Total # Of Enemy Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total # Of Enemy Downed
+// Max Total # Of Enemy Downed
+patch=1,EE,204D1BFC,extended,0000270F
+
+[Max # Of Aircrafts Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Aircrafts Downed
+// Max # Of Aircrafts Downed
+patch=1,EE,204D1C00,extended,0000270F
+
+[Max # Of Planes Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Planes Downed
+// Max # Of Planes Downed
+patch=1,EE,204D1C04,extended,0000270F
+
+[Max # Of Grounds Objects Destroyed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Grounds Objects Destroyed
+// Max # Of Grounds Objects Destroyed
+patch=1,EE,204D1C08,extended,0000270F
+
+[Max # Of Aces Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Aces Downed
+// Max # Of Aces Downed
+patch=1,EE,204D1C0C,extended,0000270F
+
+[T-58VD 'Flagon B']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T-58VD 'Flagon B'
+// T-58VD 'Flagon B'
+patch=1,EE,104D1C10,extended,00000101
+
+[Yak-38 'Forger A']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yak-38 'Forger A'
+// Yak-38 'Forger A'
+patch=1,EE,104D1C1C,extended,00000101
+
+[Mig-19PFM 'Farmer']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mig-19PFM 'Farmer'
+// Mig-19PFM 'Farmer'
+patch=1,EE,104D1C28,extended,00000101
+
+[7 MG (Jian-Ji 7 MG)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=7 MG (Jian-Ji 7 MG)
+// 7 MG (Jian-Ji 7 MG)
+patch=1,EE,104D1C34,extended,00000101
+
+[F-5A Freedom Fighter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-5A Freedom Fighter
+// F-5A Freedom Fighter
+patch=1,EE,104D1C40,extended,00000101
+
+[A-5A Vigilante]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=A-5A Vigilante
+// A-5A Vigilante
+patch=1,EE,104D1C4C,extended,00000101
+
+[8 (Jian-Ji 8) 'Finback A']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=8 (Jian-Ji 8) 'Finback A'
+// 8 (Jian-Ji 8) 'Finback A'
+patch=1,EE,104D1C58,extended,00000101
+
+[AV-8B Harrier II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AV-8B Harrier II
+// AV-8B Harrier II
+patch=1,EE,104D1C64,extended,00000101
+
+[SeaHarrier F/A2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SeaHarrier F/A2
+// SeaHarrier F/A2
+patch=1,EE,104D1C70,extended,00000101
+
+[Yak-141 'Freestyle']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yak-141 'Freestyle'
+// Yak-141 'Freestyle'
+patch=1,EE,104D1C7C,extended,00000101
+
+[X-32B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=X-32B
+// X-32B
+patch=1,EE,104D1C88,extended,00000101
+
+[F/A-35B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F/A-35B
+// F/A-35B
+patch=1,EE,104D1C94,extended,00000101
+
+[MiG-17F 'Fresco C']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MiG-17F 'Fresco C'
+// MiG-17F 'Fresco C'
+patch=1,EE,104D1CA0,extended,00000101
+
+[Su-22M-4 'Fitter K']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-22M-4 'Fitter K'
+// Su-22M-4 'Fitter K'
+patch=1,EE,104D1CAC,extended,00000101
+
+[Always Low Total Time Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Time Played
+// Always Low Total Time Played
+patch=1,EE,204D1CFC,extended,00000000
+
+[Max Total Reward Acquired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Reward Acquired
+// Max Total Reward Acquired
+patch=1,EE,204D1D00,extended,000F423F
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,204D1D04,extended,000F423F
+
+[Max Total # Of Take Offs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total # Of Take Offs
+// Max Total # Of Take Offs
+patch=1,EE,204D1D08,extended,0000270F
+
+[Always Low Total # Of Times Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total # Of Times Downed
+// Always Low Total # Of Times Downed
+patch=1,EE,204D1D0C,extended,00000000
+
+[Max Total # Of Enemy Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total # Of Enemy Downed
+// Max Total # Of Enemy Downed
+patch=1,EE,204D1D10,extended,0000270F
+
+[Max # Of Aircrafts Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Aircrafts Downed
+// Max # Of Aircrafts Downed
+patch=1,EE,204D1D14,extended,0000270F
+
+[Max # Of Planes Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Planes Downed
+// Max # Of Planes Downed
+patch=1,EE,204D1D18,extended,0000270F
+
+[Max # Of Grounds Objects Destroyed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Grounds Objects Destroyed
+// Max # Of Grounds Objects Destroyed
+patch=1,EE,204D1D1C,extended,0000270F
+
+[Max # Of Aces Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Aces Downed
+// Max # Of Aces Downed
+patch=1,EE,204D1D20,extended,0000270F
+
+[F-105D Thunderchief]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-105D Thunderchief
+// F-105D Thunderchief
+patch=1,EE,104D1D24,extended,00000101
+
+[Su-25A 'Frogfoot']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-25A 'Frogfoot'
+// Su-25A 'Frogfoot'
+patch=1,EE,104D1D30,extended,00000101
+
+[Yak-28L 'Brewer B']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Yak-28L 'Brewer B'
+// Yak-28L 'Brewer B'
+patch=1,EE,104D1D3C,extended,00000101
+
+[A-10A Thunderbolt II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=A-10A Thunderbolt II
+// A-10A Thunderbolt II
+patch=1,EE,104D1D48,extended,00000101
+
+[F-117A Nighthawk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-117A Nighthawk
+// F-117A Nighthawk
+patch=1,EE,104D1D54,extended,00000101
+
+[Jaguar GR1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jaguar GR1
+// Jaguar GR1
+patch=1,EE,104D1D60,extended,00000101
+
+[F-16XL]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-16XL
+// F-16XL
+patch=1,EE,104D1D6C,extended,00000101
+
+[Tornado GR1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tornado GR1
+// Tornado GR1
+patch=1,EE,104D1D78,extended,00000101
+
+[F-15U Plus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-15U Plus
+// F-15U Plus
+patch=1,EE,104D1D84,extended,00000101
+
+[X-44]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=X-44
+// X-44
+patch=1,EE,104D1D90,extended,00000101
+
+[F-101B Voodoo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-101B Voodoo
+// F-101B Voodoo
+patch=1,EE,104D1D9C,extended,00000101
+
+[Always Low Total Time Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Time Played
+// Always Low Total Time Played
+patch=1,EE,204D1E10,extended,00000000
+
+[Max Total Reward Acquired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Reward Acquired
+// Max Total Reward Acquired
+patch=1,EE,204D1E14,extended,000F423F
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,204D1E18,extended,000F423F
+
+[Max Total # Of Take Offs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total # Of Take Offs
+// Max Total # Of Take Offs
+patch=1,EE,204D1E1C,extended,0000270F
+
+[Always Low Total # Of Times Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total # Of Times Downed
+// Always Low Total # Of Times Downed
+patch=1,EE,204D1E20,extended,00000000
+
+[Max Total # Of Enemy Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total # Of Enemy Downed
+// Max Total # Of Enemy Downed
+patch=1,EE,204D1E24,extended,0000270F
+
+[Max # Of Aircrafts Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Aircrafts Downed
+// Max # Of Aircrafts Downed
+patch=1,EE,204D1E28,extended,0000270F
+
+[Max # Of Planes Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Planes Downed
+// Max # Of Planes Downed
+patch=1,EE,204D1E2C,extended,0000270F
+
+[Max # Of Grounds Objects Destroyed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Grounds Objects Destroyed
+// Max # Of Grounds Objects Destroyed
+patch=1,EE,204D1E30,extended,0000270F
+
+[Max # Of Aces Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Aces Downed
+// Max # Of Aces Downed
+patch=1,EE,204D1E34,extended,0000270F
+
+[A-7E Corsair II]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=A-7E Corsair II
+// A-7E Corsair II
+patch=1,EE,104D1E38,extended,00000101
+
+[A-4M Skyhawk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=A-4M Skyhawk
+// A-4M Skyhawk
+patch=1,EE,104D1E44,extended,00000101
+
+[Buccaneer S2D]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buccaneer S2D
+// Buccaneer S2D
+patch=1,EE,104D1E50,extended,00000101
+
+[A-6E Intruder]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=A-6E Intruder
+// A-6E Intruder
+patch=1,EE,104D1E5C,extended,00000101
+
+[SeaVixen FAW2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SeaVixen FAW2
+// SeaVixen FAW2
+patch=1,EE,104D1E68,extended,00000101
+
+[F4D-1 Skyray]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F4D-1 Skyray
+// F4D-1 Skyray
+patch=1,EE,104D1E74,extended,00000101
+
+[F-1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F-1
+// F-1
+patch=1,EE,104D1E80,extended,00000101
+
+[Su-39 'Frogfoot']
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-39 'Frogfoot'
+// Su-39 'Frogfoot'
+patch=1,EE,104D1E8C,extended,00000101
+
+[Su-34]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-34
+// Su-34
+patch=1,EE,104D1E98,extended,00000101
+
+[F/A-18E Super Hornet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=F/A-18E Super Hornet
+// F/A-18E Super Hornet
+patch=1,EE,104D1EA4,extended,00000101
+
+[Su-32FN]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Su-32FN
+// Su-32FN
+patch=1,EE,104D1EB0,extended,00000101
+
+[Always Low Total Time Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Time Played
+// Always Low Total Time Played
+patch=1,EE,204D1F24,extended,00000000
+
+[Max Total Reward Acquired]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Reward Acquired
+// Max Total Reward Acquired
+patch=1,EE,204D1F28,extended,000F423F
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,204D1F2C,extended,000F423F
+
+[Max Total # Of Take Offs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total # Of Take Offs
+// Max Total # Of Take Offs
+patch=1,EE,204D1F30,extended,0000270F
+
+[Always Low Total # Of Times Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total # Of Times Downed
+// Always Low Total # Of Times Downed
+patch=1,EE,204D1F34,extended,00000000
+
+[Max Total # Of Enemy Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total # Of Enemy Downed
+// Max Total # Of Enemy Downed
+patch=1,EE,204D1F38,extended,0000270F
+
+[Max # Of Aircrafts Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Aircrafts Downed
+// Max # Of Aircrafts Downed
+patch=1,EE,204D1F3C,extended,0000270F
+
+[Max # Of Planes Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Planes Downed
+// Max # Of Planes Downed
+patch=1,EE,204D1F40,extended,0000270F
+
+[Max # Of Grounds Objects Destroyed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Grounds Objects Destroyed
+// Max # Of Grounds Objects Destroyed
+patch=1,EE,204D1F44,extended,0000270F
+
+[Max # Of Aces Downed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max # Of Aces Downed
+// Max # Of Aces Downed
+patch=1,EE,204D1F48,extended,0000270F
+
+[VIC Viper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=VIC Viper
+// VIC Viper
+patch=1,EE,104D1F4C,extended,00000101
+
+[TwinBee]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=TwinBee
+// TwinBee
+patch=1,EE,104D1F58,extended,00000101
+
+[MX5000]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MX5000
+// MX5000
+patch=1,EE,104D1F64,extended,00000101
+
+[Jerry Mouse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jerry Mouse
+// Jerry Mouse
+patch=1,EE,104D1F70,extended,00000101
+
+[Falsion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Falsion
+// Falsion
+patch=1,EE,104D1F7C,extended,00000101
+
+[Blue Thunder M-45]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blue Thunder M-45
+// Blue Thunder M-45
+patch=1,EE,104D1F88,extended,00000101
+
+[Manbou-J]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manbou-J
+// Manbou-J
+patch=1,EE,104D1F94,extended,00000101
+
+[Block Shooter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Block Shooter
+// Block Shooter
+patch=1,EE,104D1FA0,extended,00000101
+
+[Super Fighter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Fighter
+// Super Fighter
+patch=1,EE,104D1FAC,extended,00000101
+
+[Flint-Rock]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flint-Rock
+// Flint-Rock
+patch=1,EE,104D1FB8,extended,00000101
+
+[Penta]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Penta
+// Penta
+patch=1,EE,104D1FC4,extended,00000101
+
+[Aura-Wing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aura-Wing
+// Aura-Wing
+patch=1,EE,104D1FD0,extended,00000101
+
+[Axelay]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axelay
+// Axelay
+patch=1,EE,104D1FDC,extended,00000101
+
+[Poly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poly
+// Poly
+patch=1,EE,104D1FE8,extended,00000101

@@ -1,0 +1,121 @@
+gametitle=Top Spin [SLES-53175] [126B46EB]
+
+[Max Level High Scores]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Level High Scores
+// Max Level High Scores
+patch=1,EE,90133F20,extended,00832021
+
+[Display FPS]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Display FPS
+// Display FPS
+patch=1,EE,2059073C,extended,00000001
+
+[Display Memory Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Display Memory Usage
+// Display Memory Usage
+patch=1,EE,20590744,extended,00000001
+
+[All Points Score For Team 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Points Score For Team 1
+// All Points Score For Team 1
+patch=1,EE,E001802D,extended,0062ECD4
+
+[All Points Score For Team 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Points Score For Team 1
+// All Points Score For Team 1
+patch=1,EE,2062ECF4,extended,24050000
+
+[All Points Score For Team 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Points Score For Team 2
+// All Points Score For Team 2
+patch=1,EE,E001802D,extended,0062ECD4
+
+[All Points Score For Team 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Points Score For Team 2
+// All Points Score For Team 2
+patch=1,EE,2062ECF4,extended,24050001
+
+[Score Once To Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Score Once To Win
+// Score Once To Win
+patch=1,EE,E001802D,extended,0062ECD4
+
+[Score Once To Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Score Once To Win
+// Score Once To Win
+patch=1,EE,2062ED2C,extended,24020004
+
+[All Matches Score For Team 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Matches Score For Team 1
+// All Matches Score For Team 1
+patch=1,EE,E001802D,extended,0062EB78
+
+[All Matches Score For Team 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Matches Score For Team 1
+// All Matches Score For Team 1
+patch=1,EE,2062EB8C,extended,24420000
+
+[All Matches Score For Team 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Matches Score For Team 2
+// All Matches Score For Team 2
+patch=1,EE,E001802D,extended,0062EB78
+
+[All Matches Score For Team 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Matches Score For Team 2
+// All Matches Score For Team 2
+patch=1,EE,2062EB8C,extended,24420001
+
+[Buying Shop Items Doesnt Decrease Coins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Shop Items Doesnt Decrease Coins
+// Buying Shop Items Doesnt Decrease Coins
+patch=1,EE,E001282D,extended,006F4700
+
+[Buying Shop Items Doesnt Decrease Coins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Shop Items Doesnt Decrease Coins
+// Buying Shop Items Doesnt Decrease Coins
+patch=1,EE,206F472C,extended,00000000
+
+[Buying Shop Items Increases Coins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Shop Items Increases Coins
+// Buying Shop Items Increases Coins
+patch=1,EE,E001282D,extended,006F4700
+
+[Buying Shop Items Increases Coins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Shop Items Increases Coins
+// Buying Shop Items Increases Coins
+patch=1,EE,206F4728,extended,00621021
+
+[Buying Shop Items Increases Coins To Max]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Shop Items Increases Coins To Max
+// Buying Shop Items Increases Coins To Max
+patch=1,EE,E002282D,extended,006F4700
+
+[Buying Shop Items Increases Coins To Max]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Shop Items Increases Coins To Max
+// Buying Shop Items Increases Coins To Max
+patch=1,EE,206F4718,extended,3C0205F5
+
+[Buying Shop Items Increases Coins To Max]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Shop Items Increases Coins To Max
+// Buying Shop Items Increases Coins To Max
+patch=1,EE,206F4728,extended,3442E0FF

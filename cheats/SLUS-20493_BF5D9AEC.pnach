@@ -1,0 +1,133 @@
+gametitle=Gungrave [SLUS-20493] [BF5D9AEC]
+
+[No Headshots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Headshots
+// No Headshots
+patch=1,EE,901B9B84,extended,0C074653
+
+[Max Beat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Beat
+// Max Beat
+patch=1,EE,20206D50,extended,00000063
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20206D40,extended,437F0000
+
+[Infinite Shield]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Shield
+// Infinite Shield
+patch=1,EE,20206D44,extended,00004248
+
+[Quick Demolition Shot Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Demolition Shot Gain
+// Quick Demolition Shot Gain
+patch=1,EE,D0211092,extended,00000000
+
+[Quick Demolition Shot Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Demolition Shot Gain
+// Quick Demolition Shot Gain
+patch=1,EE,20211090,extended,40FF0000
+
+[Have All Demolition Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Demolition Shots
+// Have All Demolition Shots
+patch=1,EE,20211098,extended,00000003
+
+[Infinite Demolition Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Demolition Shots
+// Infinite Demolition Shots
+patch=1,EE,2021109C,extended,00000009
+
+[Always Low Game Play Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Game Play Time
+// Always Low Game Play Time
+patch=1,EE,20603618,extended,00000000
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,10603620,extended,0000FFFF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20603620,extended,05F5E0FF
+
+[Demolition Shot Infinity Enabled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Demolition Shot Infinity Enabled
+// Demolition Shot Infinity Enabled
+patch=1,EE,00224E66,extended,00000001
+
+[Rapid Fire Enabled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Fire Enabled
+// Rapid Fire Enabled
+patch=1,EE,00224E68,extended,00000001
+
+[Camera Low]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Camera Low
+// Camera Low
+patch=1,EE,00224E69,extended,00000001
+
+[Blood Enabled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blood Enabled
+// Blood Enabled
+patch=1,EE,00224E6A,extended,00000001
+
+[Slow Enabled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slow Enabled
+// Slow Enabled
+patch=1,EE,00224E6B,extended,00000001
+
+[Slow Auto Enabled]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slow Auto Enabled
+// Slow Auto Enabled
+patch=1,EE,00224E6B,extended,00000002
+
+[Slow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slow
+// Slow
+patch=1,EE,00224E6C,extended,00000001
+
+[Movie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Movie
+// Movie
+patch=1,EE,00224E6E,extended,00000001
+
+[Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Characters
+// Characters
+patch=1,EE,00224E70,extended,00000008
+
+[Demolition Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Demolition Shot
+// Demolition Shot
+patch=1,EE,00224E72,extended,00000001
+
+[Stage Select]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage Select
+// Stage Select
+patch=1,EE,00224E74,extended,00000001

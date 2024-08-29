@@ -1,0 +1,19 @@
+gametitle=10,000 Bullets [UNKNOWN] [F1C7201E]
+
+[Never Reload]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,201706EC,extended,24420000
+
+[Body Armor Never Decreases]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Body Armor Never Decreases
+// Body Armor Never Decreases
+patch=1,EE,201F2788,extended,00000000
+
+[Health Packs Never Decrease]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Health Packs Never Decrease
+// Health Packs Never Decrease
+patch=1,EE,2036FBA4,extended,00000000

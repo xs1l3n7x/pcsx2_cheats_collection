@@ -1,0 +1,241 @@
+gametitle=Futurama [SLUS-20439] [0A342A88]
+
+[All Above 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Above 4
+// All Above 4
+patch=1,EE,903EE0D4,extended,0C100099
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20157868,extended,C4810538
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20157870,extended,E4810530
+
+[Infinite Lives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives
+// Infinite Lives
+patch=1,EE,2043E024,extended,00000063
+
+[Infinite Lives Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives Usage
+// Infinite Lives Usage
+patch=1,EE,2027FDA0,extended,00000000
+
+[Max Infinite Lives Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Lives Usage
+// Max Infinite Lives Usage
+patch=1,EE,2027FD98,extended,24020063
+
+[Extra Lives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Lives
+// Extra Lives
+patch=1,EE,1027FD98,extended,00000001
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,105F459C,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,205F459C,extended,0098967F
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,20189228,extended,00000000
+
+[Max Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo
+// Max Infinite Ammo
+patch=1,EE,20189220,extended,24020063
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,20189220,extended,00461021
+
+[Max Nibblers Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Nibblers Collected
+// Max Nibblers Collected
+patch=1,EE,505F45A4,extended,00000004
+
+[Max Nibblers Collected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Nibblers Collected
+// Max Nibblers Collected
+patch=1,EE,005F45A0,extended,00000000
+
+[Glagnar's Human Rinds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Glagnar's Human Rinds
+// Glagnar's Human Rinds
+patch=1,EE,20546790,extended,00000001
+
+[Tri-Curious]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tri-Curious
+// Tri-Curious
+patch=1,EE,20546798,extended,00000001
+
+[Slurm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slurm
+// Slurm
+patch=1,EE,205467A0,extended,00000001
+
+[Zap Brannigan-Join The Army]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zap Brannigan-Join The Army
+// Zap Brannigan-Join The Army
+patch=1,EE,205467A8,extended,00000001
+
+[Got Protoplasm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Got Protoplasm
+// Got Protoplasm
+patch=1,EE,205467B0,extended,00000001
+
+[Maxx Hypnosis Hour]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Maxx Hypnosis Hour
+// Maxx Hypnosis Hour
+patch=1,EE,205467B8,extended,00000001
+
+[Lightspeed Briefs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lightspeed Briefs
+// Lightspeed Briefs
+patch=1,EE,205467C0,extended,00000001
+
+[Extreme Walrus Juice]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extreme Walrus Juice
+// Extreme Walrus Juice
+patch=1,EE,205467C8,extended,00000001
+
+[Dolphin-The Intelligent Meat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dolphin-The Intelligent Meat
+// Dolphin-The Intelligent Meat
+patch=1,EE,205467D0,extended,00000001
+
+[Robo Fresh]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Robo Fresh
+// Robo Fresh
+patch=1,EE,205467D8,extended,00000001
+
+[Thompson's Teeth]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thompson's Teeth
+// Thompson's Teeth
+patch=1,EE,205467E0,extended,00000001
+
+[Bachelor Chow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bachelor Chow
+// Bachelor Chow
+patch=1,EE,205467E8,extended,00000001
+
+[Malfunctioning Eddie's]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Malfunctioning Eddie's
+// Malfunctioning Eddie's
+patch=1,EE,205467F0,extended,00000001
+
+[Mom's Old Fashioned Robot Oil]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mom's Old Fashioned Robot Oil
+// Mom's Old Fashioned Robot Oil
+patch=1,EE,205467F8,extended,00000001
+
+[U-Yank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=U-Yank
+// U-Yank
+patch=1,EE,20546800,extended,00000001
+
+[Ice Cold Slurmee]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Cold Slurmee
+// Ice Cold Slurmee
+patch=1,EE,20546808,extended,00000001
+
+[Brown Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Brown Out
+// Brown Out
+patch=1,EE,20546810,extended,00000001
+
+[Unknown 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 1
+// Unknown 1
+patch=1,EE,20546818,extended,00000001
+
+[All My Circuits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All My Circuits
+// All My Circuits
+patch=1,EE,20546820,extended,00000001
+
+[Thunder Cougar Falcon Bird]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thunder Cougar Falcon Bird
+// Thunder Cougar Falcon Bird
+patch=1,EE,20546828,extended,00000001
+
+[Morbo On Management]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Morbo On Management
+// Morbo On Management
+patch=1,EE,20546830,extended,00000001
+
+[Fishy Joe's]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fishy Joe's
+// Fishy Joe's
+patch=1,EE,20546838,extended,00000001
+
+[Kibbles 'n' Snouts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kibbles 'n' Snouts
+// Kibbles 'n' Snouts
+patch=1,EE,20546840,extended,00000001
+
+[Unknown 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unknown 2
+// Unknown 2
+patch=1,EE,20546848,extended,00000001
+
+[All Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Gallery
+// All Gallery
+patch=1,EE,40546790,extended,00180002
+
+[All Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Gallery
+// All Gallery
+patch=1,EE,00000001,extended,00000000

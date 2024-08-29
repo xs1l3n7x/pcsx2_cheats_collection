@@ -1,0 +1,187 @@
+gametitle=Italian Job, The [SLUS-20784] [A74B4C3D]
+
+[Phoenix]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Phoenix
+// Phoenix
+patch=1,EE,9027A5DC,extended,0C09F2AA
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,2026B140,extended,24020001
+
+[Unlock All Bonus Content]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Bonus Content
+// Unlock All Bonus Content
+patch=1,EE,202A6794,extended,00000001
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,200C0220,extended,3421967F
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,200C0224,extended,AE010068
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,200C0228,extended,AE01006C
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,200C022C,extended,C6000068
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,200C0230,extended,03E00008
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,200C0234,extended,C602006C
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20137958,extended,0C030088
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,2013795C,extended,3C014B18
+
+[Infinite Time (Mission Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time (Mission Mode)
+// Infinite Time (Mission Mode)
+patch=1,EE,2013BE4C,extended,00000000
+
+[Infinite Time (Stunt Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time (Stunt Mode)
+// Infinite Time (Stunt Mode)
+patch=1,EE,20142904,extended,00000000
+
+[Unlock All Story Mode Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Story Mode Levels
+// Unlock All Story Mode Levels
+patch=1,EE,402DC700,extended,000F0003
+
+[Unlock All Story Mode Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Story Mode Levels
+// Unlock All Story Mode Levels
+patch=1,EE,00000001,extended,00000000
+
+[Have Best Time Trial Laps-All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Best Time Trial Laps-All Tracks
+// Have Best Time Trial Laps-All Tracks
+patch=1,EE,402DC7BC,extended,000A0002
+
+[Have Best Time Trial Laps-All Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Best Time Trial Laps-All Tracks
+// Have Best Time Trial Laps-All Tracks
+patch=1,EE,00000031,extended,00000000
+
+[Unlock All Stunt Driving Courses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Stunt Driving Courses
+// Unlock All Stunt Driving Courses
+patch=1,EE,402DC808,extended,00040004
+
+[Unlock All Stunt Driving Courses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Stunt Driving Courses
+// Unlock All Stunt Driving Courses
+patch=1,EE,00000001,extended,00000000
+
+[Stunt Driving Course Grade A-All Courses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stunt Driving Course Grade A-All Courses
+// Stunt Driving Course Grade A-All Courses
+patch=1,EE,402DC80C,extended,00040004
+
+[Stunt Driving Course Grade A-All Courses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stunt Driving Course Grade A-All Courses
+// Stunt Driving Course Grade A-All Courses
+patch=1,EE,00000041,extended,00000000
+
+[Stunt Driving Course Max Score-All Courses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stunt Driving Course Max Score-All Courses
+// Stunt Driving Course Max Score-All Courses
+patch=1,EE,402DC810,extended,00040004
+
+[Stunt Driving Course Max Score-All Courses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stunt Driving Course Max Score-All Courses
+// Stunt Driving Course Max Score-All Courses
+patch=1,EE,05F5E0FF,extended,00000000
+
+[Unlock MINI Cooper Vehicles-All Colors]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock MINI Cooper Vehicles-All Colors
+// Unlock MINI Cooper Vehicles-All Colors
+patch=1,EE,402DC878,extended,00040001
+
+[Unlock MINI Cooper Vehicles-All Colors]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock MINI Cooper Vehicles-All Colors
+// Unlock MINI Cooper Vehicles-All Colors
+patch=1,EE,00000001,extended,00000000
+
+[Unlock MINI Cooper S Vehicles-All Colors]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock MINI Cooper S Vehicles-All Colors
+// Unlock MINI Cooper S Vehicles-All Colors
+patch=1,EE,402DC888,extended,00030001
+
+[Unlock MINI Cooper S Vehicles-All Colors]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock MINI Cooper S Vehicles-All Colors
+// Unlock MINI Cooper S Vehicles-All Colors
+patch=1,EE,00000001,extended,00000000
+
+[Unlock Original MINI Cooper Vehicle-All Colors]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Original MINI Cooper Vehicle-All Colors
+// Unlock Original MINI Cooper Vehicle-All Colors
+patch=1,EE,402DC894,extended,00040001
+
+[Unlock Original MINI Cooper Vehicle-All Colors]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Original MINI Cooper Vehicle-All Colors
+// Unlock Original MINI Cooper Vehicle-All Colors
+patch=1,EE,00000001,extended,00000000
+
+[Unlock All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cars
+// Unlock All Cars
+patch=1,EE,402DC8A4,extended,000A0001
+
+[Unlock All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cars
+// Unlock All Cars
+patch=1,EE,00000001,extended,00000000

@@ -1,0 +1,535 @@
+gametitle=Ty The Tasmanian Tiger [SLUS-20571] [4F755D39]
+
+[Sweet Tooth Epilogue]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sweet Tooth Epilogue
+// Sweet Tooth Epilogue
+patch=1,EE,904202F8,extended,0C108EF3
+
+[Press {L1}+{SELECT} For Max Opals (Inside A Level)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For Max Opals (Inside A Level)
+// Press {L1}+{SELECT} For Max Opals (Inside A Level)
+patch=1,EE,D0463A1C,extended,00000104
+
+[Press {L1}+{SELECT} For Max Opals (Inside A Level)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For Max Opals (Inside A Level)
+// Press {L1}+{SELECT} For Max Opals (Inside A Level)
+patch=1,EE,20463AF4,extended,0000012C
+
+[Always Able To Exit Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Able To Exit Level
+// Always Able To Exit Level
+patch=1,EE,20DBD284,extended,00000001
+
+[Infinite Lives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives
+// Infinite Lives
+patch=1,EE,209A19E8,extended,00000005
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,1046997C,extended,00000004
+
+[Unlock Extras Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Extras Movies
+// Unlock Extras Movies
+patch=1,EE,209A8EA0,extended,00000001
+
+[Have All Rainbow Scales]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rainbow Scales
+// Have All Rainbow Scales
+patch=1,EE,009A0905,extended,000000FF
+
+[Have All Rainbow Scales]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rainbow Scales
+// Have All Rainbow Scales
+patch=1,EE,109A0906,extended,0000FFFF
+
+[Have All Rainbow Scales]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Rainbow Scales
+// Have All Rainbow Scales
+patch=1,EE,009A0908,extended,00000001
+
+[Have Dual Rangs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Dual Rangs
+// Have Dual Rangs
+patch=1,EE,209A1984,extended,00000001
+
+[Have Frostyrang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Frostyrang
+// Have Frostyrang
+patch=1,EE,209A1990,extended,00000001
+
+[Have Flamerang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Flamerang
+// Have Flamerang
+patch=1,EE,209A1994,extended,00000001
+
+[Have Megarang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Megarang
+// Have Megarang
+patch=1,EE,209A19A0,extended,00000001
+
+[Have Zoomerang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Zoomerang
+// Have Zoomerang
+patch=1,EE,209A19A4,extended,00000001
+
+[Have Infrarang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Infrarang
+// Have Infrarang
+patch=1,EE,209A19A8,extended,00000001
+
+[Have Zappyrang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Zappyrang
+// Have Zappyrang
+patch=1,EE,209A19AC,extended,00000001
+
+[Have Multirang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Multirang
+// Have Multirang
+patch=1,EE,209A19B4,extended,00000001
+
+[Have Chronorang]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Chronorang
+// Have Chronorang
+patch=1,EE,209A19B8,extended,00000001
+
+[Coin 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coin 1
+// Coin 1
+patch=1,EE,209A19BC,extended,00000001
+
+[Coin 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coin 2
+// Coin 2
+patch=1,EE,209A19C0,extended,00000001
+
+[Coin 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coin 3
+// Coin 3
+patch=1,EE,209A19C4,extended,00000001
+
+[Coin 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coin 4
+// Coin 4
+patch=1,EE,209A19C8,extended,00000001
+
+[Coin 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Coin 5
+// Coin 5
+patch=1,EE,209A19CC,extended,00000001
+
+[Have Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Completed
+// Have Completed
+patch=1,EE,209A0C60,extended,00000001
+
+[Have All Objectives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objectives
+// Have All Objectives
+patch=1,EE,409A0BE0,extended,00080001
+
+[Have All Objectives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objectives
+// Have All Objectives
+patch=1,EE,00000001,extended,00000000
+
+[Have All Golden Cogs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golden Cogs
+// Have All Golden Cogs
+patch=1,EE,409A0C00,extended,000A0001
+
+[Have All Golden Cogs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golden Cogs
+// Have All Golden Cogs
+patch=1,EE,00000001,extended,00000000
+
+[Save All Bilbies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save All Bilbies
+// Save All Bilbies
+patch=1,EE,209A0C28,extended,01010101
+
+[Save All Bilbies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save All Bilbies
+// Save All Bilbies
+patch=1,EE,009A0C2C,extended,00000001
+
+[Have Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Completed
+// Have Completed
+patch=1,EE,209A0D0C,extended,00000001
+
+[Have All Objectives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objectives
+// Have All Objectives
+patch=1,EE,409A0C8C,extended,00080001
+
+[Have All Objectives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objectives
+// Have All Objectives
+patch=1,EE,00000001,extended,00000000
+
+[Have All Golden Cogs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golden Cogs
+// Have All Golden Cogs
+patch=1,EE,409A0CAC,extended,000A0001
+
+[Have All Golden Cogs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golden Cogs
+// Have All Golden Cogs
+patch=1,EE,00000001,extended,00000000
+
+[Save All Bilbies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save All Bilbies
+// Save All Bilbies
+patch=1,EE,209A0CD4,extended,01010101
+
+[Save All Bilbies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save All Bilbies
+// Save All Bilbies
+patch=1,EE,009A0CD8,extended,00000001
+
+[Have Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Completed
+// Have Completed
+patch=1,EE,209A0DB8,extended,00000001
+
+[Have All Objectives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objectives
+// Have All Objectives
+patch=1,EE,409A0D38,extended,00080001
+
+[Have All Objectives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objectives
+// Have All Objectives
+patch=1,EE,00000001,extended,00000000
+
+[Have All Objectives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objectives
+// Have All Objectives
+patch=1,EE,409A0D58,extended,000A0001
+
+[Have All Objectives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objectives
+// Have All Objectives
+patch=1,EE,00000001,extended,00000000
+
+[Save All Bilbies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save All Bilbies
+// Save All Bilbies
+patch=1,EE,209A0D80,extended,01010101
+
+[Save All Bilbies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save All Bilbies
+// Save All Bilbies
+patch=1,EE,009A0D84,extended,00000001
+
+[Have Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Completed
+// Have Completed
+patch=1,EE,209A0F10,extended,00000001
+
+[Have All Objectives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objectives
+// Have All Objectives
+patch=1,EE,409A0E90,extended,00080001
+
+[Have All Objectives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objectives
+// Have All Objectives
+patch=1,EE,00000001,extended,00000000
+
+[Have All Golden Cogs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golden Cogs
+// Have All Golden Cogs
+patch=1,EE,409A0EB0,extended,000A0001
+
+[Have All Golden Cogs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golden Cogs
+// Have All Golden Cogs
+patch=1,EE,00000001,extended,00000000
+
+[Save All Bilbies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save All Bilbies
+// Save All Bilbies
+patch=1,EE,209A0ED8,extended,01010101
+
+[Save All Bilbies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save All Bilbies
+// Save All Bilbies
+patch=1,EE,009A0EDC,extended,00000001
+
+[Have Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Completed
+// Have Completed
+patch=1,EE,209A0FBC,extended,00000001
+
+[Have All Objectives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objectives
+// Have All Objectives
+patch=1,EE,409A0F3C,extended,00080001
+
+[Have All Objectives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objectives
+// Have All Objectives
+patch=1,EE,00000001,extended,00000000
+
+[Have All Golden Cogs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golden Cogs
+// Have All Golden Cogs
+patch=1,EE,409A0F5C,extended,000A0001
+
+[Have All Golden Cogs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golden Cogs
+// Have All Golden Cogs
+patch=1,EE,00000001,extended,00000000
+
+[Save All Bilbies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save All Bilbies
+// Save All Bilbies
+patch=1,EE,209A0F84,extended,01010101
+
+[Save All Bilbies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save All Bilbies
+// Save All Bilbies
+patch=1,EE,009A0F88,extended,00000001
+
+[Have Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Completed
+// Have Completed
+patch=1,EE,209A1068,extended,00000001
+
+[Have All Objectives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objectives
+// Have All Objectives
+patch=1,EE,409A0FE8,extended,00080001
+
+[Have All Objectives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objectives
+// Have All Objectives
+patch=1,EE,00000001,extended,00000000
+
+[Have All Golden Cogs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golden Cogs
+// Have All Golden Cogs
+patch=1,EE,409A1008,extended,000A0001
+
+[Have All Golden Cogs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golden Cogs
+// Have All Golden Cogs
+patch=1,EE,00000001,extended,00000000
+
+[Save All Bilbies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save All Bilbies
+// Save All Bilbies
+patch=1,EE,209A1030,extended,01010101
+
+[Save All Bilbies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save All Bilbies
+// Save All Bilbies
+patch=1,EE,009A1034,extended,00000001
+
+[Have Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Completed
+// Have Completed
+patch=1,EE,209A11C0,extended,00000001
+
+[Have All Objectives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objectives
+// Have All Objectives
+patch=1,EE,409A1140,extended,00080001
+
+[Have All Objectives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objectives
+// Have All Objectives
+patch=1,EE,00000001,extended,00000000
+
+[Have All Golden Cogs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golden Cogs
+// Have All Golden Cogs
+patch=1,EE,409A1160,extended,000A0001
+
+[Have All Golden Cogs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golden Cogs
+// Have All Golden Cogs
+patch=1,EE,00000001,extended,00000000
+
+[Save All Bilbies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save All Bilbies
+// Save All Bilbies
+patch=1,EE,209A1188,extended,01010101
+
+[Save All Bilbies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save All Bilbies
+// Save All Bilbies
+patch=1,EE,009A118C,extended,00000001
+
+[Have Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Completed
+// Have Completed
+patch=1,EE,209A126C,extended,00000001
+
+[Have All Objectives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objectives
+// Have All Objectives
+patch=1,EE,409A11EC,extended,00080001
+
+[Have All Objectives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objectives
+// Have All Objectives
+patch=1,EE,00000001,extended,00000000
+
+[Have All Golden Cogs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golden Cogs
+// Have All Golden Cogs
+patch=1,EE,409A120C,extended,000A0001
+
+[Have All Golden Cogs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golden Cogs
+// Have All Golden Cogs
+patch=1,EE,00000001,extended,00000000
+
+[Save All Bilbies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save All Bilbies
+// Save All Bilbies
+patch=1,EE,209A1234,extended,01010101
+
+[Save All Bilbies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save All Bilbies
+// Save All Bilbies
+patch=1,EE,009A1238,extended,00000001
+
+[Have Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Completed
+// Have Completed
+patch=1,EE,209A1318,extended,00000001
+
+[Have All Objectives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objectives
+// Have All Objectives
+patch=1,EE,409A1298,extended,00080001
+
+[Have All Objectives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Objectives
+// Have All Objectives
+patch=1,EE,00000001,extended,00000000
+
+[Have All Golden Cogs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golden Cogs
+// Have All Golden Cogs
+patch=1,EE,409A12B8,extended,000A0001
+
+[Have All Golden Cogs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Golden Cogs
+// Have All Golden Cogs
+patch=1,EE,00000001,extended,00000000
+
+[Save All Bilbies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save All Bilbies
+// Save All Bilbies
+patch=1,EE,209A12E0,extended,01010101
+
+[Save All Bilbies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Save All Bilbies
+// Save All Bilbies
+patch=1,EE,009A12E4,extended,00000001
+
+[Have Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Completed
+// Have Completed
+patch=1,EE,209A0E64,extended,00000001
+
+[Have Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Completed
+// Have Completed
+patch=1,EE,209A1318,extended,00000001

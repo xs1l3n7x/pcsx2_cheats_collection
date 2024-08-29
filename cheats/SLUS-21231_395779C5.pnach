@@ -1,0 +1,157 @@
+gametitle=Sniper Elite [SLUS-21231] [395779C5]
+
+[Have All Vehicles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Vehicles
+// Have All Vehicles
+patch=1,EE,904108C4,extended,0C11A6D3
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0220,extended,3C0142C8
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0224,extended,AC410028
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0228,extended,080AF1AC
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C022C,extended,C4400028
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,202BC6AC,extended,08030088
+
+[Always Low Heart Rate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Heart Rate
+// Always Low Heart Rate
+patch=1,EE,202A8A14,extended,3C010000
+
+[Always Low Heart Rate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Heart Rate
+// Always Low Heart Rate
+patch=1,EE,202A8A18,extended,AE010020
+
+[Always High Heart Rate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Heart Rate
+// Always High Heart Rate
+patch=1,EE,202A8A14,extended,3C0142C8
+
+[Always High Heart Rate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always High Heart Rate
+// Always High Heart Rate
+patch=1,EE,202A8A18,extended,AE010020
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,2023F198,extended,00000000
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,2023F188,extended,00518021
+
+[Max Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo
+// Max Infinite Ammo
+patch=1,EE,2023F188,extended,241003E7
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,20244434,extended,00000000
+
+[Rapid Fire P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Fire P1
+// Rapid Fire P1
+patch=1,EE,D05C3B42,extended,0000F7FF
+
+[Rapid Fire P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Fire P1
+// Rapid Fire P1
+patch=1,EE,2024440C,extended,00000000
+
+[Rapid Fire P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Fire P1
+// Rapid Fire P1
+patch=1,EE,D05C3B42,extended,0000FFFF
+
+[Rapid Fire P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Fire P1
+// Rapid Fire P1
+patch=1,EE,2024440C,extended,AE420014
+
+[Rapid Fire P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Fire P2
+// Rapid Fire P2
+patch=1,EE,D05C3C82,extended,0000F7FF
+
+[Rapid Fire P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Fire P2
+// Rapid Fire P2
+patch=1,EE,2024440C,extended,00000000
+
+[Rapid Fire P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Fire P2
+// Rapid Fire P2
+patch=1,EE,D05C3C82,extended,0000FFFF
+
+[Rapid Fire P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Fire P2
+// Rapid Fire P2
+patch=1,EE,2024440C,extended,AE420014
+
+[Rapid Fire (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Fire (Both Players)
+// Rapid Fire (Both Players)
+patch=1,EE,2024440C,extended,00000000
+
+[Infinite Saves Left]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Saves Left
+// Infinite Saves Left
+patch=1,EE,2038683C,extended,00000000
+
+[Extra Saves Left]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Saves Left
+// Extra Saves Left
+patch=1,EE,1038683C,extended,00000001
+
+[Max Infinite Saves Left]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Saves Left
+// Max Infinite Saves Left
+patch=1,EE,2038683C,extended,24120063

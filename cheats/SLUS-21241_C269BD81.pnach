@@ -1,0 +1,1051 @@
+gametitle=NHL 2006 [SLUS-21241] [C269BD81]
+
+[P8 Press {L2}+{SELECT} For 3rd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L2}+{SELECT} For 3rd Period
+// P8 Press {L2}+{SELECT} For 3rd Period
+patch=1,EE,9010D9FC,extended,0C0456E5
+
+[Home Team Scores 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 50
+// Home Team Scores 50
+patch=1,EE,107AD716,extended,00000032
+
+[Home Team Scores 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 20
+// Home Team Scores 20
+patch=1,EE,107AD716,extended,00000014
+
+[Home Team Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 0
+// Home Team Scores 0
+patch=1,EE,107AD716,extended,00000000
+
+[Home Team Start With Score 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With Score 50
+// Home Team Start With Score 50
+patch=1,EE,D07AD716,extended,00000000
+
+[Home Team Start With Score 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With Score 50
+// Home Team Start With Score 50
+patch=1,EE,107AD716,extended,00000032
+
+[Home Team Start With Score 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With Score 20
+// Home Team Start With Score 20
+patch=1,EE,D07AD716,extended,00000000
+
+[Home Team Start With Score 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With Score 20
+// Home Team Start With Score 20
+patch=1,EE,107AD716,extended,00000014
+
+[Home Team Start With Score 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With Score 10
+// Home Team Start With Score 10
+patch=1,EE,D07AD716,extended,00000000
+
+[Home Team Start With Score 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With Score 10
+// Home Team Start With Score 10
+patch=1,EE,107AD716,extended,0000000A
+
+[Home Team Start With Score 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With Score 5
+// Home Team Start With Score 5
+patch=1,EE,D07AD716,extended,00000000
+
+[Home Team Start With Score 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Start With Score 5
+// Home Team Start With Score 5
+patch=1,EE,107AD716,extended,00000005
+
+[Away Team Scores 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 50
+// Away Team Scores 50
+patch=1,EE,107AD772,extended,00000032
+
+[Away Team Scores 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 20
+// Away Team Scores 20
+patch=1,EE,107AD772,extended,00000014
+
+[Away Team Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 0
+// Away Team Scores 0
+patch=1,EE,107AD772,extended,00000000
+
+[Away Team Start With Score 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With Score 50
+// Away Team Start With Score 50
+patch=1,EE,D07AD772,extended,00000000
+
+[Away Team Start With Score 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With Score 50
+// Away Team Start With Score 50
+patch=1,EE,107AD772,extended,00000032
+
+[Away Team Start With Score 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With Score 20
+// Away Team Start With Score 20
+patch=1,EE,D07AD772,extended,00000000
+
+[Away Team Start With Score 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With Score 20
+// Away Team Start With Score 20
+patch=1,EE,107AD772,extended,00000014
+
+[Away Team Start With Score 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With Score 10
+// Away Team Start With Score 10
+patch=1,EE,D07AD772,extended,00000000
+
+[Away Team Start With Score 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With Score 10
+// Away Team Start With Score 10
+patch=1,EE,107AD772,extended,0000000A
+
+[Away Team Start With Score 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With Score 5
+// Away Team Start With Score 5
+patch=1,EE,D07AD772,extended,00000000
+
+[Away Team Start With Score 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Start With Score 5
+// Away Team Start With Score 5
+patch=1,EE,107AD772,extended,00000005
+
+[Goal's Score 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goal's Score 10
+// Goal's Score 10
+patch=1,EE,10176FF8,extended,0000000A
+
+[Goal's Score 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goal's Score 5
+// Goal's Score 5
+patch=1,EE,10176FF8,extended,00000005
+
+[Goal's Score 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Goal's Score 2
+// Goal's Score 2
+patch=1,EE,10176FF8,extended,00000002
+
+[All Goals Score For Home Team]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Goals Score For Home Team
+// All Goals Score For Home Team
+patch=1,EE,20176F38,extended,24020000
+
+[All Goals Score For Away Team]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Goals Score For Away Team
+// All Goals Score For Away Team
+patch=1,EE,20176F38,extended,24020001
+
+[P1 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L2} For More Time
+// P1 Press {L1}+{L2} For More Time
+patch=1,EE,D1032642,extended,0000FAFF
+
+[P1 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L2} For More Time
+// P1 Press {L1}+{L2} For More Time
+patch=1,EE,107A1388,extended,000004B0
+
+[P1 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{R2} To End Period
+// P1 Press {R1}+{R2} To End Period
+patch=1,EE,D1032642,extended,0000F5FF
+
+[P1 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{R2} To End Period
+// P1 Press {R1}+{R2} To End Period
+patch=1,EE,107A1388,extended,00000001
+
+[P2 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{L2} For More Time
+// P2 Press {L1}+{L2} For More Time
+patch=1,EE,D1032942,extended,0000FAFF
+
+[P2 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{L2} For More Time
+// P2 Press {L1}+{L2} For More Time
+patch=1,EE,107A1388,extended,000004B0
+
+[P2 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {R1}+{R2} To End Period
+// P2 Press {R1}+{R2} To End Period
+patch=1,EE,D1032942,extended,0000F5FF
+
+[P2 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {R1}+{R2} To End Period
+// P2 Press {R1}+{R2} To End Period
+patch=1,EE,107A1388,extended,00000001
+
+[P3 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L1}+{L2} For More Time
+// P3 Press {L1}+{L2} For More Time
+patch=1,EE,D1032C42,extended,0000FAFF
+
+[P3 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L1}+{L2} For More Time
+// P3 Press {L1}+{L2} For More Time
+patch=1,EE,107A1388,extended,000004B0
+
+[P3 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {R1}+{R2} To End Period
+// P3 Press {R1}+{R2} To End Period
+patch=1,EE,D1032C42,extended,0000F5FF
+
+[P3 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {R1}+{R2} To End Period
+// P3 Press {R1}+{R2} To End Period
+patch=1,EE,107A1388,extended,00000001
+
+[P4 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L1}+{L2} For More Time
+// P4 Press {L1}+{L2} For More Time
+patch=1,EE,D1032F42,extended,0000FAFF
+
+[P4 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L1}+{L2} For More Time
+// P4 Press {L1}+{L2} For More Time
+patch=1,EE,107A1388,extended,000004B0
+
+[P4 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {R1}+{R2} To End Period
+// P4 Press {R1}+{R2} To End Period
+patch=1,EE,D1032F42,extended,0000F5FF
+
+[P4 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {R1}+{R2} To End Period
+// P4 Press {R1}+{R2} To End Period
+patch=1,EE,107A1388,extended,00000001
+
+[P5 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L1}+{L2} For More Time
+// P5 Press {L1}+{L2} For More Time
+patch=1,EE,D1033242,extended,0000FAFF
+
+[P5 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L1}+{L2} For More Time
+// P5 Press {L1}+{L2} For More Time
+patch=1,EE,107A1388,extended,000004B0
+
+[P5 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {R1}+{R2} To End Period
+// P5 Press {R1}+{R2} To End Period
+patch=1,EE,D1033242,extended,0000F5FF
+
+[P5 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {R1}+{R2} To End Period
+// P5 Press {R1}+{R2} To End Period
+patch=1,EE,107A1388,extended,00000001
+
+[P6 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L1}+{L2} For More Time
+// P6 Press {L1}+{L2} For More Time
+patch=1,EE,D1033542,extended,0000FAFF
+
+[P6 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L1}+{L2} For More Time
+// P6 Press {L1}+{L2} For More Time
+patch=1,EE,107A1388,extended,000004B0
+
+[P6 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {R1}+{R2} To End Period
+// P6 Press {R1}+{R2} To End Period
+patch=1,EE,D1033542,extended,0000F5FF
+
+[P6 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {R1}+{R2} To End Period
+// P6 Press {R1}+{R2} To End Period
+patch=1,EE,107A1388,extended,00000001
+
+[P7 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L1}+{L2} For More Time
+// P7 Press {L1}+{L2} For More Time
+patch=1,EE,D1033842,extended,0000FAFF
+
+[P7 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L1}+{L2} For More Time
+// P7 Press {L1}+{L2} For More Time
+patch=1,EE,107A1388,extended,000004B0
+
+[P7 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {R1}+{R2} To End Period
+// P7 Press {R1}+{R2} To End Period
+patch=1,EE,D1033842,extended,0000F5FF
+
+[P7 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {R1}+{R2} To End Period
+// P7 Press {R1}+{R2} To End Period
+patch=1,EE,107A1388,extended,00000001
+
+[P8 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L1}+{L2} For More Time
+// P8 Press {L1}+{L2} For More Time
+patch=1,EE,D1033B42,extended,0000FAFF
+
+[P8 Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L1}+{L2} For More Time
+// P8 Press {L1}+{L2} For More Time
+patch=1,EE,107A1388,extended,000004B0
+
+[P8 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {R1}+{R2} To End Period
+// P8 Press {R1}+{R2} To End Period
+patch=1,EE,D1033B42,extended,0000F5FF
+
+[P8 Press {R1}+{R2} To End Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {R1}+{R2} To End Period
+// P8 Press {R1}+{R2} To End Period
+patch=1,EE,107A1388,extended,00000001
+
+[P1 Press {L1}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For 2nd Period
+// P1 Press {L1}+{SELECT} For 2nd Period
+patch=1,EE,D1032642,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For 2nd Period
+// P1 Press {L1}+{SELECT} For 2nd Period
+patch=1,EE,207A138C,extended,00010001
+
+[P1 Press {L2}+{SELECT} For 3rd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For 3rd Period
+// P1 Press {L2}+{SELECT} For 3rd Period
+patch=1,EE,D1032642,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} For 3rd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For 3rd Period
+// P1 Press {L2}+{SELECT} For 3rd Period
+patch=1,EE,207A138C,extended,00020002
+
+[P2 Press {L1}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} For 2nd Period
+// P2 Press {L1}+{SELECT} For 2nd Period
+patch=1,EE,D1032942,extended,0000FBFE
+
+[P2 Press {L1}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} For 2nd Period
+// P2 Press {L1}+{SELECT} For 2nd Period
+patch=1,EE,207A138C,extended,00010001
+
+[P2 Press {L2}+{SELECT} For 3rd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L2}+{SELECT} For 3rd Period
+// P2 Press {L2}+{SELECT} For 3rd Period
+patch=1,EE,D1032942,extended,0000FEFE
+
+[P2 Press {L2}+{SELECT} For 3rd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L2}+{SELECT} For 3rd Period
+// P2 Press {L2}+{SELECT} For 3rd Period
+patch=1,EE,207A138C,extended,00020002
+
+[P3 Press {L1}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L1}+{SELECT} For 2nd Period
+// P3 Press {L1}+{SELECT} For 2nd Period
+patch=1,EE,D1032C42,extended,0000FBFE
+
+[P3 Press {L1}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L1}+{SELECT} For 2nd Period
+// P3 Press {L1}+{SELECT} For 2nd Period
+patch=1,EE,207A138C,extended,00010001
+
+[P3 Press {L2}+{SELECT} For 3rd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L2}+{SELECT} For 3rd Period
+// P3 Press {L2}+{SELECT} For 3rd Period
+patch=1,EE,D1032C42,extended,0000FEFE
+
+[P3 Press {L2}+{SELECT} For 3rd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P3 Press {L2}+{SELECT} For 3rd Period
+// P3 Press {L2}+{SELECT} For 3rd Period
+patch=1,EE,207A138C,extended,00020002
+
+[P4 Press {L1}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L1}+{SELECT} For 2nd Period
+// P4 Press {L1}+{SELECT} For 2nd Period
+patch=1,EE,D1032F42,extended,0000FBFE
+
+[P4 Press {L1}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L1}+{SELECT} For 2nd Period
+// P4 Press {L1}+{SELECT} For 2nd Period
+patch=1,EE,207A138C,extended,00010001
+
+[P4 Press {L2}+{SELECT} For 3rd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L2}+{SELECT} For 3rd Period
+// P4 Press {L2}+{SELECT} For 3rd Period
+patch=1,EE,D1032F42,extended,0000FEFE
+
+[P4 Press {L2}+{SELECT} For 3rd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P4 Press {L2}+{SELECT} For 3rd Period
+// P4 Press {L2}+{SELECT} For 3rd Period
+patch=1,EE,207A138C,extended,00020002
+
+[P5 Press {L1}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L1}+{SELECT} For 2nd Period
+// P5 Press {L1}+{SELECT} For 2nd Period
+patch=1,EE,D1033242,extended,0000FBFE
+
+[P5 Press {L1}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L1}+{SELECT} For 2nd Period
+// P5 Press {L1}+{SELECT} For 2nd Period
+patch=1,EE,207A138C,extended,00010001
+
+[P5 Press {L2}+{SELECT} For 3rd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L2}+{SELECT} For 3rd Period
+// P5 Press {L2}+{SELECT} For 3rd Period
+patch=1,EE,D1033242,extended,0000FEFE
+
+[P5 Press {L2}+{SELECT} For 3rd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P5 Press {L2}+{SELECT} For 3rd Period
+// P5 Press {L2}+{SELECT} For 3rd Period
+patch=1,EE,207A138C,extended,00020002
+
+[P6 Press {L1}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L1}+{SELECT} For 2nd Period
+// P6 Press {L1}+{SELECT} For 2nd Period
+patch=1,EE,D1033542,extended,0000FBFE
+
+[P6 Press {L1}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L1}+{SELECT} For 2nd Period
+// P6 Press {L1}+{SELECT} For 2nd Period
+patch=1,EE,207A138C,extended,00010001
+
+[P6 Press {L2}+{SELECT} For 3rd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L2}+{SELECT} For 3rd Period
+// P6 Press {L2}+{SELECT} For 3rd Period
+patch=1,EE,D1033542,extended,0000FEFE
+
+[P6 Press {L2}+{SELECT} For 3rd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P6 Press {L2}+{SELECT} For 3rd Period
+// P6 Press {L2}+{SELECT} For 3rd Period
+patch=1,EE,207A138C,extended,00020002
+
+[P7 Press {L1}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L1}+{SELECT} For 2nd Period
+// P7 Press {L1}+{SELECT} For 2nd Period
+patch=1,EE,D1033842,extended,0000FBFE
+
+[P7 Press {L1}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L1}+{SELECT} For 2nd Period
+// P7 Press {L1}+{SELECT} For 2nd Period
+patch=1,EE,207A138C,extended,00010001
+
+[P7 Press {L2}+{SELECT} For 3rd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L2}+{SELECT} For 3rd Period
+// P7 Press {L2}+{SELECT} For 3rd Period
+patch=1,EE,D1033842,extended,0000FEFE
+
+[P7 Press {L2}+{SELECT} For 3rd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P7 Press {L2}+{SELECT} For 3rd Period
+// P7 Press {L2}+{SELECT} For 3rd Period
+patch=1,EE,207A138C,extended,00020002
+
+[P8 Press {L1}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L1}+{SELECT} For 2nd Period
+// P8 Press {L1}+{SELECT} For 2nd Period
+patch=1,EE,D1033B42,extended,0000FBFE
+
+[P8 Press {L1}+{SELECT} For 2nd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L1}+{SELECT} For 2nd Period
+// P8 Press {L1}+{SELECT} For 2nd Period
+patch=1,EE,207A138C,extended,00010001
+
+[P8 Press {L2}+{SELECT} For 3rd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L2}+{SELECT} For 3rd Period
+// P8 Press {L2}+{SELECT} For 3rd Period
+patch=1,EE,D1033B42,extended,0000FEFE
+
+[P8 Press {L2}+{SELECT} For 3rd Period]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P8 Press {L2}+{SELECT} For 3rd Period
+// P8 Press {L2}+{SELECT} For 3rd Period
+patch=1,EE,207A138C,extended,00020002
+
+[Max Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shots
+// Max Shots
+patch=1,EE,107AD714,extended,0000270F
+
+[No Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Shots
+// No Shots
+patch=1,EE,107AD714,extended,00000000
+
+[Max Shorthanded Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shorthanded Goals
+// Max Shorthanded Goals
+patch=1,EE,107AD71C,extended,0000270F
+
+[No Shorthanded Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Shorthanded Goals
+// No Shorthanded Goals
+patch=1,EE,107AD71C,extended,00000000
+
+[Max Empty Net Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Empty Net Goals
+// Max Empty Net Goals
+patch=1,EE,107AD720,extended,0000270F
+
+[No Empty Net Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Empty Net Goals
+// No Empty Net Goals
+patch=1,EE,107AD720,extended,00000000
+
+[Max Faceoffs Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Faceoffs Won
+// Max Faceoffs Won
+patch=1,EE,107AD724,extended,0000270F
+
+[No Faceoffs Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Faceoffs Won
+// No Faceoffs Won
+patch=1,EE,107AD724,extended,00000000
+
+[Max Overall Powerplays]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Overall Powerplays
+// Max Overall Powerplays
+patch=1,EE,107AD728,extended,0000270F
+
+[No Overall Powerplays]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Overall Powerplays
+// No Overall Powerplays
+patch=1,EE,107AD728,extended,00000000
+
+[Max Powerplays]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Powerplays
+// Max Powerplays
+patch=1,EE,107AD72A,extended,0000270F
+
+[No Powerplays]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Powerplays
+// No Powerplays
+patch=1,EE,107AD72A,extended,00000000
+
+[Max Powerplay Minutes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Powerplay Minutes
+// Max Powerplay Minutes
+patch=1,EE,107AD72E,extended,00000257
+
+[No Powerplay Minutes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Powerplay Minutes
+// No Powerplay Minutes
+patch=1,EE,107AD72E,extended,00000000
+
+[Max Penalties]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Penalties
+// Max Penalties
+patch=1,EE,107AD730,extended,0000270F
+
+[No Penalties]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Penalties
+// No Penalties
+patch=1,EE,107AD730,extended,00000000
+
+[Max Penalty Minutes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Penalty Minutes
+// Max Penalty Minutes
+patch=1,EE,107AD732,extended,00000257
+
+[No Penalty Minutes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Penalty Minutes
+// No Penalty Minutes
+patch=1,EE,107AD732,extended,00000000
+
+[Max Time On Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time On Attack
+// Max Time On Attack
+patch=1,EE,107AD734,extended,00000257
+
+[No Time On Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Time On Attack
+// No Time On Attack
+patch=1,EE,107AD734,extended,00000000
+
+[Max One-Timers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max One-Timers
+// Max One-Timers
+patch=1,EE,107AD736,extended,0000270F
+
+[No One-Timers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No One-Timers
+// No One-Timers
+patch=1,EE,107AD736,extended,00000000
+
+[Max One-Timer Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max One-Timer Goals
+// Max One-Timer Goals
+patch=1,EE,107AD73A,extended,0000270F
+
+[No One-Timer Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No One-Timer Goals
+// No One-Timer Goals
+patch=1,EE,107AD73A,extended,00000000
+
+[Max Breakaways]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Breakaways
+// Max Breakaways
+patch=1,EE,107AD73C,extended,0000270F
+
+[No Breakaways]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Breakaways
+// No Breakaways
+patch=1,EE,107AD73C,extended,00000000
+
+[Max Overall Penalty Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Overall Penalty Shots
+// Max Overall Penalty Shots
+patch=1,EE,107AD740,extended,0000270F
+
+[No Overall Penalty Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Overall Penalty Shots
+// No Overall Penalty Shots
+patch=1,EE,107AD740,extended,00000000
+
+[Max Penalty Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Penalty Shots
+// Max Penalty Shots
+patch=1,EE,107AD742,extended,0000270F
+
+[No Penalty Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Penalty Shots
+// No Penalty Shots
+patch=1,EE,107AD742,extended,00000000
+
+[Max Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Hits
+// Max Hits
+patch=1,EE,107AD744,extended,0000270F
+
+[No Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Hits
+// No Hits
+patch=1,EE,107AD744,extended,00000000
+
+[Max Overall Passing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Overall Passing
+// Max Overall Passing
+patch=1,EE,107AD746,extended,0000270F
+
+[No Overall Passing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Overall Passing
+// No Overall Passing
+patch=1,EE,107AD746,extended,00000000
+
+[Max Passing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Passing
+// Max Passing
+patch=1,EE,107AD748,extended,0000270F
+
+[No Passing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Passing
+// No Passing
+patch=1,EE,107AD748,extended,00000000
+
+[Max Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shots
+// Max Shots
+patch=1,EE,107AD770,extended,0000270F
+
+[No Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Shots
+// No Shots
+patch=1,EE,107AD770,extended,00000000
+
+[Max Shorthanded Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shorthanded Goals
+// Max Shorthanded Goals
+patch=1,EE,107AD778,extended,0000270F
+
+[No Shorthanded Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Shorthanded Goals
+// No Shorthanded Goals
+patch=1,EE,107AD778,extended,00000000
+
+[Max Empty Net Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Empty Net Goals
+// Max Empty Net Goals
+patch=1,EE,107AD77C,extended,0000270F
+
+[No Empty Net Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Empty Net Goals
+// No Empty Net Goals
+patch=1,EE,107AD77C,extended,00000000
+
+[Max Faceoffs Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Faceoffs Won
+// Max Faceoffs Won
+patch=1,EE,107AD780,extended,0000270F
+
+[No Faceoffs Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Faceoffs Won
+// No Faceoffs Won
+patch=1,EE,107AD780,extended,00000000
+
+[Max Overall Powerplays]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Overall Powerplays
+// Max Overall Powerplays
+patch=1,EE,107AD784,extended,0000270F
+
+[No Overall Powerplays]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Overall Powerplays
+// No Overall Powerplays
+patch=1,EE,107AD784,extended,00000000
+
+[Max Powerplays]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Powerplays
+// Max Powerplays
+patch=1,EE,107AD786,extended,0000270F
+
+[No Powerplays]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Powerplays
+// No Powerplays
+patch=1,EE,107AD786,extended,00000000
+
+[Max Powerplay Minutes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Powerplay Minutes
+// Max Powerplay Minutes
+patch=1,EE,107AD78A,extended,00000257
+
+[No Powerplay Minutes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Powerplay Minutes
+// No Powerplay Minutes
+patch=1,EE,107AD78A,extended,00000000
+
+[Max Penalties]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Penalties
+// Max Penalties
+patch=1,EE,107AD78C,extended,0000270F
+
+[No Penalties]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Penalties
+// No Penalties
+patch=1,EE,107AD78C,extended,00000000
+
+[Max Penalty Minutes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Penalty Minutes
+// Max Penalty Minutes
+patch=1,EE,107AD78E,extended,00000257
+
+[No Penalty Minutes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Penalty Minutes
+// No Penalty Minutes
+patch=1,EE,107AD78E,extended,00000000
+
+[Max Time On Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Time On Attack
+// Max Time On Attack
+patch=1,EE,107AD790,extended,00000257
+
+[No Time On Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Time On Attack
+// No Time On Attack
+patch=1,EE,107AD790,extended,00000000
+
+[Max One-Timers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max One-Timers
+// Max One-Timers
+patch=1,EE,107AD792,extended,0000270F
+
+[No One-Timers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No One-Timers
+// No One-Timers
+patch=1,EE,107AD792,extended,00000000
+
+[Max One-Timer Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max One-Timer Goals
+// Max One-Timer Goals
+patch=1,EE,107AD796,extended,0000270F
+
+[No One-Timer Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No One-Timer Goals
+// No One-Timer Goals
+patch=1,EE,107AD796,extended,00000000
+
+[Max Breakaways]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Breakaways
+// Max Breakaways
+patch=1,EE,107AD798,extended,0000270F
+
+[No Breakaways]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Breakaways
+// No Breakaways
+patch=1,EE,107AD798,extended,00000000
+
+[Max Overall Penalty Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Overall Penalty Shots
+// Max Overall Penalty Shots
+patch=1,EE,107AD79C,extended,0000270F
+
+[No Overall Penalty Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Overall Penalty Shots
+// No Overall Penalty Shots
+patch=1,EE,107AD79C,extended,00000000
+
+[Max Penalty Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Penalty Shots
+// Max Penalty Shots
+patch=1,EE,107AD79E,extended,0000270F
+
+[No Penalty Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Penalty Shots
+// No Penalty Shots
+patch=1,EE,107AD79E,extended,00000000
+
+[Max Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Hits
+// Max Hits
+patch=1,EE,107AD7A0,extended,0000270F
+
+[No Hits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Hits
+// No Hits
+patch=1,EE,107AD7A0,extended,00000000
+
+[Max Overall Passing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Overall Passing
+// Max Overall Passing
+patch=1,EE,107AD7A2,extended,0000270F
+
+[No Overall Passing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Overall Passing
+// No Overall Passing
+patch=1,EE,107AD7A2,extended,00000000
+
+[Max Passing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Passing
+// Max Passing
+patch=1,EE,107AD7A4,extended,0000270F
+
+[No Passing]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Passing
+// No Passing
+patch=1,EE,107AD7A4,extended,00000000
+
+[All Upgrades Are Free]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Upgrades Are Free
+// All Upgrades Are Free
+patch=1,EE,205CA694,extended,24020000
+
+[Free Agents Sign To Lower Terms]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Free Agents Sign To Lower Terms
+// Free Agents Sign To Lower Terms
+patch=1,EE,206FE11C,extended,00252698
+
+[Free Agents Sign To Lower Terms]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Free Agents Sign To Lower Terms
+// Free Agents Sign To Lower Terms
+patch=1,EE,206FE124,extended,00252698
+
+[Trade Allowed If Minimum Goalies Reached]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trade Allowed If Minimum Goalies Reached
+// Trade Allowed If Minimum Goalies Reached
+patch=1,EE,2070AA34,extended,0028BFD8
+
+[Trade Allowed If Minimum Skaters Reached]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trade Allowed If Minimum Skaters Reached
+// Trade Allowed If Minimum Skaters Reached
+patch=1,EE,2070AA38,extended,0028BFD8
+
+[Trade Allowed If Maximum Roster Reached]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trade Allowed If Maximum Roster Reached
+// Trade Allowed If Maximum Roster Reached
+patch=1,EE,2070AA3C,extended,0028BFD8
+
+[Trades Never Rejected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trades Never Rejected
+// Trades Never Rejected
+patch=1,EE,4070AA14,extended,00080001
+
+[Trades Never Rejected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trades Never Rejected
+// Trades Never Rejected
+patch=1,EE,0028BFD8,extended,00000000
+
+[Trades Never Rejected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trades Never Rejected
+// Trades Never Rejected
+patch=1,EE,2070AA40,extended,0028BFD8
+
+[Trades Never Rejected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trades Never Rejected
+// Trades Never Rejected
+patch=1,EE,2070AA44,extended,0028BFD8
+
+[Trades Never Rejected]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trades Never Rejected
+// Trades Never Rejected
+patch=1,EE,2028C090,extended,00000000

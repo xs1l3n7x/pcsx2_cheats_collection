@@ -1,0 +1,223 @@
+gametitle=Road Trip [SLUS-20398] [4C168567]
+
+[All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Weapons
+// All Weapons
+patch=1,EE,90273BA4,extended,0C09F9A3
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,1177FDB4,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,2177FDB4,extended,000F423F
+
+[Always Low Total Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Timer
+// Always Low Total Timer
+patch=1,EE,2177A7B0,extended,00000001
+
+[Always Low Lap Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Lap Timer
+// Always Low Lap Timer
+patch=1,EE,2177AEB0,extended,00000001
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,D177ADEA,extended,00000000
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,0177ADEB,extended,00000002
+
+[Warp To All Towns]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warp To All Towns
+// Warp To All Towns
+patch=1,EE,11780A3A,extended,00000000
+
+[Have All Choro Q Coins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Choro Q Coins
+// Have All Choro Q Coins
+patch=1,EE,4178FCA8,extended,00030001
+
+[Have All Choro Q Coins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Choro Q Coins
+// Have All Choro Q Coins
+patch=1,EE,00000000,extended,00000000
+
+[Have All Choro Q Coins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Choro Q Coins
+// Have All Choro Q Coins
+patch=1,EE,0178FCB4,extended,00000000
+
+[Peach Raceway-Rank C]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peach Raceway-Rank C
+// Peach Raceway-Rank C
+patch=1,EE,01780750,extended,00000000
+
+[Peach Raceway-Rank B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peach Raceway-Rank B
+// Peach Raceway-Rank B
+patch=1,EE,01780751,extended,00000000
+
+[Peach Raceway-Rank A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peach Raceway-Rank A
+// Peach Raceway-Rank A
+patch=1,EE,01780752,extended,00000000
+
+[Ninja Temple Raceway-Rank C]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ninja Temple Raceway-Rank C
+// Ninja Temple Raceway-Rank C
+patch=1,EE,01780753,extended,00000000
+
+[Temple Raceway-Rank B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Temple Raceway-Rank B
+// Temple Raceway-Rank B
+patch=1,EE,01780754,extended,00000000
+
+[Temple Raceway-Rank A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Temple Raceway-Rank A
+// Temple Raceway-Rank A
+patch=1,EE,01780755,extended,00000000
+
+[Desert Raceway-Rank C]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Raceway-Rank C
+// Desert Raceway-Rank C
+patch=1,EE,01780756,extended,00000000
+
+[Desert Raceway-Rank B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Raceway-Rank B
+// Desert Raceway-Rank B
+patch=1,EE,01780757,extended,00000000
+
+[Night Glow Raceway-Rank B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Night Glow Raceway-Rank B
+// Night Glow Raceway-Rank B
+patch=1,EE,01780758,extended,00000000
+
+[Night Glow Raceway-Rank A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Night Glow Raceway-Rank A
+// Night Glow Raceway-Rank A
+patch=1,EE,01780759,extended,00000000
+
+[Miner 49er Raceway-Rank C]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Miner 49er Raceway-Rank C
+// Miner 49er Raceway-Rank C
+patch=1,EE,0178075A,extended,00000000
+
+[Miner 49er Raceway-Rank A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Miner 49er Raceway-Rank A
+// Miner 49er Raceway-Rank A
+patch=1,EE,0178075B,extended,00000000
+
+[Lava Run Raceway-Rank B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lava Run Raceway-Rank B
+// Lava Run Raceway-Rank B
+patch=1,EE,0178075C,extended,00000000
+
+[Lava Run Raceway-Rank A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lava Run Raceway-Rank A
+// Lava Run Raceway-Rank A
+patch=1,EE,0178075D,extended,00000000
+
+[River Raceway-Rank C]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=River Raceway-Rank C
+// River Raceway-Rank C
+patch=1,EE,0178075E,extended,00000000
+
+[Slick Track-Rank C]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slick Track-Rank C
+// Slick Track-Rank C
+patch=1,EE,0178075F,extended,00000000
+
+[Oval Raceway-Rank B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Oval Raceway-Rank B
+// Oval Raceway-Rank B
+patch=1,EE,01780760,extended,00000000
+
+[Slick Track-Rank A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slick Track-Rank A
+// Slick Track-Rank A
+patch=1,EE,01780761,extended,00000000
+
+[Snow Mountain Raceway-Rank B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snow Mountain Raceway-Rank B
+// Snow Mountain Raceway-Rank B
+patch=1,EE,01780762,extended,00000000
+
+[Snow Mountain Raceway-Rank A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Snow Mountain Raceway-Rank A
+// Snow Mountain Raceway-Rank A
+patch=1,EE,01780763,extended,00000000
+
+[Sunny Beach Raceway-Rank B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sunny Beach Raceway-Rank B
+// Sunny Beach Raceway-Rank B
+patch=1,EE,01780764,extended,00000000
+
+[Sunny Beach Raceway-Rank A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sunny Beach Raceway-Rank A
+// Sunny Beach Raceway-Rank A
+patch=1,EE,01780765,extended,00000000
+
+[Lagoon Raceway-Rank B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lagoon Raceway-Rank B
+// Lagoon Raceway-Rank B
+patch=1,EE,01780766,extended,00000000
+
+[Lagoon Raceway-Rank A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lagoon Raceway-Rank A
+// Lagoon Raceway-Rank A
+patch=1,EE,01780767,extended,00000000
+
+[Endurance Run]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Endurance Run
+// Endurance Run
+patch=1,EE,01780768,extended,00000000
+
+[Tin Raceway]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tin Raceway
+// Tin Raceway
+patch=1,EE,01780769,extended,00000000

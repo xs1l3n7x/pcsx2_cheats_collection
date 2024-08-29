@@ -1,0 +1,607 @@
+gametitle=Spy Hunter [SLUS-20056] [413706BB]
+
+[G.N.Ring]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=G.N.Ring
+// G.N.Ring
+patch=1,EE,902DAAC4,extended,0C0C0D5F
+
+[Agent 1-Have Objective Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Agent 1-Have Objective Points
+// Agent 1-Have Objective Points
+patch=1,EE,104BCADC,extended,00000041
+
+[Agent 2-Have Objective Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Agent 2-Have Objective Points
+// Agent 2-Have Objective Points
+patch=1,EE,104BCE7C,extended,00000041
+
+[Agent 3-Have Objective Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Agent 3-Have Objective Points
+// Agent 3-Have Objective Points
+patch=1,EE,104BD21C,extended,00000041
+
+[No Traffic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Traffic
+// No Traffic
+patch=1,EE,20117960,extended,03E00008
+
+[No Traffic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Traffic
+// No Traffic
+patch=1,EE,20117964,extended,00000000
+
+[Green HUD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Green HUD
+// Green HUD
+patch=1,EE,10367BBC,extended,00000001
+
+[Night Vision]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Night Vision
+// Night Vision
+patch=1,EE,10367BEC,extended,00000001
+
+[Extra Cameras]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Cameras
+// Extra Cameras
+patch=1,EE,10367C1C,extended,00000001
+
+[Rainbow HUD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rainbow HUD
+// Rainbow HUD
+patch=1,EE,10367C34,extended,00000001
+
+[Inverse Camera]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Inverse Camera
+// Inverse Camera
+patch=1,EE,10367C4C,extended,00000001
+
+[Fisheye View]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fisheye View
+// Fisheye View
+patch=1,EE,10367C7C,extended,00000001
+
+[Camera Flip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Camera Flip
+// Camera Flip
+patch=1,EE,10367C94,extended,00000001
+
+[Puke Camera]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Puke Camera
+// Puke Camera
+patch=1,EE,10367CAC,extended,00000001
+
+[Tiny Spy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiny Spy
+// Tiny Spy
+patch=1,EE,10367CDC,extended,00000001
+
+[Hover Spy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hover Spy
+// Hover Spy
+patch=1,EE,10367CF4,extended,00000001
+
+[Super Spy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Spy
+// Super Spy
+patch=1,EE,10367D0C,extended,00000001
+
+[Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 1
+// Mission 1
+patch=1,EE,404BC8AC,extended,00070001
+
+[Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 1
+// Mission 1
+patch=1,EE,00000001,extended,00000000
+
+[Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 2
+// Mission 2
+patch=1,EE,404BC8D4,extended,00040001
+
+[Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 2
+// Mission 2
+patch=1,EE,00000001,extended,00000000
+
+[Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 3
+// Mission 3
+patch=1,EE,404BC8FC,extended,00040001
+
+[Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 3
+// Mission 3
+patch=1,EE,00000001,extended,00000000
+
+[Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 4
+// Mission 4
+patch=1,EE,404BC924,extended,00040001
+
+[Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 4
+// Mission 4
+patch=1,EE,00000001,extended,00000000
+
+[Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 5
+// Mission 5
+patch=1,EE,404BC94C,extended,00040001
+
+[Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 5
+// Mission 5
+patch=1,EE,00000001,extended,00000000
+
+[Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 6
+// Mission 6
+patch=1,EE,404BC974,extended,00040001
+
+[Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 6
+// Mission 6
+patch=1,EE,00000001,extended,00000000
+
+[Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 7
+// Mission 7
+patch=1,EE,404BC99C,extended,00070001
+
+[Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 7
+// Mission 7
+patch=1,EE,00000001,extended,00000000
+
+[Mission 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 8
+// Mission 8
+patch=1,EE,404BC9C4,extended,00040001
+
+[Mission 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 8
+// Mission 8
+patch=1,EE,00000001,extended,00000000
+
+[Mission 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 9
+// Mission 9
+patch=1,EE,404BC9EC,extended,00050001
+
+[Mission 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 9
+// Mission 9
+patch=1,EE,00000001,extended,00000000
+
+[Mission 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 10
+// Mission 10
+patch=1,EE,404BCA14,extended,00040001
+
+[Mission 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 10
+// Mission 10
+patch=1,EE,00000001,extended,00000000
+
+[Mission 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 11
+// Mission 11
+patch=1,EE,404BCA3C,extended,00060001
+
+[Mission 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 11
+// Mission 11
+patch=1,EE,00000001,extended,00000000
+
+[Mission 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 12
+// Mission 12
+patch=1,EE,404BCA64,extended,00040001
+
+[Mission 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 12
+// Mission 12
+patch=1,EE,00000001,extended,00000000
+
+[Mission 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 13
+// Mission 13
+patch=1,EE,404BCA8C,extended,00040001
+
+[Mission 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 13
+// Mission 13
+patch=1,EE,00000001,extended,00000000
+
+[Mission 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 14
+// Mission 14
+patch=1,EE,404BCAB4,extended,00040001
+
+[Mission 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 14
+// Mission 14
+patch=1,EE,00000001,extended,00000000
+
+[Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 1
+// Mission 1
+patch=1,EE,404BCC4C,extended,00070001
+
+[Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 1
+// Mission 1
+patch=1,EE,00000001,extended,00000000
+
+[Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 2
+// Mission 2
+patch=1,EE,404BCC74,extended,00040001
+
+[Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 2
+// Mission 2
+patch=1,EE,00000001,extended,00000000
+
+[Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 3
+// Mission 3
+patch=1,EE,404BCC9C,extended,00040001
+
+[Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 3
+// Mission 3
+patch=1,EE,00000001,extended,00000000
+
+[Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 4
+// Mission 4
+patch=1,EE,404BCCC4,extended,00040001
+
+[Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 4
+// Mission 4
+patch=1,EE,00000001,extended,00000000
+
+[Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 5
+// Mission 5
+patch=1,EE,404BCCEC,extended,00040001
+
+[Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 5
+// Mission 5
+patch=1,EE,00000001,extended,00000000
+
+[Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 6
+// Mission 6
+patch=1,EE,404BCD14,extended,00040001
+
+[Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 6
+// Mission 6
+patch=1,EE,00000001,extended,00000000
+
+[Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 7
+// Mission 7
+patch=1,EE,404BCD3C,extended,00070001
+
+[Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 7
+// Mission 7
+patch=1,EE,00000001,extended,00000000
+
+[Mission 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 8
+// Mission 8
+patch=1,EE,404BCD64,extended,00040001
+
+[Mission 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 8
+// Mission 8
+patch=1,EE,00000001,extended,00000000
+
+[Mission 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 9
+// Mission 9
+patch=1,EE,404BCD8C,extended,00050001
+
+[Mission 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 9
+// Mission 9
+patch=1,EE,00000001,extended,00000000
+
+[Mission 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 10
+// Mission 10
+patch=1,EE,404BCDB4,extended,00040001
+
+[Mission 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 10
+// Mission 10
+patch=1,EE,00000001,extended,00000000
+
+[Mission 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 11
+// Mission 11
+patch=1,EE,404BCDDC,extended,00060001
+
+[Mission 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 11
+// Mission 11
+patch=1,EE,00000001,extended,00000000
+
+[Mission 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 12
+// Mission 12
+patch=1,EE,404BCE04,extended,00040001
+
+[Mission 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 12
+// Mission 12
+patch=1,EE,00000001,extended,00000000
+
+[Mission 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 13
+// Mission 13
+patch=1,EE,404BCE2C,extended,00040001
+
+[Mission 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 13
+// Mission 13
+patch=1,EE,00000001,extended,00000000
+
+[Mission 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 14
+// Mission 14
+patch=1,EE,404BCE54,extended,00040001
+
+[Mission 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 14
+// Mission 14
+patch=1,EE,00000001,extended,00000000
+
+[Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 1
+// Mission 1
+patch=1,EE,404BCFEC,extended,00070001
+
+[Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 1
+// Mission 1
+patch=1,EE,00000001,extended,00000000
+
+[Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 2
+// Mission 2
+patch=1,EE,404BD014,extended,00040001
+
+[Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 2
+// Mission 2
+patch=1,EE,00000001,extended,00000000
+
+[Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 3
+// Mission 3
+patch=1,EE,404BD03C,extended,00040001
+
+[Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 3
+// Mission 3
+patch=1,EE,00000001,extended,00000000
+
+[Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 4
+// Mission 4
+patch=1,EE,404BD064,extended,00040001
+
+[Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 4
+// Mission 4
+patch=1,EE,00000001,extended,00000000
+
+[Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 5
+// Mission 5
+patch=1,EE,404BD08C,extended,00040001
+
+[Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 5
+// Mission 5
+patch=1,EE,00000001,extended,00000000
+
+[Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 6
+// Mission 6
+patch=1,EE,404BD0B4,extended,00040001
+
+[Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 6
+// Mission 6
+patch=1,EE,00000001,extended,00000000
+
+[Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 7
+// Mission 7
+patch=1,EE,404BD0DC,extended,00070001
+
+[Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 7
+// Mission 7
+patch=1,EE,00000001,extended,00000000
+
+[Mission 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 8
+// Mission 8
+patch=1,EE,404BD104,extended,00040001
+
+[Mission 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 8
+// Mission 8
+patch=1,EE,00000001,extended,00000000
+
+[Mission 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 9
+// Mission 9
+patch=1,EE,404BD13C,extended,00050001
+
+[Mission 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 9
+// Mission 9
+patch=1,EE,00000001,extended,00000000
+
+[Mission 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 10
+// Mission 10
+patch=1,EE,404BD164,extended,00040001
+
+[Mission 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 10
+// Mission 10
+patch=1,EE,00000001,extended,00000000
+
+[Mission 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 11
+// Mission 11
+patch=1,EE,404BD18C,extended,00060001
+
+[Mission 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 11
+// Mission 11
+patch=1,EE,00000001,extended,00000000
+
+[Mission 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 12
+// Mission 12
+patch=1,EE,404BD1B4,extended,00040001
+
+[Mission 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 12
+// Mission 12
+patch=1,EE,00000001,extended,00000000
+
+[Mission 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 13
+// Mission 13
+patch=1,EE,404BD1DC,extended,00040001
+
+[Mission 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 13
+// Mission 13
+patch=1,EE,00000001,extended,00000000
+
+[Mission 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 14
+// Mission 14
+patch=1,EE,404BD204,extended,00040001
+
+[Mission 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 14
+// Mission 14
+patch=1,EE,00000001,extended,00000000

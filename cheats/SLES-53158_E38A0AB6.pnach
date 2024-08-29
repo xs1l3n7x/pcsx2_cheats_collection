@@ -1,0 +1,55 @@
+gametitle=Cold Fear [SLES-53158] [E38A0AB6]
+
+[Numbuh 5-Vampire]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Numbuh 5-Vampire
+// Numbuh 5-Vampire
+patch=1,EE,9036CF20,extended,0C05B72A
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201F04BC,extended,3C01437A
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201F04C8,extended,AE010530
+
+[Infinite Ammo (All Weapons)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo (All Weapons)
+// Infinite Ammo (All Weapons)
+patch=1,EE,201F6B38,extended,00000000
+
+[Max Infinite Ammo (All Weapons)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo (All Weapons)
+// Max Infinite Ammo (All Weapons)
+patch=1,EE,201F1ECC,extended,240703E7
+
+[Extra Ammo (All Weapons)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo (All Weapons)
+// Extra Ammo (All Weapons)
+patch=1,EE,101F6B38,extended,00000001
+
+[Never Reload (All Weapons)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload (All Weapons)
+// Never Reload (All Weapons)
+patch=1,EE,101F6B50,extended,00000000
+
+[Infinite Resistance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Resistance
+// Infinite Resistance
+patch=1,EE,20384308,extended,AE021DC8
+
+[Unlock Extreme Difficulty]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Extreme Difficulty
+// Unlock Extreme Difficulty
+patch=1,EE,00A55116,extended,00000001

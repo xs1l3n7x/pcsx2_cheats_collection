@@ -1,0 +1,49 @@
+gametitle=Mark Davis Pro Bass Challenge [SLUS-20646] [5744D227]
+
+[Infinite Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Skills
+// Infinite Skills
+patch=1,EE,9011312C,extended,0C047A2A
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,20249D00,extended,0000467F
+
+[Press {L1}+{SELECT} For Max Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For Max Time
+// Press {L1}+{SELECT} For Max Time
+patch=1,EE,D02E5D02,extended,0000FBFE
+
+[Press {L1}+{SELECT} For Max Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{SELECT} For Max Time
+// Press {L1}+{SELECT} For Max Time
+patch=1,EE,20249D00,extended,0000EA40
+
+[Press {L2}+{SELECT} For No Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L2}+{SELECT} For No Time
+// Press {L2}+{SELECT} For No Time
+patch=1,EE,D02E5D02,extended,0000FEFE
+
+[Press {L2}+{SELECT} For No Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L2}+{SELECT} For No Time
+// Press {L2}+{SELECT} For No Time
+patch=1,EE,20249D00,extended,00000050
+
+[Unlock All Lures]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Lures
+// Unlock All Lures
+patch=1,EE,40427258,extended,000E0001
+
+[Unlock All Lures]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Lures
+// Unlock All Lures
+patch=1,EE,00010001,extended,00000000

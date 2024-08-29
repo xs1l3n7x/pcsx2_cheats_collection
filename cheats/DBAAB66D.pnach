@@ -1,0 +1,301 @@
+gametitle=Kingdom Hearts 2 [UNKNOWN] [DBAAB66D]
+
+[Always have 9999 PES (after at least 1 match)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Always have 9999 PES (after at least 1 match)
+// Always have 9999 PES (after at least 1 match)
+patch=1,EE,21893CE4,extended,0001869F
+
+[Select+Up to go to extra time (Select+up to disable)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Select+Up to go to extra time (Select+up to disable)
+// Select+Up to go to extra time (Select+up to disable)
+patch=1,EE,D054CDC2,extended,0000FFEE
+
+[Select+Up to go to extra time (Select+up to disable)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Select+Up to go to extra time (Select+up to disable)
+// Select+Up to go to extra time (Select+up to disable)
+patch=1,EE,20263E90,extended,ACA0094C
+
+[Select+Up to go to extra time (Select+up to disable)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Select+Up to go to extra time (Select+up to disable)
+// Select+Up to go to extra time (Select+up to disable)
+patch=1,EE,D054CDC2,extended,0000FFBE
+
+[Select+Up to go to extra time (Select+up to disable)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Select+Up to go to extra time (Select+up to disable)
+// Select+Up to go to extra time (Select+up to disable)
+patch=1,EE,20263E90,extended,ACA4094C
+
+[Block time(Select+triangle to enable,Select+X to disable)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Block time(Select+triangle to enable,Select+X to disable)
+// Block time(Select+triangle to enable,Select+X to disable)
+patch=1,EE,E002EFFE,extended,0054CDC2
+
+[Block time(Select+triangle to enable,Select+X to disable)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Block time(Select+triangle to enable,Select+X to disable)
+// Block time(Select+triangle to enable,Select+X to disable)
+patch=1,EE,D0D2E530,extended,00006E69
+
+[Block time(Select+triangle to enable,Select+X to disable)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Block time(Select+triangle to enable,Select+X to disable)
+// Block time(Select+triangle to enable,Select+X to disable)
+patch=1,EE,20263E84,extended,00000000
+
+[Block time(Select+triangle to enable,Select+X to disable)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Block time(Select+triangle to enable,Select+X to disable)
+// Block time(Select+triangle to enable,Select+X to disable)
+patch=1,EE,D054CDC2,extended,0000BFFE
+
+[Block time(Select+triangle to enable,Select+X to disable)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Block time(Select+triangle to enable,Select+X to disable)
+// Block time(Select+triangle to enable,Select+X to disable)
+patch=1,EE,20263E84,extended,2484FFFF
+
+[Home team score to 99 (Select+ right)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Home team score to 99 (Select+ right)
+// Home team score to 99 (Select+ right)
+patch=1,EE,E006FFDE,extended,0054CDC2
+
+[Home team score to 99 (Select+ right)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Home team score to 99 (Select+ right)
+// Home team score to 99 (Select+ right)
+patch=1,EE,E0036E69,extended,00D2E530
+
+[Home team score to 99 (Select+ right)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Home team score to 99 (Select+ right)
+// Home team score to 99 (Select+ right)
+patch=1,EE,D03E1080,extended,00000000
+
+[Home team score to 99 (Select+ right)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Home team score to 99 (Select+ right)
+// Home team score to 99 (Select+ right)
+patch=1,EE,00D33AE8,extended,00000063
+
+[Home team score to 99 (Select+ right)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Home team score to 99 (Select+ right)
+// Home team score to 99 (Select+ right)
+patch=1,EE,E0036E69,extended,00D2E530
+
+[Home team score to 99 (Select+ right)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Home team score to 99 (Select+ right)
+// Home team score to 99 (Select+ right)
+patch=1,EE,D03E1080,extended,00000001
+
+[Home team score to 99 (Select+ right)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Home team score to 99 (Select+ right)
+// Home team score to 99 (Select+ right)
+patch=1,EE,00D33DDC,extended,00000063
+
+[Home team score to 0 (Select+Left)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Home team score to 0 (Select+Left)
+// Home team score to 0 (Select+Left)
+patch=1,EE,E006FF7E,extended,0054CDC2
+
+[Home team score to 0 (Select+Left)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Home team score to 0 (Select+Left)
+// Home team score to 0 (Select+Left)
+patch=1,EE,E0036E69,extended,00D2E530
+
+[Home team score to 0 (Select+Left)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Home team score to 0 (Select+Left)
+// Home team score to 0 (Select+Left)
+patch=1,EE,D03E1080,extended,00000000
+
+[Home team score to 0 (Select+Left)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Home team score to 0 (Select+Left)
+// Home team score to 0 (Select+Left)
+patch=1,EE,00D33AE8,extended,00000000
+
+[Home team score to 0 (Select+Left)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Home team score to 0 (Select+Left)
+// Home team score to 0 (Select+Left)
+patch=1,EE,E0036E69,extended,00D2E530
+
+[Home team score to 0 (Select+Left)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Home team score to 0 (Select+Left)
+// Home team score to 0 (Select+Left)
+patch=1,EE,D03E1080,extended,00000001
+
+[Home team score to 0 (Select+Left)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Home team score to 0 (Select+Left)
+// Home team score to 0 (Select+Left)
+patch=1,EE,00D33DDC,extended,00000000
+
+[Outside team score to 99 (Select + O)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Outside team score to 99 (Select + O)
+// Outside team score to 99 (Select + O)
+patch=1,EE,E006DFFE,extended,0054CDC2
+
+[Outside team score to 99 (Select + O)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Outside team score to 99 (Select + O)
+// Outside team score to 99 (Select + O)
+patch=1,EE,E0036E69,extended,00D2E530
+
+[Outside team score to 99 (Select + O)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Outside team score to 99 (Select + O)
+// Outside team score to 99 (Select + O)
+patch=1,EE,D03E1080,extended,00100000
+
+[Outside team score to 99 (Select + O)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Outside team score to 99 (Select + O)
+// Outside team score to 99 (Select + O)
+patch=1,EE,00D33AE8,extended,00000063
+
+[Outside team score to 99 (Select + O)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Outside team score to 99 (Select + O)
+// Outside team score to 99 (Select + O)
+patch=1,EE,E0036E69,extended,00D2E530
+
+[Outside team score to 99 (Select + O)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Outside team score to 99 (Select + O)
+// Outside team score to 99 (Select + O)
+patch=1,EE,D03E1080,extended,00100001
+
+[Outside team score to 99 (Select + O)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Outside team score to 99 (Select + O)
+// Outside team score to 99 (Select + O)
+patch=1,EE,00D33DDC,extended,00000063
+
+[Outside team score to 0 (Select + square)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Outside team score to 0 (Select + square)
+// Outside team score to 0 (Select + square)
+patch=1,EE,E0067FFE,extended,0054CDC2
+
+[Outside team score to 0 (Select + square)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Outside team score to 0 (Select + square)
+// Outside team score to 0 (Select + square)
+patch=1,EE,E0036E69,extended,00D2E530
+
+[Outside team score to 0 (Select + square)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Outside team score to 0 (Select + square)
+// Outside team score to 0 (Select + square)
+patch=1,EE,D03E1080,extended,00100000
+
+[Outside team score to 0 (Select + square)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Outside team score to 0 (Select + square)
+// Outside team score to 0 (Select + square)
+patch=1,EE,00D33AE8,extended,00000000
+
+[Outside team score to 0 (Select + square)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Outside team score to 0 (Select + square)
+// Outside team score to 0 (Select + square)
+patch=1,EE,E0036E69,extended,00D2E530
+
+[Outside team score to 0 (Select + square)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Outside team score to 0 (Select + square)
+// Outside team score to 0 (Select + square)
+patch=1,EE,D03E1080,extended,00100001
+
+[Outside team score to 0 (Select + square)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Outside team score to 0 (Select + square)
+// Outside team score to 0 (Select + square)
+patch=1,EE,00D33DDC,extended,00000000
+
+[Master league - Max money]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Master league - Max money
+// Master league - Max money
+patch=1,EE,D099C820,extended,0000656C
+
+[Master league - Max money]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Master league - Max money
+// Master league - Max money
+patch=1,EE,208D39EC,extended,000F423F
+
+[Master league - More team Exp]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Master league - More team Exp
+// Master league - More team Exp
+patch=1,EE,E002656C,extended,0099C820
+
+[Master league - More team Exp]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Master league - More team Exp
+// Master league - More team Exp
+patch=1,EE,20B3BFFC,extended,00000000
+
+[Master league - More team Exp]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Master league - More team Exp
+// Master league - More team Exp
+patch=1,EE,20B3C000,extended,241003E8
+
+[Master league - More players exp]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Master league - More players exp
+// Master league - More players exp
+patch=1,EE,D099C820,extended,0000656C
+
+[Master league - More players exp]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Master league - More players exp
+// Master league - More players exp
+patch=1,EE,20BDF420,extended,0040200A
+
+[Be a legend - Unlimited points]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Be a legend - Unlimited points
+// Be a legend - Unlimited points
+patch=1,EE,E004AE43,extended,00C55EBA
+
+[Be a legend - Unlimited points]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Be a legend - Unlimited points
+// Be a legend - Unlimited points
+patch=1,EE,20A69DF4,extended,0001869F
+
+[Be a legend - Unlimited points]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Be a legend - Unlimited points
+// Be a legend - Unlimited points
+patch=1,EE,20A69DF8,extended,0001869F
+
+[Be a legend - Unlimited points]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Be a legend - Unlimited points
+// Be a legend - Unlimited points
+patch=1,EE,20A69E00,extended,00000000
+
+[Be a legend - Skills don't decrease]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Be a legend - Skills don't decrease
+// Be a legend - Skills don't decrease
+patch=1,EE,20A69500,extended,00000000

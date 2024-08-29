@@ -1,0 +1,97 @@
+gametitle=MX Vs. ATV Unleashed [SLUS-21104] [95BB1901]
+
+[All Morenci Mines]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Morenci Mines
+// All Morenci Mines
+patch=1,EE,90362508,extended,0C0D50C4
+
+[Always Low Lap Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Lap Time
+// Always Low Lap Time
+patch=1,EE,D0468800,extended,00001024
+
+[Always Low Lap Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Lap Time
+// Always Low Lap Time
+patch=1,EE,20468814,extended,00000000
+
+[Always Low TBL Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low TBL Time
+// Always Low TBL Time
+patch=1,EE,D04687D8,extended,00001024
+
+[Always Low TBL Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low TBL Time
+// Always Low TBL Time
+patch=1,EE,204687F0,extended,00000000
+
+[Max Store Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Store Points
+// Max Store Points
+patch=1,EE,E003F768,extended,004E2210
+
+[Max Store Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Store Points
+// Max Store Points
+patch=1,EE,204E221C,extended,3C0105F5
+
+[Max Store Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Store Points
+// Max Store Points
+patch=1,EE,204E2220,extended,3421E0FF
+
+[Max Store Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Store Points
+// Max Store Points
+patch=1,EE,204E2224,extended,AC41015C
+
+[Using Store Points Doesnt Decrease Store Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Using Store Points Doesnt Decrease Store Points
+// Using Store Points Doesnt Decrease Store Points
+patch=1,EE,D04E52BC,extended,00008021
+
+[Using Store Points Doesnt Decrease Store Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Using Store Points Doesnt Decrease Store Points
+// Using Store Points Doesnt Decrease Store Points
+patch=1,EE,204E52CC,extended,00000000
+
+[Using Store Points Increases Store Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Using Store Points Increases Store Points
+// Using Store Points Increases Store Points
+patch=1,EE,D04E52BC,extended,00008021
+
+[Using Store Points Increases Store Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Using Store Points Increases Store Points
+// Using Store Points Increases Store Points
+patch=1,EE,204E52C8,extended,00451021
+
+[View Store To Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Store To Unlock Everything
+// View Store To Unlock Everything
+patch=1,EE,202DF3B4,extended,304200FB
+
+[View Store To Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Store To Unlock Everything
+// View Store To Unlock Everything
+patch=1,EE,202DF3B8,extended,A082003A
+
+[View Store To Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Store To Unlock Everything
+// View Store To Unlock Everything
+patch=1,EE,202DF3BC,extended,00000000

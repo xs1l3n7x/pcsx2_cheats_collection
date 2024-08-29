@@ -1,0 +1,175 @@
+gametitle=Haunting Ground [UNKNOWN] [9D443C69]
+
+[Infinite grenades]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite grenades
+// Infinite grenades
+patch=1,EE,202A5C78,extended,00000000
+
+[Infinite reload]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite reload
+// Infinite reload
+patch=1,EE,202A7944,extended,00000000
+
+[Infinite health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health
+// Infinite health
+patch=1,EE,200FFE00,extended,3C0142C8
+
+[Infinite health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health
+// Infinite health
+patch=1,EE,200FFE0C,extended,AE210098
+
+[Infinite health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health
+// Infinite health
+patch=1,EE,200FFE10,extended,AE21002C
+
+[Infinite health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health
+// Infinite health
+patch=1,EE,200FFE14,extended,03E00008
+
+[Infinite health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite health
+// Infinite health
+patch=1,EE,2021F4F0,extended,0C03FF80
+
+[Infinite shield]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite shield
+// Infinite shield
+patch=1,EE,200FFE00,extended,3C0142C8
+
+[Infinite shield]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite shield
+// Infinite shield
+patch=1,EE,200FFE04,extended,AE2100A0
+
+[Infinite shield]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite shield
+// Infinite shield
+patch=1,EE,200FFE08,extended,AE2100A4
+
+[Infinite shield]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite shield
+// Infinite shield
+patch=1,EE,200FFE14,extended,03E00008
+
+[Infinite shield]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite shield
+// Infinite shield
+patch=1,EE,2021F4F0,extended,0C03FF80
+
+[Level - 01 .Canyonshoot]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 01 .Canyonshoot
+// Level - 01 .Canyonshoot
+patch=1,EE,20320908,extended,24040001
+
+[Level - 02. Cemetery]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 02. Cemetery
+// Level - 02. Cemetery
+patch=1,EE,20320908,extended,24040002
+
+[Level - 03. DevilsBelly]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 03. DevilsBelly
+// Level - 03. DevilsBelly
+patch=1,EE,20320908,extended,24040003
+
+[Level - 04. DWOutPost]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 04. DWOutPost
+// Level - 04. DWOutPost
+patch=1,EE,20320908,extended,24040004
+
+[Level - 05. WarTrain]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 05. WarTrain
+// Level - 05. WarTrain
+patch=1,EE,20320908,extended,24040005
+
+[Level - 06. TortureMaze]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 06. TortureMaze
+// Level - 06. TortureMaze
+patch=1,EE,20320908,extended,24040006
+
+[Level - 07. TradingPost]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 07. TradingPost
+// Level - 07. TradingPost
+patch=1,EE,20320908,extended,24040007
+
+[Level - 08. Citadel_Launch]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 08. Citadel_Launch
+// Level - 08. Citadel_Launch
+patch=1,EE,20320908,extended,24040008
+
+[Level - 09. SplittingPaths]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 09. SplittingPaths
+// Level - 09. SplittingPaths
+patch=1,EE,20320908,extended,24040009
+
+[Level - 10. Regulator]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 10. Regulator
+// Level - 10. Regulator
+patch=1,EE,20320908,extended,2404000A
+
+[Level - 11. Invasion]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 11. Invasion
+// Level - 11. Invasion
+patch=1,EE,20320908,extended,2404000B
+
+[Level - 12. HangTown]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 12. HangTown
+// Level - 12. HangTown
+patch=1,EE,20320908,extended,2404000C
+
+[Level - 13. Citadel Under attack]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 13. Citadel Under attack
+// Level - 13. Citadel Under attack
+patch=1,EE,20320908,extended,2404000D
+
+[Level - 14. Fall of Citadel]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 14. Fall of Citadel
+// Level - 14. Fall of Citadel
+patch=1,EE,20320908,extended,2404000E
+
+[Level - 15. Ride to Dead Fall]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 15. Ride to Dead Fall
+// Level - 15. Ride to Dead Fall
+patch=1,EE,20320908,extended,2404000F
+
+[Level - 16. Penetrating Dead Fall]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 16. Penetrating Dead Fall
+// Level - 16. Penetrating Dead Fall
+patch=1,EE,20320908,extended,24040010
+
+[Level - 17. Ground Zero]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Level - 17. Ground Zero
+// Level - 17. Ground Zero
+patch=1,EE,20320908,extended,24040011

@@ -1,0 +1,25 @@
+gametitle=Crash Bandicoot [UNKNOWN] [3A32FD60]
+
+[Infinite Time To Choose Play]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Time To Choose Play
+// Infinite Time To Choose Play
+patch=1,EE,20177090,extended,00000000
+
+[Infinite Turbo P1]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Turbo P1
+// Infinite Turbo P1
+patch=1,EE,2059C808,extended,3F800000
+
+[Infinite Turbo P1 Alt 1]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Turbo P1 Alt 1
+// Infinite Turbo P1 Alt 1
+patch=1,EE,90D2B558,extended,58B515E6
+
+[Infinite Turbo P1 Alt 2]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Turbo P1 Alt 2
+// Infinite Turbo P1 Alt 2
+patch=1,EE,1059C80A,extended,00003F80

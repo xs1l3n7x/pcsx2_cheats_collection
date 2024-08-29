@@ -1,0 +1,151 @@
+gametitle=Persona 4 [UNKNOWN] [E1F17139]
+
+[Enable Code (Must Be On)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Enable Code (Must Be On)
+// Enable Code (Must Be On)
+patch=1,EE,FE129B51,extended,800813BF
+
+[Enable Code (Must Be On)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Enable Code (Must Be On)
+// Enable Code (Must Be On)
+patch=1,EE,000FFFFE,extended,000001F8
+
+[Enable Code (Must Be On)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Enable Code (Must Be On)
+// Enable Code (Must Be On)
+patch=1,EE,000FFFFF,extended,000001F8
+
+[Enable Code (Must Be On)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Enable Code (Must Be On)
+// Enable Code (Must Be On)
+patch=1,EE,901233E4,extended,0C04C1A8
+
+[Infinite Energy]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Energy
+// Infinite Energy
+patch=1,EE,E0021821,extended,010C06C8
+
+[Infinite Energy]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Energy
+// Infinite Energy
+patch=1,EE,210C06D0,extended,24030258
+
+[Infinite Energy]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Energy
+// Infinite Energy
+patch=1,EE,210C06D8,extended,AC4301C8
+
+[Infinite Charged Attack Meter]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Charged Attack Meter
+// Infinite Charged Attack Meter
+patch=1,EE,D10C2C00,extended,00001821
+
+[Infinite Charged Attack Meter]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Charged Attack Meter
+// Infinite Charged Attack Meter
+patch=1,EE,210C2C1C,extended,AC410C94
+
+[Infinite Charged Attack Meter Usage]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Charged Attack Meter Usage
+// Infinite Charged Attack Meter Usage
+patch=1,EE,D0F3BF70,extended,0000F02D
+
+[Infinite Charged Attack Meter Usage]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Charged Attack Meter Usage
+// Infinite Charged Attack Meter Usage
+patch=1,EE,20F3BFA4,extended,00000000
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,D0F51C38,extended,0000F02D
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,20F51C94,extended,00000000
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,D10BEDA0,extended,0000F02D
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,210BEDE8,extended,00000000
+
+[Pick-Ups Collected x4]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Pick-Ups Collected x4
+// Pick-Ups Collected x4
+patch=1,EE,D10C78F4,extended,00002021
+
+[Pick-Ups Collected x4]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Pick-Ups Collected x4
+// Pick-Ups Collected x4
+patch=1,EE,110C78FC,extended,00000004
+
+[Pick-Ups Collected x2]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Pick-Ups Collected x2
+// Pick-Ups Collected x2
+patch=1,EE,D10C78F4,extended,00002021
+
+[Pick-Ups Collected x2]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Pick-Ups Collected x2
+// Pick-Ups Collected x2
+patch=1,EE,110C78FC,extended,00000002
+
+[Quick Max Pick-Ups]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Quick Max Pick-Ups
+// Quick Max Pick-Ups
+patch=1,EE,D10C78F4,extended,00002021
+
+[Quick Max Pick-Ups]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Quick Max Pick-Ups
+// Quick Max Pick-Ups
+patch=1,EE,210C78FC,extended,240403E7
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,40CD674C,extended,00240001
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,00000001,extended,00000000
+
+[Unlock All Arenas]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock All Arenas
+// Unlock All Arenas
+patch=1,EE,40CD67DC,extended,00110001
+
+[Unlock All Arenas]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock All Arenas
+// Unlock All Arenas
+patch=1,EE,00000001,extended,00000000

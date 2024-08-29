@@ -1,0 +1,961 @@
+gametitle=Motocross Mania 3 [SLUS-21229] [00E9B795]
+
+[All Challenges]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Challenges
+// All Challenges
+patch=1,EE,9014A9EC,extended,0C04B19C
+
+[Infinite Health (Only You)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Only You)
+// Infinite Health (Only You)
+patch=1,EE,200C0220,extended,3C014000
+
+[Infinite Health (Only You)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Only You)
+// Infinite Health (Only You)
+patch=1,EE,200C0224,extended,AE010004
+
+[Infinite Health (Only You)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Only You)
+// Infinite Health (Only You)
+patch=1,EE,200C0228,extended,0807273C
+
+[Infinite Health (Only You)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Only You)
+// Infinite Health (Only You)
+patch=1,EE,200C022C,extended,AE010008
+
+[Infinite Health (Only You)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Only You)
+// Infinite Health (Only You)
+patch=1,EE,201C9CE4,extended,08030088
+
+[Infinite Health (All Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (All Players)
+// Infinite Health (All Players)
+patch=1,EE,201C9A54,extended,00000000
+
+[Health Doesnt Build Back Over Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Health Doesnt Build Back Over Time
+// Health Doesnt Build Back Over Time
+patch=1,EE,201C9920,extended,00000000
+
+[Can Always Rebuild Back To Full Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Can Always Rebuild Back To Full Health
+// Can Always Rebuild Back To Full Health
+patch=1,EE,201C9AEC,extended,00000000
+
+[Infinite Mania]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Mania
+// Infinite Mania
+patch=1,EE,200C0250,extended,3C013F80
+
+[Infinite Mania]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Mania
+// Infinite Mania
+patch=1,EE,200C0254,extended,AC410010
+
+[Infinite Mania]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Mania
+// Infinite Mania
+patch=1,EE,200C0258,extended,03E00008
+
+[Infinite Mania]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Mania
+// Infinite Mania
+patch=1,EE,200C025C,extended,C4400010
+
+[Infinite Mania]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Mania
+// Infinite Mania
+patch=1,EE,201E0628,extended,0C030094
+
+[Mania Meter Doesnt Decrease]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mania Meter Doesnt Decrease
+// Mania Meter Doesnt Decrease
+patch=1,EE,201C1D84,extended,00000000
+
+[Mania Meter Doesnt Decrease]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mania Meter Doesnt Decrease
+// Mania Meter Doesnt Decrease
+patch=1,EE,201C9D40,extended,00000000
+
+[Mania Meter Doesnt Decrease]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mania Meter Doesnt Decrease
+// Mania Meter Doesnt Decrease
+patch=1,EE,201C9D88,extended,00000000
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,103F1C68,extended,0000FFFF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,203F1C68,extended,05F5E0FF
+
+[P1 Press {L1}+{SELECT} To Stop Timer (Freestyle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Timer (Freestyle)
+// P1 Press {L1}+{SELECT} To Stop Timer (Freestyle)
+patch=1,EE,D03AB1C2,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Stop Timer (Freestyle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Timer (Freestyle)
+// P1 Press {L1}+{SELECT} To Stop Timer (Freestyle)
+patch=1,EE,20139060,extended,00000000
+
+[P1 Press {L2}+{SELECT} To Restart Timer (Freestyle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Timer (Freestyle)
+// P1 Press {L2}+{SELECT} To Restart Timer (Freestyle)
+patch=1,EE,D03AB1C2,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Restart Timer (Freestyle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Timer (Freestyle)
+// P1 Press {L2}+{SELECT} To Restart Timer (Freestyle)
+patch=1,EE,20139060,extended,02222023
+
+[Time Never Decreases (Career/Single Race)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Time Never Decreases (Career/Single Race)
+// Time Never Decreases (Career/Single Race)
+patch=1,EE,201B1A70,extended,00000000
+
+[Infinite Total Cash Collected (Career)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Total Cash Collected (Career)
+// Infinite Total Cash Collected (Career)
+patch=1,EE,1039568C,extended,0000FFFF
+
+[Max Total Cash Collected (Career)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Cash Collected (Career)
+// Max Total Cash Collected (Career)
+patch=1,EE,2039568C,extended,05F5E0FF
+
+[Infinite Money (Career)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money (Career)
+// Infinite Money (Career)
+patch=1,EE,10395690,extended,0000FFFF
+
+[Max Money (Career)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money (Career)
+// Max Money (Career)
+patch=1,EE,20395690,extended,05F5E0FF
+
+[Unlock Freestyle Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Freestyle Mode
+// Unlock Freestyle Mode
+patch=1,EE,70401A04,extended,00000008
+
+[Lap 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 10
+// Lap 10
+patch=1,EE,200C0230,extended,24010009
+
+[Lap 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 10
+// Lap 10
+patch=1,EE,200C0234,extended,50400001
+
+[Lap 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 10
+// Lap 10
+patch=1,EE,200C0238,extended,ACE10114
+
+[Lap 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 10
+// Lap 10
+patch=1,EE,200C023C,extended,03E00008
+
+[Lap 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 10
+// Lap 10
+patch=1,EE,200C0240,extended,24A55C50
+
+[Lap 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 10
+// Lap 10
+patch=1,EE,201E42CC,extended,0C03008C
+
+[Lap 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 9
+// Lap 9
+patch=1,EE,200C0230,extended,24010008
+
+[Lap 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 9
+// Lap 9
+patch=1,EE,200C0234,extended,50400001
+
+[Lap 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 9
+// Lap 9
+patch=1,EE,200C0238,extended,ACE10114
+
+[Lap 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 9
+// Lap 9
+patch=1,EE,200C023C,extended,03E00008
+
+[Lap 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 9
+// Lap 9
+patch=1,EE,200C0240,extended,24A55C50
+
+[Lap 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 9
+// Lap 9
+patch=1,EE,201E42CC,extended,0C03008C
+
+[Lap 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 8
+// Lap 8
+patch=1,EE,200C0230,extended,24010007
+
+[Lap 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 8
+// Lap 8
+patch=1,EE,200C0234,extended,50400001
+
+[Lap 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 8
+// Lap 8
+patch=1,EE,200C0238,extended,ACE10114
+
+[Lap 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 8
+// Lap 8
+patch=1,EE,200C023C,extended,03E00008
+
+[Lap 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 8
+// Lap 8
+patch=1,EE,200C0240,extended,24A55C50
+
+[Lap 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 8
+// Lap 8
+patch=1,EE,201E42CC,extended,0C03008C
+
+[Lap 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 7
+// Lap 7
+patch=1,EE,200C0230,extended,24010006
+
+[Lap 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 7
+// Lap 7
+patch=1,EE,200C0234,extended,50400001
+
+[Lap 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 7
+// Lap 7
+patch=1,EE,200C0238,extended,ACE10114
+
+[Lap 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 7
+// Lap 7
+patch=1,EE,200C023C,extended,03E00008
+
+[Lap 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 7
+// Lap 7
+patch=1,EE,200C0240,extended,24A55C50
+
+[Lap 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 7
+// Lap 7
+patch=1,EE,201E42CC,extended,0C03008C
+
+[Lap 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 6
+// Lap 6
+patch=1,EE,200C0230,extended,24010005
+
+[Lap 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 6
+// Lap 6
+patch=1,EE,200C0234,extended,50400001
+
+[Lap 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 6
+// Lap 6
+patch=1,EE,200C0238,extended,ACE10114
+
+[Lap 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 6
+// Lap 6
+patch=1,EE,200C023C,extended,03E00008
+
+[Lap 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 6
+// Lap 6
+patch=1,EE,200C0240,extended,24A55C50
+
+[Lap 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 6
+// Lap 6
+patch=1,EE,201E42CC,extended,0C03008C
+
+[Lap 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 5
+// Lap 5
+patch=1,EE,200C0230,extended,24010004
+
+[Lap 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 5
+// Lap 5
+patch=1,EE,200C0234,extended,50400001
+
+[Lap 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 5
+// Lap 5
+patch=1,EE,200C0238,extended,ACE10114
+
+[Lap 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 5
+// Lap 5
+patch=1,EE,200C023C,extended,03E00008
+
+[Lap 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 5
+// Lap 5
+patch=1,EE,200C0240,extended,24A55C50
+
+[Lap 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 5
+// Lap 5
+patch=1,EE,201E42CC,extended,0C03008C
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,200C0230,extended,24010003
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,200C0234,extended,50400001
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,200C0238,extended,ACE10114
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,200C023C,extended,03E00008
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,200C0240,extended,24A55C50
+
+[Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 4
+// Lap 4
+patch=1,EE,201E42CC,extended,0C03008C
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,200C0230,extended,24010002
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,200C0234,extended,50400001
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,200C0238,extended,ACE10114
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,200C023C,extended,03E00008
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,200C0240,extended,24A55C50
+
+[Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 3
+// Lap 3
+patch=1,EE,201E42CC,extended,0C03008C
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,200C0230,extended,24010001
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,200C0234,extended,50400001
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,200C0238,extended,ACE10114
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,200C023C,extended,03E00008
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,200C0240,extended,24A55C50
+
+[Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lap 2
+// Lap 2
+patch=1,EE,201E42CC,extended,0C03008C
+
+[Baseball Bat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Baseball Bat
+// Baseball Bat
+patch=1,EE,20401958,extended,01010101
+
+[Bear Paw]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bear Paw
+// Bear Paw
+patch=1,EE,2040195C,extended,01010101
+
+[Cattle Prod]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cattle Prod
+// Cattle Prod
+patch=1,EE,20401960,extended,01010101
+
+[China Staff]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=China Staff
+// China Staff
+patch=1,EE,20401964,extended,01010101
+
+[Flower Staff]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flower Staff
+// Flower Staff
+patch=1,EE,20401968,extended,01010101
+
+[Hockey Stick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hockey Stick
+// Hockey Stick
+patch=1,EE,2040196C,extended,01010101
+
+[Ice Pick]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Pick
+// Ice Pick
+patch=1,EE,20401970,extended,01010101
+
+[Scepter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scepter
+// Scepter
+patch=1,EE,20401974,extended,01010101
+
+[Tonfa]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tonfa
+// Tonfa
+patch=1,EE,20401978,extended,01010101
+
+[Crow Bar]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crow Bar
+// Crow Bar
+patch=1,EE,2040197C,extended,01010101
+
+[Golf Club]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Golf Club
+// Golf Club
+patch=1,EE,20401980,extended,01010101
+
+[Cricket Bat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cricket Bat
+// Cricket Bat
+patch=1,EE,20401984,extended,01010101
+
+[Ice Club]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Club
+// Ice Club
+patch=1,EE,20401988,extended,01010101
+
+[Lead Pipe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lead Pipe
+// Lead Pipe
+patch=1,EE,2040198C,extended,01010101
+
+[Sledge Hammer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sledge Hammer
+// Sledge Hammer
+patch=1,EE,20401990,extended,01010101
+
+[Tommahawk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tommahawk
+// Tommahawk
+patch=1,EE,20401994,extended,01010101
+
+[Machete]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Machete
+// Machete
+patch=1,EE,20401998,extended,01010101
+
+[Gold Rose]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gold Rose
+// Gold Rose
+patch=1,EE,2040199C,extended,01010101
+
+[All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Weapons
+// All Weapons
+patch=1,EE,40401958,extended,00120001
+
+[All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Weapons
+// All Weapons
+patch=1,EE,01010101,extended,00000000
+
+[Woodland Riot-Race A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Woodland Riot-Race A
+// Woodland Riot-Race A
+patch=1,EE,704019D8,extended,00000010
+
+[Woodland Riot-Race B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Woodland Riot-Race B
+// Woodland Riot-Race B
+patch=1,EE,704019D8,extended,00000020
+
+[Parking It-Race A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Parking It-Race A
+// Parking It-Race A
+patch=1,EE,704019DC,extended,00000010
+
+[Parking It-Race B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Parking It-Race B
+// Parking It-Race B
+patch=1,EE,704019DC,extended,00000020
+
+[Desert Derby-Race A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Derby-Race A
+// Desert Derby-Race A
+patch=1,EE,704019E0,extended,00000010
+
+[Desert Derby-Race B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Desert Derby-Race B
+// Desert Derby-Race B
+patch=1,EE,704019E0,extended,00000020
+
+[Concrete Scramble-Race A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concrete Scramble-Race A
+// Concrete Scramble-Race A
+patch=1,EE,704019E4,extended,00000010
+
+[Concrete Scramble-Race B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Concrete Scramble-Race B
+// Concrete Scramble-Race B
+patch=1,EE,704019E4,extended,00000020
+
+[Downhill Dash-Race A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downhill Dash-Race A
+// Downhill Dash-Race A
+patch=1,EE,704019E8,extended,00000010
+
+[Downhill Dash-Race B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downhill Dash-Race B
+// Downhill Dash-Race B
+patch=1,EE,704019E8,extended,00000020
+
+[Aquatic Anarchy-Race A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aquatic Anarchy-Race A
+// Aquatic Anarchy-Race A
+patch=1,EE,704019EC,extended,00000010
+
+[Aquatic Anarchy-Race B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aquatic Anarchy-Race B
+// Aquatic Anarchy-Race B
+patch=1,EE,704019EC,extended,00000020
+
+[Metal Mayhem-Race A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metal Mayhem-Race A
+// Metal Mayhem-Race A
+patch=1,EE,704019F0,extended,00000010
+
+[Metal Mayhem-Race B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metal Mayhem-Race B
+// Metal Mayhem-Race B
+patch=1,EE,704019F0,extended,00000020
+
+[Sky Scraping-Race A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sky Scraping-Race A
+// Sky Scraping-Race A
+patch=1,EE,704019F4,extended,00000010
+
+[Sky Scraping-Race B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sky Scraping-Race B
+// Sky Scraping-Race B
+patch=1,EE,704019F4,extended,00000020
+
+[Camp Carnage-Race A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Camp Carnage-Race A
+// Camp Carnage-Race A
+patch=1,EE,704019F8,extended,00000010
+
+[Camp Carnage-Race B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Camp Carnage-Race B
+// Camp Carnage-Race B
+patch=1,EE,704019F8,extended,00000020
+
+[City Survival-Race A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Survival-Race A
+// City Survival-Race A
+patch=1,EE,704019FC,extended,00000010
+
+[City Survival-Race B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=City Survival-Race B
+// City Survival-Race B
+patch=1,EE,704019FC,extended,00000020
+
+[Ultra Cross]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultra Cross
+// Ultra Cross
+patch=1,EE,70401A00,extended,00000010
+
+[Breaker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Breaker
+// Breaker
+patch=1,EE,20401A08,extended,01010101
+
+[Apache]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Apache
+// Apache
+patch=1,EE,20401A0C,extended,01010101
+
+[Blondie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blondie
+// Blondie
+patch=1,EE,20401A10,extended,01010101
+
+[Bouncer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bouncer
+// Bouncer
+patch=1,EE,20401A14,extended,01010101
+
+[Red Star]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Star
+// Red Star
+patch=1,EE,20401A18,extended,01010101
+
+[Rhino]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rhino
+// Rhino
+patch=1,EE,20401A1C,extended,01010101
+
+[Pinky]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pinky
+// Pinky
+patch=1,EE,20401A20,extended,01010101
+
+[Muster]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Muster
+// Muster
+patch=1,EE,20401A24,extended,01010101
+
+[Asassin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Asassin
+// Asassin
+patch=1,EE,20401A28,extended,01010101
+
+[Metrocrosser]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Metrocrosser
+// Metrocrosser
+patch=1,EE,20401A2C,extended,01010101
+
+[Crazy Horse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crazy Horse
+// Crazy Horse
+patch=1,EE,20401A30,extended,01010101
+
+[Tank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tank
+// Tank
+patch=1,EE,20401A34,extended,01010101
+
+[Herbivore]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Herbivore
+// Herbivore
+patch=1,EE,20401A38,extended,01010101
+
+[Mechanoid]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mechanoid
+// Mechanoid
+patch=1,EE,20401A3C,extended,01010101
+
+[Mountaineer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mountaineer
+// Mountaineer
+patch=1,EE,20401A40,extended,01010101
+
+[Smoothie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Smoothie
+// Smoothie
+patch=1,EE,20401A44,extended,01010101
+
+[All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Bikes
+// All Bikes
+patch=1,EE,40401A08,extended,00100001
+
+[All Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Bikes
+// All Bikes
+patch=1,EE,01010101,extended,00000000
+
+[Chino Baez]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chino Baez
+// Chino Baez
+patch=1,EE,20401A60,extended,01010101
+
+[Latisha Jones]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Latisha Jones
+// Latisha Jones
+patch=1,EE,20401A64,extended,01010101
+
+[Eva Stromberg]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Eva Stromberg
+// Eva Stromberg
+patch=1,EE,20401A68,extended,01010101
+
+[Moishe Flaven]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Moishe Flaven
+// Moishe Flaven
+patch=1,EE,20401A6C,extended,01010101
+
+[Oleg Trotsky]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Oleg Trotsky
+// Oleg Trotsky
+patch=1,EE,20401A70,extended,01010101
+
+[James Boateng]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=James Boateng
+// James Boateng
+patch=1,EE,20401A74,extended,01010101
+
+[Sumiya Mitra]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sumiya Mitra
+// Sumiya Mitra
+patch=1,EE,20401A78,extended,01010101
+
+[Karyn Lawson]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Karyn Lawson
+// Karyn Lawson
+patch=1,EE,20401A7C,extended,01010101
+
+[Mei Kei Chan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mei Kei Chan
+// Mei Kei Chan
+patch=1,EE,20401A80,extended,01010101
+
+[Johnny Metro]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Johnny Metro
+// Johnny Metro
+patch=1,EE,20401A84,extended,01010101
+
+[Flint Westwood]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flint Westwood
+// Flint Westwood
+patch=1,EE,20401A88,extended,01010101
+
+[Sgt. Shady]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sgt. Shady
+// Sgt. Shady
+patch=1,EE,20401A8C,extended,01010101
+
+[Ivy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ivy
+// Ivy
+patch=1,EE,20401A90,extended,01010101
+
+[Robo Johnny]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Robo Johnny
+// Robo Johnny
+patch=1,EE,20401A94,extended,01010101
+
+[Hairy Foot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hairy Foot
+// Hairy Foot
+patch=1,EE,20401A98,extended,01010101
+
+[Belle Dozer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Belle Dozer
+// Belle Dozer
+patch=1,EE,20401A9C,extended,01010101
+
+[All Riders]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Riders
+// All Riders
+patch=1,EE,40401A60,extended,00100001
+
+[All Riders]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Riders
+// All Riders
+patch=1,EE,01010101,extended,00000000

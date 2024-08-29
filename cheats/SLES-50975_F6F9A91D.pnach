@@ -1,0 +1,55 @@
+gametitle=Thing, The [SLES-50975] [F6F9A91D]
+
+[Max Gold Tickets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Gold Tickets
+// Max Gold Tickets
+patch=1,EE,90133864,extended,0C04341C
+
+[Never Freeze To Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Freeze To Death
+// Never Freeze To Death
+patch=1,EE,204194D4,extended,AE0004A4
+
+[Never Freeze To Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Freeze To Death
+// Never Freeze To Death
+patch=1,EE,204194DC,extended,AE0004A4
+
+[Never Freeze To Death]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Freeze To Death
+// Never Freeze To Death
+patch=1,EE,204194E0,extended,AE0004A4
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2041901C,extended,3C0142C8
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20419024,extended,AE01009C
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,20798BF0,extended,2401000A
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,20798BF4,extended,00310818
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,20798C04,extended,AD210010

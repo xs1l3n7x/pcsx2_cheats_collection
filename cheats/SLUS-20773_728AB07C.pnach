@@ -1,0 +1,367 @@
+gametitle=Legacy Of Kain-Defiance [SLUS-20773] [728AB07C]
+
+[Infinite Fuel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Fuel
+// Infinite Fuel
+patch=1,EE,9025DD30,extended,0C090B0D
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201FB044,extended,E60103A8
+
+[Infinite Telekinetic Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Telekinetic Meter
+// Infinite Telekinetic Meter
+patch=1,EE,20203DB0,extended,E60105D8
+
+[P1 Press {R3} For Invincibility On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3} For Invincibility On
+// P1 Press {R3} For Invincibility On
+patch=1,EE,D072551C,extended,0000FFFB
+
+[P1 Press {R3} For Invincibility On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3} For Invincibility On
+// P1 Press {R3} For Invincibility On
+patch=1,EE,10339724,extended,00000000
+
+[P1 Press {L3} For Invincibility Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} For Invincibility Off
+// P1 Press {L3} For Invincibility Off
+patch=1,EE,D072551C,extended,0000FFFD
+
+[P1 Press {L3} For Invincibility Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} For Invincibility Off
+// P1 Press {L3} For Invincibility Off
+patch=1,EE,10339724,extended,00000800
+
+[Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Moon Jump
+// Press {CROSS} For Moon Jump
+patch=1,EE,D072551C,extended,0000BFFF
+
+[Press {CROSS} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {CROSS} For Moon Jump
+// Press {CROSS} For Moon Jump
+patch=1,EE,20725958,extended,42E00000
+
+[Display Fog Debug Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Display Fog Debug Info
+// Display Fog Debug Info
+patch=1,EE,20133A40,extended,00000000
+
+[Display Short Stats Debug Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Display Short Stats Debug Info
+// Display Short Stats Debug Info
+patch=1,EE,20133B2C,extended,00000000
+
+[Have All Moves/Max Combat EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Moves/Max Combat EXP
+// Have All Moves/Max Combat EXP
+patch=1,EE,2023F1D0,extended,2402270F
+
+[Have All Moves/Max Combat EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Moves/Max Combat EXP
+// Have All Moves/Max Combat EXP
+patch=1,EE,2023F1D8,extended,ACA20A24
+
+[Have All Health Talismans]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Health Talismans
+// Have All Health Talismans
+patch=1,EE,2023F200,extended,24050001
+
+[Have All Health Talismans]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Health Talismans
+// Have All Health Talismans
+patch=1,EE,2023F204,extended,A44503A6
+
+[Have All Health Talismans]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Health Talismans
+// Have All Health Talismans
+patch=1,EE,2023F210,extended,24020001
+
+[Have All Telekinetic Runes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Telekinetic Runes
+// Have All Telekinetic Runes
+patch=1,EE,2023F228,extended,24020008
+
+[Have All Telekinetic Runes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Telekinetic Runes
+// Have All Telekinetic Runes
+patch=1,EE,2023F230,extended,A46203BA
+
+[Have All Reavers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Reavers
+// Have All Reavers
+patch=1,EE,2028EF68,extended,FFFFFFFF
+
+[Have All Dark World Arcane Tomes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Dark World Arcane Tomes
+// Have All Dark World Arcane Tomes
+patch=1,EE,207BAEA4,extended,0000000A
+
+[Have All Light World Arcane Tomes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Light World Arcane Tomes
+// Have All Light World Arcane Tomes
+patch=1,EE,207BAEB4,extended,0000000A
+
+[Cape Stuck Behind You]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cape Stuck Behind You
+// Cape Stuck Behind You
+patch=1,EE,20152BD4,extended,00000000
+
+[Red Objects/Character]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Objects/Character
+// Red Objects/Character
+patch=1,EE,2016961C,extended,00000000
+
+[Disable Snow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Snow
+// Disable Snow
+patch=1,EE,2013E7D4,extended,00000000
+
+[P1 Press {L3} To Enter Debug Menu/{R3} To Leave]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+// P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+patch=1,EE,10132080,extended,00000040
+
+[P1 Press {L3} To Enter Debug Menu/{R3} To Leave]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+// P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+patch=1,EE,20108298,extended,24080020
+
+[P1 Press {L3} To Enter Debug Menu/{R3} To Leave]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+// P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+patch=1,EE,E002FFFD,extended,0028E1F0
+
+[P1 Press {L3} To Enter Debug Menu/{R3} To Leave]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+// P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+patch=1,EE,20132BB0,extended,0040F809
+
+[P1 Press {L3} To Enter Debug Menu/{R3} To Leave]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+// P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+patch=1,EE,003397F0,extended,00000004
+
+[P1 Press {L3} To Enter Debug Menu/{R3} To Leave]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+// P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+patch=1,EE,E001FFFB,extended,0028E1F0
+
+[P1 Press {L3} To Enter Debug Menu/{R3} To Leave]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+// P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+patch=1,EE,20132BB0,extended,0C054C00
+
+[P1 Press {L3} To Enter Debug Menu/{R3} To Leave]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+// P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+patch=1,EE,10132A20,extended,00000220
+
+[P1 Press {L3} To Enter Debug Menu/{R3} To Leave]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+// P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+patch=1,EE,10132A38,extended,00000020
+
+[P1 Press {L3} To Enter Debug Menu/{R3} To Leave]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+// P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+patch=1,EE,10132A90,extended,00000160
+
+[P1 Press {L3} To Enter Debug Menu/{R3} To Leave]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+// P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+patch=1,EE,20132AB0,extended,00021143
+
+[P1 Press {L3} To Enter Debug Menu/{R3} To Leave]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+// P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+patch=1,EE,10132AD8,extended,00000160
+
+[P1 Press {L3} To Enter Debug Menu/{R3} To Leave]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+// P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+patch=1,EE,20132B0C,extended,00021143
+
+[P1 Press {L3} To Enter Debug Menu/{R3} To Leave]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+// P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+patch=1,EE,101322B8,extended,00000040
+
+[P1 Press {L3} To Enter Debug Menu/{R3} To Leave]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+// P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+patch=1,EE,1013235C,extended,00000040
+
+[P1 Press {L3} To Enter Debug Menu/{R3} To Leave]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+// P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+patch=1,EE,10132140,extended,00000040
+
+[P1 Press {L3} To Enter Debug Menu/{R3} To Leave]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+// P1 Press {L3} To Enter Debug Menu/{R3} To Leave
+patch=1,EE,10132210,extended,00000040
+
+[Shift Any Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shift Any Time
+// Shift Any Time
+patch=1,EE,7028EF68,extended,00000040
+
+[Draw Puzzle Cone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Draw Puzzle Cone
+// Draw Puzzle Cone
+patch=1,EE,7028EF70,extended,00000001
+
+[Autoface Toggle Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Autoface Toggle Mode
+// Autoface Toggle Mode
+patch=1,EE,7028EF70,extended,00000002
+
+[Show Tap And Hold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Tap And Hold
+// Show Tap And Hold
+patch=1,EE,7028EF70,extended,00000004
+
+[Show Autoface Trail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Autoface Trail
+// Show Autoface Trail
+patch=1,EE,7028EF70,extended,00000008
+
+[Show Collide Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Collide Info
+// Show Collide Info
+patch=1,EE,7028EF70,extended,00000010
+
+[Fast Puppet Shows]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fast Puppet Shows
+// Fast Puppet Shows
+patch=1,EE,7028EF70,extended,00000040
+
+[Disable Interp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Interp
+// Disable Interp
+patch=1,EE,7028EF70,extended,00000080
+
+[Disable Foot Lock]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Foot Lock
+// Disable Foot Lock
+patch=1,EE,7028EF71,extended,00000001
+
+[Disable Turn Anim]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Turn Anim
+// Disable Turn Anim
+patch=1,EE,7028EF71,extended,00000002
+
+[Disable Jump Compression]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Jump Compression
+// Disable Jump Compression
+patch=1,EE,7028EF71,extended,00000004
+
+[Disable Look Around]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Look Around
+// Disable Look Around
+patch=1,EE,7028EF71,extended,00000020
+
+[Speedometer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Speedometer
+// Speedometer
+patch=1,EE,7028EF72,extended,00000002
+
+[Altimeter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Altimeter
+// Altimeter
+patch=1,EE,7028EF72,extended,00000004
+
+[Sound From Anim]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sound From Anim
+// Sound From Anim
+patch=1,EE,7028EF73,extended,00000001
+
+[Noninverted Lookaround Z]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Noninverted Lookaround Z
+// Noninverted Lookaround Z
+patch=1,EE,7028EF73,extended,00000008
+
+[Short Short Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Short Short Stats
+// Short Short Stats
+patch=1,EE,70339723,extended,00000004
+
+[Invincible]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincible
+// Invincible
+patch=1,EE,70339726,extended,00000010
+
+[Camera Override]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Camera Override
+// Camera Override
+patch=1,EE,70339727,extended,00000002
+
+[Keep Info Between Loads]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Keep Info Between Loads
+// Keep Info Between Loads
+patch=1,EE,703397D2,extended,00000020

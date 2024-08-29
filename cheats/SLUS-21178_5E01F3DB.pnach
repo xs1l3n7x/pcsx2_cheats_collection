@@ -1,0 +1,547 @@
+gametitle=RPG Maker 3 [SLUS-21178] [5E01F3DB]
+
+[Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DEF
+// Max DEF
+patch=1,EE,90334940,extended,00832021
+
+[Always Low Game Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Game Time
+// Always Low Game Time
+patch=1,EE,20124D58,extended,24020000
+
+[Always Max Game Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Game Time
+// Always Max Game Time
+patch=1,EE,20124D60,extended,00000000
+
+[View Status For Max Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Gold
+// View Status For Max Gold
+patch=1,EE,200C0220,extended,3C0505F5
+
+[View Status For Max Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Gold
+// View Status For Max Gold
+patch=1,EE,200C0224,extended,34A5E0FF
+
+[View Status For Max Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Gold
+// View Status For Max Gold
+patch=1,EE,200C0228,extended,08087A82
+
+[View Status For Max Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Gold
+// View Status For Max Gold
+patch=1,EE,200C022C,extended,AC45027C
+
+[View Status For Max Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Gold
+// View Status For Max Gold
+patch=1,EE,20208F44,extended,0C030088
+
+[View Status For Characters Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Characters Level 99
+// View Status For Characters Level 99
+patch=1,EE,200C0230,extended,24050063
+
+[View Status For Characters Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Characters Level 99
+// View Status For Characters Level 99
+patch=1,EE,200C0234,extended,08087A82
+
+[View Status For Characters Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Characters Level 99
+// View Status For Characters Level 99
+patch=1,EE,200C0238,extended,AE0503E0
+
+[View Status For Characters Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Characters Level 99
+// View Status For Characters Level 99
+patch=1,EE,20214AF4,extended,0C03008C
+
+[View Status For Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max HP
+// View Status For Max HP
+patch=1,EE,200C0240,extended,2405270F
+
+[View Status For Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max HP
+// View Status For Max HP
+patch=1,EE,200C0244,extended,08087A82
+
+[View Status For Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max HP
+// View Status For Max HP
+patch=1,EE,200C0248,extended,AE0503F4
+
+[View Status For Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max HP
+// View Status For Max HP
+patch=1,EE,20214B00,extended,0C030090
+
+[View Status For Max Current HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Current HP
+// View Status For Max Current HP
+patch=1,EE,200C0250,extended,2405270F
+
+[View Status For Max Current HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Current HP
+// View Status For Max Current HP
+patch=1,EE,200C0254,extended,08087A82
+
+[View Status For Max Current HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Current HP
+// View Status For Max Current HP
+patch=1,EE,200C0258,extended,AE0503EC
+
+[View Status For Max Current HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Current HP
+// View Status For Max Current HP
+patch=1,EE,20214B0C,extended,0C030094
+
+[View Status For Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max MP
+// View Status For Max MP
+patch=1,EE,200C0260,extended,240503E7
+
+[View Status For Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max MP
+// View Status For Max MP
+patch=1,EE,200C0264,extended,08087A82
+
+[View Status For Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max MP
+// View Status For Max MP
+patch=1,EE,200C0268,extended,AE0503F8
+
+[View Status For Max MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max MP
+// View Status For Max MP
+patch=1,EE,20214B54,extended,0C030098
+
+[View Status For Max Current MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Current MP
+// View Status For Max Current MP
+patch=1,EE,200C0270,extended,240503E7
+
+[View Status For Max Current MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Current MP
+// View Status For Max Current MP
+patch=1,EE,200C0274,extended,08087A82
+
+[View Status For Max Current MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Current MP
+// View Status For Max Current MP
+patch=1,EE,200C0278,extended,AE0503F0
+
+[View Status For Max Current MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Current MP
+// View Status For Max Current MP
+patch=1,EE,20214B60,extended,0C03009C
+
+[View Status For Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Quick Exp Gain
+// View Status For Quick Exp Gain
+patch=1,EE,200C0280,extended,2405FFFF
+
+[View Status For Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Quick Exp Gain
+// View Status For Quick Exp Gain
+patch=1,EE,200C0284,extended,08087A82
+
+[View Status For Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Quick Exp Gain
+// View Status For Quick Exp Gain
+patch=1,EE,200C0288,extended,A64503E4
+
+[View Status For Quick Exp Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Quick Exp Gain
+// View Status For Quick Exp Gain
+patch=1,EE,20213614,extended,0C0300A0
+
+[View Status For Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Exp
+// View Status For Max Exp
+patch=1,EE,200C0280,extended,3C0505F5
+
+[View Status For Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Exp
+// View Status For Max Exp
+patch=1,EE,200C0284,extended,34A5E0FF
+
+[View Status For Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Exp
+// View Status For Max Exp
+patch=1,EE,200C0288,extended,08087A82
+
+[View Status For Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Exp
+// View Status For Max Exp
+patch=1,EE,200C028C,extended,AE4503E4
+
+[View Status For Max Exp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Exp
+// View Status For Max Exp
+patch=1,EE,20213614,extended,0C0300A0
+
+[View Status For Max STR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max STR
+// View Status For Max STR
+patch=1,EE,200C0290,extended,2405270F
+
+[View Status For Max STR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max STR
+// View Status For Max STR
+patch=1,EE,200C0294,extended,08087A82
+
+[View Status For Max STR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max STR
+// View Status For Max STR
+patch=1,EE,200C0298,extended,AE450418
+
+[View Status For Max STR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max STR
+// View Status For Max STR
+patch=1,EE,20213620,extended,0C0300A4
+
+[View Status For Max Extra STR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Extra STR
+// View Status For Max Extra STR
+patch=1,EE,200C02A0,extended,2405270F
+
+[View Status For Max Extra STR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Extra STR
+// View Status For Max Extra STR
+patch=1,EE,200C02A4,extended,08087A82
+
+[View Status For Max Extra STR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Extra STR
+// View Status For Max Extra STR
+patch=1,EE,200C02A8,extended,AE450434
+
+[View Status For Max Extra STR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Extra STR
+// View Status For Max Extra STR
+patch=1,EE,2021362C,extended,0C0300A8
+
+[View Status For Max MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max MAG
+// View Status For Max MAG
+patch=1,EE,200C02B0,extended,2405270F
+
+[View Status For Max MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max MAG
+// View Status For Max MAG
+patch=1,EE,200C02B4,extended,08087A82
+
+[View Status For Max MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max MAG
+// View Status For Max MAG
+patch=1,EE,200C02B8,extended,AE45041C
+
+[View Status For Max MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max MAG
+// View Status For Max MAG
+patch=1,EE,20213638,extended,0C0300AC
+
+[View Status For Max Extra MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Extra MAG
+// View Status For Max Extra MAG
+patch=1,EE,200C02C0,extended,2405270F
+
+[View Status For Max Extra MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Extra MAG
+// View Status For Max Extra MAG
+patch=1,EE,200C02C4,extended,08087A82
+
+[View Status For Max Extra MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Extra MAG
+// View Status For Max Extra MAG
+patch=1,EE,200C02C8,extended,AE450438
+
+[View Status For Max Extra MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Extra MAG
+// View Status For Max Extra MAG
+patch=1,EE,20213644,extended,0C0300B0
+
+[View Status For Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max DEF
+// View Status For Max DEF
+patch=1,EE,200C02D0,extended,2405270F
+
+[View Status For Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max DEF
+// View Status For Max DEF
+patch=1,EE,200C02D4,extended,08087A82
+
+[View Status For Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max DEF
+// View Status For Max DEF
+patch=1,EE,200C02D8,extended,AE450420
+
+[View Status For Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max DEF
+// View Status For Max DEF
+patch=1,EE,20213650,extended,0C0300B4
+
+[View Status For Max Extra DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Extra DEF
+// View Status For Max Extra DEF
+patch=1,EE,200C02E0,extended,2405270F
+
+[View Status For Max Extra DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Extra DEF
+// View Status For Max Extra DEF
+patch=1,EE,200C02E4,extended,08087A82
+
+[View Status For Max Extra DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Extra DEF
+// View Status For Max Extra DEF
+patch=1,EE,200C02E8,extended,AE45043C
+
+[View Status For Max Extra DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Extra DEF
+// View Status For Max Extra DEF
+patch=1,EE,2021365C,extended,0C0300B8
+
+[View Status For Max MDF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max MDF
+// View Status For Max MDF
+patch=1,EE,200C02F0,extended,2405270F
+
+[View Status For Max MDF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max MDF
+// View Status For Max MDF
+patch=1,EE,200C02F4,extended,08087A82
+
+[View Status For Max MDF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max MDF
+// View Status For Max MDF
+patch=1,EE,200C02F8,extended,AE450424
+
+[View Status For Max MDF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max MDF
+// View Status For Max MDF
+patch=1,EE,2021366C,extended,0C0300BC
+
+[View Status For Max Extra MDF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Extra MDF
+// View Status For Max Extra MDF
+patch=1,EE,200C0300,extended,2405270F
+
+[View Status For Max Extra MDF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Extra MDF
+// View Status For Max Extra MDF
+patch=1,EE,200C0304,extended,08087A82
+
+[View Status For Max Extra MDF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Extra MDF
+// View Status For Max Extra MDF
+patch=1,EE,200C0308,extended,AE450440
+
+[View Status For Max Extra MDF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max Extra MDF
+// View Status For Max Extra MDF
+patch=1,EE,2021367C,extended,0C0300C0
+
+[View Status For Max AGI/Extra AGI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max AGI/Extra AGI
+// View Status For Max AGI/Extra AGI
+patch=1,EE,200C0310,extended,2405270F
+
+[View Status For Max AGI/Extra AGI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max AGI/Extra AGI
+// View Status For Max AGI/Extra AGI
+patch=1,EE,200C0314,extended,08087A82
+
+[View Status For Max AGI/Extra AGI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max AGI/Extra AGI
+// View Status For Max AGI/Extra AGI
+patch=1,EE,200C0318,extended,AE450428
+
+[View Status For Max AGI/Extra AGI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max AGI/Extra AGI
+// View Status For Max AGI/Extra AGI
+patch=1,EE,20213688,extended,0C0300C4
+
+[View Status For Max INT/Extra INT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max INT/Extra INT
+// View Status For Max INT/Extra INT
+patch=1,EE,200C0320,extended,2405270F
+
+[View Status For Max INT/Extra INT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max INT/Extra INT
+// View Status For Max INT/Extra INT
+patch=1,EE,200C0324,extended,08087A82
+
+[View Status For Max INT/Extra INT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max INT/Extra INT
+// View Status For Max INT/Extra INT
+patch=1,EE,200C0328,extended,AE45042C
+
+[View Status For Max INT/Extra INT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max INT/Extra INT
+// View Status For Max INT/Extra INT
+patch=1,EE,202136A0,extended,0C0300C8
+
+[View Status For Max LUCK/Extra LUCK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max LUCK/Extra LUCK
+// View Status For Max LUCK/Extra LUCK
+patch=1,EE,200C0330,extended,2405270F
+
+[View Status For Max LUCK/Extra LUCK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max LUCK/Extra LUCK
+// View Status For Max LUCK/Extra LUCK
+patch=1,EE,200C0334,extended,08087A82
+
+[View Status For Max LUCK/Extra LUCK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max LUCK/Extra LUCK
+// View Status For Max LUCK/Extra LUCK
+patch=1,EE,200C0338,extended,AE450430
+
+[View Status For Max LUCK/Extra LUCK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Status For Max LUCK/Extra LUCK
+// View Status For Max LUCK/Extra LUCK
+patch=1,EE,202136BC,extended,0C0300CC
+
+[Infinite HP & MP (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP & MP (In-Battle)
+// Infinite HP & MP (In-Battle)
+patch=1,EE,200C0340,extended,AC220024
+
+[Infinite HP & MP (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP & MP (In-Battle)
+// Infinite HP & MP (In-Battle)
+patch=1,EE,200C0344,extended,AC220028
+
+[Infinite HP & MP (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP & MP (In-Battle)
+// Infinite HP & MP (In-Battle)
+patch=1,EE,200C0348,extended,AC22002C
+
+[Infinite HP & MP (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP & MP (In-Battle)
+// Infinite HP & MP (In-Battle)
+patch=1,EE,200C034C,extended,AC220030
+
+[Infinite HP & MP (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP & MP (In-Battle)
+// Infinite HP & MP (In-Battle)
+patch=1,EE,200C0350,extended,AC220034
+
+[Infinite HP & MP (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP & MP (In-Battle)
+// Infinite HP & MP (In-Battle)
+patch=1,EE,200C0354,extended,03E00008
+
+[Infinite HP & MP (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP & MP (In-Battle)
+// Infinite HP & MP (In-Battle)
+patch=1,EE,200C0358,extended,AC220038
+
+[Infinite HP & MP (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP & MP (In-Battle)
+// Infinite HP & MP (In-Battle)
+patch=1,EE,20150D10,extended,00400821
+
+[Infinite HP & MP (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP & MP (In-Battle)
+// Infinite HP & MP (In-Battle)
+patch=1,EE,20150D14,extended,0C0300D0
+
+[Infinite HP & MP (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP & MP (In-Battle)
+// Infinite HP & MP (In-Battle)
+patch=1,EE,20150D18,extended,2402270F

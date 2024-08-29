@@ -1,0 +1,481 @@
+gametitle=Way Of The Samurai 2 [SLES-52275] [7B79C53C]
+
+[Slot 61]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 61
+// Slot 61
+patch=1,EE,9011DC3C,extended,0C048DB2
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201CEDF8,extended,94830042
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201CEDFC,extended,A4830040
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,200C0220,extended,240307D0
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,200C0224,extended,03E00008
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,200C0228,extended,A6830042
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,201DD4CC,extended,0C030088
+
+[Have All Heads/Costumes/Difficulties]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Heads/Costumes/Difficulties
+// Have All Heads/Costumes/Difficulties
+patch=1,EE,209F05D8,extended,05F5E0FF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,109F06D6,extended,0000270F
+
+[Infinite EP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite EP
+// Infinite EP
+patch=1,EE,109F06D8,extended,00000014
+
+[Max EP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EP
+// Max EP
+patch=1,EE,109F06DA,extended,00000014
+
+[Max Infinite EP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite EP
+// Max Infinite EP
+patch=1,EE,209F06D8,extended,00140014
+
+[Rice Ball]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rice Ball
+// Rice Ball
+patch=1,EE,009F7290,extended,00000001
+
+[Dried Fish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dried Fish
+// Dried Fish
+patch=1,EE,009F7291,extended,00000001
+
+[Radish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Radish
+// Radish
+patch=1,EE,009F7292,extended,00000001
+
+[Bean Candy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bean Candy
+// Bean Candy
+patch=1,EE,009F7293,extended,00000001
+
+[Rice Ball 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rice Ball 2
+// Rice Ball 2
+patch=1,EE,009F7294,extended,00000001
+
+[Ginseng]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ginseng
+// Ginseng
+patch=1,EE,009F7295,extended,00000001
+
+[Smelling Salts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Smelling Salts
+// Smelling Salts
+patch=1,EE,009F7296,extended,00000001
+
+[Medicine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Medicine
+// Medicine
+patch=1,EE,009F7297,extended,00000001
+
+[Sake]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sake
+// Sake
+patch=1,EE,009F7298,extended,00000001
+
+[Sword Powder]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword Powder
+// Sword Powder
+patch=1,EE,009F7299,extended,00000001
+
+[Charm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Charm
+// Charm
+patch=1,EE,009F729A,extended,00000001
+
+[Scroll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scroll
+// Scroll
+patch=1,EE,009F729B,extended,00000001
+
+[Special Scroll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Special Scroll
+// Special Scroll
+patch=1,EE,009F729C,extended,00000001
+
+[Secret Scroll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Secret Scroll
+// Secret Scroll
+patch=1,EE,009F729D,extended,00000001
+
+[Buddhist Beeds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buddhist Beeds
+// Buddhist Beeds
+patch=1,EE,009F729E,extended,00000001
+
+[Talisman]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Talisman
+// Talisman
+patch=1,EE,009F729F,extended,00000001
+
+[Magic Bead]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Magic Bead
+// Magic Bead
+patch=1,EE,009F72A0,extended,00000001
+
+[Longevity Powder]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Longevity Powder
+// Longevity Powder
+patch=1,EE,009F72A1,extended,00000001
+
+[Sword Oil]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword Oil
+// Sword Oil
+patch=1,EE,009F72A2,extended,00000001
+
+[Amagatsa Doll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Amagatsa Doll
+// Amagatsa Doll
+patch=1,EE,009F72A3,extended,00000001
+
+[Devil Mushroom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Devil Mushroom
+// Devil Mushroom
+patch=1,EE,009F72A4,extended,00000001
+
+[Rice Ball]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rice Ball
+// Rice Ball
+patch=1,EE,009F72A5,extended,00000001
+
+[Dried Fish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dried Fish
+// Dried Fish
+patch=1,EE,009F72A6,extended,00000001
+
+[Radish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Radish
+// Radish
+patch=1,EE,009F72A7,extended,00000001
+
+[Bean Candy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bean Candy
+// Bean Candy
+patch=1,EE,009F72A8,extended,00000001
+
+[Rice Ball 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rice Ball 2
+// Rice Ball 2
+patch=1,EE,009F72A9,extended,00000001
+
+[Ginseng]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ginseng
+// Ginseng
+patch=1,EE,009F72AA,extended,00000001
+
+[Smelling Salts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Smelling Salts
+// Smelling Salts
+patch=1,EE,009F72AB,extended,00000001
+
+[Medicine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Medicine
+// Medicine
+patch=1,EE,009F72AC,extended,00000001
+
+[Sake]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sake
+// Sake
+patch=1,EE,009F72AD,extended,00000001
+
+[Sword Powder]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword Powder
+// Sword Powder
+patch=1,EE,009F72AE,extended,00000001
+
+[Charm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Charm
+// Charm
+patch=1,EE,009F72AF,extended,00000001
+
+[Scroll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scroll
+// Scroll
+patch=1,EE,009F72B0,extended,00000001
+
+[Special Scroll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Special Scroll
+// Special Scroll
+patch=1,EE,009F72B1,extended,00000001
+
+[Secret Scroll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Secret Scroll
+// Secret Scroll
+patch=1,EE,009F72B2,extended,00000001
+
+[Buddhist Beeds]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buddhist Beeds
+// Buddhist Beeds
+patch=1,EE,009F72B3,extended,00000001
+
+[Talisman]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Talisman
+// Talisman
+patch=1,EE,009F72B4,extended,00000001
+
+[Magic Bead]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Magic Bead
+// Magic Bead
+patch=1,EE,009F72B5,extended,00000001
+
+[Longevity Powder]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Longevity Powder
+// Longevity Powder
+patch=1,EE,009F72B6,extended,00000001
+
+[Sword Oil]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword Oil
+// Sword Oil
+patch=1,EE,009F72B7,extended,00000001
+
+[Amagatsa Doll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Amagatsa Doll
+// Amagatsa Doll
+patch=1,EE,009F72B8,extended,00000001
+
+[Devil Mushroom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Devil Mushroom
+// Devil Mushroom
+patch=1,EE,009F72B9,extended,00000001
+
+[Max Att]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Att
+// Max Att
+patch=1,EE,209F07A8,extended,000F423F
+
+[Max Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Def
+// Max Def
+patch=1,EE,209F07AC,extended,000F423F
+
+[Max Dur]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Dur
+// Max Dur
+patch=1,EE,209F07B0,extended,00000009
+
+[Full Durability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Full Durability
+// Full Durability
+patch=1,EE,109F07B4,extended,00000063
+
+[Max Durability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Durability
+// Max Durability
+patch=1,EE,109F07B6,extended,00000063
+
+[Max Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Kills
+// Max Kills
+patch=1,EE,209F07D8,extended,000F423F
+
+[Have All Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Moves
+// Have All Moves
+patch=1,EE,409F07E0,extended,00060001
+
+[Have All Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Moves
+// Have All Moves
+patch=1,EE,01010101,extended,00000000
+
+[Have All Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Moves
+// Have All Moves
+patch=1,EE,109F07F8,extended,00000101
+
+[Max Att]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Att
+// Max Att
+patch=1,EE,209F08A8,extended,000F423F
+
+[Max Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Def
+// Max Def
+patch=1,EE,209F08AC,extended,000F423F
+
+[Max Dur]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Dur
+// Max Dur
+patch=1,EE,209F08B0,extended,00000009
+
+[Full Durability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Full Durability
+// Full Durability
+patch=1,EE,109F08B4,extended,00000063
+
+[Max Durability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Durability
+// Max Durability
+patch=1,EE,109F08B6,extended,00000063
+
+[Max Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Kills
+// Max Kills
+patch=1,EE,209F08D8,extended,000F423F
+
+[Have All Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Moves
+// Have All Moves
+patch=1,EE,409F08E0,extended,00060001
+
+[Have All Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Moves
+// Have All Moves
+patch=1,EE,01010101,extended,00000000
+
+[Have All Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Moves
+// Have All Moves
+patch=1,EE,109F08F8,extended,00000101
+
+[Max Att]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Att
+// Max Att
+patch=1,EE,209F09A8,extended,000F423F
+
+[Max Def]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Def
+// Max Def
+patch=1,EE,209F09AC,extended,000F423F
+
+[Max Dur]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Dur
+// Max Dur
+patch=1,EE,209F09B0,extended,00000009
+
+[Full Durability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Full Durability
+// Full Durability
+patch=1,EE,109F09B4,extended,00000063
+
+[Max Durability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Durability
+// Max Durability
+patch=1,EE,109F09B6,extended,00000063
+
+[Max Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Kills
+// Max Kills
+patch=1,EE,209F09D8,extended,000F423F
+
+[Have All Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Moves
+// Have All Moves
+patch=1,EE,409F09E0,extended,00080001
+
+[Have All Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Moves
+// Have All Moves
+patch=1,EE,01010101,extended,00000000

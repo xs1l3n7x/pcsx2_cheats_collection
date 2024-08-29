@@ -1,0 +1,79 @@
+gametitle=DT Racer [SLUS-21095] [D4690FFA]
+
+[All Garage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Garage
+// All Garage
+patch=1,EE,90208408,extended,0C089777
+
+[No Car Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Car Damage
+// No Car Damage
+patch=1,EE,2016D040,extended,00000000
+
+[Infinite Fuel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Fuel
+// Infinite Fuel
+patch=1,EE,2012FF6C,extended,00000000
+
+[Always Low Total Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Time
+// Always Low Total Time
+patch=1,EE,201BED6C,extended,00000000
+
+[Always Low Lap Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Lap Time
+// Always Low Lap Time
+patch=1,EE,201BED74,extended,00000000
+
+[P1 Press {L1}+{SELECT} To Stop Total Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Total Timer
+// P1 Press {L1}+{SELECT} To Stop Total Timer
+patch=1,EE,D02C2FC2,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Stop Total Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Total Timer
+// P1 Press {L1}+{SELECT} To Stop Total Timer
+patch=1,EE,201BED6C,extended,00000000
+
+[P1 Press {L2}+{SELECT} To Restart Total Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Total Timer
+// P1 Press {L2}+{SELECT} To Restart Total Timer
+patch=1,EE,D02C2FC2,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Restart Total Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Total Timer
+// P1 Press {L2}+{SELECT} To Restart Total Timer
+patch=1,EE,201BED6C,extended,E6010048
+
+[P1 Press {R1}+{SELECT} To Stop Total Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} To Stop Total Timer
+// P1 Press {R1}+{SELECT} To Stop Total Timer
+patch=1,EE,D02C2FC2,extended,0000F7FE
+
+[P1 Press {R1}+{SELECT} To Stop Total Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} To Stop Total Timer
+// P1 Press {R1}+{SELECT} To Stop Total Timer
+patch=1,EE,201BED74,extended,00000000
+
+[P1 Press {R2}+{SELECT} To Restart Total Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+{SELECT} To Restart Total Timer
+// P1 Press {R2}+{SELECT} To Restart Total Timer
+patch=1,EE,D02C2FC2,extended,0000FDFE
+
+[P1 Press {R2}+{SELECT} To Restart Total Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+{SELECT} To Restart Total Timer
+// P1 Press {R2}+{SELECT} To Restart Total Timer
+patch=1,EE,201BED74,extended,E6000044

@@ -1,0 +1,175 @@
+gametitle=Dragon Rage [SLUS-20195] [37878C74]
+
+[Slot 396]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 396
+// Slot 396
+patch=1,EE,901EA674,extended,0C070E09
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0220,extended,2401270F
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0224,extended,0805DE8E
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0228,extended,AE4100CC
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20179CE0,extended,0C030088
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,200C0230,extended,2401270F
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,200C0234,extended,0805DEDC
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,200C0238,extended,AE4105EC
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,20179CEC,extended,0C03008C
+
+[Infinite Mana]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Mana
+// Infinite Mana
+patch=1,EE,200C0240,extended,2401270F
+
+[Infinite Mana]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Mana
+// Infinite Mana
+patch=1,EE,200C0244,extended,0805E9CA
+
+[Infinite Mana]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Mana
+// Infinite Mana
+patch=1,EE,200C0248,extended,AE410618
+
+[Infinite Mana]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Mana
+// Infinite Mana
+patch=1,EE,20179CF8,extended,0C030090
+
+[Max Mana]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mana
+// Max Mana
+patch=1,EE,200C0250,extended,2401270F
+
+[Max Mana]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mana
+// Max Mana
+patch=1,EE,200C0254,extended,0805E4BC
+
+[Max Mana]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mana
+// Max Mana
+patch=1,EE,200C0258,extended,AE4105F0
+
+[Max Mana]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mana
+// Max Mana
+patch=1,EE,20179D04,extended,0C030094
+
+[Infinite Lives]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lives
+// Infinite Lives
+patch=1,EE,0022E2E4,extended,00000008
+
+[Max Fire Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fire Level
+// Max Fire Level
+patch=1,EE,004B717C,extended,000000FF
+
+[Max Water Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Water Level
+// Max Water Level
+patch=1,EE,004B717D,extended,000000FF
+
+[Max Air Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Air Level
+// Max Air Level
+patch=1,EE,004B717E,extended,000000FF
+
+[Max Earth Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Earth Level
+// Max Earth Level
+patch=1,EE,004B717F,extended,000000FF
+
+[Max Strength]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Strength
+// Max Strength
+patch=1,EE,204B7188,extended,0000270F
+
+[Max Endurance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Endurance
+// Max Endurance
+patch=1,EE,204B718C,extended,0000270F
+
+[Max Agility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Agility
+// Max Agility
+patch=1,EE,204B7190,extended,0000270F
+
+[Max Intelligence]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Intelligence
+// Max Intelligence
+patch=1,EE,204B7194,extended,0000270F
+
+[Max Wisdom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Wisdom
+// Max Wisdom
+patch=1,EE,204B7198,extended,0000270F
+
+[Max Presence]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Presence
+// Max Presence
+patch=1,EE,204B719C,extended,0000270F
+
+[Have All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Levels
+// Have All Levels
+patch=1,EE,00489EC6,extended,0000000F

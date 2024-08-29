@@ -1,0 +1,223 @@
+gametitle=World Championship Poker [SLUS-21028] [215DB422]
+
+[Infinite Special Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Special Movies
+// Infinite Special Movies
+patch=1,EE,902FA92C,extended,0C0C9E1D
+
+[Quick Money Gain P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Money Gain P1
+// Quick Money Gain P1
+patch=1,EE,1076FF38,extended,0000FFFF
+
+[Max Money P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money P1
+// Max Money P1
+patch=1,EE,2076FF38,extended,05F5E0FF
+
+[No Money P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money P1
+// No Money P1
+patch=1,EE,2076FF38,extended,00000000
+
+[Quick Money Gain P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Money Gain P2
+// Quick Money Gain P2
+patch=1,EE,10770028,extended,0000FFFF
+
+[Max Money P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money P2
+// Max Money P2
+patch=1,EE,20770028,extended,05F5E0FF
+
+[No Money P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money P2
+// No Money P2
+patch=1,EE,20770028,extended,00000000
+
+[Quick Money Gain P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Money Gain P3
+// Quick Money Gain P3
+patch=1,EE,10770118,extended,0000FFFF
+
+[Max Money P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money P3
+// Max Money P3
+patch=1,EE,20770118,extended,05F5E0FF
+
+[No Money P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money P3
+// No Money P3
+patch=1,EE,20770118,extended,00000000
+
+[Quick Money Gain P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Money Gain P4
+// Quick Money Gain P4
+patch=1,EE,10770208,extended,0000FFFF
+
+[Max Money P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money P4
+// Max Money P4
+patch=1,EE,20770208,extended,05F5E0FF
+
+[No Money P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money P4
+// No Money P4
+patch=1,EE,20770208,extended,00000000
+
+[Quick Money Gain P5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Money Gain P5
+// Quick Money Gain P5
+patch=1,EE,107702F8,extended,0000FFFF
+
+[Max Money P5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money P5
+// Max Money P5
+patch=1,EE,207702F8,extended,05F5E0FF
+
+[No Money P5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money P5
+// No Money P5
+patch=1,EE,207702F8,extended,00000000
+
+[Quick Money Gain P6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Money Gain P6
+// Quick Money Gain P6
+patch=1,EE,107703E8,extended,0000FFFF
+
+[Max Money P6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money P6
+// Max Money P6
+patch=1,EE,207703E8,extended,05F5E0FF
+
+[No Money P6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Money P6
+// No Money P6
+patch=1,EE,207703E8,extended,00000000
+
+[Quick Cash Gain (Offline)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Cash Gain (Offline)
+// Quick Cash Gain (Offline)
+patch=1,EE,10695480,extended,0000FFFF
+
+[Max Cash (Offline)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cash (Offline)
+// Max Cash (Offline)
+patch=1,EE,20695480,extended,05F5E0FF
+
+[Max Overall Sit & Go (Offline)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Overall Sit & Go (Offline)
+// Max Overall Sit & Go (Offline)
+patch=1,EE,10695484,extended,0000270F
+
+[No Overall Sit & Go (Offline)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Overall Sit & Go (Offline)
+// No Overall Sit & Go (Offline)
+patch=1,EE,10695484,extended,00000000
+
+[Max Current Sit & Go (Offline)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Current Sit & Go (Offline)
+// Max Current Sit & Go (Offline)
+patch=1,EE,10695486,extended,0000270F
+
+[No Current Sit & Go (Offline)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Current Sit & Go (Offline)
+// No Current Sit & Go (Offline)
+patch=1,EE,10695486,extended,00000000
+
+[Quick Cash Gain (Online)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Cash Gain (Online)
+// Quick Cash Gain (Online)
+patch=1,EE,10695488,extended,0000FFFF
+
+[Max Cash (Online)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cash (Online)
+// Max Cash (Online)
+patch=1,EE,20695488,extended,05F5E0FF
+
+[Max Overall Sit & Go (Online)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Overall Sit & Go (Online)
+// Max Overall Sit & Go (Online)
+patch=1,EE,1069548C,extended,0000270F
+
+[No Overall Sit & Go (Online)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Overall Sit & Go (Online)
+// No Overall Sit & Go (Online)
+patch=1,EE,1069548C,extended,00000000
+
+[Max Current Sit & Go (Online)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Current Sit & Go (Online)
+// Max Current Sit & Go (Online)
+patch=1,EE,1069548E,extended,0000270F
+
+[No Current Sit & Go (Online)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Current Sit & Go (Online)
+// No Current Sit & Go (Online)
+patch=1,EE,1069548E,extended,00000000
+
+[Max Tournaments Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tournaments Played
+// Max Tournaments Played
+patch=1,EE,10695532,extended,0000270F
+
+[No Tournaments Played]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Tournaments Played
+// No Tournaments Played
+patch=1,EE,10695532,extended,00000000
+
+[Max Tournaments Placed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tournaments Placed
+// Max Tournaments Placed
+patch=1,EE,10695534,extended,0000270F
+
+[No Tournaments Placed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Tournaments Placed
+// No Tournaments Placed
+patch=1,EE,10695534,extended,00000000
+
+[Max Tournaments Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tournaments Won
+// Max Tournaments Won
+patch=1,EE,10695536,extended,0000270F
+
+[No Tournaments Won]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Tournaments Won
+// No Tournaments Won
+patch=1,EE,10695536,extended,00000000

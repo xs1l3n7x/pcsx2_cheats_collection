@@ -1,0 +1,313 @@
+gametitle=Cool Boarders 2001 [SCUS-97108] [0993962D]
+
+[005-Archipelago]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=005-Archipelago
+// 005-Archipelago
+patch=1,EE,901670EC,extended,0C05F0EF
+
+[Gate Misses Dont Count]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gate Misses Dont Count
+// Gate Misses Dont Count
+patch=1,EE,20130430,extended,00000000
+
+[Gate Misses Dont Count]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gate Misses Dont Count
+// Gate Misses Dont Count
+patch=1,EE,2013114C,extended,00000000
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,10303DCC,extended,0000FFFF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20303DCC,extended,05F5E0FF
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,10302288,extended,0000FFFF
+
+[Have All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Characters
+// Have All Characters
+patch=1,EE,2018C65C,extended,FFFFFFFF
+
+[Have All Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Events
+// Have All Events
+patch=1,EE,4018C544,extended,00060001
+
+[Have All Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Events
+// Have All Events
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,2018A6D0,extended,FFFFFFFF
+
+[Have All Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Events
+// Have All Events
+patch=1,EE,4018A690,extended,00100001
+
+[Have All Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Events
+// Have All Events
+patch=1,EE,01010101,extended,00000000
+
+[Trent-Quick Race-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trent-Quick Race-Max All Stats
+// Trent-Quick Race-Max All Stats
+patch=1,EE,2018C667,extended,0A0A0A0A
+
+[Trent-Career-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trent-Career-Max All Stats
+// Trent-Career-Max All Stats
+patch=1,EE,2018A6DC,extended,0A0A0A0A
+
+[Cool-Quick Race-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cool-Quick Race-Max All Stats
+// Cool-Quick Race-Max All Stats
+patch=1,EE,2018C668,extended,0A0A0A0A
+
+[Cool-Career-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cool-Career-Max All Stats
+// Cool-Career-Max All Stats
+patch=1,EE,2018A6E0,extended,0A0A0A0A
+
+[Replay-Quick Race-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Replay-Quick Race-Max All Stats
+// Replay-Quick Race-Max All Stats
+patch=1,EE,2018C66C,extended,0A0A0A0A
+
+[Replay-Career-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Replay-Career-Max All Stats
+// Replay-Career-Max All Stats
+patch=1,EE,2018A6E4,extended,0A0A0A0A
+
+[Sasha-Quick Race-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sasha-Quick Race-Max All Stats
+// Sasha-Quick Race-Max All Stats
+patch=1,EE,2018C670,extended,0A0A0A0A
+
+[Sasha-Career-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sasha-Career-Max All Stats
+// Sasha-Career-Max All Stats
+patch=1,EE,2018A6E8,extended,0A0A0A0A
+
+[Max-Quick Race-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max-Quick Race-Max All Stats
+// Max-Quick Race-Max All Stats
+patch=1,EE,2018C674,extended,0A0A0A0A
+
+[Max-Career-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max-Career-Max All Stats
+// Max-Career-Max All Stats
+patch=1,EE,2018A6EC,extended,0A0A0A0A
+
+[Karma-Quick Race-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Karma-Quick Race-Max All Stats
+// Karma-Quick Race-Max All Stats
+patch=1,EE,2018C678,extended,0A0A0A0A
+
+[Karma-Career-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Karma-Career-Max All Stats
+// Karma-Career-Max All Stats
+patch=1,EE,2018A6F0,extended,0A0A0A0A
+
+[Le Monjello-Quick Race-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Le Monjello-Quick Race-Max All Stats
+// Le Monjello-Quick Race-Max All Stats
+patch=1,EE,2018C67C,extended,0A0A0A0A
+
+[Le Monjello-Career-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Le Monjello-Career-Max All Stats
+// Le Monjello-Career-Max All Stats
+patch=1,EE,2018A6F4,extended,0A0A0A0A
+
+[Burg-Quick Race-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Burg-Quick Race-Max All Stats
+// Burg-Quick Race-Max All Stats
+patch=1,EE,2018C680,extended,0A0A0A0A
+
+[Burg-Career-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Burg-Career-Max All Stats
+// Burg-Career-Max All Stats
+patch=1,EE,2018A6F8,extended,0A0A0A0A
+
+[Tex-Quick Race-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tex-Quick Race-Max All Stats
+// Tex-Quick Race-Max All Stats
+patch=1,EE,2018C684,extended,0A0A0A0A
+
+[Tex-Career-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tex-Career-Max All Stats
+// Tex-Career-Max All Stats
+patch=1,EE,2018A6FC,extended,0A0A0A0A
+
+[Gray-Quick Race-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gray-Quick Race-Max All Stats
+// Gray-Quick Race-Max All Stats
+patch=1,EE,2018C688,extended,0A0A0A0A
+
+[Gray-Career-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gray-Career-Max All Stats
+// Gray-Career-Max All Stats
+patch=1,EE,2018A700,extended,0A0A0A0A
+
+[Jeremy Jones-Quick Race-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jeremy Jones-Quick Race-Max All Stats
+// Jeremy Jones-Quick Race-Max All Stats
+patch=1,EE,2018C68C,extended,0A0A0A0A
+
+[Jeremy Jones-Career-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jeremy Jones-Career-Max All Stats
+// Jeremy Jones-Career-Max All Stats
+patch=1,EE,2018A704,extended,0A0A0A0A
+
+[Barrett Christy-Quick Race-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Barrett Christy-Quick Race-Max All Stats
+// Barrett Christy-Quick Race-Max All Stats
+patch=1,EE,2018C690,extended,0A0A0A0A
+
+[Barrett Christy-Career-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Barrett Christy-Career-Max All Stats
+// Barrett Christy-Career-Max All Stats
+patch=1,EE,2018A708,extended,0A0A0A0A
+
+[Tara Dakides-Quick Race-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tara Dakides-Quick Race-Max All Stats
+// Tara Dakides-Quick Race-Max All Stats
+patch=1,EE,2018C694,extended,0A0A0A0A
+
+[Tara Dakides-Career-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tara Dakides-Career-Max All Stats
+// Tara Dakides-Career-Max All Stats
+patch=1,EE,2018A70C,extended,0A0A0A0A
+
+[Nate Cole-Quick Race-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nate Cole-Quick Race-Max All Stats
+// Nate Cole-Quick Race-Max All Stats
+patch=1,EE,2018C698,extended,0A0A0A0A
+
+[Nate Cole-Career-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nate Cole-Career-Max All Stats
+// Nate Cole-Career-Max All Stats
+patch=1,EE,2018A710,extended,0A0A0A0A
+
+[Kevin Jones-Quick Race-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kevin Jones-Quick Race-Max All Stats
+// Kevin Jones-Quick Race-Max All Stats
+patch=1,EE,2018C69C,extended,0A0A0A0A
+
+[Kevin Jones-Career-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kevin Jones-Career-Max All Stats
+// Kevin Jones-Career-Max All Stats
+patch=1,EE,2018A714,extended,0A0A0A0A
+
+[Scotty Wittlake-Quick Race-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scotty Wittlake-Quick Race-Max All Stats
+// Scotty Wittlake-Quick Race-Max All Stats
+patch=1,EE,2018C6A0,extended,0A0A0A0A
+
+[Scotty Wittlake-Career-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scotty Wittlake-Career-Max All Stats
+// Scotty Wittlake-Career-Max All Stats
+patch=1,EE,2018A718,extended,0A0A0A0A
+
+[Travis Parker-Quick Race-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Travis Parker-Quick Race-Max All Stats
+// Travis Parker-Quick Race-Max All Stats
+patch=1,EE,2018C6A4,extended,0A0A0A0A
+
+[Travis Parker-Career-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Travis Parker-Career-Max All Stats
+// Travis Parker-Career-Max All Stats
+patch=1,EE,2018A71C,extended,0A0A0A0A
+
+[Michele Taggart-Quick Race-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Michele Taggart-Quick Race-Max All Stats
+// Michele Taggart-Quick Race-Max All Stats
+patch=1,EE,2018C6A8,extended,0A0A0A0A
+
+[Michele Taggart-Career-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Michele Taggart-Career-Max All Stats
+// Michele Taggart-Career-Max All Stats
+patch=1,EE,2018A720,extended,0A0A0A0A
+
+[Jussi Oksanen-Quick Race-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jussi Oksanen-Quick Race-Max All Stats
+// Jussi Oksanen-Quick Race-Max All Stats
+patch=1,EE,2018C6AC,extended,0A0A0A0A
+
+[Jussi Oksanen-Career-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jussi Oksanen-Career-Max All Stats
+// Jussi Oksanen-Career-Max All Stats
+patch=1,EE,2018A724,extended,0A0A0A0A
+
+[Todd Richards-Quick Race-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Todd Richards-Quick Race-Max All Stats
+// Todd Richards-Quick Race-Max All Stats
+patch=1,EE,2018C6B0,extended,0A0A0A0A
+
+[Todd Richards-Career-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Todd Richards-Career-Max All Stats
+// Todd Richards-Career-Max All Stats
+patch=1,EE,2018A728,extended,0A0A0A0A

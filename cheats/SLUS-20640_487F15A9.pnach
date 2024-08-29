@@ -1,0 +1,133 @@
+gametitle=Saturday Night Speedway [SLUS-20640] [487F15A9]
+
+[All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Weapons
+// All Weapons
+patch=1,EE,F0100008,extended,003AE52F
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,203B03A0,extended,24020001
+
+[Infinite Balance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Balance
+// Infinite Balance
+patch=1,EE,10B49818,extended,0000FFFF
+
+[Max Balance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Balance
+// Max Balance
+patch=1,EE,20B49818,extended,05F5E0FF
+
+[Balance Doesnt Decrease When Buying]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Balance Doesnt Decrease When Buying
+// Balance Doesnt Decrease When Buying
+patch=1,EE,201EB710,extended,00000000
+
+[Balance Increases When Buying]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Balance Increases When Buying
+// Balance Increases When Buying
+patch=1,EE,201EB708,extended,0045102D
+
+[Lower Lap Times]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lower Lap Times
+// Lower Lap Times
+patch=1,EE,D045DE34,extended,00300300
+
+[Lower Lap Times]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lower Lap Times
+// Lower Lap Times
+patch=1,EE,2045DE34,extended,00000300
+
+[Start On Lap 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 5
+// Start On Lap 5
+patch=1,EE,D045DE80,extended,00000000
+
+[Start On Lap 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 5
+// Start On Lap 5
+patch=1,EE,2045DE80,extended,00000005
+
+[Start On Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 4
+// Start On Lap 4
+patch=1,EE,D045DE80,extended,00000000
+
+[Start On Lap 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 4
+// Start On Lap 4
+patch=1,EE,2045DE80,extended,00000004
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,D045DE80,extended,00000000
+
+[Start On Lap 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 3
+// Start On Lap 3
+patch=1,EE,2045DE80,extended,00000003
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,D045DE80,extended,00000000
+
+[Start On Lap 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 2
+// Start On Lap 2
+patch=1,EE,2045DE80,extended,00000002
+
+[Max Current Tear Offs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Current Tear Offs
+// Max Current Tear Offs
+patch=1,EE,20485F00,extended,00000063
+
+[Max Overall Tear Offs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Overall Tear Offs
+// Max Overall Tear Offs
+patch=1,EE,20485F08,extended,00000063
+
+[P1 Press {L1}+{SELECT} To Stop Lap Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Lap Timer
+// P1 Press {L1}+{SELECT} To Stop Lap Timer
+patch=1,EE,D08B1B42,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Stop Lap Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Lap Timer
+// P1 Press {L1}+{SELECT} To Stop Lap Timer
+patch=1,EE,20155954,extended,00000000
+
+[P1 Press {L2}+{SELECT} To Resume Lap Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Resume Lap Timer
+// P1 Press {L2}+{SELECT} To Resume Lap Timer
+patch=1,EE,D08B1B42,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Resume Lap Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Resume Lap Timer
+// P1 Press {L2}+{SELECT} To Resume Lap Timer
+patch=1,EE,20155954,extended,AC62DE34

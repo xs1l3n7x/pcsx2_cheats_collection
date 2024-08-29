@@ -1,0 +1,43 @@
+gametitle=Le Mans 24 Hours [SLES-50131] [FEA030CB]
+
+[P1 Press {L1}+{L1}+{R1}+{R2}+{SELECT} To Restart level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L1}+{R1}+{R2}+{SELECT} To Restart level
+// P1 Press {L1}+{L1}+{R1}+{R2}+{SELECT} To Restart level
+patch=1,EE,90132A74,extended,0C048F22
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,20135A80,extended,03E00008
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,20135A84,extended,00000000
+
+[Always Good Tires]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Good Tires
+// Always Good Tires
+patch=1,EE,20214A70,extended,03E00008
+
+[Always Good Tires]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Good Tires
+// Always Good Tires
+patch=1,EE,20214A74,extended,00000000
+
+[Infinite Fuel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Fuel
+// Infinite Fuel
+patch=1,EE,20215350,extended,03E00008
+
+[Infinite Fuel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Fuel
+// Infinite Fuel
+patch=1,EE,20215354,extended,00000000

@@ -1,0 +1,61 @@
+gametitle=Super Monkey Ball Deluxe [SLUS-20918] [43B1CD7F]
+
+[Unlock All Stages]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Stages
+// Unlock All Stages
+patch=1,EE,9011CFC0,extended,0C048C64
+
+[Max Bananas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bananas
+// Max Bananas
+patch=1,EE,20540018,extended,000003E7
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,2054001C,extended,0098967F
+
+[P1 Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Timer
+// P1 Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,D04CF742,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Timer
+// P1 Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,20170498,extended,00000000
+
+[P1 Press {L2}+{SELECT} To Restart Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Timer
+// P1 Press {L2}+{SELECT} To Restart Timer
+patch=1,EE,D04CF742,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Restart Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Timer
+// P1 Press {L2}+{SELECT} To Restart Timer
+patch=1,EE,20170498,extended,A464F5B4
+
+[Max Monkeys]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Monkeys
+// Max Monkeys
+patch=1,EE,00541301,extended,00000063
+
+[Unlock All Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Movies
+// Unlock All Movies
+patch=1,EE,1054132A,extended,0000FFFF
+
+[Ultimate Playable]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultimate Playable
+// Ultimate Playable
+patch=1,EE,70541332,extended,00000001

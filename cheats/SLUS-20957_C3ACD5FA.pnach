@@ -1,0 +1,67 @@
+gametitle=Scaler [SLUS-20957] [C3ACD5FA]
+
+[Unlock All Multiplayer Maps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Multiplayer Maps
+// Unlock All Multiplayer Maps
+patch=1,EE,9012C2E4,extended,0C04E66A
+
+[Infinite Health (Hold {SELECT} To Die)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Hold {SELECT} To Die)
+// Infinite Health (Hold {SELECT} To Die)
+patch=1,EE,D041A326,extended,0010FFFE
+
+[Infinite Health (Hold {SELECT} To Die)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Hold {SELECT} To Die)
+// Infinite Health (Hold {SELECT} To Die)
+patch=1,EE,2031D8A4,extended,41200000
+
+[Max Klokkies Counter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Klokkies Counter
+// Max Klokkies Counter
+patch=1,EE,2045BA38,extended,000F423F
+
+[Have All Eggs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Eggs
+// Have All Eggs
+patch=1,EE,2045BA3C,extended,FFFFFFFF
+
+[Have All Crystal Gems]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Crystal Gems
+// Have All Crystal Gems
+patch=1,EE,1045BA4E,extended,0000FFFF
+
+[Have All Crystal Gems]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Crystal Gems
+// Have All Crystal Gems
+patch=1,EE,4045BA50,extended,00030001
+
+[Have All Crystal Gems]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Crystal Gems
+// Have All Crystal Gems
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Infinite Electric Bombs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Electric Bombs
+// Infinite Electric Bombs
+patch=1,EE,0045B795,extended,00000006
+
+[Max Electric Bombs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Electric Bombs
+// Max Electric Bombs
+patch=1,EE,0045BA95,extended,00000005
+
+[Have All Abilities]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Abilities
+// Have All Abilities
+patch=1,EE,2045BAD4,extended,FFFFFFFF

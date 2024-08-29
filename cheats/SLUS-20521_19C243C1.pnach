@@ -1,0 +1,301 @@
+gametitle=Mystic Heroes [SLUS-20521] [19C243C1]
+
+[Start On Lap 14 (Yellow Player)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Lap 14 (Yellow Player)
+// Start On Lap 14 (Yellow Player)
+patch=1,EE,902F2684,extended,0C0BEFED
+
+[Max Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health P1
+// Max Health P1
+patch=1,EE,1078EC50,extended,0000270F
+
+[Infinite Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1
+// Infinite Health P1
+patch=1,EE,1078EC52,extended,0000270F
+
+[Max Infinite Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health P1
+// Max Infinite Health P1
+patch=1,EE,2078EC50,extended,270F270F
+
+[No Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P1
+// No Health P1
+patch=1,EE,2078EC50,extended,0000270F
+
+[Infinite Magic P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Magic P1
+// Infinite Magic P1
+patch=1,EE,1078EC8C,extended,0000270F
+
+[Max Magic P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Magic P1
+// Max Magic P1
+patch=1,EE,1078EC8E,extended,0000270F
+
+[Max Infinite Magic P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Magic P1
+// Max Infinite Magic P1
+patch=1,EE,2078EC8C,extended,270F270F
+
+[No Magic P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Magic P1
+// No Magic P1
+patch=1,EE,2078EC8C,extended,270F0000
+
+[Max Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health P2
+// Max Health P2
+patch=1,EE,1078ED40,extended,0000270F
+
+[Infinite Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2
+// Infinite Health P2
+patch=1,EE,1078ED42,extended,0000270F
+
+[Max Infinite Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health P2
+// Max Infinite Health P2
+patch=1,EE,2078ED40,extended,270F270F
+
+[No Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P2
+// No Health P2
+patch=1,EE,2078ED40,extended,0000270F
+
+[Infinite Magic P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Magic P2
+// Infinite Magic P2
+patch=1,EE,1078ED7C,extended,0000270F
+
+[Max Magic P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Magic P2
+// Max Magic P2
+patch=1,EE,1078ED7E,extended,0000270F
+
+[Max Infinite Magic P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Magic P2
+// Max Infinite Magic P2
+patch=1,EE,2078ED7C,extended,270F270F
+
+[No Magic P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Magic P2
+// No Magic P2
+patch=1,EE,2078ED7C,extended,270F0000
+
+[Max Health P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health P3
+// Max Health P3
+patch=1,EE,1078EE30,extended,0000270F
+
+[Infinite Health P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P3
+// Infinite Health P3
+patch=1,EE,1078EE32,extended,0000270F
+
+[Max Infinite Health P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health P3
+// Max Infinite Health P3
+patch=1,EE,2078EE30,extended,270F270F
+
+[No Health P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P3
+// No Health P3
+patch=1,EE,2078EE30,extended,0000270F
+
+[Infinite Magic P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Magic P3
+// Infinite Magic P3
+patch=1,EE,1078EE6C,extended,0000270F
+
+[Max Magic P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Magic P3
+// Max Magic P3
+patch=1,EE,1078EE6E,extended,0000270F
+
+[Max Infinite Magic P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Magic P3
+// Max Infinite Magic P3
+patch=1,EE,2078EE6C,extended,270F270F
+
+[No Magic P3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Magic P3
+// No Magic P3
+patch=1,EE,2078EE6C,extended,270F0000
+
+[Max Health P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health P4
+// Max Health P4
+patch=1,EE,1078EF20,extended,0000270F
+
+[Infinite Health P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P4
+// Infinite Health P4
+patch=1,EE,1078EF22,extended,0000270F
+
+[Max Infinite Health P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health P4
+// Max Infinite Health P4
+patch=1,EE,2078EF20,extended,270F270F
+
+[No Health P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Health P4
+// No Health P4
+patch=1,EE,2078EF20,extended,0000270F
+
+[Infinite Magic P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Magic P4
+// Infinite Magic P4
+patch=1,EE,1078EF5C,extended,0000270F
+
+[Max Magic P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Magic P4
+// Max Magic P4
+patch=1,EE,1078EF5E,extended,0000270F
+
+[Max Infinite Magic P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Magic P4
+// Max Infinite Magic P4
+patch=1,EE,2078EF5C,extended,270F270F
+
+[No Magic P4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Magic P4
+// No Magic P4
+patch=1,EE,2078EF5C,extended,270F0000
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,1031E2B4,extended,0000270F
+
+[Max Magic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Magic
+// Max Magic
+patch=1,EE,1031E2B6,extended,0000270F
+
+[Max Att.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Att.
+// Max Att.
+patch=1,EE,1031E2B8,extended,000003E7
+
+[Max Def.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Def.
+// Max Def.
+patch=1,EE,1031E2BA,extended,000003E7
+
+[Max RA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max RA
+// Max RA
+patch=1,EE,1031E2BC,extended,000003E7
+
+[Max RD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max RD
+// Max RD
+patch=1,EE,1031E2BE,extended,000003E7
+
+[Direct Max Lv. 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Direct Max Lv. 4
+// Direct Max Lv. 4
+patch=1,EE,0031E2D4,extended,00000004
+
+[Target Max Lv. 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Target Max Lv. 4
+// Target Max Lv. 4
+patch=1,EE,0031E2D5,extended,00000004
+
+[Jump Max Lv. 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jump Max Lv. 4
+// Jump Max Lv. 4
+patch=1,EE,0031E2D6,extended,00000004
+
+[Sword Max Lv. 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sword Max Lv. 4
+// Sword Max Lv. 4
+patch=1,EE,0031E2D7,extended,00000004
+
+[Always Low Play Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Play Time
+// Always Low Play Time
+patch=1,EE,2031E28C,extended,00000000
+
+[Max Enemies Defeated]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Enemies Defeated
+// Max Enemies Defeated
+patch=1,EE,2031E2A8,extended,0001869F
+
+[No Allies Defeated]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Allies Defeated
+// No Allies Defeated
+patch=1,EE,1031E2AC,extended,00000000
+
+[Max Best Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Best Combo
+// Max Best Combo
+patch=1,EE,1031E2AE,extended,0000270F
+
+[Have All Runes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Runes
+// Have All Runes
+patch=1,EE,2031E2F4,extended,FFFFFFFF
+
+[Have All Runes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Runes
+// Have All Runes
+patch=1,EE,2031E2F8,extended,FFFFFFFF
+
+[Have All Runes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Runes
+// Have All Runes
+patch=1,EE,2031E2FC,extended,FFFFFFFF

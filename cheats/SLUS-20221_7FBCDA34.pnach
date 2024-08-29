@@ -1,0 +1,475 @@
+gametitle=Vampire Night [SLUS-20221] [7FBCDA34]
+
+[Gain 5000 Crystals Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 5000 Crystals Per Battle
+// Gain 5000 Crystals Per Battle
+patch=1,EE,901647C4,extended,0C050C74
+
+[Infinite Health P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P1
+// Infinite Health P1
+patch=1,EE,10493030,extended,00000009
+
+[Infinite Ammo P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo P1
+// Infinite Ammo P1
+patch=1,EE,1049306C,extended,00000008
+
+[Infinite Health P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health P2
+// Infinite Health P2
+patch=1,EE,10493378,extended,00000009
+
+[Infinite Ammo P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo P2
+// Infinite Ammo P2
+patch=1,EE,104933B4,extended,00000008
+
+[Infinite Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Credits
+// Infinite Credits
+patch=1,EE,10492DD4,extended,00000008
+
+[Gain Hella Silver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain Hella Silver
+// Gain Hella Silver
+patch=1,EE,10494E14,extended,0000FFFF
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,00494DDF,extended,00000063
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,40494DE0,extended,000D0001
+
+[Have All Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Items
+// Have All Items
+patch=1,EE,63636363,extended,00000000
+
+[Have All Misc. Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Misc. Files
+// Have All Misc. Files
+patch=1,EE,10494EBE,extended,00000101
+
+[Have All Misc. Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Misc. Files
+// Have All Misc. Files
+patch=1,EE,00494EE4,extended,00000001
+
+[Have All Misc. Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Misc. Files
+// Have All Misc. Files
+patch=1,EE,40494EC0,extended,00090001
+
+[Have All Misc. Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Misc. Files
+// Have All Misc. Files
+patch=1,EE,01010101,extended,00000000
+
+[Have All Item Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Item Files
+// Have All Item Files
+patch=1,EE,10494E8A,extended,00000101
+
+[Have All Item Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Item Files
+// Have All Item Files
+patch=1,EE,10494EBC,extended,00000101
+
+[Have All Item Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Item Files
+// Have All Item Files
+patch=1,EE,40494E8C,extended,000C0001
+
+[Have All Item Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Item Files
+// Have All Item Files
+patch=1,EE,01010101,extended,00000000
+
+[Have All Boss Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Boss Files
+// Have All Boss Files
+patch=1,EE,10494E7A,extended,00000101
+
+[Have All Boss Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Boss Files
+// Have All Boss Files
+patch=1,EE,10494E88,extended,00000101
+
+[Have All Boss Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Boss Files
+// Have All Boss Files
+patch=1,EE,40494E7C,extended,00030001
+
+[Have All Boss Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Boss Files
+// Have All Boss Files
+patch=1,EE,01010101,extended,00000000
+
+[Have All Enemy Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Enemy Files
+// Have All Enemy Files
+patch=1,EE,10494E78,extended,00000101
+
+[Have All Enemy Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Enemy Files
+// Have All Enemy Files
+patch=1,EE,40494E6C,extended,00030001
+
+[Have All Enemy Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Enemy Files
+// Have All Enemy Files
+patch=1,EE,01010101,extended,00000000
+
+[Have All Player Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Player Files
+// Have All Player Files
+patch=1,EE,40494E60,extended,00030001
+
+[Have All Player Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Player Files
+// Have All Player Files
+patch=1,EE,01010101,extended,00000000
+
+[Magazine +2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Magazine +2
+// Magazine +2
+patch=1,EE,00494DDF,extended,00000063
+
+[Magazine +4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Magazine +4
+// Magazine +4
+patch=1,EE,00494DE0,extended,00000063
+
+[Magazine +8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Magazine +8
+// Magazine +8
+patch=1,EE,00494DE1,extended,00000063
+
+[Infinite Magazine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Magazine
+// Infinite Magazine
+patch=1,EE,00494DE2,extended,00000063
+
+[Bullet X1.2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bullet X1.2
+// Bullet X1.2
+patch=1,EE,00494DE3,extended,00000063
+
+[Bullet X1.5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bullet X1.5
+// Bullet X1.5
+patch=1,EE,00494DE4,extended,00000063
+
+[Bullet X2.0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bullet X2.0
+// Bullet X2.0
+patch=1,EE,00494DE5,extended,00000063
+
+[Silver Bullets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver Bullets
+// Silver Bullets
+patch=1,EE,00494DE6,extended,00000063
+
+[Silver 92.5 Bullets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver 92.5 Bullets
+// Silver 92.5 Bullets
+patch=1,EE,00494DE7,extended,00000063
+
+[Shotgun Bullet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shotgun Bullet
+// Shotgun Bullet
+patch=1,EE,00494DE8,extended,00000063
+
+[Machinegun Bullet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Machinegun Bullet
+// Machinegun Bullet
+patch=1,EE,00494DE9,extended,00000063
+
+[Magnum Bullet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Magnum Bullet
+// Magnum Bullet
+patch=1,EE,00494DEA,extended,00000063
+
+[Gatling Gun Bullet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gatling Gun Bullet
+// Gatling Gun Bullet
+patch=1,EE,00494DEB,extended,00000063
+
+[Launcher Bullet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Launcher Bullet
+// Launcher Bullet
+patch=1,EE,00494DEC,extended,00000063
+
+[Comical Bullet]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Comical Bullet
+// Comical Bullet
+patch=1,EE,00494DED,extended,00000063
+
+[Army Gloves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Army Gloves
+// Army Gloves
+patch=1,EE,00494DEE,extended,00000063
+
+[Hunter's Gloves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunter's Gloves
+// Hunter's Gloves
+patch=1,EE,00494DEF,extended,00000063
+
+[Hunter's Earring]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hunter's Earring
+// Hunter's Earring
+patch=1,EE,00494DF1,extended,00000063
+
+[Holy Earring]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Holy Earring
+// Holy Earring
+patch=1,EE,00494DF3,extended,00000063
+
+[Angel Brooch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Angel Brooch
+// Angel Brooch
+patch=1,EE,00494DF5,extended,00000063
+
+[Member's Badge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Member's Badge
+// Member's Badge
+patch=1,EE,00494DF6,extended,00000063
+
+[Dream Badge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dream Badge
+// Dream Badge
+patch=1,EE,00494DF8,extended,00000063
+
+[Mystic Charm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mystic Charm
+// Mystic Charm
+patch=1,EE,00494DF9,extended,00000063
+
+[Holmes Spectacles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Holmes Spectacles
+// Holmes Spectacles
+patch=1,EE,00494DFA,extended,00000063
+
+[Psychic Goggles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Psychic Goggles
+// Psychic Goggles
+patch=1,EE,00494DFB,extended,00000063
+
+[Score Ring]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Score Ring
+// Score Ring
+patch=1,EE,00494DF0,extended,00000063
+
+[Silver Earring]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver Earring
+// Silver Earring
+patch=1,EE,00494DF2,extended,00000063
+
+[Spirit Brooch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spirit Brooch
+// Spirit Brooch
+patch=1,EE,00494DF4,extended,00000063
+
+[Silver Badge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver Badge
+// Silver Badge
+patch=1,EE,00494DF7,extended,00000063
+
+[Life +1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Life +1
+// Life +1
+patch=1,EE,00494DFC,extended,00000063
+
+[Life +2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Life +2
+// Life +2
+patch=1,EE,00494DFD,extended,00000063
+
+[Life +5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Life +5
+// Life +5
+patch=1,EE,00494DFE,extended,00000063
+
+[Credit +2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Credit +2
+// Credit +2
+patch=1,EE,00494DFF,extended,00000063
+
+[Credit +4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Credit +4
+// Credit +4
+patch=1,EE,00494E00,extended,00000063
+
+[Credit +6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Credit +6
+// Credit +6
+patch=1,EE,00494E01,extended,00000063
+
+[Credit +10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Credit +10
+// Credit +10
+patch=1,EE,00494E02,extended,00000063
+
+[Infinite Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Credits
+// Infinite Credits
+patch=1,EE,00494E03,extended,00000063
+
+[Garlic Powder]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Garlic Powder
+// Garlic Powder
+patch=1,EE,00494E04,extended,00000063
+
+[Silver Powder]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver Powder
+// Silver Powder
+patch=1,EE,00494E05,extended,00000063
+
+[Warp 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warp 2
+// Warp 2
+patch=1,EE,00494E06,extended,00000063
+
+[Warp 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warp 3
+// Warp 3
+patch=1,EE,00494E07,extended,00000063
+
+[Warp 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warp 4
+// Warp 4
+patch=1,EE,00494E08,extended,00000063
+
+[Warp 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warp 5
+// Warp 5
+patch=1,EE,00494E09,extended,00000063
+
+[Warp 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warp 6
+// Warp 6
+patch=1,EE,00494E0A,extended,00000063
+
+[Maiden's Sigh]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Maiden's Sigh
+// Maiden's Sigh
+patch=1,EE,00494E0B,extended,00000063
+
+[Maiden's Gloom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Maiden's Gloom
+// Maiden's Gloom
+patch=1,EE,00494E0C,extended,00000063
+
+[Score X2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Score X2
+// Score X2
+patch=1,EE,00494E0D,extended,00000063
+
+[Score X4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Score X4
+// Score X4
+patch=1,EE,00494E0E,extended,00000063
+
+[Angel's Wink]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Angel's Wink
+// Angel's Wink
+patch=1,EE,00494E0F,extended,00000063
+
+[Angel's Kiss]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Angel's Kiss
+// Angel's Kiss
+patch=1,EE,00494E10,extended,00000063
+
+[Angel's Miracle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Angel's Miracle
+// Angel's Miracle
+patch=1,EE,00494E11,extended,00000063
+
+[Devil's Whisper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Devil's Whisper
+// Devil's Whisper
+patch=1,EE,00494E12,extended,00000063

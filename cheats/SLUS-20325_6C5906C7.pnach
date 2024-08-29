@@ -1,0 +1,79 @@
+gametitle=Bass Strike [SLUS-20325] [6C5906C7]
+
+[Ossian's Lute]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ossian's Lute
+// Ossian's Lute
+patch=1,EE,9010DCB8,extended,0C0436D6
+
+[Infinite Time (Arcade Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time (Arcade Mode)
+// Infinite Time (Arcade Mode)
+patch=1,EE,103B7E1E,extended,00005000
+
+[Instant Win (Arcade Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Win (Arcade Mode)
+// Instant Win (Arcade Mode)
+patch=1,EE,103B7E1E,extended,00000000
+
+[Instant Win (Arcade Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Win (Arcade Mode)
+// Instant Win (Arcade Mode)
+patch=1,EE,103B7E64,extended,00000009
+
+[Instant Win (Arcade Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Win (Arcade Mode)
+// Instant Win (Arcade Mode)
+patch=1,EE,103B7E4C,extended,0000270F
+
+[Max Fish Caught P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fish Caught P1
+// Max Fish Caught P1
+patch=1,EE,103B7E64,extended,00000009
+
+[No Fish Caught P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Fish Caught P1
+// No Fish Caught P1
+patch=1,EE,103B7E64,extended,00000000
+
+[Max Total Weight P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Weight P1
+// Max Total Weight P1
+patch=1,EE,103B7E4C,extended,0000270F
+
+[No Total Weight P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Total Weight P1
+// No Total Weight P1
+patch=1,EE,103B7E4C,extended,00000000
+
+[Max Fish Caught P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Fish Caught P2
+// Max Fish Caught P2
+patch=1,EE,103B7E68,extended,00000009
+
+[No Fish Caught P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Fish Caught P2
+// No Fish Caught P2
+patch=1,EE,103B7E68,extended,00000000
+
+[Max Total Weight P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Weight P2
+// Max Total Weight P2
+patch=1,EE,103B7E50,extended,0000270F
+
+[No Total Weight P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Total Weight P2
+// No Total Weight P2
+patch=1,EE,103B7E50,extended,00000000

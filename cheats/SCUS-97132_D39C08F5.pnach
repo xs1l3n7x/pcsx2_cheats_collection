@@ -1,0 +1,97 @@
+gametitle=Kinetica [SCUS-97132] [D39C08F5]
+
+[P1 Press {L2}+{SELECT} For Victory On Current Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For Victory On Current Level
+// P1 Press {L2}+{SELECT} For Victory On Current Level
+patch=1,EE,901ACF94,extended,0C07076B
+
+[Infinite Retries]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Retries
+// Infinite Retries
+patch=1,EE,201FCB6C,extended,00000009
+
+[Infinite Retries]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Retries
+// Infinite Retries
+patch=1,EE,2020ABD8,extended,00000009
+
+[Extra Retries]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Retries
+// Extra Retries
+patch=1,EE,101236D0,extended,00000001
+
+[Infinite Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Boost
+// Infinite Boost
+patch=1,EE,200C0220,extended,E6A302A4
+
+[Infinite Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Boost
+// Infinite Boost
+patch=1,EE,200C0224,extended,03E00008
+
+[Infinite Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Boost
+// Infinite Boost
+patch=1,EE,200C0228,extended,C6A102A4
+
+[Infinite Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Boost
+// Infinite Boost
+patch=1,EE,201251E4,extended,0C030088
+
+[Have All Seasons Complete]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Seasons Complete
+// Have All Seasons Complete
+patch=1,EE,201FCE80,extended,00000004
+
+[Always Low Total Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Total Time
+// Always Low Total Time
+patch=1,EE,2020AE74,extended,00000000
+
+[Always Low Lap Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Lap Time
+// Always Low Lap Time
+patch=1,EE,2020AEA0,extended,00000000
+
+[All Races Are 1 Lap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Races Are 1 Lap
+// All Races Are 1 Lap
+patch=1,EE,2012B138,extended,24060001
+
+[All Races Are 5 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Races Are 5 Laps
+// All Races Are 5 Laps
+patch=1,EE,2012B138,extended,24060005
+
+[All Races Are 10 Laps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Races Are 10 Laps
+// All Races Are 10 Laps
+patch=1,EE,2012B138,extended,2406000A
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,401FCE2C,extended,00120001
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,00000001,extended,00000000

@@ -1,0 +1,67 @@
+gametitle=Tetris Worlds [SLUS-20247] [C9246E9C]
+
+[AI Vengeance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AI Vengeance
+// AI Vengeance
+patch=1,EE,F0100008,extended,002D207F
+
+[Show FPS]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show FPS
+// Show FPS
+patch=1,EE,2018E370,extended,00000000
+
+[Show Debug Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Debug Info
+// Show Debug Info
+patch=1,EE,2018E3C4,extended,00000000
+
+[Quick Level Up (Story Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up (Story Mode)
+// Quick Level Up (Story Mode)
+patch=1,EE,201CFF00,extended,24020001
+
+[Quick Level Up (Story Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Level Up (Story Mode)
+// Quick Level Up (Story Mode)
+patch=1,EE,201CFF04,extended,44820000
+
+[Level 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 2
+// Level 2
+patch=1,EE,20237EAC,extended,24020002
+
+[Level 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 3
+// Level 3
+patch=1,EE,20237EAC,extended,24020003
+
+[Level 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 4
+// Level 4
+patch=1,EE,20237EAC,extended,24020004
+
+[Level 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 5
+// Level 5
+patch=1,EE,20237EAC,extended,24020005
+
+[Level 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 10
+// Level 10
+patch=1,EE,20237EAC,extended,2402000A
+
+[Level 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 20
+// Level 20
+patch=1,EE,20237EAC,extended,24020014

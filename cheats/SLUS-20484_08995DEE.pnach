@@ -1,0 +1,745 @@
+gametitle=Devil May Cry 2 [SLUS-20484] [08995DEE]
+
+[Secret Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Secret Mission 2
+// Secret Mission 2
+patch=1,EE,90129820,extended,0C047DA8
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,1056F864,extended,0000270F
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2056F860,extended,270F270F
+
+[Max Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health
+// Max Infinite Health
+patch=1,EE,2056F860,extended,270F270F
+
+[Max Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Health
+// Max Infinite Health
+patch=1,EE,1056F864,extended,0000270F
+
+[Infinite Devil Trigger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Devil Trigger
+// Infinite Devil Trigger
+patch=1,EE,1056FB8E,extended,0000270F
+
+[Infinite Devil Trigger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Devil Trigger
+// Infinite Devil Trigger
+patch=1,EE,1056FB90,extended,0000270F
+
+[Max Devil Trigger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Devil Trigger
+// Max Devil Trigger
+patch=1,EE,1056FB92,extended,0000270F
+
+[Max Infinite Devil Trigger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Devil Trigger
+// Max Infinite Devil Trigger
+patch=1,EE,1056FB8E,extended,0000270F
+
+[Max Infinite Devil Trigger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Devil Trigger
+// Max Infinite Devil Trigger
+patch=1,EE,2056FB90,extended,270F270F
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,1056FBB2,extended,00000101
+
+[Red Orbs Worth 255]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Orbs Worth 255
+// Red Orbs Worth 255
+patch=1,EE,00570BA8,extended,000000FF
+
+[Max Red Orbs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Red Orbs
+// Max Red Orbs
+patch=1,EE,20570BA8,extended,000F423F
+
+[Max Blue Orbs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Blue Orbs
+// Max Blue Orbs
+patch=1,EE,20570BB4,extended,00000004
+
+[Max Yellow Orbs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Yellow Orbs
+// Max Yellow Orbs
+patch=1,EE,00570BB1,extended,00000063
+
+[Have All Enemy File]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Enemy File
+// Have All Enemy File
+patch=1,EE,20570C08,extended,FFFFFFFF
+
+[Have All Enemy File]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Enemy File
+// Have All Enemy File
+patch=1,EE,10570C0C,extended,0000FFFF
+
+[Always 1st Devil Form]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always 1st Devil Form
+// Always 1st Devil Form
+patch=1,EE,0056FB88,extended,00000001
+
+[Always Show Time!]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Show Time!
+// Always Show Time!
+patch=1,EE,0056FC99,extended,00000063
+
+[Invincible]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincible
+// Invincible
+patch=1,EE,0056FCAF,extended,00000009
+
+[Have All Guns]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Guns
+// Have All Guns
+patch=1,EE,0056FD70,extended,0000000F
+
+[Have All Weapons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Weapons
+// Have All Weapons
+patch=1,EE,0056FD71,extended,00000007
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,10570288,extended,0000FFFF
+
+[Have All Item Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Item Files
+// Have All Item Files
+patch=1,EE,20570B4C,extended,FFFFFFFF
+
+[Have All Item Files]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Item Files
+// Have All Item Files
+patch=1,EE,20570B50,extended,FFFFFFFF
+
+[Load A Game For Character & Mode/Mission Select]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Load A Game For Character & Mode/Mission Select
+// Load A Game For Character & Mode/Mission Select
+patch=1,EE,10570D4E,extended,00000303
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,10573C92,extended,000001FF
+
+[1-Hit Kills (All Enemies & Bosses)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Kills (All Enemies & Bosses)
+// 1-Hit Kills (All Enemies & Bosses)
+patch=1,EE,200C0220,extended,3C010056
+
+[1-Hit Kills (All Enemies & Bosses)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Kills (All Enemies & Bosses)
+// 1-Hit Kills (All Enemies & Bosses)
+patch=1,EE,200C0224,extended,3421F760
+
+[1-Hit Kills (All Enemies & Bosses)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Kills (All Enemies & Bosses)
+// 1-Hit Kills (All Enemies & Bosses)
+patch=1,EE,200C0228,extended,54310002
+
+[1-Hit Kills (All Enemies & Bosses)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Kills (All Enemies & Bosses)
+// 1-Hit Kills (All Enemies & Bosses)
+patch=1,EE,200C022C,extended,24020000
+
+[1-Hit Kills (All Enemies & Bosses)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Kills (All Enemies & Bosses)
+// 1-Hit Kills (All Enemies & Bosses)
+patch=1,EE,200C0230,extended,00501021
+
+[1-Hit Kills (All Enemies & Bosses)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Kills (All Enemies & Bosses)
+// 1-Hit Kills (All Enemies & Bosses)
+patch=1,EE,200C0234,extended,03E00008
+
+[1-Hit Kills (All Enemies & Bosses)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Kills (All Enemies & Bosses)
+// 1-Hit Kills (All Enemies & Bosses)
+patch=1,EE,200C0238,extended,A6220100
+
+[1-Hit Kills (All Enemies & Bosses)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Kills (All Enemies & Bosses)
+// 1-Hit Kills (All Enemies & Bosses)
+patch=1,EE,20194E58,extended,0C030088
+
+[1-Hit Kills (All Enemies & Bosses)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Kills (All Enemies & Bosses)
+// 1-Hit Kills (All Enemies & Bosses)
+patch=1,EE,20194E5C,extended,86220100
+
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+// Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+patch=1,EE,200C0220,extended,3C010056
+
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+// Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+patch=1,EE,200C0224,extended,3421F760
+
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+// Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+patch=1,EE,200C0228,extended,54310002
+
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+// Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+patch=1,EE,200C022C,extended,24020000
+
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+// Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+patch=1,EE,200C0230,extended,00000000
+
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+// Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+patch=1,EE,200C0234,extended,03E00008
+
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+// Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+patch=1,EE,200C0238,extended,A6220100
+
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+// Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+patch=1,EE,20194E58,extended,0C030088
+
+[Infinite Health & 1-Hit Kills (All Enemies & Bosses)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+// Infinite Health & 1-Hit Kills (All Enemies & Bosses)
+patch=1,EE,20194E5C,extended,86220100
+
+[Max Orbs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Orbs
+// Max Orbs
+patch=1,EE,20570BAC,extended,000F423F
+
+[Low Clear Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Clear Time
+// Low Clear Time
+patch=1,EE,20570BA0,extended,00000000
+
+[Low Clear Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Clear Time
+// Low Clear Time
+patch=1,EE,20570BA4,extended,00000000
+
+[Clear Time-Rank S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Clear Time-Rank S
+// Clear Time-Rank S
+patch=1,EE,00571A94,extended,00000000
+
+[Orbs-Rank S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Orbs-Rank S
+// Orbs-Rank S
+patch=1,EE,00571A95,extended,00000000
+
+[Stylish Average-Rank S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stylish Average-Rank S
+// Stylish Average-Rank S
+patch=1,EE,00571A96,extended,00000000
+
+[Damage-Rank S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Damage-Rank S
+// Damage-Rank S
+patch=1,EE,00571A97,extended,00000000
+
+[Item Used-Rank S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Item Used-Rank S
+// Item Used-Rank S
+patch=1,EE,00571A98,extended,00000000
+
+[Devil Hunter Rank-Rank S]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Devil Hunter Rank-Rank S
+// Devil Hunter Rank-Rank S
+patch=1,EE,00571A9B,extended,00000000
+
+[Start On Level 9999]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Level 9999
+// Start On Level 9999
+patch=1,EE,D0570C20,extended,00000000
+
+[Start On Level 9999]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Level 9999
+// Start On Level 9999
+patch=1,EE,10570C20,extended,0000270F
+
+[Start On Level 999]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Level 999
+// Start On Level 999
+patch=1,EE,D0570C20,extended,00000000
+
+[Start On Level 999]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Level 999
+// Start On Level 999
+patch=1,EE,10570C20,extended,000003E7
+
+[Start On Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Level 99
+// Start On Level 99
+patch=1,EE,D0570C20,extended,00000000
+
+[Start On Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Level 99
+// Start On Level 99
+patch=1,EE,10570C20,extended,00000063
+
+[Start On Level 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Level 9
+// Start On Level 9
+patch=1,EE,D0570C20,extended,00000000
+
+[Start On Level 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Level 9
+// Start On Level 9
+patch=1,EE,10570C20,extended,00000009
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,205741CC,extended,00000000
+
+[Max Enemy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Enemy
+// Max Enemy
+patch=1,EE,205741D0,extended,0098967F
+
+[Max Orbs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Orbs
+// Max Orbs
+patch=1,EE,205741D4,extended,000F423F
+
+[Max Bonus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bonus
+// Max Bonus
+patch=1,EE,205741D8,extended,0098967F
+
+[Aqua Heart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aqua Heart
+// Aqua Heart
+patch=1,EE,00570BBE,extended,00000001
+
+[Aerial Heart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aerial Heart
+// Aerial Heart
+patch=1,EE,00570BBF,extended,00000001
+
+[Quick Heart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Heart
+// Quick Heart
+patch=1,EE,00570BC0,extended,00000001
+
+[Flame Heart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flame Heart
+// Flame Heart
+patch=1,EE,00570BC1,extended,00000001
+
+[Frost Heart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Frost Heart
+// Frost Heart
+patch=1,EE,00570BC2,extended,00000001
+
+[Electro Heart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Electro Heart
+// Electro Heart
+patch=1,EE,00570BC3,extended,00000001
+
+[Chrono Heart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chrono Heart
+// Chrono Heart
+patch=1,EE,00570BC4,extended,00000001
+
+[Healing Heart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Healing Heart
+// Healing Heart
+patch=1,EE,00570BC5,extended,00000001
+
+[Offence Heart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Offence Heart
+// Offence Heart
+patch=1,EE,00570BC6,extended,00000001
+
+[All Amulets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Amulets
+// All Amulets
+patch=1,EE,10570BBE,extended,00000101
+
+[All Amulets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Amulets
+// All Amulets
+patch=1,EE,20570BC0,extended,01010101
+
+[All Amulets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Amulets
+// All Amulets
+patch=1,EE,10570BC4,extended,01010101
+
+[All Amulets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Amulets
+// All Amulets
+patch=1,EE,00570BC6,extended,00000001
+
+[Vital Star L.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vital Star L.
+// Vital Star L.
+patch=1,EE,00570BB7,extended,00000063
+
+[Vital Star S.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vital Star S.
+// Vital Star S.
+patch=1,EE,00570BB8,extended,00000063
+
+[Devil Star L.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Devil Star L.
+// Devil Star L.
+patch=1,EE,00570BB9,extended,00000063
+
+[Devil Star S.]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Devil Star S.
+// Devil Star S.
+patch=1,EE,00570BBA,extended,00000063
+
+[Holy Star]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Holy Star
+// Holy Star
+patch=1,EE,00570BBB,extended,00000063
+
+[Smell Of Fear]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Smell Of Fear
+// Smell Of Fear
+patch=1,EE,00570BBD,extended,00000063
+
+[Key (1)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Key (1)
+// Key (1)
+patch=1,EE,00570BD5,extended,00000063
+
+[Key (2)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Key (2)
+// Key (2)
+patch=1,EE,00570BD6,extended,00000063
+
+[Evilheart]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Evilheart
+// Evilheart
+patch=1,EE,00570BD7,extended,00000063
+
+[Sacrilege]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sacrilege
+// Sacrilege
+patch=1,EE,00570BD8,extended,00000063
+
+[Arcana Spada]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arcana Spada
+// Arcana Spada
+patch=1,EE,00570BD9,extended,00000063
+
+[Arcana Calice]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arcana Calice
+// Arcana Calice
+patch=1,EE,00570BDA,extended,00000063
+
+[Arcana Medaglia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arcana Medaglia
+// Arcana Medaglia
+patch=1,EE,00570BDB,extended,00000063
+
+[Arcana Bastone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arcana Bastone
+// Arcana Bastone
+patch=1,EE,00570BDC,extended,00000063
+
+[Always 2nd Devil Form]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always 2nd Devil Form
+// Always 2nd Devil Form
+patch=1,EE,0056FB88,extended,00000002
+
+[Unlock All Normal Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Normal Missions
+// Unlock All Normal Missions
+patch=1,EE,00574193,extended,00000012
+
+[Unlock All Hard Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Hard Missions
+// Unlock All Hard Missions
+patch=1,EE,00574194,extended,00000012
+
+[Unlock All Dante Must Die Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Dante Must Die Missions
+// Unlock All Dante Must Die Missions
+patch=1,EE,00574195,extended,00000012
+
+[Max Handguns Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Handguns Level
+// Max Handguns Level
+patch=1,EE,0056FD76,extended,00000002
+
+[Max Submachine Guns Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Submachine Guns Level
+// Max Submachine Guns Level
+patch=1,EE,0056FD77,extended,00000002
+
+[Max Shotgun Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shotgun Level
+// Max Shotgun Level
+patch=1,EE,0056FD78,extended,00000002
+
+[Max Missile Launcher Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Missile Launcher Level
+// Max Missile Launcher Level
+patch=1,EE,0056FD79,extended,00000002
+
+[Max Rebellion/Cutlaseer Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rebellion/Cutlaseer Level
+// Max Rebellion/Cutlaseer Level
+patch=1,EE,0056FD7A,extended,00000004
+
+[Max Merciles Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Merciles Level
+// Max Merciles Level
+patch=1,EE,0056FD7B,extended,00000004
+
+[Max Vendetta Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Vendetta Level
+// Max Vendetta Level
+patch=1,EE,0056FD7C,extended,00000004
+
+[Have Merciless]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Merciless
+// Have Merciless
+patch=1,EE,00570BC8,extended,00000001
+
+[Have Vendetta]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Vendetta
+// Have Vendetta
+patch=1,EE,00570BC9,extended,00000001
+
+[Have Submachine Guns]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Submachine Guns
+// Have Submachine Guns
+patch=1,EE,00570BCE,extended,00000001
+
+[Have Shotgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Shotgun
+// Have Shotgun
+patch=1,EE,00570BCF,extended,00000001
+
+[Have Missile Launcher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Missile Launcher
+// Have Missile Launcher
+patch=1,EE,00570BD0,extended,00000001
+
+[Unlock All Normal Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Normal Missions
+// Unlock All Normal Missions
+patch=1,EE,00574193,extended,0000000D
+
+[Unlock All Hard Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Hard Missions
+// Unlock All Hard Missions
+patch=1,EE,00574194,extended,0000000D
+
+[Unlock All Lucia Must Die Missions]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Lucia Must Die Missions
+// Unlock All Lucia Must Die Missions
+patch=1,EE,00574195,extended,0000000D
+
+[Max Throwing Daggers Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Throwing Daggers Level
+// Max Throwing Daggers Level
+patch=1,EE,0056FD76,extended,00000002
+
+[Max Darts Guns Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Darts Guns Level
+// Max Darts Guns Level
+patch=1,EE,0056FD77,extended,00000002
+
+[Max Cranky Bomb Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cranky Bomb Level
+// Max Cranky Bomb Level
+patch=1,EE,0056FD78,extended,00000002
+
+[Max Bow Gun Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bow Gun Level
+// Max Bow Gun Level
+patch=1,EE,0056FD79,extended,00000002
+
+[Max Cutlaseer Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cutlaseer Level
+// Max Cutlaseer Level
+patch=1,EE,0056FD7A,extended,00000004
+
+[Max Klyamoor Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Klyamoor Level
+// Max Klyamoor Level
+patch=1,EE,0056FD7B,extended,00000004
+
+[Max Zambak Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Zambak Level
+// Max Zambak Level
+patch=1,EE,0056FD7C,extended,00000004
+
+[Klyamoor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Klyamoor
+// Klyamoor
+patch=1,EE,00570BCB,extended,00000001
+
+[Zambak]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Zambak
+// Zambak
+patch=1,EE,00570BCC,extended,00000001
+
+[Darts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Darts
+// Darts
+patch=1,EE,00570BD2,extended,00000001
+
+[Cranky Bomb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cranky Bomb
+// Cranky Bomb
+patch=1,EE,00570BD3,extended,00000001
+
+[Bow Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bow Gun
+// Bow Gun
+patch=1,EE,00570BD4,extended,00000001

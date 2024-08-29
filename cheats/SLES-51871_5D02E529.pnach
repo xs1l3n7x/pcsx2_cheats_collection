@@ -1,0 +1,457 @@
+gametitle=Finding Nemo [SLES-51871] [5D02E529]
+
+[Max High Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max High Score
+// Max High Score
+patch=1,EE,9027D37C,extended,0C0A3D15
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,1043493C,extended,0000FFFF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,2043493C,extended,05F5E0FF
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,00434940,extended,00000001
+
+[Invincible]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincible
+// Invincible
+patch=1,EE,20441A04,extended,42C80000
+
+[Field Trip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Field Trip
+// Field Trip
+patch=1,EE,00438CB6,extended,000000FF
+
+[The Drop Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Drop Off
+// The Drop Off
+patch=1,EE,00438CC2,extended,000000FF
+
+[Mask Chase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mask Chase
+// Mask Chase
+patch=1,EE,00438CCE,extended,000000FF
+
+[Catch Dory]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Catch Dory
+// Catch Dory
+patch=1,EE,00438CDA,extended,000000FF
+
+[Minefield]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Minefield
+// Minefield
+patch=1,EE,00438CE6,extended,000000FF
+
+[Submarine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Submarine
+// Submarine
+patch=1,EE,00438CF2,extended,000000FF
+
+[Hide And Seek]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hide And Seek
+// Hide And Seek
+patch=1,EE,00438CFE,extended,000000FF
+
+[Mask Search]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mask Search
+// Mask Search
+patch=1,EE,00438D0A,extended,000000FF
+
+[Anglerish Chase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anglerish Chase
+// Anglerish Chase
+patch=1,EE,00438D16,extended,000000FF
+
+[Mount Wannahockaloogie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mount Wannahockaloogie
+// Mount Wannahockaloogie
+patch=1,EE,00438D22,extended,000000FF
+
+[Jellyfish Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jellyfish Race
+// Jellyfish Race
+patch=1,EE,00438D2E,extended,000000FF
+
+[Training With Gill]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Training With Gill
+// Training With Gill
+patch=1,EE,00438D3A,extended,000000FF
+
+[East Australian Current]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=East Australian Current
+// East Australian Current
+patch=1,EE,00438D46,extended,000000FF
+
+[The Plan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Plan
+// The Plan
+patch=1,EE,00438D52,extended,000000FF
+
+[Whale Chase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Whale Chase
+// Whale Chase
+patch=1,EE,00438D5E,extended,000000FF
+
+[Treatment Plant]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Treatment Plant
+// Treatment Plant
+patch=1,EE,00438D6A,extended,000000FF
+
+[Fishing Net Rescue]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fishing Net Rescue
+// Fishing Net Rescue
+patch=1,EE,00438D76,extended,000000FF
+
+[Going To School]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Going To School
+// Going To School
+patch=1,EE,20438CA4,extended,05F5E0FF
+
+[Field Trip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Field Trip
+// Field Trip
+patch=1,EE,20438CB0,extended,05F5E0FF
+
+[The Drop Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Drop Off
+// The Drop Off
+patch=1,EE,20438CBC,extended,05F5E0FF
+
+[Mask Chase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mask Chase
+// Mask Chase
+patch=1,EE,20438CC8,extended,05F5E0FF
+
+[Catch Dory]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Catch Dory
+// Catch Dory
+patch=1,EE,20438CD4,extended,05F5E0FF
+
+[Minefield]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Minefield
+// Minefield
+patch=1,EE,20438CE0,extended,05F5E0FF
+
+[Submarine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Submarine
+// Submarine
+patch=1,EE,20438CEC,extended,05F5E0FF
+
+[Hide And Seek]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hide And Seek
+// Hide And Seek
+patch=1,EE,20438CF8,extended,05F5E0FF
+
+[Mask Search]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mask Search
+// Mask Search
+patch=1,EE,20438D04,extended,05F5E0FF
+
+[Anglerish Chase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anglerish Chase
+// Anglerish Chase
+patch=1,EE,20438D10,extended,05F5E0FF
+
+[Mount Wannahockaloogie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mount Wannahockaloogie
+// Mount Wannahockaloogie
+patch=1,EE,20438D1C,extended,05F5E0FF
+
+[Jellyfish Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jellyfish Race
+// Jellyfish Race
+patch=1,EE,20438D28,extended,05F5E0FF
+
+[Training With Gill]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Training With Gill
+// Training With Gill
+patch=1,EE,20438D34,extended,05F5E0FF
+
+[East Australian Current]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=East Australian Current
+// East Australian Current
+patch=1,EE,20438D40,extended,05F5E0FF
+
+[The Plan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Plan
+// The Plan
+patch=1,EE,20438D4C,extended,05F5E0FF
+
+[Whale Chase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Whale Chase
+// Whale Chase
+patch=1,EE,20438D58,extended,05F5E0FF
+
+[Treatment Plant]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Treatment Plant
+// Treatment Plant
+patch=1,EE,20438D64,extended,05F5E0FF
+
+[Fishing Net Rescue]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fishing Net Rescue
+// Fishing Net Rescue
+patch=1,EE,20438D70,extended,05F5E0FF
+
+[Going To School]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Going To School
+// Going To School
+patch=1,EE,10438CA8,extended,0000FFFF
+
+[Going To School]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Going To School
+// Going To School
+patch=1,EE,10438D80,extended,0000FFFF
+
+[Field Trip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Field Trip
+// Field Trip
+patch=1,EE,10438CB4,extended,0000FFFF
+
+[Field Trip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Field Trip
+// Field Trip
+patch=1,EE,10438D8C,extended,0000FFFF
+
+[The Drop Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Drop Off
+// The Drop Off
+patch=1,EE,10438CC0,extended,0000FFFF
+
+[The Drop Off]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Drop Off
+// The Drop Off
+patch=1,EE,10438D98,extended,0000FFFF
+
+[Mask Chase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mask Chase
+// Mask Chase
+patch=1,EE,10438CCC,extended,0000FFFF
+
+[Mask Chase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mask Chase
+// Mask Chase
+patch=1,EE,10438DA4,extended,0000FFFF
+
+[Catch Dory]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Catch Dory
+// Catch Dory
+patch=1,EE,10438CD8,extended,0000FFFF
+
+[Catch Dory]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Catch Dory
+// Catch Dory
+patch=1,EE,10438DB0,extended,0000FFFF
+
+[Minefield]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Minefield
+// Minefield
+patch=1,EE,10438CE4,extended,0000FFFF
+
+[Minefield]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Minefield
+// Minefield
+patch=1,EE,10438DBC,extended,0000FFFF
+
+[Submarine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Submarine
+// Submarine
+patch=1,EE,10438CF0,extended,0000FFFF
+
+[Submarine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Submarine
+// Submarine
+patch=1,EE,10438DC8,extended,0000FFFF
+
+[Hide And Seek]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hide And Seek
+// Hide And Seek
+patch=1,EE,10438CFC,extended,0000FFFF
+
+[Hide And Seek]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hide And Seek
+// Hide And Seek
+patch=1,EE,10438DD4,extended,0000FFFF
+
+[Mask Search]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mask Search
+// Mask Search
+patch=1,EE,10438D08,extended,0000FFFF
+
+[Mask Search]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mask Search
+// Mask Search
+patch=1,EE,10438DE0,extended,0000FFFF
+
+[Anglerish Chase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anglerish Chase
+// Anglerish Chase
+patch=1,EE,10438D14,extended,0000FFFF
+
+[Anglerish Chase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anglerish Chase
+// Anglerish Chase
+patch=1,EE,10438DEC,extended,0000FFFF
+
+[Mount Wannahockaloogie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mount Wannahockaloogie
+// Mount Wannahockaloogie
+patch=1,EE,10438D20,extended,0000FFFF
+
+[Mount Wannahockaloogie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mount Wannahockaloogie
+// Mount Wannahockaloogie
+patch=1,EE,10438DF8,extended,0000FFFF
+
+[Jellyfish Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jellyfish Race
+// Jellyfish Race
+patch=1,EE,10438D2C,extended,0000FFFF
+
+[Jellyfish Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jellyfish Race
+// Jellyfish Race
+patch=1,EE,10438E04,extended,0000FFFF
+
+[Training With Gill]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Training With Gill
+// Training With Gill
+patch=1,EE,10438D38,extended,0000FFFF
+
+[Training With Gill]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Training With Gill
+// Training With Gill
+patch=1,EE,10438E10,extended,0000FFFF
+
+[East Australian Current]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=East Australian Current
+// East Australian Current
+patch=1,EE,10438D44,extended,0000FFFF
+
+[East Australian Current]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=East Australian Current
+// East Australian Current
+patch=1,EE,10438E1C,extended,0000FFFF
+
+[The Plan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Plan
+// The Plan
+patch=1,EE,10438D50,extended,0000FFFF
+
+[The Plan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Plan
+// The Plan
+patch=1,EE,10438E28,extended,0000FFFF
+
+[Whale Chase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Whale Chase
+// Whale Chase
+patch=1,EE,10438D5C,extended,0000FFFF
+
+[Whale Chase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Whale Chase
+// Whale Chase
+patch=1,EE,10438E34,extended,0000FFFF
+
+[Treatment Plant]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Treatment Plant
+// Treatment Plant
+patch=1,EE,10438D68,extended,0000FFFF
+
+[Treatment Plant]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Treatment Plant
+// Treatment Plant
+patch=1,EE,10438E40,extended,0000FFFF
+
+[Fishing Net Rescue]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fishing Net Rescue
+// Fishing Net Rescue
+patch=1,EE,10438D74,extended,0000FFFF
+
+[Fishing Net Rescue]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fishing Net Rescue
+// Fishing Net Rescue
+patch=1,EE,10438E4C,extended,0000FFFF

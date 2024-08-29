@@ -1,0 +1,1579 @@
+gametitle=Shining Tears [SLUS-21063] [95DABE1B]
+
+[Slot 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 50
+// Slot 50
+patch=1,EE,9011E7BC,extended,0C04900A
+
+[Infinite Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Gold
+// Infinite Gold
+patch=1,EE,104D4314,extended,0000FFFF
+
+[Max Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Gold
+// Max Gold
+patch=1,EE,204D4314,extended,05F5E0FF
+
+[Max Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Gold
+// Max Gold
+patch=1,EE,2019A838,extended,3C0205F5
+
+[Max Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Gold
+// Max Gold
+patch=1,EE,2019A83C,extended,3442E0FF
+
+[Infinite HP (Hero)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP (Hero)
+// Infinite HP (Hero)
+patch=1,EE,201914C4,extended,A48200E6
+
+[Infinite HP (Partner)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP (Partner)
+// Infinite HP (Partner)
+patch=1,EE,201914EC,extended,A48200E6
+
+[Infinite MP (Hero)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP (Hero)
+// Infinite MP (Hero)
+patch=1,EE,2022929C,extended,8C8100E4
+
+[Infinite MP (Hero)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP (Hero)
+// Infinite MP (Hero)
+patch=1,EE,202292A0,extended,AC8100E8
+
+[Infinite MP (Partner)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP (Partner)
+// Infinite MP (Partner)
+patch=1,EE,202292A8,extended,8EA100E4
+
+[Infinite MP (Partner)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP (Partner)
+// Infinite MP (Partner)
+patch=1,EE,202292AC,extended,AEA100E8
+
+[Max STR/ATK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max STR/ATK
+// Max STR/ATK
+patch=1,EE,104D2F38,extended,0000270F
+
+[Max AGI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max AGI
+// Max AGI
+patch=1,EE,104D2F3A,extended,0000270F
+
+[Max INT/MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max INT/MAG
+// Max INT/MAG
+patch=1,EE,104D2F3C,extended,0000270F
+
+[Max CON]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max CON
+// Max CON
+patch=1,EE,104D2F3E,extended,0000270F
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,104D2F46,extended,00000063
+
+[Infinite Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Skill Points
+// Infinite Skill Points
+patch=1,EE,104D2F48,extended,00000063
+
+[Infinite Status Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Status Points
+// Infinite Status Points
+patch=1,EE,104D2F4A,extended,00000063
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,204D2F4C,extended,000F423F
+
+[Skill 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 1
+// Skill 1
+patch=1,EE,004D2F98,extended,0000000A
+
+[Skill 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 2
+// Skill 2
+patch=1,EE,004D2F99,extended,0000000A
+
+[Skill 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 3
+// Skill 3
+patch=1,EE,004D2F9A,extended,0000000A
+
+[Skill 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 4
+// Skill 4
+patch=1,EE,004D2F9B,extended,0000000A
+
+[Skill 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 5
+// Skill 5
+patch=1,EE,004D2F9C,extended,0000000A
+
+[Skill 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 6
+// Skill 6
+patch=1,EE,004D2F9D,extended,0000000A
+
+[Skill 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 7
+// Skill 7
+patch=1,EE,004D2F9E,extended,0000000A
+
+[Skill 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 8
+// Skill 8
+patch=1,EE,004D2F9F,extended,0000000A
+
+[Skill 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 9
+// Skill 9
+patch=1,EE,004D2FA0,extended,0000000A
+
+[Skill 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 10
+// Skill 10
+patch=1,EE,004D2FA1,extended,0000000A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D2F98,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D2F9C,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,104D2FA0,extended,00000A0A
+
+[Max STR/ATK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max STR/ATK
+// Max STR/ATK
+patch=1,EE,104D3038,extended,0000270F
+
+[Max AGI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max AGI
+// Max AGI
+patch=1,EE,104D303A,extended,0000270F
+
+[Max INT/MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max INT/MAG
+// Max INT/MAG
+patch=1,EE,104D303C,extended,0000270F
+
+[Max CON]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max CON
+// Max CON
+patch=1,EE,104D303E,extended,0000270F
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,104D3046,extended,00000063
+
+[Infinite Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Skill Points
+// Infinite Skill Points
+patch=1,EE,104D3048,extended,00000063
+
+[Infinite Status Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Status Points
+// Infinite Status Points
+patch=1,EE,104D304A,extended,00000063
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,204D304C,extended,000F423F
+
+[Skill 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 1
+// Skill 1
+patch=1,EE,004D3098,extended,0000000A
+
+[Skill 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 2
+// Skill 2
+patch=1,EE,004D3099,extended,0000000A
+
+[Skill 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 3
+// Skill 3
+patch=1,EE,004D309A,extended,0000000A
+
+[Skill 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 4
+// Skill 4
+patch=1,EE,004D309B,extended,0000000A
+
+[Skill 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 5
+// Skill 5
+patch=1,EE,004D309C,extended,0000000A
+
+[Skill 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 6
+// Skill 6
+patch=1,EE,004D309D,extended,0000000A
+
+[Skill 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 7
+// Skill 7
+patch=1,EE,004D309E,extended,0000000A
+
+[Skill 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 8
+// Skill 8
+patch=1,EE,004D309F,extended,0000000A
+
+[Skill 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 9
+// Skill 9
+patch=1,EE,004D30A0,extended,0000000A
+
+[Skill 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 10
+// Skill 10
+patch=1,EE,004D30A1,extended,0000000A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D3098,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D309C,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,104D30A0,extended,00000A0A
+
+[Max STR/ATK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max STR/ATK
+// Max STR/ATK
+patch=1,EE,104D3138,extended,0000270F
+
+[Max AGI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max AGI
+// Max AGI
+patch=1,EE,104D313A,extended,0000270F
+
+[Max INT/MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max INT/MAG
+// Max INT/MAG
+patch=1,EE,104D313C,extended,0000270F
+
+[Max CON]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max CON
+// Max CON
+patch=1,EE,104D313E,extended,0000270F
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,104D3146,extended,00000063
+
+[Infinite Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Skill Points
+// Infinite Skill Points
+patch=1,EE,104D3148,extended,00000063
+
+[Infinite Status Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Status Points
+// Infinite Status Points
+patch=1,EE,104D314A,extended,00000063
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,204D314C,extended,000F423F
+
+[Skill 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 1
+// Skill 1
+patch=1,EE,004D3198,extended,0000000A
+
+[Skill 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 2
+// Skill 2
+patch=1,EE,004D3199,extended,0000000A
+
+[Skill 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 3
+// Skill 3
+patch=1,EE,004D319A,extended,0000000A
+
+[Skill 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 4
+// Skill 4
+patch=1,EE,004D319B,extended,0000000A
+
+[Skill 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 5
+// Skill 5
+patch=1,EE,004D319C,extended,0000000A
+
+[Skill 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 6
+// Skill 6
+patch=1,EE,004D319D,extended,0000000A
+
+[Skill 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 7
+// Skill 7
+patch=1,EE,004D319E,extended,0000000A
+
+[Skill 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 8
+// Skill 8
+patch=1,EE,004D319F,extended,0000000A
+
+[Skill 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 9
+// Skill 9
+patch=1,EE,004D31A0,extended,0000000A
+
+[Skill 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 10
+// Skill 10
+patch=1,EE,004D31A1,extended,0000000A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D3198,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D319C,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,104D31A0,extended,00000A0A
+
+[Max STR/ATK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max STR/ATK
+// Max STR/ATK
+patch=1,EE,104D3238,extended,0000270F
+
+[Max AGI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max AGI
+// Max AGI
+patch=1,EE,104D323A,extended,0000270F
+
+[Max INT/MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max INT/MAG
+// Max INT/MAG
+patch=1,EE,104D323C,extended,0000270F
+
+[Max CON]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max CON
+// Max CON
+patch=1,EE,104D323E,extended,0000270F
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,104D3246,extended,00000063
+
+[Infinite Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Skill Points
+// Infinite Skill Points
+patch=1,EE,104D3248,extended,00000063
+
+[Infinite Status Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Status Points
+// Infinite Status Points
+patch=1,EE,104D324A,extended,00000063
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,204D324C,extended,000F423F
+
+[Skill 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 1
+// Skill 1
+patch=1,EE,004D3298,extended,0000000A
+
+[Skill 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 2
+// Skill 2
+patch=1,EE,004D3299,extended,0000000A
+
+[Skill 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 3
+// Skill 3
+patch=1,EE,004D329A,extended,0000000A
+
+[Skill 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 4
+// Skill 4
+patch=1,EE,004D329B,extended,0000000A
+
+[Skill 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 5
+// Skill 5
+patch=1,EE,004D329C,extended,0000000A
+
+[Skill 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 6
+// Skill 6
+patch=1,EE,004D329D,extended,0000000A
+
+[Skill 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 7
+// Skill 7
+patch=1,EE,004D329E,extended,0000000A
+
+[Skill 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 8
+// Skill 8
+patch=1,EE,004D329F,extended,0000000A
+
+[Skill 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 9
+// Skill 9
+patch=1,EE,004D32A0,extended,0000000A
+
+[Skill 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 10
+// Skill 10
+patch=1,EE,004D32A1,extended,0000000A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D3298,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D329C,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,104D32A0,extended,00000A0A
+
+[Max STR/ATK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max STR/ATK
+// Max STR/ATK
+patch=1,EE,104D3338,extended,0000270F
+
+[Max AGI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max AGI
+// Max AGI
+patch=1,EE,104D333A,extended,0000270F
+
+[Max INT/MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max INT/MAG
+// Max INT/MAG
+patch=1,EE,104D333C,extended,0000270F
+
+[Max CON]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max CON
+// Max CON
+patch=1,EE,104D333E,extended,0000270F
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,104D3346,extended,00000063
+
+[Infinite Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Skill Points
+// Infinite Skill Points
+patch=1,EE,104D3348,extended,00000063
+
+[Infinite Status Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Status Points
+// Infinite Status Points
+patch=1,EE,104D334A,extended,00000063
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,204D334C,extended,000F423F
+
+[Skill 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 1
+// Skill 1
+patch=1,EE,004D3398,extended,0000000A
+
+[Skill 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 2
+// Skill 2
+patch=1,EE,004D3399,extended,0000000A
+
+[Skill 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 3
+// Skill 3
+patch=1,EE,004D339A,extended,0000000A
+
+[Skill 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 4
+// Skill 4
+patch=1,EE,004D339B,extended,0000000A
+
+[Skill 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 5
+// Skill 5
+patch=1,EE,004D339C,extended,0000000A
+
+[Skill 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 6
+// Skill 6
+patch=1,EE,004D339D,extended,0000000A
+
+[Skill 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 7
+// Skill 7
+patch=1,EE,004D339E,extended,0000000A
+
+[Skill 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 8
+// Skill 8
+patch=1,EE,004D339F,extended,0000000A
+
+[Skill 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 9
+// Skill 9
+patch=1,EE,004D33A0,extended,0000000A
+
+[Skill 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 10
+// Skill 10
+patch=1,EE,004D33A1,extended,0000000A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D3398,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D339C,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,104D33A0,extended,00000A0A
+
+[Max STR/ATK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max STR/ATK
+// Max STR/ATK
+patch=1,EE,104D3438,extended,0000270F
+
+[Max AGI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max AGI
+// Max AGI
+patch=1,EE,104D343A,extended,0000270F
+
+[Max INT/MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max INT/MAG
+// Max INT/MAG
+patch=1,EE,104D343C,extended,0000270F
+
+[Max CON]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max CON
+// Max CON
+patch=1,EE,104D343E,extended,0000270F
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,104D3446,extended,00000063
+
+[Infinite Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Skill Points
+// Infinite Skill Points
+patch=1,EE,104D3448,extended,00000063
+
+[Infinite Status Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Status Points
+// Infinite Status Points
+patch=1,EE,104D344A,extended,00000063
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,204D344C,extended,000F423F
+
+[Skill 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 1
+// Skill 1
+patch=1,EE,004D3498,extended,0000000A
+
+[Skill 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 2
+// Skill 2
+patch=1,EE,004D3499,extended,0000000A
+
+[Skill 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 3
+// Skill 3
+patch=1,EE,004D349A,extended,0000000A
+
+[Skill 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 4
+// Skill 4
+patch=1,EE,004D349B,extended,0000000A
+
+[Skill 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 5
+// Skill 5
+patch=1,EE,004D349C,extended,0000000A
+
+[Skill 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 6
+// Skill 6
+patch=1,EE,004D349D,extended,0000000A
+
+[Skill 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 7
+// Skill 7
+patch=1,EE,004D349E,extended,0000000A
+
+[Skill 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 8
+// Skill 8
+patch=1,EE,004D349F,extended,0000000A
+
+[Skill 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 9
+// Skill 9
+patch=1,EE,004D34A0,extended,0000000A
+
+[Skill 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 10
+// Skill 10
+patch=1,EE,004D34A1,extended,0000000A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D3498,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D349C,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,104D34A0,extended,00000A0A
+
+[Max STR/ATK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max STR/ATK
+// Max STR/ATK
+patch=1,EE,104D3538,extended,0000270F
+
+[Max AGI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max AGI
+// Max AGI
+patch=1,EE,104D353A,extended,0000270F
+
+[Max INT/MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max INT/MAG
+// Max INT/MAG
+patch=1,EE,104D353C,extended,0000270F
+
+[Max CON]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max CON
+// Max CON
+patch=1,EE,104D353E,extended,0000270F
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,104D3546,extended,00000063
+
+[Infinite Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Skill Points
+// Infinite Skill Points
+patch=1,EE,104D3548,extended,00000063
+
+[Infinite Status Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Status Points
+// Infinite Status Points
+patch=1,EE,104D354A,extended,00000063
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,204D354C,extended,000F423F
+
+[Skill 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 1
+// Skill 1
+patch=1,EE,004D3598,extended,0000000A
+
+[Skill 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 2
+// Skill 2
+patch=1,EE,004D3599,extended,0000000A
+
+[Skill 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 3
+// Skill 3
+patch=1,EE,004D359A,extended,0000000A
+
+[Skill 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 4
+// Skill 4
+patch=1,EE,004D359B,extended,0000000A
+
+[Skill 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 5
+// Skill 5
+patch=1,EE,004D359C,extended,0000000A
+
+[Skill 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 6
+// Skill 6
+patch=1,EE,004D359D,extended,0000000A
+
+[Skill 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 7
+// Skill 7
+patch=1,EE,004D359E,extended,0000000A
+
+[Skill 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 8
+// Skill 8
+patch=1,EE,004D359F,extended,0000000A
+
+[Skill 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 9
+// Skill 9
+patch=1,EE,004D35A0,extended,0000000A
+
+[Skill 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 10
+// Skill 10
+patch=1,EE,004D35A1,extended,0000000A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D3598,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D359C,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,104D35A0,extended,00000A0A
+
+[Max STR/ATK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max STR/ATK
+// Max STR/ATK
+patch=1,EE,104D3638,extended,0000270F
+
+[Max AGI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max AGI
+// Max AGI
+patch=1,EE,104D363A,extended,0000270F
+
+[Max INT/MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max INT/MAG
+// Max INT/MAG
+patch=1,EE,104D363C,extended,0000270F
+
+[Max CON]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max CON
+// Max CON
+patch=1,EE,104D363E,extended,0000270F
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,104D3646,extended,00000063
+
+[Infinite Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Skill Points
+// Infinite Skill Points
+patch=1,EE,104D3648,extended,00000063
+
+[Infinite Status Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Status Points
+// Infinite Status Points
+patch=1,EE,104D364A,extended,00000063
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,204D364C,extended,000F423F
+
+[Skill 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 1
+// Skill 1
+patch=1,EE,004D3698,extended,0000000A
+
+[Skill 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 2
+// Skill 2
+patch=1,EE,004D3699,extended,0000000A
+
+[Skill 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 3
+// Skill 3
+patch=1,EE,004D369A,extended,0000000A
+
+[Skill 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 4
+// Skill 4
+patch=1,EE,004D369B,extended,0000000A
+
+[Skill 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 5
+// Skill 5
+patch=1,EE,004D369C,extended,0000000A
+
+[Skill 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 6
+// Skill 6
+patch=1,EE,004D369D,extended,0000000A
+
+[Skill 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 7
+// Skill 7
+patch=1,EE,004D369E,extended,0000000A
+
+[Skill 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 8
+// Skill 8
+patch=1,EE,004D369F,extended,0000000A
+
+[Skill 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 9
+// Skill 9
+patch=1,EE,004D36A0,extended,0000000A
+
+[Skill 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 10
+// Skill 10
+patch=1,EE,004D36A1,extended,0000000A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D3698,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D369C,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,104D36A0,extended,00000A0A
+
+[Max STR/ATK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max STR/ATK
+// Max STR/ATK
+patch=1,EE,104D3738,extended,0000270F
+
+[Max AGI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max AGI
+// Max AGI
+patch=1,EE,104D373A,extended,0000270F
+
+[Max INT/MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max INT/MAG
+// Max INT/MAG
+patch=1,EE,104D373C,extended,0000270F
+
+[Max CON]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max CON
+// Max CON
+patch=1,EE,104D373E,extended,0000270F
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,104D3746,extended,00000063
+
+[Infinite Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Skill Points
+// Infinite Skill Points
+patch=1,EE,104D3748,extended,00000063
+
+[Infinite Status Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Status Points
+// Infinite Status Points
+patch=1,EE,104D374A,extended,00000063
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,204D374C,extended,000F423F
+
+[Skill 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 1
+// Skill 1
+patch=1,EE,004D3798,extended,0000000A
+
+[Skill 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 2
+// Skill 2
+patch=1,EE,004D3799,extended,0000000A
+
+[Skill 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 3
+// Skill 3
+patch=1,EE,004D379A,extended,0000000A
+
+[Skill 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 4
+// Skill 4
+patch=1,EE,004D379B,extended,0000000A
+
+[Skill 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 5
+// Skill 5
+patch=1,EE,004D379C,extended,0000000A
+
+[Skill 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 6
+// Skill 6
+patch=1,EE,004D379D,extended,0000000A
+
+[Skill 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 7
+// Skill 7
+patch=1,EE,004D379E,extended,0000000A
+
+[Skill 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 8
+// Skill 8
+patch=1,EE,004D379F,extended,0000000A
+
+[Skill 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 9
+// Skill 9
+patch=1,EE,004D37A0,extended,0000000A
+
+[Skill 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 10
+// Skill 10
+patch=1,EE,004D37A1,extended,0000000A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D3798,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D379C,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,104D37A0,extended,00000A0A
+
+[Max STR/ATK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max STR/ATK
+// Max STR/ATK
+patch=1,EE,104D3838,extended,0000270F
+
+[Max AGI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max AGI
+// Max AGI
+patch=1,EE,104D383A,extended,0000270F
+
+[Max INT/MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max INT/MAG
+// Max INT/MAG
+patch=1,EE,104D383C,extended,0000270F
+
+[Max CON]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max CON
+// Max CON
+patch=1,EE,104D383E,extended,0000270F
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,104D3846,extended,00000063
+
+[Infinite Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Skill Points
+// Infinite Skill Points
+patch=1,EE,104D3848,extended,00000063
+
+[Infinite Status Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Status Points
+// Infinite Status Points
+patch=1,EE,104D384A,extended,00000063
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,204D384C,extended,000F423F
+
+[Skill 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 1
+// Skill 1
+patch=1,EE,004D3898,extended,0000000A
+
+[Skill 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 2
+// Skill 2
+patch=1,EE,004D3899,extended,0000000A
+
+[Skill 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 3
+// Skill 3
+patch=1,EE,004D389A,extended,0000000A
+
+[Skill 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 4
+// Skill 4
+patch=1,EE,004D389B,extended,0000000A
+
+[Skill 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 5
+// Skill 5
+patch=1,EE,004D389C,extended,0000000A
+
+[Skill 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 6
+// Skill 6
+patch=1,EE,004D389D,extended,0000000A
+
+[Skill 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 7
+// Skill 7
+patch=1,EE,004D389E,extended,0000000A
+
+[Skill 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 8
+// Skill 8
+patch=1,EE,004D389F,extended,0000000A
+
+[Skill 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 9
+// Skill 9
+patch=1,EE,004D38A0,extended,0000000A
+
+[Skill 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 10
+// Skill 10
+patch=1,EE,004D38A1,extended,0000000A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D3898,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D389C,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,104D38A0,extended,00000A0A
+
+[Max STR/ATK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max STR/ATK
+// Max STR/ATK
+patch=1,EE,104D3938,extended,0000270F
+
+[Max AGI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max AGI
+// Max AGI
+patch=1,EE,104D393A,extended,0000270F
+
+[Max INT/MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max INT/MAG
+// Max INT/MAG
+patch=1,EE,104D393C,extended,0000270F
+
+[Max CON]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max CON
+// Max CON
+patch=1,EE,104D393E,extended,0000270F
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,104D3946,extended,00000063
+
+[Infinite Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Skill Points
+// Infinite Skill Points
+patch=1,EE,104D3948,extended,00000063
+
+[Infinite Status Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Status Points
+// Infinite Status Points
+patch=1,EE,104D394A,extended,00000063
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,204D394C,extended,000F423F
+
+[Skill 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 1
+// Skill 1
+patch=1,EE,004D3998,extended,0000000A
+
+[Skill 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 2
+// Skill 2
+patch=1,EE,004D3999,extended,0000000A
+
+[Skill 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 3
+// Skill 3
+patch=1,EE,004D399A,extended,0000000A
+
+[Skill 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 4
+// Skill 4
+patch=1,EE,004D399B,extended,0000000A
+
+[Skill 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 5
+// Skill 5
+patch=1,EE,004D399C,extended,0000000A
+
+[Skill 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 6
+// Skill 6
+patch=1,EE,004D399D,extended,0000000A
+
+[Skill 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 7
+// Skill 7
+patch=1,EE,004D399E,extended,0000000A
+
+[Skill 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 8
+// Skill 8
+patch=1,EE,004D399F,extended,0000000A
+
+[Skill 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 9
+// Skill 9
+patch=1,EE,004D39A0,extended,0000000A
+
+[Skill 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 10
+// Skill 10
+patch=1,EE,004D39A1,extended,0000000A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D3998,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D399C,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,104D39A0,extended,00000A0A
+
+[Max STR/ATK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max STR/ATK
+// Max STR/ATK
+patch=1,EE,104D3A38,extended,0000270F
+
+[Max AGI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max AGI
+// Max AGI
+patch=1,EE,104D3A3A,extended,0000270F
+
+[Max INT/MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max INT/MAG
+// Max INT/MAG
+patch=1,EE,104D3A3C,extended,0000270F
+
+[Max CON]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max CON
+// Max CON
+patch=1,EE,104D3A3E,extended,0000270F
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,104D3A46,extended,00000063
+
+[Infinite Skill Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Skill Points
+// Infinite Skill Points
+patch=1,EE,104D3A48,extended,00000063
+
+[Infinite Status Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Status Points
+// Infinite Status Points
+patch=1,EE,104D3A4A,extended,00000063
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,204D3A4C,extended,000F423F
+
+[Skill 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 1
+// Skill 1
+patch=1,EE,004D3A98,extended,0000000A
+
+[Skill 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 2
+// Skill 2
+patch=1,EE,004D3A99,extended,0000000A
+
+[Skill 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 3
+// Skill 3
+patch=1,EE,004D3A9A,extended,0000000A
+
+[Skill 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 4
+// Skill 4
+patch=1,EE,004D3A9B,extended,0000000A
+
+[Skill 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 5
+// Skill 5
+patch=1,EE,004D3A9C,extended,0000000A
+
+[Skill 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 6
+// Skill 6
+patch=1,EE,004D3A9D,extended,0000000A
+
+[Skill 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 7
+// Skill 7
+patch=1,EE,004D3A9E,extended,0000000A
+
+[Skill 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 8
+// Skill 8
+patch=1,EE,004D3A9F,extended,0000000A
+
+[Skill 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 9
+// Skill 9
+patch=1,EE,004D3AA0,extended,0000000A
+
+[Skill 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 10
+// Skill 10
+patch=1,EE,004D3AA1,extended,0000000A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D3A98,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,204D3A9C,extended,0A0A0A0A
+
+[All Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Skills
+// All Skills
+patch=1,EE,104D3AA0,extended,00000A0A

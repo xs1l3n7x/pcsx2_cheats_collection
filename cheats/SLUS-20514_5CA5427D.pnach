@@ -1,0 +1,229 @@
+gametitle=Silent Scope 3 [SLUS-20514] [5CA5427D]
+
+[Have All Extra Options]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Extra Options
+// Have All Extra Options
+patch=1,EE,9010C18C,extended,0C04570E
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,10530CD4,extended,0000FFFF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20530CD4,extended,05F5E0FF
+
+[Always Low Mission Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Mission Time
+// Always Low Mission Time
+patch=1,EE,20530CB8,extended,00000000
+
+[Better Rank]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Better Rank
+// Better Rank
+patch=1,EE,10530D0E,extended,00000001
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20530D60,extended,3F800000
+
+[Infinite Bullets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Bullets
+// Infinite Bullets
+patch=1,EE,10530D86,extended,00000006
+
+[Infinite Critical Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Critical Time
+// Infinite Critical Time
+patch=1,EE,10530D9C,extended,00000016
+
+[Infinite Credits (Silent Scope EX-Story Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Credits (Silent Scope EX-Story Mode)
+// Infinite Credits (Silent Scope EX-Story Mode)
+patch=1,EE,1056BD50,extended,00000063
+
+[Extra Credits (Silent Scope EX-Story Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Credits (Silent Scope EX-Story Mode)
+// Extra Credits (Silent Scope EX-Story Mode)
+patch=1,EE,101F3908,extended,00000001
+
+[Instant Death (All Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Death (All Enemies)
+// Instant Death (All Enemies)
+patch=1,EE,201C1EB8,extended,24030000
+
+[Instant Death (All Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Death (All Enemies)
+// Instant Death (All Enemies)
+patch=1,EE,201C1EC0,extended,A603000A
+
+[Press {SELECT} To Kill Any Enemy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {SELECT} To Kill Any Enemy
+// Press {SELECT} To Kill Any Enemy
+patch=1,EE,201C1EC0,extended,A603000A
+
+[Press {SELECT} To Kill Any Enemy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {SELECT} To Kill Any Enemy
+// Press {SELECT} To Kill Any Enemy
+patch=1,EE,D05803C6,extended,0010FFFE
+
+[Press {SELECT} To Kill Any Enemy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {SELECT} To Kill Any Enemy
+// Press {SELECT} To Kill Any Enemy
+patch=1,EE,201C1EB8,extended,8603000A
+
+[Press {SELECT} To Kill Any Enemy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {SELECT} To Kill Any Enemy
+// Press {SELECT} To Kill Any Enemy
+patch=1,EE,D05803C6,extended,0000FFFE
+
+[Press {SELECT} To Kill Any Enemy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {SELECT} To Kill Any Enemy
+// Press {SELECT} To Kill Any Enemy
+patch=1,EE,201C1EB8,extended,24030000
+
+[Max Cleared Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cleared Score
+// Max Cleared Score
+patch=1,EE,20597320,extended,05F5E0FF
+
+[Always Low Cleared Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Cleared Time
+// Always Low Cleared Time
+patch=1,EE,20597324,extended,00000000
+
+[Have Finished]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Finished
+// Have Finished
+patch=1,EE,2059732C,extended,000000FF
+
+[Max Cleared Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cleared Score
+// Max Cleared Score
+patch=1,EE,20597330,extended,05F5E0FF
+
+[Always Low Cleared Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Cleared Time
+// Always Low Cleared Time
+patch=1,EE,20597334,extended,00000000
+
+[Have Finished]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Finished
+// Have Finished
+patch=1,EE,2059733C,extended,000000FF
+
+[Max Cleared Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cleared Score
+// Max Cleared Score
+patch=1,EE,20597340,extended,05F5E0FF
+
+[Always Low Cleared Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Cleared Time
+// Always Low Cleared Time
+patch=1,EE,20597344,extended,00000000
+
+[Have Finished]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Finished
+// Have Finished
+patch=1,EE,2059734C,extended,000000FF
+
+[Max Cleared Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cleared Score
+// Max Cleared Score
+patch=1,EE,20597350,extended,05F5E0FF
+
+[Always Low Cleared Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Cleared Time
+// Always Low Cleared Time
+patch=1,EE,20597354,extended,00000000
+
+[Have Finished]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Finished
+// Have Finished
+patch=1,EE,2059735C,extended,000000FF
+
+[Max Cleared Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cleared Score
+// Max Cleared Score
+patch=1,EE,20597370,extended,05F5E0FF
+
+[Always Low Cleared Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Cleared Time
+// Always Low Cleared Time
+patch=1,EE,20597374,extended,00000000
+
+[Have Finished]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Finished
+// Have Finished
+patch=1,EE,2059737C,extended,000000FF
+
+[Max Cleared Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cleared Score
+// Max Cleared Score
+patch=1,EE,20597380,extended,05F5E0FF
+
+[Always Low Cleared Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Cleared Time
+// Always Low Cleared Time
+patch=1,EE,20597384,extended,00000000
+
+[Have Finished]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Finished
+// Have Finished
+patch=1,EE,2059738C,extended,000000FF
+
+[Max Cleared Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cleared Score
+// Max Cleared Score
+patch=1,EE,20597390,extended,05F5E0FF
+
+[Always Low Cleared Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Cleared Time
+// Always Low Cleared Time
+patch=1,EE,20597394,extended,00000000
+
+[Have Finished]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Finished
+// Have Finished
+patch=1,EE,2059739C,extended,000000FF

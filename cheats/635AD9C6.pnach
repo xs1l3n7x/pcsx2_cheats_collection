@@ -1,0 +1,55 @@
+gametitle=Nascar Thunder 2004 [UNKNOWN] [635AD9C6]
+
+[Maxlvl]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Maxlvl
+// Maxlvl
+patch=1,EE,76073D00,extended,00000000
+
+[Maxlvl]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Maxlvl
+// Maxlvl
+patch=1,EE,28AE2E86,extended,0CA52C0E
+
+[Maxhp]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Maxhp
+// Maxhp
+patch=1,EE,76069540,extended,00000000
+
+[Maxhp]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Maxhp
+// Maxhp
+patch=1,EE,28AE2EA9,extended,1CD1A03E
+
+[MAXsp]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=MAXsp
+// MAXsp
+patch=1,EE,760DD290,extended,00000000
+
+[MAXsp]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=MAXsp
+// MAXsp
+patch=1,EE,28AE2E55,extended,1CD1A03E
+
+[Max stats]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max stats
+// Max stats
+patch=1,EE,760889A0,extended,00000000
+
+[Max stats]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max stats
+// Max stats
+patch=1,EE,48AE2EFB,extended,0CA37A56
+
+[Max stats]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max stats
+// Max stats
+patch=1,EE,0C18B054,extended,0CA57A65

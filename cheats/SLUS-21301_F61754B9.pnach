@@ -1,0 +1,55 @@
+gametitle=World Series Of Poker [SLUS-21301] [F61754B9]
+
+[2 Strikes And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Strikes And You Are Out
+// 2 Strikes And You Are Out
+patch=1,EE,9031F8F0,extended,00832021
+
+[Money Doesnt Decrease When Betting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Money Doesnt Decrease When Betting
+// Money Doesnt Decrease When Betting
+patch=1,EE,20154E88,extended,00000000
+
+[Max Current Bankroll]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Current Bankroll
+// Max Current Bankroll
+patch=1,EE,205F9648,extended,05F5E0FF
+
+[Max Tournaments Entered (Current Year)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tournaments Entered (Current Year)
+// Max Tournaments Entered (Current Year)
+patch=1,EE,205F99E0,extended,05F5E0FF
+
+[Max Tournaments Entered (Career)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tournaments Entered (Career)
+// Max Tournaments Entered (Career)
+patch=1,EE,205F99A4,extended,05F5E0FF
+
+[Max Final Tables (Current Year)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Final Tables (Current Year)
+// Max Final Tables (Current Year)
+patch=1,EE,205F9A08,extended,05F5E0FF
+
+[Max Final Tables (Career)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Final Tables (Career)
+// Max Final Tables (Career)
+patch=1,EE,205F99CC,extended,05F5E0FF
+
+[Max Tournament Wins (Current Year)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tournament Wins (Current Year)
+// Max Tournament Wins (Current Year)
+patch=1,EE,205F99F4,extended,05F5E0FF
+
+[Max Tournament Wins (Career)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tournament Wins (Career)
+// Max Tournament Wins (Career)
+patch=1,EE,205F99A8,extended,05F5E0FF

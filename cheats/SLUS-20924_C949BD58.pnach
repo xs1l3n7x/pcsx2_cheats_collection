@@ -1,0 +1,133 @@
+gametitle=Duel Masters [SLUS-20924] [C949BD58]
+
+[Max Dc Gold Esamon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Dc Gold Esamon
+// Max Dc Gold Esamon
+patch=1,EE,9011C624,extended,0C0A4C78
+
+[Infinite Turns (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Turns (Both Players)
+// Infinite Turns (Both Players)
+patch=1,EE,201F0E2C,extended,00000000
+
+[Infinite Reputation]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Reputation
+// Infinite Reputation
+patch=1,EE,10995A84,extended,0000FFFF
+
+[Max Reputation]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Reputation
+// Max Reputation
+patch=1,EE,20995A84,extended,05F5E0FF
+
+[Infinite Mana P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Mana P1
+// Infinite Mana P1
+patch=1,EE,20977AA4,extended,41700000
+
+[No Mana P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mana P1
+// No Mana P1
+patch=1,EE,20977AA4,extended,00000000
+
+[Max Mana P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mana P1
+// Max Mana P1
+patch=1,EE,20977AA8,extended,41700000
+
+[No Mana P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mana P1
+// No Mana P1
+patch=1,EE,20977AA8,extended,00000000
+
+[Infinite Turns P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Turns P1
+// Infinite Turns P1
+patch=1,EE,20977B98,extended,00000063
+
+[Only 1 Turn Left P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Turn Left P1
+// Only 1 Turn Left P1
+patch=1,EE,D0977B98,extended,00300001
+
+[Only 1 Turn Left P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Turn Left P1
+// Only 1 Turn Left P1
+patch=1,EE,20977B98,extended,00000001
+
+[Infinite Shields P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Shields P1
+// Infinite Shields P1
+patch=1,EE,20977C18,extended,0000000A
+
+[No Shields P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Shields P1
+// No Shields P1
+patch=1,EE,20977C18,extended,00000000
+
+[Infinite Mana P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Mana P2
+// Infinite Mana P2
+patch=1,EE,20977AC0,extended,41700000
+
+[No Mana P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mana P2
+// No Mana P2
+patch=1,EE,20977AC0,extended,00000000
+
+[Max Mana P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Mana P2
+// Max Mana P2
+patch=1,EE,20977AC4,extended,41700000
+
+[No Mana P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Mana P2
+// No Mana P2
+patch=1,EE,20977AC4,extended,00000000
+
+[Infinite Turns P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Turns P2
+// Infinite Turns P2
+patch=1,EE,20977BD8,extended,00000063
+
+[Only 1 Turn Left P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Turn Left P2
+// Only 1 Turn Left P2
+patch=1,EE,D0977BD8,extended,00300001
+
+[Only 1 Turn Left P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Only 1 Turn Left P2
+// Only 1 Turn Left P2
+patch=1,EE,20977BD8,extended,00000001
+
+[Infinite Shields P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Shields P2
+// Infinite Shields P2
+patch=1,EE,20977C58,extended,0000000A
+
+[No Shields P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Shields P2
+// No Shields P2
+patch=1,EE,20977C58,extended,00000000

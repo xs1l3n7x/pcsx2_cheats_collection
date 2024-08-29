@@ -1,0 +1,73 @@
+gametitle=Barbarian [SLES-50972] [5CCA0737]
+
+[Slot 64]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 64
+// Slot 64
+patch=1,EE,90258764,extended,0C09F49D
+
+[Infinite AP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite AP
+// Infinite AP
+patch=1,EE,20499D8C,extended,0000270F
+
+[Max Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Damage
+// Max Damage
+patch=1,EE,2048322C,extended,FFFFFFFF
+
+[Max Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Damage
+// Max Damage
+patch=1,EE,20483234,extended,0000000A
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,2048325C,extended,FFFFFFFF
+
+[Max Life]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life
+// Max Life
+patch=1,EE,20483264,extended,0000000A
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,2048328C,extended,FFFFFFFF
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,20483294,extended,0000000A
+
+[Max Magic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Magic
+// Max Magic
+patch=1,EE,204832BC,extended,FFFFFFFF
+
+[Max Magic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Magic
+// Max Magic
+patch=1,EE,204832C4,extended,0000000A
+
+[Max Lift]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Lift
+// Max Lift
+patch=1,EE,204832EC,extended,FFFFFFFF
+
+[Max Lift]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Lift
+// Max Lift
+patch=1,EE,204832F4,extended,0000000A

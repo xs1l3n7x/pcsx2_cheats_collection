@@ -1,0 +1,103 @@
+gametitle=Run Like Hell [SLUS-20037] [F802A575]
+
+[Invisible Character?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisible Character?
+// Invisible Character?
+patch=1,EE,90280A6C,extended,0C0A30AD
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,2014848C,extended,00000000
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,20148488,extended,00431021
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0220,extended,00A0802D
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0224,extended,2402012C
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0228,extended,03E00008
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C022C,extended,AE42026C
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2013F8AC,extended,0C030088
+
+[Infinite Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Armor
+// Infinite Armor
+patch=1,EE,20173B54,extended,2402000A
+
+[Infinite Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Armor
+// Infinite Armor
+patch=1,EE,20173B5C,extended,AC620224
+
+[View Weapon In Inventory For Max Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Weapon In Inventory For Max Damage
+// View Weapon In Inventory For Max Damage
+patch=1,EE,20178A14,extended,24820020
+
+[View Weapon In Inventory For Max Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Weapon In Inventory For Max Damage
+// View Weapon In Inventory For Max Damage
+patch=1,EE,20178A18,extended,AEA2002C
+
+[View Weapon In Inventory For Max Burst]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Weapon In Inventory For Max Burst
+// View Weapon In Inventory For Max Burst
+patch=1,EE,20178CC0,extended,AEA20048
+
+[View Weapon In Inventory For Max Clips]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Weapon In Inventory For Max Clips
+// View Weapon In Inventory For Max Clips
+patch=1,EE,200C0230,extended,8E820090
+
+[View Weapon In Inventory For Max Clips]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Weapon In Inventory For Max Clips
+// View Weapon In Inventory For Max Clips
+patch=1,EE,200C0234,extended,03E00008
+
+[View Weapon In Inventory For Max Clips]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Weapon In Inventory For Max Clips
+// View Weapon In Inventory For Max Clips
+patch=1,EE,200C0238,extended,AEA20044
+
+[View Weapon In Inventory For Max Clips]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Weapon In Inventory For Max Clips
+// View Weapon In Inventory For Max Clips
+patch=1,EE,20178B78,extended,0C03008C

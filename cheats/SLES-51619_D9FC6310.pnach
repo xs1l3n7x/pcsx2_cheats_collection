@@ -1,0 +1,199 @@
+gametitle=Clock Tower 3 [SLES-51619] [D9FC6310]
+
+[Never Reload With Max Clip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload With Max Clip
+// Never Reload With Max Clip
+patch=1,EE,9182452C,extended,0C60B66A
+
+[Always Empty Panic Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Empty Panic Meter
+// Always Empty Panic Meter
+patch=1,EE,21940E74,extended,00000000
+
+[Infinite Holy Water]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Holy Water
+// Infinite Holy Water
+patch=1,EE,21941288,extended,00000005
+
+[Infinite Health (Boss Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Boss Battle)
+// Infinite Health (Boss Battle)
+patch=1,EE,21A4C4E4,extended,00000320
+
+[Instant Boss Death (Boss Battles)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Boss Death (Boss Battles)
+// Instant Boss Death (Boss Battles)
+patch=1,EE,2187057C,extended,24020001
+
+[Have Lavender Water]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Lavender Water
+// Have Lavender Water
+patch=1,EE,2193F9A0,extended,00000001
+
+[Max Lavender Water]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Lavender Water
+// Max Lavender Water
+patch=1,EE,0192E829,extended,00000063
+
+[Have Sigil Stone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Sigil Stone
+// Have Sigil Stone
+patch=1,EE,2193F9A4,extended,00000002
+
+[Max Sigil Stone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Sigil Stone
+// Max Sigil Stone
+patch=1,EE,0192E841,extended,00000063
+
+[Have Invisibility Band]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Invisibility Band
+// Have Invisibility Band
+patch=1,EE,2193F9A8,extended,00000003
+
+[Max Invisibility Band]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Invisibility Band
+// Max Invisibility Band
+patch=1,EE,0192E859,extended,00000063
+
+[Max Repellant Arrows]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Repellant Arrows
+// Max Repellant Arrows
+patch=1,EE,2193F85C,extended,00000063
+
+[Max Binding Arrows]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Binding Arrows
+// Max Binding Arrows
+patch=1,EE,2193F860,extended,00000063
+
+[Killers Dont Come Around Much]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Killers Dont Come Around Much
+// Killers Dont Come Around Much
+patch=1,EE,21862170,extended,03E00008
+
+[Killers Dont Come Around Much]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Killers Dont Come Around Much
+// Killers Dont Come Around Much
+patch=1,EE,21862174,extended,00000000
+
+[P1 Press {R2}+Up To For Killers Leave You Alone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+Up To For Killers Leave You Alone
+// P1 Press {R2}+Up To For Killers Leave You Alone
+patch=1,EE,D193E602,extended,0000FDEF
+
+[P1 Press {R2}+Up To For Killers Leave You Alone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+Up To For Killers Leave You Alone
+// P1 Press {R2}+Up To For Killers Leave You Alone
+patch=1,EE,21864194,extended,00000000
+
+[P1 Press {R2}+Down To For Killers Hunt You Again]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+Down To For Killers Hunt You Again
+// P1 Press {R2}+Down To For Killers Hunt You Again
+patch=1,EE,D193E602,extended,0000FDBF
+
+[P1 Press {R2}+Down To For Killers Hunt You Again]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+Down To For Killers Hunt You Again
+// P1 Press {R2}+Down To For Killers Hunt You Again
+patch=1,EE,21864194,extended,0C61994C
+
+[Killers Don�t Follow You]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Killers Don�t Follow You
+// Killers Don�t Follow You
+patch=1,EE,2187E3D0,extended,03E00008
+
+[Killers Don�t Follow You]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Killers Don�t Follow You
+// Killers Don�t Follow You
+patch=1,EE,2187E3D4,extended,00000000
+
+[P1 Press {L1}+Up To Activate Walk Thru Walls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up To Activate Walk Thru Walls
+// P1 Press {L1}+Up To Activate Walk Thru Walls
+patch=1,EE,E002FEEF,extended,0193E602
+
+[P1 Press {L1}+Up To Activate Walk Thru Walls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up To Activate Walk Thru Walls
+// P1 Press {L1}+Up To Activate Walk Thru Walls
+patch=1,EE,218B1A40,extended,03E00008
+
+[P1 Press {L1}+Up To Activate Walk Thru Walls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up To Activate Walk Thru Walls
+// P1 Press {L1}+Up To Activate Walk Thru Walls
+patch=1,EE,218B1A44,extended,00000000
+
+[P1 Press {L1}+Down To Deactivate Walk Thru Walls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Deactivate Walk Thru Walls
+// P1 Press {L1}+Down To Deactivate Walk Thru Walls
+patch=1,EE,E002FEBF,extended,0193E602
+
+[P1 Press {L1}+Down To Deactivate Walk Thru Walls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Deactivate Walk Thru Walls
+// P1 Press {L1}+Down To Deactivate Walk Thru Walls
+patch=1,EE,218B1A40,extended,27BDFF30
+
+[P1 Press {L1}+Down To Deactivate Walk Thru Walls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Deactivate Walk Thru Walls
+// P1 Press {L1}+Down To Deactivate Walk Thru Walls
+patch=1,EE,218B1A44,extended,00051880
+
+[Cant Be Grabbed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cant Be Grabbed
+// Cant Be Grabbed
+patch=1,EE,218FBB50,extended,03E00008
+
+[Cant Be Grabbed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cant Be Grabbed
+// Cant Be Grabbed
+patch=1,EE,218FBB54,extended,00000000
+
+[Cant Be Hit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cant Be Hit
+// Cant Be Hit
+patch=1,EE,218FC2F0,extended,03E00008
+
+[Cant Be Hit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cant Be Hit
+// Cant Be Hit
+patch=1,EE,218FC2F4,extended,00000000
+
+[Infinite Repellant Arrows (Boss Battles)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Repellant Arrows (Boss Battles)
+// Infinite Repellant Arrows (Boss Battles)
+patch=1,EE,2193F790,extended,00000001
+
+[Infinite Binding Arrows (Boss Battles)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Binding Arrows (Boss Battles)
+// Infinite Binding Arrows (Boss Battles)
+patch=1,EE,2193F790,extended,00000002

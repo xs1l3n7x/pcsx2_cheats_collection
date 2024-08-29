@@ -1,0 +1,61 @@
+gametitle=ESPN NBA 2Night [SLES-50075] [68DAC75E]
+
+[Off. Awareness]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Off. Awareness
+// Off. Awareness
+patch=1,EE,9011259C,extended,0C048376
+
+[Huge Ball]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Ball
+// Huge Ball
+patch=1,EE,008310EC,extended,00000001
+
+[Light Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Light Mode
+// Light Mode
+patch=1,EE,008310EF,extended,00000001
+
+[Bigheads Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bigheads Mode
+// Bigheads Mode
+patch=1,EE,008310F0,extended,00000001
+
+[Bighands Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bighands Mode
+// Bighands Mode
+patch=1,EE,008310F1,extended,00000001
+
+[Bigfeet Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bigfeet Mode
+// Bigfeet Mode
+patch=1,EE,008310F2,extended,00000001
+
+[Flat Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flat Mode
+// Flat Mode
+patch=1,EE,008310F3,extended,00000001
+
+[Tiny Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiny Mode
+// Tiny Mode
+patch=1,EE,008310F4,extended,00000001
+
+[Spotlight Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spotlight Mode
+// Spotlight Mode
+patch=1,EE,008310F6,extended,00000001
+
+[Easy Dunks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Easy Dunks
+// Easy Dunks
+patch=1,EE,008310F7,extended,00000001

@@ -1,0 +1,223 @@
+gametitle=Gun [SLUS-21139] [4B80628D]
+
+[Guitar Hero II-Making Of Songs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guitar Hero II-Making Of Songs
+// Guitar Hero II-Making Of Songs
+patch=1,EE,9043B528,extended,0C116D01
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,20629634,extended,43480000
+
+[Infinite Cash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Cash
+// Infinite Cash
+patch=1,EE,1069FBD8,extended,0000FFFF
+
+[Max Cash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Cash
+// Max Cash
+patch=1,EE,2069FBD8,extended,05F5E0FF
+
+[Infinite Quickdraw]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Quickdraw
+// Infinite Quickdraw
+patch=1,EE,20828268,extended,3F800000
+
+[Infinite Quickdraw Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Quickdraw Usage
+// Infinite Quickdraw Usage
+patch=1,EE,2031454C,extended,00000000
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,2031AA68,extended,00000000
+
+[Max Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo
+// Max Infinite Ammo
+patch=1,EE,2031A9EC,extended,241003E7
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,2031A9EC,extended,02308021
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,2031BE18,extended,00000000
+
+[Infinite Whiskey]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Whiskey
+// Infinite Whiskey
+patch=1,EE,20315048,extended,00000000
+
+[Infinite Horse Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Horse Health
+// Infinite Horse Health
+patch=1,EE,202FBDF4,extended,00000000
+
+[Infinite Horse Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Horse Health
+// Infinite Horse Health
+patch=1,EE,202FBDFC,extended,00000000
+
+[Max Enemies Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Enemies Kills
+// Max Enemies Kills
+patch=1,EE,20670438,extended,05F5E0FF
+
+[No Enemies Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Enemies Kills
+// No Enemies Kills
+patch=1,EE,20670438,extended,00000000
+
+[Max Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Gold
+// Max Gold
+patch=1,EE,20670448,extended,0000002C
+
+[No Gold]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Gold
+// No Gold
+patch=1,EE,20670448,extended,00000000
+
+[Max Quickdraw Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Quickdraw Kills
+// Max Quickdraw Kills
+patch=1,EE,20670458,extended,05F5E0FF
+
+[No Quickdraw Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Quickdraw Kills
+// No Quickdraw Kills
+patch=1,EE,20670458,extended,00000000
+
+[Max Horse Trample]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horse Trample
+// Max Horse Trample
+patch=1,EE,20670468,extended,05F5E0FF
+
+[No Horse Trample]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Horse Trample
+// No Horse Trample
+patch=1,EE,20670468,extended,00000000
+
+[Max Burn Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Burn Kills
+// Max Burn Kills
+patch=1,EE,20670478,extended,05F5E0FF
+
+[No Burn Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Burn Kills
+// No Burn Kills
+patch=1,EE,20670478,extended,00000000
+
+[Max Horses Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horses Lost
+// Max Horses Lost
+patch=1,EE,20670488,extended,05F5E0FF
+
+[No Horses Lost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Horses Lost
+// No Horses Lost
+patch=1,EE,20670488,extended,00000000
+
+[Max Horses Killed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Horses Killed
+// Max Horses Killed
+patch=1,EE,20670498,extended,05F5E0FF
+
+[No Horses Killed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Horses Killed
+// No Horses Killed
+patch=1,EE,20670498,extended,00000000
+
+[Max Explosive Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Explosive Kills
+// Max Explosive Kills
+patch=1,EE,206704A8,extended,05F5E0FF
+
+[No Explosive Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Explosive Kills
+// No Explosive Kills
+patch=1,EE,206704A8,extended,00000000
+
+[Max Melee Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Melee Kills
+// Max Melee Kills
+patch=1,EE,206704B8,extended,05F5E0FF
+
+[No Melee Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Melee Kills
+// No Melee Kills
+patch=1,EE,206704B8,extended,00000000
+
+[Max Weapons Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Weapons Shot
+// Max Weapons Shot
+patch=1,EE,206704C8,extended,05F5E0FF
+
+[No Weapons Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Weapons Shot
+// No Weapons Shot
+patch=1,EE,206704C8,extended,00000000
+
+[Max Innocents Killed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Innocents Killed
+// Max Innocents Killed
+patch=1,EE,206704D8,extended,05F5E0FF
+
+[No Innocents Killed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Innocents Killed
+// No Innocents Killed
+patch=1,EE,206704D8,extended,00000000
+
+[Max Headshots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Headshots
+// Max Headshots
+patch=1,EE,20670508,extended,05F5E0FF
+
+[No Headshots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Headshots
+// No Headshots
+patch=1,EE,20670508,extended,00000000

@@ -1,0 +1,217 @@
+gametitle=Time Crisis 3 [SLUS-20645] [7290669C]
+
+[Overall Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Overall Level
+// Overall Level
+patch=1,EE,9026F784,extended,0C0A768E
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,219A4AF8,extended,FFFFFFFF
+
+[Activate All Cheats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activate All Cheats
+// Activate All Cheats
+patch=1,EE,219A4AF4,extended,0000003F
+
+[Never Reload (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload (Both Players)
+// Never Reload (Both Players)
+patch=1,EE,20175E48,extended,00000000
+
+[Max Life (Arcade Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life (Arcade Mode)
+// Max Life (Arcade Mode)
+patch=1,EE,219A2E10,extended,00000009
+
+[Max Life (Rescue Mission Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Life (Rescue Mission Mode)
+// Max Life (Rescue Mission Mode)
+patch=1,EE,219A2E14,extended,00000009
+
+[Infinite Handgun Ammo (Arcade Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Handgun Ammo (Arcade Mode)
+// Infinite Handgun Ammo (Arcade Mode)
+patch=1,EE,719A4AF4,extended,00000001
+
+[Infinite Sub Weapon Ammo (Arcade Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Sub Weapon Ammo (Arcade Mode)
+// Infinite Sub Weapon Ammo (Arcade Mode)
+patch=1,EE,719A4AF4,extended,00000002
+
+[Mirror Mode (Arcade Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mirror Mode (Arcade Mode)
+// Mirror Mode (Arcade Mode)
+patch=1,EE,719A4AF4,extended,00000004
+
+[Infinite Handgun Ammo (Rescue Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Handgun Ammo (Rescue Mode)
+// Infinite Handgun Ammo (Rescue Mode)
+patch=1,EE,719A4AF4,extended,00000008
+
+[Infinite Sub Weapon Ammo (Rescue Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Sub Weapon Ammo (Rescue Mode)
+// Infinite Sub Weapon Ammo (Rescue Mode)
+patch=1,EE,719A4AF4,extended,00000010
+
+[Mirror Mode (Rescue Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mirror Mode (Rescue Mode)
+// Mirror Mode (Rescue Mode)
+patch=1,EE,719A4AF4,extended,00000020
+
+[Quick Score Gain P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain P1
+// Quick Score Gain P1
+patch=1,EE,119A6698,extended,0000FFFF
+
+[Max Score P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P1
+// Max Score P1
+patch=1,EE,219A6698,extended,05F5E0FF
+
+[Infinite Life P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Life P1
+// Infinite Life P1
+patch=1,EE,219A669C,extended,00000009
+
+[Handgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Handgun
+// Handgun
+patch=1,EE,219A67E4,extended,00000009
+
+[Machine Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Machine Gun
+// Machine Gun
+patch=1,EE,219A67E8,extended,000003E7
+
+[Shotgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shotgun
+// Shotgun
+patch=1,EE,219A67EC,extended,000003E7
+
+[Infinite Grenades P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Grenades P1
+// Infinite Grenades P1
+patch=1,EE,219A67F0,extended,000003E7
+
+[Infinite Time P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time P1
+// Infinite Time P1
+patch=1,EE,219A6674,extended,0000752F
+
+[P1 Press {L1}+{SELECT} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For More Time
+// P1 Press {L1}+{SELECT} For More Time
+patch=1,EE,D1EAE1C2,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} For More Time
+// P1 Press {L1}+{SELECT} For More Time
+patch=1,EE,219A6674,extended,0000752F
+
+[P1 Press {L2}+{SELECT} For No Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For No Time
+// P1 Press {L2}+{SELECT} For No Time
+patch=1,EE,D1EAE1C2,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} For No Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For No Time
+// P1 Press {L2}+{SELECT} For No Time
+patch=1,EE,219A6674,extended,00000001
+
+[Quick Score Gain P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain P2
+// Quick Score Gain P2
+patch=1,EE,119A66EC,extended,0000FFFF
+
+[Max Score P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P2
+// Max Score P2
+patch=1,EE,219A66EC,extended,05F5E0FF
+
+[Infinite Life P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Life P2
+// Infinite Life P2
+patch=1,EE,219A669C,extended,00000009
+
+[Handgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Handgun
+// Handgun
+patch=1,EE,219A6834,extended,00000009
+
+[Machine Gun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Machine Gun
+// Machine Gun
+patch=1,EE,219A6838,extended,000003E7
+
+[Shotgun]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shotgun
+// Shotgun
+patch=1,EE,219A683C,extended,000003E7
+
+[Infinite Grenades P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Grenades P2
+// Infinite Grenades P2
+patch=1,EE,219A6840,extended,000003E7
+
+[Infinite Time P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time P2
+// Infinite Time P2
+patch=1,EE,219A66C8,extended,0000752F
+
+[P2 Press {L1}+{SELECT} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} For More Time
+// P2 Press {L1}+{SELECT} For More Time
+patch=1,EE,D1EAE5C2,extended,0000FBFE
+
+[P2 Press {L1}+{SELECT} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} For More Time
+// P2 Press {L1}+{SELECT} For More Time
+patch=1,EE,219A66C8,extended,0000752F
+
+[P2 Press {L2}+{SELECT} For No Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L2}+{SELECT} For No Time
+// P2 Press {L2}+{SELECT} For No Time
+patch=1,EE,D1EAE5C2,extended,0000FEFE
+
+[P2 Press {L2}+{SELECT} For No Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L2}+{SELECT} For No Time
+// P2 Press {L2}+{SELECT} For No Time
+patch=1,EE,219A66C8,extended,00000001

@@ -1,0 +1,19 @@
+gametitle=Area 51 [UNKNOWN] [1E811D9A]
+
+[God Mode]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=God Mode
+// God Mode
+patch=1,EE,2024BA68,extended,24030015
+
+[Infinite ammo]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite ammo
+// Infinite ammo
+patch=1,EE,2025F1D4,extended,00000000
+
+[All Items]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Items
+// All Items
+patch=1,EE,20258E68,extended,24020035

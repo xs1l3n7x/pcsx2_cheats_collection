@@ -1,0 +1,175 @@
+gametitle=Torino 2006 [SLES-53901] [1913EA5A]
+
+[Buying Shop Items Increases Coins To Max]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Shop Items Increases Coins To Max
+// Buying Shop Items Increases Coins To Max
+patch=1,EE,9020F478,extended,00832021
+
+[Max Overall Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Overall Score
+// Max Overall Score
+patch=1,EE,20402E70,extended,05F5E0FF
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,10402E74,extended,0000FFFF
+
+[Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score
+// Max Score
+patch=1,EE,20402E74,extended,05F5E0FF
+
+[Always Max Gold Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Gold Medals
+// Always Max Gold Medals
+patch=1,EE,20402EE4,extended,0000000F
+
+[Always No Gold Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always No Gold Medals
+// Always No Gold Medals
+patch=1,EE,20402EE4,extended,00000000
+
+[Always Max Silver Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Silver Medals
+// Always Max Silver Medals
+patch=1,EE,20402EE8,extended,0000000F
+
+[Always No Silver Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always No Silver Medals
+// Always No Silver Medals
+patch=1,EE,20402EE8,extended,00000000
+
+[Always Max Bronze Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Bronze Medals
+// Always Max Bronze Medals
+patch=1,EE,20402EEC,extended,0000000F
+
+[Always No Bronze Medals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always No Bronze Medals
+// Always No Bronze Medals
+patch=1,EE,20402EEC,extended,00000000
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,2041E3E4,extended,00000000
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,2041F3CC,extended,00000000
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,2041F670,extended,00000000
+
+[No Gate Faults]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Gate Faults
+// No Gate Faults
+patch=1,EE,2041F68C,extended,00000000
+
+[Winner]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Winner
+// Winner
+patch=1,EE,7040D888,extended,00000001
+
+[Legend]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Legend
+// Legend
+patch=1,EE,7040D888,extended,00000002
+
+[Ace]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ace
+// Ace
+patch=1,EE,7040D888,extended,00000004
+
+[Rhythm]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rhythm
+// Rhythm
+patch=1,EE,7040D888,extended,00000008
+
+[Precision]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Precision
+// Precision
+patch=1,EE,7040D888,extended,00000001
+
+[Style]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Style
+// Style
+patch=1,EE,7040D888,extended,00000002
+
+[Froce]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Froce
+// Froce
+patch=1,EE,7040D888,extended,00000004
+
+[Alpine Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Alpine Speed
+// Alpine Speed
+patch=1,EE,7040D888,extended,00000008
+
+[Ski Jumping Distance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ski Jumping Distance
+// Ski Jumping Distance
+patch=1,EE,7040D889,extended,00000001
+
+[Skating Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skating Speed
+// Skating Speed
+patch=1,EE,7040D889,extended,00000002
+
+[Cross Country Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cross Country Speed
+// Cross Country Speed
+patch=1,EE,7040D889,extended,00000004
+
+[Biathion Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Biathion Speed
+// Biathion Speed
+patch=1,EE,7040D889,extended,00000008
+
+[Bobsleigh Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bobsleigh Speed
+// Bobsleigh Speed
+patch=1,EE,7040D889,extended,00000001
+
+[Luge Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Luge Speed
+// Luge Speed
+patch=1,EE,7040D889,extended,00000002
+
+[All Challenges]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Challenges
+// All Challenges
+patch=1,EE,7040D888,extended,00103FFF

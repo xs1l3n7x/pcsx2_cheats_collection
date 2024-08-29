@@ -1,0 +1,97 @@
+gametitle=Karaoke Revolution Party [SLUS-21223] [9B36F138]
+
+[Crowd Always Happy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crowd Always Happy
+// Crowd Always Happy
+patch=1,EE,902B0A8C,extended,0C0BF6A9
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,200C0220,extended,24020001
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,200C0224,extended,03E00008
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,200C0228,extended,AC82000C
+
+[Unlock Everything]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Everything
+// Unlock Everything
+patch=1,EE,2019AFF0,extended,08030088
+
+[Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain
+// Quick Score Gain
+patch=1,EE,20131CFC,extended,244203E7
+
+[Super Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Quick Score Gain
+// Super Quick Score Gain
+patch=1,EE,20131CFC,extended,2442270F
+
+[Hella Quick Score Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hella Quick Score Gain
+// Hella Quick Score Gain
+patch=1,EE,20131CFC,extended,24427FFF
+
+[Quick Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Max Score
+// Quick Max Score
+patch=1,EE,20131CF8,extended,3C0205F5
+
+[Quick Max Score]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Max Score
+// Quick Max Score
+patch=1,EE,20131CFC,extended,3442E0FF
+
+[Crowd Always Happy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crowd Always Happy
+// Crowd Always Happy
+patch=1,EE,20124A74,extended,3C013F80
+
+[Crowd Always Happy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crowd Always Happy
+// Crowd Always Happy
+patch=1,EE,20125448,extended,3C013F80
+
+[Crowd Always Happy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crowd Always Happy
+// Crowd Always Happy
+patch=1,EE,2012544C,extended,44810000
+
+[Infinite Total Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Total Points
+// Infinite Total Points
+patch=1,EE,103ECB68,extended,0000FFFF
+
+[Max Total Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Points
+// Max Total Points
+patch=1,EE,203ECB68,extended,05F5E0FF
+
+[Have All 50 Songs Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All 50 Songs Completed
+// Have All 50 Songs Completed
+patch=1,EE,203ECBC4,extended,00000032

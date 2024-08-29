@@ -1,0 +1,889 @@
+gametitle=MX Unleashed [SLUS-20767] [9866FE54]
+
+[7 Opponents]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=7 Opponents
+// 7 Opponents
+patch=1,EE,9041AD64,extended,0C1037F6
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,202635BC,extended,3C013C00
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,202635C0,extended,44810000
+
+[Quick Points Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Points Gain
+// Quick Points Gain
+patch=1,EE,1056FF60,extended,0000FFFF
+
+[Max Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Points
+// Max Points
+patch=1,EE,2056FF60,extended,05F5E0FF
+
+[Low Rez Character]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Rez Character
+// Low Rez Character
+patch=1,EE,20420438,extended,00000000
+
+[No Shadow Intensity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Shadow Intensity
+// No Shadow Intensity
+patch=1,EE,20420710,extended,00000000
+
+[High Shadow Intensity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=High Shadow Intensity
+// High Shadow Intensity
+patch=1,EE,20420710,extended,447A0000
+
+[Crazy Tires]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crazy Tires
+// Crazy Tires
+patch=1,EE,20426DA4,extended,3F800000
+
+[Crazy Tires]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crazy Tires
+// Crazy Tires
+patch=1,EE,20426DA8,extended,3F800000
+
+[Weird Camera 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weird Camera 1
+// Weird Camera 1
+patch=1,EE,20426DB0,extended,3F800000
+
+[Weird Camera 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weird Camera 1
+// Weird Camera 1
+patch=1,EE,20426DB8,extended,00000000
+
+[Weird Camera 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weird Camera 2
+// Weird Camera 2
+patch=1,EE,20426DB0,extended,00000000
+
+[Weird Camera 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weird Camera 2
+// Weird Camera 2
+patch=1,EE,20426DB8,extended,3F800000
+
+[Weird Camera 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weird Camera 3
+// Weird Camera 3
+patch=1,EE,20426DB0,extended,3F800000
+
+[Weird Camera 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weird Camera 3
+// Weird Camera 3
+patch=1,EE,20426DB8,extended,3F800000
+
+[Unlock Super Cross Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Super Cross Tracks
+// Unlock Super Cross Tracks
+patch=1,EE,205722E4,extended,00000001
+
+[Unlock National Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock National Tracks
+// Unlock National Tracks
+patch=1,EE,205722E8,extended,00000001
+
+[Unlock Freestyle Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Freestyle Tracks
+// Unlock Freestyle Tracks
+patch=1,EE,205722EC,extended,00000001
+
+[Unlock Pro Physics]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Pro Physics
+// Unlock Pro Physics
+patch=1,EE,205722F0,extended,00000001
+
+[Unlock Expert AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Expert AI
+// Unlock Expert AI
+patch=1,EE,205722F4,extended,00000001
+
+[Unlock Machines]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Machines
+// Unlock Machines
+patch=1,EE,205722F8,extended,00000001
+
+[Unlock 50cc Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock 50cc Bikes
+// Unlock 50cc Bikes
+patch=1,EE,205722FC,extended,00000001
+
+[Unlock 500cc Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock 500cc Bikes
+// Unlock 500cc Bikes
+patch=1,EE,20572300,extended,00000001
+
+[Unlock Career Completion?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Career Completion?
+// Unlock Career Completion?
+patch=1,EE,20572304,extended,00000001
+
+[Unlock AI Bowling]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock AI Bowling
+// Unlock AI Bowling
+patch=1,EE,20572308,extended,00000001
+
+[Dune Buggy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dune Buggy
+// Dune Buggy
+patch=1,EE,205676C4,extended,00000001
+
+[Biplane]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Biplane
+// Biplane
+patch=1,EE,205676C8,extended,00000001
+
+[Monster Truck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monster Truck
+// Monster Truck
+patch=1,EE,205676CC,extended,00000001
+
+[Trophy Truck]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Trophy Truck
+// Trophy Truck
+patch=1,EE,205676D0,extended,00000001
+
+[Helicopter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Helicopter
+// Helicopter
+patch=1,EE,205676D4,extended,00000001
+
+[All Machines]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Machines
+// All Machines
+patch=1,EE,405676C4,extended,00050001
+
+[All Machines]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Machines
+// All Machines
+patch=1,EE,00000001,extended,00000000
+
+[50cc Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=50cc Bikes
+// 50cc Bikes
+patch=1,EE,2056778C,extended,00000001
+
+[500cc Bikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=500cc Bikes
+// 500cc Bikes
+patch=1,EE,20567790,extended,00000001
+
+[Los Angeles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Los Angeles
+// Los Angeles
+patch=1,EE,20567854,extended,00000001
+
+[Jackson]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jackson
+// Jackson
+patch=1,EE,20567858,extended,00000001
+
+[San Diego]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=San Diego
+// San Diego
+patch=1,EE,2056785C,extended,00000001
+
+[Phoenix]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Phoenix
+// Phoenix
+patch=1,EE,20567860,extended,00000001
+
+[Memphis]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Memphis
+// Memphis
+patch=1,EE,20567864,extended,00000001
+
+[San Antonio]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=San Antonio
+// San Antonio
+patch=1,EE,20567868,extended,00000001
+
+[Lincoln]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lincoln
+// Lincoln
+patch=1,EE,2056786C,extended,00000001
+
+[Denver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Denver
+// Denver
+patch=1,EE,20567870,extended,00000001
+
+[Provo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Provo
+// Provo
+patch=1,EE,20567874,extended,00000001
+
+[Las Vegas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Las Vegas
+// Las Vegas
+patch=1,EE,20567878,extended,00000001
+
+[Detroit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Detroit
+// Detroit
+patch=1,EE,2056787C,extended,00000001
+
+[Pittsburph]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pittsburph
+// Pittsburph
+patch=1,EE,20567880,extended,00000001
+
+[Lynchburg]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lynchburg
+// Lynchburg
+patch=1,EE,20567884,extended,00000001
+
+[Chicago]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chicago
+// Chicago
+patch=1,EE,20567888,extended,00000001
+
+[Springfield]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Springfield
+// Springfield
+patch=1,EE,2056788C,extended,00000001
+
+[Dallas]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dallas
+// Dallas
+patch=1,EE,20567890,extended,00000001
+
+[Norfolk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Norfolk
+// Norfolk
+patch=1,EE,20567894,extended,00000001
+
+[Cleveland]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cleveland
+// Cleveland
+patch=1,EE,20567898,extended,00000001
+
+[Cincinnati]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cincinnati
+// Cincinnati
+patch=1,EE,2056789C,extended,00000001
+
+[Atlanta]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Atlanta
+// Atlanta
+patch=1,EE,205678A0,extended,00000001
+
+[All Supercross Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Supercross Tracks
+// All Supercross Tracks
+patch=1,EE,40567854,extended,00140001
+
+[All Supercross Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Supercross Tracks
+// All Supercross Tracks
+patch=1,EE,00000001,extended,00000000
+
+[Seneca Butte]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Seneca Butte
+// Seneca Butte
+patch=1,EE,2056791C,extended,00000001
+
+[Bodie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bodie
+// Bodie
+patch=1,EE,20567920,extended,00000001
+
+[Racine-Long]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Racine-Long
+// Racine-Long
+patch=1,EE,20567924,extended,00000001
+
+[Doha]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Doha
+// Doha
+patch=1,EE,20567928,extended,00000001
+
+[Blueridge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blueridge
+// Blueridge
+patch=1,EE,2056792C,extended,00000001
+
+[Summerhaven]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Summerhaven
+// Summerhaven
+patch=1,EE,20567930,extended,00000001
+
+[Pine Bluff]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pine Bluff
+// Pine Bluff
+patch=1,EE,20567934,extended,00000001
+
+[Slack Jaw]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slack Jaw
+// Slack Jaw
+patch=1,EE,20567938,extended,00000001
+
+[Foxpark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Foxpark
+// Foxpark
+patch=1,EE,2056793C,extended,00000001
+
+[Hillsboro]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hillsboro
+// Hillsboro
+patch=1,EE,20567940,extended,00000001
+
+[Black Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Hills
+// Black Hills
+patch=1,EE,20567944,extended,00000001
+
+[Rattlesnake Pass]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rattlesnake Pass
+// Rattlesnake Pass
+patch=1,EE,20567948,extended,00000001
+
+[Grandview]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grandview
+// Grandview
+patch=1,EE,2056794C,extended,00000001
+
+[Cedar Mills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cedar Mills
+// Cedar Mills
+patch=1,EE,20567950,extended,00000001
+
+[Casa De Cobre]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Casa De Cobre
+// Casa De Cobre
+patch=1,EE,20567954,extended,00000001
+
+[Waimea]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Waimea
+// Waimea
+patch=1,EE,20567958,extended,00000001
+
+[Sliderrock]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sliderrock
+// Sliderrock
+patch=1,EE,2056795C,extended,00000001
+
+[Signal Butte]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Signal Butte
+// Signal Butte
+patch=1,EE,20567960,extended,00000001
+
+[All Nationals Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Nationals Tracks
+// All Nationals Tracks
+patch=1,EE,4056791C,extended,00120001
+
+[All Nationals Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Nationals Tracks
+// All Nationals Tracks
+patch=1,EE,00000001,extended,00000000
+
+[Sierra Vista]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sierra Vista
+// Sierra Vista
+patch=1,EE,205679E4,extended,00000001
+
+[Ocotillo Wells]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ocotillo Wells
+// Ocotillo Wells
+patch=1,EE,205679E8,extended,00000001
+
+[Smoke Ridge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Smoke Ridge
+// Smoke Ridge
+patch=1,EE,205679EC,extended,00000001
+
+[Morenci Mines]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Morenci Mines
+// Morenci Mines
+patch=1,EE,205679F0,extended,00000001
+
+[All Freestyle Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Freestyle Tracks
+// All Freestyle Tracks
+patch=1,EE,405679E4,extended,00040001
+
+[All Freestyle Tracks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Freestyle Tracks
+// All Freestyle Tracks
+patch=1,EE,00000001,extended,00000000
+
+[Hit Competition 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 1
+// Hit Competition 1
+patch=1,EE,20567AAC,extended,00000001
+
+[Hit Competition 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 2
+// Hit Competition 2
+patch=1,EE,20567AB0,extended,00000001
+
+[Hit Competition 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 3
+// Hit Competition 3
+patch=1,EE,20567AB4,extended,00000001
+
+[Hit Competition 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 4
+// Hit Competition 4
+patch=1,EE,20567AB8,extended,00000001
+
+[Hit Competition 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 5
+// Hit Competition 5
+patch=1,EE,20567ABC,extended,00000001
+
+[Run Objective 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 1
+// Run Objective 1
+patch=1,EE,20567AC0,extended,00000001
+
+[Run Objective 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 2
+// Run Objective 2
+patch=1,EE,20567AC4,extended,00000001
+
+[Run Objective 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 3
+// Run Objective 3
+patch=1,EE,20567AC8,extended,00000001
+
+[Run Objective 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 4
+// Run Objective 4
+patch=1,EE,20567ACC,extended,00000001
+
+[Run Objective 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 5
+// Run Objective 5
+patch=1,EE,20567AD0,extended,00000001
+
+[Stunt Objective 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stunt Objective 5
+// Stunt Objective 5
+patch=1,EE,20567AD4,extended,00000001
+
+[All Ocotillo Wells]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Ocotillo Wells
+// All Ocotillo Wells
+patch=1,EE,40567AAC,extended,000B0001
+
+[All Ocotillo Wells]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Ocotillo Wells
+// All Ocotillo Wells
+patch=1,EE,00000001,extended,00000000
+
+[Hit Competition 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 1
+// Hit Competition 1
+patch=1,EE,20567B74,extended,00000001
+
+[Hit Competition 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 2
+// Hit Competition 2
+patch=1,EE,20567B78,extended,00000001
+
+[Hit Competition 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 3
+// Hit Competition 3
+patch=1,EE,20567B7C,extended,00000001
+
+[Hit Competition 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 4
+// Hit Competition 4
+patch=1,EE,20567B80,extended,00000001
+
+[Hit Competition 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 5
+// Hit Competition 5
+patch=1,EE,20567B84,extended,00000001
+
+[Run Objective 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 1
+// Run Objective 1
+patch=1,EE,20567B88,extended,00000001
+
+[Run Objective 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 2
+// Run Objective 2
+patch=1,EE,20567B8C,extended,00000001
+
+[Run Objective 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 3
+// Run Objective 3
+patch=1,EE,20567B90,extended,00000001
+
+[Run Objective 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 4
+// Run Objective 4
+patch=1,EE,20567B94,extended,00000001
+
+[Run Objective 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 5
+// Run Objective 5
+patch=1,EE,20567B98,extended,00000001
+
+[Stunt Objective]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stunt Objective
+// Stunt Objective
+patch=1,EE,20567B9C,extended,00000001
+
+[All Sierra Vista]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Sierra Vista
+// All Sierra Vista
+patch=1,EE,40567B74,extended,000B0001
+
+[All Sierra Vista]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Sierra Vista
+// All Sierra Vista
+patch=1,EE,00000001,extended,00000000
+
+[Hit Competition 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 1
+// Hit Competition 1
+patch=1,EE,20567C3C,extended,00000001
+
+[Hit Competition 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 2
+// Hit Competition 2
+patch=1,EE,20567C40,extended,00000001
+
+[Hit Competition 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 3
+// Hit Competition 3
+patch=1,EE,20567C44,extended,00000001
+
+[Hit Competition 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 4
+// Hit Competition 4
+patch=1,EE,20567C48,extended,00000001
+
+[Hit Competition 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 5
+// Hit Competition 5
+patch=1,EE,20567C4C,extended,00000001
+
+[Run Objective 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 1
+// Run Objective 1
+patch=1,EE,20567C50,extended,00000001
+
+[Run Objective 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 2
+// Run Objective 2
+patch=1,EE,20567C54,extended,00000001
+
+[Run Objective 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 3
+// Run Objective 3
+patch=1,EE,20567C58,extended,00000001
+
+[Run Objective 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 4
+// Run Objective 4
+patch=1,EE,20567C5C,extended,00000001
+
+[Run Objective 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 5
+// Run Objective 5
+patch=1,EE,20567C60,extended,00000001
+
+[Stunt Objective]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stunt Objective
+// Stunt Objective
+patch=1,EE,20567C64,extended,00000001
+
+[All Montauk Plains]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Montauk Plains
+// All Montauk Plains
+patch=1,EE,40567C3C,extended,000B0001
+
+[All Montauk Plains]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Montauk Plains
+// All Montauk Plains
+patch=1,EE,00000001,extended,00000000
+
+[Hit Competition 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 1
+// Hit Competition 1
+patch=1,EE,20567D04,extended,00000001
+
+[Hit Competition 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 2
+// Hit Competition 2
+patch=1,EE,20567D08,extended,00000001
+
+[Hit Competition 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 3
+// Hit Competition 3
+patch=1,EE,20567D0C,extended,00000001
+
+[Hit Competition 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 4
+// Hit Competition 4
+patch=1,EE,20567D10,extended,00000001
+
+[Hit Competition 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 5
+// Hit Competition 5
+patch=1,EE,20567D14,extended,00000001
+
+[Run Objective 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 1
+// Run Objective 1
+patch=1,EE,20567D18,extended,00000001
+
+[Run Objective 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 2
+// Run Objective 2
+patch=1,EE,20567D1C,extended,00000001
+
+[Run Objective 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 3
+// Run Objective 3
+patch=1,EE,20567D20,extended,00000001
+
+[Run Objective 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 4
+// Run Objective 4
+patch=1,EE,20567D24,extended,00000001
+
+[Run Objective 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 5
+// Run Objective 5
+patch=1,EE,20567D28,extended,00000001
+
+[Stunt Objective]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stunt Objective
+// Stunt Objective
+patch=1,EE,20567D2C,extended,00000001
+
+[All Smoke Ridge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Smoke Ridge
+// All Smoke Ridge
+patch=1,EE,40567D04,extended,000B0001
+
+[All Smoke Ridge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Smoke Ridge
+// All Smoke Ridge
+patch=1,EE,00000001,extended,00000000
+
+[Hit Competition 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 1
+// Hit Competition 1
+patch=1,EE,20567DCC,extended,00000001
+
+[Hit Competition 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 2
+// Hit Competition 2
+patch=1,EE,20567DD0,extended,00000001
+
+[Hit Competition 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 3
+// Hit Competition 3
+patch=1,EE,20567DD4,extended,00000001
+
+[Hit Competition 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 4
+// Hit Competition 4
+patch=1,EE,20567DD8,extended,00000001
+
+[Hit Competition 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hit Competition 5
+// Hit Competition 5
+patch=1,EE,20567DDC,extended,00000001
+
+[Run Objective 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 1
+// Run Objective 1
+patch=1,EE,20567DE0,extended,00000001
+
+[Run Objective 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 2
+// Run Objective 2
+patch=1,EE,20567DE4,extended,00000001
+
+[Run Objective 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 3
+// Run Objective 3
+patch=1,EE,20567DE8,extended,00000001
+
+[Run Objective 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 4
+// Run Objective 4
+patch=1,EE,20567DEC,extended,00000001
+
+[Run Objective 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Run Objective 5
+// Run Objective 5
+patch=1,EE,20567DF0,extended,00000001
+
+[Stunt Objective]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stunt Objective
+// Stunt Objective
+patch=1,EE,20567DF4,extended,00000001
+
+[All Morenci Mines]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Morenci Mines
+// All Morenci Mines
+patch=1,EE,40567DCC,extended,000B0001
+
+[All Morenci Mines]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Morenci Mines
+// All Morenci Mines
+patch=1,EE,00000001,extended,00000000

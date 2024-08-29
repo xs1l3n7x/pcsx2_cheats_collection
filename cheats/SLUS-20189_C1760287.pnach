@@ -1,0 +1,145 @@
+gametitle=Tokyo Xtreme Racer Zero [SLUS-20189] [C1760287]
+
+[Monster Duel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monster Duel
+// Monster Duel
+patch=1,EE,901121AC,extended,0C047936
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,1037DD88,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,2037DD88,extended,000F423F
+
+[Quick Odometer Meter Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Odometer Meter Gain
+// Quick Odometer Meter Gain
+patch=1,EE,1037DC60,extended,0000FFFF
+
+[Max Odometer Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Odometer Meter
+// Max Odometer Meter
+patch=1,EE,2037DC60,extended,6022ED00
+
+[Max Days]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Days
+// Max Days
+patch=1,EE,1037DD86,extended,0000270F
+
+[Max Total Mileage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Total Mileage
+// Max Total Mileage
+patch=1,EE,2037DDB8,extended,6022ED00
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,D07508B2,extended,00000075
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,20750900,extended,00000000
+
+[Max Trip Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Trip Meter
+// Max Trip Meter
+patch=1,EE,D0742372,extended,00000074
+
+[Max Trip Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Trip Meter
+// Max Trip Meter
+patch=1,EE,20742B68,extended,00189BC6
+
+[Auto Pilot Never On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Auto Pilot Never On
+// Auto Pilot Never On
+patch=1,EE,D0742372,extended,00000074
+
+[Auto Pilot Never On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Auto Pilot Never On
+// Auto Pilot Never On
+patch=1,EE,10742380,extended,00000000
+
+[Auto Pilot Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Auto Pilot Always On
+// Auto Pilot Always On
+patch=1,EE,D0742372,extended,00000074
+
+[Auto Pilot Always On]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Auto Pilot Always On
+// Auto Pilot Always On
+patch=1,EE,10742380,extended,00000004
+
+[Opponent Always Loses SP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Opponent Always Loses SP
+// Opponent Always Loses SP
+patch=1,EE,20188FF4,extended,00000000
+
+[Infinite SP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite SP P1
+// Infinite SP P1
+patch=1,EE,D07508B2,extended,00000075
+
+[Infinite SP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite SP P1
+// Infinite SP P1
+patch=1,EE,207508F8,extended,004C4B40
+
+[No SP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No SP P1
+// No SP P1
+patch=1,EE,D07508B2,extended,00000075
+
+[No SP P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No SP P1
+// No SP P1
+patch=1,EE,207508F8,extended,00000000
+
+[Infinite SP Rival]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite SP Rival
+// Infinite SP Rival
+patch=1,EE,D07508B2,extended,00000075
+
+[Infinite SP Rival]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite SP Rival
+// Infinite SP Rival
+patch=1,EE,207508FC,extended,004C4B40
+
+[No SP Rival]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No SP Rival
+// No SP Rival
+patch=1,EE,D07508B2,extended,00000075
+
+[No SP Rival]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No SP Rival
+// No SP Rival
+patch=1,EE,207508FC,extended,00000000

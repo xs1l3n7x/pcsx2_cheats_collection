@@ -1,0 +1,211 @@
+gametitle=Gran Turismo [UNKNOWN] [7ADCB24A]
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200FFF00,extended,3C030073
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200FFF04,extended,8C633CA8
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200FFF08,extended,AC832AD4
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200FFF0C,extended,C6212AD4
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200FFF10,extended,08087C08
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2021F01C,extended,0803FFC0
+
+[Each Red Orb is Worth 9999]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Each Red Orb is Worth 9999
+// Each Red Orb is Worth 9999
+patch=1,EE,202EB758,extended,2404270F
+
+[Infinite Yellow Orbs]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Yellow Orbs
+// Infinite Yellow Orbs
+patch=1,EE,00733B96,extended,00000063
+
+[Max Blue Orbs]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max Blue Orbs
+// Max Blue Orbs
+patch=1,EE,00733B97,extended,00000006
+
+[Max Purple Orbs]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max Purple Orbs
+// Max Purple Orbs
+patch=1,EE,00733B98,extended,00000007
+
+[All Weapons Available In Customize]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Weapons Available In Customize
+// All Weapons Available In Customize
+patch=1,EE,10733BA6,extended,00000101
+
+[All Weapons Available In Customize]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Weapons Available In Customize
+// All Weapons Available In Customize
+patch=1,EE,20733BA8,extended,01010101
+
+[All Weapons Available In Customize]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Weapons Available In Customize
+// All Weapons Available In Customize
+patch=1,EE,20733BAC,extended,01010101
+
+[All Weapons Available In Customize]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Weapons Available In Customize
+// All Weapons Available In Customize
+patch=1,EE,10733BB0,extended,00000101
+
+[All Bonus Material Open]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Bonus Material Open
+// All Bonus Material Open
+patch=1,EE,21CB2A20,extended,FFFFFFFF
+
+[All Bonus Material Open]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Bonus Material Open
+// All Bonus Material Open
+patch=1,EE,21CB2A24,extended,FFFFFFFF
+
+[All Bonus Material Open]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Bonus Material Open
+// All Bonus Material Open
+patch=1,EE,21CB2A28,extended,FFFFFFFF
+
+[All Normal Levels Open In Load Game]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Normal Levels Open In Load Game
+// All Normal Levels Open In Load Game
+patch=1,EE,00733BE1,extended,00000005
+
+[All Normal Levels Open In Load Game]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Normal Levels Open In Load Game
+// All Normal Levels Open In Load Game
+patch=1,EE,10733BE2,extended,00000505
+
+[All Normal Levels Open In Load Game]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Normal Levels Open In Load Game
+// All Normal Levels Open In Load Game
+patch=1,EE,40733BE4,extended,00040001
+
+[All Normal Levels Open In Load Game]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Normal Levels Open In Load Game
+// All Normal Levels Open In Load Game
+patch=1,EE,05050505,extended,00000000
+
+[All Normal Levels Open In Load Game]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=All Normal Levels Open In Load Game
+// All Normal Levels Open In Load Game
+patch=1,EE,00733BF4,extended,00000005
+
+[Always Devil Hunter Rank S]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Always Devil Hunter Rank S
+// Always Devil Hunter Rank S
+patch=1,EE,20733BF8,extended,3F800000
+
+[Always Devil Hunter Rank S]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Always Devil Hunter Rank S
+// Always Devil Hunter Rank S
+patch=1,EE,20733BFC,extended,00000000
+
+[Always Devil Hunter Rank S]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Always Devil Hunter Rank S
+// Always Devil Hunter Rank S
+patch=1,EE,20733C00,extended,000F423F
+
+[Always Devil Hunter Rank S]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Always Devil Hunter Rank S
+// Always Devil Hunter Rank S
+patch=1,EE,20733C04,extended,00000000
+
+[Always Devil Hunter Rank S]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Always Devil Hunter Rank S
+// Always Devil Hunter Rank S
+patch=1,EE,20733CB4,extended,4A000000
+
+[Infinite Vital Stars S]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Vital Stars S
+// Infinite Vital Stars S
+patch=1,EE,00733BA1,extended,0000001E
+
+[Infinite Vital Stars S]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Vital Stars S
+// Infinite Vital Stars S
+patch=1,EE,007851DC,extended,0000001E
+
+[Infinite Vital Stars L]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Vital Stars L
+// Infinite Vital Stars L
+patch=1,EE,00733BA0,extended,0000001E
+
+[Infinite Vital Stars L]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Vital Stars L
+// Infinite Vital Stars L
+patch=1,EE,007851DD,extended,0000001E
+
+[Infinite Devil Stars]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Devil Stars
+// Infinite Devil Stars
+patch=1,EE,00733BA2,extended,0000001E
+
+[Infinite Devil Stars]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Devil Stars
+// Infinite Devil Stars
+patch=1,EE,007851DE,extended,0000001E
+
+[Infinite Holy Water]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Holy Water
+// Infinite Holy Water
+patch=1,EE,00733BA3,extended,0000001E
+
+[Infinite Holy Water]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Holy Water
+// Infinite Holy Water
+patch=1,EE,007851DF,extended,0000001E

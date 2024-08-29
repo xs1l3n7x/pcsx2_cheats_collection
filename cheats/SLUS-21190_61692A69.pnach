@@ -1,0 +1,1243 @@
+gametitle=Outlaw Tennis [SLUS-21190] [61692A69]
+
+[All Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Movies
+// All Movies
+patch=1,EE,903EE9F8,extended,00832021
+
+[P1 Start With Score 40]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Start With Score 40
+// P1 Start With Score 40
+patch=1,EE,D064EB24,extended,00000000
+
+[P1 Start With Score 40]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Start With Score 40
+// P1 Start With Score 40
+patch=1,EE,2064EB24,extended,00000003
+
+[P1 Start With Score 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Start With Score 30
+// P1 Start With Score 30
+patch=1,EE,D064EB24,extended,00000000
+
+[P1 Start With Score 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Start With Score 30
+// P1 Start With Score 30
+patch=1,EE,2064EB24,extended,00000002
+
+[P1 Start With Score 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Start With Score 15
+// P1 Start With Score 15
+patch=1,EE,D064EB24,extended,00000000
+
+[P1 Start With Score 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Start With Score 15
+// P1 Start With Score 15
+patch=1,EE,2064EB24,extended,00000001
+
+[P1 Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Scores 0
+// P1 Scores 0
+patch=1,EE,2064EB24,extended,00000000
+
+[P1 Max Momentum Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Max Momentum Meter
+// P1 Max Momentum Meter
+patch=1,EE,0064EBCB,extended,00000064
+
+[P1 No Momentum Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 No Momentum Meter
+// P1 No Momentum Meter
+patch=1,EE,0064EBCB,extended,00000000
+
+[P1 Infinite Beating Tokens]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Infinite Beating Tokens
+// P1 Infinite Beating Tokens
+patch=1,EE,0064EADB,extended,00000009
+
+[P1 No Beating Tokens]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 No Beating Tokens
+// P1 No Beating Tokens
+patch=1,EE,0064EADB,extended,00000000
+
+[P1 Infinite Turbo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Infinite Turbo
+// P1 Infinite Turbo
+patch=1,EE,2064EBCC,extended,40466666
+
+[P1 No Turbo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 No Turbo
+// P1 No Turbo
+patch=1,EE,2064EBCC,extended,00000000
+
+[P2 Start With Score 40]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Start With Score 40
+// P2 Start With Score 40
+patch=1,EE,D064EB18,extended,00000000
+
+[P2 Start With Score 40]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Start With Score 40
+// P2 Start With Score 40
+patch=1,EE,2064EB18,extended,00000003
+
+[P2 Start With Score 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Start With Score 30
+// P2 Start With Score 30
+patch=1,EE,D064EB18,extended,00000000
+
+[P2 Start With Score 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Start With Score 30
+// P2 Start With Score 30
+patch=1,EE,2064EB18,extended,00000002
+
+[P2 Start With Score 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Start With Score 15
+// P2 Start With Score 15
+patch=1,EE,D064EB18,extended,00000000
+
+[P2 Start With Score 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Start With Score 15
+// P2 Start With Score 15
+patch=1,EE,2064EB18,extended,00000001
+
+[P2 Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Scores 0
+// P2 Scores 0
+patch=1,EE,2064EB18,extended,00000000
+
+[P2 Max Momentum Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Max Momentum Meter
+// P2 Max Momentum Meter
+patch=1,EE,0064EB9F,extended,00000064
+
+[P2 No Momentum Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 No Momentum Meter
+// P2 No Momentum Meter
+patch=1,EE,0064EB9F,extended,00000000
+
+[P2 Infinite Beating Tokens]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Infinite Beating Tokens
+// P2 Infinite Beating Tokens
+patch=1,EE,0064EADC,extended,00000009
+
+[P2 No Beating Tokens]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 No Beating Tokens
+// P2 No Beating Tokens
+patch=1,EE,0064EADC,extended,00000000
+
+[P2 Infinite Turbo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Infinite Turbo
+// P2 Infinite Turbo
+patch=1,EE,2064EBA0,extended,40466666
+
+[P2 No Turbo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 No Turbo
+// P2 No Turbo
+patch=1,EE,2064EBA0,extended,00000000
+
+[Unlock All Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Events
+// Unlock All Events
+patch=1,EE,40651890,extended,00140001
+
+[Unlock All Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Events
+// Unlock All Events
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Courts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Courts
+// Unlock All Courts
+patch=1,EE,406518E0,extended,00030001
+
+[Unlock All Courts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Courts
+// Unlock All Courts
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Racquets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Racquets
+// Unlock All Racquets
+patch=1,EE,206518EC,extended,01010101
+
+[Unlock All Racquets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Racquets
+// Unlock All Racquets
+patch=1,EE,206518F0,extended,01010101
+
+[Unlock All Racquets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Racquets
+// Unlock All Racquets
+patch=1,EE,106518F4,extended,00000101
+
+[Unlock All Styles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Styles
+// Unlock All Styles
+patch=1,EE,106518F6,extended,00000101
+
+[Unlock All Styles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Styles
+// Unlock All Styles
+patch=1,EE,006518F8,extended,00000001
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,006518F9,extended,00000001
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,106518FA,extended,00000001
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,406518FC,extended,00030001
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,10651908,extended,00000101
+
+[Unlock All Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Characters
+// Unlock All Characters
+patch=1,EE,0065190A,extended,00000001
+
+[Unlock All Outfit Tops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Outfit Tops
+// Unlock All Outfit Tops
+patch=1,EE,00651911,extended,00000001
+
+[Unlock All Outfit Tops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Outfit Tops
+// Unlock All Outfit Tops
+patch=1,EE,10651912,extended,00000101
+
+[Unlock All Outfit Tops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Outfit Tops
+// Unlock All Outfit Tops
+patch=1,EE,40651914,extended,00270001
+
+[Unlock All Outfit Tops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Outfit Tops
+// Unlock All Outfit Tops
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Outfit Tops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Outfit Tops
+// Unlock All Outfit Tops
+patch=1,EE,006519B0,extended,00000001
+
+[Unlock All Outfit Bottoms]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Outfit Bottoms
+// Unlock All Outfit Bottoms
+patch=1,EE,00651A01,extended,00000001
+
+[Unlock All Outfit Bottoms]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Outfit Bottoms
+// Unlock All Outfit Bottoms
+patch=1,EE,10651A02,extended,00000101
+
+[Unlock All Outfit Bottoms]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Outfit Bottoms
+// Unlock All Outfit Bottoms
+patch=1,EE,40651A04,extended,00270001
+
+[Unlock All Outfit Bottoms]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Outfit Bottoms
+// Unlock All Outfit Bottoms
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Outfit Bottoms]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Outfit Bottoms
+// Unlock All Outfit Bottoms
+patch=1,EE,00651AA0,extended,00000001
+
+[Unlock All Outfit Shoes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Outfit Shoes
+// Unlock All Outfit Shoes
+patch=1,EE,00651AF1,extended,00000001
+
+[Unlock All Outfit Shoes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Outfit Shoes
+// Unlock All Outfit Shoes
+patch=1,EE,10651AF2,extended,00000101
+
+[Unlock All Outfit Shoes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Outfit Shoes
+// Unlock All Outfit Shoes
+patch=1,EE,40651AF4,extended,00270001
+
+[Unlock All Outfit Shoes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Outfit Shoes
+// Unlock All Outfit Shoes
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Outfit Shoes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Outfit Shoes
+// Unlock All Outfit Shoes
+patch=1,EE,00651B90,extended,00000001
+
+[Unlock All Accessories Hats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Accessories Hats
+// Unlock All Accessories Hats
+patch=1,EE,00651BE1,extended,00000001
+
+[Unlock All Accessories Hats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Accessories Hats
+// Unlock All Accessories Hats
+patch=1,EE,10651BE2,extended,00000101
+
+[Unlock All Accessories Hats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Accessories Hats
+// Unlock All Accessories Hats
+patch=1,EE,40651BE4,extended,00170001
+
+[Unlock All Accessories Hats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Accessories Hats
+// Unlock All Accessories Hats
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Accessories Hats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Accessories Hats
+// Unlock All Accessories Hats
+patch=1,EE,00651C40,extended,00000001
+
+[Unlock All Accessories Glasses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Accessories Glasses
+// Unlock All Accessories Glasses
+patch=1,EE,00651C71,extended,00000001
+
+[Unlock All Accessories Glasses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Accessories Glasses
+// Unlock All Accessories Glasses
+patch=1,EE,10651C72,extended,00000101
+
+[Unlock All Accessories Glasses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Accessories Glasses
+// Unlock All Accessories Glasses
+patch=1,EE,40651C74,extended,00170001
+
+[Unlock All Accessories Glasses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Accessories Glasses
+// Unlock All Accessories Glasses
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Accessories Glasses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Accessories Glasses
+// Unlock All Accessories Glasses
+patch=1,EE,00651CD0,extended,00000001
+
+[Unlock All Accessories Wristbands]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Accessories Wristbands
+// Unlock All Accessories Wristbands
+patch=1,EE,00651CE9,extended,00000001
+
+[Unlock All Accessories Wristbands]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Accessories Wristbands
+// Unlock All Accessories Wristbands
+patch=1,EE,10651CEA,extended,00000101
+
+[Unlock All Accessories Wristbands]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Accessories Wristbands
+// Unlock All Accessories Wristbands
+patch=1,EE,40651CEC,extended,00170001
+
+[Unlock All Accessories Wristbands]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Accessories Wristbands
+// Unlock All Accessories Wristbands
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Accessories Wristbands]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Accessories Wristbands
+// Unlock All Accessories Wristbands
+patch=1,EE,00651D48,extended,00000001
+
+[Unlock All Drills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Drills
+// Unlock All Drills
+patch=1,EE,00651D61,extended,00000001
+
+[Unlock All Drills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Drills
+// Unlock All Drills
+patch=1,EE,10651D62,extended,00000101
+
+[Unlock All Drills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Drills
+// Unlock All Drills
+patch=1,EE,40651D64,extended,004F0001
+
+[Unlock All Drills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Drills
+// Unlock All Drills
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Drills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Drills
+// Unlock All Drills
+patch=1,EE,00651EA0,extended,00000001
+
+[Unlock All Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Movies
+// Unlock All Movies
+patch=1,EE,20651F40,extended,01010101
+
+[Unlock All Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Movies
+// Unlock All Movies
+patch=1,EE,00651F44,extended,00000001
+
+[Summer-Max Serve]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Summer-Max Serve
+// Summer-Max Serve
+patch=1,EE,00651F64,extended,00000055
+
+[Summer-Max Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Summer-Max Accuracy
+// Summer-Max Accuracy
+patch=1,EE,00651F65,extended,00000050
+
+[Summer-Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Summer-Max Power
+// Summer-Max Power
+patch=1,EE,00651F66,extended,00000050
+
+[Summer-Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Summer-Max Speed
+// Summer-Max Speed
+patch=1,EE,00651F67,extended,00000055
+
+[Summer-Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Summer-Max Control
+// Summer-Max Control
+patch=1,EE,00651F68,extended,0000005A
+
+[Summer-Max Endurance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Summer-Max Endurance
+// Summer-Max Endurance
+patch=1,EE,00651F69,extended,00000050
+
+[Summer-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Summer-Max All Stats
+// Summer-Max All Stats
+patch=1,EE,20651F64,extended,55505055
+
+[Summer-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Summer-Max All Stats
+// Summer-Max All Stats
+patch=1,EE,10651F68,extended,0000505A
+
+[Killer-Max Serve]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Killer-Max Serve
+// Killer-Max Serve
+patch=1,EE,00651F90,extended,00000064
+
+[Killer-Max Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Killer-Max Accuracy
+// Killer-Max Accuracy
+patch=1,EE,00651F91,extended,0000004B
+
+[Killer-Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Killer-Max Power
+// Killer-Max Power
+patch=1,EE,00651F92,extended,00000050
+
+[Killer-Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Killer-Max Speed
+// Killer-Max Speed
+patch=1,EE,00651F93,extended,0000004B
+
+[Killer-Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Killer-Max Control
+// Killer-Max Control
+patch=1,EE,00651F94,extended,0000005A
+
+[Killer-Max Endurance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Killer-Max Endurance
+// Killer-Max Endurance
+patch=1,EE,00651F95,extended,00000050
+
+[Killer-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Killer-Max All Stats
+// Killer-Max All Stats
+patch=1,EE,20651F90,extended,4B504B64
+
+[Killer-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Killer-Max All Stats
+// Killer-Max All Stats
+patch=1,EE,10651F94,extended,0000505A
+
+[Donna-Max Serve]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Donna-Max Serve
+// Donna-Max Serve
+patch=1,EE,00651FBC,extended,0000005C
+
+[Donna-Max Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Donna-Max Accuracy
+// Donna-Max Accuracy
+patch=1,EE,00651FBD,extended,00000050
+
+[Donna-Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Donna-Max Power
+// Donna-Max Power
+patch=1,EE,00651FBE,extended,00000050
+
+[Donna-Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Donna-Max Speed
+// Donna-Max Speed
+patch=1,EE,00651FBF,extended,00000046
+
+[Donna-Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Donna-Max Control
+// Donna-Max Control
+patch=1,EE,00651FC0,extended,00000053
+
+[Donna-Max Endurance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Donna-Max Endurance
+// Donna-Max Endurance
+patch=1,EE,00651FC1,extended,0000005F
+
+[Donna-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Donna-Max All Stats
+// Donna-Max All Stats
+patch=1,EE,20651FBC,extended,4650505C
+
+[Donna-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Donna-Max All Stats
+// Donna-Max All Stats
+patch=1,EE,10651FC0,extended,00005F53
+
+[El Suave-Max Serve]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=El Suave-Max Serve
+// El Suave-Max Serve
+patch=1,EE,00651FE8,extended,0000005A
+
+[El Suave-Max Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=El Suave-Max Accuracy
+// El Suave-Max Accuracy
+patch=1,EE,00651FE9,extended,00000050
+
+[El Suave-Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=El Suave-Max Power
+// El Suave-Max Power
+patch=1,EE,00651FEA,extended,00000052
+
+[El Suave-Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=El Suave-Max Speed
+// El Suave-Max Speed
+patch=1,EE,00651FEB,extended,00000050
+
+[El Suave-Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=El Suave-Max Control
+// El Suave-Max Control
+patch=1,EE,00651FEC,extended,00000053
+
+[El Suave-Max Endurance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=El Suave-Max Endurance
+// El Suave-Max Endurance
+patch=1,EE,00651FED,extended,00000055
+
+[El Suave-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=El Suave-Max All Stats
+// El Suave-Max All Stats
+patch=1,EE,20651FE8,extended,5052505A
+
+[El Suave-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=El Suave-Max All Stats
+// El Suave-Max All Stats
+patch=1,EE,10651FEC,extended,00005553
+
+[Natasha-Max Serve]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Natasha-Max Serve
+// Natasha-Max Serve
+patch=1,EE,00652014,extended,0000005A
+
+[Natasha-Max Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Natasha-Max Accuracy
+// Natasha-Max Accuracy
+patch=1,EE,00652015,extended,0000004B
+
+[Natasha-Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Natasha-Max Power
+// Natasha-Max Power
+patch=1,EE,00652016,extended,00000064
+
+[Natasha-Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Natasha-Max Speed
+// Natasha-Max Speed
+patch=1,EE,00652017,extended,00000046
+
+[Natasha-Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Natasha-Max Control
+// Natasha-Max Control
+patch=1,EE,00652018,extended,00000050
+
+[Natasha-Max Endurance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Natasha-Max Endurance
+// Natasha-Max Endurance
+patch=1,EE,00652019,extended,00000055
+
+[Natasha-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Natasha-Max All Stats
+// Natasha-Max All Stats
+patch=1,EE,20652014,extended,46644B5A
+
+[Natasha-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Natasha-Max All Stats
+// Natasha-Max All Stats
+patch=1,EE,10652018,extended,00005550
+
+[Sven-Max Serve]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sven-Max Serve
+// Sven-Max Serve
+patch=1,EE,00652040,extended,0000005A
+
+[Sven-Max Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sven-Max Accuracy
+// Sven-Max Accuracy
+patch=1,EE,00652041,extended,00000050
+
+[Sven-Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sven-Max Power
+// Sven-Max Power
+patch=1,EE,00652042,extended,0000004B
+
+[Sven-Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sven-Max Speed
+// Sven-Max Speed
+patch=1,EE,00652043,extended,00000064
+
+[Sven-Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sven-Max Control
+// Sven-Max Control
+patch=1,EE,00652044,extended,0000004B
+
+[Sven-Max Endurance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sven-Max Endurance
+// Sven-Max Endurance
+patch=1,EE,00652045,extended,00000050
+
+[Sven-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sven-Max All Stats
+// Sven-Max All Stats
+patch=1,EE,20652040,extended,644B505A
+
+[Sven-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sven-Max All Stats
+// Sven-Max All Stats
+patch=1,EE,10652044,extended,0000504B
+
+[Kiku-Max Serve]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kiku-Max Serve
+// Kiku-Max Serve
+patch=1,EE,0065206C,extended,00000050
+
+[Kiku-Max Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kiku-Max Accuracy
+// Kiku-Max Accuracy
+patch=1,EE,0065206D,extended,00000055
+
+[Kiku-Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kiku-Max Power
+// Kiku-Max Power
+patch=1,EE,0065206E,extended,00000050
+
+[Kiku-Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kiku-Max Speed
+// Kiku-Max Speed
+patch=1,EE,0065206F,extended,0000004B
+
+[Kiku-Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kiku-Max Control
+// Kiku-Max Control
+patch=1,EE,00652070,extended,0000005F
+
+[Kiku-Max Endurance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kiku-Max Endurance
+// Kiku-Max Endurance
+patch=1,EE,00652071,extended,00000055
+
+[Kiku-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kiku-Max All Stats
+// Kiku-Max All Stats
+patch=1,EE,2065206C,extended,4B505550
+
+[Kiku-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Kiku-Max All Stats
+// Kiku-Max All Stats
+patch=1,EE,10652070,extended,0000555F
+
+[Vinny-Max Serve]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vinny-Max Serve
+// Vinny-Max Serve
+patch=1,EE,00652098,extended,0000005F
+
+[Vinny-Max Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vinny-Max Accuracy
+// Vinny-Max Accuracy
+patch=1,EE,00652099,extended,00000055
+
+[Vinny-Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vinny-Max Power
+// Vinny-Max Power
+patch=1,EE,0065209A,extended,00000052
+
+[Vinny-Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vinny-Max Speed
+// Vinny-Max Speed
+patch=1,EE,0065209B,extended,0000004B
+
+[Vinny-Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vinny-Max Control
+// Vinny-Max Control
+patch=1,EE,0065209C,extended,0000004B
+
+[Vinny-Max Endurance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vinny-Max Endurance
+// Vinny-Max Endurance
+patch=1,EE,0065209D,extended,00000058
+
+[Vinny-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vinny-Max All Stats
+// Vinny-Max All Stats
+patch=1,EE,20652098,extended,4B52555F
+
+[Vinny-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Vinny-Max All Stats
+// Vinny-Max All Stats
+patch=1,EE,1065209C,extended,0000584B
+
+[Shawnee-Max Serve]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shawnee-Max Serve
+// Shawnee-Max Serve
+patch=1,EE,006520C4,extended,00000055
+
+[Shawnee-Max Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shawnee-Max Accuracy
+// Shawnee-Max Accuracy
+patch=1,EE,006520C5,extended,00000064
+
+[Shawnee-Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shawnee-Max Power
+// Shawnee-Max Power
+patch=1,EE,006520C6,extended,00000045
+
+[Shawnee-Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shawnee-Max Speed
+// Shawnee-Max Speed
+patch=1,EE,006520C7,extended,00000055
+
+[Shawnee-Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shawnee-Max Control
+// Shawnee-Max Control
+patch=1,EE,006520C8,extended,00000050
+
+[Shawnee-Max Endurance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shawnee-Max Endurance
+// Shawnee-Max Endurance
+patch=1,EE,006520C9,extended,00000050
+
+[Shawnee-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shawnee-Max All Stats
+// Shawnee-Max All Stats
+patch=1,EE,206520C4,extended,55456455
+
+[Shawnee-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shawnee-Max All Stats
+// Shawnee-Max All Stats
+patch=1,EE,106520C8,extended,00005050
+
+[Tommy-Max Serve]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tommy-Max Serve
+// Tommy-Max Serve
+patch=1,EE,006520F0,extended,0000005F
+
+[Tommy-Max Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tommy-Max Accuracy
+// Tommy-Max Accuracy
+patch=1,EE,006520F1,extended,0000005A
+
+[Tommy-Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tommy-Max Power
+// Tommy-Max Power
+patch=1,EE,006520F2,extended,00000046
+
+[Tommy-Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tommy-Max Speed
+// Tommy-Max Speed
+patch=1,EE,006520F3,extended,0000004B
+
+[Tommy-Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tommy-Max Control
+// Tommy-Max Control
+patch=1,EE,006520F4,extended,00000050
+
+[Tommy-Max Endurance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tommy-Max Endurance
+// Tommy-Max Endurance
+patch=1,EE,006520F5,extended,0000005A
+
+[Tommy-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tommy-Max All Stats
+// Tommy-Max All Stats
+patch=1,EE,206520F0,extended,4B465A5F
+
+[Tommy-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tommy-Max All Stats
+// Tommy-Max All Stats
+patch=1,EE,106520F4,extended,00005A50
+
+[Afrodite-Max Serve]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Afrodite-Max Serve
+// Afrodite-Max Serve
+patch=1,EE,0065211C,extended,0000005A
+
+[Afrodite-Max Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Afrodite-Max Accuracy
+// Afrodite-Max Accuracy
+patch=1,EE,0065211D,extended,00000050
+
+[Afrodite-Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Afrodite-Max Power
+// Afrodite-Max Power
+patch=1,EE,0065211E,extended,00000046
+
+[Afrodite-Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Afrodite-Max Speed
+// Afrodite-Max Speed
+patch=1,EE,0065211F,extended,00000050
+
+[Afrodite-Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Afrodite-Max Control
+// Afrodite-Max Control
+patch=1,EE,00652120,extended,00000050
+
+[Afrodite-Max Endurance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Afrodite-Max Endurance
+// Afrodite-Max Endurance
+patch=1,EE,00652121,extended,00000064
+
+[Afrodite-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Afrodite-Max All Stats
+// Afrodite-Max All Stats
+patch=1,EE,2065211C,extended,5046505A
+
+[Afrodite-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Afrodite-Max All Stats
+// Afrodite-Max All Stats
+patch=1,EE,10652120,extended,00006450
+
+[Ice Trey-Max Serve]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Trey-Max Serve
+// Ice Trey-Max Serve
+patch=1,EE,00652148,extended,00000057
+
+[Ice Trey-Max Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Trey-Max Accuracy
+// Ice Trey-Max Accuracy
+patch=1,EE,00652149,extended,00000046
+
+[Ice Trey-Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Trey-Max Power
+// Ice Trey-Max Power
+patch=1,EE,0065214A,extended,00000058
+
+[Ice Trey-Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Trey-Max Speed
+// Ice Trey-Max Speed
+patch=1,EE,0065214B,extended,00000050
+
+[Ice Trey-Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Trey-Max Control
+// Ice Trey-Max Control
+patch=1,EE,0065214C,extended,00000058
+
+[Ice Trey-Max Endurance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Trey-Max Endurance
+// Ice Trey-Max Endurance
+patch=1,EE,0065214D,extended,00000057
+
+[Ice Trey-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Trey-Max All Stats
+// Ice Trey-Max All Stats
+patch=1,EE,20652148,extended,50584657
+
+[Ice Trey-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ice Trey-Max All Stats
+// Ice Trey-Max All Stats
+patch=1,EE,1065214C,extended,00005758
+
+[Harley-Max Serve]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Harley-Max Serve
+// Harley-Max Serve
+patch=1,EE,00652174,extended,00000064
+
+[Harley-Max Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Harley-Max Accuracy
+// Harley-Max Accuracy
+patch=1,EE,00652175,extended,00000050
+
+[Harley-Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Harley-Max Power
+// Harley-Max Power
+patch=1,EE,00652176,extended,0000004B
+
+[Harley-Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Harley-Max Speed
+// Harley-Max Speed
+patch=1,EE,00652177,extended,00000050
+
+[Harley-Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Harley-Max Control
+// Harley-Max Control
+patch=1,EE,00652178,extended,00000050
+
+[Harley-Max Endurance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Harley-Max Endurance
+// Harley-Max Endurance
+patch=1,EE,00652179,extended,00000055
+
+[Harley-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Harley-Max All Stats
+// Harley-Max All Stats
+patch=1,EE,20652174,extended,504B5064
+
+[Harley-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Harley-Max All Stats
+// Harley-Max All Stats
+patch=1,EE,10652178,extended,00005550
+
+[Luther-Max Serve]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Luther-Max Serve
+// Luther-Max Serve
+patch=1,EE,006521A0,extended,0000005A
+
+[Luther-Max Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Luther-Max Accuracy
+// Luther-Max Accuracy
+patch=1,EE,006521A1,extended,00000046
+
+[Luther-Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Luther-Max Power
+// Luther-Max Power
+patch=1,EE,006521A2,extended,00000050
+
+[Luther-Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Luther-Max Speed
+// Luther-Max Speed
+patch=1,EE,006521A3,extended,00000046
+
+[Luther-Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Luther-Max Control
+// Luther-Max Control
+patch=1,EE,006521A4,extended,00000064
+
+[Luther-Max Endurance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Luther-Max Endurance
+// Luther-Max Endurance
+patch=1,EE,006521A5,extended,0000005A
+
+[Luther-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Luther-Max All Stats
+// Luther-Max All Stats
+patch=1,EE,206521A0,extended,4650465A
+
+[Luther-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Luther-Max All Stats
+// Luther-Max All Stats
+patch=1,EE,106521A4,extended,00005A64
+
+[Lizzy-Max Serve]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lizzy-Max Serve
+// Lizzy-Max Serve
+patch=1,EE,006521CC,extended,0000005A
+
+[Lizzy-Max Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lizzy-Max Accuracy
+// Lizzy-Max Accuracy
+patch=1,EE,006521CD,extended,00000044
+
+[Lizzy-Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lizzy-Max Power
+// Lizzy-Max Power
+patch=1,EE,006521CE,extended,0000004C
+
+[Lizzy-Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lizzy-Max Speed
+// Lizzy-Max Speed
+patch=1,EE,006521CF,extended,00000060
+
+[Lizzy-Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lizzy-Max Control
+// Lizzy-Max Control
+patch=1,EE,006521D0,extended,0000004B
+
+[Lizzy-Max Endurance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lizzy-Max Endurance
+// Lizzy-Max Endurance
+patch=1,EE,006521D1,extended,0000005F
+
+[Lizzy-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lizzy-Max All Stats
+// Lizzy-Max All Stats
+patch=1,EE,206521CC,extended,604C445A
+
+[Lizzy-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lizzy-Max All Stats
+// Lizzy-Max All Stats
+patch=1,EE,106521D0,extended,00005F4B
+
+[Bruce-Max Serve]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bruce-Max Serve
+// Bruce-Max Serve
+patch=1,EE,006521F8,extended,0000005A
+
+[Bruce-Max Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bruce-Max Accuracy
+// Bruce-Max Accuracy
+patch=1,EE,006521F9,extended,00000055
+
+[Bruce-Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bruce-Max Power
+// Bruce-Max Power
+patch=1,EE,006521FA,extended,00000050
+
+[Bruce-Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bruce-Max Speed
+// Bruce-Max Speed
+patch=1,EE,006521FB,extended,00000041
+
+[Bruce-Max Control]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bruce-Max Control
+// Bruce-Max Control
+patch=1,EE,006521FC,extended,00000050
+
+[Bruce-Max Endurance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bruce-Max Endurance
+// Bruce-Max Endurance
+patch=1,EE,006521FD,extended,00000064
+
+[Bruce-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bruce-Max All Stats
+// Bruce-Max All Stats
+patch=1,EE,206521F8,extended,4150555A
+
+[Bruce-Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bruce-Max All Stats
+// Bruce-Max All Stats
+patch=1,EE,106521FC,extended,00006450

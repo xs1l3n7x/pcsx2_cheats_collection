@@ -1,0 +1,133 @@
+gametitle=Crazy Taxi [SLUS-20202] [4C9EE7DF]
+
+[All Gems/Extras]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Gems/Extras
+// All Gems/Extras
+patch=1,EE,901A4294,extended,0C06D1F3
+
+[Infinite Fare Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Fare Time
+// Infinite Fare Time
+patch=1,EE,102F0404,extended,00000FFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,202F03E0,extended,05F5E0FF
+
+[Max Customers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Customers
+// Max Customers
+patch=1,EE,1047BDE4,extended,000003E7
+
+[Max Big Drift Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Big Drift Combo
+// Max Big Drift Combo
+patch=1,EE,1047B950,extended,000003E7
+
+[Press {R1}+{R2} For Turbo Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R1}+{R2} For Turbo Speed
+// Press {R1}+{R2} For Turbo Speed
+patch=1,EE,D047B408,extended,0000000A
+
+[Press {R1}+{R2} For Turbo Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {R1}+{R2} For Turbo Speed
+// Press {R1}+{R2} For Turbo Speed
+patch=1,EE,1030A55A,extended,00004600
+
+[Press {L1}+{L2} For Ultra Turbo Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{L2} For Ultra Turbo Speed
+// Press {L1}+{L2} For Ultra Turbo Speed
+patch=1,EE,D047B408,extended,00000005
+
+[Press {L1}+{L2} For Ultra Turbo Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{L2} For Ultra Turbo Speed
+// Press {L1}+{L2} For Ultra Turbo Speed
+patch=1,EE,1030A55A,extended,00004800
+
+[Press {L1}+{R1} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{R1} For More Time
+// Press {L1}+{R1} For More Time
+patch=1,EE,D047B408,extended,0000000C
+
+[Press {L1}+{R1} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{R1} For More Time
+// Press {L1}+{R1} For More Time
+patch=1,EE,102F03CC,extended,00001FFF
+
+[Press {L1}+{R2} For No Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{R2} For No Time
+// Press {L1}+{R2} For No Time
+patch=1,EE,D047B408,extended,00000003
+
+[Press {L1}+{R2} For No Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{R2} For No Time
+// Press {L1}+{R2} For No Time
+patch=1,EE,102F03CC,extended,00000000
+
+[1 Balloon Left (Crazy Box)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Balloon Left (Crazy Box)
+// 1 Balloon Left (Crazy Box)
+patch=1,EE,1047BB14,extended,00000001
+
+[Axel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axel
+// Axel
+patch=1,EE,D047C798,extended,00000150
+
+[Axel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Axel
+// Axel
+patch=1,EE,002FCC98,extended,00000001
+
+[BD Joe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=BD Joe
+// BD Joe
+patch=1,EE,D047C798,extended,00000150
+
+[BD Joe]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=BD Joe
+// BD Joe
+patch=1,EE,002FCC98,extended,00000002
+
+[Gena]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gena
+// Gena
+patch=1,EE,D047C798,extended,00000150
+
+[Gena]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gena
+// Gena
+patch=1,EE,002FCC98,extended,00000003
+
+[Gus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gus
+// Gus
+patch=1,EE,D047C798,extended,00000150
+
+[Gus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gus
+// Gus
+patch=1,EE,002FCC98,extended,00000004

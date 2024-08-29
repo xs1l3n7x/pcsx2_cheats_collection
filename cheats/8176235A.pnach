@@ -1,0 +1,25 @@
+gametitle=Grand Theft Auto - Liberty City Stories [UNKNOWN] [8176235A]
+
+[Infinite double jump]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite double jump
+// Infinite double jump
+patch=1,EE,002E886B,extended,00000001
+
+[Invicible]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Invicible
+// Invicible
+patch=1,EE,002E886A,extended,00000001
+
+[Infinite item]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite item
+// Infinite item
+patch=1,EE,202E8840,extended,0001869F
+
+[Infinite finish]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite finish
+// Infinite finish
+patch=1,EE,002E8871,extended,00000001

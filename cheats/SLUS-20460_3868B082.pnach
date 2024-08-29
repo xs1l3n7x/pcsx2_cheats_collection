@@ -1,0 +1,223 @@
+gametitle=Super Bust-A-Move 2 [SLUS-20460] [3868B082]
+
+[Ceiling Never Closes In (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ceiling Never Closes In (Both Players)
+// Ceiling Never Closes In (Both Players)
+patch=1,EE,901E2F9C,extended,0C07DDC1
+
+[Always Low Time (Puzzle Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time (Puzzle Mode)
+// Always Low Time (Puzzle Mode)
+patch=1,EE,2033E0D8,extended,00000000
+
+[Always Have Guide Line (Puzzle Mode Only)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Have Guide Line (Puzzle Mode Only)
+// Always Have Guide Line (Puzzle Mode Only)
+patch=1,EE,1033E1D8,extended,00000001
+
+[Always Have Guide Line (All Modes)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Have Guide Line (All Modes)
+// Always Have Guide Line (All Modes)
+patch=1,EE,10146AFE,extended,00001000
+
+[Always Have Guide Line (All Modes)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Have Guide Line (All Modes)
+// Always Have Guide Line (All Modes)
+patch=1,EE,1033E1D8,extended,00000001
+
+[Quick Score Gain P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain P1
+// Quick Score Gain P1
+patch=1,EE,10350510,extended,0000FFFF
+
+[Max Score P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P1
+// Max Score P1
+patch=1,EE,20350510,extended,05F5E0FF
+
+[Infinite Time To Shoot Bubble Out P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time To Shoot Bubble Out P1
+// Infinite Time To Shoot Bubble Out P1
+patch=1,EE,10350538,extended,00000000
+
+[Never Get Bubbles P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Get Bubbles P1
+// Never Get Bubbles P1
+patch=1,EE,10360BB4,extended,00000000
+
+[Always Get Bubbles P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Get Bubbles P1
+// Always Get Bubbles P1
+patch=1,EE,10360BB4,extended,00000230
+
+[P1 Needs 1 Win To Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Needs 1 Win To Win
+// P1 Needs 1 Win To Win
+patch=1,EE,D033E114,extended,00000000
+
+[P1 Needs 1 Win To Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Needs 1 Win To Win
+// P1 Needs 1 Win To Win
+patch=1,EE,1033E114,extended,00000001
+
+[P1 Never Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Never Wins
+// P1 Never Wins
+patch=1,EE,1033E114,extended,00000000
+
+[Ceiling Never Closes In P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ceiling Never Closes In P1
+// Ceiling Never Closes In P1
+patch=1,EE,10470600,extended,00000000
+
+[Ceiling Always Closes In P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ceiling Always Closes In P1
+// Ceiling Always Closes In P1
+patch=1,EE,D0470600,extended,00000000
+
+[Ceiling Always Closes In P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ceiling Always Closes In P1
+// Ceiling Always Closes In P1
+patch=1,EE,10470600,extended,00000008
+
+[P1 Press {L3} For Super Bubble]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} For Super Bubble
+// P1 Press {L3} For Super Bubble
+patch=1,EE,D0627A02,extended,0000FFFD
+
+[P1 Press {L3} For Super Bubble]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3} For Super Bubble
+// P1 Press {L3} For Super Bubble
+patch=1,EE,103520E0,extended,00000020
+
+[P1 Press {R3} For Bomb Bubble]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3} For Bomb Bubble
+// P1 Press {R3} For Bomb Bubble
+patch=1,EE,D0627A02,extended,0000FFFB
+
+[P1 Press {R3} For Bomb Bubble]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3} For Bomb Bubble
+// P1 Press {R3} For Bomb Bubble
+patch=1,EE,103520E0,extended,00000029
+
+[Quick Score Gain P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Score Gain P2
+// Quick Score Gain P2
+patch=1,EE,103DFB50,extended,0000FFFF
+
+[Max Score P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Score P2
+// Max Score P2
+patch=1,EE,203DFB50,extended,05F5E0FF
+
+[Infinite Time To Shoot Bubble Out P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time To Shoot Bubble Out P2
+// Infinite Time To Shoot Bubble Out P2
+patch=1,EE,103DFB78,extended,00000000
+
+[Never Get Bubbles P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Get Bubbles P2
+// Never Get Bubbles P2
+patch=1,EE,103F01F4,extended,00000000
+
+[Always Get Bubbles P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Get Bubbles P2
+// Always Get Bubbles P2
+patch=1,EE,103F01F4,extended,00000230
+
+[P1 Needs 1 Win To Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Needs 1 Win To Win
+// P1 Needs 1 Win To Win
+patch=1,EE,D033E116,extended,00000000
+
+[P1 Needs 1 Win To Win]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Needs 1 Win To Win
+// P1 Needs 1 Win To Win
+patch=1,EE,1033E116,extended,00000001
+
+[P1 Never Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Never Wins
+// P1 Never Wins
+patch=1,EE,1033E116,extended,00000000
+
+[Ceiling Never Closes In P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ceiling Never Closes In P2
+// Ceiling Never Closes In P2
+patch=1,EE,10507E50,extended,00000000
+
+[Ceiling Always Closes In P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ceiling Always Closes In P2
+// Ceiling Always Closes In P2
+patch=1,EE,D0507E50,extended,00000000
+
+[Ceiling Always Closes In P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ceiling Always Closes In P2
+// Ceiling Always Closes In P2
+patch=1,EE,10507E50,extended,00000008
+
+[P2 Press {L3} For Super Bubble]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L3} For Super Bubble
+// P2 Press {L3} For Super Bubble
+patch=1,EE,D0627C02,extended,0000FFFD
+
+[P2 Press {L3} For Super Bubble]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L3} For Super Bubble
+// P2 Press {L3} For Super Bubble
+patch=1,EE,103E1720,extended,00000020
+
+[P2 Press {R3} For Bomb Bubble]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {R3} For Bomb Bubble
+// P2 Press {R3} For Bomb Bubble
+patch=1,EE,D0627C02,extended,0000FFFB
+
+[P2 Press {R3} For Bomb Bubble]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {R3} For Bomb Bubble
+// P2 Press {R3} For Bomb Bubble
+patch=1,EE,103E1720,extended,00000029
+
+[Infinite Time To Shoot Bubble Out (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time To Shoot Bubble Out (Both Players)
+// Infinite Time To Shoot Bubble Out (Both Players)
+patch=1,EE,20138AE4,extended,00000000
+
+[Ceiling Never Closes In (Both Players)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ceiling Never Closes In (Both Players)
+// Ceiling Never Closes In (Both Players)
+patch=1,EE,201501E0,extended,00000000

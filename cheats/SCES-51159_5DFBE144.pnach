@@ -1,0 +1,259 @@
+gametitle=Getaway, The [SCES-51159] [5DFBE144]
+
+[Start On Last Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start On Last Level
+// Start On Last Level
+patch=1,EE,9030E6BC,extended,0C0C4639
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,2015D644,extended,00000000
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,201751C0,extended,00000000
+
+[Enemies Dont Shoot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enemies Dont Shoot
+// Enemies Dont Shoot
+patch=1,EE,20178E70,extended,03E00008
+
+[Enemies Dont Shoot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Enemies Dont Shoot
+// Enemies Dont Shoot
+patch=1,EE,20178E74,extended,00000000
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,201AD938,extended,00000000
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,201AD9D0,extended,00000000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2018E4CC,extended,3C0140C0
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2018E4DC,extended,AE010360
+
+[Immune To Bullets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immune To Bullets
+// Immune To Bullets
+patch=1,EE,201ACBA0,extended,03E00008
+
+[Immune To Bullets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Immune To Bullets
+// Immune To Bullets
+patch=1,EE,201ACBA4,extended,00000000
+
+[Unlock Extra Features]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Extra Features
+// Unlock Extra Features
+patch=1,EE,20392708,extended,00000002
+
+[Drive Thru Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Drive Thru Cars
+// Drive Thru Cars
+patch=1,EE,202EA530,extended,00000000
+
+[Drive Thru Telephone Polls/Stop Lights/Lamp Posts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Drive Thru Telephone Polls/Stop Lights/Lamp Posts
+// Drive Thru Telephone Polls/Stop Lights/Lamp Posts
+patch=1,EE,202F4814,extended,00000000
+
+[Walk Thru Walls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Walk Thru Walls
+// Walk Thru Walls
+patch=1,EE,101CE69E,extended,00001000
+
+[Walk Thru Walls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Walk Thru Walls
+// Walk Thru Walls
+patch=1,EE,101D0D9E,extended,00001000
+
+[Drive Thru Walls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Drive Thru Walls
+// Drive Thru Walls
+patch=1,EE,101C15B6,extended,00001000
+
+[Walk & Drive Thru Walls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Walk & Drive Thru Walls
+// Walk & Drive Thru Walls
+patch=1,EE,001C60E4,extended,00000000
+
+[Load Game To Access All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Load Game To Access All Levels
+// Load Game To Access All Levels
+patch=1,EE,103932B2,extended,00000018
+
+[Civilians Turn Into Cops On Foot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Civilians Turn Into Cops On Foot
+// Civilians Turn Into Cops On Foot
+patch=1,EE,00104EB4,extended,00000002
+
+[Civilians Turn Into Cops In Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Civilians Turn Into Cops In Cars
+// Civilians Turn Into Cops In Cars
+patch=1,EE,00104EB4,extended,00000003
+
+[Civilians Turn Into Nurses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Civilians Turn Into Nurses
+// Civilians Turn Into Nurses
+patch=1,EE,00104EB4,extended,00000004
+
+[Civilians Turn Into Pure Generics]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Civilians Turn Into Pure Generics
+// Civilians Turn Into Pure Generics
+patch=1,EE,00104EB4,extended,00000005
+
+[Cops On Foot Turn Into Civilians]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cops On Foot Turn Into Civilians
+// Cops On Foot Turn Into Civilians
+patch=1,EE,00104F24,extended,00000001
+
+[Cops On Foot Turn Into Cops In Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cops On Foot Turn Into Cops In Cars
+// Cops On Foot Turn Into Cops In Cars
+patch=1,EE,00104F24,extended,00000003
+
+[Cops On Foot Turn Into Nurses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cops On Foot Turn Into Nurses
+// Cops On Foot Turn Into Nurses
+patch=1,EE,00104F24,extended,00000004
+
+[Cops On Foot Turn Into Pure Generics]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cops On Foot Turn Into Pure Generics
+// Cops On Foot Turn Into Pure Generics
+patch=1,EE,00104F24,extended,00000005
+
+[Cops In Cars Turn Into Civilians]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cops In Cars Turn Into Civilians
+// Cops In Cars Turn Into Civilians
+patch=1,EE,00104EF0,extended,00000001
+
+[Cops In Cars Turn Into Cops On Foot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cops In Cars Turn Into Cops On Foot
+// Cops In Cars Turn Into Cops On Foot
+patch=1,EE,00104EF0,extended,00000002
+
+[Cops In Cars Turn Into Nurses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cops In Cars Turn Into Nurses
+// Cops In Cars Turn Into Nurses
+patch=1,EE,00104EF0,extended,00000004
+
+[Cops In Cars Turn Into Pure Generics]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cops In Cars Turn Into Pure Generics
+// Cops In Cars Turn Into Pure Generics
+patch=1,EE,00104EF0,extended,00000005
+
+[Nurses Turn Into Civilians]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nurses Turn Into Civilians
+// Nurses Turn Into Civilians
+patch=1,EE,00104ED4,extended,00000001
+
+[Nurses Turn Into Cops On Foot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nurses Turn Into Cops On Foot
+// Nurses Turn Into Cops On Foot
+patch=1,EE,00104ED4,extended,00000002
+
+[Nurses Turn Into Cops In Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nurses Turn Into Cops In Cars
+// Nurses Turn Into Cops In Cars
+patch=1,EE,00104ED4,extended,00000003
+
+[Nurses Turn Into Pure Generics]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Nurses Turn Into Pure Generics
+// Nurses Turn Into Pure Generics
+patch=1,EE,00104ED4,extended,00000005
+
+[Pure Generics Turn Into Civilians]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pure Generics Turn Into Civilians
+// Pure Generics Turn Into Civilians
+patch=1,EE,00104F14,extended,00000001
+
+[Pure Generics Turn Into Cops On Foot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pure Generics Turn Into Cops On Foot
+// Pure Generics Turn Into Cops On Foot
+patch=1,EE,00104F14,extended,00000002
+
+[Pure Generics Turn Into Cops In Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pure Generics Turn Into Cops In Cars
+// Pure Generics Turn Into Cops In Cars
+patch=1,EE,00104F14,extended,00000003
+
+[Pure Generics Turn Into Nurses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pure Generics Turn Into Nurses
+// Pure Generics Turn Into Nurses
+patch=1,EE,00104F14,extended,00000004
+
+[Faster Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Faster Characters
+// Faster Characters
+patch=1,EE,203741F8,extended,42000000
+
+[Ultra Fast Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultra Fast Characters
+// Ultra Fast Characters
+patch=1,EE,203741F8,extended,41C00000
+
+[Hella Ultra Fast Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hella Ultra Fast Characters
+// Hella Ultra Fast Characters
+patch=1,EE,203741F8,extended,42C80000
+
+[Super Slow Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Slow Characters
+// Super Slow Characters
+patch=1,EE,203741F8,extended,3F000000

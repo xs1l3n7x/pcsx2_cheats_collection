@@ -1,0 +1,25 @@
+gametitle=Cartoon Network Racing [SLUS-21438] [EAE72CFE]
+
+[Low Total Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Low Total Time
+// Low Total Time
+patch=1,EE,903BA700,extended,00832021
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,202DECD4,extended,AE000010
+
+[Unlock All Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Gallery
+// Unlock All Gallery
+patch=1,EE,4059ED28,extended,000C0002
+
+[Unlock All Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Gallery
+// Unlock All Gallery
+patch=1,EE,00001D4C,extended,00000001

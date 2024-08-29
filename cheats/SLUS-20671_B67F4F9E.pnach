@@ -1,0 +1,103 @@
+gametitle=Mafia [SLUS-20671] [B67F4F9E]
+
+[Passerby]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Passerby
+// Passerby
+patch=1,EE,903CE39C,extended,0C0F502E
+
+[Display Debug Info]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Display Debug Info
+// Display Debug Info
+patch=1,EE,202F11CC,extended,00000000
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,2047D718,extended,00000000
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,1047D708,extended,00000001
+
+[Max Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo
+// Max Infinite Ammo
+patch=1,EE,2047D708,extended,8C830008
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201B3B70,extended,03E00008
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201B3B74,extended,00000000
+
+[No Traffic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Traffic
+// No Traffic
+patch=1,EE,20219400,extended,03E00008
+
+[No Traffic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Traffic
+// No Traffic
+patch=1,EE,20219404,extended,00000000
+
+[Unlock All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cars
+// Unlock All Cars
+patch=1,EE,204F6254,extended,FFFFFFFF
+
+[Unlock All Cars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cars
+// Unlock All Cars
+patch=1,EE,204F6258,extended,FFFFFFFF
+
+[Unlock All Cars (Championship Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cars (Championship Mode)
+// Unlock All Cars (Championship Mode)
+patch=1,EE,202DA8E0,extended,2413FFFF
+
+[Unlock All Cars (Championship Mode)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Cars (Championship Mode)
+// Unlock All Cars (Championship Mode)
+patch=1,EE,202DA8E4,extended,AC53003C
+
+[Disable Police Spawn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Police Spawn
+// Disable Police Spawn
+patch=1,EE,20341140,extended,03E00008
+
+[Disable Police Spawn]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Police Spawn
+// Disable Police Spawn
+patch=1,EE,20341144,extended,00000000
+
+[Lesser Cop AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lesser Cop AI
+// Lesser Cop AI
+patch=1,EE,20370370,extended,03E00008
+
+[Lesser Cop AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lesser Cop AI
+// Lesser Cop AI
+patch=1,EE,20370374,extended,00000000

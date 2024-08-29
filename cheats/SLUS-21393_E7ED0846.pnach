@@ -1,0 +1,289 @@
+gametitle=Gallop Racer 2006 [SLUS-21393] [E7ED0846]
+
+[Week 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Week 4
+// Week 4
+patch=1,EE,902306EC,extended,0C092F4F
+
+[Always Low Game Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Game Time
+// Always Low Game Time
+patch=1,EE,209224A4,extended,00000000
+
+[Infinite Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Points
+// Infinite Points
+patch=1,EE,1092282C,extended,0000FFFF
+
+[Max Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Points
+// Max Points
+patch=1,EE,2092282C,extended,05F5E0FF
+
+[Purchase Bet Tickets Doesnt Decrease Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Purchase Bet Tickets Doesnt Decrease Points
+// Purchase Bet Tickets Doesnt Decrease Points
+patch=1,EE,2049EEA0,extended,26450000
+
+[Purchase Bet Tickets Increases Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Purchase Bet Tickets Increases Points
+// Purchase Bet Tickets Increases Points
+patch=1,EE,2049EEA0,extended,02452821
+
+[P1 Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Timer
+// P1 Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,D02A9042,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Timer
+// P1 Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,20491168,extended,00000000
+
+[P1 Press {L2}+{SELECT} To Restart Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Timer
+// P1 Press {L2}+{SELECT} To Restart Timer
+patch=1,EE,D02A9042,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Restart Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Timer
+// P1 Press {L2}+{SELECT} To Restart Timer
+patch=1,EE,20491168,extended,AE42004C
+
+[P1 Press {CROSS} For Super Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Super Boost
+// P1 Press {CROSS} For Super Boost
+patch=1,EE,200C0220,extended,3C013F80
+
+[P1 Press {CROSS} For Super Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Super Boost
+// P1 Press {CROSS} For Super Boost
+patch=1,EE,200C0224,extended,44810000
+
+[P1 Press {CROSS} For Super Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Super Boost
+// P1 Press {CROSS} For Super Boost
+patch=1,EE,200C0228,extended,46160580
+
+[P1 Press {CROSS} For Super Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Super Boost
+// P1 Press {CROSS} For Super Boost
+patch=1,EE,200C022C,extended,03E00008
+
+[P1 Press {CROSS} For Super Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Super Boost
+// P1 Press {CROSS} For Super Boost
+patch=1,EE,200C0230,extended,E45600D0
+
+[P1 Press {CROSS} For Super Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Super Boost
+// P1 Press {CROSS} For Super Boost
+patch=1,EE,D02A9042,extended,0000BFFF
+
+[P1 Press {CROSS} For Super Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Super Boost
+// P1 Press {CROSS} For Super Boost
+patch=1,EE,204C3220,extended,0C030088
+
+[P1 Press {CROSS} For Super Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Super Boost
+// P1 Press {CROSS} For Super Boost
+patch=1,EE,D02A9042,extended,0000FFFF
+
+[P1 Press {CROSS} For Super Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {CROSS} For Super Boost
+// P1 Press {CROSS} For Super Boost
+patch=1,EE,204C3220,extended,18800018
+
+[Infinite Whip Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Whip Usage
+// Infinite Whip Usage
+patch=1,EE,2048BD1C,extended,AE40000C
+
+[Infinite Whip Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Whip Usage
+// Infinite Whip Usage
+patch=1,EE,2048BD40,extended,AE400010
+
+[Infinite Whip Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Whip Usage
+// Infinite Whip Usage
+patch=1,EE,2048BD68,extended,AE400014
+
+[P1 Press {L1}+Up For Horse 1 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Horse 1 At Start
+// P1 Press {L1}+Up For Horse 1 At Start
+patch=1,EE,D02A9042,extended,0000FBEF
+
+[P1 Press {L1}+Up For Horse 1 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Horse 1 At Start
+// P1 Press {L1}+Up For Horse 1 At Start
+patch=1,EE,204F9A30,extended,00000000
+
+[P1 Press {L1}+Right For Horse 2 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right For Horse 2 At Start
+// P1 Press {L1}+Right For Horse 2 At Start
+patch=1,EE,D02A9042,extended,0000FBDF
+
+[P1 Press {L1}+Right For Horse 2 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right For Horse 2 At Start
+// P1 Press {L1}+Right For Horse 2 At Start
+patch=1,EE,204F9B20,extended,00000000
+
+[P1 Press {L1}+Down For Horse 3 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down For Horse 3 At Start
+// P1 Press {L1}+Down For Horse 3 At Start
+patch=1,EE,D02A9042,extended,0000FBBF
+
+[P1 Press {L1}+Down For Horse 3 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down For Horse 3 At Start
+// P1 Press {L1}+Down For Horse 3 At Start
+patch=1,EE,204F9C10,extended,00000000
+
+[P1 Press {L1}+Left For Horse 4 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Left For Horse 4 At Start
+// P1 Press {L1}+Left For Horse 4 At Start
+patch=1,EE,D02A9042,extended,0000FB7F
+
+[P1 Press {L1}+Left For Horse 4 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Left For Horse 4 At Start
+// P1 Press {L1}+Left For Horse 4 At Start
+patch=1,EE,204F9D00,extended,00000000
+
+[P1 Press {L2}+Up For Horse 5 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Up For Horse 5 At Start
+// P1 Press {L2}+Up For Horse 5 At Start
+patch=1,EE,D02A9042,extended,0000FEEF
+
+[P1 Press {L2}+Up For Horse 5 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Up For Horse 5 At Start
+// P1 Press {L2}+Up For Horse 5 At Start
+patch=1,EE,204F9DF0,extended,00000000
+
+[P1 Press {L2}+Right For Horse 6 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Right For Horse 6 At Start
+// P1 Press {L2}+Right For Horse 6 At Start
+patch=1,EE,D02A9042,extended,0000FEDF
+
+[P1 Press {L2}+Right For Horse 6 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Right For Horse 6 At Start
+// P1 Press {L2}+Right For Horse 6 At Start
+patch=1,EE,204F9EE0,extended,00000000
+
+[P1 Press {L2}+Down For Horse 7 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Down For Horse 7 At Start
+// P1 Press {L2}+Down For Horse 7 At Start
+patch=1,EE,D02A9042,extended,0000FEBF
+
+[P1 Press {L2}+Down For Horse 7 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Down For Horse 7 At Start
+// P1 Press {L2}+Down For Horse 7 At Start
+patch=1,EE,204F9FD0,extended,00000000
+
+[P1 Press {L2}+Left For Horse 8 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Left For Horse 8 At Start
+// P1 Press {L2}+Left For Horse 8 At Start
+patch=1,EE,D02A9042,extended,0000FE7F
+
+[P1 Press {L2}+Left For Horse 8 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Left For Horse 8 At Start
+// P1 Press {L2}+Left For Horse 8 At Start
+patch=1,EE,204FA0C0,extended,00000000
+
+[P1 Press {R1}+Up For Horse 9 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Up For Horse 9 At Start
+// P1 Press {R1}+Up For Horse 9 At Start
+patch=1,EE,D02A9042,extended,0000F7EF
+
+[P1 Press {R1}+Up For Horse 9 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Up For Horse 9 At Start
+// P1 Press {R1}+Up For Horse 9 At Start
+patch=1,EE,204FA1B0,extended,00000000
+
+[P1 Press {R1}+Right For Horse 10 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Right For Horse 10 At Start
+// P1 Press {R1}+Right For Horse 10 At Start
+patch=1,EE,D02A9042,extended,0000F7DF
+
+[P1 Press {R1}+Right For Horse 10 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Right For Horse 10 At Start
+// P1 Press {R1}+Right For Horse 10 At Start
+patch=1,EE,204FA2A0,extended,00000000
+
+[P1 Press {R1}+Down For Horse 11 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Down For Horse 11 At Start
+// P1 Press {R1}+Down For Horse 11 At Start
+patch=1,EE,D02A9042,extended,0000F7BF
+
+[P1 Press {R1}+Down For Horse 11 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Down For Horse 11 At Start
+// P1 Press {R1}+Down For Horse 11 At Start
+patch=1,EE,204FA390,extended,00000000
+
+[P1 Press {R1}+Left For Horse 12 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Left For Horse 12 At Start
+// P1 Press {R1}+Left For Horse 12 At Start
+patch=1,EE,D02A9042,extended,0000F77F
+
+[P1 Press {R1}+Left For Horse 12 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Left For Horse 12 At Start
+// P1 Press {R1}+Left For Horse 12 At Start
+patch=1,EE,204FA480,extended,00000000
+
+[P1 Press {R2}+Up For Horse 13 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+Up For Horse 13 At Start
+// P1 Press {R2}+Up For Horse 13 At Start
+patch=1,EE,D02A9042,extended,0000FDEF
+
+[P1 Press {R2}+Up For Horse 13 At Start]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+Up For Horse 13 At Start
+// P1 Press {R2}+Up For Horse 13 At Start
+patch=1,EE,204FA570,extended,00000000

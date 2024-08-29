@@ -1,0 +1,31 @@
+gametitle=F1 2001 [SLES-50423] [063FF7DB]
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,F0100008,extended,001171B7
+
+[Have Training Complete]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Training Complete
+// Have Training Complete
+patch=1,EE,403B2738,extended,00060001
+
+[Have Training Complete]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Training Complete
+// Have Training Complete
+patch=1,EE,64646464,extended,00000000
+
+[Have Track Challenge Complete]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Track Challenge Complete
+// Have Track Challenge Complete
+patch=1,EE,403B2750,extended,00050001
+
+[Have Track Challenge Complete]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Track Challenge Complete
+// Have Track Challenge Complete
+patch=1,EE,64646464,extended,00000000

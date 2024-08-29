@@ -1,0 +1,1117 @@
+gametitle=Dr. Muto [SLUS-20458] [FF60D3ED]
+
+[Prototype Bike]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Prototype Bike
+// Prototype Bike
+patch=1,EE,90294D74,extended,0C0A8ED9
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,102FAFB8,extended,00000000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,202EE798,extended,00000006
+
+[Max Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Health
+// Max Health
+patch=1,EE,202EE794,extended,00000006
+
+[Max Heart Powerups]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Heart Powerups
+// Max Heart Powerups
+patch=1,EE,103A3FBC,extended,00000063
+
+[Max Overall Isotopes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Overall Isotopes
+// Max Overall Isotopes
+patch=1,EE,103A3E94,extended,0000109A
+
+[Max Overall Terra]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Overall Terra
+// Max Overall Terra
+patch=1,EE,103A3E98,extended,00000056
+
+[Infinite Double Jumps (As Mouse)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps (As Mouse)
+// Infinite Double Jumps (As Mouse)
+patch=1,EE,2016BD7C,extended,00000000
+
+[Go Anywhere]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Go Anywhere
+// Go Anywhere
+patch=1,EE,202C0E00,extended,00000001
+
+[Invincibility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invincibility
+// Invincibility
+patch=1,EE,20411C80,extended,00000001
+
+[Never Take Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Take Damage
+// Never Take Damage
+patch=1,EE,20411C84,extended,00000001
+
+[Every Gadget]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Every Gadget
+// Every Gadget
+patch=1,EE,20411C88,extended,00000001
+
+[Unlock Every Morph]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Every Morph
+// Unlock Every Morph
+patch=1,EE,20411C8C,extended,00000001
+
+[Secret Morphs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Secret Morphs
+// Secret Morphs
+patch=1,EE,20411CA0,extended,00000001
+
+[See The Movies]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=See The Movies
+// See The Movies
+patch=1,EE,20411CA4,extended,00000001
+
+[Super Ending Unlocked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Ending Unlocked
+// Super Ending Unlocked
+patch=1,EE,20411CA8,extended,00000001
+
+[Super Baller]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Baller
+// Super Baller
+patch=1,EE,203A3EC8,extended,00000001
+
+[Pocket Rocket]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pocket Rocket
+// Pocket Rocket
+patch=1,EE,203A3EE4,extended,00000001
+
+[Super Boots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Boots
+// Super Boots
+patch=1,EE,203A3F1C,extended,00000001
+
+[Rocket Boots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rocket Boots
+// Rocket Boots
+patch=1,EE,203A3F38,extended,00000001
+
+[Invisibility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisibility
+// Invisibility
+patch=1,EE,203A3F54,extended,00000001
+
+[Invulnerability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invulnerability
+// Invulnerability
+patch=1,EE,203A3F70,extended,00000001
+
+[All Blueprints]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Blueprints
+// All Blueprints
+patch=1,EE,203A3EC8,extended,00000001
+
+[All Blueprints]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Blueprints
+// All Blueprints
+patch=1,EE,203A3EE4,extended,00000001
+
+[All Blueprints]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Blueprints
+// All Blueprints
+patch=1,EE,403A3F1C,extended,00040007
+
+[All Blueprints]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Blueprints
+// All Blueprints
+patch=1,EE,00000001,extended,00000000
+
+[Super Baller]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Baller
+// Super Baller
+patch=1,EE,D03A3EC4,extended,00200006
+
+[Super Baller]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Baller
+// Super Baller
+patch=1,EE,103A3EC4,extended,00000006
+
+[Super Baller]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Baller
+// Super Baller
+patch=1,EE,D03A3EC4,extended,00300007
+
+[Super Baller]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Baller
+// Super Baller
+patch=1,EE,103A3EC4,extended,00000007
+
+[Pocket Rocket]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pocket Rocket
+// Pocket Rocket
+patch=1,EE,D03A3EE0,extended,00200006
+
+[Pocket Rocket]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pocket Rocket
+// Pocket Rocket
+patch=1,EE,103A3EE0,extended,00000006
+
+[Pocket Rocket]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pocket Rocket
+// Pocket Rocket
+patch=1,EE,D03A3EE0,extended,00300007
+
+[Pocket Rocket]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pocket Rocket
+// Pocket Rocket
+patch=1,EE,103A3EE0,extended,00000007
+
+[Super Boots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Boots
+// Super Boots
+patch=1,EE,D03A3F18,extended,00200006
+
+[Super Boots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Boots
+// Super Boots
+patch=1,EE,103A3F18,extended,00000006
+
+[Super Boots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Boots
+// Super Boots
+patch=1,EE,D03A3F18,extended,00300007
+
+[Super Boots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Super Boots
+// Super Boots
+patch=1,EE,103A3F18,extended,00000007
+
+[Rocket Boots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rocket Boots
+// Rocket Boots
+patch=1,EE,D03A3F34,extended,00200006
+
+[Rocket Boots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rocket Boots
+// Rocket Boots
+patch=1,EE,103A3F34,extended,00000006
+
+[Rocket Boots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rocket Boots
+// Rocket Boots
+patch=1,EE,D03A3F34,extended,00300007
+
+[Rocket Boots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rocket Boots
+// Rocket Boots
+patch=1,EE,103A3F34,extended,00000007
+
+[Invisibility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisibility
+// Invisibility
+patch=1,EE,D03A3F50,extended,00200006
+
+[Invisibility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisibility
+// Invisibility
+patch=1,EE,103A3F50,extended,00000006
+
+[Invisibility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisibility
+// Invisibility
+patch=1,EE,D03A3F50,extended,00300007
+
+[Invisibility]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisibility
+// Invisibility
+patch=1,EE,103A3F50,extended,00000007
+
+[Invulnerability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invulnerability
+// Invulnerability
+patch=1,EE,D03A3F6C,extended,00200006
+
+[Invulnerability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invulnerability
+// Invulnerability
+patch=1,EE,103A3F6C,extended,00000006
+
+[Invulnerability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invulnerability
+// Invulnerability
+patch=1,EE,D03A3F6C,extended,00300007
+
+[Invulnerability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invulnerability
+// Invulnerability
+patch=1,EE,103A3F6C,extended,00000007
+
+[Gerbilus Doctorus]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gerbilus Doctorus
+// Gerbilus Doctorus
+patch=1,EE,203A3F98,extended,00000001
+
+[Doczilla]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Doczilla
+// Doczilla
+patch=1,EE,203A3F9C,extended,00000001
+
+[Spiny Docfish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spiny Docfish
+// Spiny Docfish
+patch=1,EE,203A3FA0,extended,00000001
+
+[Teradoctyl]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Teradoctyl
+// Teradoctyl
+patch=1,EE,203A3FA4,extended,00000001
+
+[Arachnidoc]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Arachnidoc
+// Arachnidoc
+patch=1,EE,203A3FAC,extended,00000001
+
+[Monkey]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Monkey
+// Monkey
+patch=1,EE,003A3E9A,extended,000000FF
+
+[Roach]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Roach
+// Roach
+patch=1,EE,003A3E9B,extended,000000FF
+
+[Fireant]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fireant
+// Fireant
+patch=1,EE,003A3E9C,extended,000000FF
+
+[Chark]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chark
+// Chark
+patch=1,EE,003A3E9D,extended,000000FF
+
+[Tarfish]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tarfish
+// Tarfish
+patch=1,EE,003A3E9E,extended,000000FF
+
+[Airbag]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Airbag
+// Airbag
+patch=1,EE,003A3E9F,extended,000000FF
+
+[Peligul]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Peligul
+// Peligul
+patch=1,EE,003A3EA0,extended,000000FF
+
+[Max Isotopes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Isotopes
+// Max Isotopes
+patch=1,EE,103A3E48,extended,00000064
+
+[Max Terra]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Terra
+// Max Terra
+patch=1,EE,103A3E4A,extended,00000002
+
+[Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 1
+// Mission 1
+patch=1,EE,00411854,extended,00000004
+
+[Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 2
+// Mission 2
+patch=1,EE,0041185C,extended,00000004
+
+[Max Isotopes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Isotopes
+// Max Isotopes
+patch=1,EE,103A3E4C,extended,0000012C
+
+[Max Terra]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Terra
+// Max Terra
+patch=1,EE,003A3E4E,extended,00000007
+
+[Max DNA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DNA
+// Max DNA
+patch=1,EE,003A3E4F,extended,00000011
+
+[Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 1
+// Mission 1
+patch=1,EE,00411B64,extended,00000004
+
+[Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 2
+// Mission 2
+patch=1,EE,00411B6C,extended,00000004
+
+[Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 3
+// Mission 3
+patch=1,EE,00411B74,extended,00000004
+
+[Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 4
+// Mission 4
+patch=1,EE,00411B7C,extended,00000004
+
+[Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 5
+// Mission 5
+patch=1,EE,00411B84,extended,00000004
+
+[Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 6
+// Mission 6
+patch=1,EE,00411B8C,extended,00000004
+
+[Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 7
+// Mission 7
+patch=1,EE,00411B94,extended,00000004
+
+[Max Isotopes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Isotopes
+// Max Isotopes
+patch=1,EE,103A3E50,extended,0000012C
+
+[Max Terra]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Terra
+// Max Terra
+patch=1,EE,003A3E52,extended,00000007
+
+[Max DNA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DNA
+// Max DNA
+patch=1,EE,003A3E53,extended,0000001B
+
+[Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 1
+// Mission 1
+patch=1,EE,00411B9C,extended,00000004
+
+[Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 2
+// Mission 2
+patch=1,EE,00411BA4,extended,00000004
+
+[Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 3
+// Mission 3
+patch=1,EE,00411BAC,extended,00000004
+
+[Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 4
+// Mission 4
+patch=1,EE,00411BB4,extended,00000004
+
+[Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 5
+// Mission 5
+patch=1,EE,00411BBC,extended,00000004
+
+[Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 6
+// Mission 6
+patch=1,EE,00411BC4,extended,00000004
+
+[Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 7
+// Mission 7
+patch=1,EE,00411BCC,extended,00000004
+
+[Max Isotopes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Isotopes
+// Max Isotopes
+patch=1,EE,103A3E58,extended,0000012C
+
+[Max Terra]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Terra
+// Max Terra
+patch=1,EE,003A3E5A,extended,00000007
+
+[Max DNA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DNA
+// Max DNA
+patch=1,EE,003A3E5B,extended,0000003E
+
+[Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 1
+// Mission 1
+patch=1,EE,00411C0C,extended,00000004
+
+[Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 2
+// Mission 2
+patch=1,EE,00411C14,extended,00000004
+
+[Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 3
+// Mission 3
+patch=1,EE,00411C1C,extended,00000004
+
+[Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 4
+// Mission 4
+patch=1,EE,00411C24,extended,00000004
+
+[Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 5
+// Mission 5
+patch=1,EE,00411C2C,extended,00000004
+
+[Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 6
+// Mission 6
+patch=1,EE,00411C34,extended,00000004
+
+[Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 7
+// Mission 7
+patch=1,EE,00411C3C,extended,00000004
+
+[Max Isotopes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Isotopes
+// Max Isotopes
+patch=1,EE,103A3E60,extended,0000012C
+
+[Max Terra]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Terra
+// Max Terra
+patch=1,EE,003A3E62,extended,00000007
+
+[Max DNA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DNA
+// Max DNA
+patch=1,EE,003A3E63,extended,0000001C
+
+[Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 1
+// Mission 1
+patch=1,EE,00411A44,extended,00000004
+
+[Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 2
+// Mission 2
+patch=1,EE,00411A4C,extended,00000004
+
+[Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 3
+// Mission 3
+patch=1,EE,00411A54,extended,00000004
+
+[Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 4
+// Mission 4
+patch=1,EE,00411A5C,extended,00000004
+
+[Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 5
+// Mission 5
+patch=1,EE,00411A64,extended,00000004
+
+[Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 6
+// Mission 6
+patch=1,EE,00411A6C,extended,00000004
+
+[Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 7
+// Mission 7
+patch=1,EE,00411A74,extended,00000004
+
+[Max Isotopes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Isotopes
+// Max Isotopes
+patch=1,EE,103A3E64,extended,0000012C
+
+[Max Terra]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Terra
+// Max Terra
+patch=1,EE,003A3E66,extended,00000007
+
+[Max DNA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DNA
+// Max DNA
+patch=1,EE,003A3E67,extended,00000005
+
+[Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 1
+// Mission 1
+patch=1,EE,00411A7C,extended,00000004
+
+[Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 2
+// Mission 2
+patch=1,EE,00411A84,extended,00000004
+
+[Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 3
+// Mission 3
+patch=1,EE,00411A8C,extended,00000004
+
+[Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 4
+// Mission 4
+patch=1,EE,00411A94,extended,00000004
+
+[Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 5
+// Mission 5
+patch=1,EE,00411A9C,extended,00000004
+
+[Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 6
+// Mission 6
+patch=1,EE,00411AA4,extended,00000004
+
+[Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 7
+// Mission 7
+patch=1,EE,00411AAC,extended,00000004
+
+[Max Isotopes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Isotopes
+// Max Isotopes
+patch=1,EE,103A3E68,extended,0000012C
+
+[Max Terra]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Terra
+// Max Terra
+patch=1,EE,003A3E6A,extended,00000007
+
+[Max DNA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DNA
+// Max DNA
+patch=1,EE,003A3E6B,extended,0000002A
+
+[Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 1
+// Mission 1
+patch=1,EE,00411AB4,extended,00000004
+
+[Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 2
+// Mission 2
+patch=1,EE,00411ABC,extended,00000004
+
+[Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 3
+// Mission 3
+patch=1,EE,00411AC4,extended,00000004
+
+[Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 4
+// Mission 4
+patch=1,EE,00411ACC,extended,00000004
+
+[Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 5
+// Mission 5
+patch=1,EE,00411AD4,extended,00000004
+
+[Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 6
+// Mission 6
+patch=1,EE,00411ADC,extended,00000004
+
+[Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 7
+// Mission 7
+patch=1,EE,00411AE4,extended,00000004
+
+[Max Isotopes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Isotopes
+// Max Isotopes
+patch=1,EE,103A3E6C,extended,0000012C
+
+[Max Terra]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Terra
+// Max Terra
+patch=1,EE,003A3E6E,extended,00000007
+
+[Max DNA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DNA
+// Max DNA
+patch=1,EE,003A3E6F,extended,00000003
+
+[Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 1
+// Mission 1
+patch=1,EE,00411AEC,extended,00000004
+
+[Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 2
+// Mission 2
+patch=1,EE,00411AF4,extended,00000004
+
+[Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 3
+// Mission 3
+patch=1,EE,00411AFC,extended,00000004
+
+[Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 4
+// Mission 4
+patch=1,EE,00411B04,extended,00000004
+
+[Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 5
+// Mission 5
+patch=1,EE,00411B0C,extended,00000004
+
+[Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 6
+// Mission 6
+patch=1,EE,00411B14,extended,00000004
+
+[Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 7
+// Mission 7
+patch=1,EE,00411B1C,extended,00000004
+
+[Max Isotopes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Isotopes
+// Max Isotopes
+patch=1,EE,103A3E74,extended,00000190
+
+[Max Terra]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Terra
+// Max Terra
+patch=1,EE,003A3E76,extended,00000007
+
+[Max DNA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DNA
+// Max DNA
+patch=1,EE,003A3E77,extended,00000017
+
+[Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 1
+// Mission 1
+patch=1,EE,00411924,extended,00000004
+
+[Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 2
+// Mission 2
+patch=1,EE,0041192C,extended,00000004
+
+[Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 3
+// Mission 3
+patch=1,EE,00411934,extended,00000004
+
+[Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 4
+// Mission 4
+patch=1,EE,0041193C,extended,00000004
+
+[Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 5
+// Mission 5
+patch=1,EE,00411944,extended,00000004
+
+[Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 6
+// Mission 6
+patch=1,EE,0041194C,extended,00000004
+
+[Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 7
+// Mission 7
+patch=1,EE,00411954,extended,00000004
+
+[Max Isotopes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Isotopes
+// Max Isotopes
+patch=1,EE,103A3E78,extended,00000190
+
+[Max Terra]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Terra
+// Max Terra
+patch=1,EE,003A3E7A,extended,00000007
+
+[Max DNA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DNA
+// Max DNA
+patch=1,EE,003A3E7B,extended,0000001F
+
+[Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 1
+// Mission 1
+patch=1,EE,0041195C,extended,00000004
+
+[Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 2
+// Mission 2
+patch=1,EE,00411964,extended,00000004
+
+[Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 3
+// Mission 3
+patch=1,EE,0041196C,extended,00000004
+
+[Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 4
+// Mission 4
+patch=1,EE,00411974,extended,00000004
+
+[Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 5
+// Mission 5
+patch=1,EE,0041197C,extended,00000004
+
+[Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 6
+// Mission 6
+patch=1,EE,00411984,extended,00000004
+
+[Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 7
+// Mission 7
+patch=1,EE,0041198C,extended,00000004
+
+[Max Isotopes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Isotopes
+// Max Isotopes
+patch=1,EE,103A3E7C,extended,00000190
+
+[Max Terra]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Terra
+// Max Terra
+patch=1,EE,003A3E7E,extended,00000007
+
+[Max DNA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DNA
+// Max DNA
+patch=1,EE,003A3E7F,extended,00000007
+
+[Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 1
+// Mission 1
+patch=1,EE,00411994,extended,00000004
+
+[Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 2
+// Mission 2
+patch=1,EE,0041199C,extended,00000004
+
+[Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 3
+// Mission 3
+patch=1,EE,004119A4,extended,00000004
+
+[Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 4
+// Mission 4
+patch=1,EE,004119AC,extended,00000004
+
+[Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 5
+// Mission 5
+patch=1,EE,004119B4,extended,00000004
+
+[Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 6
+// Mission 6
+patch=1,EE,004119BC,extended,00000004
+
+[Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 7
+// Mission 7
+patch=1,EE,004119C4,extended,00000004
+
+[Max Isotopes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Isotopes
+// Max Isotopes
+patch=1,EE,103A3E80,extended,00000190
+
+[Max Terra]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Terra
+// Max Terra
+patch=1,EE,003A3E82,extended,00000007
+
+[Max DNA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DNA
+// Max DNA
+patch=1,EE,003A3E83,extended,0000000F
+
+[Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 1
+// Mission 1
+patch=1,EE,004119CC,extended,00000004
+
+[Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 2
+// Mission 2
+patch=1,EE,004119D4,extended,00000004
+
+[Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 3
+// Mission 3
+patch=1,EE,004119DC,extended,00000004
+
+[Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 4
+// Mission 4
+patch=1,EE,004119E4,extended,00000004
+
+[Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 5
+// Mission 5
+patch=1,EE,004119EC,extended,00000004
+
+[Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 6
+// Mission 6
+patch=1,EE,004119F4,extended,00000004
+
+[Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 7
+// Mission 7
+patch=1,EE,004119FC,extended,00000004
+
+[Max Isotopes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Isotopes
+// Max Isotopes
+patch=1,EE,103A3E88,extended,000001C2
+
+[Max Terra]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Terra
+// Max Terra
+patch=1,EE,003A3E8A,extended,00000007
+
+[Max DNA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DNA
+// Max DNA
+patch=1,EE,003A3E8B,extended,0000000D
+
+[Mission 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 1
+// Mission 1
+patch=1,EE,00411874,extended,00000004
+
+[Mission 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 2
+// Mission 2
+patch=1,EE,0041187C,extended,00000004
+
+[Mission 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 3
+// Mission 3
+patch=1,EE,00411884,extended,00000004
+
+[Mission 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 4
+// Mission 4
+patch=1,EE,0041188C,extended,00000004
+
+[Mission 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 5
+// Mission 5
+patch=1,EE,00411894,extended,00000004
+
+[Mission 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 6
+// Mission 6
+patch=1,EE,0041189C,extended,00000004
+
+[Mission 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mission 7
+// Mission 7
+patch=1,EE,004118A4,extended,00000004

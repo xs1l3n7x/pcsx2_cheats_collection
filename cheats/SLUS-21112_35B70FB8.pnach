@@ -1,0 +1,1459 @@
+gametitle=L.A. Rush [SLUS-21112] [35B70FB8]
+
+[P1 Press {SELECT}+Right For Super Hyper Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {SELECT}+Right For Super Hyper Mode
+// P1 Press {SELECT}+Right For Super Hyper Mode
+patch=1,EE,903158E4,extended,0C0C6CE9
+
+[Infinite Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Money
+// Infinite Money
+patch=1,EE,103FC100,extended,0000FFFF
+
+[Max Money]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Money
+// Max Money
+patch=1,EE,203FC100,extended,05F5E0FF
+
+[Infinite Damage Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Damage Meter
+// Infinite Damage Meter
+patch=1,EE,21F17FA0,extended,00000000
+
+[Infinite Damage Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Damage Meter
+// Infinite Damage Meter
+patch=1,EE,21F17FA4,extended,4A6E097F
+
+[Max Infinite NOS]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite NOS
+// Max Infinite NOS
+patch=1,EE,21F181BC,extended,00000009
+
+[Infinite NOS]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite NOS
+// Infinite NOS
+patch=1,EE,2016BED4,extended,00000000
+
+[Extra NOS]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra NOS
+// Extra NOS
+patch=1,EE,1016BED0,extended,00000001
+
+[Drive Thru Cars & Buildings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Drive Thru Cars & Buildings
+// Drive Thru Cars & Buildings
+patch=1,EE,20190A18,extended,03E00008
+
+[Drive Thru Cars & Buildings]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Drive Thru Cars & Buildings
+// Drive Thru Cars & Buildings
+patch=1,EE,20190A1C,extended,00000000
+
+[Drive Thru Cars & No Visual Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Drive Thru Cars & No Visual Damage
+// Drive Thru Cars & No Visual Damage
+patch=1,EE,20175318,extended,03E00008
+
+[Drive Thru Cars & No Visual Damage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Drive Thru Cars & No Visual Damage
+// Drive Thru Cars & No Visual Damage
+patch=1,EE,2017531C,extended,00000000
+
+[Wanted Level Never Increases]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wanted Level Never Increases
+// Wanted Level Never Increases
+patch=1,EE,20149760,extended,00000000
+
+[Wanted Level Always 0 Stars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wanted Level Always 0 Stars
+// Wanted Level Always 0 Stars
+patch=1,EE,41F7BF34,extended,00050001
+
+[Wanted Level Always 0 Stars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wanted Level Always 0 Stars
+// Wanted Level Always 0 Stars
+patch=1,EE,00000000,extended,00000000
+
+[Wanted Level Always 1 Star]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wanted Level Always 1 Star
+// Wanted Level Always 1 Star
+patch=1,EE,21F7BF34,extended,3F800000
+
+[Wanted Level Always 1 Star]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wanted Level Always 1 Star
+// Wanted Level Always 1 Star
+patch=1,EE,41F7BF38,extended,00040001
+
+[Wanted Level Always 1 Star]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wanted Level Always 1 Star
+// Wanted Level Always 1 Star
+patch=1,EE,00000000,extended,00000000
+
+[Wanted Level Always 2 Stars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wanted Level Always 2 Stars
+// Wanted Level Always 2 Stars
+patch=1,EE,21F7BF34,extended,3F800000
+
+[Wanted Level Always 2 Stars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wanted Level Always 2 Stars
+// Wanted Level Always 2 Stars
+patch=1,EE,21F7BF38,extended,3F800000
+
+[Wanted Level Always 2 Stars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wanted Level Always 2 Stars
+// Wanted Level Always 2 Stars
+patch=1,EE,41F7BF3C,extended,00030001
+
+[Wanted Level Always 2 Stars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wanted Level Always 2 Stars
+// Wanted Level Always 2 Stars
+patch=1,EE,00000000,extended,00000000
+
+[Wanted Level Always 3 Star]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wanted Level Always 3 Star
+// Wanted Level Always 3 Star
+patch=1,EE,41F7BF34,extended,00030001
+
+[Wanted Level Always 3 Star]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wanted Level Always 3 Star
+// Wanted Level Always 3 Star
+patch=1,EE,3F800000,extended,00000000
+
+[Wanted Level Always 3 Star]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wanted Level Always 3 Star
+// Wanted Level Always 3 Star
+patch=1,EE,21F7BF40,extended,00000000
+
+[Wanted Level Always 3 Star]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wanted Level Always 3 Star
+// Wanted Level Always 3 Star
+patch=1,EE,21F7BF44,extended,00000000
+
+[Wanted Level Always 4 Star]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wanted Level Always 4 Star
+// Wanted Level Always 4 Star
+patch=1,EE,41F7BF34,extended,00030001
+
+[Wanted Level Always 4 Star]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wanted Level Always 4 Star
+// Wanted Level Always 4 Star
+patch=1,EE,3F800000,extended,00000000
+
+[Wanted Level Always 4 Star]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wanted Level Always 4 Star
+// Wanted Level Always 4 Star
+patch=1,EE,21F7BF44,extended,00000000
+
+[Wanted Level Always 5 Star]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wanted Level Always 5 Star
+// Wanted Level Always 5 Star
+patch=1,EE,41F7BF34,extended,00050001
+
+[Wanted Level Always 5 Star]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wanted Level Always 5 Star
+// Wanted Level Always 5 Star
+patch=1,EE,3F800000,extended,00000000
+
+[02 Corvette Z06]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=02 Corvette Z06
+// 02 Corvette Z06
+patch=1,EE,203FC3E0,extended,00000002
+
+[70 Chevelle SS-454 LS6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=70 Chevelle SS-454 LS6
+// 70 Chevelle SS-454 LS6
+patch=1,EE,203FC3E4,extended,00000002
+
+[69 Hemi Charger R/T]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=69 Hemi Charger R/T
+// 69 Hemi Charger R/T
+patch=1,EE,203FC3E8,extended,00000002
+
+[69 Corvette Stingray]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=69 Corvette Stingray
+// 69 Corvette Stingray
+patch=1,EE,203FC3EC,extended,00000002
+
+[04 H2 Hummer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=04 H2 Hummer
+// 04 H2 Hummer
+patch=1,EE,203FC3F0,extended,00000002
+
+[02 Skyline GTR R34]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=02 Skyline GTR R34
+// 02 Skyline GTR R34
+patch=1,EE,203FC3F4,extended,00000002
+
+[67 Camaro]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=67 Camaro
+// 67 Camaro
+patch=1,EE,203FC3F8,extended,00000002
+
+[04 Escalade]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=04 Escalade
+// 04 Escalade
+patch=1,EE,203FC3FC,extended,00000002
+
+[64 Impala SS]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=64 Impala SS
+// 64 Impala SS
+patch=1,EE,203FC400,extended,00000002
+
+[04 Exige]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=04 Exige
+// 04 Exige
+patch=1,EE,203FC404,extended,00000002
+
+[03 Eclipse Spyder]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=03 Eclipse Spyder
+// 03 Eclipse Spyder
+patch=1,EE,203FC408,extended,00000002
+
+[03 Lancer Evo 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=03 Lancer Evo 8
+// 03 Lancer Evo 8
+patch=1,EE,203FC40C,extended,00000002
+
+[02 Skyline GTR R34]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=02 Skyline GTR R34
+// 02 Skyline GTR R34
+patch=1,EE,203FC410,extended,00000002
+
+[66 GTO]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=66 GTO
+// 66 GTO
+patch=1,EE,203FC414,extended,00000002
+
+[04 Elise 111]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=04 Elise 111
+// 04 Elise 111
+patch=1,EE,203FC418,extended,00000002
+
+[04 Viper SRT-10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=04 Viper SRT-10
+// 04 Viper SRT-10
+patch=1,EE,203FC41C,extended,00000002
+
+[95 240SX]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=95 240SX
+// 95 240SX
+patch=1,EE,203FC420,extended,00000002
+
+[05 Ram Rumble Bee]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Ram Rumble Bee
+// 05 Ram Rumble Bee
+patch=1,EE,203FC424,extended,00000002
+
+[06 Charger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=06 Charger
+// 06 Charger
+patch=1,EE,203FC428,extended,00000002
+
+[04 Chevrolet SSR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=04 Chevrolet SSR
+// 04 Chevrolet SSR
+patch=1,EE,203FC42C,extended,00000002
+
+[04 Saleen S7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=04 Saleen S7
+// 04 Saleen S7
+patch=1,EE,203FC430,extended,00000002
+
+[04 Sentra SE-R Spec V]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=04 Sentra SE-R Spec V
+// 04 Sentra SE-R Spec V
+patch=1,EE,203FC434,extended,00000002
+
+[05 GTO]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 GTO
+// 05 GTO
+patch=1,EE,203FC438,extended,00000002
+
+[04 Infiniti FX 45]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=04 Infiniti FX 45
+// 04 Infiniti FX 45
+patch=1,EE,203FC43C,extended,00000002
+
+[05 Magnum RT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Magnum RT
+// 05 Magnum RT
+patch=1,EE,203FC440,extended,00000002
+
+[05 Neon SRT-4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Neon SRT-4
+// 05 Neon SRT-4
+patch=1,EE,203FC444,extended,00000002
+
+[05 Frontier]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Frontier
+// 05 Frontier
+patch=1,EE,203FC448,extended,00000002
+
+[88 Cutlass Supreme]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=88 Cutlass Supreme
+// 88 Cutlass Supreme
+patch=1,EE,203FC44C,extended,00000002
+
+[87 GNX]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=87 GNX
+// 87 GNX
+patch=1,EE,203FC450,extended,00000002
+
+[73 Monte Carlo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=73 Monte Carlo
+// 73 Monte Carlo
+patch=1,EE,203FC454,extended,00000002
+
+[71 Eldorado]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=71 Eldorado
+// 71 Eldorado
+patch=1,EE,203FC458,extended,00000002
+
+[59 Impala]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=59 Impala
+// 59 Impala
+patch=1,EE,203FC45C,extended,00000002
+
+[05 Titan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Titan
+// 05 Titan
+patch=1,EE,203FC460,extended,00000002
+
+[00 Impala SS]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=00 Impala SS
+// 00 Impala SS
+patch=1,EE,203FC464,extended,00000002
+
+[06 Solstice]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=06 Solstice
+// 06 Solstice
+patch=1,EE,203FC468,extended,00000002
+
+[03 Impreza WRX STI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=03 Impreza WRX STI
+// 03 Impreza WRX STI
+patch=1,EE,203FC46C,extended,00000002
+
+[05 Concept 01]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Concept 01
+// 05 Concept 01
+patch=1,EE,203FC470,extended,00000002
+
+[05 Concept 02]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Concept 02
+// 05 Concept 02
+patch=1,EE,203FC474,extended,00000002
+
+[05 Concept 03]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Concept 03
+// 05 Concept 03
+patch=1,EE,203FC478,extended,00000002
+
+[05 Concept 04]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Concept 04
+// 05 Concept 04
+patch=1,EE,203FC47C,extended,00000002
+
+[05 Concept 05]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Concept 05
+// 05 Concept 05
+patch=1,EE,203FC480,extended,00000002
+
+[05 Concept 06]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Concept 06
+// 05 Concept 06
+patch=1,EE,203FC484,extended,00000002
+
+[05 Concept 07]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Concept 07
+// 05 Concept 07
+patch=1,EE,203FC488,extended,00000002
+
+[05 Concept 08]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Concept 08
+// 05 Concept 08
+patch=1,EE,203FC48C,extended,00000002
+
+[05 Concept 09]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Concept 09
+// 05 Concept 09
+patch=1,EE,203FC490,extended,00000002
+
+[05 Concept 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Concept 10
+// 05 Concept 10
+patch=1,EE,203FC494,extended,00000002
+
+[05 Concept 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Concept 11
+// 05 Concept 11
+patch=1,EE,203FC498,extended,00000002
+
+[05 Concept 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Concept 12
+// 05 Concept 12
+patch=1,EE,203FC49C,extended,00000002
+
+[05 Concept 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Concept 13
+// 05 Concept 13
+patch=1,EE,203FC4A0,extended,00000002
+
+[05 Concept 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Concept 14
+// 05 Concept 14
+patch=1,EE,203FC4A4,extended,00000002
+
+[05 Concept 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Concept 15
+// 05 Concept 15
+patch=1,EE,203FC4A8,extended,00000002
+
+[05 Concept 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Concept 16
+// 05 Concept 16
+patch=1,EE,203FC4AC,extended,00000002
+
+[05 Concept 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Concept 17
+// 05 Concept 17
+patch=1,EE,203FC4B0,extended,00000002
+
+[05 Concept 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Concept 18
+// 05 Concept 18
+patch=1,EE,203FC4B4,extended,00000002
+
+[05 Concept 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Concept 19
+// 05 Concept 19
+patch=1,EE,203FC4B8,extended,00000002
+
+[05 Concept 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05 Concept 20
+// 05 Concept 20
+patch=1,EE,203FC4BC,extended,00000002
+
+[All Cars In Garage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Cars In Garage
+// All Cars In Garage
+patch=1,EE,403FC3E0,extended,00380001
+
+[All Cars In Garage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Cars In Garage
+// All Cars In Garage
+patch=1,EE,00000002,extended,00000000
+
+[Hollywood-Beveryly Hills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Beveryly Hills
+// Hollywood-Beveryly Hills
+patch=1,EE,203FC118,extended,00000005
+
+[Santa Monica-Santa Monica]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Santa Monica
+// Santa Monica-Santa Monica
+patch=1,EE,203FC11C,extended,00000005
+
+[South Central-Carson]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Carson
+// South Central-Carson
+patch=1,EE,203FC120,extended,00000005
+
+[South Bay-The Docks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-The Docks
+// South Bay-The Docks
+patch=1,EE,203FC124,extended,00000005
+
+[Downtown-Downtown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Downtown
+// Downtown-Downtown
+patch=1,EE,203FC128,extended,00000005
+
+[All Roam Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Roam Events
+// All Roam Events
+patch=1,EE,403FC118,extended,00050001
+
+[All Roam Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Roam Events
+// All Roam Events
+patch=1,EE,00000005,extended,00000000
+
+[Holywood-High Bounce]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Holywood-High Bounce
+// Holywood-High Bounce
+patch=1,EE,203FC164,extended,00000005
+
+[Holywood-Standing Tall]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Holywood-Standing Tall
+// Holywood-Standing Tall
+patch=1,EE,203FC168,extended,00000005
+
+[Santa Monica-High Bounce]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-High Bounce
+// Santa Monica-High Bounce
+patch=1,EE,203FC16C,extended,00000005
+
+[Santa Monica-Standing Tall]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Standing Tall
+// Santa Monica-Standing Tall
+patch=1,EE,203FC170,extended,00000005
+
+[South Central-High Bounce]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-High Bounce
+// South Central-High Bounce
+patch=1,EE,203FC174,extended,00000005
+
+[South Central-Standing Tall]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Standing Tall
+// South Central-Standing Tall
+patch=1,EE,203FC178,extended,00000005
+
+[South Bay-High Bounce]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-High Bounce
+// South Bay-High Bounce
+patch=1,EE,203FC17C,extended,00000005
+
+[South Bay-Standing Tall]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Standing Tall
+// South Bay-Standing Tall
+patch=1,EE,203FC180,extended,00000005
+
+[Downtown-High Bounce]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-High Bounce
+// Downtown-High Bounce
+patch=1,EE,203FC184,extended,00000005
+
+[Downtown-Standing Tall]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Standing Tall
+// Downtown-Standing Tall
+patch=1,EE,203FC188,extended,00000005
+
+[All Lowrider Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Lowrider Events
+// All Lowrider Events
+patch=1,EE,403FC164,extended,000A0001
+
+[All Lowrider Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Lowrider Events
+// All Lowrider Events
+patch=1,EE,00000005,extended,00000000
+
+[Hollywood-Acquire 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Acquire 1
+// Hollywood-Acquire 1
+patch=1,EE,203FC18C,extended,00000005
+
+[Hollywood-Acquire 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Acquire 2
+// Hollywood-Acquire 2
+patch=1,EE,203FC190,extended,00000005
+
+[Hollywood-Acquire 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Acquire 3
+// Hollywood-Acquire 3
+patch=1,EE,203FC194,extended,00000005
+
+[Hollywood-Acquire 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Acquire 4
+// Hollywood-Acquire 4
+patch=1,EE,203FC198,extended,00000005
+
+[Hollywood-Retribution]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Retribution
+// Hollywood-Retribution
+patch=1,EE,203FC1B8,extended,00000005
+
+[Santa Monica-Acquire 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Acquire 1
+// Santa Monica-Acquire 1
+patch=1,EE,203FC19C,extended,00000005
+
+[Santa Monica-Acquire 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Acquire 2
+// Santa Monica-Acquire 2
+patch=1,EE,203FC1A0,extended,00000005
+
+[Santa Monica-Acquire 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Acquire 3
+// Santa Monica-Acquire 3
+patch=1,EE,203FC1A4,extended,00000005
+
+[Santa Monica-Acquire 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Acquire 4
+// Santa Monica-Acquire 4
+patch=1,EE,203FC1A8,extended,00000005
+
+[Santa Monica-Acquire 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Acquire 5
+// Santa Monica-Acquire 5
+patch=1,EE,203FC1AC,extended,00000005
+
+[Santa Monica-Retribution]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Retribution
+// Santa Monica-Retribution
+patch=1,EE,203FC208,extended,00000005
+
+[South Central-Acquire 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Acquire 1
+// South Central-Acquire 1
+patch=1,EE,203FC1B0,extended,00000005
+
+[South Central-Acquire 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Acquire 2
+// South Central-Acquire 2
+patch=1,EE,203FC1B4,extended,00000005
+
+[South Central-Acquire 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Acquire 3
+// South Central-Acquire 3
+patch=1,EE,203FC1BC,extended,00000005
+
+[South Central-Acquire 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Acquire 4
+// South Central-Acquire 4
+patch=1,EE,203FC1C0,extended,00000005
+
+[South Central-Acquire 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Acquire 5
+// South Central-Acquire 5
+patch=1,EE,203FC1C4,extended,00000005
+
+[South Central-Acquire 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Acquire 6
+// South Central-Acquire 6
+patch=1,EE,203FC1C8,extended,00000005
+
+[South Central-Retribution]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Retribution
+// South Central-Retribution
+patch=1,EE,203FC20C,extended,00000005
+
+[South Bay-Acquire 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Acquire 1
+// South Bay-Acquire 1
+patch=1,EE,203FC1CC,extended,00000005
+
+[South Bay-Acquire 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Acquire 2
+// South Bay-Acquire 2
+patch=1,EE,203FC1D0,extended,00000005
+
+[South Bay-Acquire 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Acquire 3
+// South Bay-Acquire 3
+patch=1,EE,203FC1D4,extended,00000005
+
+[South Bay-Acquire 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Acquire 4
+// South Bay-Acquire 4
+patch=1,EE,203FC1D8,extended,00000005
+
+[South Bay-Acquire 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Acquire 5
+// South Bay-Acquire 5
+patch=1,EE,203FC1DC,extended,00000005
+
+[South Bay-Acquire 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Acquire 6
+// South Bay-Acquire 6
+patch=1,EE,203FC1E0,extended,00000005
+
+[South Bay-Acquire 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Acquire 7
+// South Bay-Acquire 7
+patch=1,EE,203FC1E4,extended,00000005
+
+[South Bay-Retribution]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Retribution
+// South Bay-Retribution
+patch=1,EE,203FC210,extended,00000005
+
+[Downtown-Acquire 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Acquire 1
+// Downtown-Acquire 1
+patch=1,EE,203FC1E8,extended,00000005
+
+[Downtown-Acquire 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Acquire 2
+// Downtown-Acquire 2
+patch=1,EE,203FC1EC,extended,00000005
+
+[Downtown-Acquire 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Acquire 3
+// Downtown-Acquire 3
+patch=1,EE,203FC1F0,extended,00000005
+
+[Downtown-Acquire 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Acquire 4
+// Downtown-Acquire 4
+patch=1,EE,203FC1F4,extended,00000005
+
+[Downtown-Acquire 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Acquire 5
+// Downtown-Acquire 5
+patch=1,EE,203FC1F8,extended,00000005
+
+[Downtown-Acquire 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Acquire 6
+// Downtown-Acquire 6
+patch=1,EE,203FC1FC,extended,00000005
+
+[Downtown-Acquire 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Acquire 7
+// Downtown-Acquire 7
+patch=1,EE,203FC200,extended,00000005
+
+[Downtown-Acquire 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Acquire 8
+// Downtown-Acquire 8
+patch=1,EE,203FC204,extended,00000005
+
+[Downtown-Retribution]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Retribution
+// Downtown-Retribution
+patch=1,EE,203FC214,extended,00000005
+
+[All Mission Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Mission Events
+// All Mission Events
+patch=1,EE,403FC18C,extended,00230001
+
+[All Mission Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Mission Events
+// All Mission Events
+patch=1,EE,00000005,extended,00000000
+
+[Hollywood-Stunt Event 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Stunt Event 1
+// Hollywood-Stunt Event 1
+patch=1,EE,203FC218,extended,00000005
+
+[Hollywood-Stunt Event 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Stunt Event 2
+// Hollywood-Stunt Event 2
+patch=1,EE,203FC21C,extended,00000005
+
+[Hollywood-Stunt Event 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Stunt Event 3
+// Hollywood-Stunt Event 3
+patch=1,EE,203FC220,extended,00000005
+
+[Hollywood-Stunt Event 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Stunt Event 4
+// Hollywood-Stunt Event 4
+patch=1,EE,203FC224,extended,00000005
+
+[Hollywood-Stunt Event 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Stunt Event 5
+// Hollywood-Stunt Event 5
+patch=1,EE,203FC228,extended,00000005
+
+[Santa Monica-Stunt Event 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Stunt Event 1
+// Santa Monica-Stunt Event 1
+patch=1,EE,203FC22C,extended,00000005
+
+[Santa Monica-Stunt Event 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Stunt Event 2
+// Santa Monica-Stunt Event 2
+patch=1,EE,203FC230,extended,00000005
+
+[Santa Monica-Stunt Event 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Stunt Event 3
+// Santa Monica-Stunt Event 3
+patch=1,EE,203FC234,extended,00000005
+
+[Santa Monica-Stunt Event 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Stunt Event 4
+// Santa Monica-Stunt Event 4
+patch=1,EE,203FC238,extended,00000005
+
+[Santa Monica-Stunt Event 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Stunt Event 5
+// Santa Monica-Stunt Event 5
+patch=1,EE,203FC23C,extended,00000005
+
+[South Central-Stunt Event 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Stunt Event 1
+// South Central-Stunt Event 1
+patch=1,EE,203FC240,extended,00000005
+
+[South Central-Stunt Event 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Stunt Event 2
+// South Central-Stunt Event 2
+patch=1,EE,203FC244,extended,00000005
+
+[South Central-Stunt Event 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Stunt Event 3
+// South Central-Stunt Event 3
+patch=1,EE,203FC248,extended,00000005
+
+[South Central-Stunt Event 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Stunt Event 4
+// South Central-Stunt Event 4
+patch=1,EE,203FC24C,extended,00000005
+
+[South Central-Stunt Event 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Stunt Event 5
+// South Central-Stunt Event 5
+patch=1,EE,203FC250,extended,00000005
+
+[South Bay-Stunt Event 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Stunt Event 1
+// South Bay-Stunt Event 1
+patch=1,EE,203FC254,extended,00000005
+
+[South Bay-Stunt Event 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Stunt Event 2
+// South Bay-Stunt Event 2
+patch=1,EE,203FC258,extended,00000005
+
+[South Bay-Stunt Event 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Stunt Event 3
+// South Bay-Stunt Event 3
+patch=1,EE,203FC25C,extended,00000005
+
+[South Bay-Stunt Event 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Stunt Event 4
+// South Bay-Stunt Event 4
+patch=1,EE,203FC260,extended,00000005
+
+[South Bay-Stunt Event 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Stunt Event 5
+// South Bay-Stunt Event 5
+patch=1,EE,203FC264,extended,00000005
+
+[Downtown-Stunt Event 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Stunt Event 1
+// Downtown-Stunt Event 1
+patch=1,EE,203FC268,extended,00000005
+
+[Downtown-Stunt Event 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Stunt Event 2
+// Downtown-Stunt Event 2
+patch=1,EE,203FC26C,extended,00000005
+
+[Downtown-Stunt Event 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Stunt Event 3
+// Downtown-Stunt Event 3
+patch=1,EE,203FC270,extended,00000005
+
+[Downtown-Stunt Event 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Stunt Event 4
+// Downtown-Stunt Event 4
+patch=1,EE,203FC274,extended,00000005
+
+[Downtown-Stunt Event 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Stunt Event 5
+// Downtown-Stunt Event 5
+patch=1,EE,203FC278,extended,00000005
+
+[All Stunt Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Stunt Events
+// All Stunt Events
+patch=1,EE,403FC218,extended,00190001
+
+[All Stunt Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Stunt Events
+// All Stunt Events
+patch=1,EE,00000005,extended,00000000
+
+[Hollywood-Cruise 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Cruise 1
+// Hollywood-Cruise 1
+patch=1,EE,203FC27C,extended,00000005
+
+[Hollywood-Cruise 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Cruise 2
+// Hollywood-Cruise 2
+patch=1,EE,203FC280,extended,00000005
+
+[Hollywood-Cruise 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Cruise 3
+// Hollywood-Cruise 3
+patch=1,EE,203FC2A4,extended,00000005
+
+[Santa Monica-Cruise 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Cruise 1
+// Santa Monica-Cruise 1
+patch=1,EE,203FC284,extended,00000005
+
+[Santa Monica-Cruise 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Cruise 2
+// Santa Monica-Cruise 2
+patch=1,EE,203FC288,extended,00000005
+
+[Santa Monica-Cruise 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Cruise 3
+// Santa Monica-Cruise 3
+patch=1,EE,203FC2A8,extended,00000005
+
+[South Central-Cruise 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Cruise 1
+// South Central-Cruise 1
+patch=1,EE,203FC28C,extended,00000005
+
+[South Central-Cruise 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Cruise 2
+// South Central-Cruise 2
+patch=1,EE,203FC290,extended,00000005
+
+[South Central-Cruise 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Cruise 3
+// South Central-Cruise 3
+patch=1,EE,203FC2AC,extended,00000005
+
+[South Bay-Cruise 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Cruise 1
+// South Bay-Cruise 1
+patch=1,EE,203FC294,extended,00000005
+
+[South Bay-Cruise 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Cruise 2
+// South Bay-Cruise 2
+patch=1,EE,203FC298,extended,00000005
+
+[South Bay-Cruise 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Cruise 3
+// South Bay-Cruise 3
+patch=1,EE,203FC2B0,extended,00000005
+
+[Downtown-Cruise 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Cruise 1
+// Downtown-Cruise 1
+patch=1,EE,203FC29C,extended,00000005
+
+[Downtown-Cruise 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Cruise 2
+// Downtown-Cruise 2
+patch=1,EE,203FC2A0,extended,00000005
+
+[Downtown-Cruise 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Cruise 3
+// Downtown-Cruise 3
+patch=1,EE,203FC2B4,extended,00000005
+
+[All Cruise Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Cruise Events
+// All Cruise Events
+patch=1,EE,403FC27C,extended,000F0001
+
+[All Cruise Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Cruise Events
+// All Cruise Events
+patch=1,EE,00000005,extended,00000000
+
+[Hollywood-Street Race 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Street Race 1
+// Hollywood-Street Race 1
+patch=1,EE,203FC2B8,extended,00000005
+
+[Hollywood-Street Race 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Street Race 2
+// Hollywood-Street Race 2
+patch=1,EE,203FC2BC,extended,00000005
+
+[Hollywood-Street Race 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Street Race 3
+// Hollywood-Street Race 3
+patch=1,EE,203FC2C0,extended,00000005
+
+[Hollywood-Street Race 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Street Race 4
+// Hollywood-Street Race 4
+patch=1,EE,203FC2C4,extended,00000005
+
+[Hollywood-Street Race 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Street Race 5
+// Hollywood-Street Race 5
+patch=1,EE,203FC2C8,extended,00000005
+
+[Hollywood-Street Race 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Street Race 6
+// Hollywood-Street Race 6
+patch=1,EE,203FC2CC,extended,00000005
+
+[Hollywood-Street Race 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Street Race 7
+// Hollywood-Street Race 7
+patch=1,EE,203FC2D0,extended,00000005
+
+[Hollywood-Street Race 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Street Race 8
+// Hollywood-Street Race 8
+patch=1,EE,203FC2D4,extended,00000005
+
+[Hollywood-Endurance Race]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hollywood-Endurance Race
+// Hollywood-Endurance Race
+patch=1,EE,203FC384,extended,00000005
+
+[Santa Monica-Street Race 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Street Race 1
+// Santa Monica-Street Race 1
+patch=1,EE,203FC2D8,extended,00000005
+
+[Santa Monica-Street Race 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Street Race 2
+// Santa Monica-Street Race 2
+patch=1,EE,203FC2DC,extended,00000005
+
+[Santa Monica-Street Race 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Street Race 3
+// Santa Monica-Street Race 3
+patch=1,EE,203FC2E0,extended,00000005
+
+[Santa Monica-Street Race 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Street Race 4
+// Santa Monica-Street Race 4
+patch=1,EE,203FC2E4,extended,00000005
+
+[Santa Monica-Street Race 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Street Race 5
+// Santa Monica-Street Race 5
+patch=1,EE,203FC2E8,extended,00000005
+
+[Santa Monica-Street Race 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Street Race 6
+// Santa Monica-Street Race 6
+patch=1,EE,203FC2EC,extended,00000005
+
+[Santa Monica-Street Race 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Street Race 7
+// Santa Monica-Street Race 7
+patch=1,EE,203FC2F0,extended,00000005
+
+[Santa Monica-Street Race 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Street Race 8
+// Santa Monica-Street Race 8
+patch=1,EE,203FC2F4,extended,00000005
+
+[Santa Monica-Street Race 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Santa Monica-Street Race 9
+// Santa Monica-Street Race 9
+patch=1,EE,203FC2F8,extended,00000005
+
+[South Central-Street Race 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Street Race 1
+// South Central-Street Race 1
+patch=1,EE,203FC2FC,extended,00000005
+
+[South Central-Street Race 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Street Race 2
+// South Central-Street Race 2
+patch=1,EE,203FC300,extended,00000005
+
+[South Central-Street Race 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Street Race 3
+// South Central-Street Race 3
+patch=1,EE,203FC304,extended,00000005
+
+[South Central-Street Race 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Street Race 4
+// South Central-Street Race 4
+patch=1,EE,203FC308,extended,00000005
+
+[South Central-Street Race 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Street Race 5
+// South Central-Street Race 5
+patch=1,EE,203FC30C,extended,00000005
+
+[South Central-Street Race 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Street Race 6
+// South Central-Street Race 6
+patch=1,EE,203FC310,extended,00000005
+
+[South Central-Street Race 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Street Race 7
+// South Central-Street Race 7
+patch=1,EE,203FC314,extended,00000005
+
+[South Central-Street Race 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Street Race 8
+// South Central-Street Race 8
+patch=1,EE,203FC318,extended,00000005
+
+[South Central-Street Race 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Street Race 9
+// South Central-Street Race 9
+patch=1,EE,203FC31C,extended,00000005
+
+[South Central-Street Race 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Central-Street Race 10
+// South Central-Street Race 10
+patch=1,EE,203FC320,extended,00000005
+
+[South Bay-Street Race 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Street Race 1
+// South Bay-Street Race 1
+patch=1,EE,203FC324,extended,00000005
+
+[South Bay-Street Race 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Street Race 2
+// South Bay-Street Race 2
+patch=1,EE,203FC328,extended,00000005
+
+[South Bay-Street Race 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Street Race 3
+// South Bay-Street Race 3
+patch=1,EE,203FC32C,extended,00000005
+
+[South Bay-Street Race 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Street Race 4
+// South Bay-Street Race 4
+patch=1,EE,203FC330,extended,00000005
+
+[South Bay-Street Race 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Street Race 5
+// South Bay-Street Race 5
+patch=1,EE,203FC334,extended,00000005
+
+[South Bay-Street Race 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Street Race 6
+// South Bay-Street Race 6
+patch=1,EE,203FC338,extended,00000005
+
+[South Bay-Street Race 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Street Race 7
+// South Bay-Street Race 7
+patch=1,EE,203FC33C,extended,00000005
+
+[South Bay-Street Race 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Street Race 8
+// South Bay-Street Race 8
+patch=1,EE,203FC340,extended,00000005
+
+[South Bay-Street Race 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Street Race 9
+// South Bay-Street Race 9
+patch=1,EE,203FC344,extended,00000005
+
+[South Bay-Street Race 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Street Race 10
+// South Bay-Street Race 10
+patch=1,EE,203FC348,extended,00000005
+
+[South Bay-Street Race 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=South Bay-Street Race 11
+// South Bay-Street Race 11
+patch=1,EE,203FC34C,extended,00000005
+
+[Downtown-Street Race 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Street Race 1
+// Downtown-Street Race 1
+patch=1,EE,203FC350,extended,00000005
+
+[Downtown-Street Race 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Street Race 2
+// Downtown-Street Race 2
+patch=1,EE,203FC354,extended,00000005
+
+[Downtown-Street Race 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Street Race 3
+// Downtown-Street Race 3
+patch=1,EE,203FC358,extended,00000005
+
+[Downtown-Street Race 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Street Race 4
+// Downtown-Street Race 4
+patch=1,EE,203FC35C,extended,00000005
+
+[Downtown-Street Race 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Street Race 5
+// Downtown-Street Race 5
+patch=1,EE,203FC360,extended,00000005
+
+[Downtown-Street Race 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Street Race 6
+// Downtown-Street Race 6
+patch=1,EE,203FC364,extended,00000005
+
+[Downtown-Street Race 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Street Race 7
+// Downtown-Street Race 7
+patch=1,EE,203FC368,extended,00000005
+
+[Downtown-Street Race 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Street Race 8
+// Downtown-Street Race 8
+patch=1,EE,203FC36C,extended,00000005
+
+[Downtown-Street Race 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Street Race 9
+// Downtown-Street Race 9
+patch=1,EE,203FC370,extended,00000005
+
+[Downtown-Street Race 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Street Race 10
+// Downtown-Street Race 10
+patch=1,EE,203FC374,extended,00000005
+
+[Downtown-Street Race 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Street Race 11
+// Downtown-Street Race 11
+patch=1,EE,203FC378,extended,00000005
+
+[Downtown-Street Race 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Street Race 12
+// Downtown-Street Race 12
+patch=1,EE,203FC37C,extended,00000005
+
+[Downtown-Street Race 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Downtown-Street Race 13
+// Downtown-Street Race 13
+patch=1,EE,203FC380,extended,00000005
+
+[All Race Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Race Events
+// All Race Events
+patch=1,EE,403FC2B8,extended,00330001
+
+[All Race Events]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Race Events
+// All Race Events
+patch=1,EE,00000005,extended,00000000

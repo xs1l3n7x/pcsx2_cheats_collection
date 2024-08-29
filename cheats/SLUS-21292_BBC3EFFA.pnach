@@ -1,0 +1,6847 @@
+gametitle=Wild Arms 4 [SLUS-21292] [BBC3EFFA]
+
+[Slot 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 30
+// Slot 30
+patch=1,EE,90143C90,extended,0C08FBB4
+
+[Always Low Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Time
+// Always Low Time
+patch=1,EE,204E5B80,extended,00000000
+
+[Always Max Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Time
+// Always Max Time
+patch=1,EE,204E5B80,extended,0CDFE5FF
+
+[Infinite Gella]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Gella
+// Infinite Gella
+patch=1,EE,104E5B84,extended,0000FFFF
+
+[Max Gella]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Gella
+// Max Gella
+patch=1,EE,204E5B84,extended,05F5E0FF
+
+[No Random Battles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Random Battles
+// No Random Battles
+patch=1,EE,1013F236,extended,00001000
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,201B75B4,extended,00000000
+
+[Have Monster Book Almost Complete]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Monster Book Almost Complete
+// Have Monster Book Almost Complete
+patch=1,EE,20205DD4,extended,08081750
+
+[Have Monster Book Almost Complete]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have Monster Book Almost Complete
+// Have Monster Book Almost Complete
+patch=1,EE,20205DD8,extended,24020001
+
+[View Items For Max Quantity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Items For Max Quantity
+// View Items For Max Quantity
+patch=1,EE,200C0220,extended,A6440000
+
+[View Items For Max Quantity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Items For Max Quantity
+// View Items For Max Quantity
+patch=1,EE,200C0224,extended,24010063
+
+[View Items For Max Quantity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Items For Max Quantity
+// View Items For Max Quantity
+patch=1,EE,200C0228,extended,54800001
+
+[View Items For Max Quantity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Items For Max Quantity
+// View Items For Max Quantity
+patch=1,EE,200C022C,extended,A4A10516
+
+[View Items For Max Quantity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Items For Max Quantity
+// View Items For Max Quantity
+patch=1,EE,200C0230,extended,03E00008
+
+[View Items For Max Quantity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Items For Max Quantity
+// View Items For Max Quantity
+patch=1,EE,200C0234,extended,00000000
+
+[View Items For Max Quantity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Items For Max Quantity
+// View Items For Max Quantity
+patch=1,EE,202068E4,extended,0C030088
+
+[View Items For Max Quantity]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=View Items For Max Quantity
+// View Items For Max Quantity
+patch=1,EE,202068E8,extended,84A40514
+
+[Gain 10000 EXP Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 10000 EXP Per Battle
+// Gain 10000 EXP Per Battle
+patch=1,EE,2052D9F4,extended,00002710
+
+[Gain 20000 EXP Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 20000 EXP Per Battle
+// Gain 20000 EXP Per Battle
+patch=1,EE,2052D9F4,extended,000061A8
+
+[Gain 30000 EXP Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 30000 EXP Per Battle
+// Gain 30000 EXP Per Battle
+patch=1,EE,2052D9F4,extended,00007530
+
+[Gain 40000 EXP Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 40000 EXP Per Battle
+// Gain 40000 EXP Per Battle
+patch=1,EE,2052D9F4,extended,00009C40
+
+[Gain 50000 EXP Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 50000 EXP Per Battle
+// Gain 50000 EXP Per Battle
+patch=1,EE,2052D9F4,extended,0000C350
+
+[Quick Max Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Max Level
+// Quick Max Level
+patch=1,EE,2052D9F4,extended,0098967F
+
+[Gain 10000 Gella Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 10000 Gella Per Battle
+// Gain 10000 Gella Per Battle
+patch=1,EE,2052D9F8,extended,00002710
+
+[Gain 20000 Gella Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 20000 Gella Per Battle
+// Gain 20000 Gella Per Battle
+patch=1,EE,2052D9F8,extended,000061A8
+
+[Gain 30000 Gella Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 30000 Gella Per Battle
+// Gain 30000 Gella Per Battle
+patch=1,EE,2052D9F8,extended,00007530
+
+[Gain 40000 Gella Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 40000 Gella Per Battle
+// Gain 40000 Gella Per Battle
+patch=1,EE,2052D9F8,extended,00009C40
+
+[Gain 50000 Gella Per Battle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gain 50000 Gella Per Battle
+// Gain 50000 Gella Per Battle
+patch=1,EE,2052D9F8,extended,0000C350
+
+[Quick Max Gella]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick Max Gella
+// Quick Max Gella
+patch=1,EE,2052D9F8,extended,0098967F
+
+[Start With Max FP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Start With Max FP
+// Start With Max FP
+patch=1,EE,2018E8F4,extended,00000000
+
+[Infinite FP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite FP
+// Infinite FP
+patch=1,EE,2019F670,extended,00000000
+
+[Infinite MP Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP Usage
+// Infinite MP Usage
+patch=1,EE,2019F694,extended,00000000
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,20528BD0,extended,0000270F
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,20528BD4,extended,0000270F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,20529050,extended,0000270F
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,20529054,extended,0000270F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,205292F0,extended,0000270F
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,205292F4,extended,0000270F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,20529590,extended,0000270F
+
+[Infinite MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite MP
+// Infinite MP
+patch=1,EE,20529594,extended,0000270F
+
+[Quick EXP Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick EXP Gain
+// Quick EXP Gain
+patch=1,EE,104E5BFC,extended,0000FFFF
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,204E5BFC,extended,05F5E0FF
+
+[Max/Infinite HP Total]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max/Infinite HP Total
+// Max/Infinite HP Total
+patch=1,EE,204E5C00,extended,0000270F
+
+[Max/Infinite HP Total]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max/Infinite HP Total
+// Max/Infinite HP Total
+patch=1,EE,204E5C04,extended,0000270F
+
+[Max/Infinite MP Total]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max/Infinite MP Total
+// Max/Infinite MP Total
+patch=1,EE,204E5C08,extended,0000270F
+
+[Max/Infinite MP Total]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max/Infinite MP Total
+// Max/Infinite MP Total
+patch=1,EE,204E5C0C,extended,0000270F
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,104E5C12,extended,00000063
+
+[GC Points (Adds To MP/HP)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=GC Points (Adds To MP/HP)
+// GC Points (Adds To MP/HP)
+patch=1,EE,104E5C16,extended,000003E7
+
+[GC Points Multiplier]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=GC Points Multiplier
+// GC Points Multiplier
+patch=1,EE,104E5C18,extended,00000002
+
+[Max ATK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max ATK
+// Max ATK
+patch=1,EE,104E5C1C,extended,000003E7
+
+[Max MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MAG
+// Max MAG
+patch=1,EE,104E5C1E,extended,000003E7
+
+[Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DEF
+// Max DEF
+patch=1,EE,104E5C20,extended,000003E7
+
+[Max RES]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max RES
+// Max RES
+patch=1,EE,104E5C22,extended,000003E7
+
+[Max HIT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HIT
+// Max HIT
+patch=1,EE,104E5C24,extended,000003E7
+
+[Max EVA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EVA
+// Max EVA
+patch=1,EE,104E5C26,extended,000003E7
+
+[Max RFX]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max RFX
+// Max RFX
+patch=1,EE,104E5C28,extended,000003E7
+
+[HP Base]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=HP Base
+// HP Base
+patch=1,EE,104E5C2A,extended,0000270F
+
+[MP Base]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MP Base
+// MP Base
+patch=1,EE,104E5C2C,extended,000003E7
+
+[ATP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=ATP
+// ATP
+patch=1,EE,104E5C38,extended,000003E7
+
+[ACN]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=ACN
+// ACN
+patch=1,EE,104E5C3A,extended,000003E7
+
+[Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Accuracy
+// Accuracy
+patch=1,EE,104E5C3C,extended,000003E7
+
+[Critical]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Critical
+// Critical
+patch=1,EE,104E5C3E,extended,000003E7
+
+[Bullets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bullets
+// Bullets
+patch=1,EE,104E5C40,extended,000003E7
+
+[Usability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Usability
+// Usability
+patch=1,EE,104E5C42,extended,000003E7
+
+[Hantom Line]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hantom Line
+// Hantom Line
+patch=1,EE,104E5C44,extended,000003E7
+
+[Defender]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Defender
+// Defender
+patch=1,EE,104E5C46,extended,000003E7
+
+[Emergency MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Emergency MP
+// Emergency MP
+patch=1,EE,104E5C48,extended,000003E7
+
+[Lev Boost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lev Boost
+// Lev Boost
+patch=1,EE,104E5C4A,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5C4C,extended,000003E7
+
+[Long Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Long Shot
+// Long Shot
+patch=1,EE,104E5C4E,extended,000003E7
+
+[Remove Trap]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Remove Trap
+// Remove Trap
+patch=1,EE,104E5C50,extended,000003E7
+
+[Joint Struggle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Joint Struggle
+// Joint Struggle
+patch=1,EE,104E5C52,extended,000003E7
+
+[Rapid Guard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Guard
+// Rapid Guard
+patch=1,EE,104E5C54,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5C56,extended,000003E7
+
+[Resist Wind]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Resist Wind
+// Resist Wind
+patch=1,EE,104E5C58,extended,000003E7
+
+[Item Steal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Item Steal
+// Item Steal
+patch=1,EE,104E5C5A,extended,000003E7
+
+[Dash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dash
+// Dash
+patch=1,EE,104E5C5C,extended,000003E7
+
+[Shield Guard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shield Guard
+// Shield Guard
+patch=1,EE,104E5C5E,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5C60,extended,000003E7
+
+[Short Circuit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Short Circuit
+// Short Circuit
+patch=1,EE,104E5C62,extended,000003E7
+
+[Alert]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Alert
+// Alert
+patch=1,EE,104E5C64,extended,000003E7
+
+[Counter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Counter
+// Counter
+patch=1,EE,104E5C66,extended,000003E7
+
+[Funny Pose]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Funny Pose
+// Funny Pose
+patch=1,EE,104E5C68,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5C6A,extended,000003E7
+
+[Hi-Item]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hi-Item
+// Hi-Item
+patch=1,EE,104E5C6C,extended,000003E7
+
+[Add Badge Slot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Add Badge Slot
+// Add Badge Slot
+patch=1,EE,104E5C6E,extended,000003E7
+
+[Obstacle Smash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Obstacle Smash
+// Obstacle Smash
+patch=1,EE,104E5C70,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5C72,extended,000003E7
+
+[Assault Buster]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Assault Buster
+// Assault Buster
+patch=1,EE,104E5C74,extended,000003E7
+
+[Rapid Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Attack
+// Rapid Attack
+patch=1,EE,104E5C76,extended,000003E7
+
+[Critical Hit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Critical Hit
+// Critical Hit
+patch=1,EE,104E5C78,extended,000003E7
+
+[Silver Launcher]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Silver Launcher
+// Silver Launcher
+patch=1,EE,104E5C7A,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5C7C,extended,000003E7
+
+[Heat Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Heat Up
+// Heat Up
+patch=1,EE,104E5C7E,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5C80,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5C82,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5C84,extended,000003E7
+
+[Add Badge Slot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Add Badge Slot
+// Add Badge Slot
+patch=1,EE,104E5C86,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5C88,extended,000003E7
+
+[All GC Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All GC Skills
+// All GC Skills
+patch=1,EE,404E5C44,extended,00110001
+
+[All GC Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All GC Skills
+// All GC Skills
+patch=1,EE,03E703E7,extended,00000000
+
+[All GC Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All GC Skills
+// All GC Skills
+patch=1,EE,104E5C88,extended,000003E7
+
+[Quick EXP Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick EXP Gain
+// Quick EXP Gain
+patch=1,EE,104E5CE8,extended,0000FFFF
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,204E5CE8,extended,05F5E0FF
+
+[Max/Infinite HP Total]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max/Infinite HP Total
+// Max/Infinite HP Total
+patch=1,EE,204E5CEC,extended,0000270F
+
+[Max/Infinite HP Total]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max/Infinite HP Total
+// Max/Infinite HP Total
+patch=1,EE,204E5CF0,extended,0000270F
+
+[Max/Infinite MP Total]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max/Infinite MP Total
+// Max/Infinite MP Total
+patch=1,EE,204E5CF4,extended,0000270F
+
+[Max/Infinite MP Total]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max/Infinite MP Total
+// Max/Infinite MP Total
+patch=1,EE,204E5CF8,extended,0000270F
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,104E5CFE,extended,00000063
+
+[GC Points (Adds To MP/HP)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=GC Points (Adds To MP/HP)
+// GC Points (Adds To MP/HP)
+patch=1,EE,104E5D02,extended,000003E7
+
+[GC Points Multiplier]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=GC Points Multiplier
+// GC Points Multiplier
+patch=1,EE,104E5D04,extended,00000002
+
+[Max ATK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max ATK
+// Max ATK
+patch=1,EE,104E5D08,extended,000003E7
+
+[Max MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MAG
+// Max MAG
+patch=1,EE,104E5D0A,extended,000003E7
+
+[Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DEF
+// Max DEF
+patch=1,EE,104E5D0C,extended,000003E7
+
+[Max RES]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max RES
+// Max RES
+patch=1,EE,104E5D0E,extended,000003E7
+
+[Max HIT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HIT
+// Max HIT
+patch=1,EE,104E5D10,extended,000003E7
+
+[Max EVA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EVA
+// Max EVA
+patch=1,EE,104E5D12,extended,000003E7
+
+[Max RFX]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max RFX
+// Max RFX
+patch=1,EE,104E5D14,extended,000003E7
+
+[HP Base]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=HP Base
+// HP Base
+patch=1,EE,104E5D16,extended,0000270F
+
+[MP Base]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MP Base
+// MP Base
+patch=1,EE,104E5D18,extended,000003E7
+
+[ATP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=ATP
+// ATP
+patch=1,EE,104E5D24,extended,000003E7
+
+[ACN]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=ACN
+// ACN
+patch=1,EE,104E5D26,extended,000003E7
+
+[Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Accuracy
+// Accuracy
+patch=1,EE,104E5D28,extended,000003E7
+
+[Critical]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Critical
+// Critical
+patch=1,EE,104E5D2A,extended,000003E7
+
+[Bullets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bullets
+// Bullets
+patch=1,EE,104E5D2C,extended,000003E7
+
+[Usability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Usability
+// Usability
+patch=1,EE,104E5D2E,extended,000003E7
+
+[Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Heal
+// Heal
+patch=1,EE,104E5D30,extended,000003E7
+
+[Rapid Guard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Guard
+// Rapid Guard
+patch=1,EE,104E5D32,extended,000003E7
+
+[Protect]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Protect
+// Protect
+patch=1,EE,104E5D34,extended,000003E7
+
+[Resist Earth]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Resist Earth
+// Resist Earth
+patch=1,EE,104E5D36,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5D38,extended,000003E7
+
+[Sanctify]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sanctify
+// Sanctify
+patch=1,EE,104E5D3A,extended,000003E7
+
+[Crisis Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crisis Speed
+// Crisis Speed
+patch=1,EE,104E5D3C,extended,000003E7
+
+[Revive]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Revive
+// Revive
+patch=1,EE,104E5D3E,extended,000003E7
+
+[Fp Advantage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fp Advantage
+// Fp Advantage
+patch=1,EE,104E5D40,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5D42,extended,000003E7
+
+[Turn Shift]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Turn Shift
+// Turn Shift
+patch=1,EE,104E5D44,extended,000003E7
+
+[Counter Aid]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Counter Aid
+// Counter Aid
+patch=1,EE,104E5D46,extended,000003E7
+
+[Replace]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Replace
+// Replace
+patch=1,EE,104E5D48,extended,000003E7
+
+[Holy Symbol]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Holy Symbol
+// Holy Symbol
+patch=1,EE,104E5D4A,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5D4C,extended,000003E7
+
+[Gather]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gather
+// Gather
+patch=1,EE,104E5D4E,extended,000003E7
+
+[Hi-Item]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hi-Item
+// Hi-Item
+patch=1,EE,104E5D50,extended,000003E7
+
+[Hi-Sanctify]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hi-Sanctify
+// Hi-Sanctify
+patch=1,EE,104E5D52,extended,000003E7
+
+[Magic Guard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Magic Guard
+// Magic Guard
+patch=1,EE,104E5D54,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5D56,extended,000003E7
+
+[Quicken]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quicken
+// Quicken
+patch=1,EE,104E5D58,extended,000003E7
+
+[Add Badge Slot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Add Badge Slot
+// Add Badge Slot
+patch=1,EE,104E5D5A,extended,000003E7
+
+[Conserver Mp]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Conserver Mp
+// Conserver Mp
+patch=1,EE,104E5D5C,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5D5E,extended,000003E7
+
+[Hi-Heal]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hi-Heal
+// Hi-Heal
+patch=1,EE,104E5D60,extended,000003E7
+
+[Magic Defender]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Magic Defender
+// Magic Defender
+patch=1,EE,104E5D62,extended,000003E7
+
+[Absorb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Absorb
+// Absorb
+patch=1,EE,104E5D64,extended,000003E7
+
+[Healing Pluse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Healing Pluse
+// Healing Pluse
+patch=1,EE,104E5D66,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5D68,extended,000003E7
+
+[Sacrifice]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sacrifice
+// Sacrifice
+patch=1,EE,104E5D6A,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5D6C,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5D6E,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5D70,extended,000003E7
+
+[Add Badge SLot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Add Badge SLot
+// Add Badge SLot
+patch=1,EE,104E5D72,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5D74,extended,000003E7
+
+[All GC Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All GC Skills
+// All GC Skills
+patch=1,EE,404E5D30,extended,00110001
+
+[All GC Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All GC Skills
+// All GC Skills
+patch=1,EE,03E703E7,extended,00000000
+
+[All GC Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All GC Skills
+// All GC Skills
+patch=1,EE,104E5D74,extended,000003E7
+
+[Quick EXP Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick EXP Gain
+// Quick EXP Gain
+patch=1,EE,104E5DD4,extended,0000FFFF
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,204E5DD4,extended,05F5E0FF
+
+[Max/Infinite HP Total]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max/Infinite HP Total
+// Max/Infinite HP Total
+patch=1,EE,204E5DD8,extended,0000270F
+
+[Max/Infinite HP Total]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max/Infinite HP Total
+// Max/Infinite HP Total
+patch=1,EE,204E5DDC,extended,0000270F
+
+[Max/Infinite MP Total]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max/Infinite MP Total
+// Max/Infinite MP Total
+patch=1,EE,204E5DE0,extended,0000270F
+
+[Max/Infinite MP Total]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max/Infinite MP Total
+// Max/Infinite MP Total
+patch=1,EE,204E5DE4,extended,0000270F
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,104E5DEA,extended,00000063
+
+[GC Points (Adds To MP/HP)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=GC Points (Adds To MP/HP)
+// GC Points (Adds To MP/HP)
+patch=1,EE,104E5DEE,extended,000003E7
+
+[GC Points Multiplier]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=GC Points Multiplier
+// GC Points Multiplier
+patch=1,EE,104E5DF0,extended,00000002
+
+[Max ATK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max ATK
+// Max ATK
+patch=1,EE,104E5DF4,extended,000003E7
+
+[Max MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MAG
+// Max MAG
+patch=1,EE,104E5DF6,extended,000003E7
+
+[Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DEF
+// Max DEF
+patch=1,EE,104E5DF8,extended,000003E7
+
+[Max RES]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max RES
+// Max RES
+patch=1,EE,104E5DFA,extended,000003E7
+
+[Max HIT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HIT
+// Max HIT
+patch=1,EE,104E5DFC,extended,000003E7
+
+[Max EVA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EVA
+// Max EVA
+patch=1,EE,104E5DFE,extended,000003E7
+
+[Max RFX]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max RFX
+// Max RFX
+patch=1,EE,104E5E00,extended,000003E7
+
+[HP Base]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=HP Base
+// HP Base
+patch=1,EE,104E5E02,extended,0000270F
+
+[MP Base]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MP Base
+// MP Base
+patch=1,EE,104E5E04,extended,000003E7
+
+[ATP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=ATP
+// ATP
+patch=1,EE,104E5E10,extended,000003E7
+
+[ACN]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=ACN
+// ACN
+patch=1,EE,104E5E12,extended,000003E7
+
+[Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Accuracy
+// Accuracy
+patch=1,EE,104E5E14,extended,000003E7
+
+[Critical]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Critical
+// Critical
+patch=1,EE,104E5E16,extended,000003E7
+
+[Bullets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bullets
+// Bullets
+patch=1,EE,104E5E18,extended,000003E7
+
+[Usability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Usability
+// Usability
+patch=1,EE,104E5E1A,extended,000003E7
+
+[Crisis Evade]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crisis Evade
+// Crisis Evade
+patch=1,EE,104E5E1C,extended,000003E7
+
+[Blast]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blast
+// Blast
+patch=1,EE,104E5E1E,extended,000003E7
+
+[Gemstone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gemstone
+// Gemstone
+patch=1,EE,104E5E20,extended,000003E7
+
+[Fragile]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fragile
+// Fragile
+patch=1,EE,104E5E22,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5E24,extended,000003E7
+
+[Jump & Act]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jump & Act
+// Jump & Act
+patch=1,EE,104E5E26,extended,000003E7
+
+[Slow Down]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slow Down
+// Slow Down
+patch=1,EE,104E5E28,extended,000003E7
+
+[Rapid Guard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Guard
+// Rapid Guard
+patch=1,EE,104E5E2A,extended,000003E7
+
+[Shut OUt]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shut OUt
+// Shut OUt
+patch=1,EE,104E5E2C,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5E2E,extended,000003E7
+
+[Magic Blocker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Magic Blocker
+// Magic Blocker
+patch=1,EE,104E5E30,extended,000003E7
+
+[Isolate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Isolate
+// Isolate
+patch=1,EE,104E5E32,extended,000003E7
+
+[MP Charge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MP Charge
+// MP Charge
+patch=1,EE,104E5E34,extended,000003E7
+
+[Illusion]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Illusion
+// Illusion
+patch=1,EE,104E5E36,extended,000003E7
+
+[Cladd Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cladd Lvl Up
+// Cladd Lvl Up
+patch=1,EE,104E5E38,extended,000003E7
+
+[Resist Water]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Resist Water
+// Resist Water
+patch=1,EE,104E5E3A,extended,000003E7
+
+[Rainforce]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rainforce
+// Rainforce
+patch=1,EE,104E5E3C,extended,000003E7
+
+[Crisis Magic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Crisis Magic
+// Crisis Magic
+patch=1,EE,104E5E3E,extended,000003E7
+
+[Dispel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dispel
+// Dispel
+patch=1,EE,104E5E40,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5E42,extended,000003E7
+
+[Reflect]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reflect
+// Reflect
+patch=1,EE,104E5E44,extended,000003E7
+
+[Add Badge Slot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Add Badge Slot
+// Add Badge Slot
+patch=1,EE,104E5E46,extended,000003E7
+
+[Sleep]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sleep
+// Sleep
+patch=1,EE,104E5E48,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5E4A,extended,000003E7
+
+[Exploit Weakness]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exploit Weakness
+// Exploit Weakness
+patch=1,EE,104E5E4C,extended,000003E7
+
+[Hi-Blast]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hi-Blast
+// Hi-Blast
+patch=1,EE,104E5E4E,extended,000003E7
+
+[Conserve MP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Conserve MP
+// Conserve MP
+patch=1,EE,104E5E50,extended,000003E7
+
+[Extend]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extend
+// Extend
+patch=1,EE,104E5E52,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5E54,extended,000003E7
+
+[Hyper]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hyper
+// Hyper
+patch=1,EE,104E5E56,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5E58,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5E5A,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5E5C,extended,000003E7
+
+[Add Badge SLot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Add Badge SLot
+// Add Badge SLot
+patch=1,EE,104E5E5E,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5E60,extended,000003E7
+
+[All GC Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All GC Skills
+// All GC Skills
+patch=1,EE,404E5E1C,extended,00110001
+
+[All GC Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All GC Skills
+// All GC Skills
+patch=1,EE,03E703E7,extended,00000000
+
+[All GC Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All GC Skills
+// All GC Skills
+patch=1,EE,104E5E60,extended,000003E7
+
+[Quick EXP Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick EXP Gain
+// Quick EXP Gain
+patch=1,EE,104E5EC0,extended,0000FFFF
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,204E5EC0,extended,05F5E0FF
+
+[Max/Infinite HP Total]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max/Infinite HP Total
+// Max/Infinite HP Total
+patch=1,EE,204E5EC4,extended,0000270F
+
+[Max/Infinite HP Total]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max/Infinite HP Total
+// Max/Infinite HP Total
+patch=1,EE,204E5EC8,extended,0000270F
+
+[Max/Infinite MP Total]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max/Infinite MP Total
+// Max/Infinite MP Total
+patch=1,EE,204E5ECC,extended,0000270F
+
+[Max/Infinite MP Total]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max/Infinite MP Total
+// Max/Infinite MP Total
+patch=1,EE,204E5ED0,extended,0000270F
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,104E5ED6,extended,00000063
+
+[GC Points (Adds To MP/HP)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=GC Points (Adds To MP/HP)
+// GC Points (Adds To MP/HP)
+patch=1,EE,104E5EDA,extended,000003E7
+
+[GC Points Multiplier]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=GC Points Multiplier
+// GC Points Multiplier
+patch=1,EE,104E5EDC,extended,00000002
+
+[Max ATK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max ATK
+// Max ATK
+patch=1,EE,104E5EE0,extended,000003E7
+
+[Max MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MAG
+// Max MAG
+patch=1,EE,104E5EE2,extended,000003E7
+
+[Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DEF
+// Max DEF
+patch=1,EE,104E5EE4,extended,000003E7
+
+[Max RES]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max RES
+// Max RES
+patch=1,EE,104E5EE6,extended,000003E7
+
+[Max HIT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HIT
+// Max HIT
+patch=1,EE,104E5EE8,extended,000003E7
+
+[Max EVA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EVA
+// Max EVA
+patch=1,EE,104E5EEA,extended,000003E7
+
+[Max RFX]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max RFX
+// Max RFX
+patch=1,EE,104E5EEC,extended,000003E7
+
+[HP Base]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=HP Base
+// HP Base
+patch=1,EE,104E5EEE,extended,0000270F
+
+[MP Base]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MP Base
+// MP Base
+patch=1,EE,104E5EF0,extended,000003E7
+
+[ATP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=ATP
+// ATP
+patch=1,EE,104E5EFC,extended,000003E7
+
+[ACN]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=ACN
+// ACN
+patch=1,EE,104E5EFE,extended,000003E7
+
+[Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Accuracy
+// Accuracy
+patch=1,EE,104E5F00,extended,000003E7
+
+[Critical]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Critical
+// Critical
+patch=1,EE,104E5F02,extended,000003E7
+
+[Bullets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bullets
+// Bullets
+patch=1,EE,104E5F04,extended,000003E7
+
+[Usability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Usability
+// Usability
+patch=1,EE,104E5F06,extended,000003E7
+
+[Smash Hit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Smash Hit
+// Smash Hit
+patch=1,EE,104E5F08,extended,000003E7
+
+[Evil Blossom]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Evil Blossom
+// Evil Blossom
+patch=1,EE,104E5F0A,extended,000003E7
+
+[Counter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Counter
+// Counter
+patch=1,EE,104E5F0C,extended,000003E7
+
+[Rapid Guard]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Guard
+// Rapid Guard
+patch=1,EE,104E5F0E,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5F10,extended,000003E7
+
+[Comet Strike]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Comet Strike
+// Comet Strike
+patch=1,EE,104E5F12,extended,000003E7
+
+[Move & Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Move & Attack
+// Move & Attack
+patch=1,EE,104E5F14,extended,000003E7
+
+[Obstacle Smash]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Obstacle Smash
+// Obstacle Smash
+patch=1,EE,104E5F16,extended,000003E7
+
+[Poison Bite]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poison Bite
+// Poison Bite
+patch=1,EE,104E5F18,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5F1A,extended,000003E7
+
+[Red Zone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Red Zone
+// Red Zone
+patch=1,EE,104E5F1C,extended,000003E7
+
+[Hi-Counter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hi-Counter
+// Hi-Counter
+patch=1,EE,104E5F1E,extended,000003E7
+
+[Dragon Edge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dragon Edge
+// Dragon Edge
+patch=1,EE,104E5F20,extended,000003E7
+
+[Power Charge]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Power Charge
+// Power Charge
+patch=1,EE,104E5F22,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5F24,extended,000003E7
+
+[Critical Hit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Critical Hit
+// Critical Hit
+patch=1,EE,104E5F26,extended,000003E7
+
+[Mighty WInd]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mighty WInd
+// Mighty WInd
+patch=1,EE,104E5F28,extended,000003E7
+
+[Resist Fire]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Resist Fire
+// Resist Fire
+patch=1,EE,104E5F2A,extended,000003E7
+
+[Blocker]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Blocker
+// Blocker
+patch=1,EE,104E5F2C,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5F2E,extended,000003E7
+
+[Moonlight]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Moonlight
+// Moonlight
+patch=1,EE,104E5F30,extended,000003E7
+
+[Add Badge Slot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Add Badge Slot
+// Add Badge Slot
+patch=1,EE,104E5F32,extended,000003E7
+
+[Exploit Weakness]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exploit Weakness
+// Exploit Weakness
+patch=1,EE,104E5F34,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5F36,extended,000003E7
+
+[Penetrator]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Penetrator
+// Penetrator
+patch=1,EE,104E5F38,extended,000003E7
+
+[Exorcism]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exorcism
+// Exorcism
+patch=1,EE,104E5F3A,extended,000003E7
+
+[Rapid Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rapid Attack
+// Rapid Attack
+patch=1,EE,104E5F3C,extended,000003E7
+
+[Retaliate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Retaliate
+// Retaliate
+patch=1,EE,104E5F3E,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5F40,extended,000003E7
+
+[Iron Divide]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Iron Divide
+// Iron Divide
+patch=1,EE,104E5F42,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5F44,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5F46,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5F48,extended,000003E7
+
+[Add Badge Slot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Add Badge Slot
+// Add Badge Slot
+patch=1,EE,104E5F4A,extended,000003E7
+
+[Class Lvl Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Class Lvl Up
+// Class Lvl Up
+patch=1,EE,104E5F4C,extended,000003E7
+
+[All GC Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All GC Skills
+// All GC Skills
+patch=1,EE,404E5F08,extended,00110001
+
+[All GC Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All GC Skills
+// All GC Skills
+patch=1,EE,03E703E7,extended,00000000
+
+[All GC Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All GC Skills
+// All GC Skills
+patch=1,EE,104E5F4C,extended,000003E7
+
+[Quick EXP Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quick EXP Gain
+// Quick EXP Gain
+patch=1,EE,104E5FAC,extended,0000FFFF
+
+[Max EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EXP
+// Max EXP
+patch=1,EE,204E5FAC,extended,05F5E0FF
+
+[Max/Infinite HP Total]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max/Infinite HP Total
+// Max/Infinite HP Total
+patch=1,EE,204E5FB0,extended,0000270F
+
+[Max/Infinite HP Total]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max/Infinite HP Total
+// Max/Infinite HP Total
+patch=1,EE,204E5FB4,extended,0000270F
+
+[Max/Infinite MP Total]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max/Infinite MP Total
+// Max/Infinite MP Total
+patch=1,EE,204E5FB8,extended,0000270F
+
+[Max/Infinite MP Total]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max/Infinite MP Total
+// Max/Infinite MP Total
+patch=1,EE,204E5FBC,extended,0000270F
+
+[Level 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 99
+// Level 99
+patch=1,EE,104E5FC2,extended,00000063
+
+[GC Points (Adds To MP/HP)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=GC Points (Adds To MP/HP)
+// GC Points (Adds To MP/HP)
+patch=1,EE,104E5FC6,extended,000003E7
+
+[GC Points Multiplier]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=GC Points Multiplier
+// GC Points Multiplier
+patch=1,EE,104E5FC8,extended,00000002
+
+[Max ATK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max ATK
+// Max ATK
+patch=1,EE,104E5FCC,extended,000003E7
+
+[Max MAG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max MAG
+// Max MAG
+patch=1,EE,104E5FCE,extended,000003E7
+
+[Max DEF]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max DEF
+// Max DEF
+patch=1,EE,104E5FD0,extended,000003E7
+
+[Max RES]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max RES
+// Max RES
+patch=1,EE,104E5FD2,extended,000003E7
+
+[Max HIT]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HIT
+// Max HIT
+patch=1,EE,104E5FD4,extended,000003E7
+
+[Max EVA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max EVA
+// Max EVA
+patch=1,EE,104E5FD6,extended,000003E7
+
+[Max RFX]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max RFX
+// Max RFX
+patch=1,EE,104E5FD8,extended,000003E7
+
+[HP Base]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=HP Base
+// HP Base
+patch=1,EE,104E5FDA,extended,0000270F
+
+[MP Base]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MP Base
+// MP Base
+patch=1,EE,104E5FDC,extended,000003E7
+
+[ATP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=ATP
+// ATP
+patch=1,EE,104E5FE8,extended,000003E7
+
+[ACN]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=ACN
+// ACN
+patch=1,EE,104E5FEA,extended,000003E7
+
+[Accuracy]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Accuracy
+// Accuracy
+patch=1,EE,104E5FEC,extended,000003E7
+
+[Critical]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Critical
+// Critical
+patch=1,EE,104E5FEE,extended,000003E7
+
+[Bullets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bullets
+// Bullets
+patch=1,EE,104E5FF0,extended,000003E7
+
+[Usability]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Usability
+// Usability
+patch=1,EE,104E5FF2,extended,000003E7
+
+[Skill 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 1
+// Skill 1
+patch=1,EE,104E5FF4,extended,000003E7
+
+[Skill 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 2
+// Skill 2
+patch=1,EE,104E5FF6,extended,000003E7
+
+[Skill 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 3
+// Skill 3
+patch=1,EE,104E5FF8,extended,000003E7
+
+[Skill 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 4
+// Skill 4
+patch=1,EE,104E5FFA,extended,000003E7
+
+[Skill 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 5
+// Skill 5
+patch=1,EE,104E5FFC,extended,000003E7
+
+[Skill 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 6
+// Skill 6
+patch=1,EE,104E5FFE,extended,000003E7
+
+[Skill 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 7
+// Skill 7
+patch=1,EE,104E6000,extended,000003E7
+
+[Skill 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 8
+// Skill 8
+patch=1,EE,104E6002,extended,000003E7
+
+[Skill 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 9
+// Skill 9
+patch=1,EE,104E6004,extended,000003E7
+
+[Skill 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 10
+// Skill 10
+patch=1,EE,104E6006,extended,000003E7
+
+[Skill 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 11
+// Skill 11
+patch=1,EE,104E6008,extended,000003E7
+
+[Skill 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 12
+// Skill 12
+patch=1,EE,104E600A,extended,000003E7
+
+[Skill 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 13
+// Skill 13
+patch=1,EE,104E600C,extended,000003E7
+
+[Skill 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 14
+// Skill 14
+patch=1,EE,104E600E,extended,000003E7
+
+[Skill 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 15
+// Skill 15
+patch=1,EE,104E6010,extended,000003E7
+
+[Skill 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 16
+// Skill 16
+patch=1,EE,104E6012,extended,000003E7
+
+[Skill 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 17
+// Skill 17
+patch=1,EE,104E6014,extended,000003E7
+
+[Skill 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 18
+// Skill 18
+patch=1,EE,104E6016,extended,000003E7
+
+[Skill 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 19
+// Skill 19
+patch=1,EE,104E6018,extended,000003E7
+
+[Skill 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 20
+// Skill 20
+patch=1,EE,104E601A,extended,000003E7
+
+[Skill 21]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 21
+// Skill 21
+patch=1,EE,104E601C,extended,000003E7
+
+[Skill 22]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 22
+// Skill 22
+patch=1,EE,104E601E,extended,000003E7
+
+[Skill 23]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 23
+// Skill 23
+patch=1,EE,104E6020,extended,000003E7
+
+[Skill 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 24
+// Skill 24
+patch=1,EE,104E6022,extended,000003E7
+
+[Skill 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 25
+// Skill 25
+patch=1,EE,104E6024,extended,000003E7
+
+[Skill 26]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 26
+// Skill 26
+patch=1,EE,104E6026,extended,000003E7
+
+[Skill 27]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 27
+// Skill 27
+patch=1,EE,104E6028,extended,000003E7
+
+[Skill 28]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 28
+// Skill 28
+patch=1,EE,104E602A,extended,000003E7
+
+[Skill 29]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 29
+// Skill 29
+patch=1,EE,104E602C,extended,000003E7
+
+[Skill 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 30
+// Skill 30
+patch=1,EE,104E602E,extended,000003E7
+
+[Skill 31]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 31
+// Skill 31
+patch=1,EE,104E6030,extended,000003E7
+
+[Skill 32]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 32
+// Skill 32
+patch=1,EE,104E6032,extended,000003E7
+
+[Skill 33]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 33
+// Skill 33
+patch=1,EE,104E6034,extended,000003E7
+
+[Skill 34]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 34
+// Skill 34
+patch=1,EE,104E6036,extended,000003E7
+
+[Skill 35]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Skill 35
+// Skill 35
+patch=1,EE,104E6038,extended,000003E7
+
+[All GC Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All GC Skills
+// All GC Skills
+patch=1,EE,404E5FF4,extended,00110001
+
+[All GC Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All GC Skills
+// All GC Skills
+patch=1,EE,03E703E7,extended,00000000
+
+[All GC Skills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All GC Skills
+// All GC Skills
+patch=1,EE,104E6038,extended,000003E7
+
+[Slot 1-Jude]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1-Jude
+// Slot 1-Jude
+patch=1,EE,004E6CA4,extended,00000000
+
+[Slot 1-Yulie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1-Yulie
+// Slot 1-Yulie
+patch=1,EE,004E6CA4,extended,00000001
+
+[Slot 1-Arnaud]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1-Arnaud
+// Slot 1-Arnaud
+patch=1,EE,004E6CA4,extended,00000002
+
+[Slot 1-Raquel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1-Raquel
+// Slot 1-Raquel
+patch=1,EE,004E6CA4,extended,00000003
+
+[Slot 1-Kresnik]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1-Kresnik
+// Slot 1-Kresnik
+patch=1,EE,004E6CA4,extended,00000004
+
+[Slot 2-Noone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2-Noone
+// Slot 2-Noone
+patch=1,EE,004E6CA5,extended,000000FF
+
+[Slot 2-Jude]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2-Jude
+// Slot 2-Jude
+patch=1,EE,004E6CA5,extended,00000000
+
+[Slot 2-Yulie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2-Yulie
+// Slot 2-Yulie
+patch=1,EE,004E6CA5,extended,00000001
+
+[Slot 2-Arnaud]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2-Arnaud
+// Slot 2-Arnaud
+patch=1,EE,004E6CA5,extended,00000002
+
+[Slot 2-Raquel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2-Raquel
+// Slot 2-Raquel
+patch=1,EE,004E6CA5,extended,00000003
+
+[Slot 2-Kresnik]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2-Kresnik
+// Slot 2-Kresnik
+patch=1,EE,004E6CA5,extended,00000004
+
+[Slot 3-Noone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3-Noone
+// Slot 3-Noone
+patch=1,EE,004E6CA6,extended,000000FF
+
+[Slot 3-Jude]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3-Jude
+// Slot 3-Jude
+patch=1,EE,004E6CA6,extended,00000000
+
+[Slot 3-Yulie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3-Yulie
+// Slot 3-Yulie
+patch=1,EE,004E6CA6,extended,00000001
+
+[Slot 3-Arnaud]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3-Arnaud
+// Slot 3-Arnaud
+patch=1,EE,004E6CA6,extended,00000002
+
+[Slot 3-Raquel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3-Raquel
+// Slot 3-Raquel
+patch=1,EE,004E6CA6,extended,00000003
+
+[Slot 3-Kresnik]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3-Kresnik
+// Slot 3-Kresnik
+patch=1,EE,004E6CA6,extended,00000004
+
+[Slot 4-Noone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4-Noone
+// Slot 4-Noone
+patch=1,EE,004E6CA7,extended,000000FF
+
+[Slot 4-Jude]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4-Jude
+// Slot 4-Jude
+patch=1,EE,004E6CA7,extended,00000000
+
+[Slot 4-Yulie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4-Yulie
+// Slot 4-Yulie
+patch=1,EE,004E6CA7,extended,00000001
+
+[Slot 4-Arnaud]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4-Arnaud
+// Slot 4-Arnaud
+patch=1,EE,004E6CA7,extended,00000002
+
+[Slot 4-Raquel]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4-Raquel
+// Slot 4-Raquel
+patch=1,EE,004E6CA7,extended,00000003
+
+[Slot 4-Kresnik]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4-Kresnik
+// Slot 4-Kresnik
+patch=1,EE,004E6CA7,extended,00000004
+
+[Slot 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1
+// Slot 1
+patch=1,EE,104E6096,extended,00000063
+
+[Slot 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2
+// Slot 2
+patch=1,EE,104E609A,extended,00000063
+
+[Slot 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3
+// Slot 3
+patch=1,EE,104E609E,extended,00000063
+
+[Slot 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4
+// Slot 4
+patch=1,EE,104E60A2,extended,00000063
+
+[Slot 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 5
+// Slot 5
+patch=1,EE,104E60A6,extended,00000063
+
+[Slot 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 6
+// Slot 6
+patch=1,EE,104E60AA,extended,00000063
+
+[Slot 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 7
+// Slot 7
+patch=1,EE,104E60AE,extended,00000063
+
+[Slot 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 8
+// Slot 8
+patch=1,EE,104E60B2,extended,00000063
+
+[Slot 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 9
+// Slot 9
+patch=1,EE,104E60B6,extended,00000063
+
+[Slot 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 10
+// Slot 10
+patch=1,EE,104E60BA,extended,00000063
+
+[Slot 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 11
+// Slot 11
+patch=1,EE,104E60BE,extended,00000063
+
+[Slot 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 12
+// Slot 12
+patch=1,EE,104E60C2,extended,00000063
+
+[Slot 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 13
+// Slot 13
+patch=1,EE,104E60C6,extended,00000063
+
+[Slot 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 14
+// Slot 14
+patch=1,EE,104E60CA,extended,00000063
+
+[Slot 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 15
+// Slot 15
+patch=1,EE,104E60CE,extended,00000063
+
+[Slot 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 16
+// Slot 16
+patch=1,EE,104E60D2,extended,00000063
+
+[Slot 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 17
+// Slot 17
+patch=1,EE,104E60D6,extended,00000063
+
+[Slot 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 18
+// Slot 18
+patch=1,EE,104E60DA,extended,00000063
+
+[Slot 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 19
+// Slot 19
+patch=1,EE,104E60DE,extended,00000063
+
+[Slot 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 20
+// Slot 20
+patch=1,EE,104E60E2,extended,00000063
+
+[Slot 21]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 21
+// Slot 21
+patch=1,EE,104E60E6,extended,00000063
+
+[Slot 22]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 22
+// Slot 22
+patch=1,EE,104E60EA,extended,00000063
+
+[Slot 23]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 23
+// Slot 23
+patch=1,EE,104E60EE,extended,00000063
+
+[Slot 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 24
+// Slot 24
+patch=1,EE,104E60F2,extended,00000063
+
+[Slot 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 25
+// Slot 25
+patch=1,EE,104E60F6,extended,00000063
+
+[Slot 26]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 26
+// Slot 26
+patch=1,EE,104E60FA,extended,00000063
+
+[Slot 27]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 27
+// Slot 27
+patch=1,EE,104E60FE,extended,00000063
+
+[Slot 28]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 28
+// Slot 28
+patch=1,EE,104E6102,extended,00000063
+
+[Slot 29]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 29
+// Slot 29
+patch=1,EE,104E6106,extended,00000063
+
+[Slot 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 30
+// Slot 30
+patch=1,EE,104E610A,extended,00000063
+
+[Slot 31]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 31
+// Slot 31
+patch=1,EE,104E610E,extended,00000063
+
+[Slot 32]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 32
+// Slot 32
+patch=1,EE,104E6112,extended,00000063
+
+[Slot 33]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 33
+// Slot 33
+patch=1,EE,104E6116,extended,00000063
+
+[Slot 34]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 34
+// Slot 34
+patch=1,EE,104E611A,extended,00000063
+
+[Slot 35]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 35
+// Slot 35
+patch=1,EE,104E611E,extended,00000063
+
+[Slot 36]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 36
+// Slot 36
+patch=1,EE,104E6122,extended,00000063
+
+[Slot 37]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 37
+// Slot 37
+patch=1,EE,104E6126,extended,00000063
+
+[Slot 38]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 38
+// Slot 38
+patch=1,EE,104E612A,extended,00000063
+
+[Slot 39]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 39
+// Slot 39
+patch=1,EE,104E612E,extended,00000063
+
+[Slot 40]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 40
+// Slot 40
+patch=1,EE,104E6132,extended,00000063
+
+[Slot 41]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 41
+// Slot 41
+patch=1,EE,104E6136,extended,00000063
+
+[Slot 42]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 42
+// Slot 42
+patch=1,EE,104E613A,extended,00000063
+
+[Slot 43]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 43
+// Slot 43
+patch=1,EE,104E613E,extended,00000063
+
+[Slot 44]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 44
+// Slot 44
+patch=1,EE,104E6142,extended,00000063
+
+[Slot 45]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 45
+// Slot 45
+patch=1,EE,104E6146,extended,00000063
+
+[Slot 46]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 46
+// Slot 46
+patch=1,EE,104E614A,extended,00000063
+
+[Slot 47]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 47
+// Slot 47
+patch=1,EE,104E614E,extended,00000063
+
+[Slot 48]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 48
+// Slot 48
+patch=1,EE,104E6152,extended,00000063
+
+[Slot 49]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 49
+// Slot 49
+patch=1,EE,104E6156,extended,00000063
+
+[Slot 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 50
+// Slot 50
+patch=1,EE,104E615A,extended,00000063
+
+[Slot 51]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 51
+// Slot 51
+patch=1,EE,104E615E,extended,00000063
+
+[Slot 52]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 52
+// Slot 52
+patch=1,EE,104E6162,extended,00000063
+
+[Slot 53]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 53
+// Slot 53
+patch=1,EE,104E6166,extended,00000063
+
+[Slot 54]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 54
+// Slot 54
+patch=1,EE,104E616A,extended,00000063
+
+[Slot 55]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 55
+// Slot 55
+patch=1,EE,104E616E,extended,00000063
+
+[Slot 56]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 56
+// Slot 56
+patch=1,EE,104E6172,extended,00000063
+
+[Slot 57]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 57
+// Slot 57
+patch=1,EE,104E6176,extended,00000063
+
+[Slot 58]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 58
+// Slot 58
+patch=1,EE,104E617A,extended,00000063
+
+[Slot 59]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 59
+// Slot 59
+patch=1,EE,104E617E,extended,00000063
+
+[Slot 60]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 60
+// Slot 60
+patch=1,EE,104E6182,extended,00000063
+
+[Slot 61]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 61
+// Slot 61
+patch=1,EE,104E6186,extended,00000063
+
+[Slot 62]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 62
+// Slot 62
+patch=1,EE,104E618A,extended,00000063
+
+[Slot 63]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 63
+// Slot 63
+patch=1,EE,104E618E,extended,00000063
+
+[Slot 64]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 64
+// Slot 64
+patch=1,EE,104E6192,extended,00000063
+
+[Slot 65]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 65
+// Slot 65
+patch=1,EE,104E6196,extended,00000063
+
+[Slot 66]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 66
+// Slot 66
+patch=1,EE,104E619A,extended,00000063
+
+[Slot 67]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 67
+// Slot 67
+patch=1,EE,104E619E,extended,00000063
+
+[Slot 68]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 68
+// Slot 68
+patch=1,EE,104E61A2,extended,00000063
+
+[Slot 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 69
+// Slot 69
+patch=1,EE,104E61A6,extended,00000063
+
+[Slot 70]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 70
+// Slot 70
+patch=1,EE,104E61AA,extended,00000063
+
+[Slot 71]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 71
+// Slot 71
+patch=1,EE,104E61AE,extended,00000063
+
+[Slot 72]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 72
+// Slot 72
+patch=1,EE,104E61B2,extended,00000063
+
+[Slot 73]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 73
+// Slot 73
+patch=1,EE,104E61B6,extended,00000063
+
+[Slot 74]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 74
+// Slot 74
+patch=1,EE,104E61BA,extended,00000063
+
+[Slot 75]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 75
+// Slot 75
+patch=1,EE,104E61BE,extended,00000063
+
+[Slot 76]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 76
+// Slot 76
+patch=1,EE,104E61C2,extended,00000063
+
+[Slot 77]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 77
+// Slot 77
+patch=1,EE,104E61C6,extended,00000063
+
+[Slot 78]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 78
+// Slot 78
+patch=1,EE,104E61CA,extended,00000063
+
+[Slot 79]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 79
+// Slot 79
+patch=1,EE,104E61CE,extended,00000063
+
+[Slot 80]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 80
+// Slot 80
+patch=1,EE,104E61D2,extended,00000063
+
+[Slot 81]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 81
+// Slot 81
+patch=1,EE,104E61D6,extended,00000063
+
+[Slot 82]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 82
+// Slot 82
+patch=1,EE,104E61DA,extended,00000063
+
+[Slot 83]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 83
+// Slot 83
+patch=1,EE,104E61DE,extended,00000063
+
+[Slot 84]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 84
+// Slot 84
+patch=1,EE,104E61E2,extended,00000063
+
+[Slot 85]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 85
+// Slot 85
+patch=1,EE,104E61E6,extended,00000063
+
+[Slot 86]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 86
+// Slot 86
+patch=1,EE,104E61EA,extended,00000063
+
+[Slot 87]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 87
+// Slot 87
+patch=1,EE,104E61EE,extended,00000063
+
+[Slot 88]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 88
+// Slot 88
+patch=1,EE,104E61F2,extended,00000063
+
+[Slot 89]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 89
+// Slot 89
+patch=1,EE,104E61F6,extended,00000063
+
+[Slot 90]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 90
+// Slot 90
+patch=1,EE,104E61FA,extended,00000063
+
+[Slot 91]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 91
+// Slot 91
+patch=1,EE,104E61FE,extended,00000063
+
+[Slot 92]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 92
+// Slot 92
+patch=1,EE,104E6202,extended,00000063
+
+[Slot 93]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 93
+// Slot 93
+patch=1,EE,104E6206,extended,00000063
+
+[Slot 94]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 94
+// Slot 94
+patch=1,EE,104E620A,extended,00000063
+
+[Slot 95]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 95
+// Slot 95
+patch=1,EE,104E620E,extended,00000063
+
+[Slot 96]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 96
+// Slot 96
+patch=1,EE,104E6212,extended,00000063
+
+[Slot 97]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 97
+// Slot 97
+patch=1,EE,104E6216,extended,00000063
+
+[Slot 98]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 98
+// Slot 98
+patch=1,EE,104E621A,extended,00000063
+
+[Slot 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 99
+// Slot 99
+patch=1,EE,104E621E,extended,00000063
+
+[Slot 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 100
+// Slot 100
+patch=1,EE,104E6222,extended,00000063
+
+[Slot 101]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 101
+// Slot 101
+patch=1,EE,104E6226,extended,00000063
+
+[Slot 102]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 102
+// Slot 102
+patch=1,EE,104E622A,extended,00000063
+
+[Slot 103]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 103
+// Slot 103
+patch=1,EE,104E622E,extended,00000063
+
+[Slot 104]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 104
+// Slot 104
+patch=1,EE,104E6232,extended,00000063
+
+[Slot 105]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 105
+// Slot 105
+patch=1,EE,104E6236,extended,00000063
+
+[Slot 106]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 106
+// Slot 106
+patch=1,EE,104E623A,extended,00000063
+
+[Slot 107]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 107
+// Slot 107
+patch=1,EE,104E623E,extended,00000063
+
+[Slot 108]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 108
+// Slot 108
+patch=1,EE,104E6242,extended,00000063
+
+[Slot 109]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 109
+// Slot 109
+patch=1,EE,104E6246,extended,00000063
+
+[Slot 110]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 110
+// Slot 110
+patch=1,EE,104E624A,extended,00000063
+
+[Slot 111]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 111
+// Slot 111
+patch=1,EE,104E624E,extended,00000063
+
+[Slot 112]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 112
+// Slot 112
+patch=1,EE,104E6252,extended,00000063
+
+[Slot 113]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 113
+// Slot 113
+patch=1,EE,104E6256,extended,00000063
+
+[Slot 114]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 114
+// Slot 114
+patch=1,EE,104E625A,extended,00000063
+
+[Slot 115]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 115
+// Slot 115
+patch=1,EE,104E625E,extended,00000063
+
+[Slot 116]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 116
+// Slot 116
+patch=1,EE,104E6262,extended,00000063
+
+[Slot 117]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 117
+// Slot 117
+patch=1,EE,104E6266,extended,00000063
+
+[Slot 118]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 118
+// Slot 118
+patch=1,EE,104E626A,extended,00000063
+
+[Slot 119]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 119
+// Slot 119
+patch=1,EE,104E626E,extended,00000063
+
+[Slot 120]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 120
+// Slot 120
+patch=1,EE,104E6272,extended,00000063
+
+[Slot 121]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 121
+// Slot 121
+patch=1,EE,104E6276,extended,00000063
+
+[Slot 122]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 122
+// Slot 122
+patch=1,EE,104E627A,extended,00000063
+
+[Slot 123]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 123
+// Slot 123
+patch=1,EE,104E627E,extended,00000063
+
+[Slot 124]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 124
+// Slot 124
+patch=1,EE,104E6282,extended,00000063
+
+[Slot 125]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 125
+// Slot 125
+patch=1,EE,104E6286,extended,00000063
+
+[Slot 126]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 126
+// Slot 126
+patch=1,EE,104E628A,extended,00000063
+
+[Slot 127]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 127
+// Slot 127
+patch=1,EE,104E628E,extended,00000063
+
+[Slot 128]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 128
+// Slot 128
+patch=1,EE,104E6292,extended,00000063
+
+[Slot 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1
+// Slot 1
+patch=1,EE,104E6296,extended,00000063
+
+[Slot 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2
+// Slot 2
+patch=1,EE,104E629A,extended,00000063
+
+[Slot 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3
+// Slot 3
+patch=1,EE,104E629E,extended,00000063
+
+[Slot 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4
+// Slot 4
+patch=1,EE,104E62A2,extended,00000063
+
+[Slot 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 5
+// Slot 5
+patch=1,EE,104E62A6,extended,00000063
+
+[Slot 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 6
+// Slot 6
+patch=1,EE,104E62AA,extended,00000063
+
+[Slot 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 7
+// Slot 7
+patch=1,EE,104E62AE,extended,00000063
+
+[Slot 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 8
+// Slot 8
+patch=1,EE,104E62B2,extended,00000063
+
+[Slot 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 9
+// Slot 9
+patch=1,EE,104E62B6,extended,00000063
+
+[Slot 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 10
+// Slot 10
+patch=1,EE,104E62BA,extended,00000063
+
+[Slot 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 11
+// Slot 11
+patch=1,EE,104E62BE,extended,00000063
+
+[Slot 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 12
+// Slot 12
+patch=1,EE,104E62C2,extended,00000063
+
+[Slot 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 13
+// Slot 13
+patch=1,EE,104E62C6,extended,00000063
+
+[Slot 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 14
+// Slot 14
+patch=1,EE,104E62CA,extended,00000063
+
+[Slot 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 15
+// Slot 15
+patch=1,EE,104E62CE,extended,00000063
+
+[Slot 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 16
+// Slot 16
+patch=1,EE,104E62D2,extended,00000063
+
+[Slot 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 17
+// Slot 17
+patch=1,EE,104E62D6,extended,00000063
+
+[Slot 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 18
+// Slot 18
+patch=1,EE,104E62DA,extended,00000063
+
+[Slot 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 19
+// Slot 19
+patch=1,EE,104E62DE,extended,00000063
+
+[Slot 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 20
+// Slot 20
+patch=1,EE,104E62E2,extended,00000063
+
+[Slot 21]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 21
+// Slot 21
+patch=1,EE,104E62E6,extended,00000063
+
+[Slot 22]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 22
+// Slot 22
+patch=1,EE,104E62EA,extended,00000063
+
+[Slot 23]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 23
+// Slot 23
+patch=1,EE,104E62EE,extended,00000063
+
+[Slot 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 24
+// Slot 24
+patch=1,EE,104E62F2,extended,00000063
+
+[Slot 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 25
+// Slot 25
+patch=1,EE,104E62F6,extended,00000063
+
+[Slot 26]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 26
+// Slot 26
+patch=1,EE,104E62FA,extended,00000063
+
+[Slot 27]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 27
+// Slot 27
+patch=1,EE,104E62FE,extended,00000063
+
+[Slot 28]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 28
+// Slot 28
+patch=1,EE,104E6302,extended,00000063
+
+[Slot 29]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 29
+// Slot 29
+patch=1,EE,104E6306,extended,00000063
+
+[Slot 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 30
+// Slot 30
+patch=1,EE,104E630A,extended,00000063
+
+[Slot 31]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 31
+// Slot 31
+patch=1,EE,104E630E,extended,00000063
+
+[Slot 32]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 32
+// Slot 32
+patch=1,EE,104E6312,extended,00000063
+
+[Slot 33]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 33
+// Slot 33
+patch=1,EE,104E6316,extended,00000063
+
+[Slot 34]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 34
+// Slot 34
+patch=1,EE,104E631A,extended,00000063
+
+[Slot 35]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 35
+// Slot 35
+patch=1,EE,104E631E,extended,00000063
+
+[Slot 36]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 36
+// Slot 36
+patch=1,EE,104E6322,extended,00000063
+
+[Slot 37]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 37
+// Slot 37
+patch=1,EE,104E6326,extended,00000063
+
+[Slot 38]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 38
+// Slot 38
+patch=1,EE,104E632A,extended,00000063
+
+[Slot 39]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 39
+// Slot 39
+patch=1,EE,104E632E,extended,00000063
+
+[Slot 40]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 40
+// Slot 40
+patch=1,EE,104E6332,extended,00000063
+
+[Slot 41]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 41
+// Slot 41
+patch=1,EE,104E6336,extended,00000063
+
+[Slot 42]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 42
+// Slot 42
+patch=1,EE,104E633A,extended,00000063
+
+[Slot 43]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 43
+// Slot 43
+patch=1,EE,104E633E,extended,00000063
+
+[Slot 44]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 44
+// Slot 44
+patch=1,EE,104E6342,extended,00000063
+
+[Slot 45]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 45
+// Slot 45
+patch=1,EE,104E6346,extended,00000063
+
+[Slot 46]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 46
+// Slot 46
+patch=1,EE,104E634A,extended,00000063
+
+[Slot 47]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 47
+// Slot 47
+patch=1,EE,104E634E,extended,00000063
+
+[Slot 48]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 48
+// Slot 48
+patch=1,EE,104E6352,extended,00000063
+
+[Slot 49]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 49
+// Slot 49
+patch=1,EE,104E6356,extended,00000063
+
+[Slot 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 50
+// Slot 50
+patch=1,EE,104E635A,extended,00000063
+
+[Slot 51]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 51
+// Slot 51
+patch=1,EE,104E635E,extended,00000063
+
+[Slot 52]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 52
+// Slot 52
+patch=1,EE,104E6362,extended,00000063
+
+[Slot 53]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 53
+// Slot 53
+patch=1,EE,104E6366,extended,00000063
+
+[Slot 54]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 54
+// Slot 54
+patch=1,EE,104E636A,extended,00000063
+
+[Slot 55]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 55
+// Slot 55
+patch=1,EE,104E636E,extended,00000063
+
+[Slot 56]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 56
+// Slot 56
+patch=1,EE,104E6372,extended,00000063
+
+[Slot 57]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 57
+// Slot 57
+patch=1,EE,104E6376,extended,00000063
+
+[Slot 58]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 58
+// Slot 58
+patch=1,EE,104E637A,extended,00000063
+
+[Slot 59]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 59
+// Slot 59
+patch=1,EE,104E637E,extended,00000063
+
+[Slot 60]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 60
+// Slot 60
+patch=1,EE,104E6382,extended,00000063
+
+[Slot 61]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 61
+// Slot 61
+patch=1,EE,104E6386,extended,00000063
+
+[Slot 62]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 62
+// Slot 62
+patch=1,EE,104E638A,extended,00000063
+
+[Slot 63]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 63
+// Slot 63
+patch=1,EE,104E638E,extended,00000063
+
+[Slot 64]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 64
+// Slot 64
+patch=1,EE,104E6392,extended,00000063
+
+[Slot 65]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 65
+// Slot 65
+patch=1,EE,104E6396,extended,00000063
+
+[Slot 66]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 66
+// Slot 66
+patch=1,EE,104E639A,extended,00000063
+
+[Slot 67]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 67
+// Slot 67
+patch=1,EE,104E639E,extended,00000063
+
+[Slot 68]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 68
+// Slot 68
+patch=1,EE,104E63A2,extended,00000063
+
+[Slot 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 69
+// Slot 69
+patch=1,EE,104E63A6,extended,00000063
+
+[Slot 70]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 70
+// Slot 70
+patch=1,EE,104E63AA,extended,00000063
+
+[Slot 71]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 71
+// Slot 71
+patch=1,EE,104E63AE,extended,00000063
+
+[Slot 72]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 72
+// Slot 72
+patch=1,EE,104E63B2,extended,00000063
+
+[Slot 73]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 73
+// Slot 73
+patch=1,EE,104E63B6,extended,00000063
+
+[Slot 74]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 74
+// Slot 74
+patch=1,EE,104E63BA,extended,00000063
+
+[Slot 75]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 75
+// Slot 75
+patch=1,EE,104E63BE,extended,00000063
+
+[Slot 76]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 76
+// Slot 76
+patch=1,EE,104E63C2,extended,00000063
+
+[Slot 77]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 77
+// Slot 77
+patch=1,EE,104E63C6,extended,00000063
+
+[Slot 78]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 78
+// Slot 78
+patch=1,EE,104E63CA,extended,00000063
+
+[Slot 79]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 79
+// Slot 79
+patch=1,EE,104E63CE,extended,00000063
+
+[Slot 80]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 80
+// Slot 80
+patch=1,EE,104E63D2,extended,00000063
+
+[Slot 81]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 81
+// Slot 81
+patch=1,EE,104E63D6,extended,00000063
+
+[Slot 82]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 82
+// Slot 82
+patch=1,EE,104E63DA,extended,00000063
+
+[Slot 83]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 83
+// Slot 83
+patch=1,EE,104E63DE,extended,00000063
+
+[Slot 84]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 84
+// Slot 84
+patch=1,EE,104E63E2,extended,00000063
+
+[Slot 85]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 85
+// Slot 85
+patch=1,EE,104E63E6,extended,00000063
+
+[Slot 86]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 86
+// Slot 86
+patch=1,EE,104E63EA,extended,00000063
+
+[Slot 87]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 87
+// Slot 87
+patch=1,EE,104E63EE,extended,00000063
+
+[Slot 88]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 88
+// Slot 88
+patch=1,EE,104E63F2,extended,00000063
+
+[Slot 89]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 89
+// Slot 89
+patch=1,EE,104E63F6,extended,00000063
+
+[Slot 90]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 90
+// Slot 90
+patch=1,EE,104E63FA,extended,00000063
+
+[Slot 91]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 91
+// Slot 91
+patch=1,EE,104E63FE,extended,00000063
+
+[Slot 92]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 92
+// Slot 92
+patch=1,EE,104E6402,extended,00000063
+
+[Slot 93]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 93
+// Slot 93
+patch=1,EE,104E6406,extended,00000063
+
+[Slot 94]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 94
+// Slot 94
+patch=1,EE,104E640A,extended,00000063
+
+[Slot 95]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 95
+// Slot 95
+patch=1,EE,104E640E,extended,00000063
+
+[Slot 96]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 96
+// Slot 96
+patch=1,EE,104E6412,extended,00000063
+
+[Slot 97]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 97
+// Slot 97
+patch=1,EE,104E6416,extended,00000063
+
+[Slot 98]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 98
+// Slot 98
+patch=1,EE,104E641A,extended,00000063
+
+[Slot 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 99
+// Slot 99
+patch=1,EE,104E641E,extended,00000063
+
+[Slot 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 100
+// Slot 100
+patch=1,EE,104E6422,extended,00000063
+
+[Slot 101]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 101
+// Slot 101
+patch=1,EE,104E6426,extended,00000063
+
+[Slot 102]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 102
+// Slot 102
+patch=1,EE,104E642A,extended,00000063
+
+[Slot 103]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 103
+// Slot 103
+patch=1,EE,104E642E,extended,00000063
+
+[Slot 104]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 104
+// Slot 104
+patch=1,EE,104E6432,extended,00000063
+
+[Slot 105]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 105
+// Slot 105
+patch=1,EE,104E6436,extended,00000063
+
+[Slot 106]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 106
+// Slot 106
+patch=1,EE,104E643A,extended,00000063
+
+[Slot 107]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 107
+// Slot 107
+patch=1,EE,104E643E,extended,00000063
+
+[Slot 108]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 108
+// Slot 108
+patch=1,EE,104E6442,extended,00000063
+
+[Slot 109]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 109
+// Slot 109
+patch=1,EE,104E6446,extended,00000063
+
+[Slot 110]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 110
+// Slot 110
+patch=1,EE,104E644A,extended,00000063
+
+[Slot 111]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 111
+// Slot 111
+patch=1,EE,104E644E,extended,00000063
+
+[Slot 112]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 112
+// Slot 112
+patch=1,EE,104E6452,extended,00000063
+
+[Slot 113]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 113
+// Slot 113
+patch=1,EE,104E6456,extended,00000063
+
+[Slot 114]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 114
+// Slot 114
+patch=1,EE,104E645A,extended,00000063
+
+[Slot 115]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 115
+// Slot 115
+patch=1,EE,104E645E,extended,00000063
+
+[Slot 116]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 116
+// Slot 116
+patch=1,EE,104E6462,extended,00000063
+
+[Slot 117]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 117
+// Slot 117
+patch=1,EE,104E6466,extended,00000063
+
+[Slot 118]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 118
+// Slot 118
+patch=1,EE,104E646A,extended,00000063
+
+[Slot 119]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 119
+// Slot 119
+patch=1,EE,104E646E,extended,00000063
+
+[Slot 120]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 120
+// Slot 120
+patch=1,EE,104E6472,extended,00000063
+
+[Slot 121]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 121
+// Slot 121
+patch=1,EE,104E6476,extended,00000063
+
+[Slot 122]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 122
+// Slot 122
+patch=1,EE,104E647A,extended,00000063
+
+[Slot 123]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 123
+// Slot 123
+patch=1,EE,104E647E,extended,00000063
+
+[Slot 124]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 124
+// Slot 124
+patch=1,EE,104E6482,extended,00000063
+
+[Slot 125]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 125
+// Slot 125
+patch=1,EE,104E6486,extended,00000063
+
+[Slot 126]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 126
+// Slot 126
+patch=1,EE,104E648A,extended,00000063
+
+[Slot 127]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 127
+// Slot 127
+patch=1,EE,104E648E,extended,00000063
+
+[Slot 128]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 128
+// Slot 128
+patch=1,EE,104E6492,extended,00000063
+
+[Slot 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1
+// Slot 1
+patch=1,EE,104E6496,extended,00000063
+
+[Slot 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2
+// Slot 2
+patch=1,EE,104E649A,extended,00000063
+
+[Slot 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3
+// Slot 3
+patch=1,EE,104E649E,extended,00000063
+
+[Slot 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4
+// Slot 4
+patch=1,EE,104E64A2,extended,00000063
+
+[Slot 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 5
+// Slot 5
+patch=1,EE,104E64A6,extended,00000063
+
+[Slot 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 6
+// Slot 6
+patch=1,EE,104E64AA,extended,00000063
+
+[Slot 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 7
+// Slot 7
+patch=1,EE,104E64AE,extended,00000063
+
+[Slot 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 8
+// Slot 8
+patch=1,EE,104E64B2,extended,00000063
+
+[Slot 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 9
+// Slot 9
+patch=1,EE,104E64B6,extended,00000063
+
+[Slot 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 10
+// Slot 10
+patch=1,EE,104E64BA,extended,00000063
+
+[Slot 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 11
+// Slot 11
+patch=1,EE,104E64BE,extended,00000063
+
+[Slot 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 12
+// Slot 12
+patch=1,EE,104E64C2,extended,00000063
+
+[Slot 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 13
+// Slot 13
+patch=1,EE,104E64C6,extended,00000063
+
+[Slot 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 14
+// Slot 14
+patch=1,EE,104E64CA,extended,00000063
+
+[Slot 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 15
+// Slot 15
+patch=1,EE,104E64CE,extended,00000063
+
+[Slot 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 16
+// Slot 16
+patch=1,EE,104E64D2,extended,00000063
+
+[Slot 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 17
+// Slot 17
+patch=1,EE,104E64D6,extended,00000063
+
+[Slot 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 18
+// Slot 18
+patch=1,EE,104E64DA,extended,00000063
+
+[Slot 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 19
+// Slot 19
+patch=1,EE,104E64DE,extended,00000063
+
+[Slot 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 20
+// Slot 20
+patch=1,EE,104E64E2,extended,00000063
+
+[Slot 21]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 21
+// Slot 21
+patch=1,EE,104E64E6,extended,00000063
+
+[Slot 22]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 22
+// Slot 22
+patch=1,EE,104E64EA,extended,00000063
+
+[Slot 23]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 23
+// Slot 23
+patch=1,EE,104E64EE,extended,00000063
+
+[Slot 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 24
+// Slot 24
+patch=1,EE,104E64F2,extended,00000063
+
+[Slot 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 25
+// Slot 25
+patch=1,EE,104E64F6,extended,00000063
+
+[Slot 26]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 26
+// Slot 26
+patch=1,EE,104E64FA,extended,00000063
+
+[Slot 27]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 27
+// Slot 27
+patch=1,EE,104E64FE,extended,00000063
+
+[Slot 28]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 28
+// Slot 28
+patch=1,EE,104E6502,extended,00000063
+
+[Slot 29]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 29
+// Slot 29
+patch=1,EE,104E6506,extended,00000063
+
+[Slot 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 30
+// Slot 30
+patch=1,EE,104E650A,extended,00000063
+
+[Slot 31]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 31
+// Slot 31
+patch=1,EE,104E650E,extended,00000063
+
+[Slot 32]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 32
+// Slot 32
+patch=1,EE,104E6512,extended,00000063
+
+[Slot 33]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 33
+// Slot 33
+patch=1,EE,104E6516,extended,00000063
+
+[Slot 34]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 34
+// Slot 34
+patch=1,EE,104E651A,extended,00000063
+
+[Slot 35]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 35
+// Slot 35
+patch=1,EE,104E651E,extended,00000063
+
+[Slot 36]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 36
+// Slot 36
+patch=1,EE,104E6522,extended,00000063
+
+[Slot 37]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 37
+// Slot 37
+patch=1,EE,104E6526,extended,00000063
+
+[Slot 38]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 38
+// Slot 38
+patch=1,EE,104E652A,extended,00000063
+
+[Slot 39]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 39
+// Slot 39
+patch=1,EE,104E652E,extended,00000063
+
+[Slot 40]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 40
+// Slot 40
+patch=1,EE,104E6532,extended,00000063
+
+[Slot 41]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 41
+// Slot 41
+patch=1,EE,104E6536,extended,00000063
+
+[Slot 42]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 42
+// Slot 42
+patch=1,EE,104E653A,extended,00000063
+
+[Slot 43]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 43
+// Slot 43
+patch=1,EE,104E653E,extended,00000063
+
+[Slot 44]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 44
+// Slot 44
+patch=1,EE,104E6542,extended,00000063
+
+[Slot 45]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 45
+// Slot 45
+patch=1,EE,104E6546,extended,00000063
+
+[Slot 46]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 46
+// Slot 46
+patch=1,EE,104E654A,extended,00000063
+
+[Slot 47]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 47
+// Slot 47
+patch=1,EE,104E654E,extended,00000063
+
+[Slot 48]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 48
+// Slot 48
+patch=1,EE,104E6552,extended,00000063
+
+[Slot 49]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 49
+// Slot 49
+patch=1,EE,104E6556,extended,00000063
+
+[Slot 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 50
+// Slot 50
+patch=1,EE,104E655A,extended,00000063
+
+[Slot 51]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 51
+// Slot 51
+patch=1,EE,104E655E,extended,00000063
+
+[Slot 52]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 52
+// Slot 52
+patch=1,EE,104E6562,extended,00000063
+
+[Slot 53]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 53
+// Slot 53
+patch=1,EE,104E6566,extended,00000063
+
+[Slot 54]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 54
+// Slot 54
+patch=1,EE,104E656A,extended,00000063
+
+[Slot 55]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 55
+// Slot 55
+patch=1,EE,104E656E,extended,00000063
+
+[Slot 56]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 56
+// Slot 56
+patch=1,EE,104E6572,extended,00000063
+
+[Slot 57]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 57
+// Slot 57
+patch=1,EE,104E6576,extended,00000063
+
+[Slot 58]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 58
+// Slot 58
+patch=1,EE,104E657A,extended,00000063
+
+[Slot 59]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 59
+// Slot 59
+patch=1,EE,104E657E,extended,00000063
+
+[Slot 60]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 60
+// Slot 60
+patch=1,EE,104E6582,extended,00000063
+
+[Slot 61]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 61
+// Slot 61
+patch=1,EE,104E6586,extended,00000063
+
+[Slot 62]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 62
+// Slot 62
+patch=1,EE,104E658A,extended,00000063
+
+[Slot 63]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 63
+// Slot 63
+patch=1,EE,104E658E,extended,00000063
+
+[Slot 64]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 64
+// Slot 64
+patch=1,EE,104E6592,extended,00000063
+
+[Slot 65]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 65
+// Slot 65
+patch=1,EE,104E6596,extended,00000063
+
+[Slot 66]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 66
+// Slot 66
+patch=1,EE,104E659A,extended,00000063
+
+[Slot 67]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 67
+// Slot 67
+patch=1,EE,104E659E,extended,00000063
+
+[Slot 68]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 68
+// Slot 68
+patch=1,EE,104E65A2,extended,00000063
+
+[Slot 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 69
+// Slot 69
+patch=1,EE,104E65A6,extended,00000063
+
+[Slot 70]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 70
+// Slot 70
+patch=1,EE,104E65AA,extended,00000063
+
+[Slot 71]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 71
+// Slot 71
+patch=1,EE,104E65AE,extended,00000063
+
+[Slot 72]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 72
+// Slot 72
+patch=1,EE,104E65B2,extended,00000063
+
+[Slot 73]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 73
+// Slot 73
+patch=1,EE,104E65B6,extended,00000063
+
+[Slot 74]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 74
+// Slot 74
+patch=1,EE,104E65BA,extended,00000063
+
+[Slot 75]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 75
+// Slot 75
+patch=1,EE,104E65BE,extended,00000063
+
+[Slot 76]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 76
+// Slot 76
+patch=1,EE,104E65C2,extended,00000063
+
+[Slot 77]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 77
+// Slot 77
+patch=1,EE,104E65C6,extended,00000063
+
+[Slot 78]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 78
+// Slot 78
+patch=1,EE,104E65CA,extended,00000063
+
+[Slot 79]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 79
+// Slot 79
+patch=1,EE,104E65CE,extended,00000063
+
+[Slot 80]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 80
+// Slot 80
+patch=1,EE,104E65D2,extended,00000063
+
+[Slot 81]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 81
+// Slot 81
+patch=1,EE,104E65D6,extended,00000063
+
+[Slot 82]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 82
+// Slot 82
+patch=1,EE,104E65DA,extended,00000063
+
+[Slot 83]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 83
+// Slot 83
+patch=1,EE,104E65DE,extended,00000063
+
+[Slot 84]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 84
+// Slot 84
+patch=1,EE,104E65E2,extended,00000063
+
+[Slot 85]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 85
+// Slot 85
+patch=1,EE,104E65E6,extended,00000063
+
+[Slot 86]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 86
+// Slot 86
+patch=1,EE,104E65EA,extended,00000063
+
+[Slot 87]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 87
+// Slot 87
+patch=1,EE,104E65EE,extended,00000063
+
+[Slot 88]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 88
+// Slot 88
+patch=1,EE,104E65F2,extended,00000063
+
+[Slot 89]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 89
+// Slot 89
+patch=1,EE,104E65F6,extended,00000063
+
+[Slot 90]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 90
+// Slot 90
+patch=1,EE,104E65FA,extended,00000063
+
+[Slot 91]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 91
+// Slot 91
+patch=1,EE,104E65FE,extended,00000063
+
+[Slot 92]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 92
+// Slot 92
+patch=1,EE,104E6602,extended,00000063
+
+[Slot 93]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 93
+// Slot 93
+patch=1,EE,104E6606,extended,00000063
+
+[Slot 94]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 94
+// Slot 94
+patch=1,EE,104E660A,extended,00000063
+
+[Slot 95]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 95
+// Slot 95
+patch=1,EE,104E660E,extended,00000063
+
+[Slot 96]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 96
+// Slot 96
+patch=1,EE,104E6612,extended,00000063
+
+[Slot 97]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 97
+// Slot 97
+patch=1,EE,104E6616,extended,00000063
+
+[Slot 98]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 98
+// Slot 98
+patch=1,EE,104E661A,extended,00000063
+
+[Slot 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 99
+// Slot 99
+patch=1,EE,104E661E,extended,00000063
+
+[Slot 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 100
+// Slot 100
+patch=1,EE,104E6622,extended,00000063
+
+[Slot 101]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 101
+// Slot 101
+patch=1,EE,104E6626,extended,00000063
+
+[Slot 102]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 102
+// Slot 102
+patch=1,EE,104E662A,extended,00000063
+
+[Slot 103]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 103
+// Slot 103
+patch=1,EE,104E662E,extended,00000063
+
+[Slot 104]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 104
+// Slot 104
+patch=1,EE,104E6632,extended,00000063
+
+[Slot 105]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 105
+// Slot 105
+patch=1,EE,104E6636,extended,00000063
+
+[Slot 106]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 106
+// Slot 106
+patch=1,EE,104E663A,extended,00000063
+
+[Slot 107]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 107
+// Slot 107
+patch=1,EE,104E663E,extended,00000063
+
+[Slot 108]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 108
+// Slot 108
+patch=1,EE,104E6642,extended,00000063
+
+[Slot 109]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 109
+// Slot 109
+patch=1,EE,104E6646,extended,00000063
+
+[Slot 110]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 110
+// Slot 110
+patch=1,EE,104E664A,extended,00000063
+
+[Slot 111]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 111
+// Slot 111
+patch=1,EE,104E664E,extended,00000063
+
+[Slot 112]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 112
+// Slot 112
+patch=1,EE,104E6652,extended,00000063
+
+[Slot 113]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 113
+// Slot 113
+patch=1,EE,104E6656,extended,00000063
+
+[Slot 114]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 114
+// Slot 114
+patch=1,EE,104E665A,extended,00000063
+
+[Slot 115]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 115
+// Slot 115
+patch=1,EE,104E665E,extended,00000063
+
+[Slot 116]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 116
+// Slot 116
+patch=1,EE,104E6662,extended,00000063
+
+[Slot 117]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 117
+// Slot 117
+patch=1,EE,104E6666,extended,00000063
+
+[Slot 118]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 118
+// Slot 118
+patch=1,EE,104E666A,extended,00000063
+
+[Slot 119]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 119
+// Slot 119
+patch=1,EE,104E666E,extended,00000063
+
+[Slot 120]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 120
+// Slot 120
+patch=1,EE,104E6672,extended,00000063
+
+[Slot 121]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 121
+// Slot 121
+patch=1,EE,104E6676,extended,00000063
+
+[Slot 122]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 122
+// Slot 122
+patch=1,EE,104E667A,extended,00000063
+
+[Slot 123]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 123
+// Slot 123
+patch=1,EE,104E667E,extended,00000063
+
+[Slot 124]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 124
+// Slot 124
+patch=1,EE,104E6682,extended,00000063
+
+[Slot 125]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 125
+// Slot 125
+patch=1,EE,104E6686,extended,00000063
+
+[Slot 126]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 126
+// Slot 126
+patch=1,EE,104E668A,extended,00000063
+
+[Slot 127]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 127
+// Slot 127
+patch=1,EE,104E668E,extended,00000063
+
+[Slot 128]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 128
+// Slot 128
+patch=1,EE,104E6692,extended,00000063
+
+[Slot 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1
+// Slot 1
+patch=1,EE,104E6696,extended,00000063
+
+[Slot 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2
+// Slot 2
+patch=1,EE,104E669A,extended,00000063
+
+[Slot 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3
+// Slot 3
+patch=1,EE,104E669E,extended,00000063
+
+[Slot 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4
+// Slot 4
+patch=1,EE,104E66A2,extended,00000063
+
+[Slot 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 5
+// Slot 5
+patch=1,EE,104E66A6,extended,00000063
+
+[Slot 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 6
+// Slot 6
+patch=1,EE,104E66AA,extended,00000063
+
+[Slot 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 7
+// Slot 7
+patch=1,EE,104E66AE,extended,00000063
+
+[Slot 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 8
+// Slot 8
+patch=1,EE,104E66B2,extended,00000063
+
+[Slot 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 9
+// Slot 9
+patch=1,EE,104E66B6,extended,00000063
+
+[Slot 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 10
+// Slot 10
+patch=1,EE,104E66BA,extended,00000063
+
+[Slot 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 11
+// Slot 11
+patch=1,EE,104E66BE,extended,00000063
+
+[Slot 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 12
+// Slot 12
+patch=1,EE,104E66C2,extended,00000063
+
+[Slot 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 13
+// Slot 13
+patch=1,EE,104E66C6,extended,00000063
+
+[Slot 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 14
+// Slot 14
+patch=1,EE,104E66CA,extended,00000063
+
+[Slot 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 15
+// Slot 15
+patch=1,EE,104E66CE,extended,00000063
+
+[Slot 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 16
+// Slot 16
+patch=1,EE,104E66D2,extended,00000063
+
+[Slot 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 17
+// Slot 17
+patch=1,EE,104E66D6,extended,00000063
+
+[Slot 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 18
+// Slot 18
+patch=1,EE,104E66DA,extended,00000063
+
+[Slot 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 19
+// Slot 19
+patch=1,EE,104E66DE,extended,00000063
+
+[Slot 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 20
+// Slot 20
+patch=1,EE,104E66E2,extended,00000063
+
+[Slot 21]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 21
+// Slot 21
+patch=1,EE,104E66E6,extended,00000063
+
+[Slot 22]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 22
+// Slot 22
+patch=1,EE,104E66EA,extended,00000063
+
+[Slot 23]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 23
+// Slot 23
+patch=1,EE,104E66EE,extended,00000063
+
+[Slot 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 24
+// Slot 24
+patch=1,EE,104E66F2,extended,00000063
+
+[Slot 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 25
+// Slot 25
+patch=1,EE,104E66F6,extended,00000063
+
+[Slot 26]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 26
+// Slot 26
+patch=1,EE,104E66FA,extended,00000063
+
+[Slot 27]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 27
+// Slot 27
+patch=1,EE,104E66FE,extended,00000063
+
+[Slot 28]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 28
+// Slot 28
+patch=1,EE,104E6702,extended,00000063
+
+[Slot 29]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 29
+// Slot 29
+patch=1,EE,104E6706,extended,00000063
+
+[Slot 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 30
+// Slot 30
+patch=1,EE,104E670A,extended,00000063
+
+[Slot 31]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 31
+// Slot 31
+patch=1,EE,104E670E,extended,00000063
+
+[Slot 32]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 32
+// Slot 32
+patch=1,EE,104E6712,extended,00000063
+
+[Slot 33]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 33
+// Slot 33
+patch=1,EE,104E6716,extended,00000063
+
+[Slot 34]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 34
+// Slot 34
+patch=1,EE,104E671A,extended,00000063
+
+[Slot 35]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 35
+// Slot 35
+patch=1,EE,104E671E,extended,00000063
+
+[Slot 36]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 36
+// Slot 36
+patch=1,EE,104E6722,extended,00000063
+
+[Slot 37]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 37
+// Slot 37
+patch=1,EE,104E6726,extended,00000063
+
+[Slot 38]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 38
+// Slot 38
+patch=1,EE,104E672A,extended,00000063
+
+[Slot 39]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 39
+// Slot 39
+patch=1,EE,104E672E,extended,00000063
+
+[Slot 40]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 40
+// Slot 40
+patch=1,EE,104E6732,extended,00000063
+
+[Slot 41]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 41
+// Slot 41
+patch=1,EE,104E6736,extended,00000063
+
+[Slot 42]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 42
+// Slot 42
+patch=1,EE,104E673A,extended,00000063
+
+[Slot 43]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 43
+// Slot 43
+patch=1,EE,104E673E,extended,00000063
+
+[Slot 44]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 44
+// Slot 44
+patch=1,EE,104E6742,extended,00000063
+
+[Slot 45]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 45
+// Slot 45
+patch=1,EE,104E6746,extended,00000063
+
+[Slot 46]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 46
+// Slot 46
+patch=1,EE,104E674A,extended,00000063
+
+[Slot 47]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 47
+// Slot 47
+patch=1,EE,104E674E,extended,00000063
+
+[Slot 48]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 48
+// Slot 48
+patch=1,EE,104E6752,extended,00000063
+
+[Slot 49]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 49
+// Slot 49
+patch=1,EE,104E6756,extended,00000063
+
+[Slot 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 50
+// Slot 50
+patch=1,EE,104E675A,extended,00000063
+
+[Slot 51]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 51
+// Slot 51
+patch=1,EE,104E675E,extended,00000063
+
+[Slot 52]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 52
+// Slot 52
+patch=1,EE,104E6762,extended,00000063
+
+[Slot 53]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 53
+// Slot 53
+patch=1,EE,104E6766,extended,00000063
+
+[Slot 54]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 54
+// Slot 54
+patch=1,EE,104E676A,extended,00000063
+
+[Slot 55]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 55
+// Slot 55
+patch=1,EE,104E676E,extended,00000063
+
+[Slot 56]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 56
+// Slot 56
+patch=1,EE,104E6772,extended,00000063
+
+[Slot 57]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 57
+// Slot 57
+patch=1,EE,104E6776,extended,00000063
+
+[Slot 58]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 58
+// Slot 58
+patch=1,EE,104E677A,extended,00000063
+
+[Slot 59]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 59
+// Slot 59
+patch=1,EE,104E677E,extended,00000063
+
+[Slot 60]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 60
+// Slot 60
+patch=1,EE,104E6782,extended,00000063
+
+[Slot 61]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 61
+// Slot 61
+patch=1,EE,104E6786,extended,00000063
+
+[Slot 62]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 62
+// Slot 62
+patch=1,EE,104E678A,extended,00000063
+
+[Slot 63]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 63
+// Slot 63
+patch=1,EE,104E678E,extended,00000063
+
+[Slot 64]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 64
+// Slot 64
+patch=1,EE,104E6792,extended,00000063
+
+[Slot 65]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 65
+// Slot 65
+patch=1,EE,104E6796,extended,00000063
+
+[Slot 66]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 66
+// Slot 66
+patch=1,EE,104E679A,extended,00000063
+
+[Slot 67]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 67
+// Slot 67
+patch=1,EE,104E679E,extended,00000063
+
+[Slot 68]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 68
+// Slot 68
+patch=1,EE,104E67A2,extended,00000063
+
+[Slot 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 69
+// Slot 69
+patch=1,EE,104E67A6,extended,00000063
+
+[Slot 70]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 70
+// Slot 70
+patch=1,EE,104E67AA,extended,00000063
+
+[Slot 71]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 71
+// Slot 71
+patch=1,EE,104E67AE,extended,00000063
+
+[Slot 72]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 72
+// Slot 72
+patch=1,EE,104E67B2,extended,00000063
+
+[Slot 73]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 73
+// Slot 73
+patch=1,EE,104E67B6,extended,00000063
+
+[Slot 74]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 74
+// Slot 74
+patch=1,EE,104E67BA,extended,00000063
+
+[Slot 75]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 75
+// Slot 75
+patch=1,EE,104E67BE,extended,00000063
+
+[Slot 76]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 76
+// Slot 76
+patch=1,EE,104E67C2,extended,00000063
+
+[Slot 77]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 77
+// Slot 77
+patch=1,EE,104E67C6,extended,00000063
+
+[Slot 78]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 78
+// Slot 78
+patch=1,EE,104E67CA,extended,00000063
+
+[Slot 79]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 79
+// Slot 79
+patch=1,EE,104E67CE,extended,00000063
+
+[Slot 80]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 80
+// Slot 80
+patch=1,EE,104E67D2,extended,00000063
+
+[Slot 81]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 81
+// Slot 81
+patch=1,EE,104E67D6,extended,00000063
+
+[Slot 82]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 82
+// Slot 82
+patch=1,EE,104E67DA,extended,00000063
+
+[Slot 83]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 83
+// Slot 83
+patch=1,EE,104E67DE,extended,00000063
+
+[Slot 84]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 84
+// Slot 84
+patch=1,EE,104E67E2,extended,00000063
+
+[Slot 85]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 85
+// Slot 85
+patch=1,EE,104E67E6,extended,00000063
+
+[Slot 86]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 86
+// Slot 86
+patch=1,EE,104E67EA,extended,00000063
+
+[Slot 87]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 87
+// Slot 87
+patch=1,EE,104E67EE,extended,00000063
+
+[Slot 88]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 88
+// Slot 88
+patch=1,EE,104E67F2,extended,00000063
+
+[Slot 89]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 89
+// Slot 89
+patch=1,EE,104E67F6,extended,00000063
+
+[Slot 90]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 90
+// Slot 90
+patch=1,EE,104E67FA,extended,00000063
+
+[Slot 91]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 91
+// Slot 91
+patch=1,EE,104E67FE,extended,00000063
+
+[Slot 92]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 92
+// Slot 92
+patch=1,EE,104E6802,extended,00000063
+
+[Slot 93]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 93
+// Slot 93
+patch=1,EE,104E6806,extended,00000063
+
+[Slot 94]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 94
+// Slot 94
+patch=1,EE,104E680A,extended,00000063
+
+[Slot 95]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 95
+// Slot 95
+patch=1,EE,104E680E,extended,00000063
+
+[Slot 96]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 96
+// Slot 96
+patch=1,EE,104E6812,extended,00000063
+
+[Slot 97]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 97
+// Slot 97
+patch=1,EE,104E6816,extended,00000063
+
+[Slot 98]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 98
+// Slot 98
+patch=1,EE,104E681A,extended,00000063
+
+[Slot 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 99
+// Slot 99
+patch=1,EE,104E681E,extended,00000063
+
+[Slot 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 100
+// Slot 100
+patch=1,EE,104E6822,extended,00000063
+
+[Slot 101]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 101
+// Slot 101
+patch=1,EE,104E6826,extended,00000063
+
+[Slot 102]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 102
+// Slot 102
+patch=1,EE,104E682A,extended,00000063
+
+[Slot 103]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 103
+// Slot 103
+patch=1,EE,104E682E,extended,00000063
+
+[Slot 104]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 104
+// Slot 104
+patch=1,EE,104E6832,extended,00000063
+
+[Slot 105]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 105
+// Slot 105
+patch=1,EE,104E6836,extended,00000063
+
+[Slot 106]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 106
+// Slot 106
+patch=1,EE,104E683A,extended,00000063
+
+[Slot 107]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 107
+// Slot 107
+patch=1,EE,104E683E,extended,00000063
+
+[Slot 108]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 108
+// Slot 108
+patch=1,EE,104E6842,extended,00000063
+
+[Slot 109]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 109
+// Slot 109
+patch=1,EE,104E6846,extended,00000063
+
+[Slot 110]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 110
+// Slot 110
+patch=1,EE,104E684A,extended,00000063
+
+[Slot 111]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 111
+// Slot 111
+patch=1,EE,104E684E,extended,00000063
+
+[Slot 112]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 112
+// Slot 112
+patch=1,EE,104E6852,extended,00000063
+
+[Slot 113]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 113
+// Slot 113
+patch=1,EE,104E6856,extended,00000063
+
+[Slot 114]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 114
+// Slot 114
+patch=1,EE,104E685A,extended,00000063
+
+[Slot 115]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 115
+// Slot 115
+patch=1,EE,104E685E,extended,00000063
+
+[Slot 116]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 116
+// Slot 116
+patch=1,EE,104E6862,extended,00000063
+
+[Slot 117]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 117
+// Slot 117
+patch=1,EE,104E6866,extended,00000063
+
+[Slot 118]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 118
+// Slot 118
+patch=1,EE,104E686A,extended,00000063
+
+[Slot 119]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 119
+// Slot 119
+patch=1,EE,104E686E,extended,00000063
+
+[Slot 120]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 120
+// Slot 120
+patch=1,EE,104E6872,extended,00000063
+
+[Slot 121]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 121
+// Slot 121
+patch=1,EE,104E6876,extended,00000063
+
+[Slot 122]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 122
+// Slot 122
+patch=1,EE,104E687A,extended,00000063
+
+[Slot 123]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 123
+// Slot 123
+patch=1,EE,104E687E,extended,00000063
+
+[Slot 124]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 124
+// Slot 124
+patch=1,EE,104E6882,extended,00000063
+
+[Slot 125]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 125
+// Slot 125
+patch=1,EE,104E6886,extended,00000063
+
+[Slot 126]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 126
+// Slot 126
+patch=1,EE,104E688A,extended,00000063
+
+[Slot 127]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 127
+// Slot 127
+patch=1,EE,104E688E,extended,00000063
+
+[Slot 128]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 128
+// Slot 128
+patch=1,EE,104E6892,extended,00000063
+
+[Slot 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1
+// Slot 1
+patch=1,EE,104E6896,extended,00000063
+
+[Slot 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2
+// Slot 2
+patch=1,EE,104E689A,extended,00000063
+
+[Slot 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3
+// Slot 3
+patch=1,EE,104E689E,extended,00000063
+
+[Slot 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4
+// Slot 4
+patch=1,EE,104E68A2,extended,00000063
+
+[Slot 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 5
+// Slot 5
+patch=1,EE,104E68A6,extended,00000063
+
+[Slot 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 6
+// Slot 6
+patch=1,EE,104E68AA,extended,00000063
+
+[Slot 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 7
+// Slot 7
+patch=1,EE,104E68AE,extended,00000063
+
+[Slot 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 8
+// Slot 8
+patch=1,EE,104E68B2,extended,00000063
+
+[Slot 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 9
+// Slot 9
+patch=1,EE,104E68B6,extended,00000063
+
+[Slot 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 10
+// Slot 10
+patch=1,EE,104E68BA,extended,00000063
+
+[Slot 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 11
+// Slot 11
+patch=1,EE,104E68BE,extended,00000063
+
+[Slot 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 12
+// Slot 12
+patch=1,EE,104E68C2,extended,00000063
+
+[Slot 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 13
+// Slot 13
+patch=1,EE,104E68C6,extended,00000063
+
+[Slot 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 14
+// Slot 14
+patch=1,EE,104E68CA,extended,00000063
+
+[Slot 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 15
+// Slot 15
+patch=1,EE,104E68CE,extended,00000063
+
+[Slot 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 16
+// Slot 16
+patch=1,EE,104E68D2,extended,00000063
+
+[Slot 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 17
+// Slot 17
+patch=1,EE,104E68D6,extended,00000063
+
+[Slot 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 18
+// Slot 18
+patch=1,EE,104E68DA,extended,00000063
+
+[Slot 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 19
+// Slot 19
+patch=1,EE,104E68DE,extended,00000063
+
+[Slot 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 20
+// Slot 20
+patch=1,EE,104E68E2,extended,00000063
+
+[Slot 21]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 21
+// Slot 21
+patch=1,EE,104E68E6,extended,00000063
+
+[Slot 22]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 22
+// Slot 22
+patch=1,EE,104E68EA,extended,00000063
+
+[Slot 23]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 23
+// Slot 23
+patch=1,EE,104E68EE,extended,00000063
+
+[Slot 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 24
+// Slot 24
+patch=1,EE,104E68F2,extended,00000063
+
+[Slot 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 25
+// Slot 25
+patch=1,EE,104E68F6,extended,00000063
+
+[Slot 26]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 26
+// Slot 26
+patch=1,EE,104E68FA,extended,00000063
+
+[Slot 27]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 27
+// Slot 27
+patch=1,EE,104E68FE,extended,00000063
+
+[Slot 28]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 28
+// Slot 28
+patch=1,EE,104E6902,extended,00000063
+
+[Slot 29]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 29
+// Slot 29
+patch=1,EE,104E6906,extended,00000063
+
+[Slot 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 30
+// Slot 30
+patch=1,EE,104E690A,extended,00000063
+
+[Slot 31]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 31
+// Slot 31
+patch=1,EE,104E690E,extended,00000063
+
+[Slot 32]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 32
+// Slot 32
+patch=1,EE,104E6912,extended,00000063
+
+[Slot 33]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 33
+// Slot 33
+patch=1,EE,104E6916,extended,00000063
+
+[Slot 34]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 34
+// Slot 34
+patch=1,EE,104E691A,extended,00000063
+
+[Slot 35]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 35
+// Slot 35
+patch=1,EE,104E691E,extended,00000063
+
+[Slot 36]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 36
+// Slot 36
+patch=1,EE,104E6922,extended,00000063
+
+[Slot 37]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 37
+// Slot 37
+patch=1,EE,104E6926,extended,00000063
+
+[Slot 38]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 38
+// Slot 38
+patch=1,EE,104E692A,extended,00000063
+
+[Slot 39]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 39
+// Slot 39
+patch=1,EE,104E692E,extended,00000063
+
+[Slot 40]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 40
+// Slot 40
+patch=1,EE,104E6932,extended,00000063
+
+[Slot 41]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 41
+// Slot 41
+patch=1,EE,104E6936,extended,00000063
+
+[Slot 42]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 42
+// Slot 42
+patch=1,EE,104E693A,extended,00000063
+
+[Slot 43]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 43
+// Slot 43
+patch=1,EE,104E693E,extended,00000063
+
+[Slot 44]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 44
+// Slot 44
+patch=1,EE,104E6942,extended,00000063
+
+[Slot 45]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 45
+// Slot 45
+patch=1,EE,104E6946,extended,00000063
+
+[Slot 46]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 46
+// Slot 46
+patch=1,EE,104E694A,extended,00000063
+
+[Slot 47]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 47
+// Slot 47
+patch=1,EE,104E694E,extended,00000063
+
+[Slot 48]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 48
+// Slot 48
+patch=1,EE,104E6952,extended,00000063
+
+[Slot 49]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 49
+// Slot 49
+patch=1,EE,104E6956,extended,00000063
+
+[Slot 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 50
+// Slot 50
+patch=1,EE,104E695A,extended,00000063
+
+[Slot 51]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 51
+// Slot 51
+patch=1,EE,104E695E,extended,00000063
+
+[Slot 52]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 52
+// Slot 52
+patch=1,EE,104E6962,extended,00000063
+
+[Slot 53]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 53
+// Slot 53
+patch=1,EE,104E6966,extended,00000063
+
+[Slot 54]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 54
+// Slot 54
+patch=1,EE,104E696A,extended,00000063
+
+[Slot 55]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 55
+// Slot 55
+patch=1,EE,104E696E,extended,00000063
+
+[Slot 56]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 56
+// Slot 56
+patch=1,EE,104E6972,extended,00000063
+
+[Slot 57]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 57
+// Slot 57
+patch=1,EE,104E6976,extended,00000063
+
+[Slot 58]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 58
+// Slot 58
+patch=1,EE,104E697A,extended,00000063
+
+[Slot 59]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 59
+// Slot 59
+patch=1,EE,104E697E,extended,00000063
+
+[Slot 60]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 60
+// Slot 60
+patch=1,EE,104E6982,extended,00000063
+
+[Slot 61]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 61
+// Slot 61
+patch=1,EE,104E6986,extended,00000063
+
+[Slot 62]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 62
+// Slot 62
+patch=1,EE,104E698A,extended,00000063
+
+[Slot 63]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 63
+// Slot 63
+patch=1,EE,104E698E,extended,00000063
+
+[Slot 64]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 64
+// Slot 64
+patch=1,EE,104E6992,extended,00000063
+
+[Slot 65]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 65
+// Slot 65
+patch=1,EE,104E6996,extended,00000063
+
+[Slot 66]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 66
+// Slot 66
+patch=1,EE,104E699A,extended,00000063
+
+[Slot 67]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 67
+// Slot 67
+patch=1,EE,104E699E,extended,00000063
+
+[Slot 68]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 68
+// Slot 68
+patch=1,EE,104E69A2,extended,00000063
+
+[Slot 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 69
+// Slot 69
+patch=1,EE,104E69A6,extended,00000063
+
+[Slot 70]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 70
+// Slot 70
+patch=1,EE,104E69AA,extended,00000063
+
+[Slot 71]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 71
+// Slot 71
+patch=1,EE,104E69AE,extended,00000063
+
+[Slot 72]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 72
+// Slot 72
+patch=1,EE,104E69B2,extended,00000063
+
+[Slot 73]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 73
+// Slot 73
+patch=1,EE,104E69B6,extended,00000063
+
+[Slot 74]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 74
+// Slot 74
+patch=1,EE,104E69BA,extended,00000063
+
+[Slot 75]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 75
+// Slot 75
+patch=1,EE,104E69BE,extended,00000063
+
+[Slot 76]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 76
+// Slot 76
+patch=1,EE,104E69C2,extended,00000063
+
+[Slot 77]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 77
+// Slot 77
+patch=1,EE,104E69C6,extended,00000063
+
+[Slot 78]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 78
+// Slot 78
+patch=1,EE,104E69CA,extended,00000063
+
+[Slot 79]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 79
+// Slot 79
+patch=1,EE,104E69CE,extended,00000063
+
+[Slot 80]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 80
+// Slot 80
+patch=1,EE,104E69D2,extended,00000063
+
+[Slot 81]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 81
+// Slot 81
+patch=1,EE,104E69D6,extended,00000063
+
+[Slot 82]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 82
+// Slot 82
+patch=1,EE,104E69DA,extended,00000063
+
+[Slot 83]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 83
+// Slot 83
+patch=1,EE,104E69DE,extended,00000063
+
+[Slot 84]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 84
+// Slot 84
+patch=1,EE,104E69E2,extended,00000063
+
+[Slot 85]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 85
+// Slot 85
+patch=1,EE,104E69E6,extended,00000063
+
+[Slot 86]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 86
+// Slot 86
+patch=1,EE,104E69EA,extended,00000063
+
+[Slot 87]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 87
+// Slot 87
+patch=1,EE,104E69EE,extended,00000063
+
+[Slot 88]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 88
+// Slot 88
+patch=1,EE,104E69F2,extended,00000063
+
+[Slot 89]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 89
+// Slot 89
+patch=1,EE,104E69F6,extended,00000063
+
+[Slot 90]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 90
+// Slot 90
+patch=1,EE,104E69FA,extended,00000063
+
+[Slot 91]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 91
+// Slot 91
+patch=1,EE,104E69FE,extended,00000063
+
+[Slot 92]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 92
+// Slot 92
+patch=1,EE,104E6A02,extended,00000063
+
+[Slot 93]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 93
+// Slot 93
+patch=1,EE,104E6A06,extended,00000063
+
+[Slot 94]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 94
+// Slot 94
+patch=1,EE,104E6A0A,extended,00000063
+
+[Slot 95]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 95
+// Slot 95
+patch=1,EE,104E6A0E,extended,00000063
+
+[Slot 96]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 96
+// Slot 96
+patch=1,EE,104E6A12,extended,00000063
+
+[Slot 97]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 97
+// Slot 97
+patch=1,EE,104E6A16,extended,00000063
+
+[Slot 98]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 98
+// Slot 98
+patch=1,EE,104E6A1A,extended,00000063
+
+[Slot 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 99
+// Slot 99
+patch=1,EE,104E6A1E,extended,00000063
+
+[Slot 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 100
+// Slot 100
+patch=1,EE,104E6A22,extended,00000063
+
+[Slot 101]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 101
+// Slot 101
+patch=1,EE,104E6A26,extended,00000063
+
+[Slot 102]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 102
+// Slot 102
+patch=1,EE,104E6A2A,extended,00000063
+
+[Slot 103]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 103
+// Slot 103
+patch=1,EE,104E6A2E,extended,00000063
+
+[Slot 104]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 104
+// Slot 104
+patch=1,EE,104E6A32,extended,00000063
+
+[Slot 105]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 105
+// Slot 105
+patch=1,EE,104E6A36,extended,00000063
+
+[Slot 106]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 106
+// Slot 106
+patch=1,EE,104E6A3A,extended,00000063
+
+[Slot 107]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 107
+// Slot 107
+patch=1,EE,104E6A3E,extended,00000063
+
+[Slot 108]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 108
+// Slot 108
+patch=1,EE,104E6A42,extended,00000063
+
+[Slot 109]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 109
+// Slot 109
+patch=1,EE,104E6A46,extended,00000063
+
+[Slot 110]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 110
+// Slot 110
+patch=1,EE,104E6A4A,extended,00000063
+
+[Slot 111]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 111
+// Slot 111
+patch=1,EE,104E6A4E,extended,00000063
+
+[Slot 112]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 112
+// Slot 112
+patch=1,EE,104E6A52,extended,00000063
+
+[Slot 113]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 113
+// Slot 113
+patch=1,EE,104E6A56,extended,00000063
+
+[Slot 114]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 114
+// Slot 114
+patch=1,EE,104E6A5A,extended,00000063
+
+[Slot 115]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 115
+// Slot 115
+patch=1,EE,104E6A5E,extended,00000063
+
+[Slot 116]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 116
+// Slot 116
+patch=1,EE,104E6A62,extended,00000063
+
+[Slot 117]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 117
+// Slot 117
+patch=1,EE,104E6A66,extended,00000063
+
+[Slot 118]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 118
+// Slot 118
+patch=1,EE,104E6A6A,extended,00000063
+
+[Slot 119]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 119
+// Slot 119
+patch=1,EE,104E6A6E,extended,00000063
+
+[Slot 120]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 120
+// Slot 120
+patch=1,EE,104E6A72,extended,00000063
+
+[Slot 121]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 121
+// Slot 121
+patch=1,EE,104E6A76,extended,00000063
+
+[Slot 122]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 122
+// Slot 122
+patch=1,EE,104E6A7A,extended,00000063
+
+[Slot 123]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 123
+// Slot 123
+patch=1,EE,104E6A7E,extended,00000063
+
+[Slot 124]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 124
+// Slot 124
+patch=1,EE,104E6A82,extended,00000063
+
+[Slot 125]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 125
+// Slot 125
+patch=1,EE,104E6A86,extended,00000063
+
+[Slot 126]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 126
+// Slot 126
+patch=1,EE,104E6A8A,extended,00000063
+
+[Slot 127]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 127
+// Slot 127
+patch=1,EE,104E6A8E,extended,00000063
+
+[Slot 128]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 128
+// Slot 128
+patch=1,EE,104E6A92,extended,00000063
+
+[Slot 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 1
+// Slot 1
+patch=1,EE,104E6A96,extended,00000063
+
+[Slot 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 2
+// Slot 2
+patch=1,EE,104E6A9A,extended,00000063
+
+[Slot 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 3
+// Slot 3
+patch=1,EE,104E6A9E,extended,00000063
+
+[Slot 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 4
+// Slot 4
+patch=1,EE,104E6AA2,extended,00000063
+
+[Slot 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 5
+// Slot 5
+patch=1,EE,104E6AA6,extended,00000063
+
+[Slot 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 6
+// Slot 6
+patch=1,EE,104E6AAA,extended,00000063
+
+[Slot 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 7
+// Slot 7
+patch=1,EE,104E6AAE,extended,00000063
+
+[Slot 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 8
+// Slot 8
+patch=1,EE,104E6AB2,extended,00000063
+
+[Slot 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 9
+// Slot 9
+patch=1,EE,104E6AB6,extended,00000063
+
+[Slot 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 10
+// Slot 10
+patch=1,EE,104E6ABA,extended,00000063
+
+[Slot 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 11
+// Slot 11
+patch=1,EE,104E6ABE,extended,00000063
+
+[Slot 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 12
+// Slot 12
+patch=1,EE,104E6AC2,extended,00000063
+
+[Slot 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 13
+// Slot 13
+patch=1,EE,104E6AC6,extended,00000063
+
+[Slot 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 14
+// Slot 14
+patch=1,EE,104E6ACA,extended,00000063
+
+[Slot 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 15
+// Slot 15
+patch=1,EE,104E6ACE,extended,00000063
+
+[Slot 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 16
+// Slot 16
+patch=1,EE,104E6AD2,extended,00000063
+
+[Slot 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 17
+// Slot 17
+patch=1,EE,104E6AD6,extended,00000063
+
+[Slot 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 18
+// Slot 18
+patch=1,EE,104E6ADA,extended,00000063
+
+[Slot 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 19
+// Slot 19
+patch=1,EE,104E6ADE,extended,00000063
+
+[Slot 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 20
+// Slot 20
+patch=1,EE,104E6AE2,extended,00000063
+
+[Slot 21]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 21
+// Slot 21
+patch=1,EE,104E6AE6,extended,00000063
+
+[Slot 22]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 22
+// Slot 22
+patch=1,EE,104E6AEA,extended,00000063
+
+[Slot 23]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 23
+// Slot 23
+patch=1,EE,104E6AEE,extended,00000063
+
+[Slot 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 24
+// Slot 24
+patch=1,EE,104E6AF2,extended,00000063
+
+[Slot 25]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 25
+// Slot 25
+patch=1,EE,104E6AF6,extended,00000063
+
+[Slot 26]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 26
+// Slot 26
+patch=1,EE,104E6AFA,extended,00000063
+
+[Slot 27]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 27
+// Slot 27
+patch=1,EE,104E6AFE,extended,00000063
+
+[Slot 28]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 28
+// Slot 28
+patch=1,EE,104E6B02,extended,00000063
+
+[Slot 29]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 29
+// Slot 29
+patch=1,EE,104E6B06,extended,00000063
+
+[Slot 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 30
+// Slot 30
+patch=1,EE,104E6B0A,extended,00000063
+
+[Slot 31]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 31
+// Slot 31
+patch=1,EE,104E6B0E,extended,00000063
+
+[Slot 32]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 32
+// Slot 32
+patch=1,EE,104E6B12,extended,00000063
+
+[Slot 33]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 33
+// Slot 33
+patch=1,EE,104E6B16,extended,00000063
+
+[Slot 34]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 34
+// Slot 34
+patch=1,EE,104E6B1A,extended,00000063
+
+[Slot 35]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 35
+// Slot 35
+patch=1,EE,104E6B1E,extended,00000063
+
+[Slot 36]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 36
+// Slot 36
+patch=1,EE,104E6B22,extended,00000063
+
+[Slot 37]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 37
+// Slot 37
+patch=1,EE,104E6B26,extended,00000063
+
+[Slot 38]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 38
+// Slot 38
+patch=1,EE,104E6B2A,extended,00000063
+
+[Slot 39]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 39
+// Slot 39
+patch=1,EE,104E6B2E,extended,00000063
+
+[Slot 40]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 40
+// Slot 40
+patch=1,EE,104E6B32,extended,00000063
+
+[Slot 41]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 41
+// Slot 41
+patch=1,EE,104E6B36,extended,00000063
+
+[Slot 42]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 42
+// Slot 42
+patch=1,EE,104E6B3A,extended,00000063
+
+[Slot 43]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 43
+// Slot 43
+patch=1,EE,104E6B3E,extended,00000063
+
+[Slot 44]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 44
+// Slot 44
+patch=1,EE,104E6B42,extended,00000063
+
+[Slot 45]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 45
+// Slot 45
+patch=1,EE,104E6B46,extended,00000063
+
+[Slot 46]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 46
+// Slot 46
+patch=1,EE,104E6B4A,extended,00000063
+
+[Slot 47]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 47
+// Slot 47
+patch=1,EE,104E6B4E,extended,00000063
+
+[Slot 48]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 48
+// Slot 48
+patch=1,EE,104E6B52,extended,00000063
+
+[Slot 49]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 49
+// Slot 49
+patch=1,EE,104E6B56,extended,00000063
+
+[Slot 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 50
+// Slot 50
+patch=1,EE,104E6B5A,extended,00000063
+
+[Slot 51]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 51
+// Slot 51
+patch=1,EE,104E6B5E,extended,00000063
+
+[Slot 52]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 52
+// Slot 52
+patch=1,EE,104E6B62,extended,00000063
+
+[Slot 53]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 53
+// Slot 53
+patch=1,EE,104E6B66,extended,00000063
+
+[Slot 54]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 54
+// Slot 54
+patch=1,EE,104E6B6A,extended,00000063
+
+[Slot 55]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 55
+// Slot 55
+patch=1,EE,104E6B6E,extended,00000063
+
+[Slot 56]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 56
+// Slot 56
+patch=1,EE,104E6B72,extended,00000063
+
+[Slot 57]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 57
+// Slot 57
+patch=1,EE,104E6B76,extended,00000063
+
+[Slot 58]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 58
+// Slot 58
+patch=1,EE,104E6B7A,extended,00000063
+
+[Slot 59]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 59
+// Slot 59
+patch=1,EE,104E6B7E,extended,00000063
+
+[Slot 60]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 60
+// Slot 60
+patch=1,EE,104E6B82,extended,00000063
+
+[Slot 61]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 61
+// Slot 61
+patch=1,EE,104E6B86,extended,00000063
+
+[Slot 62]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 62
+// Slot 62
+patch=1,EE,104E6B8A,extended,00000063
+
+[Slot 63]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 63
+// Slot 63
+patch=1,EE,104E6B8E,extended,00000063
+
+[Slot 64]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 64
+// Slot 64
+patch=1,EE,104E6B92,extended,00000063
+
+[Slot 65]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 65
+// Slot 65
+patch=1,EE,104E6B96,extended,00000063
+
+[Slot 66]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 66
+// Slot 66
+patch=1,EE,104E6B9A,extended,00000063
+
+[Slot 67]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 67
+// Slot 67
+patch=1,EE,104E6B9E,extended,00000063
+
+[Slot 68]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 68
+// Slot 68
+patch=1,EE,104E6BA2,extended,00000063
+
+[Slot 69]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 69
+// Slot 69
+patch=1,EE,104E6BA6,extended,00000063
+
+[Slot 70]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 70
+// Slot 70
+patch=1,EE,104E6BAA,extended,00000063
+
+[Slot 71]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 71
+// Slot 71
+patch=1,EE,104E6BAE,extended,00000063
+
+[Slot 72]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 72
+// Slot 72
+patch=1,EE,104E6BB2,extended,00000063
+
+[Slot 73]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 73
+// Slot 73
+patch=1,EE,104E6BB6,extended,00000063
+
+[Slot 74]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 74
+// Slot 74
+patch=1,EE,104E6BBA,extended,00000063
+
+[Slot 75]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 75
+// Slot 75
+patch=1,EE,104E6BBE,extended,00000063
+
+[Slot 76]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 76
+// Slot 76
+patch=1,EE,104E6BC2,extended,00000063
+
+[Slot 77]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 77
+// Slot 77
+patch=1,EE,104E6BC6,extended,00000063
+
+[Slot 78]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 78
+// Slot 78
+patch=1,EE,104E6BCA,extended,00000063
+
+[Slot 79]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 79
+// Slot 79
+patch=1,EE,104E6BCE,extended,00000063
+
+[Slot 80]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 80
+// Slot 80
+patch=1,EE,104E6BD2,extended,00000063
+
+[Slot 81]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 81
+// Slot 81
+patch=1,EE,104E6BD6,extended,00000063
+
+[Slot 82]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 82
+// Slot 82
+patch=1,EE,104E6BDA,extended,00000063
+
+[Slot 83]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 83
+// Slot 83
+patch=1,EE,104E6BDE,extended,00000063
+
+[Slot 84]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 84
+// Slot 84
+patch=1,EE,104E6BE2,extended,00000063
+
+[Slot 85]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 85
+// Slot 85
+patch=1,EE,104E6BE6,extended,00000063
+
+[Slot 86]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 86
+// Slot 86
+patch=1,EE,104E6BEA,extended,00000063
+
+[Slot 87]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 87
+// Slot 87
+patch=1,EE,104E6BEE,extended,00000063
+
+[Slot 88]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 88
+// Slot 88
+patch=1,EE,104E6BF2,extended,00000063
+
+[Slot 89]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 89
+// Slot 89
+patch=1,EE,104E6BF6,extended,00000063
+
+[Slot 90]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 90
+// Slot 90
+patch=1,EE,104E6BFA,extended,00000063
+
+[Slot 91]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 91
+// Slot 91
+patch=1,EE,104E6BFE,extended,00000063
+
+[Slot 92]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 92
+// Slot 92
+patch=1,EE,104E6C02,extended,00000063
+
+[Slot 93]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 93
+// Slot 93
+patch=1,EE,104E6C06,extended,00000063
+
+[Slot 94]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 94
+// Slot 94
+patch=1,EE,104E6C0A,extended,00000063
+
+[Slot 95]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 95
+// Slot 95
+patch=1,EE,104E6C0E,extended,00000063
+
+[Slot 96]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 96
+// Slot 96
+patch=1,EE,104E6C12,extended,00000063
+
+[Slot 97]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 97
+// Slot 97
+patch=1,EE,104E6C16,extended,00000063
+
+[Slot 98]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 98
+// Slot 98
+patch=1,EE,104E6C1A,extended,00000063
+
+[Slot 99]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 99
+// Slot 99
+patch=1,EE,104E6C1E,extended,00000063
+
+[Slot 100]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 100
+// Slot 100
+patch=1,EE,104E6C22,extended,00000063
+
+[Slot 101]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 101
+// Slot 101
+patch=1,EE,104E6C26,extended,00000063
+
+[Slot 102]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 102
+// Slot 102
+patch=1,EE,104E6C2A,extended,00000063
+
+[Slot 103]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 103
+// Slot 103
+patch=1,EE,104E6C2E,extended,00000063
+
+[Slot 104]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 104
+// Slot 104
+patch=1,EE,104E6C32,extended,00000063
+
+[Slot 105]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 105
+// Slot 105
+patch=1,EE,104E6C36,extended,00000063
+
+[Slot 106]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 106
+// Slot 106
+patch=1,EE,104E6C3A,extended,00000063
+
+[Slot 107]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 107
+// Slot 107
+patch=1,EE,104E6C3E,extended,00000063
+
+[Slot 108]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 108
+// Slot 108
+patch=1,EE,104E6C42,extended,00000063
+
+[Slot 109]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 109
+// Slot 109
+patch=1,EE,104E6C46,extended,00000063
+
+[Slot 110]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 110
+// Slot 110
+patch=1,EE,104E6C4A,extended,00000063
+
+[Slot 111]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 111
+// Slot 111
+patch=1,EE,104E6C4E,extended,00000063
+
+[Slot 112]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 112
+// Slot 112
+patch=1,EE,104E6C52,extended,00000063
+
+[Slot 113]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 113
+// Slot 113
+patch=1,EE,104E6C56,extended,00000063
+
+[Slot 114]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 114
+// Slot 114
+patch=1,EE,104E6C5A,extended,00000063
+
+[Slot 115]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 115
+// Slot 115
+patch=1,EE,104E6C5E,extended,00000063
+
+[Slot 116]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 116
+// Slot 116
+patch=1,EE,104E6C62,extended,00000063
+
+[Slot 117]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 117
+// Slot 117
+patch=1,EE,104E6C66,extended,00000063
+
+[Slot 118]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 118
+// Slot 118
+patch=1,EE,104E6C6A,extended,00000063
+
+[Slot 119]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 119
+// Slot 119
+patch=1,EE,104E6C6E,extended,00000063
+
+[Slot 120]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 120
+// Slot 120
+patch=1,EE,104E6C72,extended,00000063
+
+[Slot 121]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 121
+// Slot 121
+patch=1,EE,104E6C76,extended,00000063
+
+[Slot 122]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 122
+// Slot 122
+patch=1,EE,104E6C7A,extended,00000063
+
+[Slot 123]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 123
+// Slot 123
+patch=1,EE,104E6C7E,extended,00000063
+
+[Slot 124]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 124
+// Slot 124
+patch=1,EE,104E6C82,extended,00000063
+
+[Slot 125]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 125
+// Slot 125
+patch=1,EE,104E6C86,extended,00000063
+
+[Slot 126]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 126
+// Slot 126
+patch=1,EE,104E6C8A,extended,00000063
+
+[Slot 127]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 127
+// Slot 127
+patch=1,EE,104E6C8E,extended,00000063
+
+[Slot 128]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 128
+// Slot 128
+patch=1,EE,104E6C92,extended,00000063

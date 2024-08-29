@@ -1,0 +1,265 @@
+gametitle=Killer 7 [SLES-53366] [54EF429A]
+
+[Unlock Mission Select (Main Menu)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Mission Select (Main Menu)
+// Unlock Mission Select (Main Menu)
+patch=1,EE,90124F88,extended,0C04A302
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201FB8C0,extended,24020096
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201FB8C4,extended,A64202B8
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,201FC6AC,extended,00000000
+
+[Have All Smiths Personalities]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Smiths Personalities
+// Have All Smiths Personalities
+patch=1,EE,2061C870,extended,FFFFFFFF
+
+[Have All Smiths Personalities]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Smiths Personalities
+// Have All Smiths Personalities
+patch=1,EE,2061C874,extended,FFFFFFFF
+
+[Have All Smiths Alive]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Smiths Alive
+// Have All Smiths Alive
+patch=1,EE,2061C868,extended,00000000
+
+[Have All Smiths Alive]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Smiths Alive
+// Have All Smiths Alive
+patch=1,EE,2061C86C,extended,FFFFFFFF
+
+[Max Power Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power Level
+// Max Power Level
+patch=1,EE,2061C3EC,extended,00000009
+
+[Max Speed Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed Level
+// Max Speed Level
+patch=1,EE,2061C43C,extended,00000009
+
+[Max Waver Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Waver Level
+// Max Waver Level
+patch=1,EE,2061C48C,extended,00000009
+
+[Max Criticals Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Criticals Level
+// Max Criticals Level
+patch=1,EE,2061C4DC,extended,00000009
+
+[Max All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Levels
+// Max All Levels
+patch=1,EE,4061C3EC,extended,00040014
+
+[Max All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Levels
+// Max All Levels
+patch=1,EE,00000009,extended,00000000
+
+[Max Power Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power Level
+// Max Power Level
+patch=1,EE,2061C424,extended,00000009
+
+[Max Speed Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed Level
+// Max Speed Level
+patch=1,EE,2061C474,extended,00000009
+
+[Max Waver Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Waver Level
+// Max Waver Level
+patch=1,EE,2061C4C4,extended,00000009
+
+[Max Criticals Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Criticals Level
+// Max Criticals Level
+patch=1,EE,2061C514,extended,00000009
+
+[Max All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Levels
+// Max All Levels
+patch=1,EE,4061C424,extended,00040014
+
+[Max All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Levels
+// Max All Levels
+patch=1,EE,00000009,extended,00000000
+
+[Max Power Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power Level
+// Max Power Level
+patch=1,EE,2061C42C,extended,00000009
+
+[Max Speed Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed Level
+// Max Speed Level
+patch=1,EE,2061C47C,extended,00000009
+
+[Max Invisibility Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Invisibility Level
+// Max Invisibility Level
+patch=1,EE,2061C4CC,extended,00000009
+
+[Max Criticals Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Criticals Level
+// Max Criticals Level
+patch=1,EE,2061C51C,extended,00000009
+
+[Max All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Levels
+// Max All Levels
+patch=1,EE,4061C42C,extended,00040014
+
+[Max All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Levels
+// Max All Levels
+patch=1,EE,00000009,extended,00000000
+
+[Max Power Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power Level
+// Max Power Level
+patch=1,EE,2061C41C,extended,00000009
+
+[Max Speed Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed Level
+// Max Speed Level
+patch=1,EE,2061C46C,extended,00000009
+
+[Max Waver Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Waver Level
+// Max Waver Level
+patch=1,EE,2061C4BC,extended,00000009
+
+[Max Criticals Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Criticals Level
+// Max Criticals Level
+patch=1,EE,2061C50C,extended,00000009
+
+[Max All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Levels
+// Max All Levels
+patch=1,EE,4061C41C,extended,00040014
+
+[Max All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Levels
+// Max All Levels
+patch=1,EE,00000009,extended,00000000
+
+[Max Power Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power Level
+// Max Power Level
+patch=1,EE,2061C3FC,extended,00000009
+
+[Max Speed Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed Level
+// Max Speed Level
+patch=1,EE,2061C44C,extended,00000009
+
+[Max Waver Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Waver Level
+// Max Waver Level
+patch=1,EE,2061C49C,extended,00000009
+
+[Max Criticals Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Criticals Level
+// Max Criticals Level
+patch=1,EE,2061C4EC,extended,00000009
+
+[Max All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Levels
+// Max All Levels
+patch=1,EE,4061C3FC,extended,00040014
+
+[Max All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Levels
+// Max All Levels
+patch=1,EE,00000009,extended,00000000
+
+[Max Power Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power Level
+// Max Power Level
+patch=1,EE,2061C434,extended,00000009
+
+[Max Speed Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed Level
+// Max Speed Level
+patch=1,EE,2061C484,extended,00000009
+
+[Max Waver Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Waver Level
+// Max Waver Level
+patch=1,EE,2061C4D4,extended,00000009
+
+[Max Range Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Range Level
+// Max Range Level
+patch=1,EE,2061C524,extended,00000009
+
+[Max All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Levels
+// Max All Levels
+patch=1,EE,4061C434,extended,00040014
+
+[Max All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Levels
+// Max All Levels
+patch=1,EE,00000009,extended,00000000

@@ -1,0 +1,781 @@
+gametitle=Metal Gear Solid 2-Sons Of Liberty [SLUS-20144] [BFBBB524]
+
+[Max Goff Parts]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Goff Parts
+// Max Goff Parts
+patch=1,EE,90167384,extended,0C05BCA8
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,D028DF86,extended,0000AC62
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,2028DF84,extended,00000000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,E0020782,extended,0026B660
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2026B664,extended,24020096
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2026B668,extended,A6020782
+
+[Infinite Rations]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Rations
+// Infinite Rations
+patch=1,EE,101E6E7E,extended,0000270F
+
+[Infinite Bandages]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Bandages
+// Infinite Bandages
+patch=1,EE,101E6E84,extended,0000270F
+
+[Max Rations]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rations
+// Max Rations
+patch=1,EE,001E6EDE,extended,0000270F
+
+[Max Bandages]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bandages
+// Max Bandages
+patch=1,EE,001E6EE4,extended,0000270F
+
+[Max Pentazemin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pentazemin
+// Max Pentazemin
+patch=1,EE,001E6EE6,extended,0000270F
+
+[1st Pullup For Grip Level 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1st Pullup For Grip Level 2
+// 1st Pullup For Grip Level 2
+patch=1,EE,D01E6DBE,extended,00200063
+
+[1st Pullup For Grip Level 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1st Pullup For Grip Level 2
+// 1st Pullup For Grip Level 2
+patch=1,EE,101E6DBE,extended,00000063
+
+[2nd Pullup For Grip Level 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2nd Pullup For Grip Level 3
+// 2nd Pullup For Grip Level 3
+patch=1,EE,D01E6DBE,extended,00300063
+
+[2nd Pullup For Grip Level 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2nd Pullup For Grip Level 3
+// 2nd Pullup For Grip Level 3
+patch=1,EE,D01E6DBE,extended,002000C7
+
+[2nd Pullup For Grip Level 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2nd Pullup For Grip Level 3
+// 2nd Pullup For Grip Level 3
+patch=1,EE,101E6DBE,extended,000000C7
+
+[M9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M9
+// M9
+patch=1,EE,101E6DEE,extended,0000270F
+
+[USP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=USP
+// USP
+patch=1,EE,101E6DF0,extended,0000270F
+
+[Chaff Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaff Grenades
+// Chaff Grenades
+patch=1,EE,101E6E00,extended,0000270F
+
+[Stun Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenades
+// Stun Grenades
+patch=1,EE,101E6E02,extended,0000270F
+
+[Magazines]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Magazines
+// Magazines
+patch=1,EE,101E6E0C,extended,0000270F
+
+[Frag Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Frag Grenades
+// Frag Grenades
+patch=1,EE,101E6E0E,extended,0000270F
+
+[M9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M9
+// M9
+patch=1,EE,001E6E36,extended,0000270F
+
+[USP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=USP
+// USP
+patch=1,EE,001E6E38,extended,0000270F
+
+[SOCOM]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SOCOM
+// SOCOM
+patch=1,EE,001E6E3A,extended,0000270F
+
+[PSG1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PSG1
+// PSG1
+patch=1,EE,001E6E3C,extended,0000270F
+
+[RGB6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=RGB6
+// RGB6
+patch=1,EE,001E6E3E,extended,0000270F
+
+[NIKITA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=NIKITA
+// NIKITA
+patch=1,EE,001E6E40,extended,0000270F
+
+[Stinger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stinger
+// Stinger
+patch=1,EE,001E6E42,extended,0000270F
+
+[C4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=C4
+// C4
+patch=1,EE,001E6E46,extended,0000270F
+
+[Claymores]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Claymores
+// Claymores
+patch=1,EE,001E6E44,extended,0000270F
+
+[Chaff Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaff Grenades
+// Chaff Grenades
+patch=1,EE,001E6E48,extended,0000270F
+
+[Stun Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenades
+// Stun Grenades
+patch=1,EE,001E6E4A,extended,0000270F
+
+[AKS-74u]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AKS-74u
+// AKS-74u
+patch=1,EE,001E6E52,extended,0000270F
+
+[Magazines]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Magazines
+// Magazines
+patch=1,EE,001E6E54,extended,0000270F
+
+[Frag Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Frag Grenades
+// Frag Grenades
+patch=1,EE,001E6E56,extended,0000270F
+
+[M4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M4
+// M4
+patch=1,EE,001E6E58,extended,0000270F
+
+[PSG1-T]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PSG1-T
+// PSG1-T
+patch=1,EE,001E6E5A,extended,0000270F
+
+[Binoculars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Binoculars
+// Binoculars
+patch=1,EE,101E6E80,extended,00000001
+
+[Medicine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Medicine
+// Medicine
+patch=1,EE,101E6E82,extended,00000001
+
+[Pentazemin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pentazemin
+// Pentazemin
+patch=1,EE,101E6E86,extended,00000001
+
+[Body Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Body Armor
+// Body Armor
+patch=1,EE,101E6E8A,extended,00000001
+
+[Stealth]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stealth
+// Stealth
+patch=1,EE,101E6E8C,extended,00000001
+
+[Mine Detector]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mine Detector
+// Mine Detector
+patch=1,EE,101E6E8E,extended,00000001
+
+[Sensor A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sensor A
+// Sensor A
+patch=1,EE,101E6E90,extended,00000001
+
+[Sensor B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sensor B
+// Sensor B
+patch=1,EE,101E6E92,extended,00000001
+
+[Thermal Goggles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thermal Goggles
+// Thermal Goggles
+patch=1,EE,101E6E96,extended,00000001
+
+[Digital Camera]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Digital Camera
+// Digital Camera
+patch=1,EE,101E6E9A,extended,00000001
+
+[Cigs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cigs
+// Cigs
+patch=1,EE,101E6E9E,extended,00000001
+
+[Shaver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shaver
+// Shaver
+patch=1,EE,101E6EA2,extended,00000001
+
+[Phone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Phone
+// Phone
+patch=1,EE,101E6EA4,extended,00000001
+
+[SOCOM Suppressor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SOCOM Suppressor
+// SOCOM Suppressor
+patch=1,EE,101E6EB6,extended,00000001
+
+[AK Suppressor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AK Suppressor
+// AK Suppressor
+patch=1,EE,101E6EB8,extended,00000001
+
+[Bandana]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bandana
+// Bandana
+patch=1,EE,101E6EBC,extended,00000001
+
+[Dog Tags]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dog Tags
+// Dog Tags
+patch=1,EE,101E6EBE,extended,00000063
+
+[MO Disc]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MO Disc
+// MO Disc
+patch=1,EE,101E6EC0,extended,00000001
+
+[Infinite Rations]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Rations
+// Infinite Rations
+patch=1,EE,001E6FCE,extended,0000270F
+
+[Infinite Bandages]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Bandages
+// Infinite Bandages
+patch=1,EE,001E6FD4,extended,0000270F
+
+[Max Rations]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Rations
+// Max Rations
+patch=1,EE,001E702E,extended,0000270F
+
+[Max Bandages]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Bandages
+// Max Bandages
+patch=1,EE,001E7034,extended,0000270F
+
+[Max Pentazemin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Pentazemin
+// Max Pentazemin
+patch=1,EE,001E7036,extended,0000270F
+
+[1st Pullup For Grip Level 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1st Pullup For Grip Level 2
+// 1st Pullup For Grip Level 2
+patch=1,EE,D01E6DC0,extended,00200063
+
+[1st Pullup For Grip Level 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1st Pullup For Grip Level 2
+// 1st Pullup For Grip Level 2
+patch=1,EE,101E6DC0,extended,00000063
+
+[2nd Pullup For Grip Level 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2nd Pullup For Grip Level 3
+// 2nd Pullup For Grip Level 3
+patch=1,EE,D01E6DC0,extended,00300063
+
+[2nd Pullup For Grip Level 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2nd Pullup For Grip Level 3
+// 2nd Pullup For Grip Level 3
+patch=1,EE,D01E6DC0,extended,002000C7
+
+[2nd Pullup For Grip Level 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2nd Pullup For Grip Level 3
+// 2nd Pullup For Grip Level 3
+patch=1,EE,101E6DC0,extended,000000C7
+
+[M9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M9
+// M9
+patch=1,EE,101E6F3E,extended,0000270F
+
+[USP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=USP
+// USP
+patch=1,EE,101E6F40,extended,0000270F
+
+[SOCOM]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SOCOM
+// SOCOM
+patch=1,EE,101E6F42,extended,0000270F
+
+[PSG1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PSG1
+// PSG1
+patch=1,EE,101E6F44,extended,0000270F
+
+[RGB6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=RGB6
+// RGB6
+patch=1,EE,101E6F46,extended,0000270F
+
+[NIKITA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=NIKITA
+// NIKITA
+patch=1,EE,101E6F48,extended,0000270F
+
+[Stinger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stinger
+// Stinger
+patch=1,EE,101E6F4A,extended,0000270F
+
+[Claymores]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Claymores
+// Claymores
+patch=1,EE,101E6F4C,extended,0000270F
+
+[C4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=C4
+// C4
+patch=1,EE,101E6F4E,extended,0000270F
+
+[Chaff Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaff Grenades
+// Chaff Grenades
+patch=1,EE,101E6F50,extended,0000270F
+
+[Stun Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenades
+// Stun Grenades
+patch=1,EE,101E6F52,extended,0000270F
+
+[AKS-74u]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AKS-74u
+// AKS-74u
+patch=1,EE,101E6F5A,extended,0000270F
+
+[Magazines]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Magazines
+// Magazines
+patch=1,EE,101E6F5C,extended,0000270F
+
+[Frag Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Frag Grenades
+// Frag Grenades
+patch=1,EE,101E6F5E,extended,0000270F
+
+[M4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M4
+// M4
+patch=1,EE,101E6F60,extended,0000270F
+
+[PSG1-T]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PSG1-T
+// PSG1-T
+patch=1,EE,101E6F62,extended,0000270F
+
+[M9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M9
+// M9
+patch=1,EE,001E6F86,extended,0000270F
+
+[USP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=USP
+// USP
+patch=1,EE,001E6F88,extended,0000270F
+
+[SOCOM]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SOCOM
+// SOCOM
+patch=1,EE,001E6F8A,extended,0000270F
+
+[PSG1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PSG1
+// PSG1
+patch=1,EE,001E6F8C,extended,0000270F
+
+[RGB6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=RGB6
+// RGB6
+patch=1,EE,001E6F8E,extended,0000270F
+
+[NIKITA]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=NIKITA
+// NIKITA
+patch=1,EE,001E6F90,extended,0000270F
+
+[Stinger]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stinger
+// Stinger
+patch=1,EE,001E6F92,extended,0000270F
+
+[C4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=C4
+// C4
+patch=1,EE,001E6F96,extended,0000270F
+
+[Claymores]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Claymores
+// Claymores
+patch=1,EE,001E6F94,extended,0000270F
+
+[Chaff Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Chaff Grenades
+// Chaff Grenades
+patch=1,EE,001E6F98,extended,0000270F
+
+[Stun Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenades
+// Stun Grenades
+patch=1,EE,001E6F9A,extended,0000270F
+
+[AKS-74u]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AKS-74u
+// AKS-74u
+patch=1,EE,001E6FA2,extended,0000270F
+
+[Magazines]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Magazines
+// Magazines
+patch=1,EE,001E6FA4,extended,0000270F
+
+[Frag Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Frag Grenades
+// Frag Grenades
+patch=1,EE,001E6FA6,extended,0000270F
+
+[M4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=M4
+// M4
+patch=1,EE,001E6FA8,extended,0000270F
+
+[PSG1-T]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=PSG1-T
+// PSG1-T
+patch=1,EE,001E6FAA,extended,0000270F
+
+[D Microphone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=D Microphone
+// D Microphone
+patch=1,EE,101E6F64,extended,00000001
+
+[Book]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Book
+// Book
+patch=1,EE,101E6F66,extended,00000001
+
+[Binoculars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Binoculars
+// Binoculars
+patch=1,EE,101E6FD0,extended,00000001
+
+[Medicine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Medicine
+// Medicine
+patch=1,EE,101E6FD2,extended,00000001
+
+[Pentazemin]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pentazemin
+// Pentazemin
+patch=1,EE,101E6FD6,extended,00000001
+
+[Field Uniform]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Field Uniform
+// Field Uniform
+patch=1,EE,101E6FD8,extended,00000001
+
+[Body Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Body Armor
+// Body Armor
+patch=1,EE,101E6FDA,extended,00000001
+
+[Stealth]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stealth
+// Stealth
+patch=1,EE,101E6FDC,extended,00000001
+
+[Mine Detector]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mine Detector
+// Mine Detector
+patch=1,EE,101E6FDE,extended,00000001
+
+[Sensor A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sensor A
+// Sensor A
+patch=1,EE,101E6FE0,extended,00000001
+
+[Sensor B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sensor B
+// Sensor B
+patch=1,EE,101E6FE2,extended,00000001
+
+[NVG]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=NVG
+// NVG
+patch=1,EE,101E6FE4,extended,00000001
+
+[Thermal Goggles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Thermal Goggles
+// Thermal Goggles
+patch=1,EE,101E6FE6,extended,00000001
+
+[Digital Camera]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Digital Camera
+// Digital Camera
+patch=1,EE,101E6FEA,extended,00000001
+
+[Cigs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cigs
+// Cigs
+patch=1,EE,101E6FEE,extended,00000001
+
+[Security Card Level 255]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Security Card Level 255
+// Security Card Level 255
+patch=1,EE,101E6FF0,extended,000000FF
+
+[Shaver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shaver
+// Shaver
+patch=1,EE,101E6FF2,extended,00000001
+
+[Phone]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Phone
+// Phone
+patch=1,EE,101E6FF4,extended,00000001
+
+[Box 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Box 2
+// Box 2
+patch=1,EE,101E6FF8,extended,00000001
+
+[Box 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Box 3
+// Box 3
+patch=1,EE,101E6FFA,extended,00000001
+
+[Wet Box]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wet Box
+// Wet Box
+patch=1,EE,101E6FFC,extended,00000001
+
+[Box 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Box 4
+// Box 4
+patch=1,EE,101E7000,extended,00000001
+
+[Box 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Box 5
+// Box 5
+patch=1,EE,101E7002,extended,00000001
+
+[SOCOM Suppressor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=SOCOM Suppressor
+// SOCOM Suppressor
+patch=1,EE,101E7006,extended,00000001
+
+[AK Suppressor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=AK Suppressor
+// AK Suppressor
+patch=1,EE,101E7008,extended,00000001
+
+[Bandana]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bandana
+// Bandana
+patch=1,EE,101E700C,extended,00000001
+
+[Dog Tags]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dog Tags
+// Dog Tags
+patch=1,EE,101E700E,extended,00000063
+
+[MO Disc]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=MO Disc
+// MO Disc
+patch=1,EE,101E7010,extended,00000001
+
+[Wig A]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wig A
+// Wig A
+patch=1,EE,101E7016,extended,00000001
+
+[Wig B]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wig B
+// Wig B
+patch=1,EE,101E7018,extended,00000001
+
+[Wig C]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wig C
+// Wig C
+patch=1,EE,101E701A,extended,00000001
+
+[Wig D]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Wig D
+// Wig D
+patch=1,EE,101E701C,extended,00000001

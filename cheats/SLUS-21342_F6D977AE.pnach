@@ -1,0 +1,775 @@
+gametitle=MLB Slugfest 2006 [SLUS-21342] [F6D977AE]
+
+[Always Full Count & 2 Outs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Count & 2 Outs
+// Always Full Count & 2 Outs
+patch=1,EE,901B2024,extended,0C06DCD6
+
+[Home Team Scores 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 50
+// Home Team Scores 50
+patch=1,EE,2051AC08,extended,00000032
+
+[Home Team Scores 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 20
+// Home Team Scores 20
+patch=1,EE,2051AC08,extended,00000014
+
+[Home Team Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Scores 0
+// Home Team Scores 0
+patch=1,EE,2051AC08,extended,00000000
+
+[Home Team Starts With 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 50
+// Home Team Starts With 50
+patch=1,EE,D051AC08,extended,00000000
+
+[Home Team Starts With 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 50
+// Home Team Starts With 50
+patch=1,EE,2051AC08,extended,00000032
+
+[Home Team Starts With 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 20
+// Home Team Starts With 20
+patch=1,EE,D051AC08,extended,00000000
+
+[Home Team Starts With 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 20
+// Home Team Starts With 20
+patch=1,EE,2051AC08,extended,00000014
+
+[Home Team Starts With 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 10
+// Home Team Starts With 10
+patch=1,EE,D051AC08,extended,00000000
+
+[Home Team Starts With 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 10
+// Home Team Starts With 10
+patch=1,EE,2051AC08,extended,0000000A
+
+[Home Team Starts With 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 5
+// Home Team Starts With 5
+patch=1,EE,D051AC08,extended,00000000
+
+[Home Team Starts With 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 5
+// Home Team Starts With 5
+patch=1,EE,2051AC08,extended,00000005
+
+[Away Team Scores 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 50
+// Away Team Scores 50
+patch=1,EE,2051AC3C,extended,00000032
+
+[Away Team Scores 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 20
+// Away Team Scores 20
+patch=1,EE,2051AC3C,extended,00000014
+
+[Away Team Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Scores 0
+// Away Team Scores 0
+patch=1,EE,2051AC3C,extended,00000000
+
+[Away Team Starts With 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 50
+// Away Team Starts With 50
+patch=1,EE,D051AC3C,extended,00000000
+
+[Away Team Starts With 50]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 50
+// Away Team Starts With 50
+patch=1,EE,2051AC3C,extended,00000032
+
+[Away Team Starts With 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 20
+// Away Team Starts With 20
+patch=1,EE,D051AC3C,extended,00000000
+
+[Away Team Starts With 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 20
+// Away Team Starts With 20
+patch=1,EE,2051AC3C,extended,00000014
+
+[Away Team Starts With 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 10
+// Away Team Starts With 10
+patch=1,EE,D051AC3C,extended,00000000
+
+[Away Team Starts With 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 10
+// Away Team Starts With 10
+patch=1,EE,2051AC3C,extended,0000000A
+
+[Away Team Starts With 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 5
+// Away Team Starts With 5
+patch=1,EE,D051AC3C,extended,00000000
+
+[Away Team Starts With 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 5
+// Away Team Starts With 5
+patch=1,EE,2051AC3C,extended,00000005
+
+[Home Team Infinite Turbo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Infinite Turbo
+// Home Team Infinite Turbo
+patch=1,EE,20517928,extended,42C80000
+
+[Home Team No Turbo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team No Turbo
+// Home Team No Turbo
+patch=1,EE,20517928,extended,00000000
+
+[Away Team Infinite Turbo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Infinite Turbo
+// Away Team Infinite Turbo
+patch=1,EE,2051792C,extended,42C80000
+
+[Away Team No Turbo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team No Turbo
+// Away Team No Turbo
+patch=1,EE,2051792C,extended,00000000
+
+[All Runs Score For Home Team]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Runs Score For Home Team
+// All Runs Score For Home Team
+patch=1,EE,20105AE0,extended,24630000
+
+[All Runs Score For Away Team]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Runs Score For Away Team
+// All Runs Score For Away Team
+patch=1,EE,20105AE0,extended,24630034
+
+[Runs Score 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Runs Score 10
+// Runs Score 10
+patch=1,EE,10105AEC,extended,0000000A
+
+[Runs Score 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Runs Score 5
+// Runs Score 5
+patch=1,EE,10105AEC,extended,00000005
+
+[Runs Score 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Runs Score 2
+// Runs Score 2
+patch=1,EE,10105AEC,extended,00000002
+
+[Infinite Strikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Strikes
+// Infinite Strikes
+patch=1,EE,1051AAE4,extended,00000000
+
+[1 Strike And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Strike And You Are Out
+// 1 Strike And You Are Out
+patch=1,EE,D051AAE4,extended,00000000
+
+[1 Strike And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Strike And You Are Out
+// 1 Strike And You Are Out
+patch=1,EE,1051AAE4,extended,00000002
+
+[2 Strikes And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Strikes And You Are Out
+// 2 Strikes And You Are Out
+patch=1,EE,D051AAE4,extended,00000000
+
+[2 Strikes And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Strikes And You Are Out
+// 2 Strikes And You Are Out
+patch=1,EE,1051AAE4,extended,00000001
+
+[Infinite Balls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Balls
+// Infinite Balls
+patch=1,EE,1051AAF0,extended,00000000
+
+[1 Ball And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Ball And You Walk
+// 1 Ball And You Walk
+patch=1,EE,D051AAF0,extended,00000000
+
+[1 Ball And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Ball And You Walk
+// 1 Ball And You Walk
+patch=1,EE,1051AAF0,extended,00000003
+
+[2 Balls And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Balls And You Walk
+// 2 Balls And You Walk
+patch=1,EE,D051AAF0,extended,00000000
+
+[2 Balls And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Balls And You Walk
+// 2 Balls And You Walk
+patch=1,EE,1051AAF0,extended,00000002
+
+[3 Balls And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=3 Balls And You Walk
+// 3 Balls And You Walk
+patch=1,EE,D051AAF0,extended,00000000
+
+[3 Balls And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=3 Balls And You Walk
+// 3 Balls And You Walk
+patch=1,EE,1051AAF0,extended,00000001
+
+[Infinite Outs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Outs
+// Infinite Outs
+patch=1,EE,1051AAF4,extended,00000000
+
+[1 Out And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Out And You Are Out
+// 1 Out And You Are Out
+patch=1,EE,D051AAF4,extended,00000000
+
+[1 Out And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Out And You Are Out
+// 1 Out And You Are Out
+patch=1,EE,1051AAF4,extended,00000002
+
+[2 Outs And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Outs And You Are Out
+// 2 Outs And You Are Out
+patch=1,EE,D051AAF4,extended,00000000
+
+[2 Outs And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Outs And You Are Out
+// 2 Outs And You Are Out
+patch=1,EE,1051AAF4,extended,00000001
+
+[Always Full Count]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Count
+// Always Full Count
+patch=1,EE,1051AAE4,extended,00000002
+
+[Always Full Count]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Count
+// Always Full Count
+patch=1,EE,1051AAF0,extended,00000003
+
+[Always Full Count & 2 Outs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Count & 2 Outs
+// Always Full Count & 2 Outs
+patch=1,EE,1051AAE4,extended,00000002
+
+[Always Full Count & 2 Outs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Count & 2 Outs
+// Always Full Count & 2 Outs
+patch=1,EE,1051AAF0,extended,00000003
+
+[Always Full Count & 2 Outs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Count & 2 Outs
+// Always Full Count & 2 Outs
+patch=1,EE,1051AAF4,extended,00000002
+
+[Infinite Strikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Strikes
+// Infinite Strikes
+patch=1,EE,E0010001,extended,0051AA98
+
+[Infinite Strikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Strikes
+// Infinite Strikes
+patch=1,EE,1051AAE4,extended,00000000
+
+[1 Strike And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Strike And You Are Out
+// 1 Strike And You Are Out
+patch=1,EE,E0020001,extended,0051AA98
+
+[1 Strike And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Strike And You Are Out
+// 1 Strike And You Are Out
+patch=1,EE,D051AAE4,extended,00000000
+
+[1 Strike And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Strike And You Are Out
+// 1 Strike And You Are Out
+patch=1,EE,1051AAE4,extended,00000002
+
+[2 Strikes And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Strikes And You Are Out
+// 2 Strikes And You Are Out
+patch=1,EE,E0020001,extended,0051AA98
+
+[2 Strikes And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Strikes And You Are Out
+// 2 Strikes And You Are Out
+patch=1,EE,D051AAE4,extended,00000000
+
+[2 Strikes And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Strikes And You Are Out
+// 2 Strikes And You Are Out
+patch=1,EE,1051AAE4,extended,00000001
+
+[Infinite Balls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Balls
+// Infinite Balls
+patch=1,EE,E0010001,extended,0051AA98
+
+[Infinite Balls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Balls
+// Infinite Balls
+patch=1,EE,1051AAF0,extended,00000000
+
+[1 Ball And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Ball And You Walk
+// 1 Ball And You Walk
+patch=1,EE,E0020001,extended,0051AA98
+
+[1 Ball And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Ball And You Walk
+// 1 Ball And You Walk
+patch=1,EE,D051AAF0,extended,00000000
+
+[1 Ball And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Ball And You Walk
+// 1 Ball And You Walk
+patch=1,EE,1051AAF0,extended,00000003
+
+[2 Balls And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Balls And You Walk
+// 2 Balls And You Walk
+patch=1,EE,E0020001,extended,0051AA98
+
+[2 Balls And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Balls And You Walk
+// 2 Balls And You Walk
+patch=1,EE,D051AAF0,extended,00000000
+
+[2 Balls And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Balls And You Walk
+// 2 Balls And You Walk
+patch=1,EE,1051AAF0,extended,00000002
+
+[3 Balls And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=3 Balls And You Walk
+// 3 Balls And You Walk
+patch=1,EE,E0020001,extended,0051AA98
+
+[3 Balls And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=3 Balls And You Walk
+// 3 Balls And You Walk
+patch=1,EE,D051AAF0,extended,00000000
+
+[3 Balls And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=3 Balls And You Walk
+// 3 Balls And You Walk
+patch=1,EE,1051AAF0,extended,00000001
+
+[Infinite Outs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Outs
+// Infinite Outs
+patch=1,EE,E0010001,extended,0051AA98
+
+[Infinite Outs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Outs
+// Infinite Outs
+patch=1,EE,1051AAF4,extended,00000000
+
+[1 Out And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Out And You Are Out
+// 1 Out And You Are Out
+patch=1,EE,E0020001,extended,0051AA98
+
+[1 Out And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Out And You Are Out
+// 1 Out And You Are Out
+patch=1,EE,D051AAF4,extended,00000000
+
+[1 Out And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Out And You Are Out
+// 1 Out And You Are Out
+patch=1,EE,1051AAF4,extended,00000002
+
+[2 Outs And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Outs And You Are Out
+// 2 Outs And You Are Out
+patch=1,EE,E0020001,extended,0051AA98
+
+[2 Outs And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Outs And You Are Out
+// 2 Outs And You Are Out
+patch=1,EE,D051AAF4,extended,00000000
+
+[2 Outs And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Outs And You Are Out
+// 2 Outs And You Are Out
+patch=1,EE,1051AAF4,extended,00000001
+
+[Always Full Count]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Count
+// Always Full Count
+patch=1,EE,E0020001,extended,0051AA98
+
+[Always Full Count]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Count
+// Always Full Count
+patch=1,EE,1051AAE4,extended,00000002
+
+[Always Full Count]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Count
+// Always Full Count
+patch=1,EE,1051AAF0,extended,00000003
+
+[Always Full Count & 2 Outs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Count & 2 Outs
+// Always Full Count & 2 Outs
+patch=1,EE,E0030001,extended,0051AA98
+
+[Always Full Count & 2 Outs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Count & 2 Outs
+// Always Full Count & 2 Outs
+patch=1,EE,1051AAE4,extended,00000002
+
+[Always Full Count & 2 Outs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Count & 2 Outs
+// Always Full Count & 2 Outs
+patch=1,EE,1051AAF0,extended,00000003
+
+[Always Full Count & 2 Outs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Count & 2 Outs
+// Always Full Count & 2 Outs
+patch=1,EE,1051AAF4,extended,00000002
+
+[Infinite Strikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Strikes
+// Infinite Strikes
+patch=1,EE,E0010000,extended,0051AA98
+
+[Infinite Strikes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Strikes
+// Infinite Strikes
+patch=1,EE,1051AAE4,extended,00000000
+
+[1 Strike And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Strike And You Are Out
+// 1 Strike And You Are Out
+patch=1,EE,E0020000,extended,0051AA98
+
+[1 Strike And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Strike And You Are Out
+// 1 Strike And You Are Out
+patch=1,EE,D051AAE4,extended,00000000
+
+[1 Strike And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Strike And You Are Out
+// 1 Strike And You Are Out
+patch=1,EE,1051AAE4,extended,00000002
+
+[2 Strikes And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Strikes And You Are Out
+// 2 Strikes And You Are Out
+patch=1,EE,E0020000,extended,0051AA98
+
+[2 Strikes And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Strikes And You Are Out
+// 2 Strikes And You Are Out
+patch=1,EE,D051AAE4,extended,00000000
+
+[2 Strikes And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Strikes And You Are Out
+// 2 Strikes And You Are Out
+patch=1,EE,1051AAE4,extended,00000001
+
+[Infinite Balls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Balls
+// Infinite Balls
+patch=1,EE,E0010000,extended,0051AA98
+
+[Infinite Balls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Balls
+// Infinite Balls
+patch=1,EE,1051AAF0,extended,00000000
+
+[1 Ball And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Ball And You Walk
+// 1 Ball And You Walk
+patch=1,EE,E0020000,extended,0051AA98
+
+[1 Ball And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Ball And You Walk
+// 1 Ball And You Walk
+patch=1,EE,D051AAF0,extended,00000000
+
+[1 Ball And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Ball And You Walk
+// 1 Ball And You Walk
+patch=1,EE,1051AAF0,extended,00000003
+
+[2 Balls And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Balls And You Walk
+// 2 Balls And You Walk
+patch=1,EE,E0020000,extended,0051AA98
+
+[2 Balls And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Balls And You Walk
+// 2 Balls And You Walk
+patch=1,EE,D051AAF0,extended,00000000
+
+[2 Balls And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Balls And You Walk
+// 2 Balls And You Walk
+patch=1,EE,1051AAF0,extended,00000002
+
+[3 Balls And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=3 Balls And You Walk
+// 3 Balls And You Walk
+patch=1,EE,E0020000,extended,0051AA98
+
+[3 Balls And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=3 Balls And You Walk
+// 3 Balls And You Walk
+patch=1,EE,D051AAF0,extended,00000000
+
+[3 Balls And You Walk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=3 Balls And You Walk
+// 3 Balls And You Walk
+patch=1,EE,1051AAF0,extended,00000001
+
+[Infinite Outs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Outs
+// Infinite Outs
+patch=1,EE,E0010000,extended,0051AA98
+
+[Infinite Outs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Outs
+// Infinite Outs
+patch=1,EE,1051AAF4,extended,00000000
+
+[1 Out And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Out And You Are Out
+// 1 Out And You Are Out
+patch=1,EE,E0020000,extended,0051AA98
+
+[1 Out And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Out And You Are Out
+// 1 Out And You Are Out
+patch=1,EE,D051AAF4,extended,00000000
+
+[1 Out And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1 Out And You Are Out
+// 1 Out And You Are Out
+patch=1,EE,1051AAF4,extended,00000002
+
+[2 Outs And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Outs And You Are Out
+// 2 Outs And You Are Out
+patch=1,EE,E0020000,extended,0051AA98
+
+[2 Outs And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Outs And You Are Out
+// 2 Outs And You Are Out
+patch=1,EE,D051AAF4,extended,00000000
+
+[2 Outs And You Are Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=2 Outs And You Are Out
+// 2 Outs And You Are Out
+patch=1,EE,1051AAF4,extended,00000001
+
+[Always Full Count]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Count
+// Always Full Count
+patch=1,EE,E0020000,extended,0051AA98
+
+[Always Full Count]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Count
+// Always Full Count
+patch=1,EE,1051AAE4,extended,00000002
+
+[Always Full Count]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Count
+// Always Full Count
+patch=1,EE,1051AAF0,extended,00000003
+
+[Always Full Count & 2 Outs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Count & 2 Outs
+// Always Full Count & 2 Outs
+patch=1,EE,E0030000,extended,0051AA98
+
+[Always Full Count & 2 Outs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Count & 2 Outs
+// Always Full Count & 2 Outs
+patch=1,EE,1051AAE4,extended,00000002
+
+[Always Full Count & 2 Outs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Count & 2 Outs
+// Always Full Count & 2 Outs
+patch=1,EE,1051AAF0,extended,00000003
+
+[Always Full Count & 2 Outs]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Count & 2 Outs
+// Always Full Count & 2 Outs
+patch=1,EE,1051AAF4,extended,00000002
+
+[Unlock All Teams]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Teams
+// Unlock All Teams
+patch=1,EE,005D1A87,extended,00000001
+
+[Unlock All Teams]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Teams
+// Unlock All Teams
+patch=1,EE,405D1A88,extended,00040001
+
+[Unlock All Teams]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Teams
+// Unlock All Teams
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Teams]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Teams
+// Unlock All Teams
+patch=1,EE,005D1A98,extended,00000001
+
+[Unlock All Stadiums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Stadiums
+// Unlock All Stadiums
+patch=1,EE,205D1A80,extended,01010101
+
+[Unlock All Stadiums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Stadiums
+// Unlock All Stadiums
+patch=1,EE,105D1A84,extended,00000101
+
+[Unlock All Stadiums]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Stadiums
+// Unlock All Stadiums
+patch=1,EE,005D1A86,extended,00000001

@@ -1,0 +1,211 @@
+gametitle=25 To Life [SLUS-21016] [C1B141D6]
+
+[Access All Bonuses]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Access All Bonuses
+// Access All Bonuses
+patch=1,EE,905111F8,extended,00832021
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0220,extended,3C0142C8
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0224,extended,54400001
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0228,extended,AC410000
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C022C,extended,08040918
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0230,extended,460000C6
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2010245C,extended,08030088
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,201A4200,extended,00000000
+
+[Max Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo
+// Max Infinite Ammo
+patch=1,EE,201A41F8,extended,240203E7
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,201A41F8,extended,00451023
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,201A462C,extended,00000000
+
+[Infinite Grenades]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Grenades
+// Infinite Grenades
+patch=1,EE,201A7844,extended,00000000
+
+[Always Low Game Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Low Game Time
+// Always Low Game Time
+patch=1,EE,2010651C,extended,AC800038
+
+[P1 Rapid Fire (All Weapons)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Rapid Fire (All Weapons)
+// P1 Rapid Fire (All Weapons)
+patch=1,EE,D070DBC2,extended,0000F7FF
+
+[P1 Rapid Fire (All Weapons)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Rapid Fire (All Weapons)
+// P1 Rapid Fire (All Weapons)
+patch=1,EE,201A45DC,extended,00000000
+
+[P1 Rapid Fire (All Weapons)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Rapid Fire (All Weapons)
+// P1 Rapid Fire (All Weapons)
+patch=1,EE,D070DBC2,extended,0000FFFF
+
+[P1 Rapid Fire (All Weapons)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Rapid Fire (All Weapons)
+// P1 Rapid Fire (All Weapons)
+patch=1,EE,201A45DC,extended,AE22042C
+
+[P1 Press {R3}+Up To Enable Buster Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+Up To Enable Buster Mode
+// P1 Press {R3}+Up To Enable Buster Mode
+patch=1,EE,D070DBC2,extended,0000FFEB
+
+[P1 Press {R3}+Up To Enable Buster Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+Up To Enable Buster Mode
+// P1 Press {R3}+Up To Enable Buster Mode
+patch=1,EE,2057C08C,extended,00000001
+
+[P1 Press {R3}+Down To Disable Buster Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+Down To Disable Buster Mode
+// P1 Press {R3}+Down To Disable Buster Mode
+patch=1,EE,D070DBC2,extended,0000FFBB
+
+[P1 Press {R3}+Down To Disable Buster Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+Down To Disable Buster Mode
+// P1 Press {R3}+Down To Disable Buster Mode
+patch=1,EE,2057C08C,extended,00000000
+
+[01-Warehouse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=01-Warehouse
+// 01-Warehouse
+patch=1,EE,206CEFF4,extended,00000001
+
+[02-Apartment]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=02-Apartment
+// 02-Apartment
+patch=1,EE,206CEFF8,extended,00000001
+
+[03-Downtown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=03-Downtown
+// 03-Downtown
+patch=1,EE,206CEFFC,extended,00000001
+
+[04-Culdesac]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=04-Culdesac
+// 04-Culdesac
+patch=1,EE,206CF000,extended,00000001
+
+[05-Club]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=05-Club
+// 05-Club
+patch=1,EE,206CF004,extended,00000001
+
+[06-Subway]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=06-Subway
+// 06-Subway
+patch=1,EE,206CF008,extended,00000001
+
+[07-Tijuana]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=07-Tijuana
+// 07-Tijuana
+patch=1,EE,206CF00C,extended,00000001
+
+[08-Casino]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=08-Casino
+// 08-Casino
+patch=1,EE,206CF010,extended,00000001
+
+[09-Penthouse]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=09-Penthouse
+// 09-Penthouse
+patch=1,EE,206CF014,extended,00000001
+
+[10-Prison]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=10-Prison
+// 10-Prison
+patch=1,EE,206CF018,extended,00000001
+
+[11-Mall]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=11-Mall
+// 11-Mall
+patch=1,EE,206CF01C,extended,00000001
+
+[12-Hacienda/Bonus-Beatdown]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=12-Hacienda/Bonus-Beatdown
+// 12-Hacienda/Bonus-Beatdown
+patch=1,EE,206CF020,extended,00000001
+
+[All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Levels
+// All Levels
+patch=1,EE,406CEFF4,extended,000C0001
+
+[All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Levels
+// All Levels
+patch=1,EE,00000001,extended,00000000

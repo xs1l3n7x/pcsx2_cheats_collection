@@ -1,0 +1,1951 @@
+gametitle=FIFA Street 2 [SLUS-21369] [67963EA7]
+
+[All Cups]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Cups
+// All Cups
+patch=1,EE,9041FBC8,extended,00832021
+
+[Home Team Always Scores 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Always Scores 10
+// Home Team Always Scores 10
+patch=1,EE,20505760,extended,0000000A
+
+[Home Team Always Scores 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Always Scores 5
+// Home Team Always Scores 5
+patch=1,EE,20505760,extended,00000005
+
+[Home Team Always Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Always Scores 0
+// Home Team Always Scores 0
+patch=1,EE,20505760,extended,00000000
+
+[Home Team Starts With 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 10
+// Home Team Starts With 10
+patch=1,EE,D0505760,extended,00000000
+
+[Home Team Starts With 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 10
+// Home Team Starts With 10
+patch=1,EE,20505760,extended,0000000A
+
+[Home Team Starts With 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 9
+// Home Team Starts With 9
+patch=1,EE,D0505760,extended,00000000
+
+[Home Team Starts With 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 9
+// Home Team Starts With 9
+patch=1,EE,20505760,extended,00000009
+
+[Home Team Starts With 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 8
+// Home Team Starts With 8
+patch=1,EE,D0505760,extended,00000000
+
+[Home Team Starts With 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 8
+// Home Team Starts With 8
+patch=1,EE,20505760,extended,00000008
+
+[Home Team Starts With 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 7
+// Home Team Starts With 7
+patch=1,EE,D0505760,extended,00000000
+
+[Home Team Starts With 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 7
+// Home Team Starts With 7
+patch=1,EE,20505760,extended,00000007
+
+[Home Team Starts With 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 6
+// Home Team Starts With 6
+patch=1,EE,D0505760,extended,00000000
+
+[Home Team Starts With 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 6
+// Home Team Starts With 6
+patch=1,EE,20505760,extended,00000006
+
+[Home Team Starts With 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 5
+// Home Team Starts With 5
+patch=1,EE,D0505760,extended,00000000
+
+[Home Team Starts With 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 5
+// Home Team Starts With 5
+patch=1,EE,20505760,extended,00000005
+
+[Home Team Starts With 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 4
+// Home Team Starts With 4
+patch=1,EE,D0505760,extended,00000000
+
+[Home Team Starts With 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 4
+// Home Team Starts With 4
+patch=1,EE,20505760,extended,00000004
+
+[Home Team Starts With 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 3
+// Home Team Starts With 3
+patch=1,EE,D0505760,extended,00000000
+
+[Home Team Starts With 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 3
+// Home Team Starts With 3
+patch=1,EE,20505760,extended,00000003
+
+[Home Team Starts With 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 2
+// Home Team Starts With 2
+patch=1,EE,D0505760,extended,00000000
+
+[Home Team Starts With 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 2
+// Home Team Starts With 2
+patch=1,EE,20505760,extended,00000002
+
+[Home Team Starts With 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 1
+// Home Team Starts With 1
+patch=1,EE,D0505760,extended,00000000
+
+[Home Team Starts With 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Starts With 1
+// Home Team Starts With 1
+patch=1,EE,20505760,extended,00000001
+
+[Home Team Quick Trick Points Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Quick Trick Points Gain
+// Home Team Quick Trick Points Gain
+patch=1,EE,10505764,extended,0000FFFF
+
+[Home Team Max Trick Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Max Trick Points
+// Home Team Max Trick Points
+patch=1,EE,20505764,extended,05F5E0FF
+
+[Home Team No Trick Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team No Trick Points
+// Home Team No Trick Points
+patch=1,EE,20505764,extended,00000000
+
+[Home Team Max Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Max Shots
+// Home Team Max Shots
+patch=1,EE,2050575C,extended,000003E7
+
+[Home Team Always Has Max Gamebreaker Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Always Has Max Gamebreaker Meter
+// Home Team Always Has Max Gamebreaker Meter
+patch=1,EE,200C0250,extended,52200001
+
+[Home Team Always Has Max Gamebreaker Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Always Has Max Gamebreaker Meter
+// Home Team Always Has Max Gamebreaker Meter
+patch=1,EE,200C0254,extended,E4410014
+
+[Home Team Always Has Max Gamebreaker Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Always Has Max Gamebreaker Meter
+// Home Team Always Has Max Gamebreaker Meter
+patch=1,EE,200C0258,extended,03E00008
+
+[Home Team Always Has Max Gamebreaker Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Always Has Max Gamebreaker Meter
+// Home Team Always Has Max Gamebreaker Meter
+patch=1,EE,200C025C,extended,46026032
+
+[Home Team Always Has Max Gamebreaker Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Always Has Max Gamebreaker Meter
+// Home Team Always Has Max Gamebreaker Meter
+patch=1,EE,2027FD08,extended,0C030094
+
+[Home Team Always Has No Gamebreaker Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Always Has No Gamebreaker Meter
+// Home Team Always Has No Gamebreaker Meter
+patch=1,EE,200C0250,extended,52200001
+
+[Home Team Always Has No Gamebreaker Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Always Has No Gamebreaker Meter
+// Home Team Always Has No Gamebreaker Meter
+patch=1,EE,200C0254,extended,AC400014
+
+[Home Team Always Has No Gamebreaker Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Always Has No Gamebreaker Meter
+// Home Team Always Has No Gamebreaker Meter
+patch=1,EE,200C0258,extended,03E00008
+
+[Home Team Always Has No Gamebreaker Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Always Has No Gamebreaker Meter
+// Home Team Always Has No Gamebreaker Meter
+patch=1,EE,200C025C,extended,46026032
+
+[Home Team Always Has No Gamebreaker Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Always Has No Gamebreaker Meter
+// Home Team Always Has No Gamebreaker Meter
+patch=1,EE,2027FD08,extended,0C030094
+
+[Home Team No Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team No Shots
+// Home Team No Shots
+patch=1,EE,2050575C,extended,00000000
+
+[Home Team Max Beats Attempted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Max Beats Attempted
+// Home Team Max Beats Attempted
+patch=1,EE,20505768,extended,000003E7
+
+[Home Team No Beats Attempted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team No Beats Attempted
+// Home Team No Beats Attempted
+patch=1,EE,20505768,extended,00000000
+
+[Home Team Max Beats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Max Beats
+// Home Team Max Beats
+patch=1,EE,2050576C,extended,000003E7
+
+[Home Team No Beats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team No Beats
+// Home Team No Beats
+patch=1,EE,2050576C,extended,00000000
+
+[Home Team Max Gamebreakers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Max Gamebreakers
+// Home Team Max Gamebreakers
+patch=1,EE,20505770,extended,000003E7
+
+[Home Team No Gamebreakers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team No Gamebreakers
+// Home Team No Gamebreakers
+patch=1,EE,20505770,extended,00000000
+
+[Home Team Max Best Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Max Best Combo
+// Home Team Max Best Combo
+patch=1,EE,20505774,extended,000003E7
+
+[Home Team No Best Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team No Best Combo
+// Home Team No Best Combo
+patch=1,EE,20505774,extended,00000000
+
+[Home Team Max Highest Combo Value]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Max Highest Combo Value
+// Home Team Max Highest Combo Value
+patch=1,EE,2050577C,extended,000003E7
+
+[Home Team No Highest Combo Value]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team No Highest Combo Value
+// Home Team No Highest Combo Value
+patch=1,EE,2050577C,extended,00000000
+
+[Home Team Max Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Max Goals
+// Home Team Max Goals
+patch=1,EE,20505784,extended,000003E7
+
+[Home Team No Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team No Goals
+// Home Team No Goals
+patch=1,EE,20505784,extended,00000000
+
+[Home Team Max Beats Blocked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Max Beats Blocked
+// Home Team Max Beats Blocked
+patch=1,EE,205057B0,extended,000003E7
+
+[Home Team No Beats Blocked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team No Beats Blocked
+// Home Team No Beats Blocked
+patch=1,EE,205057B0,extended,00000000
+
+[Home Team Max Beats Attempted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team Max Beats Attempted
+// Home Team Max Beats Attempted
+patch=1,EE,205057BC,extended,000003E7
+
+[Home Team No Beats Attempted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Home Team No Beats Attempted
+// Home Team No Beats Attempted
+patch=1,EE,205057BC,extended,00000000
+
+[Away Team Always Scores 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Always Scores 10
+// Away Team Always Scores 10
+patch=1,EE,20505828,extended,0000000A
+
+[Away Team Always Scores 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Always Scores 5
+// Away Team Always Scores 5
+patch=1,EE,20505828,extended,00000005
+
+[Away Team Always Scores 0]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Always Scores 0
+// Away Team Always Scores 0
+patch=1,EE,20505828,extended,00000000
+
+[Away Team Starts With 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 10
+// Away Team Starts With 10
+patch=1,EE,D0505828,extended,00000000
+
+[Away Team Starts With 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 10
+// Away Team Starts With 10
+patch=1,EE,20505828,extended,0000000A
+
+[Away Team Starts With 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 9
+// Away Team Starts With 9
+patch=1,EE,D0505828,extended,00000000
+
+[Away Team Starts With 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 9
+// Away Team Starts With 9
+patch=1,EE,20505828,extended,00000009
+
+[Away Team Starts With 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 8
+// Away Team Starts With 8
+patch=1,EE,D0505828,extended,00000000
+
+[Away Team Starts With 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 8
+// Away Team Starts With 8
+patch=1,EE,20505828,extended,00000008
+
+[Away Team Starts With 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 7
+// Away Team Starts With 7
+patch=1,EE,D0505828,extended,00000000
+
+[Away Team Starts With 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 7
+// Away Team Starts With 7
+patch=1,EE,20505828,extended,00000007
+
+[Away Team Starts With 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 6
+// Away Team Starts With 6
+patch=1,EE,D0505828,extended,00000000
+
+[Away Team Starts With 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 6
+// Away Team Starts With 6
+patch=1,EE,20505828,extended,00000006
+
+[Away Team Starts With 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 5
+// Away Team Starts With 5
+patch=1,EE,D0505828,extended,00000000
+
+[Away Team Starts With 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 5
+// Away Team Starts With 5
+patch=1,EE,20505828,extended,00000005
+
+[Away Team Starts With 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 4
+// Away Team Starts With 4
+patch=1,EE,D0505828,extended,00000000
+
+[Away Team Starts With 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 4
+// Away Team Starts With 4
+patch=1,EE,20505828,extended,00000004
+
+[Away Team Starts With 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 3
+// Away Team Starts With 3
+patch=1,EE,D0505828,extended,00000000
+
+[Away Team Starts With 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 3
+// Away Team Starts With 3
+patch=1,EE,20505828,extended,00000003
+
+[Away Team Starts With 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 2
+// Away Team Starts With 2
+patch=1,EE,D0505828,extended,00000000
+
+[Away Team Starts With 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 2
+// Away Team Starts With 2
+patch=1,EE,20505828,extended,00000002
+
+[Away Team Starts With 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 1
+// Away Team Starts With 1
+patch=1,EE,D0505828,extended,00000000
+
+[Away Team Starts With 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Starts With 1
+// Away Team Starts With 1
+patch=1,EE,20505828,extended,00000001
+
+[Away Team Quick Trick Points Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Quick Trick Points Gain
+// Away Team Quick Trick Points Gain
+patch=1,EE,1050582C,extended,0000FFFF
+
+[Away Team Max Trick Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Max Trick Points
+// Away Team Max Trick Points
+patch=1,EE,2050582C,extended,05F5E0FF
+
+[Away Team No Trick Points]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team No Trick Points
+// Away Team No Trick Points
+patch=1,EE,2050582C,extended,00000000
+
+[Away Team Always Has Max Gamebreaker Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Always Has Max Gamebreaker Meter
+// Away Team Always Has Max Gamebreaker Meter
+patch=1,EE,200C0260,extended,56200001
+
+[Away Team Always Has Max Gamebreaker Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Always Has Max Gamebreaker Meter
+// Away Team Always Has Max Gamebreaker Meter
+patch=1,EE,200C0264,extended,E4410014
+
+[Away Team Always Has Max Gamebreaker Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Always Has Max Gamebreaker Meter
+// Away Team Always Has Max Gamebreaker Meter
+patch=1,EE,200C0268,extended,03E00008
+
+[Away Team Always Has Max Gamebreaker Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Always Has Max Gamebreaker Meter
+// Away Team Always Has Max Gamebreaker Meter
+patch=1,EE,200C026C,extended,3C020048
+
+[Away Team Always Has Max Gamebreaker Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Always Has Max Gamebreaker Meter
+// Away Team Always Has Max Gamebreaker Meter
+patch=1,EE,2027FD1C,extended,0C030098
+
+[Away Team Always Has No Gamebreaker Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Always Has No Gamebreaker Meter
+// Away Team Always Has No Gamebreaker Meter
+patch=1,EE,200C0260,extended,56200001
+
+[Away Team Always Has No Gamebreaker Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Always Has No Gamebreaker Meter
+// Away Team Always Has No Gamebreaker Meter
+patch=1,EE,200C0264,extended,AC400014
+
+[Away Team Always Has No Gamebreaker Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Always Has No Gamebreaker Meter
+// Away Team Always Has No Gamebreaker Meter
+patch=1,EE,200C0268,extended,03E00008
+
+[Away Team Always Has No Gamebreaker Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Always Has No Gamebreaker Meter
+// Away Team Always Has No Gamebreaker Meter
+patch=1,EE,200C026C,extended,3C020048
+
+[Away Team Always Has No Gamebreaker Meter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Always Has No Gamebreaker Meter
+// Away Team Always Has No Gamebreaker Meter
+patch=1,EE,2027FD1C,extended,0C030098
+
+[Away Team Max Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Max Shots
+// Away Team Max Shots
+patch=1,EE,20505824,extended,000003E7
+
+[Away Team No Shots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team No Shots
+// Away Team No Shots
+patch=1,EE,20505824,extended,00000000
+
+[Away Team Max Beats Attempted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Max Beats Attempted
+// Away Team Max Beats Attempted
+patch=1,EE,20505830,extended,000003E7
+
+[Away Team No Beats Attempted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team No Beats Attempted
+// Away Team No Beats Attempted
+patch=1,EE,20505830,extended,00000000
+
+[Away Team Max Beats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Max Beats
+// Away Team Max Beats
+patch=1,EE,20505834,extended,000003E7
+
+[Away Team No Beats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team No Beats
+// Away Team No Beats
+patch=1,EE,20505834,extended,00000000
+
+[Away Team Max Gamebreakers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Max Gamebreakers
+// Away Team Max Gamebreakers
+patch=1,EE,20505838,extended,000003E7
+
+[Away Team No Gamebreakers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team No Gamebreakers
+// Away Team No Gamebreakers
+patch=1,EE,20505838,extended,00000000
+
+[Away Team Max Best Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Max Best Combo
+// Away Team Max Best Combo
+patch=1,EE,2050583C,extended,000003E7
+
+[Away Team No Best Combo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team No Best Combo
+// Away Team No Best Combo
+patch=1,EE,2050583C,extended,00000000
+
+[Away Team Max Highest Combo Value]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Max Highest Combo Value
+// Away Team Max Highest Combo Value
+patch=1,EE,20505844,extended,000003E7
+
+[Away Team No Highest Combo Value]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team No Highest Combo Value
+// Away Team No Highest Combo Value
+patch=1,EE,20505844,extended,00000000
+
+[Away Team Max Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Max Goals
+// Away Team Max Goals
+patch=1,EE,2050584C,extended,000003E7
+
+[Away Team No Goals]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team No Goals
+// Away Team No Goals
+patch=1,EE,2050584C,extended,00000000
+
+[Away Team Max Beats Blocked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Max Beats Blocked
+// Away Team Max Beats Blocked
+patch=1,EE,20505878,extended,000003E7
+
+[Away Team No Beats Blocked]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team No Beats Blocked
+// Away Team No Beats Blocked
+patch=1,EE,20505878,extended,00000000
+
+[Away Team Max Beats Attempted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team Max Beats Attempted
+// Away Team Max Beats Attempted
+patch=1,EE,20505884,extended,000003E7
+
+[Away Team No Beats Attempted]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Away Team No Beats Attempted
+// Away Team No Beats Attempted
+patch=1,EE,20505884,extended,00000000
+
+[P1 Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Timer
+// P1 Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,D0E68002,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Timer
+// P1 Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,201D43B4,extended,00000000
+
+[P1 Press {L2}+{SELECT} To Restart Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Timer
+// P1 Press {L2}+{SELECT} To Restart Timer
+patch=1,EE,D0E68002,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Restart Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Timer
+// P1 Press {L2}+{SELECT} To Restart Timer
+patch=1,EE,201D43B4,extended,E6410024
+
+[P2 Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} To Stop Timer
+// P2 Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,D0E69382,extended,0000FBFE
+
+[P2 Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L1}+{SELECT} To Stop Timer
+// P2 Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,201D43B4,extended,00000000
+
+[P2 Press {L2}+{SELECT} To Restart Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L2}+{SELECT} To Restart Timer
+// P2 Press {L2}+{SELECT} To Restart Timer
+patch=1,EE,D0E69382,extended,0000FEFE
+
+[P2 Press {L2}+{SELECT} To Restart Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P2 Press {L2}+{SELECT} To Restart Timer
+// P2 Press {L2}+{SELECT} To Restart Timer
+patch=1,EE,201D43B4,extended,E6410024
+
+[Infinite Skill Bills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Skill Bills
+// Infinite Skill Bills
+patch=1,EE,10929700,extended,0000FFFF
+
+[Max Skill Bills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Skill Bills
+// Max Skill Bills
+patch=1,EE,20929700,extended,05F5E0FF
+
+[Buying Items Doesnt Decrease Skill Bills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Items Doesnt Decrease Skill Bills
+// Buying Items Doesnt Decrease Skill Bills
+patch=1,EE,202F79E8,extended,00402821
+
+[Buying Items Increases Skill Bills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Items Increases Skill Bills
+// Buying Items Increases Skill Bills
+patch=1,EE,202F79E8,extended,00515821
+
+[Have All Kick Abouts/Team Captain Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Kick Abouts/Team Captain Completed
+// Have All Kick Abouts/Team Captain Completed
+patch=1,EE,200C0220,extended,16400006
+
+[Have All Kick Abouts/Team Captain Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Kick Abouts/Team Captain Completed
+// Have All Kick Abouts/Team Captain Completed
+patch=1,EE,200C0224,extended,00000000
+
+[Have All Kick Abouts/Team Captain Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Kick Abouts/Team Captain Completed
+// Have All Kick Abouts/Team Captain Completed
+patch=1,EE,200C0228,extended,02221021
+
+[Have All Kick Abouts/Team Captain Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Kick Abouts/Team Captain Completed
+// Have All Kick Abouts/Team Captain Completed
+patch=1,EE,200C022C,extended,A4440A54
+
+[Have All Kick Abouts/Team Captain Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Kick Abouts/Team Captain Completed
+// Have All Kick Abouts/Team Captain Completed
+patch=1,EE,200C0230,extended,96220B68
+
+[Have All Kick Abouts/Team Captain Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Kick Abouts/Team Captain Completed
+// Have All Kick Abouts/Team Captain Completed
+patch=1,EE,200C0234,extended,24420001
+
+[Have All Kick Abouts/Team Captain Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Kick Abouts/Team Captain Completed
+// Have All Kick Abouts/Team Captain Completed
+patch=1,EE,200C0238,extended,A6220B68
+
+[Have All Kick Abouts/Team Captain Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Kick Abouts/Team Captain Completed
+// Have All Kick Abouts/Team Captain Completed
+patch=1,EE,200C023C,extended,08050499
+
+[Have All Kick Abouts/Team Captain Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Kick Abouts/Team Captain Completed
+// Have All Kick Abouts/Team Captain Completed
+patch=1,EE,200C0240,extended,24020001
+
+[Have All Kick Abouts/Team Captain Completed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Kick Abouts/Team Captain Completed
+// Have All Kick Abouts/Team Captain Completed
+patch=1,EE,2014125C,extended,08030088
+
+[Unlock All Venues]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Venues
+// Unlock All Venues
+patch=1,EE,2047AF5C,extended,00000001
+
+[Unlock All Kits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Kits
+// Unlock All Kits
+patch=1,EE,2047AF60,extended,00000001
+
+[Unlock All RTS]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All RTS
+// Unlock All RTS
+patch=1,EE,2047AF64,extended,00000001
+
+[Unlock All Players]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Players
+// Unlock All Players
+patch=1,EE,2047AF6C,extended,00000001
+
+[Unlock All Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Tricks
+// Unlock All Tricks
+patch=1,EE,2047AF70,extended,00000001
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,00929730,extended,00000064
+
+[Max Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shot
+// Max Shot
+patch=1,EE,00929731,extended,00000064
+
+[Max Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tricks
+// Max Tricks
+patch=1,EE,00929732,extended,00000064
+
+[Max Defence]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defence
+// Max Defence
+patch=1,EE,00929733,extended,00000064
+
+[Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power
+// Max Power
+patch=1,EE,00929734,extended,00000064
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,20929730,extended,64646464
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,00929734,extended,00000064
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,009298E4,extended,00000064
+
+[Max Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shot
+// Max Shot
+patch=1,EE,009298E5,extended,00000064
+
+[Max Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tricks
+// Max Tricks
+patch=1,EE,009298E6,extended,00000064
+
+[Max Defence]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defence
+// Max Defence
+patch=1,EE,009298E7,extended,00000064
+
+[Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power
+// Max Power
+patch=1,EE,009298E8,extended,00000064
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,209298E4,extended,64646464
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,009298E8,extended,00000064
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,00929A98,extended,00000064
+
+[Max Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shot
+// Max Shot
+patch=1,EE,00929A99,extended,00000064
+
+[Max Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tricks
+// Max Tricks
+patch=1,EE,00929A9A,extended,00000064
+
+[Max Defence]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defence
+// Max Defence
+patch=1,EE,00929A9B,extended,00000064
+
+[Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power
+// Max Power
+patch=1,EE,00929A9C,extended,00000064
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,20929A98,extended,64646464
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,00929A9C,extended,00000064
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,00929C4C,extended,00000064
+
+[Max Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shot
+// Max Shot
+patch=1,EE,00929C4D,extended,00000064
+
+[Max Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tricks
+// Max Tricks
+patch=1,EE,00929C4E,extended,00000064
+
+[Max Defence]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defence
+// Max Defence
+patch=1,EE,00929C4F,extended,00000064
+
+[Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power
+// Max Power
+patch=1,EE,00929C50,extended,00000064
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,20929C4C,extended,64646464
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,00929C50,extended,00000064
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,00929E00,extended,00000064
+
+[Max Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shot
+// Max Shot
+patch=1,EE,00929E01,extended,00000064
+
+[Max Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tricks
+// Max Tricks
+patch=1,EE,00929E02,extended,00000064
+
+[Max Defence]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defence
+// Max Defence
+patch=1,EE,00929E03,extended,00000064
+
+[Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power
+// Max Power
+patch=1,EE,00929E04,extended,00000064
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,20929E00,extended,64646464
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,00929E04,extended,00000064
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,00929FB4,extended,00000064
+
+[Max Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shot
+// Max Shot
+patch=1,EE,00929FB5,extended,00000064
+
+[Max Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tricks
+// Max Tricks
+patch=1,EE,00929FB6,extended,00000064
+
+[Max Defence]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defence
+// Max Defence
+patch=1,EE,00929FB7,extended,00000064
+
+[Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power
+// Max Power
+patch=1,EE,00929FB8,extended,00000064
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,20929FB4,extended,64646464
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,00929FB8,extended,00000064
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,0092A168,extended,00000064
+
+[Max Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shot
+// Max Shot
+patch=1,EE,0092A169,extended,00000064
+
+[Max Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tricks
+// Max Tricks
+patch=1,EE,0092A16A,extended,00000064
+
+[Max Defence]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defence
+// Max Defence
+patch=1,EE,0092A16B,extended,00000064
+
+[Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power
+// Max Power
+patch=1,EE,0092A16C,extended,00000064
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,2092A168,extended,64646464
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,0092A16C,extended,00000064
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,0092A31C,extended,00000064
+
+[Max Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shot
+// Max Shot
+patch=1,EE,0092A31D,extended,00000064
+
+[Max Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tricks
+// Max Tricks
+patch=1,EE,0092A31E,extended,00000064
+
+[Max Defence]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defence
+// Max Defence
+patch=1,EE,0092A31F,extended,00000064
+
+[Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power
+// Max Power
+patch=1,EE,0092A320,extended,00000064
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,2092A31C,extended,64646464
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,0092A320,extended,00000064
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,0092A4D0,extended,00000064
+
+[Max Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shot
+// Max Shot
+patch=1,EE,0092A4D1,extended,00000064
+
+[Max Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tricks
+// Max Tricks
+patch=1,EE,0092A4D2,extended,00000064
+
+[Max Defence]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defence
+// Max Defence
+patch=1,EE,0092A4D3,extended,00000064
+
+[Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power
+// Max Power
+patch=1,EE,0092A4D4,extended,00000064
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,2092A4D0,extended,64646464
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,0092A4D4,extended,00000064
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,0092A684,extended,00000064
+
+[Max Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shot
+// Max Shot
+patch=1,EE,0092A685,extended,00000064
+
+[Max Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tricks
+// Max Tricks
+patch=1,EE,0092A686,extended,00000064
+
+[Max Defence]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defence
+// Max Defence
+patch=1,EE,0092A687,extended,00000064
+
+[Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power
+// Max Power
+patch=1,EE,0092A688,extended,00000064
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,2092A684,extended,64646464
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,0092A688,extended,00000064
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,0092A838,extended,00000064
+
+[Max Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shot
+// Max Shot
+patch=1,EE,0092A839,extended,00000064
+
+[Max Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tricks
+// Max Tricks
+patch=1,EE,0092A83A,extended,00000064
+
+[Max Defence]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defence
+// Max Defence
+patch=1,EE,0092A83B,extended,00000064
+
+[Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power
+// Max Power
+patch=1,EE,0092A83C,extended,00000064
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,2092A838,extended,64646464
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,0092A83C,extended,00000064
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,0092A9EC,extended,00000064
+
+[Max Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shot
+// Max Shot
+patch=1,EE,0092A9ED,extended,00000064
+
+[Max Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tricks
+// Max Tricks
+patch=1,EE,0092A9EE,extended,00000064
+
+[Max Defence]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defence
+// Max Defence
+patch=1,EE,0092A9EF,extended,00000064
+
+[Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power
+// Max Power
+patch=1,EE,0092A9F0,extended,00000064
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,2092A9EC,extended,64646464
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,0092A9F0,extended,00000064
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,0092ABA0,extended,00000064
+
+[Max Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shot
+// Max Shot
+patch=1,EE,0092ABA1,extended,00000064
+
+[Max Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tricks
+// Max Tricks
+patch=1,EE,0092ABA2,extended,00000064
+
+[Max Defence]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defence
+// Max Defence
+patch=1,EE,0092ABA3,extended,00000064
+
+[Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power
+// Max Power
+patch=1,EE,0092ABA4,extended,00000064
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,2092ABA0,extended,64646464
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,0092ABA4,extended,00000064
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,0092AD54,extended,00000064
+
+[Max Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shot
+// Max Shot
+patch=1,EE,0092AD55,extended,00000064
+
+[Max Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tricks
+// Max Tricks
+patch=1,EE,0092AD56,extended,00000064
+
+[Max Defence]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defence
+// Max Defence
+patch=1,EE,0092AD57,extended,00000064
+
+[Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power
+// Max Power
+patch=1,EE,0092AD58,extended,00000064
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,2092AD54,extended,64646464
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,0092AD58,extended,00000064
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,0092AF08,extended,00000064
+
+[Max Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shot
+// Max Shot
+patch=1,EE,0092AF09,extended,00000064
+
+[Max Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tricks
+// Max Tricks
+patch=1,EE,0092AF0A,extended,00000064
+
+[Max Defence]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defence
+// Max Defence
+patch=1,EE,0092AF0B,extended,00000064
+
+[Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power
+// Max Power
+patch=1,EE,0092AF0C,extended,00000064
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,2092AF08,extended,64646464
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,0092AF0C,extended,00000064
+
+[Max Speed]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Speed
+// Max Speed
+patch=1,EE,0092B0BC,extended,00000064
+
+[Max Shot]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Shot
+// Max Shot
+patch=1,EE,0092B0BD,extended,00000064
+
+[Max Tricks]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Tricks
+// Max Tricks
+patch=1,EE,0092B0BE,extended,00000064
+
+[Max Defence]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defence
+// Max Defence
+patch=1,EE,0092B0BF,extended,00000064
+
+[Max Power]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Power
+// Max Power
+patch=1,EE,0092B0C0,extended,00000064
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,2092B0BC,extended,64646464
+
+[Max All Stats]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Stats
+// Max All Stats
+patch=1,EE,0092B0C0,extended,00000064
+
+[Bottom 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bottom 1
+// Bottom 1
+patch=1,EE,20933C34,extended,00000000
+
+[Bottom 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bottom 2
+// Bottom 2
+patch=1,EE,20933C40,extended,00000000
+
+[Bottom 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bottom 3
+// Bottom 3
+patch=1,EE,20933C4C,extended,00000000
+
+[Bottom 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bottom 4
+// Bottom 4
+patch=1,EE,20933C58,extended,00000000
+
+[Bottom 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bottom 5
+// Bottom 5
+patch=1,EE,20933C64,extended,00000000
+
+[Bottom 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bottom 6
+// Bottom 6
+patch=1,EE,20933C70,extended,00000000
+
+[Bottom 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bottom 7
+// Bottom 7
+patch=1,EE,20933C7C,extended,00000000
+
+[Bottom 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bottom 8
+// Bottom 8
+patch=1,EE,20933C88,extended,00000000
+
+[Bottom 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bottom 9
+// Bottom 9
+patch=1,EE,20933C94,extended,00000000
+
+[Bottom 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bottom 10
+// Bottom 10
+patch=1,EE,20933CA0,extended,00000000
+
+[All Bottoms]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Bottoms
+// All Bottoms
+patch=1,EE,40933C34,extended,000A0003
+
+[All Bottoms]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Bottoms
+// All Bottoms
+patch=1,EE,00000000,extended,00000000
+
+[Shoe 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shoe 1
+// Shoe 1
+patch=1,EE,20933CAC,extended,00000000
+
+[Shoe 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shoe 2
+// Shoe 2
+patch=1,EE,20933CB8,extended,00000000
+
+[Shoe 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shoe 3
+// Shoe 3
+patch=1,EE,20933CC4,extended,00000000
+
+[Shoe 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shoe 4
+// Shoe 4
+patch=1,EE,20933CD0,extended,00000000
+
+[Shoe 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shoe 5
+// Shoe 5
+patch=1,EE,20933CDC,extended,00000000
+
+[Shoe 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shoe 6
+// Shoe 6
+patch=1,EE,20933CE8,extended,00000000
+
+[Shoe 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shoe 7
+// Shoe 7
+patch=1,EE,20933CF4,extended,00000000
+
+[Shoe 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shoe 8
+// Shoe 8
+patch=1,EE,20933D00,extended,00000000
+
+[Shoe 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shoe 9
+// Shoe 9
+patch=1,EE,20933D0C,extended,00000000
+
+[Shoe 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shoe 10
+// Shoe 10
+patch=1,EE,20933D18,extended,00000000
+
+[Shoe 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shoe 11
+// Shoe 11
+patch=1,EE,20933D24,extended,00000000
+
+[Shoe 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shoe 12
+// Shoe 12
+patch=1,EE,20933D30,extended,00000000
+
+[Shoe 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shoe 13
+// Shoe 13
+patch=1,EE,20933D3C,extended,00000000
+
+[Shoe 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shoe 14
+// Shoe 14
+patch=1,EE,20933D48,extended,00000000
+
+[Shoe 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Shoe 15
+// Shoe 15
+patch=1,EE,20933D54,extended,00000000
+
+[All Shoes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Shoes
+// All Shoes
+patch=1,EE,40933CAC,extended,000F0003
+
+[All Shoes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Shoes
+// All Shoes
+patch=1,EE,00000000,extended,00000000
+
+[Top 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 1
+// Top 1
+patch=1,EE,20933D60,extended,00000000
+
+[Top 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 2
+// Top 2
+patch=1,EE,20933D6C,extended,00000000
+
+[Top 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 3
+// Top 3
+patch=1,EE,20933D78,extended,00000000
+
+[Top 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 4
+// Top 4
+patch=1,EE,20933D84,extended,00000000
+
+[Top 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 5
+// Top 5
+patch=1,EE,20933D90,extended,00000000
+
+[Top 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 6
+// Top 6
+patch=1,EE,20933D9C,extended,00000000
+
+[Top 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 7
+// Top 7
+patch=1,EE,20933DA8,extended,00000000
+
+[Top 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 8
+// Top 8
+patch=1,EE,20933DB4,extended,00000000
+
+[Top 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 9
+// Top 9
+patch=1,EE,20933DC0,extended,00000000
+
+[Top 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 10
+// Top 10
+patch=1,EE,20933DCC,extended,00000000
+
+[Top 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 11
+// Top 11
+patch=1,EE,20933DD8,extended,00000000
+
+[Top 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 12
+// Top 12
+patch=1,EE,20933DE4,extended,00000000
+
+[Top 13]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 13
+// Top 13
+patch=1,EE,20933DF0,extended,00000000
+
+[Top 14]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 14
+// Top 14
+patch=1,EE,20933DFC,extended,00000000
+
+[Top 15]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 15
+// Top 15
+patch=1,EE,20933E08,extended,00000000
+
+[Top 16]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 16
+// Top 16
+patch=1,EE,20933E14,extended,00000000
+
+[Top 17]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 17
+// Top 17
+patch=1,EE,20933E20,extended,00000000
+
+[Top 18]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 18
+// Top 18
+patch=1,EE,20933E2C,extended,00000000
+
+[Top 19]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 19
+// Top 19
+patch=1,EE,20933E38,extended,00000000
+
+[Top 20]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 20
+// Top 20
+patch=1,EE,20933E44,extended,00000000
+
+[Top 21]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 21
+// Top 21
+patch=1,EE,20933E50,extended,00000000
+
+[Top 22]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 22
+// Top 22
+patch=1,EE,20933E5C,extended,00000000
+
+[Top 23]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 23
+// Top 23
+patch=1,EE,20933E68,extended,00000000
+
+[Top 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Top 24
+// Top 24
+patch=1,EE,20933E74,extended,00000000
+
+[All Tops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Tops
+// All Tops
+patch=1,EE,40933D60,extended,00180003
+
+[All Tops]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Tops
+// All Tops
+patch=1,EE,00000000,extended,00000000
+
+[Character 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 1
+// Character 1
+patch=1,EE,20934EF8,extended,00000000
+
+[Character 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 2
+// Character 2
+patch=1,EE,20934F04,extended,00000000
+
+[Character 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 3
+// Character 3
+patch=1,EE,20934F10,extended,00000000
+
+[Character 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 4
+// Character 4
+patch=1,EE,20934F1C,extended,00000000
+
+[Character 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 5
+// Character 5
+patch=1,EE,20934F28,extended,00000000
+
+[Character 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 6
+// Character 6
+patch=1,EE,20934F34,extended,00000000
+
+[Character 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 7
+// Character 7
+patch=1,EE,20934F40,extended,00000000
+
+[Character 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 8
+// Character 8
+patch=1,EE,20934F4C,extended,00000000
+
+[Character 9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 9
+// Character 9
+patch=1,EE,20934F58,extended,00000000
+
+[Character 10]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 10
+// Character 10
+patch=1,EE,20934F64,extended,00000000
+
+[Character 11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 11
+// Character 11
+patch=1,EE,20934F70,extended,00000000
+
+[Character 12]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Character 12
+// Character 12
+patch=1,EE,20934F7C,extended,00000000
+
+[All Players]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Players
+// All Players
+patch=1,EE,40934EF8,extended,000C0003
+
+[All Players]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Players
+// All Players
+patch=1,EE,00000000,extended,00000000
+
+[Venue 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Venue 1
+// Venue 1
+patch=1,EE,2093585C,extended,00000000
+
+[Venue 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Venue 2
+// Venue 2
+patch=1,EE,20935868,extended,00000000
+
+[Venue 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Venue 3
+// Venue 3
+patch=1,EE,20935874,extended,00000000
+
+[Venue 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Venue 4
+// Venue 4
+patch=1,EE,20935880,extended,00000000
+
+[Venue 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Venue 5
+// Venue 5
+patch=1,EE,2093588C,extended,00000000
+
+[Venue 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Venue 6
+// Venue 6
+patch=1,EE,20935898,extended,00000000
+
+[All Venues]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Venues
+// All Venues
+patch=1,EE,4093585C,extended,00060003
+
+[All Venues]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Venues
+// All Venues
+patch=1,EE,00000000,extended,00000000

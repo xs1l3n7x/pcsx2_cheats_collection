@@ -1,0 +1,97 @@
+gametitle=Hard Rock Casino [SLUS-21102] [E360416A]
+
+[P1 Press {SELECT} For More Balls]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {SELECT} For More Balls
+// P1 Press {SELECT} For More Balls
+patch=1,EE,9011FE28,extended,00832021
+
+[Infinite Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Credits
+// Infinite Credits
+patch=1,EE,10245798,extended,0000FFFF
+
+[Max Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Credits
+// Max Credits
+patch=1,EE,20245798,extended,4876E7FF
+
+[Max Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Credits
+// Max Credits
+patch=1,EE,2024579C,extended,00000017
+
+[Quit Playing Doesnt Decrease Credits]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Quit Playing Doesnt Decrease Credits
+// Quit Playing Doesnt Decrease Credits
+patch=1,EE,201BD978,extended,00000000
+
+[Video Keno Slots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Video Keno Slots
+// Video Keno Slots
+patch=1,EE,2015A53C,extended,00000000
+
+[Poker Slots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Poker Slots
+// Poker Slots
+patch=1,EE,2015A8A4,extended,00000000
+
+[Regular Slots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Regular Slots
+// Regular Slots
+patch=1,EE,2015C320,extended,00000000
+
+[Roulette]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Roulette
+// Roulette
+patch=1,EE,2015D2AC,extended,00000000
+
+[Baccarat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Baccarat
+// Baccarat
+patch=1,EE,2015E8BC,extended,00000000
+
+[Fortune Pai Gow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fortune Pai Gow
+// Fortune Pai Gow
+patch=1,EE,2015EC28,extended,00000000
+
+[Casino War]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Casino War
+// Casino War
+patch=1,EE,2015F1DC,extended,00000000
+
+[Big Raise Hold 'Em]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Raise Hold 'Em
+// Big Raise Hold 'Em
+patch=1,EE,2015F5E0,extended,00000000
+
+[Let It Rie]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Let It Rie
+// Let It Rie
+patch=1,EE,2015FB40,extended,00000000
+
+[Black Jack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Black Jack
+// Black Jack
+patch=1,EE,2015FEE4,extended,00000000
+
+[Hard Rock Slots]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hard Rock Slots
+// Hard Rock Slots
+patch=1,EE,20204A08,extended,00000000

@@ -1,0 +1,91 @@
+gametitle=Crouching Tiger Hidden Dragon [SLUS-20523] [71BE05FA]
+
+[Slot 24]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Slot 24
+// Slot 24
+patch=1,EE,F0100008,extended,00217587
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,20210590,extended,24020001
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,2023B158,extended,42C80000
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,2023B150,extended,4479C000
+
+[Max Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite HP
+// Max Infinite HP
+patch=1,EE,2023B158,extended,4479C000
+
+[Max Attack]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Attack
+// Max Attack
+patch=1,EE,2023B168,extended,40C00000
+
+[Max Defense]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Defense
+// Max Defense
+patch=1,EE,2023B16C,extended,3F460000
+
+[Have All Special Moves]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Have All Special Moves
+// Have All Special Moves
+patch=1,EE,2023B180,extended,FFFFFFFF
+
+[Unarmed Level 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unarmed Level 30
+// Unarmed Level 30
+patch=1,EE,2023B184,extended,0000001E
+
+[Weapons Level 30]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Weapons Level 30
+// Weapons Level 30
+patch=1,EE,2023B18C,extended,0000001E
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,D023B3CC,extended,00000002
+
+[Infinite Double Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Double Jumps
+// Infinite Double Jumps
+patch=1,EE,2023B3CC,extended,00000001
+
+[Infinite Continues]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Continues
+// Infinite Continues
+patch=1,EE,2023BA2C,extended,00000009
+
+[Max Continues]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Continues
+// Max Continues
+patch=1,EE,2023BA2C,extended,00000063
+
+[Extra Continues]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Continues
+// Extra Continues
+patch=1,EE,101B9EC8,extended,00000001

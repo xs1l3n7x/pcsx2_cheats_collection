@@ -1,0 +1,247 @@
+gametitle=Killzone [SCES-52004] [6624A78C]
+
+[Max All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max All Levels
+// Max All Levels
+patch=1,EE,902AD0B0,extended,00832021
+
+[Always Max Health Can Be Recovered]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Health Can Be Recovered
+// Always Max Health Can Be Recovered
+patch=1,EE,200C0220,extended,3C0144C8
+
+[Always Max Health Can Be Recovered]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Health Can Be Recovered
+// Always Max Health Can Be Recovered
+patch=1,EE,200C0224,extended,AC410230
+
+[Always Max Health Can Be Recovered]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Health Can Be Recovered
+// Always Max Health Can Be Recovered
+patch=1,EE,200C0228,extended,03E00008
+
+[Always Max Health Can Be Recovered]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Health Can Be Recovered
+// Always Max Health Can Be Recovered
+patch=1,EE,200C022C,extended,C4440230
+
+[Always Max Health Can Be Recovered]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Health Can Be Recovered
+// Always Max Health Can Be Recovered
+patch=1,EE,2047AC08,extended,0C030088
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0230,extended,3C0144C8
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0234,extended,AC41022C
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C0238,extended,03E00008
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,200C023C,extended,C441022C
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,2047AC10,extended,0C03008C
+
+[Infinite Stamina]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Stamina
+// Infinite Stamina
+patch=1,EE,2021B220,extended,E642030C
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,202899D8,extended,00000000
+
+[Max Infinite Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Infinite Ammo
+// Max Infinite Ammo
+patch=1,EE,202899D4,extended,240203E7
+
+[Extra Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo
+// Extra Ammo
+patch=1,EE,202899D4,extended,00431023
+
+[Never Reload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Reload
+// Never Reload
+patch=1,EE,2028B674,extended,00000000
+
+[Guns Never Overheat]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Guns Never Overheat
+// Guns Never Overheat
+patch=1,EE,2028AEF4,extended,AE00010C
+
+[Always Max Primary Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Primary Ammo
+// Always Max Primary Ammo
+patch=1,EE,2047BB0C,extended,240403E7
+
+[Always Max Primary Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Primary Ammo
+// Always Max Primary Ammo
+patch=1,EE,2047BB10,extended,AC440000
+
+[Always Max Secondary Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Secondary Ammo
+// Always Max Secondary Ammo
+patch=1,EE,2047D830,extended,24060063
+
+[Always Max Secondary Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Secondary Ammo
+// Always Max Secondary Ammo
+patch=1,EE,2047D834,extended,AC460000
+
+[Halo-Legacy Mode Control Setting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Halo-Legacy Mode Control Setting
+// Halo-Legacy Mode Control Setting
+patch=1,EE,00416DF0,extended,00000004
+
+[Halo-Legacy Mode Control Setting]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Halo-Legacy Mode Control Setting
+// Halo-Legacy Mode Control Setting
+patch=1,EE,00416EB0,extended,00000006
+
+[Always Objective Succeeded]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Objective Succeeded
+// Always Objective Succeeded
+patch=1,EE,201CCDB0,extended,080733AC
+
+[Always Objective Succeeded]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Objective Succeeded
+// Always Objective Succeeded
+patch=1,EE,201CCDB4,extended,00000000
+
+[Unlock All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Levels
+// Unlock All Levels
+patch=1,EE,201D7234,extended,00821821
+
+[Unlock All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Levels
+// Unlock All Levels
+patch=1,EE,201D7238,extended,24020001
+
+[Unlock All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Levels
+// Unlock All Levels
+patch=1,EE,201D723C,extended,AC6202D4
+
+[P1 Press {L2}+Up To Skip FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Up To Skip FMV
+// P1 Press {L2}+Up To Skip FMV
+patch=1,EE,D07C4602,extended,0000FEEF
+
+[P1 Press {L2}+Up To Skip FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Up To Skip FMV
+// P1 Press {L2}+Up To Skip FMV
+patch=1,EE,203CD868,extended,24020001
+
+[P1 Press {L2}+Up To Skip FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Up To Skip FMV
+// P1 Press {L2}+Up To Skip FMV
+patch=1,EE,D07C4602,extended,0000FFFF
+
+[P1 Press {L2}+Up To Skip FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Up To Skip FMV
+// P1 Press {L2}+Up To Skip FMV
+patch=1,EE,203CD868,extended,8C620000
+
+[God Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=God Mode
+// God Mode
+patch=1,EE,005DA45D,extended,00000001
+
+[Lock Circle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lock Circle
+// Lock Circle
+patch=1,EE,005DA460,extended,00000001
+
+[Spread Circle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spread Circle
+// Spread Circle
+patch=1,EE,005DA461,extended,00000001
+
+[Show Coordinates]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Show Coordinates
+// Show Coordinates
+patch=1,EE,005DA462,extended,00000001
+
+[Big Head Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Head Mode
+// Big Head Mode
+patch=1,EE,00514022,extended,00000001
+
+[P1 Press {L2}+{SELECT} For Victory On Current Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For Victory On Current Level
+// P1 Press {L2}+{SELECT} For Victory On Current Level
+patch=1,EE,D07C4602,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} For Victory On Current Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For Victory On Current Level
+// P1 Press {L2}+{SELECT} For Victory On Current Level
+patch=1,EE,00514024,extended,00000001
+
+[P1 Press {L2}+{SELECT} For Victory On Current Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For Victory On Current Level
+// P1 Press {L2}+{SELECT} For Victory On Current Level
+patch=1,EE,D07C4602,extended,0000FFFF
+
+[P1 Press {L2}+{SELECT} For Victory On Current Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} For Victory On Current Level
+// P1 Press {L2}+{SELECT} For Victory On Current Level
+patch=1,EE,00514024,extended,00000000

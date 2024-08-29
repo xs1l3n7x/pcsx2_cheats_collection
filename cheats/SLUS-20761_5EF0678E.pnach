@@ -1,0 +1,91 @@
+gametitle=Dynasty Tactics 2 [SLUS-20761] [5EF0678E]
+
+[Never Gain EXP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Never Gain EXP
+// Never Gain EXP
+patch=1,EE,90114E6C,extended,0C049440
+
+[Infinite Troops (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Troops (In-Battle)
+// Infinite Troops (In-Battle)
+patch=1,EE,200C0220,extended,14C00002
+
+[Infinite Troops (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Troops (In-Battle)
+// Infinite Troops (In-Battle)
+patch=1,EE,200C0224,extended,2401270F
+
+[Infinite Troops (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Troops (In-Battle)
+// Infinite Troops (In-Battle)
+patch=1,EE,200C0228,extended,A4610000
+
+[Infinite Troops (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Troops (In-Battle)
+// Infinite Troops (In-Battle)
+patch=1,EE,200C022C,extended,0827E95C
+
+[Infinite Troops (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Troops (In-Battle)
+// Infinite Troops (In-Battle)
+patch=1,EE,200C0230,extended,00000000
+
+[Infinite Troops (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Troops (In-Battle)
+// Infinite Troops (In-Battle)
+patch=1,EE,2021D048,extended,0C030088
+
+[Instant Enemies Death (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Enemies Death (In-Battle)
+// Instant Enemies Death (In-Battle)
+patch=1,EE,200C0220,extended,54C00003
+
+[Instant Enemies Death (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Enemies Death (In-Battle)
+// Instant Enemies Death (In-Battle)
+patch=1,EE,200C0224,extended,A4600000
+
+[Instant Enemies Death (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Enemies Death (In-Battle)
+// Instant Enemies Death (In-Battle)
+patch=1,EE,200C0228,extended,2401270F
+
+[Instant Enemies Death (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Enemies Death (In-Battle)
+// Instant Enemies Death (In-Battle)
+patch=1,EE,200C022C,extended,A4610000
+
+[Instant Enemies Death (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Enemies Death (In-Battle)
+// Instant Enemies Death (In-Battle)
+patch=1,EE,200C0230,extended,0827E95C
+
+[Instant Enemies Death (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Enemies Death (In-Battle)
+// Instant Enemies Death (In-Battle)
+patch=1,EE,200C0234,extended,00000000
+
+[Instant Enemies Death (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Instant Enemies Death (In-Battle)
+// Instant Enemies Death (In-Battle)
+patch=1,EE,2021D048,extended,0C030088
+
+[Max Craft]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max Craft
+// Max Craft
+patch=1,EE,20B22660,extended,0001869F

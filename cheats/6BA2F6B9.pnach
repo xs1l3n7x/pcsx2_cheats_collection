@@ -1,0 +1,337 @@
+gametitle=7 Sins [UNKNOWN] [6BA2F6B9]
+
+[Max Health (Leon)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max Health (Leon)
+// Max Health (Leon)
+patch=1,EE,1042DCF8,extended,00000960
+
+[Infinite Health (Ashley)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health (Ashley)
+// Infinite Health (Ashley)
+patch=1,EE,201AE3C8,extended,8E215588
+
+[Infinite Health (Ashley)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health (Ashley)
+// Infinite Health (Ashley)
+patch=1,EE,201AE3CC,extended,84227EDC
+
+[Infinite Health (Ashley)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health (Ashley)
+// Infinite Health (Ashley)
+patch=1,EE,201C2A24,extended,00000000
+
+[Infinite Health (Ashley)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health (Ashley)
+// Infinite Health (Ashley)
+patch=1,EE,D0451682,extended,0010F0FF
+
+[Infinite Health (Ashley)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health (Ashley)
+// Infinite Health (Ashley)
+patch=1,EE,201AE3D4,extended,A4227EDA
+
+[Infinite Health (Ashley)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health (Ashley)
+// Infinite Health (Ashley)
+patch=1,EE,D0451682,extended,0000F0FF
+
+[Infinite Health (Ashley)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health (Ashley)
+// Infinite Health (Ashley)
+patch=1,EE,201AE3D4,extended,A4207EDA
+
+[Infinite Health (Leon)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Health (Leon)
+// Infinite Health (Leon)
+patch=1,EE,1042DCF6,extended,00000960
+
+[Max / Infinite Health (Ashley)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max / Infinite Health (Ashley)
+// Max / Infinite Health (Ashley)
+patch=1,EE,1042DCFA,extended,000004B0
+
+[Max / Infinite Health (Ashley)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max / Infinite Health (Ashley)
+// Max / Infinite Health (Ashley)
+patch=1,EE,1042DCFC,extended,000004B0
+
+[Infinite Ammo]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Ammo
+// Infinite Ammo
+patch=1,EE,2012020C,extended,24420000
+
+[Infinite Pesetas]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Pesetas
+// Infinite Pesetas
+patch=1,EE,2042DCEC,extended,0098967F
+
+[Unlock All Contents]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock All Contents
+// Unlock All Contents
+patch=1,EE,104311E6,extended,0000FFFF
+
+[Unlock All Ada's Reports]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Unlock All Ada's Reports
+// Unlock All Ada's Reports
+patch=1,EE,004311ED,extended,00000004
+
+[Walk Through Walls (Main Player) (R3+up activate R3+down desactivate)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Walk Through Walls (Main Player) (R3+up activate R3+down desactivate)
+// Walk Through Walls (Main Player) (R3+up activate R3+down desactivate)
+patch=1,EE,D0451682,extended,0000FFEB
+
+[Walk Through Walls (Main Player) (R3+up activate R3+down desactivate)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Walk Through Walls (Main Player) (R3+up activate R3+down desactivate)
+// Walk Through Walls (Main Player) (R3+up activate R3+down desactivate)
+patch=1,EE,201A2154,extended,00000000
+
+[Walk Through Walls (Main Player) (R3+up activate R3+down desactivate)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Walk Through Walls (Main Player) (R3+up activate R3+down desactivate)
+// Walk Through Walls (Main Player) (R3+up activate R3+down desactivate)
+patch=1,EE,D0451682,extended,0000FFBB
+
+[Walk Through Walls (Main Player) (R3+up activate R3+down desactivate)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Walk Through Walls (Main Player) (R3+up activate R3+down desactivate)
+// Walk Through Walls (Main Player) (R3+up activate R3+down desactivate)
+patch=1,EE,201A2154,extended,0C0688FC
+
+[Walk Through Walls (Ashley) (R3+up activate R3+down desactivate)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Walk Through Walls (Ashley) (R3+up activate R3+down desactivate)
+// Walk Through Walls (Ashley) (R3+up activate R3+down desactivate)
+patch=1,EE,D0451682,extended,0000FFEB
+
+[Walk Through Walls (Ashley) (R3+up activate R3+down desactivate)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Walk Through Walls (Ashley) (R3+up activate R3+down desactivate)
+// Walk Through Walls (Ashley) (R3+up activate R3+down desactivate)
+patch=1,EE,201A232C,extended,00000000
+
+[Walk Through Walls (Ashley) (R3+up activate R3+down desactivate)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Walk Through Walls (Ashley) (R3+up activate R3+down desactivate)
+// Walk Through Walls (Ashley) (R3+up activate R3+down desactivate)
+patch=1,EE,D0451682,extended,0000FFBB
+
+[Walk Through Walls (Ashley) (R3+up activate R3+down desactivate)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Walk Through Walls (Ashley) (R3+up activate R3+down desactivate)
+// Walk Through Walls (Ashley) (R3+up activate R3+down desactivate)
+patch=1,EE,201A232C,extended,0C0688FC
+
+[Block Camera (L3 activate R3 desactivate)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Block Camera (L3 activate R3 desactivate)
+// Block Camera (L3 activate R3 desactivate)
+patch=1,EE,D0451682,extended,0000FFFD
+
+[Block Camera (L3 activate R3 desactivate)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Block Camera (L3 activate R3 desactivate)
+// Block Camera (L3 activate R3 desactivate)
+patch=1,EE,0042DD71,extended,00000000
+
+[Block Camera (L3 activate R3 desactivate)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Block Camera (L3 activate R3 desactivate)
+// Block Camera (L3 activate R3 desactivate)
+patch=1,EE,D0451682,extended,0000FFFB
+
+[Block Camera (L3 activate R3 desactivate)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Block Camera (L3 activate R3 desactivate)
+// Block Camera (L3 activate R3 desactivate)
+patch=1,EE,0042DD71,extended,00000001
+
+[Don't Increment saves]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Don't Increment saves
+// Don't Increment saves
+patch=1,EE,0042DCDA,extended,00000000
+
+[Always have 100% of accuracy]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Always have 100% of accuracy
+// Always have 100% of accuracy
+patch=1,EE,204311C0,extended,00000064
+
+[Always have 100% of accuracy]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Always have 100% of accuracy
+// Always have 100% of accuracy
+patch=1,EE,204311C4,extended,0000270F
+
+[Always have 100% of accuracy]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Always have 100% of accuracy
+// Always have 100% of accuracy
+patch=1,EE,204311C8,extended,00000064
+
+[Always have 100% of accuracy]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Always have 100% of accuracy
+// Always have 100% of accuracy
+patch=1,EE,204311CC,extended,0000270F
+
+[Don't Increment Deaths]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Don't Increment Deaths
+// Don't Increment Deaths
+patch=1,EE,004311B4,extended,00000000
+
+[Max Ennemies Killed]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max Ennemies Killed
+// Max Ennemies Killed
+patch=1,EE,204311B8,extended,000003E7
+
+[Max Ennemies Killed]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Max Ennemies Killed
+// Max Ennemies Killed
+patch=1,EE,204311BC,extended,0000270F
+
+[Mercenaries - Score Max]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Mercenaries - Score Max
+// Mercenaries - Score Max
+patch=1,EE,203CFCEC,extended,05F5E0FF
+
+[Mercenaries - Max Ennemies Killed]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Mercenaries - Max Ennemies Killed
+// Mercenaries - Max Ennemies Killed
+patch=1,EE,203CFD04,extended,0000270F
+
+[Mercenaries - Max Combo]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Mercenaries - Max Combo
+// Mercenaries - Max Combo
+patch=1,EE,203CFCF0,extended,0000270F
+
+[Mercenaries - Stop Time (R3+left activate R3+right desactivate)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Mercenaries - Stop Time (R3+left activate R3+right desactivate)
+// Mercenaries - Stop Time (R3+left activate R3+right desactivate)
+patch=1,EE,D0451682,extended,0000FB7B
+
+[Mercenaries - Stop Time (R3+left activate R3+right desactivate)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Mercenaries - Stop Time (R3+left activate R3+right desactivate)
+// Mercenaries - Stop Time (R3+left activate R3+right desactivate)
+patch=1,EE,1041B8E8,extended,00000DD0
+
+[Mercenaries - Stop Time (R3+left activate R3+right desactivate)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Mercenaries - Stop Time (R3+left activate R3+right desactivate)
+// Mercenaries - Stop Time (R3+left activate R3+right desactivate)
+patch=1,EE,D0451682,extended,0000FBDB
+
+[Mercenaries - Stop Time (R3+left activate R3+right desactivate)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Mercenaries - Stop Time (R3+left activate R3+right desactivate)
+// Mercenaries - Stop Time (R3+left activate R3+right desactivate)
+patch=1,EE,1041B8E8,extended,00000000
+
+[Ashley - Original Outfit]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Ashley - Original Outfit
+// Ashley - Original Outfit
+patch=1,EE,0042DD0D,extended,00000000
+
+[Ashley - Popstart Outfit]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Ashley - Popstart Outfit
+// Ashley - Popstart Outfit
+patch=1,EE,0042DD0D,extended,00000001
+
+[Ashley - Armor Outfit]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Ashley - Armor Outfit
+// Ashley - Armor Outfit
+patch=1,EE,0042DD0D,extended,00000002
+
+[Leon - With Jacket]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Leon - With Jacket
+// Leon - With Jacket
+patch=1,EE,1042DD0A,extended,00000000
+
+[Leon - Without Jacket]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Leon - Without Jacket
+// Leon - Without Jacket
+patch=1,EE,1042DD0A,extended,00000100
+
+[Leon - Invisible]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Leon - Invisible
+// Leon - Invisible
+patch=1,EE,21761108,extended,00000000
+
+[Leon - Giant]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Leon - Giant
+// Leon - Giant
+patch=1,EE,41760FCC,extended,00040001
+
+[Leon - Giant]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Leon - Giant
+// Leon - Giant
+patch=1,EE,40000000,extended,00000000
+
+[Leon - BulletProof]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Leon - BulletProof
+// Leon - BulletProof
+patch=1,EE,1042DD0A,extended,00000200
+
+[Leon - Mafia Outfit]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Leon - Mafia Outfit
+// Leon - Mafia Outfit
+patch=1,EE,1042DD0A,extended,00000400
+
+[Speed - Normal]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Speed - Normal
+// Speed - Normal
+patch=1,EE,20425E98,extended,3f800000
+
+[Speed - Super]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Speed - Super
+// Speed - Super
+patch=1,EE,20425E98,extended,40000000
+
+[Speed - Mega]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Speed - Mega
+// Speed - Mega
+patch=1,EE,20425E98,extended,40400000
+
+[Speed - Hyper]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Speed - Hyper
+// Speed - Hyper
+patch=1,EE,20425E98,extended,41000000

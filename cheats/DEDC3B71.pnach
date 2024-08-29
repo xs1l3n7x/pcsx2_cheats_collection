@@ -1,0 +1,109 @@
+gametitle=PES 2011 [UNKNOWN] [DEDC3B71]
+
+[EXP Multi X8 (Main Character)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=EXP Multi X8 (Main Character)
+// EXP Multi X8 (Main Character)
+patch=1,EE,200A0000,extended,001188C0
+
+[EXP Multi X8 (Main Character)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=EXP Multi X8 (Main Character)
+// EXP Multi X8 (Main Character)
+patch=1,EE,200A0004,extended,08087895
+
+[EXP Multi X8 (Main Character)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=EXP Multi X8 (Main Character)
+// EXP Multi X8 (Main Character)
+patch=1,EE,200A0008,extended,02222021
+
+[EXP Multi X8 (Main Character)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=EXP Multi X8 (Main Character)
+// EXP Multi X8 (Main Character)
+patch=1,EE,2021E250,extended,08028000
+
+[EXP Multi X8 (Main Character)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=EXP Multi X8 (Main Character)
+// EXP Multi X8 (Main Character)
+patch=1,EE,2021E254,extended,00000000
+
+[EXP Multi X8 (Main Character)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=EXP Multi X8 (Main Character)
+// EXP Multi X8 (Main Character)
+patch=1,EE,2021E258,extended,0C041678
+
+[EXP Multi X8 (Main Character)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=EXP Multi X8 (Main Character)
+// EXP Multi X8 (Main Character)
+patch=1,EE,2021E25C,extended,00000000
+
+[EXP Multi X8 (Main Character)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=EXP Multi X8 (Main Character)
+// EXP Multi X8 (Main Character)
+patch=1,EE,2021E260,extended,304200FF
+
+[EXP Multi X8 (Main Character)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=EXP Multi X8 (Main Character)
+// EXP Multi X8 (Main Character)
+patch=1,EE,2021E264,extended,12020003
+
+[Infinite Yen]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Infinite Yen
+// Infinite Yen
+patch=1,EE,2079B68C,extended,05F5E0FF
+
+[Exp Multi X8 (Other Characters)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Exp Multi X8 (Other Characters)
+// Exp Multi X8 (Other Characters)
+patch=1,EE,200A0010,extended,001088C0
+
+[Exp Multi X8 (Other Characters)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Exp Multi X8 (Other Characters)
+// Exp Multi X8 (Other Characters)
+patch=1,EE,200A0014,extended,00701821
+
+[Exp Multi X8 (Other Characters)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Exp Multi X8 (Other Characters)
+// Exp Multi X8 (Other Characters)
+patch=1,EE,200A0018,extended,0804326F
+
+[Exp Multi X8 (Other Characters)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Exp Multi X8 (Other Characters)
+// Exp Multi X8 (Other Characters)
+patch=1,EE,200A001C,extended,AE230008
+
+[Exp Multi X8 (Other Characters)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Exp Multi X8 (Other Characters)
+// Exp Multi X8 (Other Characters)
+patch=1,EE,2010C9B8,extended,08028004
+
+[Exp Multi X8 (Other Characters)]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=Exp Multi X8 (Other Characters)
+// Exp Multi X8 (Other Characters)
+patch=1,EE,2010C9BC,extended,00000000
+
+[MAX HP SP ME]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=MAX HP SP ME
+// MAX HP SP ME
+patch=1,EE,405DD874,extended,0063000B
+
+[MAX HP SP ME]
+author=xs1l3n7x(pnach)/UPC(codes)
+description=MAX HP SP ME
+// MAX HP SP ME
+patch=1,EE,03E703E7,extended,00000000

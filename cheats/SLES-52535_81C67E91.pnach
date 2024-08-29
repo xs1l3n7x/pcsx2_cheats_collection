@@ -1,0 +1,2269 @@
+gametitle=Rumble Roses [SLES-52535] [81C67E91]
+
+[Press {L1}+{L2} For More Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1}+{L2} For More Time
+// Press {L1}+{L2} For More Time
+patch=1,EE,90121E08,extended,00832021
+
+[Infinite Time]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time
+// Infinite Time
+patch=1,EE,20382944,extended,00000000
+
+[Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stop Timer
+// Stop Timer
+patch=1,EE,201C3994,extended,00000000
+
+[P1 Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Timer
+// P1 Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,D1D75F42,extended,0000FBFE
+
+[P1 Press {L1}+{SELECT} To Stop Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{SELECT} To Stop Timer
+// P1 Press {L1}+{SELECT} To Stop Timer
+patch=1,EE,201C3994,extended,00000000
+
+[P1 Press {L2}+{SELECT} To Restart Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Timer
+// P1 Press {L2}+{SELECT} To Restart Timer
+patch=1,EE,D1D75F42,extended,0000FEFE
+
+[P1 Press {L2}+{SELECT} To Restart Timer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+{SELECT} To Restart Timer
+// P1 Press {L2}+{SELECT} To Restart Timer
+patch=1,EE,201C3994,extended,AF8384D4
+
+[Infinite Lethal Moves P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lethal Moves P1
+// Infinite Lethal Moves P1
+patch=1,EE,216D6EEC,extended,00000005
+
+[No Lethal Moves P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Lethal Moves P1
+// No Lethal Moves P1
+patch=1,EE,216D6EEC,extended,00000000
+
+[Always Full Lethal Move Indicator P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Lethal Move Indicator P1
+// Always Full Lethal Move Indicator P1
+patch=1,EE,216D6EF4,extended,00000064
+
+[Always Empty Lethal Move Indicator P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Empty Lethal Move Indicator P1
+// Always Empty Lethal Move Indicator P1
+patch=1,EE,216D6EF4,extended,00000000
+
+[Always No Humiliation P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always No Humiliation P1
+// Always No Humiliation P1
+patch=1,EE,216D6FC8,extended,00000000
+
+[Always No Humiliation P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always No Humiliation P1
+// Always No Humiliation P1
+patch=1,EE,216D6FCC,extended,00000000
+
+[Always No Humiliation P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always No Humiliation P1
+// Always No Humiliation P1
+patch=1,EE,216D6FD0,extended,00000000
+
+[Always Max Humilation P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Humilation P1
+// Always Max Humilation P1
+patch=1,EE,216D6FC8,extended,0000000A
+
+[Always Max Humilation P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Humilation P1
+// Always Max Humilation P1
+patch=1,EE,216D6FCC,extended,41C80000
+
+[Always Max Humilation P1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Humilation P1
+// Always Max Humilation P1
+patch=1,EE,216D6FD0,extended,000003E7
+
+[Infinite Lethal Moves P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Lethal Moves P2
+// Infinite Lethal Moves P2
+patch=1,EE,2156AEEC,extended,00000005
+
+[No Lethal Moves P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=No Lethal Moves P2
+// No Lethal Moves P2
+patch=1,EE,2156AEEC,extended,00000000
+
+[Always Full Lethal Move Indicator P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Full Lethal Move Indicator P2
+// Always Full Lethal Move Indicator P2
+patch=1,EE,2156AEF4,extended,00000064
+
+[Always Empty Lethal Move Indicator P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Empty Lethal Move Indicator P2
+// Always Empty Lethal Move Indicator P2
+patch=1,EE,2156AEF4,extended,00000000
+
+[Always No Humiliation P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always No Humiliation P2
+// Always No Humiliation P2
+patch=1,EE,2156AFC8,extended,00000000
+
+[Always No Humiliation P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always No Humiliation P2
+// Always No Humiliation P2
+patch=1,EE,2156AFCC,extended,00000000
+
+[Always No Humiliation P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always No Humiliation P2
+// Always No Humiliation P2
+patch=1,EE,2156AFD0,extended,00000000
+
+[Always Max Humilation P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Humilation P2
+// Always Max Humilation P2
+patch=1,EE,2156AFC8,extended,0000000A
+
+[Always Max Humilation P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Humilation P2
+// Always Max Humilation P2
+patch=1,EE,2156AFCC,extended,41C80000
+
+[Always Max Humilation P2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Always Max Humilation P2
+// Always Max Humilation P2
+patch=1,EE,2156AFD0,extended,000003E7
+
+[Unlock All Costumes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Costumes
+// Unlock All Costumes
+patch=1,EE,403DA8A0,extended,00070001
+
+[Unlock All Costumes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Costumes
+// Unlock All Costumes
+patch=1,EE,FFFFFFFF,extended,00000000
+
+[Disable Shadows]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Shadows
+// Disable Shadows
+patch=1,EE,201F1048,extended,00000000
+
+[Disable Pinfall Victories]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Pinfall Victories
+// Disable Pinfall Victories
+patch=1,EE,201C449C,extended,00000000
+
+[P1 Press {R1}+{SELECT} To Reset Pin Count To Zero]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} To Reset Pin Count To Zero
+// P1 Press {R1}+{SELECT} To Reset Pin Count To Zero
+patch=1,EE,D1D75F42,extended,0000F7FE
+
+[P1 Press {R1}+{SELECT} To Reset Pin Count To Zero]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} To Reset Pin Count To Zero
+// P1 Press {R1}+{SELECT} To Reset Pin Count To Zero
+patch=1,EE,201C4498,extended,24030000
+
+[P1 Press {R1}+{SELECT} To Reset Pin Count To Zero]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} To Reset Pin Count To Zero
+// P1 Press {R1}+{SELECT} To Reset Pin Count To Zero
+patch=1,EE,D1D75F42,extended,0000FFFF
+
+[P1 Press {R1}+{SELECT} To Reset Pin Count To Zero]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{SELECT} To Reset Pin Count To Zero
+// P1 Press {R1}+{SELECT} To Reset Pin Count To Zero
+patch=1,EE,201C4498,extended,24630001
+
+[P1 Press {R2}+{SELECT} To For 3-Count]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+{SELECT} To For 3-Count
+// P1 Press {R2}+{SELECT} To For 3-Count
+patch=1,EE,D1D75F42,extended,0000FDFE
+
+[P1 Press {R2}+{SELECT} To For 3-Count]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+{SELECT} To For 3-Count
+// P1 Press {R2}+{SELECT} To For 3-Count
+patch=1,EE,201C4498,extended,240300FF
+
+[P1 Press {R2}+{SELECT} To For 3-Count]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+{SELECT} To For 3-Count
+// P1 Press {R2}+{SELECT} To For 3-Count
+patch=1,EE,D1D75F42,extended,0000FFFF
+
+[P1 Press {R2}+{SELECT} To For 3-Count]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+{SELECT} To For 3-Count
+// P1 Press {R2}+{SELECT} To For 3-Count
+patch=1,EE,201C4498,extended,24630001
+
+[First Player To Do A Submission/Humilation Wins]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=First Player To Do A Submission/Humilation Wins
+// First Player To Do A Submission/Humilation Wins
+patch=1,EE,2022DD78,extended,00000000
+
+[Infinite Time To Break Submission/Humilation]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time To Break Submission/Humilation
+// Infinite Time To Break Submission/Humilation
+patch=1,EE,2022DDE4,extended,00000000
+
+[Can Use All Costumes In Mad Mud Match]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Can Use All Costumes In Mad Mud Match
+// Can Use All Costumes In Mad Mud Match
+patch=1,EE,102841EA,extended,00001000
+
+[Disable HUD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable HUD
+// Disable HUD
+patch=1,EE,2029E560,extended,03E00008
+
+[Disable HUD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable HUD
+// Disable HUD
+patch=1,EE,2029E564,extended,00000000
+
+[P1 Press {L1}+{L2} To Disable HUD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L2} To Disable HUD
+// P1 Press {L1}+{L2} To Disable HUD
+patch=1,EE,E002FAFF,extended,01D75F42
+
+[P1 Press {L1}+{L2} To Disable HUD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L2} To Disable HUD
+// P1 Press {L1}+{L2} To Disable HUD
+patch=1,EE,2029E560,extended,03E00008
+
+[P1 Press {L1}+{L2} To Disable HUD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{L2} To Disable HUD
+// P1 Press {L1}+{L2} To Disable HUD
+patch=1,EE,2029E564,extended,00000000
+
+[P1 Press {R1}+{R2} To Re-Enable HUD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{R2} To Re-Enable HUD
+// P1 Press {R1}+{R2} To Re-Enable HUD
+patch=1,EE,E002FAFF,extended,01D75F42
+
+[P1 Press {R1}+{R2} To Re-Enable HUD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{R2} To Re-Enable HUD
+// P1 Press {R1}+{R2} To Re-Enable HUD
+patch=1,EE,2029E560,extended,27BDFE40
+
+[P1 Press {R1}+{R2} To Re-Enable HUD]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+{R2} To Re-Enable HUD
+// P1 Press {R1}+{R2} To Re-Enable HUD
+patch=1,EE,2029E564,extended,FFBF0090
+
+[Disable Health Bars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Health Bars
+// Disable Health Bars
+patch=1,EE,2029EEA0,extended,03E00008
+
+[Disable Health Bars]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Health Bars
+// Disable Health Bars
+patch=1,EE,2029EEA4,extended,00000000
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,202DE260,extended,03E00008
+
+[Idiot AI]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Idiot AI
+// Idiot AI
+patch=1,EE,202DE264,extended,00000000
+
+[Gallery Camera Can Zoom More]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gallery Camera Can Zoom More
+// Gallery Camera Can Zoom More
+patch=1,EE,10304A36,extended,00001000
+
+[Gallery Camera Can Zoom More]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Gallery Camera Can Zoom More
+// Gallery Camera Can Zoom More
+patch=1,EE,20304A54,extended,00000000
+
+[P1 Press {L1}+{R1} To Freeze Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{R1} To Freeze Characters
+// P1 Press {L1}+{R1} To Freeze Characters
+patch=1,EE,D1D75F42,extended,0000F3FF
+
+[P1 Press {L1}+{R1} To Freeze Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{R1} To Freeze Characters
+// P1 Press {L1}+{R1} To Freeze Characters
+patch=1,EE,203829A0,extended,00000001
+
+[P1 Press {L1}+{R2} To Unfreeze Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{R2} To Unfreeze Characters
+// P1 Press {L1}+{R2} To Unfreeze Characters
+patch=1,EE,D1D75F42,extended,0000FCFF
+
+[P1 Press {L1}+{R2} To Unfreeze Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+{R2} To Unfreeze Characters
+// P1 Press {L1}+{R2} To Unfreeze Characters
+patch=1,EE,203829A0,extended,00000000
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C0020,extended,3C07000C
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C0024,extended,24020003
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C0028,extended,00A03021
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C002C,extended,C4C00030
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C0030,extended,C4E10000
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C0034,extended,46000800
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C0038,extended,E4C00030
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C003C,extended,24C60004
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C0040,extended,24E70004
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C0044,extended,2442FFFF
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C0048,extended,1C40FFF8
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C004C,extended,00000000
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C0050,extended,C6400164
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C0054,extended,C4E10000
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C0058,extended,46000800
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C005C,extended,E6400164
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C0060,extended,03E00008
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C0064,extended,3C0340F0
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,201B5C20,extended,0C030008
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,E002FFFF,extended,01D75F42
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,400C0000,extended,00040001
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,00000000,extended,00000000
+
+[P1 Press {R1}+Right To Increase X-Position]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Right To Increase X-Position
+// P1 Press {R1}+Right To Increase X-Position
+patch=1,EE,D1D75F42,extended,0000F7DF
+
+[P1 Press {R1}+Right To Increase X-Position]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Right To Increase X-Position
+// P1 Press {R1}+Right To Increase X-Position
+patch=1,EE,200C0000,extended,3E000000
+
+[P1 Press {L1}+Right To Increase X-Position Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right To Increase X-Position Slower
+// P1 Press {L1}+Right To Increase X-Position Slower
+patch=1,EE,D1D75F42,extended,0000FBDF
+
+[P1 Press {L1}+Right To Increase X-Position Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Right To Increase X-Position Slower
+// P1 Press {L1}+Right To Increase X-Position Slower
+patch=1,EE,200C0000,extended,3D000000
+
+[P1 Press {R1}+Left To Decrease X-Position]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Left To Decrease X-Position
+// P1 Press {R1}+Left To Decrease X-Position
+patch=1,EE,D1D75F42,extended,0000F77F
+
+[P1 Press {R1}+Left To Decrease X-Position]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Left To Decrease X-Position
+// P1 Press {R1}+Left To Decrease X-Position
+patch=1,EE,200C0000,extended,BE000000
+
+[P1 Press {L1}+Left To Decrease X-Position Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Left To Decrease X-Position Slower
+// P1 Press {L1}+Left To Decrease X-Position Slower
+patch=1,EE,D1D75F42,extended,0000FB7F
+
+[P1 Press {L1}+Left To Decrease X-Position Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Left To Decrease X-Position Slower
+// P1 Press {L1}+Left To Decrease X-Position Slower
+patch=1,EE,200C0000,extended,BD000000
+
+[P1 Press {R1}+Up To Increase Y-Position]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Up To Increase Y-Position
+// P1 Press {R1}+Up To Increase Y-Position
+patch=1,EE,D1D75F42,extended,0000F7EF
+
+[P1 Press {R1}+Up To Increase Y-Position]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Up To Increase Y-Position
+// P1 Press {R1}+Up To Increase Y-Position
+patch=1,EE,200C0004,extended,3E000000
+
+[P1 Press {L1}+Up To Increase Y-Position Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up To Increase Y-Position Slower
+// P1 Press {L1}+Up To Increase Y-Position Slower
+patch=1,EE,D1D75F42,extended,0000FBEF
+
+[P1 Press {L1}+Up To Increase Y-Position Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up To Increase Y-Position Slower
+// P1 Press {L1}+Up To Increase Y-Position Slower
+patch=1,EE,200C0004,extended,3D000000
+
+[P1 Press {R1}+Down To Decrease Y-Position]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Down To Decrease Y-Position
+// P1 Press {R1}+Down To Decrease Y-Position
+patch=1,EE,D1D75F42,extended,0000F7BF
+
+[P1 Press {R1}+Down To Decrease Y-Position]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R1}+Down To Decrease Y-Position
+// P1 Press {R1}+Down To Decrease Y-Position
+patch=1,EE,200C0004,extended,BE000000
+
+[P1 Press {L1}+Down To Decrease Y-Position Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Decrease Y-Position Slower
+// P1 Press {L1}+Down To Decrease Y-Position Slower
+patch=1,EE,D1D75F42,extended,0000FBBF
+
+[P1 Press {L1}+Down To Decrease Y-Position Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Down To Decrease Y-Position Slower
+// P1 Press {L1}+Down To Decrease Y-Position Slower
+patch=1,EE,200C0004,extended,BD000000
+
+[P1 Press {R2}+Right To Increase Z-Position]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+Right To Increase Z-Position
+// P1 Press {R2}+Right To Increase Z-Position
+patch=1,EE,D1D75F42,extended,0000FDDF
+
+[P1 Press {R2}+Right To Increase Z-Position]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+Right To Increase Z-Position
+// P1 Press {R2}+Right To Increase Z-Position
+patch=1,EE,200C0008,extended,3E000000
+
+[P1 Press {L2}+Right To Increase Z-Position Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Right To Increase Z-Position Slower
+// P1 Press {L2}+Right To Increase Z-Position Slower
+patch=1,EE,D1D75F42,extended,0000FEDF
+
+[P1 Press {L2}+Right To Increase Z-Position Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Right To Increase Z-Position Slower
+// P1 Press {L2}+Right To Increase Z-Position Slower
+patch=1,EE,200C0008,extended,3D000000
+
+[P1 Press {R2}+Left To Decrease Z-Position]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+Left To Decrease Z-Position
+// P1 Press {R2}+Left To Decrease Z-Position
+patch=1,EE,D1D75F42,extended,0000FD7F
+
+[P1 Press {R2}+Left To Decrease Z-Position]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+Left To Decrease Z-Position
+// P1 Press {R2}+Left To Decrease Z-Position
+patch=1,EE,200C0008,extended,BE000000
+
+[P1 Press {L2}+Left To Decrease Z-Position Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Left To Decrease Z-Position Slower
+// P1 Press {L2}+Left To Decrease Z-Position Slower
+patch=1,EE,D1D75F42,extended,0000FE7F
+
+[P1 Press {L2}+Left To Decrease Z-Position Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Left To Decrease Z-Position Slower
+// P1 Press {L2}+Left To Decrease Z-Position Slower
+patch=1,EE,200C0008,extended,BD000000
+
+[P1 Press {R2}+Up To Zoom Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+Up To Zoom Out
+// P1 Press {R2}+Up To Zoom Out
+patch=1,EE,D1D75F42,extended,0000FDEF
+
+[P1 Press {R2}+Up To Zoom Out]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+Up To Zoom Out
+// P1 Press {R2}+Up To Zoom Out
+patch=1,EE,200C000C,extended,3D000000
+
+[P1 Press {L2}+Up To Zoom Out Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Up To Zoom Out Slower
+// P1 Press {L2}+Up To Zoom Out Slower
+patch=1,EE,D1D75F42,extended,0000FEEF
+
+[P1 Press {L2}+Up To Zoom Out Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Up To Zoom Out Slower
+// P1 Press {L2}+Up To Zoom Out Slower
+patch=1,EE,200C000C,extended,3C000000
+
+[P1 Press {R2}+Down To Zoom In]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+Down To Zoom In
+// P1 Press {R2}+Down To Zoom In
+patch=1,EE,D1D75F42,extended,0000FDBF
+
+[P1 Press {R2}+Down To Zoom In]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R2}+Down To Zoom In
+// P1 Press {R2}+Down To Zoom In
+patch=1,EE,200C000C,extended,BD000000
+
+[P1 Press {L2}+Down To Zoom In Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Down To Zoom In Slower
+// P1 Press {L2}+Down To Zoom In Slower
+patch=1,EE,D1D75F42,extended,0000FEBF
+
+[P1 Press {L2}+Down To Zoom In Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L2}+Down To Zoom In Slower
+// P1 Press {L2}+Down To Zoom In Slower
+patch=1,EE,200C000C,extended,BC000000
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C0080,extended,3C07000C
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C0084,extended,C6A00054
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C0088,extended,C4E10010
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C008C,extended,46000800
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C0090,extended,E6A00054
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C0094,extended,C6A00058
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C0098,extended,C4E10014
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C009C,extended,46000800
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C00A0,extended,0806D779
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C00A4,extended,E6A00058
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,E006FFFF,extended,01D75F42
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C0010,extended,00000000
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,200C0014,extended,00000000
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,201B5DAC,extended,00000000
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,201B5DC4,extended,00000000
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,201B5DD0,extended,00000000
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,201B5DD8,extended,08030020
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,E004FFF9,extended,01D75F42
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,201B5DAC,extended,AEA30054
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,201B5DC4,extended,AEA30054
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,201B5DD0,extended,AEA30054
+
+[Activation Code (Use With Frozen Characters)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Activation Code (Use With Frozen Characters)
+// Activation Code (Use With Frozen Characters)
+patch=1,EE,201B5DD8,extended,3C03BE68
+
+[P1 Press {R3}+Up To Scale Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+Up To Scale Up
+// P1 Press {R3}+Up To Scale Up
+patch=1,EE,D1D75F42,extended,0000FFEB
+
+[P1 Press {R3}+Up To Scale Up]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+Up To Scale Up
+// P1 Press {R3}+Up To Scale Up
+patch=1,EE,200C0010,extended,3B800000
+
+[P1 Press {L3}+Up To Scale Up Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3}+Up To Scale Up Slower
+// P1 Press {L3}+Up To Scale Up Slower
+patch=1,EE,D1D75F42,extended,0000FFED
+
+[P1 Press {L3}+Up To Scale Up Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3}+Up To Scale Up Slower
+// P1 Press {L3}+Up To Scale Up Slower
+patch=1,EE,200C0010,extended,3A800000
+
+[P1 Press {R3}+Down To Scale Down]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+Down To Scale Down
+// P1 Press {R3}+Down To Scale Down
+patch=1,EE,D1D75F42,extended,0000FFBB
+
+[P1 Press {R3}+Down To Scale Down]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+Down To Scale Down
+// P1 Press {R3}+Down To Scale Down
+patch=1,EE,200C0010,extended,BB800000
+
+[P1 Press {R3}+Down To Scale Down Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+Down To Scale Down Slower
+// P1 Press {R3}+Down To Scale Down Slower
+patch=1,EE,D1D75F42,extended,0000FFBD
+
+[P1 Press {R3}+Down To Scale Down Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+Down To Scale Down Slower
+// P1 Press {R3}+Down To Scale Down Slower
+patch=1,EE,200C0010,extended,BA800000
+
+[P1 Press {R3}+Right To Rotate Right]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+Right To Rotate Right
+// P1 Press {R3}+Right To Rotate Right
+patch=1,EE,D1D75F42,extended,0000FFDB
+
+[P1 Press {R3}+Right To Rotate Right]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+Right To Rotate Right
+// P1 Press {R3}+Right To Rotate Right
+patch=1,EE,200C0014,extended,3B800000
+
+[P1 Press {L3}+Right To Rotate Right Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3}+Right To Rotate Right Slower
+// P1 Press {L3}+Right To Rotate Right Slower
+patch=1,EE,D1D75F42,extended,0000FFDD
+
+[P1 Press {L3}+Right To Rotate Right Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3}+Right To Rotate Right Slower
+// P1 Press {L3}+Right To Rotate Right Slower
+patch=1,EE,200C0014,extended,3A800000
+
+[P1 Press {R3}+Left To Rotate Left]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+Left To Rotate Left
+// P1 Press {R3}+Left To Rotate Left
+patch=1,EE,D1D75F42,extended,0000FF7B
+
+[P1 Press {R3}+Left To Rotate Left]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {R3}+Left To Rotate Left
+// P1 Press {R3}+Left To Rotate Left
+patch=1,EE,200C0014,extended,BB800000
+
+[P1 Press {L3}+Left To Rotate Left Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3}+Left To Rotate Left Slower
+// P1 Press {L3}+Left To Rotate Left Slower
+patch=1,EE,D1D75F42,extended,0000FF7D
+
+[P1 Press {L3}+Left To Rotate Left Slower]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L3}+Left To Rotate Left Slower
+// P1 Press {L3}+Left To Rotate Left Slower
+patch=1,EE,200C0014,extended,BA800000
+
+[Reiko Hinomoto]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reiko Hinomoto
+// Reiko Hinomoto
+patch=1,EE,003DA852,extended,00000001
+
+[Rowdy Reiko]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rowdy Reiko
+// Rowdy Reiko
+patch=1,EE,003DA853,extended,00000001
+
+[Makoto Aihara]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Makoto Aihara
+// Makoto Aihara
+patch=1,EE,003DA854,extended,00000001
+
+[The Black Belt Demon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Black Belt Demon
+// The Black Belt Demon
+patch=1,EE,003DA855,extended,00000001
+
+[Noble Rose]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Noble Rose
+// Noble Rose
+patch=1,EE,003DA856,extended,00000001
+
+[Evil Rose]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Evil Rose
+// Evil Rose
+patch=1,EE,003DA857,extended,00000001
+
+[Judgment]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Judgment
+// Judgment
+patch=1,EE,003DA858,extended,00000001
+
+[Bloody Shadow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bloody Shadow
+// Bloody Shadow
+patch=1,EE,003DA859,extended,00000001
+
+[Aigle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aigle
+// Aigle
+patch=1,EE,003DA85A,extended,00000001
+
+[Killer Khan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Killer Khan
+// Killer Khan
+patch=1,EE,003DA85B,extended,00000001
+
+[Dixie Clemets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dixie Clemets
+// Dixie Clemets
+patch=1,EE,003DA85C,extended,00000001
+
+[Sgt. Clemets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sgt. Clemets
+// Sgt. Clemets
+patch=1,EE,003DA85D,extended,00000001
+
+[Becky]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Becky
+// Becky
+patch=1,EE,003DA85E,extended,00000001
+
+[Candy Cane]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Candy Cane
+// Candy Cane
+patch=1,EE,003DA85F,extended,00000001
+
+[Miss Spencer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Miss Spencer
+// Miss Spencer
+patch=1,EE,003DA860,extended,00000001
+
+[Mistress Spencer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mistress Spencer
+// Mistress Spencer
+patch=1,EE,003DA861,extended,00000001
+
+[Anesthesia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anesthesia
+// Anesthesia
+patch=1,EE,003DA862,extended,00000001
+
+[Dr. Cutter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dr. Cutter
+// Dr. Cutter
+patch=1,EE,003DA863,extended,00000001
+
+[Aisha]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aisha
+// Aisha
+patch=1,EE,003DA864,extended,00000001
+
+[Showbiz]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Showbiz
+// Showbiz
+patch=1,EE,003DA865,extended,00000001
+
+[All Story Mode Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Story Mode Characters
+// All Story Mode Characters
+patch=1,EE,103DA852,extended,00000101
+
+[All Story Mode Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Story Mode Characters
+// All Story Mode Characters
+patch=1,EE,403DA854,extended,00040001
+
+[All Story Mode Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Story Mode Characters
+// All Story Mode Characters
+patch=1,EE,01010101,extended,00000000
+
+[All Story Mode Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Story Mode Characters
+// All Story Mode Characters
+patch=1,EE,103DA864,extended,00000101
+
+[Unlock All Exhibition Mode Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Exhibition Mode Characters
+// Unlock All Exhibition Mode Characters
+patch=1,EE,403DA86C,extended,00050001
+
+[Unlock All Exhibition Mode Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Exhibition Mode Characters
+// Unlock All Exhibition Mode Characters
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Exhibition Mode Characters]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Exhibition Mode Characters
+// Unlock All Exhibition Mode Characters
+patch=1,EE,103DA880,extended,00000101
+
+[Unlock All Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Gallery
+// Unlock All Gallery
+patch=1,EE,103DA886,extended,00000101
+
+[Unlock All Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Gallery
+// Unlock All Gallery
+patch=1,EE,403DA888,extended,00040001
+
+[Unlock All Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Gallery
+// Unlock All Gallery
+patch=1,EE,01010101,extended,00000000
+
+[Unlock All Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Gallery
+// Unlock All Gallery
+patch=1,EE,103DA898,extended,00000101
+
+[Exhibition-Ring 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exhibition-Ring 1
+// Exhibition-Ring 1
+patch=1,EE,003D7CE0,extended,00000000
+
+[Exhibition-Ring 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exhibition-Ring 2
+// Exhibition-Ring 2
+patch=1,EE,003D7CE0,extended,00000001
+
+[Exhibition-Ring 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Exhibition-Ring 3
+// Exhibition-Ring 3
+patch=1,EE,003D7CE0,extended,00000002
+
+[Beach-Ring 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Beach-Ring 1
+// Beach-Ring 1
+patch=1,EE,003D7CE0,extended,00000003
+
+[Mad Mud-Stage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mad Mud-Stage
+// Mad Mud-Stage
+patch=1,EE,003D7CE0,extended,00000009
+
+[Back Stage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Stage
+// Back Stage
+patch=1,EE,003D7CE0,extended,0000000A
+
+[Back Stage 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Stage 2
+// Back Stage 2
+patch=1,EE,003D7CE0,extended,0000000B
+
+[Warehouse Stage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Warehouse Stage
+// Warehouse Stage
+patch=1,EE,003D7CE0,extended,0000000C
+
+[Beach Stage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Beach Stage
+// Beach Stage
+patch=1,EE,003D7CE0,extended,0000000D
+
+[Reiko Hinomoto]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reiko Hinomoto
+// Reiko Hinomoto
+patch=1,EE,003D7BC6,extended,00000000
+
+[Reiko Hinomoto]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reiko Hinomoto
+// Reiko Hinomoto
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Reiko Hinomoto]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reiko Hinomoto
+// Reiko Hinomoto
+patch=1,EE,21D5548C,extended,00000000
+
+[Rowdy Reiko]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rowdy Reiko
+// Rowdy Reiko
+patch=1,EE,003D7BC6,extended,00000000
+
+[Rowdy Reiko]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rowdy Reiko
+// Rowdy Reiko
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Rowdy Reiko]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rowdy Reiko
+// Rowdy Reiko
+patch=1,EE,21D5548C,extended,00000064
+
+[Makoto Aihara]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Makoto Aihara
+// Makoto Aihara
+patch=1,EE,003D7BC6,extended,00000000
+
+[Makoto Aihara]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Makoto Aihara
+// Makoto Aihara
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Makoto Aihara]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Makoto Aihara
+// Makoto Aihara
+patch=1,EE,21D5548C,extended,000000C8
+
+[The Black Belt Demon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Black Belt Demon
+// The Black Belt Demon
+patch=1,EE,003D7BC6,extended,00000000
+
+[The Black Belt Demon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Black Belt Demon
+// The Black Belt Demon
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[The Black Belt Demon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Black Belt Demon
+// The Black Belt Demon
+patch=1,EE,21D5548C,extended,0000012C
+
+[Noble Rose]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Noble Rose
+// Noble Rose
+patch=1,EE,003D7BC6,extended,00000000
+
+[Noble Rose]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Noble Rose
+// Noble Rose
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Noble Rose]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Noble Rose
+// Noble Rose
+patch=1,EE,21D5548C,extended,00000190
+
+[Evil Rose]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Evil Rose
+// Evil Rose
+patch=1,EE,003D7BC6,extended,00000000
+
+[Evil Rose]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Evil Rose
+// Evil Rose
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Evil Rose]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Evil Rose
+// Evil Rose
+patch=1,EE,21D5548C,extended,000001F4
+
+[Judgement]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Judgement
+// Judgement
+patch=1,EE,003D7BC6,extended,00000000
+
+[Judgement]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Judgement
+// Judgement
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Judgement]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Judgement
+// Judgement
+patch=1,EE,21D5548C,extended,00000258
+
+[Bloody Shadow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bloody Shadow
+// Bloody Shadow
+patch=1,EE,003D7BC6,extended,00000000
+
+[Bloody Shadow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bloody Shadow
+// Bloody Shadow
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Bloody Shadow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bloody Shadow
+// Bloody Shadow
+patch=1,EE,21D5548C,extended,000002BC
+
+[Aigle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aigle
+// Aigle
+patch=1,EE,003D7BC6,extended,00000000
+
+[Aigle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aigle
+// Aigle
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Aigle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aigle
+// Aigle
+patch=1,EE,21D5548C,extended,00000320
+
+[Killer Khan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Killer Khan
+// Killer Khan
+patch=1,EE,003D7BC6,extended,00000000
+
+[Killer Khan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Killer Khan
+// Killer Khan
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Killer Khan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Killer Khan
+// Killer Khan
+patch=1,EE,21D5548C,extended,00000384
+
+[Dixie Clemets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dixie Clemets
+// Dixie Clemets
+patch=1,EE,003D7BC6,extended,00000000
+
+[Dixie Clemets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dixie Clemets
+// Dixie Clemets
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Dixie Clemets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dixie Clemets
+// Dixie Clemets
+patch=1,EE,21D5548C,extended,000003E8
+
+[Sgt. Clemets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sgt. Clemets
+// Sgt. Clemets
+patch=1,EE,003D7BC6,extended,00000000
+
+[Sgt. Clemets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sgt. Clemets
+// Sgt. Clemets
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Sgt. Clemets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sgt. Clemets
+// Sgt. Clemets
+patch=1,EE,21D5548C,extended,0000044C
+
+[Becky]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Becky
+// Becky
+patch=1,EE,003D7BC6,extended,00000000
+
+[Becky]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Becky
+// Becky
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Becky]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Becky
+// Becky
+patch=1,EE,21D5548C,extended,000004B0
+
+[Candy Cane]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Candy Cane
+// Candy Cane
+patch=1,EE,003D7BC6,extended,00000000
+
+[Candy Cane]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Candy Cane
+// Candy Cane
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Candy Cane]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Candy Cane
+// Candy Cane
+patch=1,EE,21D5548C,extended,00000514
+
+[Miss Spencer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Miss Spencer
+// Miss Spencer
+patch=1,EE,003D7BC6,extended,00000000
+
+[Miss Spencer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Miss Spencer
+// Miss Spencer
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Miss Spencer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Miss Spencer
+// Miss Spencer
+patch=1,EE,21D5548C,extended,00000578
+
+[Mistress Spencer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mistress Spencer
+// Mistress Spencer
+patch=1,EE,003D7BC6,extended,00000000
+
+[Mistress Spencer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mistress Spencer
+// Mistress Spencer
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Mistress Spencer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mistress Spencer
+// Mistress Spencer
+patch=1,EE,21D5548C,extended,000005DC
+
+[Anesthesia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anesthesia
+// Anesthesia
+patch=1,EE,003D7BC6,extended,00000000
+
+[Anesthesia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anesthesia
+// Anesthesia
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Anesthesia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anesthesia
+// Anesthesia
+patch=1,EE,21D5548C,extended,00000640
+
+[Dr. Cutter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dr. Cutter
+// Dr. Cutter
+patch=1,EE,003D7BC6,extended,00000000
+
+[Dr. Cutter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dr. Cutter
+// Dr. Cutter
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Dr. Cutter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dr. Cutter
+// Dr. Cutter
+patch=1,EE,21D5548C,extended,000006A4
+
+[Aisha]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aisha
+// Aisha
+patch=1,EE,003D7BC6,extended,00000000
+
+[Aisha]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aisha
+// Aisha
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Aisha]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aisha
+// Aisha
+patch=1,EE,21D5548C,extended,00000708
+
+[Showbiz]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Showbiz
+// Showbiz
+patch=1,EE,003D7BC6,extended,00000000
+
+[Showbiz]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Showbiz
+// Showbiz
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Showbiz]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Showbiz
+// Showbiz
+patch=1,EE,21D5548C,extended,0000076C
+
+[Lady X]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lady X
+// Lady X
+patch=1,EE,003D7BC6,extended,00000000
+
+[Lady X]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lady X
+// Lady X
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Lady X]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lady X
+// Lady X
+patch=1,EE,21D5548C,extended,000007D0
+
+[Lady X Substance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lady X Substance
+// Lady X Substance
+patch=1,EE,003D7BC6,extended,00000000
+
+[Lady X Substance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lady X Substance
+// Lady X Substance
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Lady X Substance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lady X Substance
+// Lady X Substance
+patch=1,EE,21D5548C,extended,00000834
+
+[Back Dancer 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Dancer 1
+// Back Dancer 1
+patch=1,EE,003D7BC6,extended,00000000
+
+[Back Dancer 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Dancer 1
+// Back Dancer 1
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Back Dancer 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Dancer 1
+// Back Dancer 1
+patch=1,EE,21D5548C,extended,00000898
+
+[Back Dancer 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Dancer 2
+// Back Dancer 2
+patch=1,EE,003D7BC6,extended,00000000
+
+[Back Dancer 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Dancer 2
+// Back Dancer 2
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Back Dancer 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Dancer 2
+// Back Dancer 2
+patch=1,EE,21D5548C,extended,000008FC
+
+[Manager]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manager
+// Manager
+patch=1,EE,003D7BC6,extended,00000000
+
+[Manager]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manager
+// Manager
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Manager]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manager
+// Manager
+patch=1,EE,21D5548C,extended,00000960
+
+[Dance Par Teachers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dance Par Teachers
+// Dance Par Teachers
+patch=1,EE,003D7BC6,extended,00000000
+
+[Dance Par Teachers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dance Par Teachers
+// Dance Par Teachers
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Dance Par Teachers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dance Par Teachers
+// Dance Par Teachers
+patch=1,EE,21D5548C,extended,000009C4
+
+[Back Cheer 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Cheer 1
+// Back Cheer 1
+patch=1,EE,003D7BC6,extended,00000000
+
+[Back Cheer 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Cheer 1
+// Back Cheer 1
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Back Cheer 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Cheer 1
+// Back Cheer 1
+patch=1,EE,21D5548C,extended,00000A28
+
+[Back Cheer 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Cheer 2
+// Back Cheer 2
+patch=1,EE,003D7BC6,extended,00000000
+
+[Back Cheer 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Cheer 2
+// Back Cheer 2
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Back Cheer 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Cheer 2
+// Back Cheer 2
+patch=1,EE,21D5548C,extended,00000A8C
+
+[Tiny Character?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiny Character?
+// Tiny Character?
+patch=1,EE,003D7BC6,extended,00000000
+
+[Tiny Character?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiny Character?
+// Tiny Character?
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Tiny Character?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiny Character?
+// Tiny Character?
+patch=1,EE,21D5548C,extended,00000AF0
+
+[Huge Character?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Character?
+// Huge Character?
+patch=1,EE,003D7BC6,extended,00000000
+
+[Huge Character?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Character?
+// Huge Character?
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Huge Character?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Character?
+// Huge Character?
+patch=1,EE,21D5548C,extended,00000B54
+
+[Invisible Character?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisible Character?
+// Invisible Character?
+patch=1,EE,003D7BC6,extended,00000000
+
+[Invisible Character?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisible Character?
+// Invisible Character?
+patch=1,EE,D1D75F42,extended,0000BBFF
+
+[Invisible Character?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisible Character?
+// Invisible Character?
+patch=1,EE,21D5548C,extended,00000BB8
+
+[Reiko Hinomoto]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reiko Hinomoto
+// Reiko Hinomoto
+patch=1,EE,003D7BC6,extended,00000000
+
+[Reiko Hinomoto]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reiko Hinomoto
+// Reiko Hinomoto
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Reiko Hinomoto]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Reiko Hinomoto
+// Reiko Hinomoto
+patch=1,EE,21D556FC,extended,00000000
+
+[Rowdy Reiko]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rowdy Reiko
+// Rowdy Reiko
+patch=1,EE,003D7BC6,extended,00000000
+
+[Rowdy Reiko]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rowdy Reiko
+// Rowdy Reiko
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Rowdy Reiko]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rowdy Reiko
+// Rowdy Reiko
+patch=1,EE,21D556FC,extended,00000064
+
+[Makoto Aihara]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Makoto Aihara
+// Makoto Aihara
+patch=1,EE,003D7BC6,extended,00000000
+
+[Makoto Aihara]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Makoto Aihara
+// Makoto Aihara
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Makoto Aihara]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Makoto Aihara
+// Makoto Aihara
+patch=1,EE,21D556FC,extended,000000C8
+
+[The Black Belt Demon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Black Belt Demon
+// The Black Belt Demon
+patch=1,EE,003D7BC6,extended,00000000
+
+[The Black Belt Demon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Black Belt Demon
+// The Black Belt Demon
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[The Black Belt Demon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=The Black Belt Demon
+// The Black Belt Demon
+patch=1,EE,21D556FC,extended,0000012C
+
+[Noble Rose]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Noble Rose
+// Noble Rose
+patch=1,EE,003D7BC6,extended,00000000
+
+[Noble Rose]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Noble Rose
+// Noble Rose
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Noble Rose]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Noble Rose
+// Noble Rose
+patch=1,EE,21D556FC,extended,00000190
+
+[Evil Rose]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Evil Rose
+// Evil Rose
+patch=1,EE,003D7BC6,extended,00000000
+
+[Evil Rose]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Evil Rose
+// Evil Rose
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Evil Rose]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Evil Rose
+// Evil Rose
+patch=1,EE,21D556FC,extended,000001F4
+
+[Judgement]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Judgement
+// Judgement
+patch=1,EE,003D7BC6,extended,00000000
+
+[Judgement]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Judgement
+// Judgement
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Judgement]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Judgement
+// Judgement
+patch=1,EE,21D556FC,extended,00000258
+
+[Bloody Shadow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bloody Shadow
+// Bloody Shadow
+patch=1,EE,003D7BC6,extended,00000000
+
+[Bloody Shadow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bloody Shadow
+// Bloody Shadow
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Bloody Shadow]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bloody Shadow
+// Bloody Shadow
+patch=1,EE,21D556FC,extended,000002BC
+
+[Aigle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aigle
+// Aigle
+patch=1,EE,003D7BC6,extended,00000000
+
+[Aigle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aigle
+// Aigle
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Aigle]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aigle
+// Aigle
+patch=1,EE,21D556FC,extended,00000320
+
+[Killer Khan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Killer Khan
+// Killer Khan
+patch=1,EE,003D7BC6,extended,00000000
+
+[Killer Khan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Killer Khan
+// Killer Khan
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Killer Khan]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Killer Khan
+// Killer Khan
+patch=1,EE,21D556FC,extended,00000384
+
+[Dixie Clemets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dixie Clemets
+// Dixie Clemets
+patch=1,EE,003D7BC6,extended,00000000
+
+[Dixie Clemets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dixie Clemets
+// Dixie Clemets
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Dixie Clemets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dixie Clemets
+// Dixie Clemets
+patch=1,EE,21D556FC,extended,000003E8
+
+[Sgt. Clemets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sgt. Clemets
+// Sgt. Clemets
+patch=1,EE,003D7BC6,extended,00000000
+
+[Sgt. Clemets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sgt. Clemets
+// Sgt. Clemets
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Sgt. Clemets]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sgt. Clemets
+// Sgt. Clemets
+patch=1,EE,21D556FC,extended,0000044C
+
+[Becky]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Becky
+// Becky
+patch=1,EE,003D7BC6,extended,00000000
+
+[Becky]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Becky
+// Becky
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Becky]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Becky
+// Becky
+patch=1,EE,21D556FC,extended,000004B0
+
+[Candy Cane]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Candy Cane
+// Candy Cane
+patch=1,EE,003D7BC6,extended,00000000
+
+[Candy Cane]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Candy Cane
+// Candy Cane
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Candy Cane]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Candy Cane
+// Candy Cane
+patch=1,EE,21D556FC,extended,00000514
+
+[Miss Spencer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Miss Spencer
+// Miss Spencer
+patch=1,EE,003D7BC6,extended,00000000
+
+[Miss Spencer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Miss Spencer
+// Miss Spencer
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Miss Spencer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Miss Spencer
+// Miss Spencer
+patch=1,EE,21D556FC,extended,00000578
+
+[Mistress Spencer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mistress Spencer
+// Mistress Spencer
+patch=1,EE,003D7BC6,extended,00000000
+
+[Mistress Spencer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mistress Spencer
+// Mistress Spencer
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Mistress Spencer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mistress Spencer
+// Mistress Spencer
+patch=1,EE,21D556FC,extended,000005DC
+
+[Anesthesia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anesthesia
+// Anesthesia
+patch=1,EE,003D7BC6,extended,00000000
+
+[Anesthesia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anesthesia
+// Anesthesia
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Anesthesia]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Anesthesia
+// Anesthesia
+patch=1,EE,21D556FC,extended,00000640
+
+[Dr. Cutter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dr. Cutter
+// Dr. Cutter
+patch=1,EE,003D7BC6,extended,00000000
+
+[Dr. Cutter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dr. Cutter
+// Dr. Cutter
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Dr. Cutter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dr. Cutter
+// Dr. Cutter
+patch=1,EE,21D556FC,extended,000006A4
+
+[Aisha]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aisha
+// Aisha
+patch=1,EE,003D7BC6,extended,00000000
+
+[Aisha]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aisha
+// Aisha
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Aisha]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Aisha
+// Aisha
+patch=1,EE,21D556FC,extended,00000708
+
+[Showbiz]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Showbiz
+// Showbiz
+patch=1,EE,003D7BC6,extended,00000000
+
+[Showbiz]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Showbiz
+// Showbiz
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Showbiz]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Showbiz
+// Showbiz
+patch=1,EE,21D556FC,extended,0000076C
+
+[Lady X]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lady X
+// Lady X
+patch=1,EE,003D7BC6,extended,00000000
+
+[Lady X]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lady X
+// Lady X
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Lady X]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lady X
+// Lady X
+patch=1,EE,21D556FC,extended,000007D0
+
+[Lady X Substance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lady X Substance
+// Lady X Substance
+patch=1,EE,003D7BC6,extended,00000000
+
+[Lady X Substance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lady X Substance
+// Lady X Substance
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Lady X Substance]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Lady X Substance
+// Lady X Substance
+patch=1,EE,21D556FC,extended,00000834
+
+[Back Dancer 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Dancer 1
+// Back Dancer 1
+patch=1,EE,003D7BC6,extended,00000000
+
+[Back Dancer 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Dancer 1
+// Back Dancer 1
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Back Dancer 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Dancer 1
+// Back Dancer 1
+patch=1,EE,21D556FC,extended,00000898
+
+[Back Dancer 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Dancer 2
+// Back Dancer 2
+patch=1,EE,003D7BC6,extended,00000000
+
+[Back Dancer 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Dancer 2
+// Back Dancer 2
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Back Dancer 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Dancer 2
+// Back Dancer 2
+patch=1,EE,21D556FC,extended,000008FC
+
+[Manager]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manager
+// Manager
+patch=1,EE,003D7BC6,extended,00000000
+
+[Manager]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manager
+// Manager
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Manager]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Manager
+// Manager
+patch=1,EE,21D556FC,extended,00000960
+
+[Dance Par Teachers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dance Par Teachers
+// Dance Par Teachers
+patch=1,EE,003D7BC6,extended,00000000
+
+[Dance Par Teachers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dance Par Teachers
+// Dance Par Teachers
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Dance Par Teachers]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Dance Par Teachers
+// Dance Par Teachers
+patch=1,EE,21D556FC,extended,000009C4
+
+[Back Cheer 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Cheer 1
+// Back Cheer 1
+patch=1,EE,003D7BC6,extended,00000000
+
+[Back Cheer 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Cheer 1
+// Back Cheer 1
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Back Cheer 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Cheer 1
+// Back Cheer 1
+patch=1,EE,21D556FC,extended,00000A28
+
+[Back Cheer 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Cheer 2
+// Back Cheer 2
+patch=1,EE,003D7BC6,extended,00000000
+
+[Back Cheer 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Cheer 2
+// Back Cheer 2
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Back Cheer 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Back Cheer 2
+// Back Cheer 2
+patch=1,EE,21D556FC,extended,00000A8C
+
+[Tiny Character?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiny Character?
+// Tiny Character?
+patch=1,EE,003D7BC6,extended,00000000
+
+[Tiny Character?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiny Character?
+// Tiny Character?
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Tiny Character?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tiny Character?
+// Tiny Character?
+patch=1,EE,21D556FC,extended,00000AF0
+
+[Huge Character?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Character?
+// Huge Character?
+patch=1,EE,003D7BC6,extended,00000000
+
+[Huge Character?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Character?
+// Huge Character?
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Huge Character?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Huge Character?
+// Huge Character?
+patch=1,EE,21D556FC,extended,00000B54
+
+[Invisible Character?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisible Character?
+// Invisible Character?
+patch=1,EE,003D7BC6,extended,00000000
+
+[Invisible Character?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisible Character?
+// Invisible Character?
+patch=1,EE,D1D76602,extended,0000BBFF
+
+[Invisible Character?]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Invisible Character?
+// Invisible Character?
+patch=1,EE,21D556FC,extended,00000BB8

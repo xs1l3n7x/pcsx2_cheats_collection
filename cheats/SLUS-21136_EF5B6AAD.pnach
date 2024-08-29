@@ -1,0 +1,109 @@
+gametitle=Graffiti Kingdom [SLUS-21136] [EF5B6AAD]
+
+[Unlock All Stage Select Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Stage Select Levels
+// Unlock All Stage Select Levels
+patch=1,EE,90116124,extended,0C0D6C8E
+
+[Unlock All Stage Select Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Stage Select Levels
+// Unlock All Stage Select Levels
+patch=1,EE,200C0298,extended,03E00008
+
+[Unlock All Stage Select Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Stage Select Levels
+// Unlock All Stage Select Levels
+patch=1,EE,200C029C,extended,C6A30004
+
+[Unlock All Stage Select Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Stage Select Levels
+// Unlock All Stage Select Levels
+patch=1,EE,203F8C34,extended,0C030088
+
+[Disable FMV]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable FMV
+// Disable FMV
+patch=1,EE,20108590,extended,24020001
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,200C0220,extended,2401270F
+
+[Max HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max HP
+// Max HP
+patch=1,EE,200C0224,extended,AEA10008
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,200C0228,extended,2401270F
+
+[Infinite HP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP
+// Infinite HP
+patch=1,EE,200C022C,extended,AEA10004
+
+[Max AP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max AP
+// Max AP
+patch=1,EE,200C0230,extended,2401270F
+
+[Max AP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Max AP
+// Max AP
+patch=1,EE,200C0234,extended,AEA10010
+
+[Infinite AP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite AP
+// Infinite AP
+patch=1,EE,200C0238,extended,2401270F
+
+[Infinite AP]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite AP
+// Infinite AP
+patch=1,EE,200C023C,extended,AEA1000C
+
+[P1 Press {L1}+Up For Level Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Level Gain
+// P1 Press {L1}+Up For Level Gain
+patch=1,EE,D06EB042,extended,0000FBEF
+
+[P1 Press {L1}+Up For Level Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Level Gain
+// P1 Press {L1}+Up For Level Gain
+patch=1,EE,203F8C78,extended,A6000036
+
+[P1 Press {L1}+Up For Level Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Level Gain
+// P1 Press {L1}+Up For Level Gain
+patch=1,EE,D06EB042,extended,0000FFFF
+
+[P1 Press {L1}+Up For Level Gain]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=P1 Press {L1}+Up For Level Gain
+// P1 Press {L1}+Up For Level Gain
+patch=1,EE,203F8C78,extended,00000000
+
+[Infinite Captures Remaining]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Captures Remaining
+// Infinite Captures Remaining
+patch=1,EE,203A0194,extended,00000000

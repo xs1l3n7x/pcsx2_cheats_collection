@@ -1,0 +1,271 @@
+gametitle=Mega Man X Collection [SLUS-21370] [DB581CF5]
+
+[1-Hit Death (Enemies)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Death (Enemies)
+// 1-Hit Death (Enemies)
+patch=1,EE,9012F8B0,extended,00832021
+
+[Unlock Mega Man Battle & Chase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Mega Man Battle & Chase
+// Unlock Mega Man Battle & Chase
+patch=1,EE,E0010001,extended,00662E84
+
+[Unlock Mega Man Battle & Chase]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock Mega Man Battle & Chase
+// Unlock Mega Man Battle & Chase
+patch=1,EE,00669980,extended,00000001
+
+[Images 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Images 1
+// Images 1
+patch=1,EE,E0010001,extended,00662E84
+
+[Images 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Images 1
+// Images 1
+patch=1,EE,706699C4,extended,00000001
+
+[Images 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Images 2
+// Images 2
+patch=1,EE,E0010001,extended,00662E84
+
+[Images 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Images 2
+// Images 2
+patch=1,EE,706699C4,extended,00000002
+
+[Images 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Images 3
+// Images 3
+patch=1,EE,E0010001,extended,00662E84
+
+[Images 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Images 3
+// Images 3
+patch=1,EE,706699C4,extended,00000004
+
+[Images 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Images 4
+// Images 4
+patch=1,EE,E0010001,extended,00662E84
+
+[Images 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Images 4
+// Images 4
+patch=1,EE,706699C4,extended,00000008
+
+[Images 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Images 5
+// Images 5
+patch=1,EE,E0010001,extended,00662E84
+
+[Images 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Images 5
+// Images 5
+patch=1,EE,706699C4,extended,00000010
+
+[Images 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Images 6
+// Images 6
+patch=1,EE,E0010001,extended,00662E84
+
+[Images 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Images 6
+// Images 6
+patch=1,EE,706699C4,extended,00000020
+
+[Images 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Images 7
+// Images 7
+patch=1,EE,E0010001,extended,00662E84
+
+[Images 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Images 7
+// Images 7
+patch=1,EE,706699C4,extended,00000040
+
+[Images 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Images 8
+// Images 8
+patch=1,EE,E0010001,extended,00662E84
+
+[Images 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Images 8
+// Images 8
+patch=1,EE,706699C4,extended,00000080
+
+[Staff]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Staff
+// Staff
+patch=1,EE,E0010001,extended,00662E84
+
+[Staff]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Staff
+// Staff
+patch=1,EE,706699C5,extended,00000001
+
+[Music 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Music 1
+// Music 1
+patch=1,EE,E0010001,extended,00662E84
+
+[Music 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Music 1
+// Music 1
+patch=1,EE,706699C5,extended,00000002
+
+[Music 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Music 2
+// Music 2
+patch=1,EE,E0010001,extended,00662E84
+
+[Music 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Music 2
+// Music 2
+patch=1,EE,706699C5,extended,00000004
+
+[Music 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Music 3
+// Music 3
+patch=1,EE,E0010001,extended,00662E84
+
+[Music 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Music 3
+// Music 3
+patch=1,EE,706699C5,extended,00000008
+
+[Music 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Music 4
+// Music 4
+patch=1,EE,E0010001,extended,00662E84
+
+[Music 4]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Music 4
+// Music 4
+patch=1,EE,706699C5,extended,00000010
+
+[Music 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Music 5
+// Music 5
+patch=1,EE,E0010001,extended,00662E84
+
+[Music 5]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Music 5
+// Music 5
+patch=1,EE,706699C5,extended,00000020
+
+[Music 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Music 6
+// Music 6
+patch=1,EE,E0010001,extended,00662E84
+
+[Music 6]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Music 6
+// Music 6
+patch=1,EE,706699C5,extended,00000040
+
+[Music 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Music 7
+// Music 7
+patch=1,EE,E0010001,extended,00662E84
+
+[Music 7]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Music 7
+// Music 7
+patch=1,EE,706699C5,extended,00000080
+
+[Music 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Music 8
+// Music 8
+patch=1,EE,E0010001,extended,00662E84
+
+[Music 8]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Music 8
+// Music 8
+patch=1,EE,706699C6,extended,00000001
+
+[Hint 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hint 1
+// Hint 1
+patch=1,EE,E0010001,extended,00662E84
+
+[Hint 1]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hint 1
+// Hint 1
+patch=1,EE,706699C6,extended,00000002
+
+[Hint 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hint 2
+// Hint 2
+patch=1,EE,E0010001,extended,00662E84
+
+[Hint 2]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hint 2
+// Hint 2
+patch=1,EE,706699C6,extended,00000004
+
+[Hint 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hint 3
+// Hint 3
+patch=1,EE,E0010001,extended,00662E84
+
+[Hint 3]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hint 3
+// Hint 3
+patch=1,EE,706699C6,extended,00000008
+
+[All Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Gallery
+// All Gallery
+patch=1,EE,E0010001,extended,00662E84
+
+[All Gallery]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Gallery
+// All Gallery
+patch=1,EE,206699C4,extended,FFFFFFFF

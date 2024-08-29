@@ -1,0 +1,259 @@
+gametitle=TransFormers [SLUS-20668] [F40DAE1E]
+
+[Todos Santos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Todos Santos
+// Todos Santos
+patch=1,EE,9013A9BC,extended,0C042444
+
+[Infinite Autobot Energon Level]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Autobot Energon Level
+// Infinite Autobot Energon Level
+patch=1,EE,20716FB4,extended,42FA0000
+
+[Unlock All Extras]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Extras
+// Unlock All Extras
+patch=1,EE,207170E0,extended,FFFFFFFF
+
+[Unlock All Extras]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Extras
+// Unlock All Extras
+patch=1,EE,207170E4,extended,FFFFFFFF
+
+[Unlock All Mini-Cons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Mini-Cons
+// Unlock All Mini-Cons
+patch=1,EE,207173C0,extended,FFFFFFFF
+
+[Unlock All Mini-Cons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Mini-Cons
+// Unlock All Mini-Cons
+patch=1,EE,107173C4,extended,0000FFFF
+
+[Infinite Energy Usage]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Energy Usage
+// Infinite Energy Usage
+patch=1,EE,203EE5EC,extended,00000000
+
+[Press {L1} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1} For Moon Jump
+// Press {L1} For Moon Jump
+patch=1,EE,D08FA842,extended,0000FBFF
+
+[Press {L1} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1} For Moon Jump
+// Press {L1} For Moon Jump
+patch=1,EE,204710A8,extended,00000000
+
+[Press {L1} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1} For Moon Jump
+// Press {L1} For Moon Jump
+patch=1,EE,D08FA842,extended,0010FBFF
+
+[Press {L1} For Moon Jump]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Press {L1} For Moon Jump
+// Press {L1} For Moon Jump
+patch=1,EE,204710A8,extended,E7A00098
+
+[Matrix Jumps]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Matrix Jumps
+// Matrix Jumps
+patch=1,EE,20717698,extended,C0480000
+
+[Unlock All Mini-Cons]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Mini-Cons
+// Unlock All Mini-Cons
+patch=1,EE,008F04C4,extended,00000001
+
+[Disable Mini-Con Overload]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Disable Mini-Con Overload
+// Disable Mini-Con Overload
+patch=1,EE,008F04C5,extended,00000001
+
+[Infinite Stealth]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Stealth
+// Infinite Stealth
+patch=1,EE,008F04C6,extended,00000001
+
+[Infinite Powerlink]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Powerlink
+// Infinite Powerlink
+patch=1,EE,008F04C9,extended,00000001
+
+[1-Hit Kills]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=1-Hit Kills
+// 1-Hit Kills
+patch=1,EE,008F04CD,extended,00000001
+
+[Big Head Mode]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Big Head Mode
+// Big Head Mode
+patch=1,EE,008F04CF,extended,00000001
+
+[Turbo Modes]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Turbo Modes
+// Turbo Modes
+patch=1,EE,008F04D0,extended,00000001
+
+[Amazon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Amazon
+// Amazon
+patch=1,EE,20717114,extended,00000001
+
+[Antarctica]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Antarctica
+// Antarctica
+patch=1,EE,20717160,extended,00000001
+
+[Deep Amazon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Deep Amazon
+// Deep Amazon
+patch=1,EE,207171AC,extended,00000001
+
+[Mid-Atlantic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mid-Atlantic
+// Mid-Atlantic
+patch=1,EE,207171F8,extended,00000001
+
+[Alaska]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Alaska
+// Alaska
+patch=1,EE,20717244,extended,00000001
+
+[Starship]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Starship
+// Starship
+patch=1,EE,20717290,extended,00000001
+
+[Pacific Island]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pacific Island
+// Pacific Island
+patch=1,EE,207172DC,extended,00000001
+
+[Cybertron]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cybertron
+// Cybertron
+patch=1,EE,20717328,extended,00000001
+
+[All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Levels
+// All Levels
+patch=1,EE,40717114,extended,00080013
+
+[All Levels]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Levels
+// All Levels
+patch=1,EE,00000001,extended,00000000
+
+[Amazon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Amazon
+// Amazon
+patch=1,EE,20717158,extended,00000009
+
+[Antarctica]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Antarctica
+// Antarctica
+patch=1,EE,207171A4,extended,0000000A
+
+[Deep Amazon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Deep Amazon
+// Deep Amazon
+patch=1,EE,207171F0,extended,00000008
+
+[Mid-Atlantic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mid-Atlantic
+// Mid-Atlantic
+patch=1,EE,2071723C,extended,00000001
+
+[Alaska]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Alaska
+// Alaska
+patch=1,EE,20717288,extended,00000005
+
+[Starship]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Starship
+// Starship
+patch=1,EE,207172D4,extended,00000001
+
+[Pacific Island]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pacific Island
+// Pacific Island
+patch=1,EE,20717320,extended,00000006
+
+[Amazon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Amazon
+// Amazon
+patch=1,EE,2071715C,extended,0000000D
+
+[Antarctica]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Antarctica
+// Antarctica
+patch=1,EE,207171A8,extended,00000006
+
+[Deep Amazon]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Deep Amazon
+// Deep Amazon
+patch=1,EE,207171F4,extended,00000007
+
+[Mid-Atlantic]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mid-Atlantic
+// Mid-Atlantic
+patch=1,EE,20717240,extended,00000001
+
+[Alaska]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Alaska
+// Alaska
+patch=1,EE,2071728C,extended,00000009
+
+[Starship]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Starship
+// Starship
+patch=1,EE,207172D8,extended,0000000A
+
+[Pacific Island]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Pacific Island
+// Pacific Island
+patch=1,EE,20717324,extended,0000000C

@@ -1,0 +1,133 @@
+gametitle=RTX Red Rock [SLUS-20491] [E349C1D4]
+
+[Infinite HP & MP (In-Battle)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite HP & MP (In-Battle)
+// Infinite HP & MP (In-Battle)
+patch=1,EE,901A27F4,extended,0C060B54
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201E9B08,extended,3C01447A
+
+[Infinite Health]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health
+// Infinite Health
+patch=1,EE,201E9B0C,extended,AE4105A4
+
+[Infinite Oxygen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Oxygen
+// Infinite Oxygen
+patch=1,EE,20152398,extended,00000000
+
+[Buying Items Doesnt Decrease Credit Limit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Buying Items Doesnt Decrease Credit Limit
+// Buying Items Doesnt Decrease Credit Limit
+patch=1,EE,201EF5E8,extended,00000000
+
+[Use Item Once For Max Item]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Use Item Once For Max Item
+// Use Item Once For Max Item
+patch=1,EE,201DBF08,extended,240203E7
+
+[Infinite Time (Iris' World)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Time (Iris' World)
+// Infinite Time (Iris' World)
+patch=1,EE,202483F0,extended,00000000
+
+[Infinite Health (Iris' World)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Health (Iris' World)
+// Infinite Health (Iris' World)
+patch=1,EE,202494DC,extended,00000000
+
+[Stage 1 Destructor Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stage 1 Destructor Ammo
+// Stage 1 Destructor Ammo
+patch=1,EE,202180D0,extended,00000000
+
+[Fire Extinguisher Ammo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Fire Extinguisher Ammo
+// Fire Extinguisher Ammo
+patch=1,EE,2021801C,extended,00000000
+
+[All Normal Items]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=All Normal Items
+// All Normal Items
+patch=1,EE,201DBF0C,extended,00000000
+
+[Unlock All Special Features]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Unlock All Special Features
+// Unlock All Special Features
+patch=1,EE,205D53E0,extended,FFFFFFFF
+
+[Level 01-Phobos Station]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 01-Phobos Station
+// Level 01-Phobos Station
+patch=1,EE,005A2ED0,extended,00000001
+
+[Level 02-Thermal Research Outpost]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 02-Thermal Research Outpost
+// Level 02-Thermal Research Outpost
+patch=1,EE,005A2ED1,extended,00000001
+
+[Level 03-Kuztnetsov Diamond Mine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 03-Kuztnetsov Diamond Mine
+// Level 03-Kuztnetsov Diamond Mine
+patch=1,EE,005A2ED2,extended,00000001
+
+[Level 04-Chryse Canal Complex]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 04-Chryse Canal Complex
+// Level 04-Chryse Canal Complex
+patch=1,EE,005A2ED3,extended,00000001
+
+[Level 05-Red Rock Township]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 05-Red Rock Township
+// Level 05-Red Rock Township
+patch=1,EE,005A2ED4,extended,00000001
+
+[Level 06-Xanthe Terra Power & Light]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 06-Xanthe Terra Power & Light
+// Level 06-Xanthe Terra Power & Light
+patch=1,EE,005A2ED5,extended,00000001
+
+[Level 07-Red Rock Sally Port Zulu]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 07-Red Rock Sally Port Zulu
+// Level 07-Red Rock Sally Port Zulu
+patch=1,EE,005A2ED6,extended,00000001
+
+[Level 08-Red Rock West Gate]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 08-Red Rock West Gate
+// Level 08-Red Rock West Gate
+patch=1,EE,005A2ED7,extended,00000001
+
+[Level 09-Aromatum Chaos]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 09-Aromatum Chaos
+// Level 09-Aromatum Chaos
+patch=1,EE,005A2ED8,extended,00000001
+
+[Level 10-Shalbatana Vallis]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Level 10-Shalbatana Vallis
+// Level 10-Shalbatana Vallis
+patch=1,EE,005A2ED9,extended,00000001

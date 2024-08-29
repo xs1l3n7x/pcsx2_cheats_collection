@@ -1,0 +1,457 @@
+gametitle=Spy Fiction [SLUS-20856] [9551DBB1]
+
+[Inselberg Speedway]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Inselberg Speedway
+// Inselberg Speedway
+patch=1,EE,901209F4,extended,0C04983A
+
+[Infinite Ammo (All Weapons)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Infinite Ammo (All Weapons)
+// Infinite Ammo (All Weapons)
+patch=1,EE,202E587C,extended,00000000
+
+[Extra Ammo (All Weapons)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Extra Ammo (All Weapons)
+// Extra Ammo (All Weapons)
+patch=1,EE,102E5878,extended,00000001
+
+[ERS .4D]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=ERS .4D
+// ERS .4D
+patch=1,EE,1021FB7E,extended,00000001
+
+[Handley 17G]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Handley 17G
+// Handley 17G
+patch=1,EE,1021FB80,extended,00000001
+
+[Hekloch P9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Hekloch P9
+// Hekloch P9
+patch=1,EE,1021FB82,extended,00000001
+
+[Orion 44Mag]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Orion 44Mag
+// Orion 44Mag
+patch=1,EE,1021FB84,extended,00000001
+
+[Tragerri M11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tragerri M11
+// Tragerri M11
+patch=1,EE,1021FB86,extended,00000001
+
+[T17 Carbine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T17 Carbine
+// T17 Carbine
+patch=1,EE,1021FB88,extended,00000001
+
+[Galeili MAR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Galeili MAR
+// Galeili MAR
+patch=1,EE,1021FB8A,extended,00000001
+
+[OSK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=OSK
+// OSK
+patch=1,EE,1021FB8C,extended,00000001
+
+[G-Butterfly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=G-Butterfly
+// G-Butterfly
+patch=1,EE,1021FB8E,extended,00000001
+
+[G.N.Ring]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=G.N.Ring
+// G.N.Ring
+patch=1,EE,1021FB98,extended,00000001
+
+[Stun Shaver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Shaver
+// Stun Shaver
+patch=1,EE,1021FB9A,extended,00000001
+
+[Bomb Switch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bomb Switch
+// Bomb Switch
+patch=1,EE,1021FBA6,extended,00000001
+
+[Grenade]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Grenade
+// Grenade
+patch=1,EE,1021FB90,extended,00000063
+
+[Stun Grenade]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Grenade
+// Stun Grenade
+patch=1,EE,1021FB92,extended,00000063
+
+[Stink Bomb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stink Bomb
+// Stink Bomb
+patch=1,EE,1021FB94,extended,00000063
+
+[Flash Pencil]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Flash Pencil
+// Flash Pencil
+patch=1,EE,1021FB96,extended,00000063
+
+[Boomerang Card]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Boomerang Card
+// Boomerang Card
+patch=1,EE,1021FB9C,extended,00000063
+
+[Cig-Torch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cig-Torch
+// Cig-Torch
+patch=1,EE,1021FB9E,extended,00000063
+
+[Jammer]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Jammer
+// Jammer
+patch=1,EE,1021FBA2,extended,00000063
+
+[Bandage Bomb]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bandage Bomb
+// Bandage Bomb
+patch=1,EE,1021FBA4,extended,00000063
+
+[Button Transmitter]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Button Transmitter
+// Button Transmitter
+patch=1,EE,1021FBA8,extended,00000063
+
+[Mini Cam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mini Cam
+// Mini Cam
+patch=1,EE,1021FBAA,extended,00000063
+
+[3DA Cam]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=3DA Cam
+// 3DA Cam
+patch=1,EE,1021FBAE,extended,00000001
+
+[Rappelling Kit]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rappelling Kit
+// Rappelling Kit
+patch=1,EE,1021FBB0,extended,00000001
+
+[Spider Grip]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Spider Grip
+// Spider Grip
+patch=1,EE,1021FBB2,extended,00000001
+
+[Body Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Body Armor
+// Body Armor
+patch=1,EE,1021FBB4,extended,00000001
+
+[Rebound Armor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Rebound Armor
+// Rebound Armor
+patch=1,EE,1021FBB6,extended,00000001
+
+[Mine Detector]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Mine Detector
+// Mine Detector
+patch=1,EE,1021FBB8,extended,00000001
+
+[Bio Sensor]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Bio Sensor
+// Bio Sensor
+patch=1,EE,1021FBBA,extended,00000001
+
+[Toe Blade]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Toe Blade
+// Toe Blade
+patch=1,EE,1021FBBC,extended,00000001
+
+[Recovery (S)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Recovery (S)
+// Recovery (S)
+patch=1,EE,1021FBBE,extended,00000001
+
+[Recovery (M)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Recovery (M)
+// Recovery (M)
+patch=1,EE,1021FBC0,extended,00000001
+
+[Recovery (L)]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Recovery (L)
+// Recovery (L)
+patch=1,EE,1021FBC2,extended,00000001
+
+[Current Lottery Ticket]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Current Lottery Ticket
+// Current Lottery Ticket
+patch=1,EE,1021FBC6,extended,00000001
+
+[Expired Lotto Ticket]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Expired Lotto Ticket
+// Expired Lotto Ticket
+patch=1,EE,1021FBC8,extended,00000001
+
+[Old Lotto Ticket]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Old Lotto Ticket
+// Old Lotto Ticket
+patch=1,EE,1021FBCA,extended,00000001
+
+[Very Old Lotto Ticket]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Very Old Lotto Ticket
+// Very Old Lotto Ticket
+patch=1,EE,1021FBCC,extended,00000001
+
+[Tattered Lottery Ticket]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tattered Lottery Ticket
+// Tattered Lottery Ticket
+patch=1,EE,1021FBCE,extended,00000001
+
+[Retina Goggles]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Retina Goggles
+// Retina Goggles
+patch=1,EE,1021FBD0,extended,00000001
+
+[Sports Weekly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Sports Weekly
+// Sports Weekly
+patch=1,EE,1021FBD2,extended,00000001
+
+[LV 1 Card]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=LV 1 Card
+// LV 1 Card
+patch=1,EE,1021FBD4,extended,00000001
+
+[LV 2 Card]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=LV 2 Card
+// LV 2 Card
+patch=1,EE,1021FBD6,extended,00000001
+
+[Retina Scanner]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Retina Scanner
+// Retina Scanner
+patch=1,EE,1021FBD8,extended,00000001
+
+[Cooling Spray]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Cooling Spray
+// Cooling Spray
+patch=1,EE,1021FBDA,extended,00000001
+
+[Optical Disk]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Optical Disk
+// Optical Disk
+patch=1,EE,1021FBDC,extended,00000001
+
+[Message Card And Cocktail]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Message Card And Cocktail
+// Message Card And Cocktail
+patch=1,EE,1021FBE0,extended,00000001
+
+[Password Memo]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Password Memo
+// Password Memo
+patch=1,EE,1021FBE2,extended,00000001
+
+[Scanning Switch]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Scanning Switch
+// Scanning Switch
+patch=1,EE,1021FBE4,extended,00000001
+
+[Security Tag]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Security Tag
+// Security Tag
+patch=1,EE,1021FBE0,extended,00000063
+
+[ERS .4D]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=ERS .4D
+// ERS .4D
+patch=1,EE,1021FBE6,extended,00000063
+
+[Handley 17g]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Handley 17g
+// Handley 17g
+patch=1,EE,1021FBE8,extended,00000063
+
+[Heklock P9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Heklock P9
+// Heklock P9
+patch=1,EE,1021FBEA,extended,00000063
+
+[Orion 44Mag]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Orion 44Mag
+// Orion 44Mag
+patch=1,EE,1021FBEC,extended,00000063
+
+[Tragerri M11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tragerri M11
+// Tragerri M11
+patch=1,EE,1021FBEE,extended,00000063
+
+[T17 Carbine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T17 Carbine
+// T17 Carbine
+patch=1,EE,1021FBF0,extended,00000063
+
+[Galeili MAR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Galeili MAR
+// Galeili MAR
+patch=1,EE,1021FBF2,extended,00000063
+
+[OSK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=OSK
+// OSK
+patch=1,EE,1021FBF4,extended,00000063
+
+[G-Butterfly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=G-Butterfly
+// G-Butterfly
+patch=1,EE,1021FBF6,extended,00000063
+
+[G.N.Ring]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=G.N.Ring
+// G.N.Ring
+patch=1,EE,1021FBF8,extended,00000063
+
+[Stun Shaver]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Stun Shaver
+// Stun Shaver
+patch=1,EE,1021FC30,extended,00000064
+
+[Map]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Map
+// Map
+patch=1,EE,1021FBFC,extended,00000001
+
+[File Screen]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=File Screen
+// File Screen
+patch=1,EE,1021FBFE,extended,00000001
+
+[Ultimatum Video]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Ultimatum Video
+// Ultimatum Video
+patch=1,EE,1021FC00,extended,00000001
+
+[ERS .4D]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=ERS .4D
+// ERS .4D
+patch=1,EE,1021FC06,extended,00000063
+
+[Handley 17G]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Handley 17G
+// Handley 17G
+patch=1,EE,1021FC08,extended,00000063
+
+[Heklock P9]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Heklock P9
+// Heklock P9
+patch=1,EE,1021FC0A,extended,00000063
+
+[Orion 44Mag]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Orion 44Mag
+// Orion 44Mag
+patch=1,EE,1021FC0C,extended,00000063
+
+[Tragerri M11]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Tragerri M11
+// Tragerri M11
+patch=1,EE,1021FC0E,extended,00000063
+
+[T17 Carbine]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=T17 Carbine
+// T17 Carbine
+patch=1,EE,1021FC10,extended,00000063
+
+[Galeili MAR]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=Galeili MAR
+// Galeili MAR
+patch=1,EE,1021FC12,extended,00000063
+
+[OSK]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=OSK
+// OSK
+patch=1,EE,1021FC14,extended,00000063
+
+[G-Butterfly]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=G-Butterfly
+// G-Butterfly
+patch=1,EE,1021FC16,extended,00000063
+
+[G.N.Ring]
+author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
+description=G.N.Ring
+// G.N.Ring
+patch=1,EE,1021FC18,extended,00000063
