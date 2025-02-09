@@ -578,6 +578,11 @@ Extract the contents of cheats folder within the .zip file into you PCSX2 "cheat
 | Wrath Unleashed | SLUS-20840 | AFB4279E |
 | WWE Crush Hour | SLUS-20385 | CD6A0695 |
 | X-Squad | SLES-50031 | DC0109F4 |
+| Xenosaga - Episode I - Der Wille zur Macht | SLUS-20469 | 6D1276AB |
+| Xenosaga - Episode II - Jenseits von Gut und Bose Disc 1 of 2 | SLUS-20892 | EB39ABEC |
+| Xenosaga - Episode II - Jenseits von Gut und Bose Disc 2 of 2 | SLUS-21133 | EB39ABEC |
+| Xenosaga Episode III - Also sprach Zarathustra Disc 1 of 2 | SLUS-21389 | 2088950A |
+| Xenosaga Episode III - Also sprach Zarathustra Disc 2 of 2 | SLUS-21417 | 2088950A |
 | XIII | SLES-51244 | 200BC0E6 |
 | Yakuza | SLUS-21348 | 388F687B |
 | Yu-Gi-Oh GX Tag Force Evolution | None | EE8404AA |

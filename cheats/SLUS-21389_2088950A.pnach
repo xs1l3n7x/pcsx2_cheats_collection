@@ -1,0 +1,5076 @@
+gametitle=Xenosaga Episode III - Also sprach Zarathustra [SLUS 21389] [2088950A]
+
+[Enable Character Slot Codes\1 Slot]
+author=Code Master
+description=
+patch=1,EE,003E6B80,extended,00000001
+
+[Enemy 1 Codes\1-Hit Death]
+author=Code Master
+description=
+patch=1,EE,D0AC45A8,extended,00200001
+patch=1,EE,20AC45A8,extended,00000001
+
+[Enemy 2 Codes\1-Hit Death]
+author=Code Master
+description=
+patch=1,EE,D0AC4690,extended,00200001
+patch=1,EE,20AC4690,extended,00000001
+
+[Enemy 3 Codes\1-Hit Death]
+author=Code Master
+description=
+patch=1,EE,D0AC4778,extended,00200001
+patch=1,EE,20AC4778,extended,00000001
+
+[Enemy 4 Codes\1-Hit Death]
+author=Code Master
+description=
+patch=1,EE,D0AC4860,extended,00200001
+patch=1,EE,20AC4860,extended,00000001
+
+[Enable Character Slot Codes\2 Slots]
+author=Code Master
+description=
+patch=1,EE,003E6B80,extended,00000002
+
+[Enable Character Slot Codes\3 Slots]
+author=Code Master
+description=
+patch=1,EE,003E6B80,extended,00000003
+
+[Enable Character Slot Codes\4 Slots]
+author=Code Master
+description=
+patch=1,EE,003E6B80,extended,00000004
+
+[Enable Character Slot Codes\5 Slots]
+author=Code Master
+description=
+patch=1,EE,003E6B80,extended,00000005
+
+[Enable Character Slot Codes\6 Slots]
+author=Code Master
+description=
+patch=1,EE,003E6B80,extended,00000006
+
+[Max Ring Codes\Acala's Pulse]
+author=Code Master
+description=
+patch=1,EE,003E4E2C,extended,00000063
+
+[Max Weapon Codes\Adona Shooter]
+author=Code Master
+description=
+patch=1,EE,003E4CAF,extended,00000063
+
+[Max Armor Frame Codes\AF-Commando]
+author=Code Master
+description=
+patch=1,EE,003E4ED4,extended,00000063
+
+[Max Armor Frame Codes\AF-Commando T]
+author=Code Master
+description=
+patch=1,EE,003E4ED5,extended,00000063
+
+[Max Armor Frame Codes\AF-Ghost]
+author=Code Master
+description=
+patch=1,EE,003E4ED8,extended,00000063
+
+[Max Armor Frame Codes\AF-Hunter]
+author=Code Master
+description=
+patch=1,EE,003E4ED3,extended,00000063
+
+[Max Armor Frame Codes\AF-Scout]
+author=Code Master
+description=
+patch=1,EE,003E4ED1,extended,00000063
+
+[Max Armor Frame Codes\AF-Scout R]
+author=Code Master
+description=
+patch=1,EE,003E4ED2,extended,00000063
+
+[Max Armor Frame Codes\AF-Stealth]
+author=Code Master
+description=
+patch=1,EE,003E4ED6,extended,00000063
+
+[Max Armor Frame Codes\AF-Stealth II]
+author=Code Master
+description=
+patch=1,EE,003E4ED7,extended,00000063
+
+[Max Item Codes\Agi Upgrade]
+author=Code Master
+description=
+patch=1,EE,003E4BF3,extended,00000063
+
+[Max Weapon Codes\AIRD-C II]
+author=Code Master
+description=
+patch=1,EE,003E4D19,extended,00000063
+
+[Max Weapon Codes\AIRD-C V]
+author=Code Master
+description=
+patch=1,EE,003E4D19,extended,00000063
+
+[Max Weapon Codes\AIRD-E]
+author=Code Master
+description=
+patch=1,EE,003E4D16,extended,00000063
+
+[Max Weapon Codes\AIRD-E+]
+author=Code Master
+description=
+patch=1,EE,003E4D17,extended,00000063
+
+[Max Armor Codes\All Armor]
+author=Code Master
+description=
+patch=1,EE,403E4D50,extended,00140001
+patch=1,EE,63636363,extended,00000000
+
+[Max Bracelet Codes\All Bracelets]
+author=Code Master
+description=
+patch=1,EE,403E4E41,extended,000B0001
+patch=1,EE,63636363,extended,00000000
+patch=1,EE,103E4E6C,extended,00006363
+
+[Max CPU Codes\All CPU's]
+author=Code Master
+description=
+patch=1,EE,403E5050,extended,00030001
+patch=1,EE,63636363,extended,00000000
+patch=1,EE,103E505C,extended,00006363
+
+[Max Disk Codes\All Disks]
+author=Code Master
+description=
+patch=1,EE,403E5110,extended,000B0001
+patch=1,EE,003E513C,extended,00000063
+
+[Max Armor Frame Codes\All E.S. Armor]
+author=Code Master
+description=
+patch=1,EE,403E4ED1,extended,00080001
+patch=1,EE,63636363,extended,00000000
+patch=1,EE,003E4EF0,extended,00000063
+
+[Max Generator Codes\All Generators]
+author=Code Master
+description=
+patch=1,EE,403E4F90,extended,00040001
+patch=1,EE,63636363,extended,00000000
+patch=1,EE,003E4FA0,extended,00000063
+
+[Max Item Codes\All Items]
+author=Code Master
+description=
+patch=1,EE,403E4BD0,extended,00100001
+patch=1,EE,63636363,extended,00000000
+patch=1,EE,003E4C10,extended,00000063
+
+[Max Key Item Codes\All Key Items]
+author=Code Master
+description=
+patch=1,EE,403E51D0,extended,000F0001
+patch=1,EE,63636363,extended,00000000
+
+[Max Necklace Codes\All Necklaces]
+author=Code Master
+description=
+patch=1,EE,403E4E71,extended,00080001
+patch=1,EE,63636363,extended,00000000
+patch=1,EE,003E4E90,extended,00000063
+
+[Max Item Codes\All Repair]
+author=Code Master
+description=
+patch=1,EE,003E4BE8,extended,00000063
+
+[Max Ring Codes\All Rings]
+author=Code Master
+description=
+patch=1,EE,403E4E11,extended,000B0001
+patch=1,EE,63636363,extended,00000000
+
+[Max Weapon Codes\All Weapons]
+author=Code Master
+description=
+patch=1,EE,403E4C90,extended,002A0001
+patch=1,EE,63636363,extended,00000000
+patch=1,EE,103E4D38,extended,00006363
+
+[Character 1 Modifier Codes\Allen]
+author=Code Master
+description=
+patch=1,EE,003E6B82,extended,0000000A
+
+[Character 2 Modifier Codes\Allen]
+author=Code Master
+description=
+patch=1,EE,003E6B83,extended,0000000A
+
+[Character 3 Modifier Codes\Allen]
+author=Code Master
+description=
+patch=1,EE,003E6B84,extended,0000000A
+
+[Character 4 Modifier Codes\Allen]
+author=Code Master
+description=
+patch=1,EE,003E6B85,extended,0000000A
+
+[Character 5 Modifier Codes\Allen]
+author=Code Master
+description=
+patch=1,EE,003E6B86,extended,0000000A
+
+[Character 6 Modifier Codes\Allen]
+author=Code Master
+description=
+patch=1,EE,003E6B88,extended,0000000A
+
+[Max Armor Codes\Allen's Swimsuit]
+author=Code Master
+description=
+patch=1,EE,003E4D9A,extended,00000063
+
+[Max Key Item Codes\Allen's Swimsuit]
+author=Code Master
+description=
+patch=1,EE,003E5202,extended,00000063
+
+[Max Item Codes\Analyze Ball]
+author=Code Master
+description=
+patch=1,EE,003E4BEA,extended,00000063
+
+[Max Necklace Codes\Andvari]
+author=Code Master
+description=
+patch=1,EE,003E4E8B,extended,00000063
+
+[Max Necklace Codes\Angel's Experience]
+author=Code Master
+description=
+patch=1,EE,003E4E83,extended,00000063
+
+[Max Item Codes\Anti-Crystal]
+author=Code Master
+description=
+patch=1,EE,003E4BE3,extended,00000063
+
+[Max Item Codes\Antidote]
+author=Code Master
+description=
+patch=1,EE,003E4BE2,extended,00000063
+
+[Max Key Item Codes\Arcadian Resource]
+author=Code Master
+description=
+patch=1,EE,003E51F0,extended,00000063
+
+[Max Weapon Codes\ARF Rastaban]
+author=Code Master
+description=
+patch=1,EE,003E4D2C,extended,00000063
+
+[Max Weapon Codes\ARF-R5]
+author=Code Master
+description=
+patch=1,EE,003E4D21,extended,00000063
+
+[Max Weapon Codes\ARF-R7]
+author=Code Master
+description=
+patch=1,EE,003E4D22,extended,00000063
+
+[Max Armor Codes\Assault Vest]
+author=Code Master
+description=
+patch=1,EE,003E4D60,extended,00000063
+
+[Max Weapon Codes\Auto Macer]
+author=Code Master
+description=
+patch=1,EE,003E4C92,extended,00000063
+
+[Max Weapon Codes\Barbelo Knuckle]
+author=Code Master
+description=
+patch=1,EE,003E4CF4,extended,00000063
+
+[Max Weapon Codes\Barbit Shooter]
+author=Code Master
+description=
+patch=1,EE,003E4CB1,extended,00000063
+
+[Max Bracelet Codes\Beam Absorber]
+author=Code Master
+description=
+patch=1,EE,003E4E53,extended,00000063
+
+[Max Ring Codes\Beam Avatar]
+author=Code Master
+description=
+patch=1,EE,003E4E24,extended,00000063
+
+[Max Bracelet Codes\Beam Wall]
+author=Code Master
+description=
+patch=1,EE,003E4E51,extended,00000063
+
+[Max Weapon Codes\Benzer Ace]
+author=Code Master
+description=
+patch=1,EE,003E4CF3,extended,00000063
+
+[Max Item Codes\Berry Ice Cream]
+author=Code Master
+description=
+patch=1,EE,003E4BFA,extended,00000063
+
+[Max Ring Codes\Bind Ring]
+author=Code Master
+description=
+patch=1,EE,003E4E2A,extended,00000063
+
+[Max Weapon Codes\Black Relic]
+author=Code Master
+description=
+patch=1,EE,003E4CEC,extended,00000063
+
+[Max Weapon Codes\Blast Knuckle]
+author=Code Master
+description=
+patch=1,EE,003E4CB5,extended,00000063
+
+[Max Weapon Codes\Blood M40]
+author=Code Master
+description=
+patch=1,EE,003E4CE9,extended,00000063
+
+[Max Weapon Codes\Blood M9]
+author=Code Master
+description=
+patch=1,EE,003E4CE1,extended,00000063
+
+[Max Weapon Codes\Blue Lady]
+author=Code Master
+description=
+patch=1,EE,003E4C93,extended,00000063
+
+[Max Weapon Codes\Blue Nail]
+author=Code Master
+description=
+patch=1,EE,003E4CBF,extended,00000063
+
+[Max Ring Codes\Blue Oasis]
+author=Code Master
+description=
+patch=1,EE,003E4E14,extended,00000063
+
+[Max Ring Codes\Blue Star]
+author=Code Master
+description=
+patch=1,EE,003E4E16,extended,00000063
+
+[Max Weapon Codes\Bo Yan]
+author=Code Master
+description=
+patch=1,EE,003E4C9C,extended,00000063
+
+[Max Armor Codes\Bolero Cape]
+author=Code Master
+description=
+patch=1,EE,C19BCA6B,extended,653FAA28
+
+[Max Necklace Codes\Brave Heart]
+author=Code Master
+description=
+patch=1,EE,003E4E83,extended,00000063
+
+[Max Weapon Codes\Break Knuckle]
+author=Code Master
+description=
+patch=1,EE,003E4CBD,extended,00000063
+
+[Max Armor Codes\Brigand]
+author=Code Master
+description=
+patch=1,EE,003E4D89,extended,00000063
+
+[Max Necklace Codes\Brisingamen]
+author=Code Master
+description=
+patch=1,EE,003E4E8D,extended,00000063
+
+[Max Necklace Codes\Bullet Neck]
+author=Code Master
+description=
+patch=1,EE,003E4E71,extended,00000063
+
+[Max Armor Codes\Butterfly Suit]
+author=Code Master
+description=
+patch=1,EE,003E4D79,extended,00000063
+
+[Max Weapon Codes\BZ Avenger]
+author=Code Master
+description=
+patch=1,EE,003E4D0A,extended,00000063
+
+[Max CPU Codes\C-US1]
+author=Code Master
+description=
+patch=1,EE,003E5051,extended,00000063
+
+[Max CPU Codes\C-US10]
+author=Code Master
+description=
+patch=1,EE,003E505E,extended,00000063
+
+[Max CPU Codes\C-US2]
+author=Code Master
+description=
+patch=1,EE,003E5052,extended,00000063
+
+[Max CPU Codes\C-US3]
+author=Code Master
+description=
+patch=1,EE,003E5054,extended,00000063
+
+[Max CPU Codes\C-US3G]
+author=Code Master
+description=
+patch=1,EE,003E5054,extended,00000063
+
+[Max CPU Codes\C-US4]
+author=Code Master
+description=
+patch=1,EE,003E5055,extended,00000063
+
+[Max CPU Codes\C-US5]
+author=Code Master
+description=
+patch=1,EE,003E5056,extended,00000063
+
+[Max CPU Codes\C-US5G]
+author=Code Master
+description=
+patch=1,EE,003E5057,extended,00000063
+
+[Max CPU Codes\C-US6]
+author=Code Master
+description=
+patch=1,EE,003E5058,extended,00000063
+
+[Max CPU Codes\C-US7]
+author=Code Master
+description=
+patch=1,EE,003E5059,extended,00000063
+
+[Max CPU Codes\C-US8]
+author=Code Master
+description=
+patch=1,EE,003E505A,extended,00000063
+
+[Max CPU Codes\C-US9]
+author=Code Master
+description=
+patch=1,EE,003E505B,extended,00000063
+
+[Max CPU Codes\C-US9G]
+author=Code Master
+description=
+patch=1,EE,003E505C,extended,00000063
+
+[Character 1 Modifier Codes\Canaan]
+author=Code Master
+description=
+patch=1,EE,003E6B82,extended,00000009
+
+[Character 2 Modifier Codes\Canaan]
+author=Code Master
+description=
+patch=1,EE,003E6B83,extended,00000009
+
+[Character 3 Modifier Codes\Canaan]
+author=Code Master
+description=
+patch=1,EE,003E6B84,extended,00000009
+
+[Character 4 Modifier Codes\Canaan]
+author=Code Master
+description=
+patch=1,EE,003E6B85,extended,00000009
+
+[Character 5 Modifier Codes\Canaan]
+author=Code Master
+description=
+patch=1,EE,003E6B86,extended,00000009
+
+[Character 6 Modifier Codes\Canaan]
+author=Code Master
+description=
+patch=1,EE,003E6B88,extended,00000009
+
+[Max Armor Codes\Canaan's Swimsuit]
+author=Code Master
+description=
+patch=1,EE,003E4D99,extended,00000063
+
+[Max Item Codes\Carnelian Egg]
+author=Code Master
+description=
+patch=1,EE,90BE0504,extended,14C053E7
+
+[Character 1 Modifier Codes\Chaos]
+author=Code Master
+description=
+patch=1,EE,003E6B82,extended,00000006
+
+[Character 2 Modifier Codes\Chaos]
+author=Code Master
+description=
+patch=1,EE,003E6B83,extended,00000006
+
+[Character 3 Modifier Codes\Chaos]
+author=Code Master
+description=
+patch=1,EE,003E6B84,extended,00000006
+
+[Character 4 Modifier Codes\Chaos]
+author=Code Master
+description=
+patch=1,EE,003E6B85,extended,00000006
+
+[Character 5 Modifier Codes\Chaos]
+author=Code Master
+description=
+patch=1,EE,003E6B86,extended,00000006
+
+[Character 6 Modifier Codes\Chaos]
+author=Code Master
+description=
+patch=1,EE,003E6B88,extended,00000006
+
+[Max Weapon Codes\Chaos Lord]
+author=Code Master
+description=
+patch=1,EE,003E4CDD,extended,00000063
+
+[Max Armor Codes\chaos's Swimsuit]
+author=Code Master
+description=
+patch=1,EE,003E4D96,extended,00000063
+
+[Max Item Codes\Cleanser]
+author=Code Master
+description=
+patch=1,EE,003E4BDF,extended,00000063
+
+[Max Armor Codes\Coat Hardy]
+author=Code Master
+description=
+patch=1,EE,003E4D8B,extended,00000063
+
+[Max Ring Codes\Cobalt Ring]
+author=Code Master
+description=
+patch=1,EE,003E4E20,extended,00000063
+
+[Max Bracelet Codes\Cobra Bangle]
+author=Code Master
+description=
+patch=1,EE,003E4E5D,extended,00000063
+
+[Max Weapon Codes\Combat Lady]
+author=Code Master
+description=
+patch=1,EE,003E4C99,extended,00000063
+
+[Max Armor Codes\Combat Suit]
+author=Code Master
+description=
+patch=1,EE,003E4D81,extended,00000063
+
+[Max Weapon Codes\Compound VI]
+author=Code Master
+description=
+patch=1,EE,003E4CAC,extended,00000063
+
+[Max Weapon Codes\Compound VII]
+author=Code Master
+description=
+patch=1,EE,003E4CAD,extended,00000063
+
+[Max Weapon Codes\Compound VIII]
+author=Code Master
+description=
+patch=1,EE,003E4CB0,extended,00000063
+
+[Max Bracelet Codes\Coral Stone]
+author=Code Master
+description=
+patch=1,EE,003E4E61,extended,00000063
+
+[Max Ring Codes\Counter Ring]
+author=Code Master
+description=
+patch=1,EE,003E4E26,extended,00000063
+
+[Max Necklace Codes\Crescent Moon]
+author=Code Master
+description=
+patch=1,EE,003E4E85,extended,00000063
+
+[Max Ring Codes\Crimson Ring]
+author=Code Master
+description=
+patch=1,EE,003E4E1D,extended,00000063
+
+[Max Necklace Codes\Cross Choker]
+author=Code Master
+description=
+patch=1,EE,003E4E7A,extended,00000063
+
+[Max Item Codes\Crystal Of Spite]
+author=Code Master
+description=
+patch=1,EE,003E4C02,extended,00000063
+
+[Max Necklace Codes\Cylinder Neck]
+author=Code Master
+description=
+patch=1,EE,003E4E76,extended,00000063
+
+[Max Armor Codes\D Unit V1]
+author=Code Master
+description=
+patch=1,EE,003E4D9F,extended,00000063
+
+[Max Disk Codes\D-Anima]
+author=Code Master
+description=
+patch=1,EE,003E5126,extended,00000063
+
+[Max Disk Codes\D-Beam]
+author=Code Master
+description=
+patch=1,EE,003E5130,extended,00000063
+
+[Max Disk Codes\D-Block A]
+author=Code Master
+description=
+patch=1,EE,003E511B,extended,00000063
+
+[Max Disk Codes\D-Block D]
+author=Code Master
+description=
+patch=1,EE,003E511B,extended,00000063
+
+[Max Disk Codes\D-Block DEA]
+author=Code Master
+description=
+patch=1,EE,20EE7390,extended,6EDF1D1D
+
+[Max Disk Codes\D-Charge]
+author=Code Master
+description=
+patch=1,EE,003E511F,extended,00000063
+
+[Max Disk Codes\D-Clean]
+author=Code Master
+description=
+patch=1,EE,003E5112,extended,00000063
+
+[Max Disk Codes\D-Counter]
+author=Code Master
+description=
+patch=1,EE,003E5113,extended,00000063
+
+[Max Disk Codes\D-Counter+]
+author=Code Master
+description=
+patch=1,EE,003E5120,extended,00000063
+
+[Max Disk Codes\D-Double]
+author=Code Master
+description=
+patch=1,EE,003E5115,extended,00000063
+
+[Max Disk Codes\D-Double+]
+author=Code Master
+description=
+patch=1,EE,003E5122,extended,00000063
+
+[Max Disk Codes\D-EN I]
+author=Code Master
+description=
+patch=1,EE,003E5125,extended,00000063
+
+[Max Disk Codes\D-EN II]
+author=Code Master
+description=
+patch=1,EE,003E5139,extended,00000063
+
+[Max Disk Codes\D-EN III]
+author=Code Master
+description=
+patch=1,EE,003E513C,extended,00000063
+
+[Max Disk Codes\D-EXP I]
+author=Code Master
+description=
+patch=1,EE,003E5128,extended,00000063
+
+[Max Disk Codes\D-EXP II]
+author=Code Master
+description=
+patch=1,EE,003E5135,extended,00000063
+
+[Max Disk Codes\D-Fire]
+author=Code Master
+description=
+patch=1,EE,003E512E,extended,00000063
+
+[Max Disk Codes\D-Frame I]
+author=Code Master
+description=
+patch=1,EE,003E511E,extended,00000063
+
+[Max Disk Codes\D-Frame II]
+author=Code Master
+description=
+patch=1,EE,003E512C,extended,00000063
+
+[Max Disk Codes\D-Frame III]
+author=Code Master
+description=
+patch=1,EE,003E5138,extended,00000063
+
+[Max Disk Codes\D-Guard]
+author=Code Master
+description=
+patch=1,EE,003E5116,extended,00000063
+
+[Max Disk Codes\D-Half A]
+author=Code Master
+description=
+patch=1,EE,003E5132,extended,00000063
+
+[Max Disk Codes\D-Half D]
+author=Code Master
+description=
+patch=1,EE,003E5133,extended,00000063
+
+[Max Disk Codes\D-Half DEA]
+author=Code Master
+description=
+patch=1,EE,003E5134,extended,00000063
+
+[Max Disk Codes\D-Half Physical]
+author=Code Master
+description=
+patch=1,EE,003E513B,extended,00000063
+
+[Max Disk Codes\D-Ice]
+author=Code Master
+description=
+patch=1,EE,003E512F,extended,00000063
+
+[Max Disk Codes\D-Kill C]
+author=Code Master
+description=
+patch=1,EE,003E5118,extended,00000063
+
+[Max Disk Codes\D-Kill R]
+author=Code Master
+description=
+patch=1,EE,003E5119,extended,00000063
+
+[Max Disk Codes\D-Lightning]
+author=Code Master
+description=
+patch=1,EE,003E512E,extended,00000063
+
+[Max Disk Codes\D-Nullify Effect]
+author=Code Master
+description=
+patch=1,EE,003E5124,extended,00000063
+
+[Max Disk Codes\D-Nullify Evade]
+author=Code Master
+description=
+patch=1,EE,003E513B,extended,00000063
+
+[Max Disk Codes\D-Nullify Guard]
+author=Code Master
+description=
+patch=1,EE,2169D838,extended,EDE51E19
+
+[Max Disk Codes\D-Nullify Poison]
+author=Code Master
+description=
+patch=1,EE,003E5123,extended,00000063
+
+[Max Disk Codes\D-Poison]
+author=Code Master
+description=
+patch=1,EE,003E5131,extended,00000063
+
+[Max Disk Codes\D-Revenge]
+author=Code Master
+description=
+patch=1,EE,C01E78C2,extended,33C52F67
+
+[Max Disk Codes\D-Revenge+]
+author=Code Master
+description=
+patch=1,EE,003E5121,extended,00000063
+
+[Max Disk Codes\D-Sensor]
+author=Code Master
+description=
+patch=1,EE,003E5111,extended,00000063
+
+[Max Disk Codes\D-SP I]
+author=Code Master
+description=
+patch=1,EE,003E5128,extended,00000063
+
+[Max Disk Codes\D-SP II]
+author=Code Master
+description=
+patch=1,EE,003E5136,extended,00000063
+
+[Max Disk Codes\D-Treasure I]
+author=Code Master
+description=
+patch=1,EE,003E511E,extended,00000063
+
+[Max Disk Codes\D-Treasure II]
+author=Code Master
+description=
+patch=1,EE,003E512B,extended,00000063
+
+[Max Disk Codes\D-Type B]
+author=Code Master
+description=
+patch=1,EE,003E5129,extended,00000063
+
+[Max Disk Codes\D-Type G]
+author=Code Master
+description=
+patch=1,EE,003E512B,extended,00000063
+
+[Max Disk Codes\D-Type M]
+author=Code Master
+description=
+patch=1,EE,003E5138,extended,00000063
+
+[Max Weapon Codes\Dawning Moon]
+author=Code Master
+description=
+patch=1,EE,003E4D36,extended,00000063
+
+[Max Key Item Codes\Decoder 01]
+author=Code Master
+description=
+patch=1,EE,003E51D5,extended,00000063
+
+[Max Key Item Codes\Decoder 02]
+author=Code Master
+description=
+patch=1,EE,003E51D6,extended,00000063
+
+[Max Key Item Codes\Decoder 03]
+author=Code Master
+description=
+patch=1,EE,003E51D8,extended,00000063
+
+[Max Key Item Codes\Decoder 04]
+author=Code Master
+description=
+patch=1,EE,003E51D8,extended,00000063
+
+[Max Key Item Codes\Decoder 05]
+author=Code Master
+description=
+patch=1,EE,003E51D9,extended,00000063
+
+[Max Key Item Codes\Decoder 06]
+author=Code Master
+description=
+patch=1,EE,003E51DA,extended,00000063
+
+[Max Key Item Codes\Decoder 07]
+author=Code Master
+description=
+patch=1,EE,003E51DB,extended,00000063
+
+[Max Key Item Codes\Decoder 08]
+author=Code Master
+description=
+patch=1,EE,003E51DC,extended,00000063
+
+[Max Key Item Codes\Decoder 09]
+author=Code Master
+description=
+patch=1,EE,003E51DD,extended,00000063
+
+[Max Key Item Codes\Decoder 10]
+author=Code Master
+description=
+patch=1,EE,003E51DE,extended,00000063
+
+[Max Key Item Codes\Decoder 11]
+author=Code Master
+description=
+patch=1,EE,003E51DF,extended,00000063
+
+[Max Key Item Codes\Decoder 12]
+author=Code Master
+description=
+patch=1,EE,003E51E0,extended,00000063
+
+[Max Key Item Codes\Decoder 13]
+author=Code Master
+description=
+patch=1,EE,003E51E1,extended,00000063
+
+[Max Key Item Codes\Decoder 14]
+author=Code Master
+description=
+patch=1,EE,003E51E2,extended,00000063
+
+[Max Key Item Codes\Decoder 15]
+author=Code Master
+description=
+patch=1,EE,003E51E3,extended,00000063
+
+[Max Weapon Codes\Delta Edge I]
+author=Code Master
+description=
+patch=1,EE,003E4CAC,extended,00000063
+
+[Max Weapon Codes\Delta Edge II]
+author=Code Master
+description=
+patch=1,EE,003E4CAF,extended,00000063
+
+[Max Weapon Codes\Delta Edge III]
+author=Code Master
+description=
+patch=1,EE,003E4CB2,extended,00000063
+
+[Max Armor Codes\Denim Jacket]
+author=Code Master
+description=
+patch=1,EE,003E4D71,extended,00000063
+
+[Max Weapon Codes\Desert Eagle]
+author=Code Master
+description=
+patch=1,EE,003E4CE3,extended,00000063
+
+[Max Item Codes\Dex Upgrade]
+author=Code Master
+description=
+patch=1,EE,003E4BF2,extended,00000063
+
+[Max Armor Frame Codes\DF-Orb]
+author=Code Master
+description=
+patch=1,EE,003E4EE8,extended,00000063
+
+[Max Armor Frame Codes\DF-V1]
+author=Code Master
+description=
+patch=1,EE,003E4EE1,extended,00000063
+
+[Max Armor Frame Codes\DF-V2]
+author=Code Master
+description=
+patch=1,EE,003E4EE2,extended,00000063
+
+[Max Armor Frame Codes\DF-V2 R]
+author=Code Master
+description=
+patch=1,EE,003E4EE3,extended,00000063
+
+[Max Armor Frame Codes\DF-V3]
+author=Code Master
+description=
+patch=1,EE,003E4EE4,extended,00000063
+
+[Max Armor Frame Codes\DF-V4]
+author=Code Master
+description=
+patch=1,EE,003E4EE5,extended,00000063
+
+[Max Armor Frame Codes\DF-X]
+author=Code Master
+description=
+patch=1,EE,003E4EE6,extended,00000063
+
+[Max Armor Frame Codes\DF-XX]
+author=Code Master
+description=
+patch=1,EE,003E4EE7,extended,00000063
+
+[Max Armor Codes\Dive Teddy]
+author=Code Master
+description=
+patch=1,EE,003E4D7F,extended,00000063
+
+[Max Necklace Codes\Dog Tag]
+author=Code Master
+description=
+patch=1,EE,003E4E77,extended,00000063
+
+[Max Weapon Codes\Dorade RK-3]
+author=Code Master
+description=
+patch=1,EE,003E4D27,extended,00000063
+
+[Max Weapon Codes\Dorade RK-5]
+author=Code Master
+description=
+patch=1,EE,003E4D29,extended,00000063
+
+[Max Bracelet Codes\Double Dealer]
+author=Code Master
+description=
+patch=1,EE,003E4E5D,extended,00000063
+
+[Max Armor Codes\Double Riders]
+author=Code Master
+description=
+patch=1,EE,003E4D87,extended,00000063
+
+[Max Armor Codes\Double Vestment]
+author=Code Master
+description=
+patch=1,EE,003E4D69,extended,00000063
+
+[Max Item Codes\Down Repair]
+author=Code Master
+description=
+patch=1,EE,003E4BE9,extended,00000063
+
+[Max Weapon Codes\Drache]
+author=Code Master
+description=
+patch=1,EE,003E4D04,extended,00000063
+
+[Max Weapon Codes\Drache-RR]
+author=Code Master
+description=
+patch=1,EE,003E4D06,extended,00000063
+
+[Max Armor Codes\Dragon Bustier]
+author=Code Master
+description=
+patch=1,EE,003E4D7A,extended,00000063
+
+[Max Bracelet Codes\Dragon Head]
+author=Code Master
+description=
+patch=1,EE,003E4E6B,extended,00000063
+
+[Max Necklace Codes\Dragon's Eye]
+author=Code Master
+description=
+patch=1,EE,003E4E7D,extended,00000063
+
+[Max Necklace Codes\Draupnir]
+author=Code Master
+description=
+patch=1,EE,003E4E8D,extended,00000063
+
+[Max Item Codes\DX Ice Cream]
+author=Code Master
+description=
+patch=1,EE,003E4BFC,extended,00000063
+
+[Character 1 Modifier Codes\E.S. Asher]
+author=Code Master
+description=
+patch=1,EE,003E6B82,extended,0000000D
+
+[Character 2 Modifier Codes\E.S. Asher]
+author=Code Master
+description=
+patch=1,EE,003E6B83,extended,0000000D
+
+[Character 3 Modifier Codes\E.S. Asher]
+author=Code Master
+description=
+patch=1,EE,003E6B84,extended,0000000D
+
+[Character 4 Modifier Codes\E.S. Asher]
+author=Code Master
+description=
+patch=1,EE,003E6B85,extended,0000000D
+
+[Character 5 Modifier Codes\E.S. Asher]
+author=Code Master
+description=
+patch=1,EE,003E6B86,extended,0000000D
+
+[Character 6 Modifier Codes\E.S. Asher]
+author=Code Master
+description=
+patch=1,EE,003E6B88,extended,0000000D
+
+[Character 1 Modifier Codes\E.S. Dinah]
+author=Code Master
+description=
+patch=1,EE,003E6B82,extended,0000000F
+
+[Character 2 Modifier Codes\E.S. Dinah]
+author=Code Master
+description=
+patch=1,EE,003E6B83,extended,0000000F
+
+[Character 3 Modifier Codes\E.S. Dinah]
+author=Code Master
+description=
+patch=1,EE,003E6B84,extended,0000000F
+
+[Character 4 Modifier Codes\E.S. Dinah]
+author=Code Master
+description=
+patch=1,EE,003E6B85,extended,0000000F
+
+[Character 5 Modifier Codes\E.S. Dinah]
+author=Code Master
+description=
+patch=1,EE,003E6B86,extended,0000000F
+
+[Character 6 Modifier Codes\E.S. Dinah]
+author=Code Master
+description=
+patch=1,EE,003E6B88,extended,0000000F
+
+[Character 1 Modifier Codes\E.S. Reuben]
+author=Code Master
+description=
+patch=1,EE,003E6B82,extended,00000010
+
+[Character 2 Modifier Codes\E.S. Reuben]
+author=Code Master
+description=
+patch=1,EE,003E6B83,extended,00000010
+
+[Character 3 Modifier Codes\E.S. Reuben]
+author=Code Master
+description=
+patch=1,EE,003E6B84,extended,00000010
+
+[Character 4 Modifier Codes\E.S. Reuben]
+author=Code Master
+description=
+patch=1,EE,003E6B85,extended,00000010
+
+[Character 5 Modifier Codes\E.S. Reuben]
+author=Code Master
+description=
+patch=1,EE,003E6B86,extended,00000010
+
+[Character 6 Modifier Codes\E.S. Reuben]
+author=Code Master
+description=
+patch=1,EE,003E6B88,extended,00000010
+
+[Character 1 Modifier Codes\E.S. Zebulun]
+author=Code Master
+description=
+patch=1,EE,003E6B82,extended,0000000E
+
+[Character 2 Modifier Codes\E.S. Zebulun]
+author=Code Master
+description=
+patch=1,EE,003E6B83,extended,0000000E
+
+[Character 3 Modifier Codes\E.S. Zebulun]
+author=Code Master
+description=
+patch=1,EE,003E6B84,extended,0000000E
+
+[Character 4 Modifier Codes\E.S. Zebulun]
+author=Code Master
+description=
+patch=1,EE,003E6B85,extended,0000000E
+
+[Character 5 Modifier Codes\E.S. Zebulun]
+author=Code Master
+description=
+patch=1,EE,003E6B86,extended,0000000E
+
+[Character 6 Modifier Codes\E.S. Zebulun]
+author=Code Master
+description=
+patch=1,EE,003E6B88,extended,0000000E
+
+[Max Necklace Codes\Eagle Eye]
+author=Code Master
+description=
+patch=1,EE,003E4E90,extended,00000063
+
+[Max Item Codes\EAtk Upgrade]
+author=Code Master
+description=
+patch=1,EE,003E4BEF,extended,00000063
+
+[Max Item Codes\EDef Upgrade]
+author=Code Master
+description=
+patch=1,EE,003E4BF0,extended,00000063
+
+[Max Key Item Codes\EK ¦² Device]
+author=Code Master
+description=
+patch=1,EE,003E51D5,extended,00000063
+
+[Max Key Item Codes\EK Dark Device]
+author=Code Master
+description=
+patch=1,EE,003E51D3,extended,00000063
+
+[Max Key Item Codes\EK Device]
+author=Code Master
+description=
+patch=1,EE,003E51D1,extended,00000063
+
+[Max Key Item Codes\EK Fury Device]
+author=Code Master
+description=
+patch=1,EE,003E51D2,extended,00000063
+
+[Max Weapon Codes\EM Faden]
+author=Code Master
+description=
+patch=1,EE,003E4D12,extended,00000063
+
+[Max Weapon Codes\EM Faden R]
+author=Code Master
+description=
+patch=1,EE,003E4D13,extended,00000063
+
+[Max Bracelet Codes\Emperor's Bracelet]
+author=Code Master
+description=
+patch=1,EE,003E4E57,extended,00000063
+
+[Max Ring Codes\Enhance Ring]
+author=Code Master
+description=
+patch=1,EE,003E4E1C,extended,00000063
+
+[Max Item Codes\EP Upgrade]
+author=Code Master
+description=
+patch=1,EE,003E4BEC,extended,00000063
+
+[Max Item Codes\EPUP10]
+author=Code Master
+description=
+patch=1,EE,003E4C0F,extended,00000063
+
+[Max Item Codes\EPUP20]
+author=Code Master
+description=
+patch=1,EE,003E4C0F,extended,00000063
+
+[Max Item Codes\EPUP30]
+author=Code Master
+description=
+patch=1,EE,003E4C10,extended,00000063
+
+[Max Item Codes\Ether Core]
+author=Code Master
+description=
+patch=1,EE,003E4C05,extended,00000063
+
+[Max Item Codes\Ether Pack L]
+author=Code Master
+description=
+patch=1,EE,003E4BD7,extended,00000063
+
+[Max Item Codes\Ether Pack M]
+author=Code Master
+description=
+patch=1,EE,003E4BD6,extended,00000063
+
+[Max Item Codes\Ether Pack S]
+author=Code Master
+description=
+patch=1,EE,003E4BD5,extended,00000063
+
+[Max Item Codes\Eva Upgrade]
+author=Code Master
+description=
+patch=1,EE,003E4BF2,extended,00000063
+
+[Max Necklace Codes\Evangelist]
+author=Code Master
+description=
+patch=1,EE,003E4E89,extended,00000063
+
+[Max Item Codes\EX Skill Key I]
+author=Code Master
+description=
+patch=1,EE,003E4C09,extended,00000063
+
+[Max Item Codes\EX Skill Key II]
+author=Code Master
+description=
+patch=1,EE,003E4C0A,extended,00000063
+
+[Max Item Codes\EX Skill Key III]
+author=Code Master
+description=
+patch=1,EE,003E4C0B,extended,00000063
+
+[Miscellaneous Codes\Extra Item Usage]
+author=Code Master
+description=
+patch=1,EE,102231DC,extended,00000001
+
+[Max Key Item Codes\Federal Report 01]
+author=Code Master
+description=
+patch=1,EE,003E51E5,extended,00000063
+
+[Max Key Item Codes\Federal Report 02]
+author=Code Master
+description=
+patch=1,EE,003E51E5,extended,00000063
+
+[Max Key Item Codes\Federal Report 03]
+author=Code Master
+description=
+patch=1,EE,003E51E6,extended,00000063
+
+[Max Key Item Codes\Federal Report 04]
+author=Code Master
+description=
+patch=1,EE,003E51E8,extended,00000063
+
+[Max Key Item Codes\Federal Report 05]
+author=Code Master
+description=
+patch=1,EE,003E51E8,extended,00000063
+
+[Max Key Item Codes\Federal Report 06]
+author=Code Master
+description=
+patch=1,EE,003E51E9,extended,00000063
+
+[Max Key Item Codes\Federal Report 07]
+author=Code Master
+description=
+patch=1,EE,003E51EA,extended,00000063
+
+[Max Key Item Codes\Federal Report 08]
+author=Code Master
+description=
+patch=1,EE,003E51EB,extended,00000063
+
+[Max Armor Codes\Fiber Vest]
+author=Code Master
+description=
+patch=1,EE,003E4D83,extended,00000063
+
+[Max Bracelet Codes\Fire Wall]
+author=Code Master
+description=
+patch=1,EE,003E4E48,extended,00000063
+
+[Max Bracelet Codes\Five Stones]
+author=Code Master
+description=
+patch=1,EE,003E4E46,extended,00000063
+
+[Max Ring Codes\Flame Avatar]
+author=Code Master
+description=
+patch=1,EE,003E4E21,extended,00000063
+
+[Max Armor Codes\Flawless]
+author=Code Master
+description=
+patch=1,EE,003E4D9E,extended,00000063
+
+[Max Weapon Codes\Force Hand]
+author=Code Master
+description=
+patch=1,EE,003E4CD3,extended,00000063
+
+[Max Weapon Codes\Four Heavens]
+author=Code Master
+description=
+patch=1,EE,003E4D34,extended,00000063
+
+[Max Weapon Codes\Full Moon]
+author=Code Master
+description=
+patch=1,EE,003E4D39,extended,00000063
+
+[Max Weapon Codes\G Phalanx]
+author=Code Master
+description=
+patch=1,EE,003E4D23,extended,00000063
+
+[Max Weapon Codes\G Phalanx II]
+author=Code Master
+description=
+patch=1,EE,003E4D24,extended,00000063
+
+[Max Item Codes\G Vaccine]
+author=Code Master
+description=
+patch=1,EE,003E4BE5,extended,00000063
+
+[Max Generator Codes\G-Ignis I]
+author=Code Master
+description=
+patch=1,EE,003E4F9A,extended,00000063
+
+[Max Generator Codes\G-Ignis III]
+author=Code Master
+description=
+patch=1,EE,003E4FA0,extended,00000063
+
+[Max Generator Codes\G-Legle/42]
+author=Code Master
+description=
+patch=1,EE,003E4F94,extended,00000063
+
+[Max Generator Codes\G-Legle/56]
+author=Code Master
+description=
+patch=1,EE,003E4F97,extended,00000063
+
+[Max Generator Codes\G-Legle/85]
+author=Code Master
+description=
+patch=1,EE,003E4F9D,extended,00000063
+
+[Max Generator Codes\G-Rox/25]
+author=Code Master
+description=
+patch=1,EE,003E4F91,extended,00000063
+
+[Max Generator Codes\G-Rox/43]
+author=Code Master
+description=
+patch=1,EE,003E4F95,extended,00000063
+
+[Max Generator Codes\G-Rox/56]
+author=Code Master
+description=
+patch=1,EE,003E4F97,extended,00000063
+
+[Max Generator Codes\G-Rox/63]
+author=Code Master
+description=
+patch=1,EE,003E4F98,extended,00000063
+
+[Max Generator Codes\G-Rox/80]
+author=Code Master
+description=
+patch=1,EE,003E4F9A,extended,00000063
+
+[Max Generator Codes\G-Rox/90]
+author=Code Master
+description=
+patch=1,EE,003E4F9E,extended,00000063
+
+[Max Weapon Codes\G88 Assault]
+author=Code Master
+description=
+patch=1,EE,003E4CFC,extended,00000063
+
+[Max Weapon Codes\G90 Assault]
+author=Code Master
+description=
+patch=1,EE,003E4CFD,extended,00000063
+
+[Max Bracelet Codes\Garuda Bangle]
+author=Code Master
+description=
+patch=1,EE,003E4E5E,extended,00000063
+
+[Max Bracelet Codes\General's Bracelet]
+author=Code Master
+description=
+patch=1,EE,003E4E56,extended,00000063
+
+[Max Key Item Codes\Geocrystal]
+author=Code Master
+description=
+patch=1,EE,003E5206,extended,00000063
+
+[Max Weapon Codes\Gnosis Nail]
+author=Code Master
+description=
+patch=1,EE,003E4CF6,extended,00000063
+
+[Max Weapon Codes\God Breath]
+author=Code Master
+description=
+patch=1,EE,003E4CDF,extended,00000063
+
+[Max Bracelet Codes\God Circle]
+author=Code Master
+description=
+patch=1,EE,003E4E63,extended,00000063
+
+[Max Necklace Codes\God's Experience]
+author=Code Master
+description=
+patch=1,EE,003E4E84,extended,00000063
+
+[Max Necklace Codes\Gold Fall]
+author=Code Master
+description=
+patch=1,EE,003E4E80,extended,00000063
+
+[Max Armor Codes\Gorgon Coat]
+author=Code Master
+description=
+patch=1,EE,003E4D7B,extended,00000063
+
+[Max Armor Codes\Grampus Pannier]
+author=Code Master
+description=
+patch=1,EE,003E4D74,extended,00000063
+
+[Max Bracelet Codes\Grand Design]
+author=Code Master
+description=
+patch=1,EE,003E4E6A,extended,00000063
+
+[Max Armor Codes\Granite Mantle]
+author=Code Master
+description=
+patch=1,EE,003E4D66,extended,00000063
+
+[Max Ring Codes\Green Oasis]
+author=Code Master
+description=
+patch=1,EE,003E4E11,extended,00000063
+
+[Max Ring Codes\Green Star]
+author=Code Master
+description=
+patch=1,EE,003E4E13,extended,00000063
+
+[Max Key Item Codes\Grief Stone]
+author=Code Master
+description=
+patch=1,EE,003E520A,extended,00000063
+
+[Max Bracelet Codes\Gross Soul]
+author=Code Master
+description=
+patch=1,EE,003E4E69,extended,00000063
+
+[Max Weapon Codes\Guardian]
+author=Code Master
+description=
+patch=1,EE,003E4C97,extended,00000063
+
+[Max Armor Codes\Gustav Armor]
+author=Code Master
+description=
+patch=1,EE,003E4D5F,extended,00000063
+
+[Max Necklace Codes\Gustav Neck]
+author=Code Master
+description=
+patch=1,EE,003E4E81,extended,00000063
+
+[Max Ring Codes\Gustav Ring]
+author=Code Master
+description=
+patch=1,EE,003E4E13,extended,00000063
+
+[Max Armor Codes\Gustav Vest]
+author=Code Master
+description=
+patch=1,EE,003E4D5E,extended,00000063
+
+[Max Bracelet Codes\Gustav Wrist]
+author=Code Master
+description=
+patch=1,EE,003E4E44,extended,00000063
+
+[Max Ring Codes\Gypsy Ring]
+author=Code Master
+description=
+patch=1,EE,003E4E35,extended,00000063
+
+[Max Armor Codes\Half Coat]
+author=Code Master
+description=
+patch=1,EE,003E4D86,extended,00000063
+
+[Max Item Codes\Half Repair]
+author=Code Master
+description=
+patch=1,EE,003E4BE7,extended,00000063
+
+[Max Ring Codes\Hammurabi Spell]
+author=Code Master
+description=
+patch=1,EE,003E4E2D,extended,00000063
+
+[Max Armor Codes\Haze Robe]
+author=Code Master
+description=
+patch=1,EE,003E4D67,extended,00000063
+
+[Max Ring Codes\Heaven's Door]
+author=Code Master
+description=
+patch=1,EE,003E4E33,extended,00000063
+
+[Max Key Item Codes\Heaven's Door]
+author=Code Master
+description=
+patch=1,EE,003E5209,extended,00000063
+
+[Max Armor Codes\Heaven's Robe]
+author=Code Master
+description=
+patch=1,EE,003E4D6B,extended,00000063
+
+[Miscellaneous Codes\Hella Exp Gained After Battle]
+author=Code Master
+description=
+patch=1,EE,20ABD2B0,extended,0001869F
+
+[Miscellaneous Codes\Hella Gold Gained After Battle]
+author=Code Master
+description=
+patch=1,EE,20ABD2B8,extended,0000270F
+
+[Miscellaneous Codes\Hella SP Gained After Battle]
+author=Code Master
+description=
+patch=1,EE,20ABD2B4,extended,0001869F
+
+[Max Bracelet Codes\Hero's Bracelet]
+author=Code Master
+description=
+patch=1,EE,003E4E54,extended,00000063
+
+[Max Weapon Codes\Hinoka Kagura]
+author=Code Master
+description=
+patch=1,EE,003E4CA2,extended,00000063
+
+[Max Weapon Codes\Hinoka Sanju]
+author=Code Master
+description=
+patch=1,EE,003E4C9D,extended,00000063
+
+[Max Armor Codes\Honey Teddy]
+author=Code Master
+description=
+patch=1,EE,003E4D7E,extended,00000063
+
+[Max Item Codes\HP Upgrade]
+author=Code Master
+description=
+patch=1,EE,003E4BEB,extended,00000063
+
+[Max Item Codes\HPUP100]
+author=Code Master
+description=
+patch=1,EE,003E4C07,extended,00000063
+
+[Max Item Codes\HPUP200]
+author=Code Master
+description=
+patch=1,EE,003E4C0C,extended,00000063
+
+[Max Item Codes\HPUP300]
+author=Code Master
+description=
+patch=1,EE,C175D532,extended,AE50F0A8
+
+[Max Bracelet Codes\Hydra Heal]
+author=Code Master
+description=
+patch=1,EE,003E4E4A,extended,00000063
+
+[Max Item Codes\I.D. Plate]
+author=Code Master
+description=
+patch=1,EE,003E4BFD,extended,00000063
+
+[Max Ring Codes\Ice Avatar]
+author=Code Master
+description=
+patch=1,EE,003E4E23,extended,00000063
+
+[Max Bracelet Codes\Ice Wall]
+author=Code Master
+description=
+patch=1,EE,003E4E4E,extended,00000063
+
+[Max Bracelet Codes\Imperial]
+author=Code Master
+description=
+patch=1,EE,003E4E63,extended,00000063
+
+[Ziggy Codes\Infinite EP]
+author=Code Master
+description=
+patch=1,EE,104CAEF4,extended,0000270F
+
+[E.S. Reuben Codes\Infinite EP]
+author=Code Master
+description=
+patch=1,EE,C09874BD,extended,0B147701
+
+[Allen Codes\Infinite EP]
+author=Code Master
+description=
+patch=1,EE,104CB464,extended,0000270F
+
+[E.S. Dinah Codes\Infinite EP]
+author=Code Master
+description=
+patch=1,EE,104CB8EC,extended,0000270F
+
+[Chaos Codes\Infinite EP]
+author=Code Master
+description=
+patch=1,EE,104CB0C4,extended,0000270F
+
+[E.S. Zebulun Codes\Infinite EP]
+author=Code Master
+description=
+patch=1,EE,104CB804,extended,0000270F
+
+[Character 1 Codes\Infinite EP]
+author=Code Master
+description=
+patch=1,EE,10AC3C9C,extended,0000270F
+
+[Character 2 Codes\Infinite EP]
+author=Code Master
+description=
+patch=1,EE,10AC3D84,extended,0000270F
+
+[Character 3 Codes\Infinite EP]
+author=Code Master
+description=
+patch=1,EE,10AC3E6C,extended,0000270F
+
+[Miyuki Codes\Infinite EP]
+author=Code Master
+description=
+patch=1,EE,104CB294,extended,0000270F
+
+[MOMO Codes\Infinite EP]
+author=Code Master
+description=
+patch=1,EE,104CAE0C,extended,0000270F
+
+[KOS-MOS Codes\Infinite EP]
+author=Code Master
+description=
+patch=1,EE,104CAFDC,extended,0000270F
+
+[Jr. Codes\Infinite EP]
+author=Code Master
+description=
+patch=1,EE,104CB1AC,extended,0000270F
+
+[E.S. Asher Codes\Infinite EP]
+author=Code Master
+description=
+patch=1,EE,104CB71C,extended,0000270F
+
+[Jin Codes\Infinite EP]
+author=Code Master
+description=
+patch=1,EE,104CAD24,extended,0000270F
+
+[Shion Codes\Infinite EP]
+author=Code Master
+description=
+patch=1,EE,104CAC3C,extended,0000270F
+
+[Canaan Codes\Infinite EP]
+author=Code Master
+description=
+patch=1,EE,104CB37C,extended,0000270F
+
+[Miscellaneous Codes\Infinite Gold]
+author=Code Master
+description=
+patch=1,EE,10550964,extended,0000FFFF
+
+[Ziggy Codes\Infinite HP]
+author=Code Master
+description=
+patch=1,EE,204CAEF0,extended,0000270F
+
+[E.S. Reuben Codes\Infinite HP]
+author=Code Master
+description=
+patch=1,EE,204CB9D0,extended,0000270F
+
+[Allen Codes\Infinite HP]
+author=Code Master
+description=
+patch=1,EE,204CB460,extended,0000270F
+
+[E.S. Dinah Codes\Infinite HP]
+author=Code Master
+description=
+patch=1,EE,204CB8E8,extended,0000270F
+
+[Chaos Codes\Infinite HP]
+author=Code Master
+description=
+patch=1,EE,204CB0C0,extended,0000270F
+
+[E.S. Zebulun Codes\Infinite HP]
+author=Code Master
+description=
+patch=1,EE,204CB800,extended,0000270F
+
+[Character 1 Codes\Infinite HP]
+author=Code Master
+description=
+patch=1,EE,20AC3C98,extended,0000270F
+
+[Character 2 Codes\Infinite HP]
+author=Code Master
+description=
+patch=1,EE,20AC3D80,extended,0000270F
+
+[Character 3 Codes\Infinite HP]
+author=Code Master
+description=
+patch=1,EE,20AC3E68,extended,0000270F
+
+[Miyuki Codes\Infinite HP]
+author=Code Master
+description=
+patch=1,EE,204CB290,extended,0000270F
+
+[MOMO Codes\Infinite HP]
+author=Code Master
+description=
+patch=1,EE,204CAE08,extended,0000270F
+
+[KOS-MOS Codes\Infinite HP]
+author=Code Master
+description=
+patch=1,EE,204CAFD8,extended,0000270F
+
+[Jr. Codes\Infinite HP]
+author=Code Master
+description=
+patch=1,EE,204CB1A8,extended,0000270F
+
+[E.S. Asher Codes\Infinite HP]
+author=Code Master
+description=
+patch=1,EE,204CB718,extended,0000270F
+
+[Jin Codes\Infinite HP]
+author=Code Master
+description=
+patch=1,EE,204CAD20,extended,0000270F
+
+[Shion Codes\Infinite HP]
+author=Code Master
+description=
+patch=1,EE,204CAC38,extended,0000270F
+
+[Canaan Codes\Infinite HP]
+author=Code Master
+description=
+patch=1,EE,204CB378,extended,0000270F
+
+[Miscellaneous Codes\Infinite Item Usage]
+author=Code Master
+description=
+patch=1,EE,202231DC,extended,24500000
+
+[Max Necklace Codes\Iron Maiden]
+author=Code Master
+description=
+patch=1,EE,003E4E88,extended,00000063
+
+[Max Armor Codes\Jade Phoenix]
+author=Code Master
+description=
+patch=1,EE,003E4D66,extended,00000063
+
+[Character 1 Modifier Codes\Jin]
+author=Code Master
+description=
+patch=1,EE,003E6B82,extended,00000002
+
+[Character 2 Modifier Codes\Jin]
+author=Code Master
+description=
+patch=1,EE,908004C5,extended,2742BDC5
+
+[Character 3 Modifier Codes\Jin]
+author=Code Master
+description=
+patch=1,EE,003E6B84,extended,00000002
+
+[Character 4 Modifier Codes\Jin]
+author=Code Master
+description=
+patch=1,EE,003E6B85,extended,00000002
+
+[Character 5 Modifier Codes\Jin]
+author=Code Master
+description=
+patch=1,EE,003E6B86,extended,00000002
+
+[Character 6 Modifier Codes\Jin]
+author=Code Master
+description=
+patch=1,EE,003E6B88,extended,00000002
+
+[Max Armor Codes\Jin's Swimsuit]
+author=Code Master
+description=
+patch=1,EE,003E4D93,extended,00000063
+
+[Character 1 Modifier Codes\Jr.]
+author=Code Master
+description=
+patch=1,EE,003E6B82,extended,00000007
+
+[Character 2 Modifier Codes\Jr.]
+author=Code Master
+description=
+patch=1,EE,003E6B83,extended,00000007
+
+[Character 3 Modifier Codes\Jr.]
+author=Code Master
+description=
+patch=1,EE,003E6B84,extended,00000007
+
+[Character 4 Modifier Codes\Jr.]
+author=Code Master
+description=
+patch=1,EE,003E6B85,extended,00000007
+
+[Character 5 Modifier Codes\Jr.]
+author=Code Master
+description=
+patch=1,EE,003E6B86,extended,00000007
+
+[Character 6 Modifier Codes\Jr.]
+author=Code Master
+description=
+patch=1,EE,003E6B88,extended,00000007
+
+[Max Armor Codes\Jr.'s Swimsuit]
+author=Code Master
+description=
+patch=1,EE,003E4D97,extended,00000063
+
+[Max Item Codes\Junked Circuit]
+author=Code Master
+description=
+patch=1,EE,003E4C05,extended,00000063
+
+[Max Armor Codes\Kagic Shirt]
+author=Code Master
+description=
+patch=1,EE,003E4D70,extended,00000063
+
+[Max Armor Codes\Kajic Blouse]
+author=Code Master
+description=
+patch=1,EE,003E4D7C,extended,00000063
+
+[Max Armor Codes\Kajic Cape]
+author=Code Master
+description=
+patch=1,EE,003E4D77,extended,00000063
+
+[Max Necklace Codes\Kajic Neck]
+author=Code Master
+description=
+patch=1,EE,003E4E78,extended,00000063
+
+[Max Ring Codes\Kajic Ring]
+author=Code Master
+description=
+patch=1,EE,003E4E16,extended,00000063
+
+[Max Bracelet Codes\Kajic Wrist]
+author=Code Master
+description=
+patch=1,EE,003E4E59,extended,00000063
+
+[Max Armor Codes\KAP-AZA]
+author=Code Master
+description=
+patch=1,EE,003E4D51,extended,00000063
+
+[Max Armor Codes\KAP-BEG]
+author=Code Master
+description=
+patch=1,EE,003E4D52,extended,00000063
+
+[Max Armor Codes\KAP-CLE]
+author=Code Master
+description=
+patch=1,EE,003E4D53,extended,00000063
+
+[Max Armor Codes\KAP-COS]
+author=Code Master
+description=
+patch=1,EE,003E4D54,extended,00000063
+
+[Max Armor Codes\KAP-GLA]
+author=Code Master
+description=
+patch=1,EE,003E4D56,extended,00000063
+
+[Max Armor Codes\KAP-NAR]
+author=Code Master
+description=
+patch=1,EE,003E4D56,extended,00000063
+
+[Max Armor Codes\KAP-SAL]
+author=Code Master
+description=
+patch=1,EE,003E4D57,extended,00000063
+
+[Max Armor Codes\KAP-SAN]
+author=Code Master
+description=
+patch=1,EE,C1BEBDFC,extended,8BF2CB0A
+
+[Max Armor Codes\KAP-VEL]
+author=Code Master
+description=
+patch=1,EE,003E4D5A,extended,00000063
+
+[Max Armor Codes\KAP-VEN]
+author=Code Master
+description=
+patch=1,EE,003E4D59,extended,00000063
+
+[Max Necklace Codes\Kibisis]
+author=Code Master
+description=
+patch=1,EE,003E4E8A,extended,00000063
+
+[Max Bracelet Codes\King Jack]
+author=Code Master
+description=
+patch=1,EE,003E4E60,extended,00000063
+
+[Max Ring Codes\Knight Ring]
+author=Code Master
+description=
+patch=1,EE,003E4E34,extended,00000063
+
+[Character 1 Modifier Codes\KOS-MOS]
+author=Code Master
+description=
+patch=1,EE,003E6B82,extended,00000005
+
+[Character 2 Modifier Codes\KOS-MOS]
+author=Code Master
+description=
+patch=1,EE,003E6B83,extended,00000005
+
+[Character 3 Modifier Codes\KOS-MOS]
+author=Code Master
+description=
+patch=1,EE,003E6B84,extended,00000005
+
+[Character 4 Modifier Codes\KOS-MOS]
+author=Code Master
+description=
+patch=1,EE,003E6B85,extended,00000005
+
+[Character 5 Modifier Codes\KOS-MOS]
+author=Code Master
+description=
+patch=1,EE,003E6B86,extended,00000005
+
+[Character 6 Modifier Codes\KOS-MOS]
+author=Code Master
+description=
+patch=1,EE,003E6B88,extended,00000005
+
+[Max Armor Codes\KOS-MOS's Swimsuit]
+author=Code Master
+description=
+patch=1,EE,003E4D96,extended,00000063
+
+[Max Weapon Codes\Kritias]
+author=Code Master
+description=
+patch=1,EE,003E4CDC,extended,00000063
+
+[Max Weapon Codes\KWAP-PII]
+author=Code Master
+description=
+patch=1,EE,003E4CC6,extended,00000063
+
+[Max Weapon Codes\KWP-PI]
+author=Code Master
+description=
+patch=1,EE,003E4CC4,extended,00000063
+
+[Max Weapon Codes\KWP-XI]
+author=Code Master
+description=
+patch=1,EE,003E4CC9,extended,00000063
+
+[Max Weapon Codes\KWP-XII]
+author=Code Master
+description=
+patch=1,EE,003E4CCA,extended,00000063
+
+[Max Weapon Codes\KWP-XIII]
+author=Code Master
+description=
+patch=1,EE,003E4CCC,extended,00000063
+
+[Max Weapon Codes\KWP-XIV]
+author=Code Master
+description=
+patch=1,EE,003E4CCD,extended,00000063
+
+[Max Weapon Codes\KWP-XV]
+author=Code Master
+description=
+patch=1,EE,003E4CCF,extended,00000063
+
+[Max Weapon Codes\KWP-XX]
+author=Code Master
+description=
+patch=1,EE,003E4CCF,extended,00000063
+
+[Max Armor Codes\Lace Tank Top]
+author=Code Master
+description=
+patch=1,EE,003E4D73,extended,00000063
+
+[Max Necklace Codes\Leather Choker]
+author=Code Master
+description=
+patch=1,EE,003E4E75,extended,00000063
+
+[Max Armor Codes\Leather Jacket]
+author=Code Master
+description=
+patch=1,EE,003E4D80,extended,00000063
+
+[Max Weapon Codes\Legacy of Zara]
+author=Code Master
+description=
+patch=1,EE,003E4CE5,extended,00000063
+
+[Max Item Codes\Lemon Ice Cream]
+author=Code Master
+description=
+patch=1,EE,003E4BF9,extended,00000063
+
+[Ziggy Codes\Level 99]
+author=Code Master
+description=
+patch=1,EE,004CAECC,extended,00000063
+
+[E.S. Reuben Codes\Level 99]
+author=Code Master
+description=
+patch=1,EE,C1707061,extended,86D9B192
+
+[Allen Codes\Level 99]
+author=Code Master
+description=
+patch=1,EE,004CB43C,extended,00000063
+
+[E.S. Dinah Codes\Level 99]
+author=Code Master
+description=
+patch=1,EE,004CB8C4,extended,00000063
+
+[Chaos Codes\Level 99]
+author=Code Master
+description=
+patch=1,EE,004CB09C,extended,00000063
+
+[E.S. Zebulun Codes\Level 99]
+author=Code Master
+description=
+patch=1,EE,004CB7DC,extended,00000063
+
+[Character 1 Codes\Level 99]
+author=Code Master
+description=
+patch=1,EE,00AC3C74,extended,00000063
+
+[Character 2 Codes\Level 99]
+author=Code Master
+description=
+patch=1,EE,00AC3D5C,extended,00000063
+
+[Character 3 Codes\Level 99]
+author=Code Master
+description=
+patch=1,EE,00AC3E44,extended,00000063
+
+[Enemy 1 Codes\Level 99]
+author=Code Master
+description=
+patch=1,EE,00AC4584,extended,00000000
+
+[Enemy 2 Codes\Level 99]
+author=Code Master
+description=
+patch=1,EE,00AC466C,extended,00000000
+
+[Enemy 3 Codes\Level 99]
+author=Code Master
+description=
+patch=1,EE,00AC4754,extended,00000000
+
+[Enemy 4 Codes\Level 99]
+author=Code Master
+description=
+patch=1,EE,00AC483C,extended,00000000
+
+[Miyuki Codes\Level 99]
+author=Code Master
+description=
+patch=1,EE,004CB26C,extended,00000063
+
+[MOMO Codes\Level 99]
+author=Code Master
+description=
+patch=1,EE,004CADE4,extended,00000063
+
+[KOS-MOS Codes\Level 99]
+author=Code Master
+description=
+patch=1,EE,004CAFB4,extended,00000063
+
+[Jr. Codes\Level 99]
+author=Code Master
+description=
+patch=1,EE,004CB184,extended,00000063
+
+[E.S. Asher Codes\Level 99]
+author=Code Master
+description=
+patch=1,EE,004CB6F4,extended,00000063
+
+[Jin Codes\Level 99]
+author=Code Master
+description=
+patch=1,EE,004CACFC,extended,00000063
+
+[Shion Codes\Level 99]
+author=Code Master
+description=
+patch=1,EE,004CAC14,extended,00000063
+
+[Canaan Codes\Level 99]
+author=Code Master
+description=
+patch=1,EE,004CB355,extended,00000063
+
+[Max Ring Codes\Life Demon]
+author=Code Master
+description=
+patch=1,EE,003E4E37,extended,00000063
+
+[Max Ring Codes\Life Leech]
+author=Code Master
+description=
+patch=1,EE,003E4E36,extended,00000063
+
+[Max Ring Codes\Lightning Avatar]
+author=Code Master
+description=
+patch=1,EE,003E4E23,extended,00000063
+
+[Max Weapon Codes\Lindwurm]
+author=Code Master
+description=
+patch=1,EE,003E4D14,extended,00000063
+
+[Max Weapon Codes\Lindwurm M2]
+author=Code Master
+description=
+patch=1,EE,003E4D16,extended,00000063
+
+[Max Armor Codes\Long Horn]
+author=Code Master
+description=
+patch=1,EE,003E4D90,extended,00000063
+
+[Max Ring Codes\Lost Kingdom]
+author=Code Master
+description=
+patch=1,EE,003E4E2E,extended,00000063
+
+[Enemy 1 Codes\Low Max HP]
+author=Code Master
+description=
+patch=1,EE,20AC4570,extended,00000001
+
+[Enemy 2 Codes\Low Max HP]
+author=Code Master
+description=
+patch=1,EE,20AC4658,extended,00000001
+
+[Enemy 3 Codes\Low Max HP]
+author=Code Master
+description=
+patch=1,EE,20AC4740,extended,00000001
+
+[Enemy 4 Codes\Low Max HP]
+author=Code Master
+description=
+patch=1,EE,20AC4828,extended,00000001
+
+[Max Item Codes\Luck Upgrade]
+author=Code Master
+description=
+patch=1,EE,003E4BF5,extended,00000063
+
+[Max Ring Codes\Mana Heal]
+author=Code Master
+description=
+patch=1,EE,003E4E39,extended,00000063
+
+[Max Ring Codes\Mana Leech]
+author=Code Master
+description=
+patch=1,EE,804D771C,extended,409058B7
+
+[Max Key Item Codes\Margulis's Sword]
+author=Code Master
+description=
+patch=1,EE,003E5205,extended,00000063
+
+[Max Weapon Codes\Marki Shooter]
+author=Code Master
+description=
+patch=1,EE,003E4CB3,extended,00000063
+
+[Ziggy Codes\Max Agi]
+author=Code Master
+description=
+patch=1,EE,004CAECA,extended,00000063
+
+[E.S. Reuben Codes\Max Agi]
+author=Code Master
+description=
+patch=1,EE,004CB9AA,extended,00000063
+
+[Allen Codes\Max Agi]
+author=Code Master
+description=
+patch=1,EE,004CB43A,extended,00000063
+
+[E.S. Dinah Codes\Max Agi]
+author=Code Master
+description=
+patch=1,EE,004CB8C2,extended,00000063
+
+[Chaos Codes\Max Agi]
+author=Code Master
+description=
+patch=1,EE,004CB09A,extended,00000063
+
+[E.S. Zebulun Codes\Max Agi]
+author=Code Master
+description=
+patch=1,EE,004CB7DA,extended,00000063
+
+[Character 1 Codes\Max Agi]
+author=Code Master
+description=
+patch=1,EE,00AC3C72,extended,00000063
+
+[Character 2 Codes\Max Agi]
+author=Code Master
+description=
+patch=1,EE,00AC3D5A,extended,00000063
+
+[Character 3 Codes\Max Agi]
+author=Code Master
+description=
+patch=1,EE,00AC3E42,extended,00000063
+
+[Miyuki Codes\Max Agi]
+author=Code Master
+description=
+patch=1,EE,004CB26B,extended,00000063
+
+[MOMO Codes\Max Agi]
+author=Code Master
+description=
+patch=1,EE,004CADE2,extended,00000063
+
+[KOS-MOS Codes\Max Agi]
+author=Code Master
+description=
+patch=1,EE,004CAFB3,extended,00000063
+
+[Jr. Codes\Max Agi]
+author=Code Master
+description=
+patch=1,EE,004CB182,extended,00000063
+
+[E.S. Asher Codes\Max Agi]
+author=Code Master
+description=
+patch=1,EE,004CB6F2,extended,00000063
+
+[Jin Codes\Max Agi]
+author=Code Master
+description=
+patch=1,EE,004CACFA,extended,00000063
+
+[Shion Codes\Max Agi]
+author=Code Master
+description=
+patch=1,EE,004CAC12,extended,00000063
+
+[Canaan Codes\Max Agi]
+author=Code Master
+description=
+patch=1,EE,004CB352,extended,00000063
+
+[Ziggy Codes\Max Break Limit]
+author=Code Master
+description=
+patch=1,EE,104CAEC6,extended,0000270F
+
+[E.S. Reuben Codes\Max Break Limit]
+author=Code Master
+description=
+patch=1,EE,104CB9A6,extended,0000270F
+
+[Allen Codes\Max Break Limit]
+author=Code Master
+description=
+patch=1,EE,104CB436,extended,0000270F
+
+[E.S. Dinah Codes\Max Break Limit]
+author=Code Master
+description=
+patch=1,EE,104CB8BE,extended,0000270F
+
+[Chaos Codes\Max Break Limit]
+author=Code Master
+description=
+patch=1,EE,104CB096,extended,0000270F
+
+[E.S. Zebulun Codes\Max Break Limit]
+author=Code Master
+description=
+patch=1,EE,104CB7D6,extended,0000270F
+
+[Character 1 Codes\Max Break Limit]
+author=Code Master
+description=
+patch=1,EE,10AC3C6E,extended,0000270F
+
+[Character 2 Codes\Max Break Limit]
+author=Code Master
+description=
+patch=1,EE,10AC3D56,extended,0000270F
+
+[Character 3 Codes\Max Break Limit]
+author=Code Master
+description=
+patch=1,EE,10AC3E3E,extended,0000270F
+
+[Miyuki Codes\Max Break Limit]
+author=Code Master
+description=
+patch=1,EE,104CB266,extended,0000270F
+
+[MOMO Codes\Max Break Limit]
+author=Code Master
+description=
+patch=1,EE,104CADDE,extended,0000270F
+
+[KOS-MOS Codes\Max Break Limit]
+author=Code Master
+description=
+patch=1,EE,104CAFAE,extended,0000270F
+
+[Jr. Codes\Max Break Limit]
+author=Code Master
+description=
+patch=1,EE,104CB17E,extended,0000270F
+
+[E.S. Asher Codes\Max Break Limit]
+author=Code Master
+description=
+patch=1,EE,104CB6EE,extended,0000270F
+
+[Jin Codes\Max Break Limit]
+author=Code Master
+description=
+patch=1,EE,104CACF6,extended,0000270F
+
+[Shion Codes\Max Break Limit]
+author=Code Master
+description=
+patch=1,EE,104CAC0E,extended,0000270F
+
+[Canaan Codes\Max Break Limit]
+author=Code Master
+description=
+patch=1,EE,104CB34E,extended,0000270F
+
+[Ziggy Codes\Max Dex]
+author=Code Master
+description=
+patch=1,EE,004CAEC9,extended,00000063
+
+[E.S. Reuben Codes\Max Dex]
+author=Code Master
+description=
+patch=1,EE,004CB9A8,extended,00000063
+
+[Allen Codes\Max Dex]
+author=Code Master
+description=
+patch=1,EE,004CB438,extended,00000063
+
+[E.S. Dinah Codes\Max Dex]
+author=Code Master
+description=
+patch=1,EE,004CB8C1,extended,00000063
+
+[Chaos Codes\Max Dex]
+author=Code Master
+description=
+patch=1,EE,004CB098,extended,00000063
+
+[E.S. Zebulun Codes\Max Dex]
+author=Code Master
+description=
+patch=1,EE,004CB7D8,extended,00000063
+
+[Character 1 Codes\Max Dex]
+author=Code Master
+description=
+patch=1,EE,00AC3C70,extended,00000063
+
+[Character 2 Codes\Max Dex]
+author=Code Master
+description=
+patch=1,EE,00AC3D58,extended,00000063
+
+[Character 3 Codes\Max Dex]
+author=Code Master
+description=
+patch=1,EE,00AC3E40,extended,00000063
+
+[Miyuki Codes\Max Dex]
+author=Code Master
+description=
+patch=1,EE,004CB268,extended,00000063
+
+[MOMO Codes\Max Dex]
+author=Code Master
+description=
+patch=1,EE,004CADE0,extended,00000063
+
+[KOS-MOS Codes\Max Dex]
+author=Code Master
+description=
+patch=1,EE,004CAFB0,extended,00000063
+
+[Jr. Codes\Max Dex]
+author=Code Master
+description=
+patch=1,EE,004CB181,extended,00000063
+
+[E.S. Asher Codes\Max Dex]
+author=Code Master
+description=
+patch=1,EE,004CB6F0,extended,00000063
+
+[Jin Codes\Max Dex]
+author=Code Master
+description=
+patch=1,EE,004CACF8,extended,00000063
+
+[Shion Codes\Max Dex]
+author=Code Master
+description=
+patch=1,EE,004CAC10,extended,00000063
+
+[Canaan Codes\Max Dex]
+author=Code Master
+description=
+patch=1,EE,004CB350,extended,00000063
+
+[Ziggy Codes\Max EAtk]
+author=Code Master
+description=
+patch=1,EE,104CAEC2,extended,000003E7
+
+[E.S. Reuben Codes\Max EAtk]
+author=Code Master
+description=
+patch=1,EE,104CB9A2,extended,000003E7
+
+[Allen Codes\Max EAtk]
+author=Code Master
+description=
+patch=1,EE,104CB432,extended,000003E7
+
+[E.S. Dinah Codes\Max EAtk]
+author=Code Master
+description=
+patch=1,EE,104CB8BA,extended,000003E7
+
+[Chaos Codes\Max EAtk]
+author=Code Master
+description=
+patch=1,EE,104CB092,extended,000003E7
+
+[E.S. Zebulun Codes\Max EAtk]
+author=Code Master
+description=
+patch=1,EE,104CB7D2,extended,000003E7
+
+[Character 1 Codes\Max EAtk]
+author=Code Master
+description=
+patch=1,EE,10AC3C6A,extended,000003E7
+
+[Character 2 Codes\Max EAtk]
+author=Code Master
+description=
+patch=1,EE,10AC3D52,extended,000003E7
+
+[Character 3 Codes\Max EAtk]
+author=Code Master
+description=
+patch=1,EE,10AC3E3A,extended,000003E7
+
+[Miyuki Codes\Max EAtk]
+author=Code Master
+description=
+patch=1,EE,104CB262,extended,000003E7
+
+[MOMO Codes\Max EAtk]
+author=Code Master
+description=
+patch=1,EE,104CADDA,extended,000003E7
+
+[KOS-MOS Codes\Max EAtk]
+author=Code Master
+description=
+patch=1,EE,104CAFAA,extended,000003E7
+
+[Jr. Codes\Max EAtk]
+author=Code Master
+description=
+patch=1,EE,104CB17A,extended,000003E7
+
+[E.S. Asher Codes\Max EAtk]
+author=Code Master
+description=
+patch=1,EE,104CB6EA,extended,000003E7
+
+[Jin Codes\Max EAtk]
+author=Code Master
+description=
+patch=1,EE,104CACF2,extended,000003E7
+
+[Shion Codes\Max EAtk]
+author=Code Master
+description=
+patch=1,EE,104CAC0A,extended,000003E7
+
+[Canaan Codes\Max EAtk]
+author=Code Master
+description=
+patch=1,EE,104CB34A,extended,000003E7
+
+[Ziggy Codes\Max EDef]
+author=Code Master
+description=
+patch=1,EE,104CAEC4,extended,000003E7
+
+[E.S. Reuben Codes\Max EDef]
+author=Code Master
+description=
+patch=1,EE,104CB9A4,extended,000003E7
+
+[Allen Codes\Max EDef]
+author=Code Master
+description=
+patch=1,EE,104CB434,extended,000003E7
+
+[E.S. Dinah Codes\Max EDef]
+author=Code Master
+description=
+patch=1,EE,104CB8BC,extended,000003E7
+
+[Chaos Codes\Max EDef]
+author=Code Master
+description=
+patch=1,EE,104CB094,extended,000003E7
+
+[E.S. Zebulun Codes\Max EDef]
+author=Code Master
+description=
+patch=1,EE,104CB7D4,extended,000003E7
+
+[Character 1 Codes\Max EDef]
+author=Code Master
+description=
+patch=1,EE,10AC3C6C,extended,000003E7
+
+[Character 2 Codes\Max EDef]
+author=Code Master
+description=
+patch=1,EE,10AC3D54,extended,000003E7
+
+[Character 3 Codes\Max EDef]
+author=Code Master
+description=
+patch=1,EE,10AC3E3C,extended,000003E7
+
+[Miyuki Codes\Max EDef]
+author=Code Master
+description=
+patch=1,EE,104CB264,extended,000003E7
+
+[MOMO Codes\Max EDef]
+author=Code Master
+description=
+patch=1,EE,104CADDC,extended,000003E7
+
+[KOS-MOS Codes\Max EDef]
+author=Code Master
+description=
+patch=1,EE,104CAFAC,extended,000003E7
+
+[Jr. Codes\Max EDef]
+author=Code Master
+description=
+patch=1,EE,104CB17C,extended,000003E7
+
+[E.S. Asher Codes\Max EDef]
+author=Code Master
+description=
+patch=1,EE,104CB6EC,extended,000003E7
+
+[Jin Codes\Max EDef]
+author=Code Master
+description=
+patch=1,EE,104CACF4,extended,000003E7
+
+[Shion Codes\Max EDef]
+author=Code Master
+description=
+patch=1,EE,104CAC0C,extended,000003E7
+
+[Canaan Codes\Max EDef]
+author=Code Master
+description=
+patch=1,EE,104CB34C,extended,000003E7
+
+[Ziggy Codes\Max EP]
+author=Code Master
+description=
+patch=1,EE,104CAEBC,extended,0000270F
+
+[E.S. Reuben Codes\Max EP]
+author=Code Master
+description=
+patch=1,EE,104CB99C,extended,0000270F
+
+[Allen Codes\Max EP]
+author=Code Master
+description=
+patch=1,EE,104CB42C,extended,0000270F
+
+[E.S. Dinah Codes\Max EP]
+author=Code Master
+description=
+patch=1,EE,104CB8B4,extended,0000270F
+
+[Chaos Codes\Max EP]
+author=Code Master
+description=
+patch=1,EE,104CB08C,extended,0000270F
+
+[E.S. Zebulun Codes\Max EP]
+author=Code Master
+description=
+patch=1,EE,104CB7CC,extended,0000270F
+
+[Character 1 Codes\Max EP]
+author=Code Master
+description=
+patch=1,EE,10AC3C64,extended,0000270F
+
+[Character 2 Codes\Max EP]
+author=Code Master
+description=
+patch=1,EE,10AC3D4C,extended,0000270F
+
+[Character 3 Codes\Max EP]
+author=Code Master
+description=
+patch=1,EE,10AC3E34,extended,0000270F
+
+[Miyuki Codes\Max EP]
+author=Code Master
+description=
+patch=1,EE,104CB25C,extended,0000270F
+
+[MOMO Codes\Max EP]
+author=Code Master
+description=
+patch=1,EE,104CADD4,extended,0000270F
+
+[KOS-MOS Codes\Max EP]
+author=Code Master
+description=
+patch=1,EE,104CAFA4,extended,0000270F
+
+[Jr. Codes\Max EP]
+author=Code Master
+description=
+patch=1,EE,104CB174,extended,0000270F
+
+[E.S. Asher Codes\Max EP]
+author=Code Master
+description=
+patch=1,EE,104CB6E4,extended,0000270F
+
+[Jin Codes\Max EP]
+author=Code Master
+description=
+patch=1,EE,104CACEC,extended,0000270F
+
+[Shion Codes\Max EP]
+author=Code Master
+description=
+patch=1,EE,104CAC04,extended,0000270F
+
+[Canaan Codes\Max EP]
+author=Code Master
+description=
+patch=1,EE,104CB344,extended,0000270F
+
+[Ziggy Codes\Max Eva]
+author=Code Master
+description=
+patch=1,EE,004CAEC9,extended,00000063
+
+[E.S. Reuben Codes\Max Eva]
+author=Code Master
+description=
+patch=1,EE,004CB9A9,extended,00000063
+
+[Allen Codes\Max Eva]
+author=Code Master
+description=
+patch=1,EE,004CB439,extended,00000063
+
+[E.S. Dinah Codes\Max Eva]
+author=Code Master
+description=
+patch=1,EE,004CB8C1,extended,00000063
+
+[Chaos Codes\Max Eva]
+author=Code Master
+description=
+patch=1,EE,004CB09A,extended,00000063
+
+[E.S. Zebulun Codes\Max Eva]
+author=Code Master
+description=
+patch=1,EE,004CB7D9,extended,00000063
+
+[Character 1 Codes\Max Eva]
+author=Code Master
+description=
+patch=1,EE,00AC3C71,extended,00000063
+
+[Character 2 Codes\Max Eva]
+author=Code Master
+description=
+patch=1,EE,00AC3D59,extended,00000063
+
+[Character 3 Codes\Max Eva]
+author=Code Master
+description=
+patch=1,EE,00AC3E41,extended,00000063
+
+[Miyuki Codes\Max Eva]
+author=Code Master
+description=
+patch=1,EE,004CB269,extended,00000063
+
+[MOMO Codes\Max Eva]
+author=Code Master
+description=
+patch=1,EE,004CADE1,extended,00000063
+
+[KOS-MOS Codes\Max Eva]
+author=Code Master
+description=
+patch=1,EE,004CAFB1,extended,00000063
+
+[Jr. Codes\Max Eva]
+author=Code Master
+description=
+patch=1,EE,004CB181,extended,00000063
+
+[E.S. Asher Codes\Max Eva]
+author=Code Master
+description=
+patch=1,EE,21E54F5C,extended,FAE1E1B8
+
+[Jin Codes\Max Eva]
+author=Code Master
+description=
+patch=1,EE,004CACF9,extended,00000063
+
+[Shion Codes\Max Eva]
+author=Code Master
+description=
+patch=1,EE,004CAC11,extended,00000063
+
+[Canaan Codes\Max Eva]
+author=Code Master
+description=
+patch=1,EE,004CB352,extended,00000063
+
+[Ziggy Codes\Max Exp]
+author=Code Master
+description=
+patch=1,EE,204CBD58,extended,05F5E0FF
+
+[E.S. Reuben Codes\Max Exp]
+author=Code Master
+description=
+patch=1,EE,204CC178,extended,05F5E0FF
+
+[Allen Codes\Max Exp]
+author=Code Master
+description=
+patch=1,EE,204CBF68,extended,05F5E0FF
+
+[E.S. Dinah Codes\Max Exp]
+author=Code Master
+description=
+patch=1,EE,204CC120,extended,05F5E0FF
+
+[Chaos Codes\Max Exp]
+author=Code Master
+description=
+patch=1,EE,204CBE08,extended,05F5E0FF
+
+[E.S. Zebulun Codes\Max Exp]
+author=Code Master
+description=
+patch=1,EE,204CC0C8,extended,05F5E0FF
+
+[Miyuki Codes\Max Exp]
+author=Code Master
+description=
+patch=1,EE,204CBEB8,extended,05F5E0FF
+
+[MOMO Codes\Max Exp]
+author=Code Master
+description=
+patch=1,EE,204CBD00,extended,05F5E0FF
+
+[KOS-MOS Codes\Max Exp]
+author=Code Master
+description=
+patch=1,EE,204CBDB0,extended,05F5E0FF
+
+[Jr. Codes\Max Exp]
+author=Code Master
+description=
+patch=1,EE,204CBE60,extended,05F5E0FF
+
+[E.S. Asher Codes\Max Exp]
+author=Code Master
+description=
+patch=1,EE,204CC070,extended,05F5E0FF
+
+[Jin Codes\Max Exp]
+author=Code Master
+description=
+patch=1,EE,204CBCA8,extended,05F5E0FF
+
+[Shion Codes\Max Exp]
+author=Code Master
+description=
+patch=1,EE,204CBC50,extended,05F5E0FF
+
+[Canaan Codes\Max Exp]
+author=Code Master
+description=
+patch=1,EE,204CBF10,extended,05F5E0FF
+
+[Miscellaneous Codes\Max Gold]
+author=Code Master
+description=
+patch=1,EE,20550964,extended,05F5E0FF
+
+[Ziggy Codes\Max HP]
+author=Code Master
+description=
+patch=1,EE,204CAEB8,extended,0000270F
+
+[E.S. Reuben Codes\Max HP]
+author=Code Master
+description=
+patch=1,EE,204CB998,extended,0000270F
+
+[Allen Codes\Max HP]
+author=Code Master
+description=
+patch=1,EE,204CB428,extended,0000270F
+
+[E.S. Dinah Codes\Max HP]
+author=Code Master
+description=
+patch=1,EE,204CB8B0,extended,0000270F
+
+[Chaos Codes\Max HP]
+author=Code Master
+description=
+patch=1,EE,204CB088,extended,0000270F
+
+[E.S. Zebulun Codes\Max HP]
+author=Code Master
+description=
+patch=1,EE,204CB7C8,extended,0000270F
+
+[Character 1 Codes\Max HP]
+author=Code Master
+description=
+patch=1,EE,20AC3C60,extended,0000270F
+
+[Character 2 Codes\Max HP]
+author=Code Master
+description=
+patch=1,EE,20AC3D48,extended,0000270F
+
+[Character 3 Codes\Max HP]
+author=Code Master
+description=
+patch=1,EE,20AC3E30,extended,0000270F
+
+[Miyuki Codes\Max HP]
+author=Code Master
+description=
+patch=1,EE,204CB258,extended,0000270F
+
+[MOMO Codes\Max HP]
+author=Code Master
+description=
+patch=1,EE,204CADD0,extended,0000270F
+
+[KOS-MOS Codes\Max HP]
+author=Code Master
+description=
+patch=1,EE,204CAFA0,extended,0000270F
+
+[Jr. Codes\Max HP]
+author=Code Master
+description=
+patch=1,EE,204CB170,extended,0000270F
+
+[E.S. Asher Codes\Max HP]
+author=Code Master
+description=
+patch=1,EE,204CB6E0,extended,0000270F
+
+[Jin Codes\Max HP]
+author=Code Master
+description=
+patch=1,EE,204CACE8,extended,0000270F
+
+[Shion Codes\Max HP]
+author=Code Master
+description=
+patch=1,EE,204CAC00,extended,0000270F
+
+[Canaan Codes\Max HP]
+author=Code Master
+description=
+patch=1,EE,204CB340,extended,0000270F
+
+[Ziggy Codes\Max Luck]
+author=Code Master
+description=
+patch=1,EE,004CAECB,extended,00000063
+
+[E.S. Reuben Codes\Max Luck]
+author=Code Master
+description=
+patch=1,EE,004CB9AB,extended,00000063
+
+[Allen Codes\Max Luck]
+author=Code Master
+description=
+patch=1,EE,004CB43C,extended,00000063
+
+[E.S. Dinah Codes\Max Luck]
+author=Code Master
+description=
+patch=1,EE,004CB8C3,extended,00000063
+
+[Chaos Codes\Max Luck]
+author=Code Master
+description=
+patch=1,EE,004CB09B,extended,00000063
+
+[E.S. Zebulun Codes\Max Luck]
+author=Code Master
+description=
+patch=1,EE,004CB7DB,extended,00000063
+
+[Character 1 Codes\Max Luck]
+author=Code Master
+description=
+patch=1,EE,00AC3C73,extended,00000063
+
+[Character 2 Codes\Max Luck]
+author=Code Master
+description=
+patch=1,EE,00AC3D5B,extended,00000063
+
+[Character 3 Codes\Max Luck]
+author=Code Master
+description=
+patch=1,EE,00AC3E43,extended,00000063
+
+[Miyuki Codes\Max Luck]
+author=Code Master
+description=
+patch=1,EE,004CB26B,extended,00000063
+
+[MOMO Codes\Max Luck]
+author=Code Master
+description=
+patch=1,EE,004CADE3,extended,00000063
+
+[KOS-MOS Codes\Max Luck]
+author=Code Master
+description=
+patch=1,EE,004CAFB3,extended,00000063
+
+[Jr. Codes\Max Luck]
+author=Code Master
+description=
+patch=1,EE,004CB184,extended,00000063
+
+[E.S. Asher Codes\Max Luck]
+author=Code Master
+description=
+patch=1,EE,004CB6F3,extended,00000063
+
+[Jin Codes\Max Luck]
+author=Code Master
+description=
+patch=1,EE,004CACFB,extended,00000063
+
+[Shion Codes\Max Luck]
+author=Code Master
+description=
+patch=1,EE,004CAC13,extended,00000063
+
+[Canaan Codes\Max Luck]
+author=Code Master
+description=
+patch=1,EE,004CB353,extended,00000063
+
+[Ziggy Codes\Max SP]
+author=Code Master
+description=
+patch=1,EE,204CBD60,extended,05F5E0FF
+
+[E.S. Reuben Codes\Max SP]
+author=Code Master
+description=
+patch=1,EE,204CC180,extended,05F5E0FF
+
+[Allen Codes\Max SP]
+author=Code Master
+description=
+patch=1,EE,204CBF70,extended,05F5E0FF
+
+[E.S. Dinah Codes\Max SP]
+author=Code Master
+description=
+patch=1,EE,204CC128,extended,05F5E0FF
+
+[Chaos Codes\Max SP]
+author=Code Master
+description=
+patch=1,EE,204CBE10,extended,05F5E0FF
+
+[E.S. Zebulun Codes\Max SP]
+author=Code Master
+description=
+patch=1,EE,204CC0D0,extended,05F5E0FF
+
+[Miyuki Codes\Max SP]
+author=Code Master
+description=
+patch=1,EE,204CBEC0,extended,05F5E0FF
+
+[MOMO Codes\Max SP]
+author=Code Master
+description=
+patch=1,EE,204CBD08,extended,05F5E0FF
+
+[KOS-MOS Codes\Max SP]
+author=Code Master
+description=
+patch=1,EE,204CBDB8,extended,05F5E0FF
+
+[Jr. Codes\Max SP]
+author=Code Master
+description=
+patch=1,EE,204CBE68,extended,05F5E0FF
+
+[E.S. Asher Codes\Max SP]
+author=Code Master
+description=
+patch=1,EE,204CC078,extended,05F5E0FF
+
+[Jin Codes\Max SP]
+author=Code Master
+description=
+patch=1,EE,204CBCB0,extended,05F5E0FF
+
+[Shion Codes\Max SP]
+author=Code Master
+description=
+patch=1,EE,204CBC58,extended,05F5E0FF
+
+[Canaan Codes\Max SP]
+author=Code Master
+description=
+patch=1,EE,204CBF18,extended,05F5E0FF
+
+[Ziggy Codes\Max STR]
+author=Code Master
+description=
+patch=1,EE,104CAEBE,extended,000003E7
+
+[E.S. Reuben Codes\Max STR]
+author=Code Master
+description=
+patch=1,EE,104CB99E,extended,000003E7
+
+[Allen Codes\Max STR]
+author=Code Master
+description=
+patch=1,EE,104CB42E,extended,000003E7
+
+[E.S. Dinah Codes\Max STR]
+author=Code Master
+description=
+patch=1,EE,104CB8B6,extended,000003E7
+
+[Chaos Codes\Max STR]
+author=Code Master
+description=
+patch=1,EE,104CB08E,extended,000003E7
+
+[E.S. Zebulun Codes\Max STR]
+author=Code Master
+description=
+patch=1,EE,104CB7CE,extended,000003E7
+
+[Character 1 Codes\Max STR]
+author=Code Master
+description=
+patch=1,EE,10AC3C66,extended,000003E7
+
+[Character 2 Codes\Max STR]
+author=Code Master
+description=
+patch=1,EE,10AC3D4E,extended,000003E7
+
+[Character 3 Codes\Max STR]
+author=Code Master
+description=
+patch=1,EE,10AC3E36,extended,000003E7
+
+[Miyuki Codes\Max STR]
+author=Code Master
+description=
+patch=1,EE,20BB10B0,extended,DDAD2F5C
+
+[MOMO Codes\Max STR]
+author=Code Master
+description=
+patch=1,EE,104CADD6,extended,000003E7
+
+[KOS-MOS Codes\Max STR]
+author=Code Master
+description=
+patch=1,EE,104CAFA6,extended,000003E7
+
+[Jr. Codes\Max STR]
+author=Code Master
+description=
+patch=1,EE,104CB176,extended,000003E7
+
+[E.S. Asher Codes\Max STR]
+author=Code Master
+description=
+patch=1,EE,104CB6E6,extended,000003E7
+
+[Jin Codes\Max STR]
+author=Code Master
+description=
+patch=1,EE,104CACEE,extended,000003E7
+
+[Shion Codes\Max STR]
+author=Code Master
+description=
+patch=1,EE,104CAC06,extended,000003E7
+
+[Canaan Codes\Max STR]
+author=Code Master
+description=
+patch=1,EE,104CB346,extended,000003E7
+
+[Ziggy Codes\Max Vit]
+author=Code Master
+description=
+patch=1,EE,104CAEC0,extended,000003E7
+
+[E.S. Reuben Codes\Max Vit]
+author=Code Master
+description=
+patch=1,EE,104CB9A0,extended,000003E7
+
+[Allen Codes\Max Vit]
+author=Code Master
+description=
+patch=1,EE,104CB430,extended,000003E7
+
+[E.S. Dinah Codes\Max Vit]
+author=Code Master
+description=
+patch=1,EE,104CB8B8,extended,000003E7
+
+[Chaos Codes\Max Vit]
+author=Code Master
+description=
+patch=1,EE,104CB090,extended,000003E7
+
+[E.S. Zebulun Codes\Max Vit]
+author=Code Master
+description=
+patch=1,EE,104CB7D0,extended,000003E7
+
+[Character 1 Codes\Max Vit]
+author=Code Master
+description=
+patch=1,EE,10AC3C68,extended,000003E7
+
+[Character 2 Codes\Max Vit]
+author=Code Master
+description=
+patch=1,EE,10AC3D50,extended,000003E7
+
+[Character 3 Codes\Max Vit]
+author=Code Master
+description=
+patch=1,EE,10AC3E38,extended,000003E7
+
+[Miyuki Codes\Max Vit]
+author=Code Master
+description=
+patch=1,EE,104CB260,extended,000003E7
+
+[MOMO Codes\Max Vit]
+author=Code Master
+description=
+patch=1,EE,104CADD8,extended,000003E7
+
+[KOS-MOS Codes\Max Vit]
+author=Code Master
+description=
+patch=1,EE,104CAFA8,extended,000003E7
+
+[Jr. Codes\Max Vit]
+author=Code Master
+description=
+patch=1,EE,104CB178,extended,000003E7
+
+[E.S. Asher Codes\Max Vit]
+author=Code Master
+description=
+patch=1,EE,104CB6E8,extended,000003E7
+
+[Jin Codes\Max Vit]
+author=Code Master
+description=
+patch=1,EE,104CACF0,extended,000003E7
+
+[Shion Codes\Max Vit]
+author=Code Master
+description=
+patch=1,EE,104CAC08,extended,000003E7
+
+[Canaan Codes\Max Vit]
+author=Code Master
+description=
+patch=1,EE,104CB348,extended,000003E7
+
+[Max Item Codes\Med Kit DX]
+author=Code Master
+description=
+patch=1,EE,003E4BD5,extended,00000063
+
+[Max Item Codes\Med Kit L]
+author=Code Master
+description=
+patch=1,EE,003E4BD3,extended,00000063
+
+[Max Item Codes\Med Kit M]
+author=Code Master
+description=
+patch=1,EE,003E4BD2,extended,00000063
+
+[Max Item Codes\Med Kit S]
+author=Code Master
+description=
+patch=1,EE,21E03620,extended,3DE4F582
+
+[Max Weapon Codes\Medes Driver]
+author=Code Master
+description=
+patch=1,EE,003E4CD7,extended,00000063
+
+[Max Item Codes\Melon Ice Cream]
+author=Code Master
+description=
+patch=1,EE,003E4BFB,extended,00000063
+
+[Max Armor Codes\Metal Corset]
+author=Code Master
+description=
+patch=1,EE,003E4D73,extended,00000063
+
+[Max Armor Codes\Metal Sprint]
+author=Code Master
+description=
+patch=1,EE,003E4D89,extended,00000063
+
+[Max Weapon Codes\Misty Moon]
+author=Code Master
+description=
+patch=1,EE,003E4D37,extended,00000063
+
+[Character 1 Modifier Codes\Miyuki]
+author=Code Master
+description=
+patch=1,EE,003E6B82,extended,00000008
+
+[Character 2 Modifier Codes\Miyuki]
+author=Code Master
+description=
+patch=1,EE,003E6B83,extended,00000008
+
+[Character 3 Modifier Codes\Miyuki]
+author=Code Master
+description=
+patch=1,EE,003E6B84,extended,00000008
+
+[Character 4 Modifier Codes\Miyuki]
+author=Code Master
+description=
+patch=1,EE,003E6B85,extended,00000008
+
+[Character 5 Modifier Codes\Miyuki]
+author=Code Master
+description=
+patch=1,EE,003E6B86,extended,00000008
+
+[Character 6 Modifier Codes\Miyuki]
+author=Code Master
+description=
+patch=1,EE,003E6B88,extended,00000008
+
+[Max Weapon Codes\Miyuki Special]
+author=Code Master
+description=
+patch=1,EE,003E4C9C,extended,00000063
+
+[Max Armor Codes\Miyuki's Swimsuit]
+author=Code Master
+description=
+patch=1,EE,003E4D99,extended,00000063
+
+[Character 1 Modifier Codes\MOMO]
+author=Code Master
+description=
+patch=1,EE,003E6B82,extended,00000003
+
+[Character 2 Modifier Codes\MOMO]
+author=Code Master
+description=
+patch=1,EE,003E6B83,extended,00000003
+
+[Character 3 Modifier Codes\MOMO]
+author=Code Master
+description=
+patch=1,EE,003E6B84,extended,00000003
+
+[Character 4 Modifier Codes\MOMO]
+author=Code Master
+description=
+patch=1,EE,003E6B85,extended,00000003
+
+[Character 5 Modifier Codes\MOMO]
+author=Code Master
+description=
+patch=1,EE,003E6B86,extended,00000003
+
+[Character 6 Modifier Codes\MOMO]
+author=Code Master
+description=
+patch=1,EE,003E6B88,extended,00000003
+
+[Max Armor Codes\MOMO's Swimsuit]
+author=Code Master
+description=
+patch=1,EE,003E4D93,extended,00000063
+
+[Max Weapon Codes\Moon Bridge]
+author=Code Master
+description=
+patch=1,EE,003E4CB4,extended,00000063
+
+[Max Armor Codes\Moonlight Robe]
+author=Code Master
+description=
+patch=1,EE,003E4D69,extended,00000063
+
+[Max Weapon Codes\MWS Type 76]
+author=Code Master
+description=
+patch=1,EE,003E4CF1,extended,00000063
+
+[Max Armor Codes\Nano Care Coat]
+author=Code Master
+description=
+patch=1,EE,003E4D8E,extended,00000063
+
+[Max Item Codes\Nano Repair DX]
+author=Code Master
+description=
+patch=1,EE,003E4BE6,extended,00000063
+
+[Max Item Codes\Nano Repair M]
+author=Code Master
+description=
+patch=1,EE,003E4BE5,extended,00000063
+
+[Max Armor Codes\Neo Protector]
+author=Code Master
+description=
+patch=1,EE,003E4D86,extended,00000063
+
+[Max Weapon Codes\New Moon]
+author=Code Master
+description=
+patch=1,EE,003E4D39,extended,00000063
+
+[Max Weapon Codes\Night Bunker]
+author=Code Master
+description=
+patch=1,EE,003E4C99,extended,00000063
+
+[Max Necklace Codes\Night Moon]
+author=Code Master
+description=
+patch=1,EE,003E4E86,extended,00000063
+
+[Max Weapon Codes\Night Walker]
+author=Code Master
+description=
+patch=1,EE,003E4CF2,extended,00000063
+
+[Max Bracelet Codes\Nine Stones]
+author=Code Master
+description=
+patch=1,EE,003E4E47,extended,00000063
+
+[Enemy 1 Codes\No Agi]
+author=Code Master
+description=
+patch=1,EE,00AC4582,extended,00000000
+
+[Enemy 2 Codes\No Agi]
+author=Code Master
+description=
+patch=1,EE,F19215E8,extended,181BD58D
+
+[Enemy 3 Codes\No Agi]
+author=Code Master
+description=
+patch=1,EE,00AC4752,extended,00000000
+
+[Enemy 4 Codes\No Agi]
+author=Code Master
+description=
+patch=1,EE,00AC483A,extended,00000000
+
+[Enemy 1 Codes\No Break Limit]
+author=Code Master
+description=
+patch=1,EE,10AC457E,extended,00000000
+
+[Enemy 2 Codes\No Break Limit]
+author=Code Master
+description=
+patch=1,EE,10AC4666,extended,00000000
+
+[Enemy 3 Codes\No Break Limit]
+author=Code Master
+description=
+patch=1,EE,10AC474E,extended,00000000
+
+[Enemy 4 Codes\No Break Limit]
+author=Code Master
+description=
+patch=1,EE,10AC4836,extended,00000000
+
+[Enemy 1 Codes\No Dex]
+author=Code Master
+description=
+patch=1,EE,00AC4580,extended,00000000
+
+[Enemy 2 Codes\No Dex]
+author=Code Master
+description=
+patch=1,EE,00AC4668,extended,00000000
+
+[Enemy 3 Codes\No Dex]
+author=Code Master
+description=
+patch=1,EE,00AC4750,extended,00000000
+
+[Enemy 4 Codes\No Dex]
+author=Code Master
+description=
+patch=1,EE,00AC4838,extended,00000000
+
+[Enemy 1 Codes\No EAtk]
+author=Code Master
+description=
+patch=1,EE,10AC457A,extended,00000000
+
+[Enemy 2 Codes\No EAtk]
+author=Code Master
+description=
+patch=1,EE,10AC4662,extended,00000000
+
+[Enemy 3 Codes\No EAtk]
+author=Code Master
+description=
+patch=1,EE,10AC474A,extended,00000000
+
+[Enemy 4 Codes\No EAtk]
+author=Code Master
+description=
+patch=1,EE,10AC4832,extended,00000000
+
+[Enemy 1 Codes\No EDef]
+author=Code Master
+description=
+patch=1,EE,10AC457C,extended,00000000
+
+[Enemy 2 Codes\No EDef]
+author=Code Master
+description=
+patch=1,EE,10AC4664,extended,00000000
+
+[Enemy 3 Codes\No EDef]
+author=Code Master
+description=
+patch=1,EE,10AC474C,extended,00000000
+
+[Enemy 4 Codes\No EDef]
+author=Code Master
+description=
+patch=1,EE,10AC4834,extended,00000000
+
+[Enemy 1 Codes\No EP]
+author=Code Master
+description=
+patch=1,EE,10AC45AC,extended,00000000
+
+[Enemy 2 Codes\No EP]
+author=Code Master
+description=
+patch=1,EE,10AC4694,extended,00000000
+
+[Enemy 3 Codes\No EP]
+author=Code Master
+description=
+patch=1,EE,10AC477C,extended,00000000
+
+[Enemy 4 Codes\No EP]
+author=Code Master
+description=
+patch=1,EE,10AC4864,extended,00000000
+
+[Enemy 1 Codes\No Eva]
+author=Code Master
+description=
+patch=1,EE,00AC4581,extended,00000000
+
+[Enemy 2 Codes\No Eva]
+author=Code Master
+description=
+patch=1,EE,00AC4669,extended,00000000
+
+[Enemy 3 Codes\No Eva]
+author=Code Master
+description=
+patch=1,EE,00AC4751,extended,00000000
+
+[Enemy 4 Codes\No Eva]
+author=Code Master
+description=
+patch=1,EE,00AC4839,extended,00000000
+
+[Enemy 1 Codes\No Luck]
+author=Code Master
+description=
+patch=1,EE,00AC4584,extended,00000000
+
+[Enemy 2 Codes\No Luck]
+author=Code Master
+description=
+patch=1,EE,00AC466B,extended,00000000
+
+[Enemy 3 Codes\No Luck]
+author=Code Master
+description=
+patch=1,EE,00AC4753,extended,00000000
+
+[Enemy 4 Codes\No Luck]
+author=Code Master
+description=
+patch=1,EE,00AC483B,extended,00000000
+
+[Enemy 1 Codes\No Max EP]
+author=Code Master
+description=
+patch=1,EE,10AC4574,extended,00000000
+
+[Enemy 2 Codes\No Max EP]
+author=Code Master
+description=
+patch=1,EE,10AC465C,extended,00000000
+
+[Enemy 3 Codes\No Max EP]
+author=Code Master
+description=
+patch=1,EE,10AC4744,extended,00000000
+
+[Enemy 4 Codes\No Max EP]
+author=Code Master
+description=
+patch=1,EE,10AC482C,extended,00000000
+
+[Enemy 1 Codes\No STR]
+author=Code Master
+description=
+patch=1,EE,10AC4576,extended,00000000
+
+[Enemy 2 Codes\No STR]
+author=Code Master
+description=
+patch=1,EE,10AC465E,extended,00000000
+
+[Enemy 3 Codes\No STR]
+author=Code Master
+description=
+patch=1,EE,10AC4746,extended,00000000
+
+[Enemy 4 Codes\No STR]
+author=Code Master
+description=
+patch=1,EE,10AC482E,extended,00000000
+
+[Enemy 1 Codes\No Vit]
+author=Code Master
+description=
+patch=1,EE,10AC4578,extended,00000000
+
+[Enemy 2 Codes\No Vit]
+author=Code Master
+description=
+patch=1,EE,10AC4660,extended,00000000
+
+[Enemy 3 Codes\No Vit]
+author=Code Master
+description=
+patch=1,EE,10AC4748,extended,00000000
+
+[Enemy 4 Codes\No Vit]
+author=Code Master
+description=
+patch=1,EE,10AC4830,extended,00000000
+
+[Max Item Codes\Nullifier]
+author=Code Master
+description=
+patch=1,EE,003E4BDD,extended,00000063
+
+[Max Key Item Codes\Old Transport Gate Key]
+author=Code Master
+description=
+patch=1,EE,003E51F1,extended,00000063
+
+[Max Necklace Codes\Open Heart]
+author=Code Master
+description=
+patch=1,EE,003E4E79,extended,00000063
+
+[Max Necklace Codes\Panther Eye]
+author=Code Master
+description=
+patch=1,EE,003E4E90,extended,00000063
+
+[Max Weapon Codes\Paraiba Hand]
+author=Code Master
+description=
+patch=1,EE,003E4CD1,extended,00000063
+
+[Max Armor Codes\Pearl Wear]
+author=Code Master
+description=
+patch=1,EE,003E4D6F,extended,00000063
+
+[Max Weapon Codes\Phalanx XX]
+author=Code Master
+description=
+patch=1,EE,003E4D2C,extended,00000063
+
+[Max Weapon Codes\Phantom Silver]
+author=Code Master
+description=
+patch=1,EE,003E4CE7,extended,00000063
+
+[Max Ring Codes\Pierce Ring]
+author=Code Master
+description=
+patch=1,EE,003E4E29,extended,00000063
+
+[Max Bracelet Codes\Platinum Bangle]
+author=Code Master
+description=
+patch=1,EE,003E4E43,extended,00000063
+
+[Max Armor Codes\Platinum Bustier]
+author=Code Master
+description=
+patch=1,EE,003E4D76,extended,00000063
+
+[Max Ring Codes\Power Heal]
+author=Code Master
+description=
+patch=1,EE,003E4E38,extended,00000063
+
+[Max Ring Codes\Power Leech]
+author=Code Master
+description=
+patch=1,EE,003E4E3A,extended,00000063
+
+[Max Key Item Codes\Prayer Beads]
+author=Code Master
+description=
+patch=1,EE,003E5208,extended,00000063
+
+[Max Key Item Codes\Prescription Copy]
+author=Code Master
+description=
+patch=1,EE,003E520B,extended,00000063
+
+[Miscellaneous Codes\Press L1+Circle To Save Anywhere]
+author=Code Master
+description=
+patch=1,EE,D0867382,extended,0000DBFF
+patch=1,EE,201C6D2C,extended,00000000
+patch=1,EE,D0867382,extended,0000FFFF
+patch=1,EE,201C6D2C,extended,10400032
+
+[Max Key Item Codes\Professor's Memory]
+author=Code Master
+description=
+patch=1,EE,9148EE91,extended,51B010AD
+
+[Max Key Item Codes\Professor's Memory Version 2]
+author=Code Master
+description=
+patch=1,EE,003E5203,extended,00000063
+
+[Max Armor Codes\Protect Gear]
+author=Code Master
+description=
+patch=1,EE,003E4D61,extended,00000063
+
+[Max Weapon Codes\Psycho Driver]
+author=Code Master
+description=
+patch=1,EE,003E4CD5,extended,00000063
+
+[Max Weapon Codes\Qi Yan]
+author=Code Master
+description=
+patch=1,EE,003E4C9F,extended,00000063
+
+[Max Bracelet Codes\Queen Jack]
+author=Code Master
+description=
+patch=1,EE,003E4E60,extended,00000063
+
+[Ziggy Codes\Quick Exp Gain]
+author=Code Master
+description=
+patch=1,EE,104CBD58,extended,0000FFFF
+
+[E.S. Reuben Codes\Quick Exp Gain]
+author=Code Master
+description=
+patch=1,EE,104CC178,extended,0000FFFF
+
+[Allen Codes\Quick Exp Gain]
+author=Code Master
+description=
+patch=1,EE,104CBF68,extended,0000FFFF
+
+[E.S. Dinah Codes\Quick Exp Gain]
+author=Code Master
+description=
+patch=1,EE,104CC120,extended,0000FFFF
+
+[Chaos Codes\Quick Exp Gain]
+author=Code Master
+description=
+patch=1,EE,104CBE08,extended,0000FFFF
+
+[E.S. Zebulun Codes\Quick Exp Gain]
+author=Code Master
+description=
+patch=1,EE,104CC0C8,extended,0000FFFF
+
+[Miyuki Codes\Quick Exp Gain]
+author=Code Master
+description=
+patch=1,EE,104CBEB8,extended,0000FFFF
+
+[MOMO Codes\Quick Exp Gain]
+author=Code Master
+description=
+patch=1,EE,104CBD00,extended,0000FFFF
+
+[KOS-MOS Codes\Quick Exp Gain]
+author=Code Master
+description=
+patch=1,EE,104CBDB0,extended,0000FFFF
+
+[Jr. Codes\Quick Exp Gain]
+author=Code Master
+description=
+patch=1,EE,104CBE60,extended,0000FFFF
+
+[E.S. Asher Codes\Quick Exp Gain]
+author=Code Master
+description=
+patch=1,EE,104CC070,extended,0000FFFF
+
+[Jin Codes\Quick Exp Gain]
+author=Code Master
+description=
+patch=1,EE,104CBCA8,extended,0000FFFF
+
+[Shion Codes\Quick Exp Gain]
+author=Code Master
+description=
+patch=1,EE,104CBC50,extended,0000FFFF
+
+[Canaan Codes\Quick Exp Gain]
+author=Code Master
+description=
+patch=1,EE,104CBF10,extended,0000FFFF
+
+[Ziggy Codes\Quick SP Gain]
+author=Code Master
+description=
+patch=1,EE,104CBD60,extended,0000FFFF
+
+[E.S. Reuben Codes\Quick SP Gain]
+author=Code Master
+description=
+patch=1,EE,104CC180,extended,0000FFFF
+
+[Allen Codes\Quick SP Gain]
+author=Code Master
+description=
+patch=1,EE,104CBF70,extended,0000FFFF
+
+[E.S. Dinah Codes\Quick SP Gain]
+author=Code Master
+description=
+patch=1,EE,104CC128,extended,0000FFFF
+
+[Chaos Codes\Quick SP Gain]
+author=Code Master
+description=
+patch=1,EE,104CBE10,extended,0000FFFF
+
+[E.S. Zebulun Codes\Quick SP Gain]
+author=Code Master
+description=
+patch=1,EE,104CC0D0,extended,0000FFFF
+
+[Miyuki Codes\Quick SP Gain]
+author=Code Master
+description=
+patch=1,EE,104CBEC0,extended,0000FFFF
+
+[MOMO Codes\Quick SP Gain]
+author=Code Master
+description=
+patch=1,EE,104CBD08,extended,0000FFFF
+
+[KOS-MOS Codes\Quick SP Gain]
+author=Code Master
+description=
+patch=1,EE,104CBDB8,extended,0000FFFF
+
+[Jr. Codes\Quick SP Gain]
+author=Code Master
+description=
+patch=1,EE,104CBE68,extended,0000FFFF
+
+[E.S. Asher Codes\Quick SP Gain]
+author=Code Master
+description=
+patch=1,EE,104CC078,extended,0000FFFF
+
+[Jin Codes\Quick SP Gain]
+author=Code Master
+description=
+patch=1,EE,104CBCB0,extended,0000FFFF
+
+[Shion Codes\Quick SP Gain]
+author=Code Master
+description=
+patch=1,EE,104CBC58,extended,0000FFFF
+
+[Canaan Codes\Quick SP Gain]
+author=Code Master
+description=
+patch=1,EE,104CBF18,extended,0000FFFF
+
+[Max Bracelet Codes\Ra's Beads]
+author=Code Master
+description=
+patch=1,EE,003E4E6D,extended,00000063
+
+[Max Weapon Codes\Ranger Hunt]
+author=Code Master
+description=
+patch=1,EE,003E4CB9,extended,00000063
+
+[Max Item Codes\Rank Badge]
+author=Code Master
+description=
+patch=1,EE,003E4BFF,extended,00000063
+
+[Max Armor Codes\Raptor Robe]
+author=Code Master
+description=
+patch=1,EE,003E4D6A,extended,00000063
+
+[Max Bracelet Codes\Rare Brace]
+author=Code Master
+description=
+patch=1,EE,003E4E67,extended,00000063
+
+[Max Ring Codes\Real World]
+author=Code Master
+description=
+patch=1,EE,003E4E30,extended,00000063
+
+[Max Weapon Codes\Red Cancer]
+author=Code Master
+description=
+patch=1,EE,003E4C94,extended,00000063
+
+[Max Necklace Codes\Red Crystal]
+author=Code Master
+description=
+patch=1,EE,003E4E7B,extended,00000063
+
+[Max Ring Codes\Red Oasis]
+author=Code Master
+description=
+patch=1,EE,003E4E17,extended,00000063
+
+[Max Ring Codes\Red Star]
+author=Code Master
+description=
+patch=1,EE,003E4E18,extended,00000063
+
+[Max Item Codes\Rejuvenator DX]
+author=Code Master
+description=
+patch=1,EE,003E4BDA,extended,00000063
+
+[Max Item Codes\Rejuvenator L]
+author=Code Master
+description=
+patch=1,EE,003E4BD9,extended,00000063
+
+[Max Item Codes\Rejuvenator M]
+author=Code Master
+description=
+patch=1,EE,003E4BD8,extended,00000063
+
+[Max Item Codes\Remover]
+author=Code Master
+description=
+patch=1,EE,003E4BE2,extended,00000063
+
+[Max Armor Codes\Research Uniform]
+author=Code Master
+description=
+patch=1,EE,003E4D9C,extended,00000063
+
+[Max Bracelet Codes\Resist Beam]
+author=Code Master
+description=
+patch=1,EE,003E4E53,extended,00000063
+
+[Max Bracelet Codes\Resist Fire]
+author=Code Master
+description=
+patch=1,EE,003E4E49,extended,00000063
+
+[Max Bracelet Codes\Resist Ice]
+author=Code Master
+description=
+patch=1,EE,003E4E50,extended,00000063
+
+[Max Bracelet Codes\Resist Thunder]
+author=Code Master
+description=
+patch=1,EE,003E4E4D,extended,00000063
+
+[Max Ring Codes\Revenge Ring]
+author=Code Master
+description=
+patch=1,EE,003E4E27,extended,00000063
+
+[Max Item Codes\Revie L]
+author=Code Master
+description=
+patch=1,EE,003E4BDC,extended,00000063
+
+[Max Item Codes\Revive M]
+author=Code Master
+description=
+patch=1,EE,003E4BDB,extended,00000063
+
+[Max Armor Frame Codes\RF-Acala]
+author=Code Master
+description=
+patch=1,EE,003E4EF0,extended,00000063
+
+[Max Armor Frame Codes\RF-Flame]
+author=Code Master
+description=
+patch=1,EE,003E4EEA,extended,00000063
+
+[Max Armor Frame Codes\RF-Haze]
+author=Code Master
+description=
+patch=1,EE,003E4EEA,extended,00000063
+
+[Max Armor Frame Codes\RF-Huang Long]
+author=Code Master
+description=
+patch=1,EE,003E4EF0,extended,00000063
+
+[Max Armor Frame Codes\RF-Shadow]
+author=Code Master
+description=
+patch=1,EE,003E4EEB,extended,00000063
+
+[Max Armor Frame Codes\RF-Tiger]
+author=Code Master
+description=
+patch=1,EE,003E4EED,extended,00000063
+
+[Max Armor Frame Codes\RF-Vajra]
+author=Code Master
+description=
+patch=1,EE,003E4EEE,extended,00000063
+
+[Max Armor Frame Codes\RF-Xuan Wu]
+author=Code Master
+description=
+patch=1,EE,003E4EED,extended,00000063
+
+[Max Armor Codes\Rigid Leather]
+author=Code Master
+description=
+patch=1,EE,003E4D8A,extended,00000063
+
+[Max Ring Codes\Ring of Coercion]
+author=Code Master
+description=
+patch=1,EE,003E4E30,extended,00000063
+
+[Max Ring Codes\Ring of Eden]
+author=Code Master
+description=
+patch=1,EE,003E4E31,extended,00000063
+
+[Max Weapon Codes\Rock Star]
+author=Code Master
+description=
+patch=1,EE,003E4CBC,extended,00000063
+
+[Max Necklace Codes\Rosario of Grief]
+author=Code Master
+description=
+patch=1,EE,003E4E73,extended,00000063
+
+[Max Necklace Codes\Rosario of Love]
+author=Code Master
+description=
+patch=1,EE,003E4E74,extended,00000063
+
+[Max Bracelet Codes\Rosencrantz]
+author=Code Master
+description=
+patch=1,EE,2189D700,extended,FD2C35BF
+
+[Max Key Item Codes\Rough Geocrystal]
+author=Code Master
+description=
+patch=1,EE,003E5205,extended,00000063
+
+[Max Ring Codes\Ruthless Ring]
+author=Code Master
+description=
+patch=1,EE,003E4E28,extended,00000063
+
+[Max Weapon Codes\S Sife]
+author=Code Master
+description=
+patch=1,EE,003E4D1E,extended,00000063
+
+[Max Weapon Codes\S Sife FX]
+author=Code Master
+description=
+patch=1,EE,003E4D29,extended,00000063
+
+[Max Ring Codes\Sage's Ring]
+author=Code Master
+description=
+patch=1,EE,003E4E1B,extended,00000063
+
+[Max Item Codes\Salt Pillar]
+author=Code Master
+description=
+patch=1,EE,003E4BFF,extended,00000063
+
+[Max Armor Codes\Sarasvati's Robe]
+author=Code Master
+description=
+patch=1,EE,003E4D6D,extended,00000063
+
+[Max Weapon Codes\SC Lindwurm]
+author=Code Master
+description=
+patch=1,EE,003E4D1C,extended,00000063
+
+[Max Weapon Codes\Schwalbe]
+author=Code Master
+description=
+patch=1,EE,003E4D10,extended,00000063
+
+[Max Weapon Codes\Schwalbe F]
+author=Code Master
+description=
+patch=1,EE,003E4D11,extended,00000063
+
+[Max Weapon Codes\Schwalbe SW]
+author=Code Master
+description=
+patch=1,EE,003E4D1C,extended,00000063
+
+[Max Item Codes\Scrap Iron]
+author=Code Master
+description=
+patch=1,EE,003E4C03,extended,00000063
+
+[Max Key Item Codes\Security Level B Card]
+author=Code Master
+description=
+patch=1,EE,003E51ED,extended,00000063
+
+[Max Weapon Codes\Sentir A-L]
+author=Code Master
+description=
+patch=1,EE,C1C2048C,extended,7A08AF1B
+
+[Max Item Codes\Sephirotic Cane]
+author=Code Master
+description=
+patch=1,EE,003E4C02,extended,00000063
+
+[Max Item Codes\Seven Moons]
+author=Code Master
+description=
+patch=1,EE,003E4BDF,extended,00000063
+
+[Max Item Codes\Seven Sisters]
+author=Code Master
+description=
+patch=1,EE,003E4BE0,extended,00000063
+
+[Max Weapon Codes\SG-M Wolf]
+author=Code Master
+description=
+patch=1,EE,003E4D09,extended,00000063
+
+[Max Weapon Codes\SG-M20]
+author=Code Master
+description=
+patch=1,EE,003E4D00,extended,00000063
+
+[Max Weapon Codes\SG-M30P]
+author=Code Master
+description=
+patch=1,EE,003E4D01,extended,00000063
+
+[Max Weapon Codes\Shen Yan]
+author=Code Master
+description=
+patch=1,EE,003E4CA4,extended,00000063
+
+[Character 1 Modifier Codes\Shion]
+author=Code Master
+description=
+patch=1,EE,003E6B82,extended,00000001
+
+[Character 2 Modifier Codes\Shion]
+author=Code Master
+description=
+patch=1,EE,003E6B83,extended,00000001
+
+[Character 3 Modifier Codes\Shion]
+author=Code Master
+description=
+patch=1,EE,003E6B84,extended,00000001
+
+[Character 4 Modifier Codes\Shion]
+author=Code Master
+description=
+patch=1,EE,003E6B85,extended,00000001
+
+[Character 5 Modifier Codes\Shion]
+author=Code Master
+description=
+patch=1,EE,003E6B86,extended,00000001
+
+[Character 6 Modifier Codes\Shion]
+author=Code Master
+description=
+patch=1,EE,003E6B88,extended,00000001
+
+[Max Armor Codes\Shion's Swimsuit]
+author=Code Master
+description=
+patch=1,EE,003E4D91,extended,00000063
+
+[Max Weapon Codes\Shiranui]
+author=Code Master
+description=
+patch=1,EE,003E4D33,extended,00000063
+
+[Max Bracelet Codes\Shiva's Guard]
+author=Code Master
+description=
+patch=1,EE,003E4E50,extended,00000063
+
+[Max Armor Codes\Shock Absorbent Shirt]
+author=Code Master
+description=
+patch=1,EE,003E4D8D,extended,00000063
+
+[Max Bracelet Codes\Shock Absorber]
+author=Code Master
+description=
+patch=1,EE,003E4E45,extended,00000063
+
+[Max Ring Codes\Silver Ring]
+author=Code Master
+description=
+patch=1,EE,003E4E20,extended,00000063
+
+[Max Bracelet Codes\Siva's Eye]
+author=Code Master
+description=
+patch=1,EE,003E4E4D,extended,00000063
+
+[Max Item Codes\Skill Upgrade A]
+author=Code Master
+description=
+patch=1,EE,003E4BF5,extended,00000063
+
+[Max Item Codes\Skill Upgrade B]
+author=Code Master
+description=
+patch=1,EE,003E4BF6,extended,00000063
+
+[Max Item Codes\Skill Upgrade C]
+author=Code Master
+description=
+patch=1,EE,003E4BF7,extended,00000063
+
+[Max Item Codes\Skill Upgrade D]
+author=Code Master
+description=
+patch=1,EE,003E4BF8,extended,00000063
+
+[Max Necklace Codes\Snake Eye]
+author=Code Master
+description=
+patch=1,EE,003E4E8E,extended,00000063
+
+[Max Bracelet Codes\Soul Collector]
+author=Code Master
+description=
+patch=1,EE,003E4E64,extended,00000063
+
+[Max Armor Codes\Speed I Vest]
+author=Code Master
+description=
+patch=1,EE,003E4D5B,extended,00000063
+
+[Max Armor Codes\Speed II Vest]
+author=Code Master
+description=
+patch=1,EE,003E4D5C,extended,00000063
+
+[Max Armor Codes\Speed III Vest]
+author=Code Master
+description=
+patch=1,EE,003E4D5D,extended,00000063
+
+[Max Weapon Codes\SR Shaula A]
+author=Code Master
+description=
+patch=1,EE,003E4D26,extended,00000063
+
+[Max Weapon Codes\SR Shaula R2]
+author=Code Master
+description=
+patch=1,EE,003E4D26,extended,00000063
+
+[Max Weapon Codes\ST Swift]
+author=Code Master
+description=
+patch=1,EE,003E4D0E,extended,00000063
+
+[Max Weapon Codes\ST Swift HG]
+author=Code Master
+description=
+patch=1,EE,003E4D0F,extended,00000063
+
+[Max Weapon Codes\ST2-Swift]
+author=Code Master
+description=
+patch=1,EE,003E4D1A,extended,00000063
+
+[Max Key Item Codes\Staff Room Access Key]
+author=Code Master
+description=
+patch=1,EE,003E51EE,extended,00000063
+
+[Max Bracelet Codes\Steel Bangle]
+author=Code Master
+description=
+patch=1,EE,003E4E41,extended,00000063
+
+[Max Weapon Codes\Sting Ray]
+author=Code Master
+description=
+patch=1,EE,003E4CFE,extended,00000063
+
+[Max Weapon Codes\Sting Ray II]
+author=Code Master
+description=
+patch=1,EE,003E4CFF,extended,00000063
+
+[Max Weapon Codes\Sting Ray V]
+author=Code Master
+description=
+patch=1,EE,C1507213,extended,38E64D2B
+
+[Max Item Codes\STR Upgrade]
+author=Code Master
+description=
+patch=1,EE,003E4BED,extended,00000063
+
+[Max Necklace Codes\Sun Cry]
+author=Code Master
+description=
+patch=1,EE,003E4E7E,extended,00000063
+
+[Max Key Item Codes\Suou Uzuki's Memo]
+author=Code Master
+description=
+patch=1,EE,003E5208,extended,00000063
+
+[Max Key Item Codes\Suou Uzuki's PDA]
+author=Code Master
+description=
+patch=1,EE,003E51EF,extended,00000063
+
+[Miscellaneous Codes\Super Exp Gained After Battle]
+author=Code Master
+description=
+patch=1,EE,20ABD2B0,extended,0000270F
+
+[Miscellaneous Codes\Super Gold Gained After Battle]
+author=Code Master
+description=
+patch=1,EE,20ABD2B8,extended,000003E7
+
+[Miscellaneous Codes\Super SP Gained After Battle]
+author=Code Master
+description=
+patch=1,EE,20ABD2B4,extended,0000270F
+
+[Max Armor Codes\Survival Wear]
+author=Code Master
+description=
+patch=1,EE,003E4D83,extended,00000063
+
+[Max Necklace Codes\Sweet Pain]
+author=Code Master
+description=
+patch=1,EE,003E4E87,extended,00000063
+
+[Max Necklace Codes\Talisman]
+author=Code Master
+description=
+patch=1,EE,003E4E73,extended,00000063
+
+[Max Necklace Codes\Tears River]
+author=Code Master
+description=
+patch=1,EE,003E4E7D,extended,00000063
+
+[Max Armor Codes\Techtron Cloth]
+author=Code Master
+description=
+patch=1,EE,003E4D84,extended,00000063
+
+[Max Weapon Codes\Tempest]
+author=Code Master
+description=
+patch=1,EE,003E4D02,extended,00000063
+
+[Max Bracelet Codes\Tempest Beads]
+author=Code Master
+description=
+patch=1,EE,003E4E66,extended,00000063
+
+[Max Weapon Codes\Tempest GP]
+author=Code Master
+description=
+patch=1,EE,003E4D03,extended,00000063
+
+[Max Ring Codes\The Universe]
+author=Code Master
+description=
+patch=1,EE,003E4E33,extended,00000063
+
+[Max Bracelet Codes\Thunder Wall]
+author=Code Master
+description=
+patch=1,EE,003E4E4B,extended,00000063
+
+[Max Weapon Codes\Timaeus]
+author=Code Master
+description=
+patch=1,EE,003E4CD9,extended,00000063
+
+[Max Bracelet Codes\Titanium Bangle]
+author=Code Master
+description=
+patch=1,EE,003E4E43,extended,00000063
+
+[Max Weapon Codes\Toll Bunker]
+author=Code Master
+description=
+patch=1,EE,003E4C95,extended,00000063
+
+[Max Armor Codes\Top Secret Skeletal]
+author=Code Master
+description=
+patch=1,EE,003E4D64,extended,00000063
+
+[Max Item Codes\Trap]
+author=Code Master
+description=
+patch=1,EE,003E4C08,extended,00000063
+
+[Max Armor Codes\True Jade]
+author=Code Master
+description=
+patch=1,EE,003E4D6E,extended,00000063
+
+[Max Weapon Codes\Type II - Gale]
+author=Code Master
+description=
+patch=1,EE,003E4D30,extended,00000063
+
+[Max Weapon Codes\Type II - Gust]
+author=Code Master
+description=
+patch=1,EE,003E4D2E,extended,00000063
+
+[Miscellaneous Codes\Ultra Exp Gained After Battle]
+author=Code Master
+description=
+patch=1,EE,20ABD2B0,extended,000F423F
+
+[Miscellaneous Codes\Ultra Gold Gained After Battle]
+author=Code Master
+description=
+patch=1,EE,20ABD2B8,extended,0001869F
+
+[Miscellaneous Codes\Ultra SP Gained After Battle]
+author=Code Master
+description=
+patch=1,EE,20ABD2B4,extended,000F423F
+
+[Max Armor Codes\Union Leather]
+author=Code Master
+description=
+patch=1,EE,003E4D8F,extended,00000063
+
+[Max Necklace Codes\Union Neck]
+author=Code Master
+description=
+patch=1,EE,003E4E80,extended,00000063
+
+[Max Ring Codes\Union Ring]
+author=Code Master
+description=
+patch=1,EE,003E4E2B,extended,00000063
+
+[Max Bracelet Codes\Union Wrist]
+author=Code Master
+description=
+patch=1,EE,003E4E5A,extended,00000063
+
+[Max Bracelet Codes\Unknown Bracelet]
+author=Code Master
+description=
+patch=1,EE,003E4E68,extended,00000063
+
+[Max Key Item Codes\Update File 01]
+author=Code Master
+description=
+patch=1,EE,003E51F2,extended,00000063
+
+[Max Key Item Codes\Update File 02]
+author=Code Master
+description=
+patch=1,EE,003E51F3,extended,00000063
+
+[Max Key Item Codes\Update File 03]
+author=Code Master
+description=
+patch=1,EE,003E51F5,extended,00000063
+
+[Max Key Item Codes\Update File 04]
+author=Code Master
+description=
+patch=1,EE,003E51F5,extended,00000063
+
+[Max Key Item Codes\Update File 05]
+author=Code Master
+description=
+patch=1,EE,003E51F6,extended,00000063
+
+[Max Key Item Codes\Update File 06]
+author=Code Master
+description=
+patch=1,EE,003E51F8,extended,00000063
+
+[Max Key Item Codes\Update File 07]
+author=Code Master
+description=
+patch=1,EE,003E51F8,extended,00000063
+
+[Max Key Item Codes\Update File 08]
+author=Code Master
+description=
+patch=1,EE,003E51F9,extended,00000063
+
+[Max Key Item Codes\Update File 09]
+author=Code Master
+description=
+patch=1,EE,003E51FA,extended,00000063
+
+[Max Key Item Codes\Update File 10]
+author=Code Master
+description=
+patch=1,EE,003E51FB,extended,00000063
+
+[Max Key Item Codes\Update File 11]
+author=Code Master
+description=
+patch=1,EE,003E51FC,extended,00000063
+
+[Max Key Item Codes\Update File 12]
+author=Code Master
+description=
+patch=1,EE,20226BA0,extended,5EF71CC7
+
+[Max Key Item Codes\Update File 13]
+author=Code Master
+description=
+patch=1,EE,003E51FE,extended,00000063
+
+[Max Key Item Codes\Update File 14]
+author=Code Master
+description=
+patch=1,EE,003E51FF,extended,00000063
+
+[Max Key Item Codes\Update File 15]
+author=Code Master
+description=
+patch=1,EE,003E5200,extended,00000063
+
+[Miscellaneous Codes\Use Item For Max Item]
+author=Code Master
+description=
+patch=1,EE,202331DC,extended,24100063
+
+[Max Weapon Codes\V18 Assault II]
+author=Code Master
+description=
+patch=1,EE,003E4D06,extended,00000063
+
+[Max Weapon Codes\V2 Assault II]
+author=Code Master
+description=
+patch=1,EE,003E4D07,extended,00000063
+
+[Max Bracelet Codes\Van Brace]
+author=Code Master
+description=
+patch=1,EE,003E4E65,extended,00000063
+
+[Max Weapon Codes\Vaquero]
+author=Code Master
+description=
+patch=1,EE,003E4CEF,extended,00000063
+
+[Max Weapon Codes\VB-Crimson]
+author=Code Master
+description=
+patch=1,EE,003E4CA6,extended,00000063
+
+[Max Weapon Codes\VB-Dawn]
+author=Code Master
+description=
+patch=1,EE,003E4CA7,extended,00000063
+
+[Max Weapon Codes\VB-Fall]
+author=Code Master
+description=
+patch=1,EE,003E4CA1,extended,00000063
+
+[Max Weapon Codes\VB-Flame]
+author=Code Master
+description=
+patch=1,EE,003E4CA3,extended,00000063
+
+[Max Weapon Codes\VB-Rain]
+author=Code Master
+description=
+patch=1,EE,003E4C9F,extended,00000063
+
+[Max Armor Codes\Vector Cross]
+author=Code Master
+description=
+patch=1,EE,003E4D8C,extended,00000063
+
+[Max Armor Codes\Vector Uniform]
+author=Code Master
+description=
+patch=1,EE,003E4D9D,extended,00000063
+
+[Max Armor Codes\Velvet Bolero]
+author=Code Master
+description=
+patch=1,EE,003E4D79,extended,00000063
+
+[Max Bracelet Codes\Velvet Breath]
+author=Code Master
+description=
+patch=1,EE,003E4E58,extended,00000063
+
+[Max Armor Codes\Velvet Pannier]
+author=Code Master
+description=
+patch=1,EE,003E4D7D,extended,00000063
+
+[Max Ring Codes\Velvet Ring]
+author=Code Master
+description=
+patch=1,EE,003E4E19,extended,00000063
+
+[Max Ring Codes\Venom Ring]
+author=Code Master
+description=
+patch=1,EE,003E4E25,extended,00000063
+
+[Max Weapon Codes\VI Emperor]
+author=Code Master
+description=
+patch=1,EE,003E4C9A,extended,00000063
+
+[Max Weapon Codes\VI-SHOT]
+author=Code Master
+description=
+patch=1,EE,003E4CED,extended,00000063
+
+[Max Weapon Codes\Viper Bunker]
+author=Code Master
+description=
+patch=1,EE,003E4C96,extended,00000063
+
+[Max Item Codes\VIT Upgrade]
+author=Code Master
+description=
+patch=1,EE,003E4BEF,extended,00000063
+
+[Max Weapon Codes\Volans]
+author=Code Master
+description=
+patch=1,EE,003E4D1F,extended,00000063
+
+[Max Weapon Codes\Volans G]
+author=Code Master
+description=
+patch=1,EE,003E4D20,extended,00000063
+
+[Max Weapon Codes\Volans SV]
+author=Code Master
+description=
+patch=1,EE,003E4D2A,extended,00000063
+
+[Max Armor Codes\Warlord's Mantle]
+author=Code Master
+description=
+patch=1,EE,003E4D6C,extended,00000063
+
+[Max Bracelet Codes\Warrior's Bracelet]
+author=Code Master
+description=
+patch=1,EE,003E4E55,extended,00000063
+
+[Max Key Item Codes\Weapon Development Area Key]
+author=Code Master
+description=
+patch=1,EE,003E51EC,extended,00000063
+
+[Max Item Codes\White Fragment]
+author=Code Master
+description=
+patch=1,EE,003E4C00,extended,00000063
+
+[Max Armor Codes\White Shirt]
+author=Code Master
+description=
+patch=1,EE,003E4D9B,extended,00000063
+
+[Max Weapon Codes\White Silver]
+author=Code Master
+description=
+patch=1,EE,003E4C91,extended,00000063
+
+[Max Bracelet Codes\Wiseman's Beads]
+author=Code Master
+description=
+patch=1,EE,003E4E6D,extended,00000063
+
+[Max Ring Codes\Witch's Eye]
+author=Code Master
+description=
+patch=1,EE,003E4E1A,extended,00000063
+
+[Max Weapon Codes\Yasoma Kagura]
+author=Code Master
+description=
+patch=1,EE,003E4CA5,extended,00000063
+
+[Max Weapon Codes\Yasoma Sanju]
+author=Code Master
+description=
+patch=1,EE,003E4CA0,extended,00000063
+
+[Max Ring Codes\Yellow Ring]
+author=Code Master
+description=
+patch=1,EE,003E4E1E,extended,00000063
+
+[Max Weapon Codes\Zero Crusher]
+author=Code Master
+description=
+patch=1,EE,003E4CB7,extended,00000063
+
+[Max Armor Frame Codes\ZF-Adamas]
+author=Code Master
+description=
+patch=1,EE,003E4EE0,extended,00000063
+
+[Max Armor Frame Codes\ZF-Garnet]
+author=Code Master
+description=
+patch=1,EE,21345344,extended,E417CC90
+
+[Max Armor Frame Codes\ZF-Lithos]
+author=Code Master
+description=
+patch=1,EE,003E4EDA,extended,00000063
+
+[Max Armor Frame Codes\ZF-Rybeus]
+author=Code Master
+description=
+patch=1,EE,003E4EE0,extended,00000063
+
+[Max Armor Frame Codes\ZF-Smarakata]
+author=Code Master
+description=
+patch=1,EE,003E4EDE,extended,00000063
+
+[Max Armor Frame Codes\ZF-Topaz]
+author=Code Master
+description=
+patch=1,EE,003E4EDD,extended,00000063
+
+[Max Armor Frame Codes\ZF-Turmali]
+author=Code Master
+description=
+patch=1,EE,003E4EDD,extended,00000063
+
+[Max Armor Frame Codes\ZF-Upara]
+author=Code Master
+description=
+patch=1,EE,003E4EDA,extended,00000063
+
+[Max Armor Codes\ZIG-Muscle]
+author=Code Master
+description=
+patch=1,EE,003E4D62,extended,00000063
+
+[Max Armor Codes\ZIG-Skeletal]
+author=Code Master
+description=
+patch=1,EE,003E4D63,extended,00000063
+
+[Character 1 Modifier Codes\Ziggy]
+author=Code Master
+description=
+patch=1,EE,21A57594,extended,DE2CBF09
+
+[Character 2 Modifier Codes\Ziggy]
+author=Code Master
+description=
+patch=1,EE,003E6B83,extended,00000004
+
+[Character 3 Modifier Codes\Ziggy]
+author=Code Master
+description=
+patch=1,EE,003E6B84,extended,00000004
+
+[Character 4 Modifier Codes\Ziggy]
+author=Code Master
+description=
+patch=1,EE,003E6B85,extended,00000004
+
+[Character 5 Modifier Codes\Ziggy]
+author=Code Master
+description=
+patch=1,EE,003E6B86,extended,00000004
+
+[Character 6 Modifier Codes\Ziggy]
+author=Code Master
+description=
+patch=1,EE,003E6B88,extended,00000004
+
+[Max Armor Codes\Ziggy's Swimsuit]
+author=Code Master
+description=
+patch=1,EE,003E4D94,extended,00000063
