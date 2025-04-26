@@ -1,0 +1,128 @@
+gametitle=The Baseball 2003 [SLPS-25026] [32C7D77B]
+
+// The following codes are the cheats for training a new player
+// Usage:
+// DO NOT enable the cheats when the game is started
+// TOGGLE ONCE the cheats, ONLY when it's now on the ability/skill shop
+// Otherwise, the game shall crash
+
+[Point]
+patch=1,EE,008D2D7C,short,270F
+[調子]
+patch=1,EE,01EDCE90,byte,63
+[ミート]
+patch=1,EE,01EDCE9C,byte,0F
+[パワー]
+patch=1,EE,01EDCEA8,byte,FF
+[彈道]
+patch=1,EE,01EDCEB8,byte,04
+[肩力]
+patch=1,EE,01EDCEC4,byte,0F
+[走力]
+patch=1,EE,01EDCED0,byte,0F
+[守備力]
+patch=1,EE,01EDCEDC,byte,0F
+[エラー迴避值]
+patch=1,EE,01EDCEE8,byte,0F
+[キャッチャー at most 2]
+patch=1,EE,01EDCF60,byte,02
+[ケガしにくさ4 only]
+patch=1,EE,01EDCF74,byte,06
+[打安定度4 only]
+patch=1,EE,01EDCF94,byte,06
+[打威壓感]
+patch=1,EE,01EDCFA4,byte,01
+[對左ミート4]
+patch=1,EE,01EDCFC0,byte,06
+[對左パワー4]
+patch=1,EE,01EDCFDC,byte,06
+[チャンス4]
+patch=1,EE,01EDCFF8,byte,06
+[アベレージヒッター]
+patch=1,EE,01EDD008,byte,01
+[パワーヒッター]
+patch=1,EE,01EDD018,byte,01
+[チャンスメーカー]
+patch=1,EE,01EDD028,byte,01
+[サヨナラ本壘打男]
+patch=1,EE,01EDD038,byte,01
+[サヨナラヒット男]
+patch=1,EE,01EDD048,byte,01
+[打逆境]
+patch=1,EE,01EDD058,byte,01
+[流し打法]
+patch=1,EE,01EDD068,byte,01
+[廣角打法]
+patch=1,EE,01EDD078,byte,01
+[內野安打]
+patch=1,EE,01EDD088,byte,01
+[バント (at most 2)]
+patch=1,EE,01EDD0A4,byte,02
+[滿壘全壘打男]
+patch=1,EE,01EDD0B4,byte,01
+[滿壘ヒット男]
+patch=1,EE,01EDD0C4,byte,01
+[代打男]
+patch=1,EE,01EDD0D4,byte,01
+[初球]
+patch=1,EE,01EDD0F4,byte,01
+[固め打]
+patch=1,EE,01EDD104,byte,01
+[粘り打]
+patch=1,EE,01EDD114,byte,01
+[守備職人]
+patch=1,EE,01EDD124,byte,01
+[盜壘4 only]
+patch=1,EE,01EDD138,byte,06
+[體當たり]
+patch=1,EE,01EDD148,byte,01
+[走壘4 only]
+patch=1,EE,01EDD15C,byte,06
+[Hスライヂィング1]
+patch=1,EE,01EDD16C,byte,01
+[Hスライヂィング2]
+patch=1,EE,01EDD17C,byte,01
+[送球4]
+patch=1,EE,01EDD18C,byte,06
+[ブロック]
+patch=1,EE,01EDD19C,byte,01
+[4番]
+patch=1,EE,01EDD1B0,byte,01
+[ムードメーカ]
+patch=1,EE,01EDD1C0,byte,01
+[球速]
+patch=1,EE,01EDD258,byte,FF
+[スタミナ]
+patch=1,EE,01EDD278,byte,FF
+[コントロール]
+patch=1,EE,01EDD28C,byte,FF
+[投安定度4 only]
+patch=1,EE,01EDD340,byte,06
+[投威壓感]
+patch=1,EE,01EDD360,byte,01
+[對左打4]
+patch=1,EE,01EDD37C,byte,06
+[對4ピンチ]
+patch=1,EE,01EDD398,byte,06
+[打たれ強4 only]
+patch=1,EE,01EDD3AC,byte,06
+[回復4]
+patch=1,EE,01EDD3C4,byte,06
+[尻上ガリ]
+patch=1,EE,01EDD3F4,byte,01
+[リリ－ス]
+patch=1,EE,01EDD414,byte,01
+[勝ち運]
+patch=1,EE,01EDD428,byte,01
+[ノビ4 only]
+patch=1,EE,01EDD43C,byte,06
+[牽制]
+patch=1,EE,01EDD448,byte,01
+[打球反應]
+patch=1,EE,01EDD458,byte,01
+[逃げ球]
+patch=1,EE,01EDD47C,byte,01
+[クイック4 only]
+patch=1,EE,01EDD490,byte,06
+[キレ4 only]
+patch=1,EE,01EDD4A4,byte,06

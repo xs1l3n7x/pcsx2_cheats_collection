@@ -509,6 +509,7 @@ Extract the contents of cheats folder within the .zip file into you PCSX2 "cheat
 | Tekken 4 | SCES-50878 | 2251E14D |
 | Tekken 5 | SLUS-21059 | 652050D2 |
 | Tetris Worlds | SLUS-20247 | C9246E9C |
+| The Baseball 2003 | SLPS-25026 | 32C7D77B |
 | Thing, The | SLES-50975 | F6F9A91D |
 | Thrillville | SLUS-21413 | A4315184 |
 | Tiger Woods PGA Tour 2001 | SLUS-20104 | 5232E8D8 |
