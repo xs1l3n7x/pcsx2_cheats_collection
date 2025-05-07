@@ -1,0 +1,185 @@
+[Cheats\60fps]
+description= framerate to 60 but increase speed
+patch=1,EE,003400cc,word,28410001 //28410002
+
+[Cheats\60 fps Speed Modifier]
+description= this lower or raises speed maintaining 60 fps, dont adjust everything in game
+patch=1,EE,00361778,word,3c063f00 //3c063f80 normal  f00 orig patch
+
+[Cheats\Remove translucent black Borders in Art Gallery]
+patch=1,EE,00349f7c,word,24030000
+
+[Cheats\No black Borders]
+description= remove borders on cutscenes
+patch=1,EE,0035e628,word,24030001
+
+[master code]
+patch=1,EE,F0100208,extended,0000000E
+patch=1,EE,F0100208,extended,001EFC1B
+
+[Bonus added]
+patch=1,EE,20487AA4,extended,FFFFFFFF
+patch=1,EE,20487AA8,extended,FFFFFFFF
+patch=1,EE,20487AAC,extended,FFFFFFFF
+
+[98 consumable items when used]
+patch=1,EE,2025FDE8,extended,24030061
+patch=1,EE,2025FE50,extended,24420002
+//*Only those with a displayed number are valid. Note that the current number is displayed as +1.
+
+[Consumable items do not decrease]
+patch=1,EE,2025FE4C,extended,24020062
+patch=1,EE,2025FE50,extended,AE020010
+//*Only those with a displayed number are valid.
+
+
+[Disappears when you stop (button toggle)]
+patch=1,EE,201A2C24,extended,00000000
+patch=1,EE,D04F171C,extended,0000FEEF
+patch=1,EE,201A2BB4,extended,00000000
+patch=1,EE,D04F171C,extended,0000FEBF
+patch=1,EE,201A2BB4,extended,14430036
+//*Has the same effect as "Fairy Earrings."
+//※L2 + Up button to turn effect ON
+//※L2 + Down button to turn effect OFF
+
+[Change the rotating ball of the item refiner]
+patch=1,EE,20324374,extended,A0620000
+patch=1,EE,D04F179C,extended,0000FEFF
+patch=1,EE,20324370,extended,24020000
+patch=1,EE,D04F179C,extended,0000FDFF
+patch=1,EE,20324370,extended,24020001
+patch=1,EE,D04F179C,extended,0000FBFF
+patch=1,EE,20324370,extended,24020002
+patch=1,EE,D04F179C,extended,0000F7FF
+patch=1,EE,20324370,extended,24020003
+patch=1,EE,D04F179C,extended,0000FFFD
+patch=1,EE,20324370,extended,24020004
+patch=1,EE,D04F179C,extended,0000FFFB
+patch=1,EE,20324370,extended,24020005
+
+//※L2 button for white, R2 button for red, L1 button for blue, R1 button for green, L3 button for black, R3 button for gold
+
+//＜Secret Room＞
+
+[Character Gallery Viewpoint Restriction Released]
+patch=1,EE,203923B0,extended,00000000
+patch=1,EE,203923D4,extended,10000004
+patch=1,EE,2039260C,extended,00000000
+patch=1,EE,2039264C,extended,10000004
+//※Restrictions on zoom and vertical movement released
+
+[Character Gallery Viewpoint can be rotated vertically]
+patch=1,EE,D04F171C,extended,0000FEFF
+patch=1,EE,2039236C,extended,C4608E24
+patch=1,EE,D04F171C,extended,0000FEFF
+patch=1,EE,20392394,extended,E4C08E24
+patch=1,EE,D04F171C,extended,0000FDFF
+patch=1,EE,2039236C,extended,C4608E30
+patch=1,EE,D04F171C,extended,0000FDFF
+patch=1,EE,20392394,extended,E4C08E30
+
+//*Depending on the vertical rotation angle, it may be very difficult to control. In that case, try zooming in and pushing the left stick back to the original position.
+//*Use in conjunction with the character gallery viewpoint restriction release code.
+
+//<Huey>
+
+[Maximum health]
+patch=1,EE,216BF908,extended,00000064
+
+[Can't be hit by attacks]
+patch=1,EE,20164544,extended,00000000
+patch=1,EE,20195028,extended,00000000
+//*Does take damage from enemies thrown when biting.
+
+//<Fiona>
+
+//[Breast spasms]
+//patch=1,EE,202EEEC4,extended,3C014000
+//patch=1,EE,202EEED0,extended,AE410010
+//*May not be reflected depending on outfit and scene.
+
+[Increased breast jiggling]
+patch=1,EE,202EEEC4,extended,3C013F7A
+patch=1,EE,202EEED0,extended,AE410010
+patch=1,EE,202EEE98,extended,3C023F80
+patch=1,EE,202EEED8,extended,3C023F80
+patch=1,EE,202EEEB8,extended,3C02BF80
+patch=1,EE,202EEEF8,extended,3C02BF80
+//*Cannot be used in conjunction with breast spasm code.
+
+//[Explosive breasts]
+//patch=1,EE,202EEEE4,extended,3C01xxxx
+patch=1,EE,202EEEF0,extended,AE210050
+patch=1,EE,202EEF04,extended,AE210054
+patch=1,EE,202EEF10,extended,AE210058
+//*May not be reflected depending on outfit and scene.
+//Value of xxxx
+//4000 - 2x breast
+//4040 - 3x breast
+//4080 - 4x breast
+//4100 - 8x breast
+
+[Not hit by enemy attacks]
+patch=1,EE,201A0394,extended,00000000
+patch=1,EE,2019FA1C,extended,00000000
+//*There is a chance of one-hit death from traps and damage from falling.
+
+[Instant fatigue recovery]
+patch=1,EE,2018112C,extended,AC60D5F4
+
+[Instant damage recovery (one-hit death possible)]
+patch=1,EE,201A22A8,extended,10000007
+patch=1,EE,201A22DC,extended,24040000
+//*There is a chance of losing in a contest of strength, one-hit death from guns, etc.
+
+[Instant panic recovery]
+patch=1,EE,202EF780,extended,2403FFFF
+patch=1,EE,202F0794,extended,AE20001C
+patch=1,EE,202F089C,extended,AE200004
+
+[Skirt comes off]
+patch=1,EE,202F86E0,extended,44806000
+patch=1,EE,203160D0,extended,44806000
+
+
+//[Kick power change]
+//patch=1,EE,20195A2C,extended,1000002A
+//patch=1,EE,20195B04,extended,00000000
+//patch=1,EE,20195B1C,extended,6413xxxx
+
+//xxxx value
+//0002 - 2x power
+//0005 - 5x power
+//0032 - 50x power
+//0064 - 100x power
+//03E8 - 1000x power
+//2710 - 10000x power
+
+//<Evaluation when cleared>
+
+//[TIME]
+//patch=1,EE,208894C4,extended,xxxxxxxx
+//*The value of xxxxxxxx = 00000000 (00:00:00), 003B3B63 (99:59:59)
+
+[ITEM 100%]
+patch=1,EE,10488C16,extended,00000091
+patch=1,EE,10488C18,extended,00000091
+
+//[Number of times a dog has been bullied]
+patch=1,EE,108894B6,extended,0000xxxx
+
+//[Number of times a dog has been disciplined]
+//patch=1,EE,108894B8,extended,0000xxxx
+
+//[Number of times PANIC]
+//patch=1,EE,108894C2,extended,0000xxxx
+
+//[Number of times CRITICAL HEWIE INJURIES]
+//patch=1,EE,108894BA,extended,0000xxxx
+
+//Number of times ENEMYS DEFEATED
+//108894BC 0000xxxx0
+//The value of xxxx
+//0000 - Number of times 0
+//270F - Number of times 9999
