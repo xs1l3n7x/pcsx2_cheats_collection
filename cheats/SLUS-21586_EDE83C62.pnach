@@ -1,0 +1,18 @@
+gametitle=Guitar Hero Encore - Rocks the '80s (SLUS-21586)
+
+[Always Rock Great]
+patch=1,EE,20124D08,extended,AC810008
+patch=1,EE,20124D0C,extended,AC81000C
+patch=1,EE,20124D10,extended,03E00008
+
+[Unlock everything]
+patch=1,EE,20A8F990,extended,00000001
+
+[Infinite / Instant Star Power]
+patch=1,EE,2011EF40,extended,00000000
+
+[Infinite Cash]
+patch=1,EE,20A8FA34,extended,3B9AC9FF
+
+[Hyper Mode]
+patch=1,EE,00626014,extended,00000001
