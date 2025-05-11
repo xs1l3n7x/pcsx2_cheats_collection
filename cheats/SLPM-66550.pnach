@@ -1,0 +1,15 @@
+//GODHAND JAPAN 
+
+[M]
+patch=1,EE,F0100238,extended,0010023B
+
+[Infinite Health]
+patch=1,EE,201098F8,extended,86250548
+patch=1,EE,20109904,extended,A625054A
+
+[Infinite Gold]
+patch=1,EE,201FA474,extended,00000000
+
+[Tension Gauge Max]
+//"on just one hit of the enemy"
+patch=1,EE,202A93B4,extended,00000000
