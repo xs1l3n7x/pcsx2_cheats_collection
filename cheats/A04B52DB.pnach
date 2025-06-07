@@ -1,0 +1,27 @@
+ACE COMBAT ZERO THE BELKAN WAR SLPS-25629 A04B52DB
+
+[Max Money]
+patch=1,EE,203B33D8,extended,05F5E0FF
+
+[Continuous missile firing]
+patch=1,EE,20230828,extended,240E0000
+patch=1,EE,20230848,extended,240E0000
+
+[Continuous SP weapon firing]
+patch=1,EE,20233034,extended,00000000
+
+[Missiles do not decrease]
+patch=1,EE,20230CB8,extended,00000000
+
+[SP weapons do not decrease]
+patch=1,EE,20233904,extended,00000000
+
+[Rockets do not decrease]
+patch=1,EE,20233264,extended,00000000
+patch=1,EE,20232C84,extended,00000000
+
+[All aircraft + all colors]
+patch=1,EE,403B33DC,extended,00300001
+patch=1,EE,11111111,extended,00000000
+patch=1,EE,403B33E6,extended,00300001
+patch=1,EE,11111111,extended,00000000
