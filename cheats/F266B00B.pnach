@@ -1,0 +1,83 @@
+gametitle=Kingdom Hearts II final mix + [66675] [F266B00B]
+
+//m
+patch=1,EE,F02F5EF8,extended,002F5EFB
+
+
+//Ont tous Normal/Synth/Weapons/Acc. Items < Version FM, comprend tous les nouveaux objets et armes avec NO mannequins et articles clés >
+patch=1,EE,4032F0B0,extended,00060001
+patch=1,EE,0A0A0A0A,extended,00000000
+patch=1,EE,0032F0C9,extended,0000000A
+patch=1,EE,1032F0CA,extended,00000A0A
+patch=1,EE,4032F0CC,extended,00020001
+patch=1,EE,0A0A0A0A,extended,00000000
+patch=1,EE,1032F0D6,extended,00000A0A
+patch=1,EE,1032F0D8,extended,00000A0A
+patch=1,EE,1032F0DC,extended,00000A0A
+patch=1,EE,1032F0E0,extended,00000A0A
+patch=1,EE,0032F0E2,extended,0000000A
+patch=1,EE,0032F0E7,extended,0000000A
+patch=1,EE,1032F0E8,extended,00000A0A
+patch=1,EE,1032F0EA,extended,00000A0A
+patch=1,EE,1032F0EC,extended,00000A0A
+patch=1,EE,0032F0EE,extended,0000000A
+patch=1,EE,0032F0F3,extended,0000000A
+patch=1,EE,2032F0F4,extended,0A0A0A0A
+patch=1,EE,1032F0FA,extended,00000A0A
+patch=1,EE,4032F0FC,extended,000B0001
+patch=1,EE,0A0A0A0A,extended,00000000
+patch=1,EE,1032F128,extended,00000A0A
+patch=1,EE,0032F12B,extended,0000000A
+patch=1,EE,4032F12C,extended,00100001
+patch=1,EE,0A0A0A0A,extended,00000000
+patch=1,EE,0032F17B,extended,0000000A
+patch=1,EE,2032F17C,extended,0A0A0A0A
+patch=1,EE,0032F181,extended,00000000 //A
+patch=1,EE,4032F194,extended,00020000 //1
+patch=1,EE,0A0A0A0A,extended,00000000
+patch=1,EE,1032F19C,extended,00000A0A
+patch=1,EE,0032F1AB,extended,0000000A
+patch=1,EE,4032F1AC,extended,00060001
+patch=1,EE,0A0A0A0A,extended,00000000
+patch=1,EE,4032F1C8,extended,00060001
+patch=1,EE,0A0A0A0A,extended,00000000
+patch=1,EE,1032F1E0,extended,00000A0A
+patch=1,EE,0032F1E5,extended,0000000A
+patch=1,EE,1032F1E6,extended,00000A0A
+
+//Drive Forms Level up to 9 (après 1 hit...)
+patch=1,EE,201D5F84,extended,3C0F0009
+patch=1,EE,201D5F88,extended,240F0009
+
+//Inf hp
+patch=1,EE,200FE000,extended,8C820004
+patch=1,EE,200FE004,extended,0806891E
+patch=1,EE,200FE008,extended,AC820000
+patch=1,EE,20166CD8,extended,0C03F800
+
+//Inf MP en combat
+patch=1,EE,200C0100,extended,8C830238
+patch=1,EE,200C0104,extended,8C810184
+patch=1,EE,200C0108,extended,0023100B
+patch=1,EE,200C010C,extended,08068678
+patch=1,EE,200C0110,extended,AC820180
+patch=1,EE,201A1A10,extended,08030040
+
+//Max/Inf. Munny
+patch=1,EE,2032DF70,extended,000F423F
+
+
+
+//Quick Level Up (All Characters)
+patch=1,EE,2032F210,extended,0098967F
+
+//Appuyez sur R2 pour déverrouiller toutes le "drive forme" 
+//(Avec Antiforme dans la liste Drive)
+patch=1,EE,E006FDFF,extended,0034D3C0
+patch=1,EE,2032F1F0,extended,FFFFFFFF
+patch=1,EE,2032F1F4,extended,FFFFFFFF
+patch=1,EE,2032F1F8,extended,FFFFFFFF
+patch=1,EE,1032EE24,extended,00000029
+patch=1,EE,1032EECC,extended,00000029
+patch=1,EE,1032EF04,extended,00000029
+

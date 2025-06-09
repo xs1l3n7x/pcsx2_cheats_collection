@@ -1,0 +1,434 @@
+gametitle=Drakengard [52322] [79585776]
+
+// comment= by paynssj4
+
+
+
+
+//Alternativ Mastercode
+patch=1,EE,F01200a4,extended,0000000E
+
+
+
+//infinite hp
+patch=1,EE,203B0870,extended,00000190
+
+//invincible
+patch=1,EE,003B0CE6,extended,00000004
+
+//max kills
+patch=1,EE,203ABB44,extended,000003E7
+
+//max kill total (VOIR LE MENU)
+patch=1,EE,203AF2A4,extended,0098967F
+
+// Max Number Of Attacks
+patch=1,EE,203AF2AC,extended,0098967F
+
+
+// Max Chain
+patch=1,EE,203B0D3C,extended,00000064
+
+
+
+//Quick Points Gain
+patch=1,EE,103AFBF0,extended,0000FFFF
+
+
+
+//Quick dragon exp
+patch=1,EE,103AFBF8,extended,0000FFFF
+
+//Long SwordSkald's SongCrimson Sentinel
+patch=1,EE,703AF830,extended,00000001
+
+
+//Long SwordGuardians' SorrowCherub's Breath
+patch=1,EE,703AF834,extended,00000001
+
+
+//Long SwordInjusticeVoice Of Gungnir
+patch=1,EE,703AF838,extended,00000001
+
+
+//SwordGlory's BaneDamocles' Strike
+patch=1,EE,703AF81C,extended,00000001
+
+//SwordKingsbloodThor's Flame
+patch=1,EE,703AF820,extended,00000001
+
+//Long SwordMoonfireFang Of The Ifrit
+patch=1,EE,703AF824,extended,00000001
+
+//Long SwordSlaughterismThunderclaw
+patch=1,EE,703AF828,extended,00000001
+
+//Long SwordSoldier's SwordBreath Of Sleipnir
+patch=1,EE,703AF82C,extended,00000001
+
+
+
+//Long SwordHymir's FingerMizzle Of Tears
+patch=1,EE,703AF83C,extended,00000001
+
+//SwordHunter's JoyGyllir's Hoof
+patch=1,EE,703AF840,extended,00000001
+
+//Long SwordFlambergeDragonspeak
+patch=1,EE,703AF844,extended,00000001
+
+//SwordDeathdanceQueen Hel's Comfort
+patch=1,EE,703AF848,extended,00000001
+
+//SwordScreamFaierie Horn
+patch=1,EE,703AF848,extended,00000001
+
+//AxeLovekeeperSpirit Horn
+patch=1,EE,703AF850,extended,00000001
+
+//AxeCrimson HoodJotun Storm
+patch=1,EE,703AF854,extended,00000001
+
+//AxeFoul BladeEye Of The Salamander
+patch=1,EE,703AF858,extended,00000001
+
+//AxeBonebreakerYmer's Fang
+patch=1,EE,703AF85C,extended,00000001
+
+//AxePoisontonguePhantom Eye
+patch=1,EE,703AF860,extended,00000001
+
+//AxeExecutioner's Song
+patch=1,EE,703AF864,extended,00000001
+
+//MaceMage's PromiseHellsplague
+patch=1,EE,703AB858,extended,00000001
+
+//MaceCarrionMakerAres' Breath
+patch=1,EE,703AF86C,extended,00000001
+
+//MaceHoly MaceGabriel's Claw
+patch=1,EE,703AF870,extended,00000001
+
+//MaceDragonstrokePixie Wings
+patch=1,EE,703AF874,extended,00000001
+
+//MacePupil's ClubIshtar's Volcano
+patch=1,EE,703AF878,extended,00000001
+
+//StaffMagi's SorrowSirensong
+patch=1,EE,703AF87C,extended,00000001
+
+//StaffWisdomTHus SPake The Aesir
+patch=1,EE,703AF880,extended,00000001
+
+//StaffEdaciousSilver Solace
+patch=1,EE,703AF884,extended,00000001
+
+//StaffPhilosopher's StaffWing At Moondown
+patch=1,EE,703AF888,extended,00000001
+
+//Long SwordNobuyoshi Susano's Veil
+patch=1,EE,703AF88C,extended,00000001
+
+//Long SwordTakamasaBreath Of Amaterasu
+patch=1,EE,703AF890,extended,00000001
+
+//MaceSpiked WisdomXaphan's Horn
+patch=1,EE,703AF894,extended,00000001
+
+//MaceIron ScrapsBroken Earth
+patch=1,EE,703AF898,extended,00000001
+
+//MaceSorrow's CompanionJormungard's Tears
+patch=1,EE,703AF89C,extended,00000001
+
+//Pole AxeTwins' FangLoki's Song
+patch=1,EE,703AF8A0,extended,00000001
+
+//SwordRavenfeederBreath Of The Aesir
+patch=1,EE,703AF8A4,extended,00000001
+
+//SwordDragonhookIronfall
+patch=1,EE,703AF8A8,extended,00000001
+
+//SwordButcher's JoySacrificial Breath
+patch=1,EE,703AF8AC,extended,00000001
+
+//SpearStormgiverSurt's Touch
+patch=1,EE,703AF8B0,extended,00000001
+
+//SpearRober KingOrion's Dart
+patch=1,EE,703AF8B4,extended,00000001
+
+//Pole AxeSorrowbornColdkill
+patch=1,EE,703AF8B8,extended,00000001
+
+//Pole AxeWidow's DeathPlasmalogical Phantorium
+patch=1,EE,703AF8BC,extended,00000001
+
+//Pole AxeFheng's GlaiveGreed's Venom
+patch=1,EE,703AF8C0,extended,00000001
+
+//SpearKnight's VowUllr's Bolt
+patch=1,EE,703AF8C4,extended,00000001
+
+//SpearBalberith's TearsEye Of The Jinn
+patch=1,EE,703AF8C8,extended,00000001
+
+//Pole AxeWindsingerStorm's Eye
+patch=1,EE,703AF8CC,extended,00000001
+
+//Pole AxeDevilscaleBelial's Embrace
+patch=1,EE,703AF8D0,extended,00000001
+
+//SpearBroken DogmaUndead Sign
+patch=1,EE,703AF8D4,extended,00000001
+
+//SpearBattlelustSin's Weight
+patch=1,EE,703AF8D8,extended,00000001
+
+//HammerSouldouserBlaze Of Brisingamen
+patch=1,EE,703AF8DC,extended,00000001
+
+//HammerDragonstormBardiel's Blow
+patch=1,EE,703AF8E0,extended,00000001
+
+//HammerTreasure BuilderTalos Fist
+patch=1,EE,703AB8D4,extended,00000001
+
+//HammerTyrant's HammerA Handful Of Lightning
+patch=1,EE,703AF8E4,extended,00000001
+
+//Pole AxeReaper's ScytheDemon's Lust
+patch=1,EE,703AF8EC,extended,00000001
+
+//SpearVictor's SpoilsSeraph's Touch
+patch=1,EE,703AF8F0,extended,00000001
+
+//SpearWolf's PlagueFenrir's Fang
+patch=1,EE,703AF8F4,extended,00000001
+
+//MaceSkull BanquetDemon's Whisper
+patch=1,EE,703AF8F8,extended,00000001
+
+//Pole AxeApostate's MiserySylph Soughs
+patch=1,EE,703AF8FC,extended,00000001
+
+//Long SwordGreed's RewardVoice Of Balam
+patch=1,EE,703AF900,extended,00000001
+
+//SwordMaiden's KrisCrescentsong
+patch=1,EE,703AF904,extended,00000001
+
+//Long SwordWritheheartStricken Soul
+patch=1,EE,703AF908,extended,00000001
+
+//Long SwordDemonbaneSkoll's Feast
+patch=1,EE,703AF90C,extended,00000001
+
+//SwordSwordsmasherPale Death
+patch=1,EE,703AF910,extended,00000001
+
+//SpearOzymandias's MightLightning Strife
+patch=1,EE,703AF914,extended,00000001
+
+//SpearMermaid's FeastUndine's Sigh
+patch=1,EE,703AF918,extended,00000001
+
+
+
+//==  Weapon Level 3 Codes ==
+
+//SwordGlory's BaneDamocles' Strike
+patch=1,EE,103AF81E,extended,00000101
+
+//SwordKingsbloodThor's Flame
+patch=1,EE,103AF822,extended,00000101
+
+//Long SwordMoonfireFang Of The Ifrit
+patch=1,EE,103AF826,extended,00000101
+
+//Long SwordSlaughterismThunderclaw
+patch=1,EE,103AF82A,extended,00000101
+
+//Long SwordSoldier's SwordBreath Of Sleipnir
+patch=1,EE,103AF82E,extended,00000101
+
+
+//Long SwordSkald's SongCrimson Sentinel
+patch=1,EE,103AF832,extended,00000101
+
+//Long SwordGuardians' SorrowCherub's Breath
+patch=1,EE,103AF836,extended,00000101
+
+//Long SwordInjusticeVoice Of Gungnir
+patch=1,EE,103AF83A,extended,00000101
+
+//Long SwordHymir's FingerMizzle Of Tears
+patch=1,EE,103AF83E,extended,00000101
+
+//SwordHunter's JoyGyllir's Hoof
+patch=1,EE,103AF842,extended,00000101
+
+//Long SwordFlambergeDragonspeak
+patch=1,EE,103AF846,extended,00000101
+
+//SwordDeathdanceQueen Hel's Comfort
+patch=1,EE,103AF84A,extended,00000101
+
+//SwordScreamFaierie Horn
+patch=1,EE,103AF84E,extended,00000101
+
+//AxeLovekeeperSpirit Horn
+patch=1,EE,103AF852,extended,00000101
+
+//AxeCrimson HoodJotun Storm
+patch=1,EE,103AF856,extended,00000101
+
+//The Salamander
+patch=1,EE,103AF85A,extended,00000101
+
+//AxeBonebreakerYmer's Fang
+patch=1,EE,103AB84E,extended,00000101
+
+//AxePoisontonguePhantom Eye
+patch=1,EE,103AF85E,extended,00000101
+
+//AxeExecutioner's Song
+patch=1,EE,103AF862,extended,00000101
+
+//MaceMage's PromiseHellsplague
+patch=1,EE,103AF866,extended,00000101
+
+//MaceCarrionMakerAres' Breath
+patch=1,EE,103AF86A,extended,00000101
+
+//MaceHoly MaceGabriel's Claw
+patch=1,EE,103AF86E,extended,00000101
+
+//MaceDragonstrokePixie Wings
+patch=1,EE,103AF872,extended,00000101
+
+//MacePupil's ClubIshtar's Volcano
+patch=1,EE,103AF876,extended,00000101
+
+//StaffMagi's SorrowSirensong
+patch=1,EE,103AF87A,extended,00000101
+
+//StaffWisdomTHus SPake The Aesir
+patch=1,EE,103AF87E,extended,00000101
+
+//StaffEdaciousSilver Solace
+patch=1,EE,103AF882,extended,00000101
+
+//StaffPhilosopher's StaffWing At Moondown
+patch=1,EE,103AF886,extended,00000101
+
+//Long SwordNobuyoshi Susano's Veil
+patch=1,EE,103AF88A,extended,00000101
+
+//Long SwordTakamasaBreath Of Amaterasu
+patch=1,EE,103AF88E,extended,00000101
+
+//MaceSpiked WisdomXaphan's Horn
+patch=1,EE,103AF892,extended,00000101
+
+//MaceIron ScrapsBroken Earth
+patch=1,EE,103AF896,extended,00000101
+
+//MaceSorrow's CompanionJormungard's Tears
+patch=1,EE,103AF89A,extended,00000101
+
+//Pole AxeTwins' FangLoki's Song
+patch=1,EE,103AF89E,extended,00000101
+
+//SwordRavenfeederBreath Of The Aesir
+patch=1,EE,103AF8A2,extended,00000101
+
+//SwordDragonhookIronfall
+patch=1,EE,103AF8A6,extended,00000101
+
+//SwordButcher's JoySacrificial Breath
+patch=1,EE,103AF8AA,extended,00000101
+
+//SpearStormgiverSurt's Touch
+patch=1,EE,103AF8AE,extended,00000101
+
+//SpearRober KingOrion's Dart
+patch=1,EE,103AF8B2,extended,00000101
+
+//Pole AxeSorrowbornColdkill
+patch=1,EE,103AF8B6,extended,00000101
+
+//Pole AxeWidow's DeathPlasmalogical Phantorium
+patch=1,EE,103AF8BA,extended,00000101
+
+//Pole AxeFheng's GlaiveGreed's Venom
+patch=1,EE,103AF8BE,extended,00000101
+
+//SpearKnight's VowUllr's Bolt
+patch=1,EE,103AF8C2,extended,00000101
+
+//SpearBalberith's TearsEye Of The Jinn
+patch=1,EE,103AF8C6,extended,00000101
+
+//Pole AxeWindsingerStorm's Eye
+patch=1,EE,103AB8BE,extended,00000101
+
+//Pole AxeDevilscaleBelial's Embrace
+patch=1,EE,103AF8CA,extended,00000101
+
+//SpearBroken DogmaUndead Sign
+patch=1,EE,103AF8CE,extended,00000101
+
+//SpearBattlelustSin's Weight
+patch=1,EE,103AF8D2,extended,00000101
+
+//HammerSouldouserBlaze Of Brisingamen
+patch=1,EE,103AF8D6,extended,00000101
+
+//HammerDragonstormBardiel's Blow
+patch=1,EE,103AF8DA,extended,00000101
+
+//HammerTreasure BuilderTalos Fist
+patch=1,EE,103AF8DE,extended,00000101
+
+//HammerTyrant's HammerA Handful Of Lightning
+patch=1,EE,103AF8E2,extended,00000101
+
+//Pole AxeReaper's ScytheDemon's Lust
+patch=1,EE,103AF8E6,extended,00000101
+
+//SpearVictor's SpoilsSeraph's Touch
+patch=1,EE,103AF8EA,extended,00000101
+
+//SpearWolf's PlagueFenrir's Fang
+patch=1,EE,103AF8EE,extended,00000101
+
+//MaceSkull BanquetDemon's Whisper
+patch=1,EE,103AF8F2,extended,00000101
+
+//Pole AxeApostate's MiserySylph Soughs
+patch=1,EE,103AF8F6,extended,00000101
+
+//Long SwordGreed's RewardVoice Of Balam
+patch=1,EE,103AF8FA,extended,00000101
+
+//SwordMaiden's KrisCrescentsong
+patch=1,EE,103AF8FE,extended,00000101
+
+//Long SwordWritheheartStricken Soul
+patch=1,EE,103AF902,extended,00000101
+
+//Long SwordDemonbaneSkoll's Feast
+patch=1,EE,103AF906,extended,00000101
+
+//SwordSwordsmasherPale Death
+patch=1,EE,103AF90A,extended,00000101
+
+//SpearOzymandias's MightLightning Strife
+patch=1,EE,103AF90E,extended,00000101
+
+//SpearMermaid's FeastUndine's Sigh
+patch=1,EE,103AF912,extended,00000101

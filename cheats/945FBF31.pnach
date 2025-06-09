@@ -1,0 +1,2929 @@
+gametitle=Dragon Quest VII : L'Odysée du roi maudit (PAL) (SLES_539.74)
+comment=par Lapersio (UPC)
+
+
+//Argent Infini
+patch=1,EE,20409B40,extended,05F5E0FF
+
+//Recevoir 999 Objets dans le sac après en avoir acheté
+patch=1,EE,2020706C,extended,240303E7
+patch=1,EE,202070BC,extended,240303E7
+
+//Pas de combats aléatoires (L3 pour activer et R3 pour désactiver) 
+patch=1,EE,D03FAFB4,extended,00000200
+patch=1,EE,20302394,extended,00000000
+patch=1,EE,D03FAFB4,extended,00000400
+patch=1,EE,20302394,extended,14A00003
+
+//Liste de téléportation complète
+patch=1,EE,20409390,extended,FFFFFFFF
+patch=1,EE,00409394,extended,000000FF
+
+//99999999 Jetons au casino
+patch=1,EE,2040ED50,extended,05F5E0FF
+
+//99999000 à la banque
+patch=1,EE,2040A594,extended,05F5DD18
+
+
+//----------------------------------------Codes pour tous les joueurs
+
+//Avoir tous les attributs
+patch=1,EE,20207B14,extended,24020001
+patch=1,EE,20207B34,extended,24020001
+
+//Force au Maximum
+patch=1,EE,202054B0,extended,10000061
+
+//Agilité au maximum
+patch=1,EE,202054C0,extended,1000005F
+
+//Sagesse au maximum
+patch=1,EE,202054E0,extended,1000005B
+
+//Endurance et Défense au maximum
+patch=1,EE,202054D0,extended,1000005D
+
+//PV au maximum 
+patch=1,EE,20205500,extended,10000057
+
+//PM au maximum
+patch=1,EE,20205510,extended,10000055
+
+//Statistiques d'armes au maximum
+patch=1,EE,2020766C,extended,08081DB1
+patch=1,EE,20207670,extended,240303E7
+
+//PM et PV restaurés après chaque tour, en combat, et infinis, hors combat
+patch=1,EE,202A1F3C,extended,0C03FFC0
+patch=1,EE,200FFF00,extended,240503E8
+patch=1,EE,200FFF04,extended,AE050004
+patch=1,EE,200FFF08,extended,AE050008
+patch=1,EE,200FFF0C,extended,03E00008
+patch=1,EE,200FFF10,extended,A605000E
+
+//----------------------------------------Points d'expérience par combat (n'activer qu'un à la fois): 
+
+//100 EXP 
+patch=1,EE,20369170,extended,24010064
+patch=1,EE,20369174,extended,AC410000
+patch=1,EE,20369178,extended,AFA100D0
+
+//1000 EXP 
+patch=1,EE,20369170,extended,240103E8
+patch=1,EE,20369174,extended,AC410000
+patch=1,EE,20369178,extended,AFA100D0
+
+//9999 EXP 
+patch=1,EE,20369170,extended,2401270F
+patch=1,EE,20369174,extended,AC410000
+patch=1,EE,20369178,extended,AFA100D0
+
+//30000 EXP 
+patch=1,EE,20369170,extended,24017530
+patch=1,EE,20369174,extended,AC410000
+patch=1,EE,20369178,extended,AFA100D0
+
+
+//----------------------------------------Codes pour le personnage principal: 
+
+//PV au maximum 
+patch=1,EE,20409B70,extended,000003E7
+
+//Barre des PV toujours remplie
+patch=1,EE,20409B74,extended,000003E7
+
+//PM au maximum
+patch=1,EE,20409B78,extended,000003E7
+
+//Barre des PM toujours remplie 
+patch=1,EE,20409B7C,extended,000003E7
+
+//Passer rapidement aux niveaux supérieurs (peut être très encombrant si vous êtes à un faible niveau)
+patch=1,EE,20409B88,extended,05F5E0FF
+
+//Force au maximum 
+patch=1,EE,10409BA0,extended,000003E7
+
+//Agilité au maximum
+patch=1,EE,10409BA2,extended,000003E7
+
+//Sagesse au maximum 
+patch=1,EE,10409BA6,extended,000003E7
+
+//Endurance et défense au maximum
+patch=1,EE,10409BA4,extended,000003E7
+
+//Aptitudes d'épées au maximum 
+patch=1,EE,10409BAA,extended,000003E7
+
+//Aptitudes de lances au maximum
+patch=1,EE,10409BAC,extended,000003E7
+
+//Aptitudes aux boomerangs au maximum
+patch=1,EE,10409BAE,extended,000003E7
+
+//Aptitudes à main nues au maximum
+patch=1,EE,10409BB0,extended,000003E7
+
+//courage au maximum 
+patch=1,EE,10409BB2,extended,000003E7
+
+//----------------------------------------Codes pour Yangus: 
+
+//PV au maximum 
+patch=1,EE,20409BD8,extended,000003E7
+
+//Barre des PV toujours pleine 
+patch=1,EE,20409BDC,extended,000003E7
+
+//PM au maximum 
+patch=1,EE,20409BE0,extended,000003E7
+
+//Barre des PM toujours pleine
+patch=1,EE,20409BE4,extended,000003E7
+
+//Passer rapidement aux niveaux supérieurs (peut être très encombrant si vous êtes à un faible niveau)
+patch=1,EE,20409BF0,extended,05F5E0FF
+
+//Force au maximum 
+patch=1,EE,10409C08,extended,000003E7
+
+//Agilité au maximum 
+patch=1,EE,10409C0A,extended,000003E7
+
+//Sagesse au maximum
+patch=1,EE,10409C0E,extended,000003E7
+
+//Endurence et défense au maximum
+patch=1,EE,10409C0C,extended,000003E7
+
+//Aptitudes aux haches au maximum
+patch=1,EE,10409C12,extended,000003E7
+
+//Aptitudes aux Batons au maximum 
+patch=1,EE,10409C14,extended,000003E7
+
+//Aptitudes aux faux au maximum 
+patch=1,EE,10409C16,extended,000003E7
+
+//Aptitudes mains nues maximum
+patch=1,EE,10409C18,extended,000003E7
+
+//Humanité au maximum 
+patch=1,EE,10409C1A,extended,000003E7
+
+//----------------------------------------Codes pour Jessica: 
+
+//PV au maximum 
+patch=1,EE,20409C40,extended,000003E7
+
+//Barre des PV toujours pleine
+patch=1,EE,20409C44,extended,000003E7
+
+//PM au maximum
+patch=1,EE,20409C48,extended,000003E7
+
+//Barre des PM toujours pleine 
+patch=1,EE,20409C4C,extended,000003E7
+
+//Passer rapidement aux niveaux supérieurs (peut être très encombrant si vous êtes à un faible niveau)
+patch=1,EE,20409C58,extended,05F5E0FF
+
+//Force au maximum
+patch=1,EE,10409C70,extended,000003E7
+
+//Agilité au maximum
+patch=1,EE,10409C72,extended,000003E7
+
+//Endurance et défense au maximum 
+patch=1,EE,10409C74,extended,000003E7
+
+//Sagesse au maximum
+patch=1,EE,10409C76,extended,000003E7
+
+//Aptitudes aux Poignards au maximum 
+patch=1,EE,10409C7A,extended,000003E7
+
+//Aptitudes aux fouets au maximum
+patch=1,EE,10409C7C,extended,000003E7
+
+//Aptitudes aux bâtons au maximum
+patch=1,EE,10409C7E,extended,000003E7
+
+//Aptitudes à mains nues au maximum 
+patch=1,EE,10409C80,extended,000003E7
+
+//Séduction au maximum
+patch=1,EE,10409C82,extended,000003E7
+
+//----------------------------------------Codes pour Angelo: 
+
+//PV au maximum 
+patch=1,EE,20409CA8,extended,000003E7
+
+//Barre des PV toujours pleine 
+patch=1,EE,20409CAC,extended,000003E7
+
+//PM au maximum
+patch=1,EE,20409CB0,extended,000003E7
+
+//Barre des PM toujours pleine
+patch=1,EE,20409CB4,extended,000003E7
+
+//Passer rapidement aux niveaux supérieurs (peut être très encombrant si vous êtes à un faible niveau) 
+patch=1,EE,20409CC0,extended,05F5E0FF
+
+//Force au maximum 
+patch=1,EE,10409CD8,extended,000003E7
+
+//Agilité au maximum 
+patch=1,EE,10409CDA,extended,000003E7
+
+//Endurance et défense au maximum
+patch=1,EE,10409CDC,extended,000003E7
+
+//Sagesse au maximum
+patch=1,EE,10409CDE,extended,000003E7
+
+//Aptitudes d'épées au maximum 
+patch=1,EE,10409CE2,extended,000003E7
+
+//Aptitudes d'arcs au maximum
+patch=1,EE,10409CE4,extended,000003E7
+
+//Aptitudes au bâtons au maximum
+patch=1,EE,10409CE6,extended,000003E7
+
+//Aptitudes à mains nues au maximum
+patch=1,EE,10409CE8,extended,000003E7
+
+//Charisme au maximum 
+patch=1,EE,10409CEA,extended,000003E7
+
+//----------------------------------------Codes pour les objets du sac: 
+
+//--------------------Toujours avoir 1 artefact dans la: 
+
+//case 1 
+patch=1,EE,10409DD2,extended,00000001
+
+//case 2 
+patch=1,EE,10409DD6,extended,00000001
+
+//case 3 
+patch=1,EE,10409DDA,extended,00000001
+
+//case 4 
+patch=1,EE,10409DDE,extended,00000001
+
+//case 5 
+patch=1,EE,10409DE2,extended,00000001
+
+//case 6 
+patch=1,EE,10409DE6,extended,00000001
+
+//case 7 
+patch=1,EE,10409DEA,extended,00000001
+
+//case 8 
+patch=1,EE,10409DEE,extended,00000001
+
+//case 9 
+patch=1,EE,10409DF2,extended,00000001
+
+//case 10 
+patch=1,EE,10409DF6,extended,00000001
+
+//case 11 
+patch=1,EE,10409DFA,extended,00000001
+
+//case 12 
+patch=1,EE,10409DFE,extended,00000001
+
+//--------------------Toujours avoir 9 Artefacts dans la: 
+
+//case 1 
+patch=1,EE,10409DD2,extended,00000009
+
+//case 2 
+patch=1,EE,10409DD6,extended,00000009
+
+//case 3 
+patch=1,EE,10409DDA,extended,00000009
+
+//case 4 
+patch=1,EE,10409DDE,extended,00000009
+
+//case 5 
+patch=1,EE,10409DE2,extended,00000009
+
+//case 6 
+patch=1,EE,10409DE6,extended,00000009
+
+//case 7 
+patch=1,EE,10409DEA,extended,00000009
+
+//case 8 
+patch=1,EE,10409DEE,extended,00000009
+
+//case 9 
+patch=1,EE,10409DF2,extended,00000009
+
+//case 10 
+patch=1,EE,10409DF6,extended,00000009
+
+//case 11 
+patch=1,EE,10409DFA,extended,00000009
+
+//case 12 
+patch=1,EE,10409DFE,extended,00000009
+
+//--------------------Toujours avoir 999 artefacts dans la: 
+
+//case 1 
+patch=1,EE,10409DD2,extended,000003E7
+
+//case 2 
+patch=1,EE,10409DD6,extended,000003E7
+
+//case 3 
+patch=1,EE,10409DDA,extended,000003E7
+
+//case 4 
+patch=1,EE,10409DDE,extended,000003E7
+
+//case 5 
+patch=1,EE,10409DE2,extended,000003E7
+
+//case 6 
+patch=1,EE,10409DE6,extended,000003E7
+
+//case 7 
+patch=1,EE,10409DEA,extended,000003E7
+
+//case 8 
+patch=1,EE,10409DEE,extended,000003E7
+
+//case 9 
+patch=1,EE,10409DF2,extended,000003E7
+
+//case 10 
+patch=1,EE,10409DF6,extended,000003E7
+
+//case 11 
+patch=1,EE,10409DFA,extended,000003E7
+
+//case 12 
+patch=1,EE,10409DFE,extended,000003E7
+
+
+//-------------------------------Remplacer le premier artefact du sac par: (n'activer qu'un à la fois)
+
+//--Noms Originaux
+
+//Cypress Stick 
+patch=1,EE,10409DD0,extended,00000001
+
+//Soldier's Sword 
+patch=1,EE,10409DD0,extended,00000002
+
+//Copper Sword 
+patch=1,EE,10409DD0,extended,00000003
+
+//Steel Broadsword 
+patch=1,EE,10409DD0,extended,00000004
+
+//Platinium Sword 
+patch=1,EE,10409DD0,extended,00000005
+
+//Dream Blade 
+patch=1,EE,10409DD0,extended,00000006
+
+//Falcon Blade 
+patch=1,EE,10409DD0,extended,00000007
+
+//Uber Falcon Blade 
+patch=1,EE,10409DD0,extended,00000008
+
+//Zombiesbane 
+patch=1,EE,10409DD0,extended,00000009
+
+//Zombie Slayer 
+patch=1,EE,10409DD0,extended,0000000A
+
+//Dragonsbane 
+patch=1,EE,10409DD0,extended,0000000B
+
+//Dragon Slayer 
+patch=1,EE,10409DD0,extended,0000000C
+
+//Blizzard Blade 
+patch=1,EE,10409DD0,extended,0000000D
+
+//Miracle Sword 
+patch=1,EE,10409DD0,extended,0000000E
+
+//Uber Miracle Sword 
+patch=1,EE,10409DD0,extended,0000000F
+
+//Bastard Sword 
+patch=1,EE,10409DD0,extended,00000010
+
+//Liquid Metal Sword 
+patch=1,EE,10409DD0,extended,00000011
+
+//Double Edged Sword 
+patch=1,EE,10409DD0,extended,00000012
+
+//Uber Double Edge 
+patch=1,EE,10409DD0,extended,00000013
+
+//Rusty Old Sword 
+patch=1,EE,10409DD0,extended,00000014
+
+//Dragovian Sword 
+patch=1,EE,10409DD0,extended,00000015
+
+//Dragovian Kind Sword 
+patch=1,EE,10409DD0,extended,00000016
+
+//Rapier 
+patch=1,EE,10409DD0,extended,00000017
+
+//Templar's Sword 
+patch=1,EE,10409DD0,extended,00000018
+
+//Hell sabre 
+patch=1,EE,10409DD0,extended,00000019
+
+//Holy silve Rapier 
+patch=1,EE,10409DD0,extended,0000001A
+
+//Fallen Angel Rapier 
+patch=1,EE,10409DD0,extended,0000001B
+
+//Shamshir of Light 
+patch=1,EE,10409DD0,extended,0000001C
+
+//Mercury Rapier 
+patch=1,EE,10409DD0,extended,0000001D
+
+//Bronze Knife 
+patch=1,EE,10409DD0,extended,0000001E
+
+//Dagger 
+patch=1,EE,10409DD0,extended,0000001F
+
+//Poison Moth Knife 
+patch=1,EE,10409DD0,extended,00000020
+
+//Assassin's Dagger 
+patch=1,EE,10409DD0,extended,00000021
+
+//Icicle dirk 
+patch=1,EE,10409DD0,extended,00000022
+
+//Poison Needle 
+patch=1,EE,10409DD0,extended,00000023
+
+//Falcon Knife 
+patch=1,EE,10409DD0,extended,00000024
+
+//Imp Knife 
+patch=1,EE,10409DD0,extended,00000025
+
+//Sword breaker 
+patch=1,EE,10409DD0,extended,00000026
+
+//Eagle Dagger 
+patch=1,EE,10409DD0,extended,00000027
+
+//Iron Lance 
+patch=1,EE,10409DD0,extended,00000028
+
+//Holy Lance 
+patch=1,EE,10409DD0,extended,00000029
+
+//Long Spear 
+patch=1,EE,10409DD0,extended,0000002A
+
+//Partisan 
+patch=1,EE,10409DD0,extended,0000002B
+
+//Battle fork 
+patch=1,EE,10409DD0,extended,0000002C
+
+//Sandstorm Spear 
+patch=1,EE,10409DD0,extended,0000002D
+
+//Demon Spear 
+patch=1,EE,10409DD0,extended,0000002E
+
+//Hero Spear 
+patch=1,EE,10409DD0,extended,0000002F
+
+//Metal King Spear 
+patch=1,EE,10409DD0,extended,00000030
+
+//Boomerang 
+patch=1,EE,10409DD0,extended,00000031
+
+//Reinforced Boomerang 
+patch=1,EE,10409DD0,extended,00000032
+
+//Edged boomerang 
+patch=1,EE,10409DD0,extended,00000033
+
+//Metal wing Boomerang 
+patch=1,EE,10409DD0,extended,00000034
+
+//Razor Wing boomerang 
+patch=1,EE,10409DD0,extended,00000035
+
+//Swallotail 
+patch=1,EE,10409DD0,extended,00000036
+
+//Flametang boomerang 
+patch=1,EE,10409DD0,extended,00000037
+
+//Stone Axe 
+patch=1,EE,10409DD0,extended,00000038
+
+//Iron Axe 
+patch=1,EE,10409DD0,extended,00000039
+
+//King Axe 
+patch=1,EE,10409DD0,extended,0000003A
+
+//Moon Axe 
+patch=1,EE,10409DD0,extended,0000003B
+
+//Bandit Axe 
+patch=1,EE,10409DD0,extended,0000003C
+
+//Golden Axe 
+patch=1,EE,10409DD0,extended,0000003D
+
+//Battle AXe 
+patch=1,EE,10409DD0,extended,0000003E
+
+//Conqueror's Axe 
+patch=1,EE,10409DD0,extended,0000003F
+
+//Oaken Club 
+patch=1,EE,10409DD0,extended,00000040
+
+//Giant Mallet 
+patch=1,EE,10409DD0,extended,00000041
+
+//Sledgehammer 
+patch=1,EE,10409DD0,extended,00000042
+
+//War Hammer 
+patch=1,EE,10409DD0,extended,00000043
+
+//Uber War Hammer 
+patch=1,EE,10409DD0,extended,00000044
+
+//Megaton Hammer 
+patch=1,EE,10409DD0,extended,00000046
+
+//Flail of Furry 
+patch=1,EE,10409DD0,extended,00000047
+
+//Flail of Destruction 
+patch=1,EE,10409DD0,extended,00000048
+
+//Thorn Whip 
+patch=1,EE,10409DD0,extended,00000049
+
+//Leather Whip 
+patch=1,EE,10409DD0,extended,0000004A
+
+//Snakeskin Whip 
+patch=1,EE,10409DD0,extended,0000004B
+
+//Chain Whip 
+patch=1,EE,10409DD0,extended,0000004C
+
+//Dragontail Whip 
+patch=1,EE,10409DD0,extended,0000004D
+
+//Spiked Steel Whip 
+patch=1,EE,10409DD0,extended,0000004E
+
+//Demon Whip 
+patch=1,EE,10409DD0,extended,0000004F
+
+//Scourge Whip 
+patch=1,EE,10409DD0,extended,00000050
+
+//Gringham Whip 
+patch=1,EE,10409DD0,extended,00000051
+
+//Farmer's Scythe 
+patch=1,EE,10409DD0,extended,00000052
+
+//Heavy Hatchet 
+patch=1,EE,10409DD0,extended,00000054
+
+//Bardiche of binding 
+patch=1,EE,10409DD0,extended,00000055
+
+//hell Scythe 
+patch=1,EE,10409DD0,extended,00000056
+
+//Stell Scythe 
+patch=1,EE,10409DD0,extended,00000057
+
+//Wizard's Staff 
+patch=1,EE,10409DD0,extended,00000058
+
+//Lightning Staff 
+patch=1,EE,10409DD0,extended,00000059
+
+//Staff of Divine Wrath 
+patch=1,EE,10409DD0,extended,0000005A
+
+//Magma Staff 
+patch=1,EE,10409DD0,extended,0000005B
+
+//Staff of Antimagic 
+patch=1,EE,10409DD0,extended,0000005D
+
+//Rune Staff 
+patch=1,EE,10409DD0,extended,0000005E
+
+//Staff Of Resurection 
+patch=1,EE,10409DD0,extended,0000005F
+
+//Magical Mace 
+patch=1,EE,10409DD0,extended,00000060
+
+//Hunter's Bow 
+patch=1,EE,10409DD0,extended,00000062
+
+//Great Bow 
+patch=1,EE,10409DD0,extended,00000063
+
+//Short Bow 
+patch=1,EE,10409DD0,extended,00000064
+
+//Odin's bow 
+patch=1,EE,10409DD0,extended,00000065
+
+//Cheiron's Bow 
+patch=1,EE,10409DD0,extended,00000066
+
+//Eros' Bow 
+patch=1,EE,10409DD0,extended,00000067
+
+//Plain Clothes 
+patch=1,EE,10409DD0,extended,00000068
+
+//Bandit Grass Skirt 
+patch=1,EE,10409DD0,extended,00000069
+
+//Wayfarer's Clothes 
+patch=1,EE,10409DD0,extended,0000006A
+
+//Boxer Short 
+patch=1,EE,10409DD0,extended,0000006B
+
+//Dancer's Costume 
+patch=1,EE,10409DD0,extended,0000006C
+
+//Leather Kilt 
+patch=1,EE,10409DD0,extended,0000006D
+
+//Leather Dress 
+patch=1,EE,10409DD0,extended,0000006E
+
+//Templar's Uniform 
+patch=1,EE,10409DD0,extended,0000006F
+
+//Fur Poncho 
+patch=1,EE,10409DD0,extended,00000070
+
+//Cloak Of Evasion 
+patch=1,EE,10409DD0,extended,00000071
+
+//Bunny Suit 
+patch=1,EE,10409DD0,extended,00000072
+
+//Silk bustier 
+patch=1,EE,10409DD0,extended,00000073
+
+//Magic bikini 
+patch=1,EE,10409DD0,extended,00000074
+
+//Spangled Dress 
+patch=1,EE,10409DD0,extended,00000075
+
+//Posh waistcost 
+patch=1,EE,10409DD0,extended,00000076
+
+//Magical Skirt 
+patch=1,EE,10409DD0,extended,00000077
+
+//Shimmering Dress 
+patch=1,EE,10409DD0,extended,00000078
+
+//Dark Robe 
+patch=1,EE,10409DD0,extended,00000079
+
+//Dangerous Bustier 
+patch=1,EE,10409DD0,extended,0000007B
+
+//Divine Bustier 
+patch=1,EE,10409DD0,extended,0000007C
+
+//Jessica's Outfit 
+patch=1,EE,10409DD0,extended,0000007D
+
+//Leather Armour 
+patch=1,EE,10409DD0,extended,0000007E
+
+//Scale Armour 
+patch=1,EE,10409DD0,extended,0000007F
+
+//Chain Mail 
+patch=1,EE,10409DD0,extended,00000080
+
+//Bronze Armour 
+patch=1,EE,10409DD0,extended,00000081
+
+//Iron Cuirass 
+patch=1,EE,10409DD0,extended,00000082
+
+//Iron Armour 
+patch=1,EE,10409DD0,extended,00000083
+
+//Turtoise Shell 
+patch=1,EE,10409DD0,extended,00000084
+
+//Full Plate Armor 
+patch=1,EE,10409DD0,extended,00000085
+
+//Silver Cuirass 
+patch=1,EE,10409DD0,extended,00000086
+
+//Dancer's Mail 
+patch=1,EE,10409DD0,extended,00000087
+
+//Silver Mail 
+patch=1,EE,10409DD0,extended,00000088
+
+//Dragon Mail 
+patch=1,EE,10409DD0,extended,00000089
+
+//Magic Armour 
+patch=1,EE,10409DD0,extended,0000008A
+
+//Zombie Mail 
+patch=1,EE,10409DD0,extended,0000008B
+
+//Heavy Armour 
+patch=1,EE,10409DD0,extended,0000008C
+
+//Spiked Armour 
+patch=1,EE,10409DD0,extended,0000008D
+
+//Platinium Mail 
+patch=1,EE,10409DD0,extended,0000008E
+
+//Bandit Mail 
+patch=1,EE,10409DD0,extended,0000008F
+
+//Sacred Armour 
+patch=1,EE,10409DD0,extended,00000090
+
+//Gigant Armour 
+patch=1,EE,10409DD0,extended,00000092
+
+//Mirror Armour 
+patch=1,EE,10409DD0,extended,00000093
+
+//Liquid Metal Armour 
+patch=1,EE,10409DD0,extended,00000094
+
+//Dragovian Armour 
+patch=1,EE,10409DD0,extended,00000095
+
+//Metal Kibd Armor 
+patch=1,EE,10409DD0,extended,00000096
+
+//Silk Robe 
+patch=1,EE,10409DD0,extended,00000097
+
+//Leather Cape 
+patch=1,EE,10409DD0,extended,00000098
+
+//Robe of Serenity 
+patch=1,EE,10409DD0,extended,00000099
+
+//Magic Vestment 
+patch=1,EE,10409DD0,extended,0000009A
+
+//Flowing Dress 
+patch=1,EE,10409DD0,extended,0000009B
+
+//Sage's Robe 
+patch=1,EE,10409DD0,extended,0000009C
+
+//Angel's Robe 
+patch=1,EE,10409DD0,extended,0000009D
+
+//Velvet Cape 
+patch=1,EE,10409DD0,extended,0000009E
+
+//Crimson Robe 
+patch=1,EE,10409DD0,extended,0000009F
+
+//Princess' Robe 
+patch=1,EE,10409DD0,extended,000000A0
+
+//Dragon Robe 
+patch=1,EE,10409DD0,extended,000000A1
+
+//Pot Lid 
+patch=1,EE,10409DD0,extended,000000A2
+
+//Leather Shield 
+patch=1,EE,10409DD0,extended,000000A3
+
+//Scale Shield 
+patch=1,EE,10409DD0,extended,000000A4
+
+//Silver Platter 
+patch=1,EE,10409DD0,extended,000000A5
+
+//Kitty Shield 
+patch=1,EE,10409DD0,extended,000000A6
+
+//Bronze Shield 
+patch=1,EE,10409DD0,extended,000000A7
+
+//Templar's Shield 
+patch=1,EE,10409DD0,extended,000000A8
+
+//Iron Shield 
+patch=1,EE,10409DD0,extended,000000A9
+
+//Light Shield 
+patch=1,EE,10409DD0,extended,000000AA
+
+//White Shield 
+patch=1,EE,10409DD0,extended,000000AB
+
+//Steel Shield 
+patch=1,EE,10409DD0,extended,000000AC
+
+//Magic Shield 
+patch=1,EE,10409DD0,extended,000000AD
+
+//Dragon Shield 
+patch=1,EE,10409DD0,extended,000000AE
+
+//Power Shield 
+patch=1,EE,10409DD0,extended,000000B0
+
+//Saintess Shield 
+patch=1,EE,10409DD0,extended,000000B1
+
+//Bone Shield 
+patch=1,EE,10409DD0,extended,000000B2
+
+//Mirror shield 
+patch=1,EE,10409DD0,extended,000000B3
+
+//Ogre Shield 
+patch=1,EE,10409DD0,extended,000000B4
+
+//Silver Shield 
+patch=1,EE,10409DD0,extended,000000B5
+
+//Big boss Shield 
+patch=1,EE,10409DD0,extended,000000B6
+
+//Ruinous shield 
+patch=1,EE,10409DD0,extended,000000B7
+
+//Thanatos Shield 
+patch=1,EE,10409DD0,extended,000000B8
+
+//Goddess Shield 
+patch=1,EE,10409DD0,extended,000000B9
+
+//Dragovian Shield 
+patch=1,EE,10409DD0,extended,000000BA
+
+//Metal King Shield 
+patch=1,EE,10409DD0,extended,000000BB
+
+//Bandana 
+patch=1,EE,10409DD0,extended,000000BC
+
+//Leather Hat 
+patch=1,EE,10409DD0,extended,000000BD
+
+//Hairband 
+patch=1,EE,10409DD0,extended,000000BE
+
+//Pointy Hat 
+patch=1,EE,10409DD0,extended,000000BF
+
+//Feathered Cap 
+patch=1,EE,10409DD0,extended,000000C0
+
+//Turban 
+patch=1,EE,10409DD0,extended,000000C1
+
+//Silver Tiara 
+patch=1,EE,10409DD0,extended,000000C2
+
+//Bunny ears 
+patch=1,EE,10409DD0,extended,000000C3
+
+//Stone Hardhat 
+patch=1,EE,10409DD0,extended,000000C4
+
+//Iron Helmet 
+patch=1,EE,10409DD0,extended,000000C5
+
+//Fur Hood 
+patch=1,EE,10409DD0,extended,000000C6
+
+//Bronze Helmet 
+patch=1,EE,10409DD0,extended,000000C7
+
+//Coral Hairpin 
+patch=1,EE,10409DD0,extended,000000C8
+
+//Pirate Hat 
+patch=1,EE,10409DD0,extended,000000C9
+
+//Iron Mask 
+patch=1,EE,10409DD0,extended,000000CA
+
+//Hermes Hat 
+patch=1,EE,10409DD0,extended,000000CB
+
+//Platinium Headgear 
+patch=1,EE,10409DD0,extended,000000CC
+
+//Magical Hat 
+patch=1,EE,10409DD0,extended,000000CD
+
+//Happy Hat 
+patch=1,EE,10409DD0,extended,000000CE
+
+//Hades Helm 
+patch=1,EE,10409DD0,extended,000000CF
+
+//Slime Crown 
+patch=1,EE,10409DD0,extended,000000D0
+
+//Mythrill Helm 
+patch=1,EE,10409DD0,extended,000000D1
+
+//Mercury's Bandana 
+patch=1,EE,10409DD0,extended,000000D2
+
+//Scholar Cap 
+patch=1,EE,10409DD0,extended,000000D3
+
+//Thinking Cap 
+patch=1,EE,10409DD0,extended,000000D5
+
+//Iron Headgear 
+patch=1,EE,10409DD0,extended,000000D6
+
+//Ragin Bull Helm 
+patch=1,EE,10409DD0,extended,000000D7
+
+//Golden Tiara 
+patch=1,EE,10409DD0,extended,000000D8
+
+//Great Helm 
+patch=1,EE,10409DD0,extended,000000D9
+
+//Phantom Mask 
+patch=1,EE,10409DD0,extended,000000DA
+
+//Skull helm 
+patch=1,EE,10409DD0,extended,000000DB
+
+//Dragovian Helm 
+patch=1,EE,10409DD0,extended,000000DC
+
+//Sun Crown 
+patch=1,EE,10409DD0,extended,000000DD
+
+//Metal King Helm 
+patch=1,EE,10409DD0,extended,000000DE
+
+//Ability Ring 
+patch=1,EE,10409DD0,extended,000000E0
+
+//Meteorite Bracer 
+patch=1,EE,10409DD0,extended,000000E1
+
+//Strengh Ring 
+patch=1,EE,10409DD0,extended,000000E2
+
+//Gold Ring 
+patch=1,EE,10409DD0,extended,000000E3
+
+//Prayer Ring 
+patch=1,EE,10409DD0,extended,000000E4
+
+//Recovery Ring 
+patch=1,EE,10409DD0,extended,000000E5
+
+//Goddess ring 
+patch=1,EE,10409DD0,extended,000000E6
+
+//Gospel ring 
+patch=1,EE,10409DD0,extended,000000E7
+
+//Life Bracer 
+patch=1,EE,10409DD0,extended,000000E8
+
+//Mighty Armlet 
+patch=1,EE,10409DD0,extended,000000E9
+
+//Gold Bracer 
+patch=1,EE,10409DD0,extended,000000EA
+
+//Ruby of Protection 
+patch=1,EE,10409DD0,extended,000000ED
+
+//Titan blet 
+patch=1,EE,10409DD0,extended,000000EE
+
+//Scholar Specs 
+patch=1,EE,10409DD0,extended,000000EF
+
+//Tough Guy Tattoo 
+patch=1,EE,10409DD0,extended,000000F0
+
+//Slime Earrings 
+patch=1,EE,10409DD0,extended,000000F1
+
+//Devil's Tail 
+patch=1,EE,10409DD0,extended,000000F2
+
+//Fishnet Stockings 
+patch=1,EE,10409DD0,extended,000000F3
+
+//Garter 
+patch=1,EE,10409DD0,extended,000000F4
+
+//Lady's Ring 
+patch=1,EE,10409DD0,extended,000000F5
+
+//Gold Rosary 
+patch=1,EE,10409DD0,extended,000000F6
+
+//Sorcerer's Ring 
+patch=1,EE,10409DD0,extended,000000F8
+
+//Skull Ring 
+patch=1,EE,10409DD0,extended,000000F9
+
+//Holy Talisman 
+patch=1,EE,10409DD0,extended,000000FA
+
+//Ring of Awakening 
+patch=1,EE,10409DD0,extended,000000FB
+
+//Full moon Ring 
+patch=1,EE,10409DD0,extended,000000FC
+
+//Ring of Clarity 
+patch=1,EE,10409DD0,extended,000000FD
+
+//Ring of Truth 
+patch=1,EE,10409DD0,extended,000000FE
+
+//Ring of Immunity 
+patch=1,EE,10409DD0,extended,000000FF
+
+//catholicon Ring 
+patch=1,EE,10409DD0,extended,00000100
+
+//Dragon Scale 
+patch=1,EE,10409DD0,extended,00000103
+
+//Elevating Shoes 
+patch=1,EE,10409DD0,extended,00000104
+
+//Medicinal Herb 
+patch=1,EE,10409DD0,extended,00000105
+
+//Antidotal Herb 
+patch=1,EE,10409DD0,extended,00000106
+
+//Moonwort Bulb 
+patch=1,EE,10409DD0,extended,00000107
+
+//Strong Medecine 
+patch=1,EE,10409DD0,extended,00000108
+
+//Special Medecine 
+patch=1,EE,10409DD0,extended,00000109
+
+//Lesser Panacea 
+patch=1,EE,10409DD0,extended,0000010A
+
+//Greater Panacea 
+patch=1,EE,10409DD0,extended,0000010B
+
+//Rose-root 
+patch=1,EE,10409DD0,extended,0000010C
+
+//Rose-wort 
+patch=1,EE,10409DD0,extended,0000010D
+
+//Strong Antidote 
+patch=1,EE,10409DD0,extended,0000010E
+
+//Special Antidote 
+patch=1,EE,10409DD0,extended,0000010F
+
+//Moon's Mercy 
+patch=1,EE,10409DD0,extended,00000110
+
+//Mystifying Misture 
+patch=1,EE,10409DD0,extended,00000111
+
+//Yggdrasil Leaf 
+patch=1,EE,10409DD0,extended,00000112
+
+//Yggdrasil Dew 
+patch=1,EE,10409DD0,extended,00000113
+
+//Armor Secco Essence 
+patch=1,EE,10409DD0,extended,00000114
+
+//Chimaera Wing 
+patch=1,EE,10409DD0,extended,00000115
+
+//Holy Water 
+patch=1,EE,10409DD0,extended,00000116
+
+//Magic Water 
+patch=1,EE,10409DD0,extended,00000117
+
+//Elfin Elixir 
+patch=1,EE,10409DD0,extended,00000118
+
+//Rockbomb Shard 
+patch=1,EE,10409DD0,extended,00000119
+
+//Sage's Stone 
+patch=1,EE,10409DD0,extended,0000011A
+
+//Seed of Strengh 
+patch=1,EE,10409DD0,extended,0000011C
+
+//Seed of Agility 
+patch=1,EE,10409DD0,extended,0000011D
+
+//Seed of Defence 
+patch=1,EE,10409DD0,extended,0000011E
+
+//Seed of Wisdom 
+patch=1,EE,10409DD0,extended,0000011F
+
+//Seed of Skill 
+patch=1,EE,10409DD0,extended,00000120
+
+//Seed of Life 
+patch=1,EE,10409DD0,extended,00000121
+
+//Seed of Magic 
+patch=1,EE,10409DD0,extended,00000122
+
+//Mini Medal 
+patch=1,EE,10409DD0,extended,00000123
+
+//Thief's Key 
+patch=1,EE,10409DD0,extended,00000125
+
+//Magic Key 
+patch=1,EE,10409DD0,extended,00000126
+
+//Ultime Key 
+patch=1,EE,10409DD0,extended,00000127
+
+//Orichalcum 
+patch=1,EE,10409DD0,extended,00000128
+
+//Bunny Tail 
+patch=1,EE,10409DD0,extended,00000129
+
+//Timbrel of Tension 
+patch=1,EE,10409DD0,extended,0000012A
+
+//Baumren's Bell 
+patch=1,EE,10409DD0,extended,0000012D
+
+//Gold nugget 
+patch=1,EE,10409DD0,extended,0000012E
+
+//Iron Nail 
+patch=1,EE,10409DD0,extended,0000012F
+
+//Cowpat 
+patch=1,EE,10409DD0,extended,00000130
+
+//Dragon Dug 
+patch=1,EE,10409DD0,extended,00000131
+
+//Rock Salt 
+patch=1,EE,10409DD0,extended,00000132
+
+//Saint's Ashes 
+patch=1,EE,10409DD0,extended,00000134
+
+//Wing of Bat 
+patch=1,EE,10409DD0,extended,00000135
+
+//Magic Beast hide 
+patch=1,EE,10409DD0,extended,00000136
+
+//Fresh Milk 
+patch=1,EE,10409DD0,extended,00000137
+
+//Rennet Powder 
+patch=1,EE,10409DD0,extended,00000138
+
+//Red Mould 
+patch=1,EE,10409DD0,extended,00000139
+
+//Waterweed Mould 
+patch=1,EE,10409DD0,extended,0000013A
+
+//Premium Mould 
+patch=1,EE,10409DD0,extended,0000013B
+
+//Plain Cheese 
+patch=1,EE,10409DD0,extended,0000013C
+
+//Spicy Cheese 
+patch=1,EE,10409DD0,extended,0000013E
+
+//Super Spicy Cheese 
+patch=1,EE,10409DD0,extended,0000013F
+
+//Scorching Cheese 
+patch=1,EE,10409DD0,extended,00000140
+
+//Cool Cheese 
+patch=1,EE,10409DD0,extended,00000142
+
+//Chilly cheese 
+patch=1,EE,10409DD0,extended,00000143
+
+//Cold Cheese 
+patch=1,EE,10409DD0,extended,00000144
+
+//C-c-cold Cheese 
+patch=1,EE,10409DD0,extended,00000145
+
+//Mild Cheese 
+patch=1,EE,10409DD0,extended,0000014B
+
+//Cured Cheese 
+patch=1,EE,10409DD0,extended,0000014C
+
+//Angel Cheese 
+patch=1,EE,10409DD0,extended,0000014D
+
+//Hard Cheese 
+patch=1,EE,10409DD0,extended,0000014E
+
+//Soft Cheese 
+patch=1,EE,10409DD0,extended,0000014F
+
+//Chunky cheese 
+patch=1,EE,10409DD0,extended,00000150
+
+//Highly Strung Cheese 
+patch=1,EE,10409DD0,extended,00000151
+
+//Crytal Ball 
+patch=1,EE,10409DD0,extended,00000153
+
+//Tool Bag 
+patch=1,EE,10409DD0,extended,00000154
+
+//Jessica's Letter 
+patch=1,EE,10409DD0,extended,00000155
+
+//Templar's Ring 
+patch=1,EE,10409DD0,extended,00000156
+
+//World Map 
+patch=1,EE,10409DD0,extended,00000157
+
+//Venus Tear 
+patch=1,EE,10409DD0,extended,00000158
+
+//Moonshadow Harp 
+patch=1,EE,10409DD0,extended,00000159
+
+//Sand of Serenity 
+patch=1,EE,10409DD0,extended,0000015A
+
+//Lizard Humour 
+patch=1,EE,10409DD0,extended,0000015B
+
+//Argon Heart 
+patch=1,EE,10409DD0,extended,0000015D
+
+//Great Big Argon Heart 
+patch=1,EE,10409DD0,extended,0000015E
+
+//Magic Mirror 
+patch=1,EE,10409DD0,extended,0000015F
+
+//Sun Mirror 
+patch=1,EE,10409DD0,extended,00000160
+
+//Stone Sword 
+patch=1,EE,10409DD0,extended,00000161
+
+//Kran Spinels 
+patch=1,EE,10409DD0,extended,00000162
+
+//The Big Book of Barriers 
+patch=1,EE,10409DD0,extended,00000163
+
+//Marta's Bag 
+patch=1,EE,10409DD0,extended,00000164
+
+//Illuminated Sea Chart 
+patch=1,EE,10409DD0,extended,00000165
+
+//Nook Grass 
+patch=1,EE,10409DD0,extended,00000166
+
+//Godbird's Soulstone 
+patch=1,EE,10409DD0,extended,00000167
+
+//Darktree Leaf 
+patch=1,EE,10409DD0,extended,00000168
+
+//Templar Captain's Ring 
+patch=1,EE,10409DD0,extended,00000169
+
+//Argon Ring 
+patch=1,EE,10409DD0,extended,0000016B
+
+//Echo Flute 
+patch=1,EE,10409DD0,extended,0000016C
+
+//Eros' Bow Recipe 
+patch=1,EE,10409DD0,extended,0000016D
+
+//Imp Knife Recipe 
+patch=1,EE,10409DD0,extended,0000016E
+
+//Dragon Slayer Recipe 
+patch=1,EE,10409DD0,extended,0000016F
+
+//Thief's key recipe 
+patch=1,EE,10409DD0,extended,00000170
+
+//Morrie's Memo 1 
+patch=1,EE,10409DD0,extended,00000171
+
+//Morrie's Memo 2 
+patch=1,EE,10409DD0,extended,00000172
+
+//Morrie's Memo 3 
+patch=1,EE,10409DD0,extended,00000173
+
+//Monster Arena Key 
+patch=1,EE,10409DD0,extended,00000174
+
+//Godbird Sceptre 
+patch=1,EE,10409DD0,extended,00000175
+
+//Gold Card 
+patch=1,EE,10409DD0,extended,00000177
+
+//Silver Orb 
+patch=1,EE,10409DD0,extended,00000178
+
+//Red Orb 
+patch=1,EE,10409DD0,extended,00000179
+
+//Blue Orb 
+patch=1,EE,10409DD0,extended,0000017A
+
+//Green Orb 
+patch=1,EE,10409DD0,extended,0000017B
+
+//Yellow Orb 
+patch=1,EE,10409DD0,extended,0000017C
+
+//Purple Orb 
+patch=1,EE,10409DD0,extended,0000017D
+
+//Copper Monster Coin 
+patch=1,EE,10409DD0,extended,0000017E
+
+//Silver Monster Coin 
+patch=1,EE,10409DD0,extended,0000017F
+
+//Gold Monster Coin 
+patch=1,EE,10409DD0,extended,00000180
+
+//Flame Shield 
+patch=1,EE,10409DD0,extended,00000181
+
+//Ice Shield 
+patch=1,EE,10409DD0,extended,00000182
+
+//comment=par Paynssj4
+
+//Mastercode
+patch=1,EE,F038D4B0,extended,0000000E
+
+
+//PAL2NTSC
+patch=1,EE,201083C8,extended,24120002
+
+//Skip FMV
+patch=1,EE,201114F0,extended,24020001
+
+
+//argent infinie de la banque
+patch=1,EE,2040A594,extended,05F00000
+
+//4 Characters (Quest mode)
+patch=1,EE,00409B44,extended,0000000F
+
+
+//9999 expérience par bataille
+patch=1,EE,20369170,extended,2402270F
+patch=1,EE,20369174,extended,AFA23EC4
+
+//Pas de batailles plus aléatoires 
+patch=1,EE,203024EC,extended,C6410024
+patch=1,EE,203024D0,extended,E6410024
+
+//Tension rapide  Max
+patch=1,EE,20304BDC,extended,00000000
+
+//livre Monster complet (En lutte 9999 Times et gagné articles max d'eux) .. fixe
+patch=1,EE,4040A8A0,extended,01270008
+patch=1,EE,0000270F,extended,00000000
+patch=1,EE,4040A8A8,extended,01270008
+patch=1,EE,00630063,extended,00000000
+
+
+//Débloquer tous les Alchemy Recettes (Fonctionne dès le début du jeu)
+patch=1,EE,4040EB80,extended,00320001
+patch=1,EE,FFFFFFFF,extended,00000000
+
+
+//Mastercode
+patch=1,EE,F038D4B0,extended,0000000E
+
+
+//PAL  à 60hz
+patch=1,EE,201083C8,extended,24120002
+
+
+//== emplace 1, d'objets dans le sac x9 (1 code à la fois!) ==
+
+
+//Cypress Stick
+patch=1,EE,20409DD0,extended,00090001
+
+
+//Soldier's Sword
+patch=1,EE,20409DD0,extended,00090002
+
+
+//Copper Sword
+patch=1,EE,20409DD0,extended,00090003
+
+
+//Steel Broadsword
+patch=1,EE,20409DD0,extended,00090004
+
+
+//Platinium Sword
+patch=1,EE,20409DD0,extended,00090005
+
+
+//Dream Blade
+patch=1,EE,20409DD0,extended,00090006
+
+
+//Falcon Blade
+patch=1,EE,20409DD0,extended,00090007
+
+
+//Uber Falcon Blade
+patch=1,EE,20409DD0,extended,00090008
+
+
+//Zombiesbane
+patch=1,EE,20409DD0,extended,00090009
+
+
+//Zombie Slayer
+patch=1,EE,20409DD0,extended,0009000A
+
+
+//Dragonsbane
+patch=1,EE,20409DD0,extended,0009000B
+
+
+//Dragon Slayer
+patch=1,EE,20409DD0,extended,0009000C
+
+
+//Blizzard Blade
+patch=1,EE,20409DD0,extended,0009000D
+
+
+//Miracle Sword
+patch=1,EE,20409DD0,extended,0009000E
+
+
+//Uber Miracle Sword
+patch=1,EE,20409DD0,extended,0009000F
+
+
+//Bastard Sword
+patch=1,EE,20409DD0,extended,00090010
+
+
+//Liquid Metal Sword
+patch=1,EE,20409DD0,extended,00090011
+
+
+//Double Edged Sword
+patch=1,EE,20409DD0,extended,00090012
+
+
+//Uber Double Edge
+patch=1,EE,20409DD0,extended,00090013
+
+
+//Rusty Old Sword
+patch=1,EE,20409DD0,extended,00090014
+
+
+//Dragovian Sword
+patch=1,EE,20409DD0,extended,00090015
+
+
+//Dragovian Kind Sword
+patch=1,EE,20409DD0,extended,00090016
+
+
+//Rapier
+patch=1,EE,20409DD0,extended,00090017
+
+
+//Templar's Sword
+patch=1,EE,20409DD0,extended,00090018
+
+
+//Hell sabre
+patch=1,EE,20409DD0,extended,00090019
+
+
+//Holy silve Rapier
+patch=1,EE,20409DD0,extended,0009001A
+
+
+//Fallen Angel Rapier
+patch=1,EE,20409DD0,extended,0009001B
+
+
+//Shamshir of Light
+patch=1,EE,20409DD0,extended,0009001C
+
+
+//Mercury Rapier
+patch=1,EE,20409DD0,extended,0009001D
+
+
+//Bronze Knife
+patch=1,EE,20409DD0,extended,0009001E
+
+
+//Dagger
+patch=1,EE,20409DD0,extended,0009001F
+
+
+//Poison Moth Knife
+patch=1,EE,20409DD0,extended,00090020
+
+
+//Assassin's Dagger
+patch=1,EE,20409DD0,extended,00090021
+
+
+//Icicle dirk
+patch=1,EE,20409DD0,extended,00090022
+
+
+//Poison Needle
+patch=1,EE,20409DD0,extended,00090023
+
+
+//Falcon Knife
+patch=1,EE,20409DD0,extended,00090024
+
+
+//Imp Knife
+patch=1,EE,20409DD0,extended,00090025
+
+
+//Sword breaker
+patch=1,EE,20409DD0,extended,00090026
+
+
+//Eagle Dagger
+patch=1,EE,20409DD0,extended,00090027
+
+
+//Iron Lance
+patch=1,EE,20409DD0,extended,00090028
+
+
+//Holy Lance
+patch=1,EE,20409DD0,extended,00090029
+
+
+//Long Spear
+patch=1,EE,20409DD0,extended,0009002A
+
+
+//Partisan
+patch=1,EE,20409DD0,extended,0009002B
+
+
+//Battle fork
+patch=1,EE,20409DD0,extended,0009002C
+
+
+//Sandstorm Spear
+patch=1,EE,20409DD0,extended,0009002D
+
+
+//Demon Spear
+patch=1,EE,20409DD0,extended,0009002E
+
+
+//Hero Spear
+patch=1,EE,20409DD0,extended,0009002F
+
+
+//Metal King Spear
+patch=1,EE,20409DD0,extended,00090030
+
+
+//Boomerang
+patch=1,EE,20409DD0,extended,00090031
+
+
+//Reinforced Boomerang
+patch=1,EE,20409DD0,extended,00090032
+
+
+//Edged boomerang
+patch=1,EE,20409DD0,extended,00090033
+
+
+//Metal wing Boomerang
+patch=1,EE,20409DD0,extended,00090034
+
+
+//Razor Wing boomerang
+patch=1,EE,20409DD0,extended,00090035
+
+
+//Swallotail
+patch=1,EE,20409DD0,extended,00090036
+
+
+//Flametang boomerang
+patch=1,EE,20409DD0,extended,00090037
+
+
+//Stone Axe
+patch=1,EE,20409DD0,extended,00090038
+
+
+//Iron Axe
+patch=1,EE,20409DD0,extended,00090039
+
+
+//King Axe
+patch=1,EE,20409DD0,extended,0009003A
+
+
+
+//Moon Axe
+patch=1,EE,20409DD0,extended,0009003B
+
+
+//Bandit Axe
+patch=1,EE,20409DD0,extended,0009003C
+
+
+//Golden Axe
+patch=1,EE,20409DD0,extended,0009003D
+
+
+//Battle AXe
+patch=1,EE,20409DD0,extended,0009003E
+
+
+//Conqueror's Axe
+patch=1,EE,20409DD0,extended,0009003F
+
+
+//Oaken Club
+patch=1,EE,20409DD0,extended,00090040
+
+
+//Giant Mallet
+patch=1,EE,20409DD0,extended,00090041
+
+
+//Sledgehammer
+patch=1,EE,20409DD0,extended,00090042
+
+
+//War Hammer
+patch=1,EE,20409DD0,extended,00090043
+
+
+//Uber War Hammer
+patch=1,EE,20409DD0,extended,00090044
+
+
+//Megaton Hammer
+patch=1,EE,20409DD0,extended,00090046
+
+
+//Flail of Furry
+patch=1,EE,20409DD0,extended,00090047
+
+
+//Flail of Destruction
+patch=1,EE,20409DD0,extended,00090048
+
+
+//Thorn Whip
+patch=1,EE,20409DD0,extended,00090049
+
+
+//Leather Whip
+patch=1,EE,20409DD0,extended,0009004A
+
+
+//Snakeskin Whip
+patch=1,EE,20409DD0,extended,0009004B
+
+
+//Chain Whip
+patch=1,EE,20409DD0,extended,0009004C
+
+
+//Dragontail Whip
+patch=1,EE,20409DD0,extended,0009004D
+
+
+//Spiked Steel Whip
+patch=1,EE,20409DD0,extended,0009004E
+
+
+//Demon Whip
+patch=1,EE,20409DD0,extended,0009004F
+
+
+//Scourge Whip
+patch=1,EE,20409DD0,extended,00090050
+
+
+//Gringham Whip
+patch=1,EE,20409DD0,extended,00090051
+
+
+//Farmer's Scythe
+patch=1,EE,20409DD0,extended,00090052
+
+
+//Heavy Hatchet
+patch=1,EE,20409DD0,extended,00090054
+
+
+//Bardiche of binding
+patch=1,EE,20409DD0,extended,00090055
+
+
+//hell Scythe
+patch=1,EE,20409DD0,extended,00090056
+
+
+//Stell Scythe
+patch=1,EE,20409DD0,extended,00090057
+
+
+//Wizard's Staff
+patch=1,EE,20409DD0,extended,00090058
+
+
+//Lightning Staff
+patch=1,EE,20409DD0,extended,00090059
+
+
+//Staff of Divine Wrath
+patch=1,EE,20409DD0,extended,0009005A
+
+
+//Magma Staff
+patch=1,EE,20409DD0,extended,0009005B
+
+
+//Staff of Antimagic
+patch=1,EE,20409DD0,extended,0009005D
+
+
+//Rune Staff
+patch=1,EE,20409DD0,extended,0009005E
+
+
+//Staff Of Resurection
+patch=1,EE,20409DD0,extended,0009005F
+
+
+//Magical Mace
+patch=1,EE,20409DD0,extended,00090060
+
+
+//Hunter's Bow
+patch=1,EE,20409DD0,extended,00090062
+
+
+//Great Bow
+patch=1,EE,20409DD0,extended,00090063
+
+
+//Short Bow
+patch=1,EE,20409DD0,extended,00090064
+
+
+//Odin's bow
+patch=1,EE,20409DD0,extended,00090065
+
+
+//Cheiron's Bow
+patch=1,EE,20409DD0,extended,00090066
+
+
+//Eros' Bow
+patch=1,EE,20409DD0,extended,00090067
+
+
+//Plain Clothes
+patch=1,EE,20409DD0,extended,00090068
+
+
+//Bandit Grass Skirt
+patch=1,EE,20409DD0,extended,00090069
+
+
+//Wayfarer's Clothes
+patch=1,EE,20409DD0,extended,0009006A
+
+
+//Boxer Short
+patch=1,EE,20409DD0,extended,0009006B
+
+
+//Dancer's Costume
+patch=1,EE,20409DD0,extended,0009006C
+
+
+//Leather Kilt
+patch=1,EE,20409DD0,extended,0009006D
+
+
+//Leather Dress
+patch=1,EE,20409DD0,extended,0009006E
+
+
+//Templar's Uniform
+patch=1,EE,20409DD0,extended,0009006F
+
+
+//Fur Poncho
+patch=1,EE,20409DD0,extended,00090070
+
+
+//Cloak Of Evasion
+patch=1,EE,20409DD0,extended,00090071
+
+
+//Bunny Suit
+patch=1,EE,20409DD0,extended,00090072
+
+
+//Silk bustier
+patch=1,EE,20409DD0,extended,00090073
+
+
+//Magic bikini
+patch=1,EE,20409DD0,extended,00090074
+
+
+//Spangled Dress
+patch=1,EE,20409DD0,extended,00090075
+
+
+//Posh waistcost
+patch=1,EE,20409DD0,extended,00090076
+
+
+//Magical Skirt
+patch=1,EE,20409DD0,extended,00090077
+
+
+//Shimmering Dress
+patch=1,EE,20409DD0,extended,00090078
+
+
+//Dark Robe
+patch=1,EE,20409DD0,extended,00090079
+
+
+//Dangerous Bustier
+patch=1,EE,20409DD0,extended,0009007B
+
+
+//Divine Bustier
+patch=1,EE,20409DD0,extended,0009007C
+
+
+//Jessica's Outfit
+patch=1,EE,20409DD0,extended,0009007D
+
+
+//Leather Armour
+patch=1,EE,20409DD0,extended,0009007E
+
+
+//Scale Armour
+patch=1,EE,20409DD0,extended,0009007F
+
+
+//Chain Mail
+patch=1,EE,20409DD0,extended,00090080
+
+
+//Bronze Armour
+patch=1,EE,20409DD0,extended,00090081
+
+
+//Iron Cuirass
+patch=1,EE,20409DD0,extended,00090082
+
+
+//Iron Armour
+patch=1,EE,20409DD0,extended,00090083
+
+
+//Turtoise Shell
+patch=1,EE,20409DD0,extended,00090084
+
+
+//Full Plate Armor
+patch=1,EE,20409DD0,extended,00090085
+
+
+//Silver Cuirass
+patch=1,EE,20409DD0,extended,00090086
+
+
+//Dancer's Mail
+patch=1,EE,20409DD0,extended,00090087
+
+
+//Silver Mail
+patch=1,EE,20409DD0,extended,00090088
+
+
+//Dragon Mail
+patch=1,EE,20409DD0,extended,00090089
+
+
+//Magic Armour
+patch=1,EE,20409DD0,extended,0009008A
+
+
+//Zombie Mail
+patch=1,EE,20409DD0,extended,0009008B
+
+
+//Heavy Armour
+patch=1,EE,20409DD0,extended,0009008C
+
+
+//Spiked Armour
+patch=1,EE,20409DD0,extended,0009008D
+
+
+//Platinium Mail
+patch=1,EE,20409DD0,extended,0009008E
+
+
+//Bandit Mail
+patch=1,EE,20409DD0,extended,0009008F
+
+
+//Sacred Armour
+patch=1,EE,20409DD0,extended,00090090
+
+
+//Gigant Armour
+patch=1,EE,20409DD0,extended,00090092
+
+
+//Mirror Armour
+patch=1,EE,20409DD0,extended,00090093
+
+
+//Liquid Metal Armour
+patch=1,EE,20409DD0,extended,00090094
+
+
+//Dragovian Armour
+patch=1,EE,20409DD0,extended,00090095
+
+
+//Metal Kibd Armor
+patch=1,EE,20409DD0,extended,00090096
+
+
+//Silk Robe
+patch=1,EE,20409DD0,extended,00090097
+
+
+//Leather Cape
+patch=1,EE,20409DD0,extended,00090098
+
+
+//Robe of Serenity
+patch=1,EE,20409DD0,extended,00090099
+
+
+//Magic Vestment
+patch=1,EE,20409DD0,extended,0009009A
+
+
+//Flowing Dress
+patch=1,EE,20409DD0,extended,0009009B
+
+
+//Sage's Robe
+patch=1,EE,20409DD0,extended,0009009C
+
+
+//Angel's Robe
+patch=1,EE,20409DD0,extended,0009009D
+
+
+//Velvet Cape
+patch=1,EE,20409DD0,extended,0009009E
+
+
+//Crimson Robe
+patch=1,EE,20409DD0,extended,0009009F
+
+
+//Princess' Robe
+patch=1,EE,20409DD0,extended,000900A0
+
+
+//Dragon Robe
+patch=1,EE,20409DD0,extended,000900A1
+
+
+//Pot Lid
+patch=1,EE,20409DD0,extended,000900A2
+
+
+//Leather Shield
+patch=1,EE,20409DD0,extended,000900A3
+
+
+//Scale Shield
+patch=1,EE,20409DD0,extended,000900A4
+
+
+//Silver Platter
+patch=1,EE,20409DD0,extended,000900A5
+
+
+//Kitty Shield
+patch=1,EE,20409DD0,extended,000900A6
+
+
+//Bronze Shield
+patch=1,EE,20409DD0,extended,000900A7
+
+
+//Templar's Shield
+patch=1,EE,20409DD0,extended,000900A8
+
+
+//Iron Shield
+patch=1,EE,20409DD0,extended,000900A9
+
+
+//Light Shield
+patch=1,EE,20409DD0,extended,000900AA
+
+
+//White Shield
+patch=1,EE,20409DD0,extended,000900AB
+
+
+//Steel Shield
+patch=1,EE,20409DD0,extended,000900AC
+
+
+//Magic Shield
+patch=1,EE,20409DD0,extended,000900AD
+
+
+//Dragon Shield
+patch=1,EE,20409DD0,extended,000900AE
+
+
+//Power Shield
+patch=1,EE,20409DD0,extended,000900B0
+
+
+//Saintess Shield
+patch=1,EE,20409DD0,extended,000900B1
+
+
+//Bone Shield
+patch=1,EE,20409DD0,extended,000900B2
+
+
+//Mirror shield
+patch=1,EE,20409DD0,extended,000900B3
+
+
+//Ogre Shield
+patch=1,EE,20409DD0,extended,000900B4
+
+
+//Silver Shield
+patch=1,EE,20409DD0,extended,000900B5
+
+
+//Big boss Shield
+patch=1,EE,20409DD0,extended,000900B6
+
+
+//Ruinous shield
+patch=1,EE,20409DD0,extended,000900B7
+
+
+//Thanatos Shield
+patch=1,EE,20409DD0,extended,000900B8
+
+
+//Goddess Shield
+patch=1,EE,20409DD0,extended,000900B9
+
+
+//Dragovian Shield
+patch=1,EE,20409DD0,extended,000900BA
+
+
+//Metal King Shield
+patch=1,EE,20409DD0,extended,000900BB
+
+
+//Bandana
+patch=1,EE,20409DD0,extended,000900BC
+
+
+//Leather Hat
+patch=1,EE,20409DD0,extended,000900BD
+
+
+//Hairband
+patch=1,EE,20409DD0,extended,000900BE
+
+
+//Pointy Hat
+patch=1,EE,20409DD0,extended,000900BF
+
+
+//Feathered Cap
+patch=1,EE,20409DD0,extended,000900C0
+
+
+//Turban
+patch=1,EE,20409DD0,extended,000900C1
+
+
+//Silver Tiara
+patch=1,EE,20409DD0,extended,000900C2
+
+
+//Bunny ears
+patch=1,EE,20409DD0,extended,000900C3
+
+
+//Stone Hardhat
+patch=1,EE,20409DD0,extended,000900C4
+
+
+//Iron Helmet
+patch=1,EE,20409DD0,extended,000900C5
+
+
+//Fur Hood
+patch=1,EE,20409DD0,extended,000900C6
+
+
+//Bronze Helmet
+patch=1,EE,20409DD0,extended,000900C7
+
+
+//Coral Hairpin
+patch=1,EE,20409DD0,extended,000900C8
+
+
+//Pirate Hat
+patch=1,EE,20409DD0,extended,000900C9
+
+
+//Iron Mask
+patch=1,EE,20409DD0,extended,000900CA
+
+
+//Hermes Hat
+patch=1,EE,20409DD0,extended,000900CB
+
+
+//Platinium Headgear
+patch=1,EE,20409DD0,extended,000900CC
+
+
+//Magical Hat
+patch=1,EE,20409DD0,extended,000900CD
+
+
+//Happy Hat
+patch=1,EE,20409DD0,extended,000900CE
+
+
+//Hades Helm
+patch=1,EE,20409DD0,extended,000900CF
+
+
+//Slime Crown
+patch=1,EE,20409DD0,extended,000900D0
+
+
+//Mythrill Helm
+patch=1,EE,20409DD0,extended,000900D1
+
+
+//Mercury's Bandana
+patch=1,EE,20409DD0,extended,000900D2
+
+
+//Scholar Cap
+patch=1,EE,20409DD0,extended,000900D3
+
+
+//Thinking Cap
+patch=1,EE,20409DD0,extended,000900D5
+
+
+//Iron Headgear
+patch=1,EE,20409DD0,extended,000900D6
+
+
+//Ragin Bull Helm
+patch=1,EE,20409DD0,extended,000900D7
+
+
+//Golden Tiara
+patch=1,EE,20409DD0,extended,000900D8
+
+
+//Great Helm
+patch=1,EE,20409DD0,extended,000900D9
+
+
+//Phantom Mask
+patch=1,EE,20409DD0,extended,000900DA
+
+
+//Skull helm
+patch=1,EE,20409DD0,extended,000900DB
+
+
+//Dragovian Helm
+patch=1,EE,20409DD0,extended,000900DC
+
+
+//Sun Crown
+patch=1,EE,20409DD0,extended,000900DD
+
+
+//Metal King Helm
+patch=1,EE,20409DD0,extended,000900DE
+
+
+//Ability Ring
+patch=1,EE,20409DD0,extended,000900E0
+
+
+//Meteorite Bracer
+patch=1,EE,20409DD0,extended,000900E1
+
+
+//Strengh Ring
+patch=1,EE,20409DD0,extended,000900E2
+
+
+//Gold Ring
+patch=1,EE,20409DD0,extended,000900E3
+
+
+//Prayer Ring
+patch=1,EE,20409DD0,extended,000900E4
+
+
+//Recovery Ring
+patch=1,EE,20409DD0,extended,000900E5
+
+
+//Goddess ring
+patch=1,EE,20409DD0,extended,000900E6
+
+
+//Gospel ring
+patch=1,EE,20409DD0,extended,000900E7
+
+
+//Life Bracer
+patch=1,EE,20409DD0,extended,000900E8
+
+
+//Mighty Armlet
+patch=1,EE,20409DD0,extended,000900E9
+
+
+//Gold Bracer
+patch=1,EE,20409DD0,extended,000900EA
+
+
+//Ruby of Protection
+patch=1,EE,20409DD0,extended,000900ED
+
+
+//Titan blet
+patch=1,EE,20409DD0,extended,000900EE
+
+
+//Scholar Specs
+patch=1,EE,20409DD0,extended,000900EF
+
+
+//Tough Guy Tattoo
+patch=1,EE,20409DD0,extended,000900F0
+
+
+//Slime Earrings
+patch=1,EE,20409DD0,extended,000900F1
+
+
+//Devil's Tail
+patch=1,EE,20409DD0,extended,000900F2
+
+
+//Fishnet Stockings
+patch=1,EE,20409DD0,extended,000900F3
+
+
+//Garter
+patch=1,EE,20409DD0,extended,000900F4
+
+
+//Lady's Ring
+patch=1,EE,20409DD0,extended,000900F5
+
+
+//Gold Rosary
+patch=1,EE,20409DD0,extended,000900F6
+
+
+//Sorcerer's Ring
+patch=1,EE,20409DD0,extended,000900F8
+
+
+//Skull Ring
+patch=1,EE,20409DD0,extended,000900F9
+
+
+//Holy Talisman
+patch=1,EE,20409DD0,extended,000900FA
+
+
+//Ring of Awakening
+patch=1,EE,20409DD0,extended,000900FB
+
+
+//Full moon Ring
+patch=1,EE,20409DD0,extended,000900FC
+
+
+//Ring of Clarity
+patch=1,EE,20409DD0,extended,000900FD
+
+
+//Ring of Truth
+patch=1,EE,20409DD0,extended,000900FE
+
+
+//Ring of Immunity
+patch=1,EE,20409DD0,extended,000900FF
+
+
+//catholicon Ring
+patch=1,EE,20409DD0,extended,00090100
+
+
+//Dragon Scale
+patch=1,EE,20409DD0,extended,00090103
+
+
+//Elevating Shoes
+patch=1,EE,20409DD0,extended,00090104
+
+
+//Medicinal Herb
+patch=1,EE,20409DD0,extended,00090105
+
+
+//Antidotal Herb
+patch=1,EE,20409DD0,extended,00090106
+
+
+//Moonwort Bulb
+patch=1,EE,20409DD0,extended,00090107
+
+
+//Strong Medecine
+patch=1,EE,20409DD0,extended,00090108
+
+
+//Special Medecine
+patch=1,EE,20409DD0,extended,00090109
+
+
+//Lesser Panacea
+patch=1,EE,20409DD0,extended,0009010A
+
+
+//Greater Panacea
+patch=1,EE,20409DD0,extended,0009010B
+
+
+//Rose-root
+patch=1,EE,20409DD0,extended,0009010C
+
+
+//Rose-wort
+patch=1,EE,20409DD0,extended,0009010D
+
+
+//Strong Antidote
+patch=1,EE,20409DD0,extended,0009010E
+
+
+//Special Antidote
+patch=1,EE,20409DD0,extended,0009010F
+
+
+//Moon's Mercy
+patch=1,EE,20409DD0,extended,00090110
+
+
+//Mystifying Misture
+patch=1,EE,20409DD0,extended,00090111
+
+
+//Yggdrasil Leaf
+patch=1,EE,20409DD0,extended,00090112
+
+
+//Yggdrasil Dew
+patch=1,EE,20409DD0,extended,00090113
+
+
+//Armor Secco Essence
+patch=1,EE,20409DD0,extended,00090114
+
+
+//Chimaera Wing
+patch=1,EE,20409DD0,extended,00090115
+
+
+//Holy Water
+patch=1,EE,20409DD0,extended,00090116
+
+
+//Magic Water
+patch=1,EE,20409DD0,extended,00090117
+
+
+//Elfin Elixir
+patch=1,EE,20409DD0,extended,00090118
+
+
+//Rockbomb Shard
+patch=1,EE,20409DD0,extended,00090119
+
+
+//Sage's Stone
+patch=1,EE,20409DD0,extended,0009011A
+
+
+//Seed of Strengh
+patch=1,EE,20409DD0,extended,0009011C
+
+
+//Seed of Agility
+patch=1,EE,20409DD0,extended,0009011D
+
+
+//Seed of Defence
+patch=1,EE,20409DD0,extended,0009011E
+
+
+//Seed of Wisdom
+patch=1,EE,20409DD0,extended,0009011F
+
+
+//Seed of Skill
+patch=1,EE,20409DD0,extended,00090120
+
+
+//Seed of Life
+patch=1,EE,20409DD0,extended,00090121
+
+
+//Seed of Magic
+patch=1,EE,20409DD0,extended,00090122
+
+
+//Mini Medal
+patch=1,EE,20409DD0,extended,00090123
+
+
+//Thief's Key
+patch=1,EE,20409DD0,extended,00090125
+
+
+//Magic Key
+patch=1,EE,20409DD0,extended,00090126
+
+
+//Ultime Key
+patch=1,EE,20409DD0,extended,00090127
+
+
+//Orichalcum
+patch=1,EE,20409DD0,extended,00090128
+
+
+//Bunny Tail
+patch=1,EE,20409DD0,extended,00090129
+
+
+//Timbrel of Tension
+patch=1,EE,20409DD0,extended,0009012A
+
+
+//Baumren's Bell
+patch=1,EE,20409DD0,extended,0009012D
+
+
+//Gold nugget
+patch=1,EE,20409DD0,extended,0009012E
+
+
+//Iron Nail
+patch=1,EE,20409DD0,extended,0009012F
+
+
+//Cowpat
+patch=1,EE,20409DD0,extended,00090130
+
+
+//Dragon Dug
+patch=1,EE,20409DD0,extended,00090131
+
+
+//Rock Salt
+patch=1,EE,20409DD0,extended,00090132
+
+
+//Saint's Ashes
+patch=1,EE,20409DD0,extended,00090134
+
+
+//Wing of Bat
+patch=1,EE,20409DD0,extended,00090135
+
+
+//Magic Beast hide
+patch=1,EE,20409DD0,extended,00090136
+
+
+//Fresh Milk
+patch=1,EE,20409DD0,extended,00090137
+
+
+//Rennet Powder
+patch=1,EE,20409DD0,extended,00090138
+
+
+//Red Mould
+patch=1,EE,20409DD0,extended,00090139
+
+
+//Waterweed Mould
+patch=1,EE,20409DD0,extended,0009013A
+
+
+//Premium Mould
+patch=1,EE,20409DD0,extended,0009013B
+
+
+//Plain Cheese
+patch=1,EE,20409DD0,extended,0009013C
+
+
+//Spicy Cheese
+patch=1,EE,20409DD0,extended,0009013E
+
+
+//Super Spicy Cheese
+patch=1,EE,20409DD0,extended,0009013F
+
+
+//Scorching Cheese
+patch=1,EE,20409DD0,extended,00090140
+
+
+//Cool Cheese
+patch=1,EE,20409DD0,extended,00090142
+
+
+//Chilly cheese
+patch=1,EE,20409DD0,extended,00090143
+
+
+//Cold Cheese
+patch=1,EE,20409DD0,extended,00090144
+
+
+//C-c-cold Cheese
+patch=1,EE,20409DD0,extended,00090145
+
+
+//Mild Cheese
+patch=1,EE,20409DD0,extended,0009014B
+
+
+//Cured Cheese
+patch=1,EE,20409DD0,extended,0009014C
+
+
+//Angel Cheese
+patch=1,EE,20409DD0,extended,0009014D
+
+
+//Hard Cheese
+patch=1,EE,20409DD0,extended,0009014E
+
+
+//Soft Cheese
+patch=1,EE,20409DD0,extended,0009014F
+
+
+//Chunky cheese
+patch=1,EE,20409DD0,extended,00090150
+
+
+//Highly Strung Cheese
+patch=1,EE,20409DD0,extended,00090151
+
+
+//Crytal Ball
+patch=1,EE,20409DD0,extended,00090153
+
+
+//Tool Bag
+patch=1,EE,20409DD0,extended,00090154
+
+
+//Jessica's Letter
+patch=1,EE,20409DD0,extended,00090155
+
+
+//Templar's Ring
+patch=1,EE,20409DD0,extended,00090156
+
+
+//World Map
+patch=1,EE,20409DD0,extended,00090157
+
+
+//Venus Tear
+patch=1,EE,20409DD0,extended,00090158
+
+
+//Moonshadow Harp
+patch=1,EE,20409DD0,extended,00090159
+
+
+//Sand of Serenity
+patch=1,EE,20409DD0,extended,0009015A
+
+
+//Lizard Humour
+patch=1,EE,20409DD0,extended,0009015B
+
+
+//Argon Heart
+patch=1,EE,20409DD0,extended,0009015D
+
+
+//Great Big Argon Heart
+patch=1,EE,20409DD0,extended,0009015E
+
+
+//Magic Mirror
+patch=1,EE,20409DD0,extended,0009015F
+
+
+//Sun Mirror
+patch=1,EE,20409DD0,extended,00090160
+
+
+//Stone Sword
+patch=1,EE,20409DD0,extended,00090161
+
+
+//Kran Spinels
+patch=1,EE,20409DD0,extended,00090162
+
+
+//The Big Book of Barriers
+patch=1,EE,20409DD0,extended,00090163
+
+
+//Marta's Bag
+patch=1,EE,20409DD0,extended,00090164
+
+
+//Illuminated Sea Chart
+patch=1,EE,20409DD0,extended,00090165
+
+
+//Nook Grass
+patch=1,EE,20409DD0,extended,00090166
+
+
+//Godbird's Soulstone
+patch=1,EE,20409DD0,extended,00090167
+
+
+//Darktree Leaf
+patch=1,EE,20409DD0,extended,00090168
+
+
+//Templar Captain's Ring
+patch=1,EE,20409DD0,extended,00090169
+
+
+//Argon Ring
+patch=1,EE,20409DD0,extended,0009016B
+
+
+//Echo Flute
+patch=1,EE,20409DD0,extended,0009016C
+
+
+//Eros' Bow Recipe
+patch=1,EE,20409DD0,extended,0009016D
+
+
+//Imp Knife Recipe
+patch=1,EE,20409DD0,extended,0009016E
+
+
+//Dragon Slayer Recipe
+patch=1,EE,20409DD0,extended,0009016F
+
+
+//Thief's key recipe
+patch=1,EE,20409DD0,extended,00090170
+
+
+//Morrie's Memo 1
+patch=1,EE,20409DD0,extended,00090171
+
+
+//Morrie's Memo 2
+patch=1,EE,20409DD0,extended,00090172
+
+
+//Morrie's Memo 3
+patch=1,EE,20409DD0,extended,00090173
+
+
+//Monster Arena Key
+patch=1,EE,20409DD0,extended,00090174
+
+
+//Godbird Sceptre
+patch=1,EE,20409DD0,extended,00090175
+
+
+//Gold Card
+patch=1,EE,20409DD0,extended,00090177
+
+
+//Silver Orb
+patch=1,EE,20409DD0,extended,00090178
+
+
+//Red Orb
+patch=1,EE,20409DD0,extended,00090179
+
+
+//Blue Orb
+patch=1,EE,20409DD0,extended,0009017A
+
+
+//Green Orb
+patch=1,EE,20409DD0,extended,0009017B
+
+
+//Yellow Orb
+patch=1,EE,20409DD0,extended,0009017C
+
+
+//Purple Orb
+patch=1,EE,20409DD0,extended,0009017D
+
+
+//Copper Monster Coin
+patch=1,EE,20409DD0,extended,0009017E
+
+
+//Silver Monster Coin
+patch=1,EE,20409DD0,extended,0009017F
+
+
+//Gold Monster Coin
+patch=1,EE,20409DD0,extended,00090180
+
+
+//Flame Shield
+patch=1,EE,20409DD0,extended,00090181
+
+
+//Ice Shield
+patch=1,EE,20409DD0,extended,00090182

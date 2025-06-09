@@ -1,4 +1,4 @@
-gametitle=PES 2011 [UNKNOWN] [DBAAB66D]
+gametitle=PES 2011 [SLES_556.37] [DBAAB66D]
 
 [Always have 9999 PES (after at least 1 match)]
 author=xs1l3n7x(pnach)/UPC(codes)
@@ -299,3 +299,83 @@ author=xs1l3n7x(pnach)/UPC(codes)
 description=Be a legend - Skills don't decrease
 // Be a legend - Skills don't decrease
 patch=1,EE,20A69500,extended,00000000
+
+
+//-----------------------------------------------
+//comment=par Lapersio (UPC)
+//(pal fr-de)
+
+//Toujours avoir 9999 PES au PES shop***
+patch=1,EE,21893CE4,extended,0001869F
+
+//Appuyez sur Select + Haut pour passer aux arrêts de jeu*
+patch=1,EE,D054CDC2,extended,0000FFEE
+patch=1,EE,20263E90,extended,ACA0094C
+
+//Appuyez sur Sélect + Bas pour désactiver le code précédent*
+patch=1,EE,D054CDC2,extended,0000FFBE
+patch=1,EE,20263E90,extended,ACA4094C
+
+//Select + Triangle pour bloquer le chrono
+patch=1,EE,E002EFFE,extended,0054CDC2
+patch=1,EE,D0D2E530,extended,00006E69
+patch=1,EE,20263E84,extended,00000000
+
+//Select + X pour Relancer le Chrono
+patch=1,EE,D054CDC2,extended,0000BFFE
+patch=1,EE,20263E84,extended,2484FFFF
+
+//Select + Droite pour figer le score de l'équipe à domicile à 99 buts**
+patch=1,EE,E006FFDE,extended,0054CDC2
+patch=1,EE,E0036E69,extended,00D2E530
+patch=1,EE,D03E1080,extended,00000000
+patch=1,EE,00D33AE8,extended,00000063
+patch=1,EE,E0036E69,extended,00D2E530
+patch=1,EE,D03E1080,extended,00000001
+patch=1,EE,00D33DDC,extended,00000063
+
+//Select + Gauche pour figer le Score de l'équipe à domicile à 0 but**
+patch=1,EE,E006FF7E,extended,0054CDC2
+patch=1,EE,E0036E69,extended,00D2E530
+patch=1,EE,D03E1080,extended,00000000
+patch=1,EE,00D33AE8,extended,00000000
+patch=1,EE,E0036E69,extended,00D2E530
+patch=1,EE,D03E1080,extended,00000001
+patch=1,EE,00D33DDC,extended,00000000
+
+//Select + O pour figer le score de l'équipe à l'extérieur à 99 buts**
+patch=1,EE,E006DFFE,extended,0054CDC2
+patch=1,EE,E0036E69,extended,00D2E530
+patch=1,EE,D03E1080,extended,00100000
+patch=1,EE,00D33AE8,extended,00000063
+patch=1,EE,E0036E69,extended,00D2E530
+patch=1,EE,D03E1080,extended,00100001
+patch=1,EE,00D33DDC,extended,00000063
+
+//Select + Carré pour figer le score de l'équipe à l'extérieur à 0 but**
+patch=1,EE,E0067FFE,extended,0054CDC2
+patch=1,EE,E0036E69,extended,00D2E530
+patch=1,EE,D03E1080,extended,00100000
+patch=1,EE,00D33AE8,extended,00000000
+patch=1,EE,E0036E69,extended,00D2E530
+patch=1,EE,D03E1080,extended,00100001
+patch=1,EE,00D33DDC,extended,00000000
+
+//9,999,990,000 d'argent en League des Masters
+patch=1,EE,D099C820,extended,0000656C
+patch=1,EE,208D39EC,extended,000F423F
+
+//Votre équipe (League des Masters) Obtiens plus de Points d'expérience
+patch=1,EE,E002656C,extended,0099C820
+patch=1,EE,20B3BFFC,extended,00000000
+patch=1,EE,20B3C000,extended,241003E8
+
+//Vos joueurs (League des Masters) Obtiennent plus de points d'expérience
+patch=1,EE,D099C820,extended,0000656C
+patch=1,EE,20BDF420,extended,0040200A
+
+//Points de création infnis pour le mode Vers une légende
+patch=1,EE,E004AE43,extended,00C55EBA
+patch=1,EE,20A69DF4,extended,0001869F
+patch=1,EE,20A69DF8,extended,0001869F
+patch=1,EE,20A69E00,extended,00000000

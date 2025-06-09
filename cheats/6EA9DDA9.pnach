@@ -1,0 +1,482 @@
+gametitle=Resident Evil Code Veronica X [SLES 50306] (E) [6EA9DDA9]
+comment= by paynssj4
+
+//Inf Health
+patch=1,EE,20448F2C,extended,000000A0
+
+
+//Claire
+
+//Inf Item/Ammo Slot 1
+patch=1,EE,10449BA8,extended,000003E7
+
+//Inf Item/Ammo Slot 2
+patch=1,EE,10449BAC,extended,000003E7
+
+//Inf Item/Ammo Slot 3
+patch=1,EE,10449BB0,extended,000003E7
+
+//Inf Item/Ammo Slot 4
+patch=1,EE,10449BB4,extended,000003E7
+
+//Inf Item/Ammo Slot 5
+patch=1,EE,10449BB8,extended,000003E7
+
+//Inf Item/Ammo Slot 6
+patch=1,EE,10449BBC,extended,000003E7
+
+//Inf Item/Ammo Slot 7
+patch=1,EE,10449BC0,extended,000003E7
+
+//Inf Item/Ammo Slot 8
+patch=1,EE,10449BC4,extended,000003E7
+
+
+//Steve
+
+//Inf Item/ammo Slot 1
+patch=1,EE,10449C28,extended,000003E7
+
+//Inf Item/ammo Slot 2
+patch=1,EE,10449C2C,extended,000003E7
+
+//Inf Item/ammo Slot 3
+patch=1,EE,10449C30,extended,000003E7
+
+//Inf Item/ammo Slot 4
+patch=1,EE,10449C34,extended,000003E7
+
+//Inf Item/ammo Slot 5
+patch=1,EE,10449C38,extended,000003E7
+
+//Inf Item/ammo Slot 6
+patch=1,EE,10449C3C,extended,000003E7
+
+//Inf Item/ammo Slot 7
+patch=1,EE,10449C40,extended,000003E7
+
+//Inf Item/ammo Slot 8
+patch=1,EE,10449C44,extended,000003E7
+
+
+//Chris
+
+//Inf Item/ammo Slot 1
+patch=1,EE,10449BE8,extended,000003E7
+
+//Inf Item/ammo Slot 2
+patch=1,EE,10449BEC,extended,000003E7
+
+//Inf Item/ammo Slot 3
+patch=1,EE,10449BF0,extended,000003E7
+
+//Inf Item/ammo Slot 4
+patch=1,EE,10449BF4,extended,000003E7
+
+//Inf Item/ammo Slot 5
+patch=1,EE,10449BF8,extended,000003E7
+
+//Inf Item/ammo Slot 6
+patch=1,EE,10449BFC,extended,000003E7
+
+//Inf Item/ammo Slot 7
+patch=1,EE,10449C00,extended,000003E7
+
+//Inf Item/ammo Slot 8
+patch=1,EE,10449C04,extended,000003E7
+
+//Always First Save
+patch=1,EE,104499B0,extended,00000000
+
+//No Retries
+patch=1,EE,1044A1DA,extended,00000000
+
+//Low End Time
+patch=1,EE,2044A1D0,extended,00000000
+
+//Unlock Extras
+patch=1,EE,10449934,extended,0000FFFF
+
+//Codes de la boîte..
+//Lance-roquettes
+patch=1,EE,20449CA0,extended,000103E7
+
+//Fusil d'assaut
+patch=1,EE,20449CA4,extended,000203E7
+
+//Fusil de Sniper
+patch=1,EE,20449CA8,extended,000303E7
+
+//Shotgun
+patch=1,EE,20449CAC,extended,000403E7
+
+//Handgun
+patch=1,EE,20449CB0,extended,000503E7
+//tir d'arbalète
+//Grenade Launcher
+patch=1,EE,20449CB4,extended,000603E7
+
+//Lance-grenades
+patch=1,EE,20449CB8,extended,000703E7
+
+//Couteau de Combat
+patch=1,EE,20449CBC,extended,000803E7
+
+//Handgun 2
+patch=1,EE,20449CC0,extended,000903E7
+
+//Custom Handgun
+patch=1,EE,20449CC4,extended,000A03E7
+
+//Linear Launcher
+patch=1,EE,20449CC8,extended,000B03E7
+
+//Main balles de fusil
+patch=1,EE,20449CCC,extended,000C03E7
+
+//Bullets Magnum
+patch=1,EE,20449CD0,extended,000D03E7
+
+//Shotgun ShellsLauncher linéaire
+//Grenade Rounds
+patch=1,EE,20449CD8,extended,000F03E7
+
+//Rounds Acid
+patch=1,EE,20449CDC,extended,001003E7
+
+//Flame Rounds
+patch=1,EE,20449CE0,extended,001103E7
+
+//Bow Gun Arrows
+patch=1,EE,20449CE4,extended,001203E7
+
+//M93R Parts
+patch=1,EE,20449CE8,extended,001303E7
+
+//First Aid Spray
+patch=1,EE,20449CEC,extended,001403E7
+
+//Green Herb
+patch=1,EE,20449CF0,extended,001503E7
+
+//Red Herb
+patch=1,EE,20449CF4,extended,001603E7
+
+//Blue Herb
+patch=1,EE,20449CF8,extended,001703E7
+
+//M-100P
+patch=1,EE,20449CFC,extended,008E03E7
+
+//Enhanced Handgun
+patch=1,EE,20449D00,extended,008303E7
+
+//Boardclip
+patch=1,EE,20449D04,extended,008503E7
+
+//Luger Replica
+patch=1,EE,20449D08,extended,008803E7
+
+//Family Picture
+patch=1,EE,20449D0C,extended,008A03E7
+
+//Magnum Bullets
+patch=1,EE,20449D10,extended,001E03E7
+
+//Ink Ribbon
+patch=1,EE,20449D14,extended,001F03E7
+
+//Magnum
+patch=1,EE,20449D18,extended,002003E7
+
+//Gold Lugers
+patch=1,EE,20449D1C,extended,002103E7
+
+//Sub Machine Gun
+patch=1,EE,20449D20,extended,002203E7
+
+//Bow Gun Powder
+patch=1,EE,20449D24,extended,002303E7
+
+//Gun Powder Arrow
+patch=1,EE,20449D28,extended,002403E7
+
+//BOW Gas Rounds
+patch=1,EE,20449D2C,extended,002503E7
+
+//M. Gun Bullets
+patch=1,EE,20449D30,extended,002603E7
+
+//Gas Mask
+patch=1,EE,20449D34,extended,002703E7
+
+//Rifle Bullets
+patch=1,EE,20449D38,extended,002803E7
+
+//Calico Bullets
+patch=1,EE,20449D3C,extended,008F03E7
+
+//A.Rifle Bullets
+patch=1,EE,20449D40,extended,002A03E7
+
+//Alexander's Pierce
+patch=1,EE,20449D44,extended,002B03E7
+
+//Alexander's Jewel
+patch=1,EE,20449D48,extended,002C03E7
+
+//Alfred's Ring
+patch=1,EE,20449D4C,extended,002D03E7
+
+//Alfred's Jewel
+patch=1,EE,20449D50,extended,002E03E7
+
+//Clement Mixture
+patch=1,EE,20449D54,extended,009003E7
+
+//Crest Key S
+patch=1,EE,20449D58,extended,009803E7
+
+//Crest Key G
+patch=1,EE,20449D5C,extended,009903E7
+
+//Lock Pick
+patch=1,EE,20449D60,extended,003203E7
+
+//Glass Eye
+patch=1,EE,20449D64,extended,003303E7
+
+//Piano Roll
+patch=1,EE,20449D68,extended,003403E7
+
+//Steering Wheel
+patch=1,EE,20449D6C,extended,003503E7
+
+//Crane Key
+patch=1,EE,20449D70,extended,003603E7
+
+//Lighter
+patch=1,EE,20449D74,extended,003703E7
+
+//Eagle Plate
+patch=1,EE,20449D78,extended,003803E7
+
+//Side Pack
+patch=1,EE,20449D7C,extended,003903E7
+
+//Map
+patch=1,EE,20449D80,extended,003A03E7
+
+//Hawk Emblem
+patch=1,EE,20449D84,extended,003B03E7
+
+//Queen Ant Object
+patch=1,EE,20449D88,extended,003C03E7
+
+//King Ant Object
+patch=1,EE,20449D8C,extended,003D03E7
+
+//Biohazard Card
+patch=1,EE,20449D90,extended,003E03E7
+
+//Duralumin Case
+patch=1,EE,20449D94,extended,003F03E7
+
+//Detonator
+patch=1,EE,20449D98,extended,004003E7
+
+//Control Lever
+patch=1,EE,20449D9C,extended,004103E7
+
+//Gold Dragonfly
+patch=1,EE,20449DA0,extended,004203E7
+
+//Silver Key
+patch=1,EE,20449DA4,extended,004303E7
+
+//Gold Key
+patch=1,EE,20449DA8,extended,004403E7
+
+//Army Proof
+patch=1,EE,20449DAC,extended,004503E7
+
+//Navy Proof
+patch=1,EE,20449DB0,extended,004603E7
+
+//Air Force Proof
+patch=1,EE,20449DB4,extended,004703E7
+
+//Key With Tag
+patch=1,EE,20449DB8,extended,004803E7
+
+//ID Card
+patch=1,EE,20449DBC,extended,004903E7
+
+//Map
+patch=1,EE,20449DC0,extended,004A03E7
+
+//Airport Key
+patch=1,EE,20449DC4,extended,004B03E7
+
+//Emblem Card
+patch=1,EE,20449DC8,extended,004C03E7
+
+//Skeleton Picture
+patch=1,EE,20449DCC,extended,004D03E7
+
+//Music Box Plate
+patch=1,EE,20449DD0,extended,004E03E7
+
+//Dragonfly Object
+patch=1,EE,20449DD4,extended,004F03E7
+
+//Album
+patch=1,EE,20449DD8,extended,005003E7
+
+//Halberd
+patch=1,EE,20449DDC,extended,005103E7
+
+//Extinguisher
+patch=1,EE,20449DE0,extended,005203E7
+
+//Briefcase
+patch=1,EE,20449DE4,extended,005303E7
+
+//Padlock Key
+patch=1,EE,20449DE8,extended,005403E7
+
+//TG-01
+patch=1,EE,20449DEC,extended,005503E7
+
+//SP.Alloy Emblem
+patch=1,EE,20449DF0,extended,005603E7
+
+//Valve Handle
+patch=1,EE,20449DF4,extended,005703E7
+
+//Octa Valve Handle
+patch=1,EE,20449DF8,extended,005803E7
+
+//Machine Room Key
+patch=1,EE,20449DFC,extended,005903E7
+
+//Mining Room Key
+patch=1,EE,20449E00,extended,005A03E7
+
+//Barcode Sticker
+patch=1,EE,20449E04,extended,005B03E7
+
+//Sterile Room Key
+patch=1,EE,20449E08,extended,005C03E7
+
+//Door Knob
+patch=1,EE,20449E0C,extended,005D03E7
+
+//Battery Pack
+patch=1,EE,20449E10,extended,005E03E7
+
+//Hemostatic
+patch=1,EE,20449E14,extended,005F03E7
+
+//Turn Table Key
+patch=1,EE,20449E18,extended,006003E7
+
+//Chem.Storage Key
+patch=1,EE,20449E1C,extended,006103E7
+
+//Clement Alpha
+patch=1,EE,20449E20,extended,006203E7
+
+//Clement Sigma
+patch=1,EE,20449E24,extended,006303E7
+
+//Tank Object
+patch=1,EE,20449E28,extended,006403E7
+
+//SP. Alloy Emblem
+patch=1,EE,20449E2C,extended,006503E7
+
+//Alfred's Memo
+patch=1,EE,20449E30,extended,006603E7
+
+//Rusted Sword
+patch=1,EE,20449E34,extended,006703E7
+
+//Hemostatic
+patch=1,EE,20449E38,extended,006803E7
+
+//Security Card
+patch=1,EE,20449E3C,extended,006903E7
+
+//Security File
+patch=1,EE,20449E40,extended,006A03E7
+
+//Alexia's Choker
+patch=1,EE,20449E44,extended,006B03E7
+
+//Alexia's Jewel
+patch=1,EE,20449E48,extended,006C03E7
+
+//Queen Ant Relief
+patch=1,EE,20449E4C,extended,006D03E7
+
+//King And Relief
+patch=1,EE,20449E50,extended,006E03E7
+
+//Red Jewel
+patch=1,EE,20449E54,extended,006F03E7
+
+//Blue Jewel
+patch=1,EE,20449E58,extended,007003E7
+
+//Socket
+patch=1,EE,20449E5C,extended,007103E7
+
+//Sq. Valve Handle
+patch=1,EE,20449E60,extended,007203E7
+
+//Serum
+patch=1,EE,20449E64,extended,007303E7
+
+//Earthenware Vase
+patch=1,EE,20449E68,extended,007403E7
+
+//Paperweight
+patch=1,EE,20449E6C,extended,007503E7
+
+//Silver Dragonfly
+patch=1,EE,20449E70,extended,007603E7
+
+//Silver Dragonfly 1
+patch=1,EE,20449E74,extended,007703E7
+
+//Wing Object
+patch=1,EE,20449E78,extended,007803E7
+
+//Crystal
+patch=1,EE,20449E7C,extended,007903E7
+
+//Gold Dragonfly
+patch=1,EE,20449E80,extended,007A03E7
+
+//Gold Dragonfly 1
+patch=1,EE,20449E84,extended,007B03E7
+
+//Gold Dragonfly 2
+patch=1,EE,20449E88,extended,007C03E7
+
+//File
+patch=1,EE,20449E8C,extended,007D03E7
+
+//Plant Pot
+patch=1,EE,20449E90,extended,007E03E7
+
+//Picture B
+patch=1,EE,20449E94,extended,007F03E7
+
+//Duralumin Case
+patch=1,EE,20449E98,extended,008003E7
+
+//Duralumin Case
+patch=1,EE,20449E9C,extended,008103E7
+

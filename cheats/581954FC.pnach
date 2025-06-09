@@ -1,0 +1,134 @@
+gametitle=Grand Theft Auto III (PAL)  (SLES_503.30)
+comment=cheated by Lapersio
+
+
+------------------------------------------------------- CODES DE JOUEUR
+
+//Vie Infinie
+patch=1,EE,20B66810,extended,42C80000
+
+//Gillet Pare-balles Infini
+patch=1,EE,20B66814,extended,42C80000
+
+//Argent au maximum
+patch=1,EE,20511928,extended,05F5E0FF
+
+------------------------------------------------------- CODES DE POLICE
+
+//Jamais recherché
+patch=1,EE,202A37B0,extended,00000000
+patch=1,EE,202A3A28,extended,00000000
+patch=1,EE,20415908,extended,00000000
+
+//Pas d'IA pour les policier à pied
+patch=1,EE,201CAEC0,extended,00000000
+patch=1,EE,201CAED4,extended,00000000
+patch=1,EE,201CAEE8,extended,00000000
+patch=1,EE,201CAEFC,extended,00000000
+
+-------------------------------------------------------CODES DE GAMEPLAY
+
+//Désactiver les dommages de voitures
+patch=1,EE,201AE558,extended,00000000
+
+//Voitures transparentes
+patch=1,EE,2027D644,extended,00000000
+
+
+//Bloquer le temps des missions (L2 pour activer et R2 désactiver)
+patch=1,EE,D050A242,extended,0000FEFF
+patch=1,EE,202BE2B8,extended,00000000
+patch=1,EE,D050A242,extended,0000FDFF
+patch=1,EE,202BE2B8,extended,0C0AE548
+
+
+//Pas de véhicules sur la route
+patch=1,EE,2027B1C4,extended,00000000
+patch=1,EE,2027B2B4,extended,00000000
+
+//Pas de piétons
+patch=1,EE,2027B1A8,extended,00000000
+
+//Impossibilité de faire du carjacking
+patch=1,EE,202EC880,extended,03E00008
+patch=1,EE,202EC884,extended,00000000
+
+//Pas de traces de dérapages
+patch=1,EE,2027D020,extended,00000000
+
+//Enlever les ordures 
+patch=1,EE,2027D030,extended,00000000
+
+//Vitesse x2 
+patch=1,EE,20417EC0,extended,40000000
+
+//Vitesse x4 
+patch=1,EE,20417EC0,extended,40800000
+
+//Vitesse x6 
+patch=1,EE,20417EC0,extended,40C00000
+
+//Vitesse x8 
+patch=1,EE,20417EC0,extended,41000000
+
+-------------------------------------------------------CODES D'ARMES
+
+//Toutes les Armes à la Planque
+patch=1,EE,20511930,extended,00000064
+
+//Pistol Ammo 
+patch=1,EE,20B668EC,extended,0000000C
+patch=1,EE,20B668F0,extended,00000034
+
+//Uzi Ammo 
+patch=1,EE,20B66900,extended,00000019
+patch=1,EE,20B66904,extended,00000019
+
+//Grenades Infinies 
+patch=1,EE,20B66F54,extended,0000000A
+
+//Munitions pour fusil à pompe infinies 
+patch=1,EE,20B66914,extended,0000000A
+patch=1,EE,20B66918,extended,0000000A
+//.
+//Munition pour AK47 infinies 
+patch=1,EE,20B66928,extended,0000001E
+patch=1,EE,20B6692C,extended,00000064
+
+
+//Munitions pour M16 Infinies 
+patch=1,EE,20B6693C,extended,00000064
+patch=1,EE,20B66940,extended,00000063
+
+//Munitions pour Sniper Infinies
+patch=1,EE,20B66954,extended,00000032
+
+//Munitions pour Lance-Rockettes Infinies
+patch=1,EE,20B66968,extended,00000032
+
+//Bombes à pétrole Infinies
+patch=1,EE,20B66990,extended,0000000A
+
+//Armes gratuites
+patch=1,EE,203FF6F0,extended,00000000
+patch=1,EE,203FF6F4,extended,00000000
+patch=1,EE,203FF6F8,extended,00000000
+patch=1,EE,203FF6FC,extended,00000000
+patch=1,EE,203FF700,extended,00000000
+patch=1,EE,203FF704,extended,00000000
+patch=1,EE,203FF708,extended,00000000
+patch=1,EE,203FF70C,extended,00000000
+patch=1,EE,203FF710,extended,00000000
+patch=1,EE,203FF714,extended,00000000
+
+//Ne Jamais perdre d'armes
+patch=1,EE,201D8610,extended,03E00008
+patch=1,EE,201D8614,extended,00000000
+
+-------------------------------------------------------CODES DE METEO
+//Empecher le changement de météo 
+patch=1,EE,2027B120,extended,00000000
+
+//Eclipse constante 
+patch=1,EE,20415AD0,extended,FFFF0000
+
