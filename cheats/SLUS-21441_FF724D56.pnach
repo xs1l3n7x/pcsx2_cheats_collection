@@ -1,0 +1,11 @@
+// SLUS-21441 [FF724D56]
+// Dragon Ball Z: Budokai Tenkaichi 2 [Proto]
+
+/////////////////////////////////////////
+
+[Cheats\Enable Yamcha What If Saga]
+author=Hiro Tex
+description=Enable Yamcha's What If Saga to be selected on Dragon Adventure Mode.
+patch=1,EE,204035BC,extended,24080019
+patch=1,EE,20403650,extended,24150019
+patch=1,EE,20363BBC,extended,0023E4B0
