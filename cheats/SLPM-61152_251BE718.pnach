@@ -1,0 +1,275 @@
+// SLPM-61152 [251BE718]
+// Dragon Ball Z: Sparking NEO! Taikenban
+
+/////////////////////////////////////////
+
+[Audio Cheats\Menu US Audios]
+author=Hiro Tex
+description=Use Menu US ADX instead of JP ADX.
+patch=1,EE,2022966C,extended,00D02021
+
+[Audio Cheats\Character US Audios]
+author=Hiro Tex
+description=Use Character US ADX instead of JP ADX.
+patch=1,EE,20273840,extended,AE241008
+
+[Audio Cheats\Story Cutscene US Audios]
+author=Hiro Tex
+description=Use Story Cutscene US ADX instead of JP ADX.
+patch=1,EE,202823f8,extended,248413F6
+
+/////////////////////////////////////////
+
+[Restore Cheats\Restore Full Character Select Roster]
+author=Hiro Tex
+description=Restores the default roster on the Character Select Screen.
+patch=1,EE,203EDB9C,extended,8C62002C
+patch=1,EE,203EDBBC,extended,8C82002C
+
+[Restore Cheats\Restore Full Map Select Roster]
+author=Hiro Tex
+description=Makes all maps selectable on the Map Select Screen.
+patch=1,EE,203f71d8,extended,24020000
+patch=1,EE,203f71dc,extended,24070010
+patch=1,EE,203f71e0,extended,AC870134
+patch=1,EE,203f71e4,extended,10470015
+patch=1,EE,203f71e8,extended,00021880
+patch=1,EE,203f71ec,extended,00641821
+patch=1,EE,203f71f0,extended,AC6200F4
+patch=1,EE,203f71f4,extended,1000FFFB
+patch=1,EE,203f71f8,extended,24420001
+
+[Restore Cheats\Enable Yamcha What If Story]
+author=Hiro Tex
+description=Enables Yamcha What If Story Mode to be selectable.
+patch=1,EE,203FAFBC,extended,24080019
+patch=1,EE,203fb050,extended,24150019
+patch=1,EE,2034e5ac,extended,0022b028
+
+[Restore Cheats\Restore Normal Mode Select Menu Behavior]
+author=Hiro Tex
+description=Makes all Menu options selectable again.
+// Switch Table
+patch=1,EE,202c4240,extended,00392d40
+patch=1,EE,202c4244,extended,00392f70
+patch=1,EE,202c4248,extended,00392f70
+patch=1,EE,202c424c,extended,00392db0
+patch=1,EE,202c4250,extended,00392df8
+patch=1,EE,202c4254,extended,00392e24
+patch=1,EE,202c4258,extended,00392e24
+patch=1,EE,202c425c,extended,00392e24
+patch=1,EE,202c4260,extended,00392f70
+patch=1,EE,202c4264,extended,00392e34
+patch=1,EE,202c4268,extended,00392e34
+patch=1,EE,202c426c,extended,00392e34
+patch=1,EE,202c4270,extended,00392e34
+patch=1,EE,202c4274,extended,00392e34
+patch=1,EE,202c4278,extended,00392e34
+patch=1,EE,202c427c,extended,00392e34
+patch=1,EE,202c4280,extended,00392f70
+patch=1,EE,202c4284,extended,00392f70
+patch=1,EE,202c4288,extended,00392f70
+patch=1,EE,202c428c,extended,00392f70
+patch=1,EE,202c4290,extended,00392f70
+patch=1,EE,202c4294,extended,00392eb4
+patch=1,EE,202c4298,extended,00392eb4
+patch=1,EE,202c429c,extended,00392eb4
+patch=1,EE,202c42a0,extended,00392eb4
+patch=1,EE,202c42a4,extended,00392eb4
+patch=1,EE,202c42a8,extended,00392eb4
+patch=1,EE,202c42ac,extended,00392eb4
+patch=1,EE,202c42b0,extended,00392eb4
+patch=1,EE,202c42b4,extended,00392eb4
+patch=1,EE,202c42b8,extended,00392e44
+patch=1,EE,202c42bc,extended,00392e44
+patch=1,EE,202c42c0,extended,00392e44
+patch=1,EE,202c42c4,extended,00392e44
+patch=1,EE,202c42c8,extended,00392f70
+patch=1,EE,202c42cc,extended,00392f70
+patch=1,EE,202c42d0,extended,00392e54
+patch=1,EE,202c42d4,extended,00392e54
+patch=1,EE,202c42d8,extended,00392e54
+patch=1,EE,202c42dc,extended,00392e54
+patch=1,EE,202c42e0,extended,00392e54
+patch=1,EE,202c42e4,extended,00392f70
+patch=1,EE,202c42e8,extended,00392f70
+patch=1,EE,202c42ec,extended,00392e64
+patch=1,EE,202c42f0,extended,00392e64
+patch=1,EE,202c42f4,extended,00392e64
+patch=1,EE,202c42f8,extended,00392e64
+patch=1,EE,202c42fc,extended,00392f70
+patch=1,EE,202c42fc,extended,00392f70
+patch=1,EE,202c4300,extended,00392e74
+patch=1,EE,202c4304,extended,00392e74
+patch=1,EE,202c4308,extended,00392e74
+patch=1,EE,202c430c,extended,00392e74
+patch=1,EE,202c4310,extended,00392e74
+patch=1,EE,202c4314,extended,00392e84
+patch=1,EE,202c4318,extended,00392e84
+patch=1,EE,202c431c,extended,00392e84
+patch=1,EE,202c4320,extended,00392e84
+patch=1,EE,202c4324,extended,00392f70
+patch=1,EE,202c4328,extended,00392e94
+patch=1,EE,202c432c,extended,00392e94
+patch=1,EE,202c4330,extended,00392f70
+patch=1,EE,202c4334,extended,00392e94
+patch=1,EE,202c4338,extended,00392e94
+patch=1,EE,202c433c,extended,00392e94
+patch=1,EE,202c4340,extended,00392f70
+patch=1,EE,202c4344,extended,00392f70
+patch=1,EE,202c4348,extended,00392ea4
+patch=1,EE,202c434c,extended,00392ea4
+patch=1,EE,202c4350,extended,00392ea4
+patch=1,EE,202c4354,extended,00392ea4
+
+// MenuHandler Switch
+patch=1,EE,20392d1c,extended,2463FFFF
+patch=1,EE,20392d20,extended,2C620046
+patch=1,EE,20392d24,extended,10400092
+patch=1,EE,20392d28,extended,00031080
+patch=1,EE,20392d2c,extended,3C03002C
+patch=1,EE,20392d30,extended,00621821
+patch=1,EE,20392d34,extended,8C634240
+patch=1,EE,20392d38,extended,00600008
+patch=1,EE,20392d3c,extended,00000000
+patch=1,EE,20392d40,extended,16400008
+patch=1,EE,20392d44,extended,00000000
+patch=1,EE,20392d48,extended,0C099CE0
+patch=1,EE,20392d4c,extended,24120001
+patch=1,EE,20392d50,extended,24043215
+patch=1,EE,20392d54,extended,0C09CC0E
+patch=1,EE,20392d58,extended,0000282D
+patch=1,EE,20392d5c,extended,0C040400
+patch=1,EE,20392d60,extended,24044115
+patch=1,EE,20392d64,extended,0C0403F4
+patch=1,EE,20392d68,extended,00000000
+patch=1,EE,20392d6c,extended,0C0E4A60
+patch=1,EE,20392d70,extended,24040002
+patch=1,EE,20392d74,extended,10400005
+patch=1,EE,20392d78,extended,00000000
+patch=1,EE,20392d7c,extended,8E020000
+patch=1,EE,20392d80,extended,24140001
+patch=1,EE,20392d84,extended,1000007A
+patch=1,EE,20392d88,extended,AC540018
+patch=1,EE,20392d8c,extended,0C0403A6
+patch=1,EE,20392d90,extended,0000902D
+patch=1,EE,20392d94,extended,0C09CCFA
+patch=1,EE,20392d98,extended,00000000
+patch=1,EE,20392d9c,extended,0C099CEE
+patch=1,EE,20392da0,extended,24150004
+patch=1,EE,20392da4,extended,8E030000
+patch=1,EE,20392da8,extended,10000071
+patch=1,EE,20392dac,extended,AC750018
+patch=1,EE,20392db0,extended,0C040400
+patch=1,EE,20392db4,extended,24044116
+patch=1,EE,20392db8,extended,0C0E35A0
+patch=1,EE,20392dbc,extended,24040001
+patch=1,EE,20392dc0,extended,10400007
+patch=1,EE,20392dc4,extended,00000000
+patch=1,EE,20392dc8,extended,0C0403A6
+patch=1,EE,20392dcc,extended,00000000
+patch=1,EE,20392dd0,extended,0C099C8C
+patch=1,EE,20392dd4,extended,8EE4E40C
+patch=1,EE,20392dd8,extended,10000065
+patch=1,EE,20392ddc,extended,AEE0E40C
+patch=1,EE,20392de0,extended,0C0403A6
+patch=1,EE,20392de4,extended,00000000
+patch=1,EE,20392de8,extended,8E030000
+patch=1,EE,20392dec,extended,24020001
+patch=1,EE,20392df0,extended,1000005F
+patch=1,EE,20392df4,extended,AC620018
+patch=1,EE,20392df8,extended,0C099CE0
+patch=1,EE,20392dfc,extended,00000000
+patch=1,EE,20392e00,extended,24043218
+patch=1,EE,20392e04,extended,0C09CC0E
+patch=1,EE,20392e08,extended,0000282D
+patch=1,EE,20392e0c,extended,0C040400
+patch=1,EE,20392e10,extended,24044122
+patch=1,EE,20392e14,extended,0C08A0C6
+patch=1,EE,20392e18,extended,00000000
+patch=1,EE,20392e1c,extended,1000FFDB
+patch=1,EE,20392e20,extended,00000000
+patch=1,EE,20392e24,extended,0C0FE622
+patch=1,EE,20392e28,extended,00000000
+patch=1,EE,20392e2c,extended,1000004E
+patch=1,EE,20392e30,extended,00000000
+patch=1,EE,20392e34,extended,0C0F385C
+patch=1,EE,20392e38,extended,00000000
+patch=1,EE,20392e3c,extended,1000004A
+patch=1,EE,20392e40,extended,00000000
+patch=1,EE,20392e44,extended,0C0E8F0C
+patch=1,EE,20392e48,extended,00000000
+patch=1,EE,20392e4c,extended,10000046
+patch=1,EE,20392e50,extended,00000000
+patch=1,EE,20392e54,extended,0C0FD850
+patch=1,EE,20392e58,extended,00000000
+patch=1,EE,20392e5c,extended,10000042
+patch=1,EE,20392e60,extended,00000000
+patch=1,EE,20392e64,extended,0C0E6210
+patch=1,EE,20392e68,extended,00000000
+patch=1,EE,20392e6c,extended,10000040
+patch=1,EE,20392e70,extended,00000000
+patch=1,EE,20392e74,extended,0C0EDCC4
+patch=1,EE,20392e78,extended,00000000
+patch=1,EE,20392e7c,extended,1000003C
+patch=1,EE,20392e80,extended,00000000
+patch=1,EE,20392e84,extended,0C0EEC8A
+patch=1,EE,20392e88,extended,00000000
+patch=1,EE,20392e8c,extended,10000038
+patch=1,EE,20392e90,extended,00000000
+patch=1,EE,20392e94,extended,0C0ECCA8
+patch=1,EE,20392e98,extended,00000000
+patch=1,EE,20392e9c,extended,10000034
+patch=1,EE,20392ea0,extended,00000000
+patch=1,EE,20392ea4,extended,0C0F0A28
+patch=1,EE,20392ea8,extended,00000000
+patch=1,EE,20392eac,extended,1000002E
+patch=1,EE,20392eb0,extended,00000000
+patch=1,EE,20392eb4,extended,0C0F7D1A
+patch=1,EE,20392eb8,extended,00000000
+patch=1,EE,20392ebc,extended,1000002A
+patch=1,EE,20392ec0,extended,00000000
+patch=1,EE,20392f68,extended,54400001
+patch=1,EE,20392f6c,extended,24140001
+patch=1,EE,20392f88,extended,00000000
+patch=1,EE,20392f90,extended,00000000
+
+// MenuHandler After Battle
+patch=1,EE,20392c04,extended,104000AF
+patch=1,EE,20392ec4,extended,30620200
+patch=1,EE,20392ec8,extended,1440FF51
+patch=1,EE,20392ecc,extended,24020017
+patch=1,EE,20392ed0,extended,30620400
+patch=1,EE,20392ed4,extended,1040FF4F
+patch=1,EE,20392ed8,extended,8E040000
+patch=1,EE,20392edc,extended,2403FF7F
+patch=1,EE,20392ee0,extended,8C820014
+patch=1,EE,20392ee4,extended,00431024
+patch=1,EE,20392ee8,extended,AC820014
+patch=1,EE,20392eec,extended,24020043
+patch=1,EE,20392ef0,extended,1000FF48
+patch=1,EE,20392ef4,extended,AC820018
+
+// Restore Battle Types
+patch=1,EE,201017cc,extended,00000000
+
+// Restore Duel Behaviour
+patch=1,EE,203f9248,extended,00000000
+
+[Restore Cheats\Set Early Ultimate Battle Menu]
+author=Hiro Tex
+description=Changes Final Ultimate Battle Menu to its early counterpart.
+patch=1,EE,202c4264,extended,00392eb4
+patch=1,EE,202c4268,extended,00392eb4
+patch=1,EE,202c426c,extended,00392eb4
+patch=1,EE,202c4270,extended,00392eb4
+patch=1,EE,202c4274,extended,00392eb4
+patch=1,EE,202c4278,extended,00392eb4
+patch=1,EE,202c427c,extended,00392eb4
+patch=1,EE,202c4280,extended,00392eb4
+patch=1,EE,202c4284,extended,00392eb4
+patch=1,EE,202c4288,extended,00392eb4
+patch=1,EE,202c428c,extended,00392eb4
+patch=1,EE,202c4290,extended,00392eb4
+
+/////////////////////////////////////////////
