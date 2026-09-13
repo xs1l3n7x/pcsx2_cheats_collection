@@ -341,3 +341,69 @@ author=xs1l3n7x(pnach)/CheatDevicePS2(codes)
 description=All Power-Ups
 // All Power-Ups
 patch=1,EE,2076D808,extended,00000005
+
+[Runtime Costume\Normal Kratos]
+author=NRevenant
+description=Use Normal Kratos runtime costume properties. Enable only one Runtime Costume cheat.
+patch=1,EE,6029CB94,extended,00000000
+patch=1,EE,00020001,extended,000001C4
+
+[Runtime Costume\Chef of War]
+author=NRevenant
+description=Use Chef of War runtime costume properties. Enable only one Runtime Costume cheat.
+patch=1,EE,6029CB94,extended,00000001
+patch=1,EE,00020001,extended,000001C4
+
+[Runtime Costume\Bubbles]
+author=NRevenant
+description=Use Bubbles runtime costume properties. Enable only one Runtime Costume cheat.
+patch=1,EE,6029CB94,extended,00000002
+patch=1,EE,00020001,extended,000001C4
+
+[Runtime Costume\Tycoonius]
+author=NRevenant
+description=Use Tycoonius runtime costume properties. Enable only one Runtime Costume cheat.
+patch=1,EE,6029CB94,extended,00000003
+patch=1,EE,00020001,extended,000001C4
+
+[Runtime Costume\Dairy Bastard]
+author=NRevenant
+description=Use Dairy Bastard runtime costume properties. Enable only one Runtime Costume cheat.
+patch=1,EE,6029CB94,extended,00000004
+patch=1,EE,00020001,extended,000001C4
+
+[Runtime Costume\Ares Armor]
+author=NRevenant
+description=Use Ares Armor runtime costume properties. Enable only one Runtime Costume cheat.
+patch=1,EE,6029CB94,extended,00000005
+patch=1,EE,00020001,extended,000001C4
+
+[Model Costume\Kratos]
+author=NRevenant
+description=Uses default Kratos as model
+patch=1,EE,00336EBC,extended,00000000
+
+[Model Costume\Chef of War]
+author=NRevenant
+description=Uses Chef of War as model
+patch=1,EE,00336EBC,extended,00000001
+
+[Model Costume\Bubbles]
+author=NRevenant
+description=Uses Bubbles as model
+patch=1,EE,00336EBC,extended,00000002
+
+[Model Costume\Tycoonius]
+author=NRevenant
+description=Uses Tycoonius as model
+patch=1,EE,00336EBC,extended,00000003
+
+[Model Costume\Dairy Bastard]
+author=NRevenant
+description=Uses Dairy Bastard as model
+patch=1,EE,00336EBC,extended,00000004
+
+[Model Costume\Ares Armor]
+author=NRevenant
+description=Uses Ares Armor as model
+patch=1,EE,00336EBC,extended,00000005
