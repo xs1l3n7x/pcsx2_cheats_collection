@@ -1,0 +1,31 @@
+// Time Crisis 2
+// Custom file
+
+[Sound Fix in FMV Scenes - Updated 2026]
+author=kozarovv
+description=Sound fix
+patch=1,EE,00154954,word,10000009
+//Skip 1200000 cycles loop - fix audio
+
+[No Guncon Flash]
+author=Souzooka
+description=Removes the flash and fog effect when firing with the Guncon controller.
+// Sudden white flash
+patch=0,EE,20120328,extended,03E00008 // jr ra  // Stub guncon2 flash function
+patch=0,EE,2012032C,extended,00000000 // nop
+
+[Infinite Credits CONFIRMED]
+author=Online
+description=Alt Credits
+patch=1,EE,10482410,extended,00000009
+
+[Infinite Time NOT confirmed]
+author=Online
+description=Alt Time
+patch=1,EE,1064395C,extended,00002E80
+
+[P1 Infinite Health, alternative code CONFIRMED]
+author=Online
+description=Alternative code for P1 infinite Health
+patch=1,EE,10643958,extended,00000004
+
